@@ -1,0 +1,93 @@
+/*　p.css ― 復元版　*/
+/*　原本は Wayback Machine に未保存のため、現存 CSS（all.css / b.css / c.css）の
+　　設計言語と人物ページの class 使用状況から再構成したもの。　*/
+
+/*　よみがなの設定　*/
+
+div.name{
+color:#999;
+font-size:10.5pt;
+letter-spacing:2px;
+margin-top:5px;
+}
+
+/*　肩書きの設定　*/
+
+div.prof{
+color:#009;
+font-size:10.5pt;
+letter-spacing:1px;
+margin:3px 0px 12px 0px;
+}
+
+/*　年譜部分の設定　*/
+
+table.hist{
+table-layout:fixed;
+border-top:4px double #03c;
+border-bottom:2px solid #03c;
+font-size:10.5pt;
+color:#009;
+letter-spacing:1px;
+margin:2px 0px 2px 0px;
+}
+td.hist{
+border-bottom:1px solid #99c;
+padding:2px 5px 2px 5px;
+line-height:150%;
+}
+.hist a:link,.hist a:visited{
+color:#009;
+text-decoration:underline;
+}
+.hist a:hover{
+color:#00c;
+font-weight:bold;
+text-decoration:none;
+}
+.hist a:active{
+color:#009;
+font-weight:normal;
+text-decoration:underline;
+}
+
+/*　エピソードの設定　*/
+
+div.ep1,div.ep{
+color:#009;
+font-size:10.5pt;
+line-height:160%;
+letter-spacing:1px;
+border:1px solid #009;
+margin-bottom:2px;
+padding:10px 15px 10px 15px;
+}
+.ep1 a:link,.ep1 a:visited,
+.ep a:link,.ep a:visited{
+color:#009;
+text-decoration:underline;
+}
+.ep1 a:hover,.ep a:hover{
+color:#fff;
+text-decoration:none;
+background-color:#009;
+}
+
+/*　補記の設定　*/
+
+.c20{
+color:#999;
+font-size:9pt;
+text-align:right;
+}
+.cm{
+color:#999;
+font-size:9pt;
+}
+.book{
+color:#666;
+font-size:9pt;
+}
+.txr{
+text-align:right;
+}

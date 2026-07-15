@@ -1,0 +1,83 @@
+/*　them.css ― 復元版　*/
+/*　原本は Wayback Machine に未保存のため、現存 CSS の設計言語と
+　　テーマページの class 使用状況から再構成したもの。　*/
+
+/*　前書きの設定　*/
+
+div.intro{
+color:#009;
+font-size:10.5pt;
+line-height:170%;
+letter-spacing:1px;
+margin:15px 5px 15px 5px;
+}
+
+/*　見出しの設定　*/
+
+div.tit{
+color:#039;
+font-size:11pt;
+margin-top:20px;
+padding-bottom:2px;
+border-bottom:1px solid #039;
+}
+.tit a:link,.tit a:visited{
+color:#039;
+text-decoration:underline;
+}
+.tit a:hover{
+color:#00c;
+text-decoration:none;
+}
+
+/*　項目テーブルの設定　*/
+
+table.tb,table.tb2{
+table-layout:fixed;
+background-color:#fff;
+margin:2px 0px 8px 0px;
+}
+td.tb,td.tb2{
+color:#369;
+font-size:10pt;
+text-align:center;
+border-width:1px;
+border-style:solid;
+border-color:#ddd #99c #99c #eee;
+background-color:#fff;
+}
+.tb a:link,.tb a:visited,
+.tb2 a:link,.tb2 a:visited{
+color:#369;
+text-decoration:none;
+background-color:#fff;
+width:100%;
+}
+.tb a:hover,.tb2 a:hover{
+color:#fff;
+font-weight:bold;
+text-decoration:none;
+background-color:#039;
+}
+
+/*　ラベル行の設定　*/
+
+div.t_tx{
+color:#009;
+font-size:10pt;
+letter-spacing:1px;
+margin-top:10px;
+}
+
+/*　ムーブの設定　*/
+
+.move1{
+color:#ddd;
+font-size:11pt;
+text-align:right;
+margin:3px 0px 0px 0px;
+}
+.move1 a:link,.move1 a:visited,.move1 a:hover,.move1 a:active{
+color:#ddd;
+text-decoration:none;
+}

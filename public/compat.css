@@ -1,0 +1,37 @@
+/*　互換設定（復元版で追加）　*/
+/*　旧 body leftmargin=0 topmargin=0 の置き換え　*/
+
+body{
+margin:0;
+}
+
+/*　ミラー告知バー（復元版で追加）　*/
+
+div.mirror-note{
+color:#666;
+font-size:9pt;
+text-align:center;
+letter-spacing:1px;
+background-color:#f4f4f8;
+border-bottom:1px solid #99c;
+padding:4px 8px;
+}
+.mirror-note a:link,.mirror-note a:visited{
+color:#039;
+text-decoration:underline;
+}
+
+/*　モバイル対応（復元版で追加）　*/
+/*　デスクトップは原本の 620px 固定のまま。小さい画面だけ幅を可変にする　*/
+
+@media (max-width: 640px){
+table.base,table.base2{
+width:100%;
+}
+body{
+overflow-wrap:break-word;
+}
+span.p1,span.t1{
+width:auto;
+}
+}
