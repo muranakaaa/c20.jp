@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -48,7 +57,7 @@
    "attrs": {
     "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href=\"01a.html\">一覧　（ア）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"01a.html\">一覧　（ア）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E4%25BA%2595%25E4%25B8%258A%2520%25E6%2597%25A5%25E5%258F%25AC\" target=\"_blank\">本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
   },
   {
    "type": "raw",
@@ -57,14 +66,6 @@
     "class": "off"
    },
    "html": "<span class=\"m_r\">エピソード 1</span>調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
   },
   {
    "type": "timeline",
@@ -142,14 +143,6 @@
    ]
   },
   {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
-  },
-  {
    "type": "timeline",
    "rows": [
     {
@@ -213,6 +206,16 @@
      ]
     },
     {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/05/15　　<a href=\"../1932/05nisid.html\">\n西田税暗殺未遂事件</a>"
+      }
+     ]
+    },
+    {
      "cls": "b",
      "cells": [
       {
@@ -258,49 +261,25 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "cm"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "<span class=\"m_y\">語録</span>\n必ずしも目標人物を殺さなくともよい。襲撃を実行すればよい。\n目的を達するに当っては、目標人物以外の者には、たとえ巡査、刑事が暴行を加えるようなことがあっても、\nこちらから発砲するな。それ以外の者に危害を加えてはならない。\nまた、目的を達すると達しないとにかかわらず自殺はするな。\n外見を飾るような派手なやりかたは避けよ。\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "<span class=\"m_b\">エピソード</span>\n調査中。"
+   "html": "<span class=\"m_y\">語録</span>\n私の自伝に「一人一殺」というのがあるが、あれは本屋が勝手につけたもので、\n私が岐阜旅行中、電報であの題名のことを言ってきた。\n私は反対なので返事もしなかった。\n商業政策で仕方がないと思って黙っていた。\nその代わりあの本には私の写真のところに「一殺多生」と書いていれておいた。\n私は「一殺多生」だったのだ。\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "tx"
    },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span>井上日召は本名井上昭といい、群馬県利根郡川場の開業医の三男に生まれた。\n長兄は父親と同じように医師となったが、彼は前橋中学を卒業後、ある専門学校を二年で中退し、満州に渡った。\nこれが明治四十三年のことである。</div>\n<div>井上昭は小学校時代から、ものの善悪の問題について、深く考える性質だった。\n彼は長ずるとともに人生問題について深刻な煩悶をつづけるようになった。</div>\n<div>昭は小学校時代の末ごろから、人はなぜ忠孝を守らなければならないのかと考え、\nその解決がつかずに悩んだこともあった。\n専門学校を中退したのも、当時の教育が彼の疑問に応えてくれなかったからである。</div>\n<div>煩悶した井上昭は満州に渡り、ついで中国本土に移った。</div>\n<div>そこでは商売をやったり、中国人といっしょに支那革命運動に参加したり、\n陸軍情報機関ではたらいたり、いわゆる満州浪人や大陸浪人といわれるものの生活を体験した。\n彼は、ここで「理屈を超えた祖国愛と人生に対する真剣な心構えを得た」といっている。</div>\n<div>井上昭が日本に帰ったのは大正九年のことで、久しぶりに見た祖国の現実は、彼の眼にこう映った。</div>\n<div>「社会主義者の増加、極左翼の暴虐、労働大衆の赤傾、指導階級の狂暴無自覚等々で、\n見聞するに従って極端にこれを憎悪し、呪わしい感情が洪水の如く私の全心に蔽いかぶさっていた」</div>\n<div>井上昭は、中国にいるとき知り合いになった本間憲一郎、木島完之、前田虎雄などと帰国後もつき合っていたが、\n彼らが左翼に対抗して日本主義的な労働運動を考えているとき、井上は、\nまず自分の煩悶を解決したうえ確固たる信念で事にあたらなければだめだと考えて、これを断った。\nそれから彼の修養時代が始まったのである。</div>\n<div>彼は満州にいるとき曹洞宗布教師のもとで参禅したことがあるので、\n故郷の父のもとに帰ると、しきりと坐禅をしたりして思索生活をつづけた。\nあるときは、村の共同墓地の近くにある小屋にひとり籠って坐禅を組んだり、法華経の題目を唱えたりした。\nこうして彼が自分の煩悶解決に到達したのが大正十三年の初夏の頃だった。</div>\n<div>井上が得た信念とは、現在の国家の状態を改造しなければ日本も日本国民も救えないという結論であった。\nそこで彼は、国家改造を成しとげるために、各方面をまわって現在の情勢と、その対策を知るようにつとめた。</div>\n<div>その結果、政党政治家も、特権階級も、財閥も腐敗し、これに宗教団体や御用学者、\n教育家の一群が迎合していると断じた。\n彼は、また、まじめな学者や宗教家、その他、心ある識者は、\nいまにして日本を改革しなければとうてい国家の発展はできないのみならず、危殆に陥ると心配していることも知った。</div>\n<div>一般大衆は深刻な不景気に悩んでいるのに、為政者はこれを座視し、私利私欲にふけっている。\nこんなことでは社会主義的風潮はますますはびこり、国体観念は失われ、\n国民の一部は革命がくるのを期待しているかのようにも彼の眼には映った。</div>\n<div class=\"txr\"><a href=\"../text/ms4syowa.html\">松本清張 「昭和史発掘（４）」</a>\n　Ｐ．２０５<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167106345%2Fqid%3D1147086434%2Fsr%3D1-13%2Fref%3Dsr_1_0_13\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -308,7 +287,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

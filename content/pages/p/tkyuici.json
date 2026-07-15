@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -24,7 +25,7 @@
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <span class=\"now\">人物</span> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -56,7 +57,7 @@
    "attrs": {
     "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href=\"04t.html\">一覧　（タ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"04t.html\">一覧　（タ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=books-jp%26keyword=%25E5%25BE%25B3%25E7%2594%25B0%2520%25E7%2590%2583%25E4%25B8%2580\" target=\"_blank\">本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
   },
   {
    "type": "raw",
@@ -332,7 +333,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div><span class=\"m_b\">引用</span>徳田の指導者的な素質は、あくまでもその行動力にあり、\nその行動の上にいささかも懐疑を残さないところにある。\n彼のバイタリティには野牛のような勇猛性がある一方、人の微笑を誘うユーモア性をもっている。\n彼はあくまでも陽性であった。</div>\n<div>弾圧のきびしい時代には、とかく党員間に陰気な空気がはびこり、\n意気銷沈しがちなのだが、こんな際に徳田のような陽気型の指導者は、みんなに勇気を与え、\n感傷をけし飛ばしてしまう。<span class=\"bar\">―</span>―</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ms2syowa.html\">松本清張 「昭和史発掘（２）」</a>\n　Ｐ．２２８</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>徳田の指導者的な素質は、あくまでもその行動力にあり、\nその行動の上にいささかも懐疑を残さないところにある。\n彼のバイタリティには野牛のような勇猛性がある一方、人の微笑を誘うユーモア性をもっている。\n彼はあくまでも陽性であった。</div>\n<div>弾圧のきびしい時代には、とかく党員間に陰気な空気がはびこり、\n意気銷沈しがちなのだが、こんな際に徳田のような陽気型の指導者は、みんなに勇気を与え、\n感傷をけし飛ばしてしまう。<span class=\"bar\">―</span>―</div>\n<div class=\"txr\"><a href=\"../text/ms2syowa.html\">松本清張 「昭和史発掘（２）」</a>\n　Ｐ．２２８<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167697017%2Fqid%3D1147086156%2Fsr%3D1-6%2Fref%3Dsr_1_2_6\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -340,7 +341,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div><span class=\"m_b\">引用</span>彼は明治三十七年沖縄県那覇に生まれ、\n鹿児島の七高に入ったが、中途退学した。\n酔って地元の新聞社の社長に乱暴したためだ。\n沖縄に帰ると、村の小学校の代用教員をしたり、郡役所の書記になったりした。\nその後上京し、為替貯金局の官吏となり、のち、東京市役所の職員に変った。\n日大の法科に籍はあったが、ほとんど講義には出ず、勤務が終ると、下宿で法律の勉強に取組んだ。</div>\n<div>後年検挙されてから、彼のその時代の法律知識が法廷戦術にずいぶん役立っているし、\n事実、弁護士の肩書があった。</div>\n<div><a href=\"../p/stosihik.html\">堺</a>や荒畑と知り合ったのは大正十年ごろからで、彼は山川均を中心とした水曜会に入った。\n<a href=\"../p/stosihik.html\">堺</a>にすすめられてモスクワの極東民族大会に出席し、帰国してからは、\nコミンテルンの指令で日本共産党の樹立にたずさわった。\nこの極東民族大会を機会に彼はモスクワに行き、<a href=\"../p/stalin.html\">スターリン</a>から、\n<a href=\"../p/lenin_n.html\">レーニン</a>の「国家と革命」に関する講義を聞き、感激している。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ms2syowa.html\">松本清張 「昭和史発掘（２）」</a>\n　Ｐ．２３９</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>彼は明治三十七年沖縄県那覇に生まれ、\n鹿児島の七高に入ったが、中途退学した。\n酔って地元の新聞社の社長に乱暴したためだ。\n沖縄に帰ると、村の小学校の代用教員をしたり、郡役所の書記になったりした。\nその後上京し、為替貯金局の官吏となり、のち、東京市役所の職員に変った。\n日大の法科に籍はあったが、ほとんど講義には出ず、勤務が終ると、下宿で法律の勉強に取組んだ。</div>\n<div>後年検挙されてから、彼のその時代の法律知識が法廷戦術にずいぶん役立っているし、\n事実、弁護士の肩書があった。</div>\n<div><a href=\"../p/stosihik.html\">堺</a>や荒畑と知り合ったのは大正十年ごろからで、彼は山川均を中心とした水曜会に入った。\n<a href=\"../p/stosihik.html\">堺</a>にすすめられてモスクワの極東民族大会に出席し、帰国してからは、\nコミンテルンの指令で日本共産党の樹立にたずさわった。\nこの極東民族大会を機会に彼はモスクワに行き、<a href=\"../p/stalin.html\">スターリン</a>から、\n<a href=\"../p/lenin_n.html\">レーニン</a>の「国家と革命」に関する講義を聞き、感激している。</div>\n<div class=\"txr\"><a href=\"../text/ms2syowa.html\">松本清張 「昭和史発掘（２）」</a>\n　Ｐ．２３９<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167697017%2Fqid%3D1147086156%2Fsr%3D1-6%2Fref%3Dsr_1_2_6\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -348,7 +349,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">おたよりはこちら</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

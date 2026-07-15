@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1944.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1944.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -273,25 +282,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -305,17 +298,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/knobusuk.html\">岸</a>への辞職勧告が暗礁にのりあげたと同様に、\n<a href=\"../p/ymitumas.html\">米内光政</a>の説得も進まなかった。\n海軍省軍務局長岡敬純、大麻唯男、石渡荘太郎がのりだして説得したが、\n<a href=\"../p/ymitumas.html\">米内</a>は他の重臣との約束を守り、入閣要請には決してうなずかなかった。\n<a href=\"../p/ymitumas.html\">米内</a>の背後では、海軍の反<a href=\"../p/thideki.html\">東條</a>の幕僚が説得に負けぬようにネジをまいていた。\n最後に佐藤賢了が<a href=\"../p/ymitumas.html\">米内</a>邸に来て、威圧した。</div>\n<div>「あなたは東條内閣だから入閣しないのではないですか。\nそれともいかなる内閣でも入閣するつもりはないのですか」</div>\n<div>「いかなる内閣であっても入閣するつもりはない」</div>\n<div><a href=\"../p/ymitumas.html\">米内</a>はあっさり答えた。</div>\n<div>ここで<a href=\"../p/thideki.html\">東條</a>の延命策は停滞した。\n十七日夕刻、陸相官邸に、<a href=\"../p/thideki.html\">東條</a>は、富永、佐藤、赤松ら腹心の将校を呼び、対策を打ち合わせた。\n彼らの怒りは深く、「国賊どもを逮捕しろ」という激したことばがなんども吐かれた。\n<a href=\"../p/kkoici.html\">木戸</a>や重臣は君側の奸だ、彼らをはずして直接<a href=\"../p/stenno.html\">天皇</a>を説得しようという案も語られた。\n民間右翼をつかい、<a href=\"../p/knobusuk.html\">岸</a>に圧力をかけ辞表を書かせようという案。\nついで陸軍の兵隊を動かしてのクーデターに近い方法も練られたが、\nそれでは国内の摩擦が大きすぎるという結論が出て沙汰やみとなった。\nところがこの打ち合わせの席に新たな情報がもたらされてから、<a href=\"../p/thideki.html\">東條</a>の意思は急に萎えた。</div>\n<div>その情報というのは、重臣<a href=\"../p/anobuyuk.html\">阿部信行</a>からのもので、\n<a href=\"../p/hkiiciro.html\">平沼</a>邸での重臣会議の結果、挙国一致内閣樹立が必要で、\n一部の閣僚の入替えでは何の役にもたたないという結論をだしたというのであった。\n<a href=\"../p/anobuyuk.html\">阿部</a>の伝言は、「これに抗したのは自分だけで、全員の見解がこれに集約され、\nこの方針のもとに<a href=\"../p/kkoici.html\">木戸</a>から上奏されることになろう」といっていた。\n<a href=\"../1941/tojo_1.html\">東條内閣</a>では人心掌握はできないというのが切り札だともいい、\nはじめから重臣たちは入閣の意思などなかったことも明らかになった。</div>\n<div>部下たちの激怒をよそに、<a href=\"../p/thideki.html\">東條</a>の辞意はかたまった。\n<a href=\"../p/stenno.html\">天皇</a>には重臣の入閣を約束していたのに、それが無理なことが裏づけられたのである。</div>\n<div>「<a href=\"../p/stenno.html\">お上</a>のご信任にこたえられなくなった以上、もうこの地位にとどまることはできぬ」</div>\n<div>そのあと無念そうにつけ加えた。</div>\n<div>「重臣たちの排斥にあって退陣のやむなきに至ったのだ。\nむずかしい改造計画をだしてきて、しかもそれを邪魔するというのだから言語道断な話だ」</div>\n<div>その夜、<a href=\"../p/thideki.html\">東條</a>は、家族に荷物の整理を命じた。\n二年十ヵ月に及ぶ官邸生活は、この住居を自分のものであるかのように錯覚させていたことに気づくと、\n改めて重臣を呪詛することばを吐いた。\nが、これまでと同じように、そこに自省のことばはなかった。</div>\n<div class=\"txr\"><a href=\"../text/hm2tojoh.html\">保阪正康 「東條英機と天皇の時代（下）」</a>\n　Ｐ．１７５<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%259D%25B1%25E6%25A2%259D%25E8%258B%25B1%25E6%25A9%259F%25E3%2581%25A8%25E5%25A4%25A9%25E7%259A%2587%25E3%2581%25AE%25E6%2599%2582%25E4%25BB%25A3\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -323,7 +308,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

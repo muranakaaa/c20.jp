@@ -1,26 +1,35 @@
 {
  "path": "1915/0121kaj.html",
  "type": "article",
- "title": "対華２１か条要求　／ クリック ２０世紀",
+ "title": "対華２１ヵ条要求　／ クリック ２０世紀",
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1915.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1915.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
-   "html": "対華２１か条要求"
+   "html": "対華２１ヵ条要求"
   },
   {
    "type": "title2",
@@ -33,7 +42,7 @@
   {
    "type": "headline",
    "cells": [
-    "大戦のどさくさに紛れて中国に２１か条を要求、世界中から反発と顰蹙を買った。"
+    "大戦のどさくさに紛れて中国に２１ヵ条を要求、世界中から反発と顰蹙を買った。"
    ]
   },
   {
@@ -93,7 +102,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1915/01/18　　<a 1915=\"\" href\"..=\"\" 0121kaj.html\"=\"\">\n対華２１か条要求</a>　（外相：<a href=\"../p/ktakaaki.html\">加藤高明</a>）"
+       "html": "1915/01/18　　<a 1915=\"\" href\"..=\"\" 0121kaj.html\"=\"\">\n対華２１ヵ条要求</a>　（外相：<a href=\"../p/ktakaaki.html\">加藤高明</a>）"
       }
      ]
     },
@@ -103,7 +112,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1915/02/15　　<a href=\"../1915/02bakur.html\">\nシカゴ・ヘラルド、対華２１か条要求の全条項を暴露</a>"
+       "html": "1915/02/15　　<a href=\"../1915/02bakur.html\">\nシカゴ・ヘラルド、対華２１ヵ条要求の全条項を暴露</a>"
       }
      ]
     },
@@ -113,7 +122,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1915/02/20　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ、対華２１か条要求の秘密条項（第５号）について問い合わせ</a>"
+       "html": "1915/02/20　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ、対華２１ヵ条要求の秘密条項（第５号）について問い合わせ</a>"
       }
      ]
     },
@@ -123,7 +132,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1915/03/16　　<a href\"..=\"\" 19.html\"=\"\">\nブライアン（米）国務長官、対華２１か条要求の一部に不同意を表明</a>"
+       "html": "1915/03/16　　<a href\"..=\"\" 19.html\"=\"\">\nブライアン（米）国務長官、対華２１ヵ条要求の一部に不同意を表明</a>"
       }
      ]
     },
@@ -133,7 +142,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1915/04/26　　<a href\"..=\"\" 19.html\"=\"\">\n対華２１か条要求最終修正案を中国政府に提出</a>"
+       "html": "1915/04/26　　<a href\"..=\"\" 19.html\"=\"\">\n対華２１ヵ条要求最終修正案を中国政府に提出</a>"
       }
      ]
     },
@@ -143,7 +152,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1915/05/01　　<a href\"..=\"\" 19.html\"=\"\">\n中国政府、対華２１か条要求最終修正案を拒否　（最終対案を提示）</a>"
+       "html": "1915/05/01　　<a href\"..=\"\" 19.html\"=\"\">\n中国政府、対華２１ヵ条要求最終修正案を拒否　（最終対案を提示）</a>"
       }
      ]
     },
@@ -173,7 +182,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1915/05/09　　<a href\"..=\"\" 19.html\"=\"\">\n中国政府、対華２１か条要求を受諾　（中国で国辱記念日となる）</a>"
+       "html": "1915/05/09　　<a href\"..=\"\" 19.html\"=\"\">\n中国政府、対華２１ヵ条要求を受諾　（中国で国辱記念日となる）</a>"
       }
      ]
     },
@@ -206,6 +215,16 @@
        "html": "1919/06/28　　<a href=\"../1919/06versa.html\">\nベルサイユ条約調印</a>　（北京政府、調印拒否）"
       }
      ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/02/06　　<a href=\"../1922/029koku.html\">\n九ヵ国条約調印</a>"
+      }
+     ]
     }
    ]
   },
@@ -213,25 +232,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "pt"
    },
-   "html": "\n<div class=\"pt_h\">～　目的は１つ　～</div>\n<div class=\"i2\">旅順・大連と満鉄は中国からの借り物、返還期限を延ばしたかった</div>\n<div class=\"i20\">＋元老・軍部・財界などからの要求　→ ２１か条</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+   "html": "\n<div class=\"pt_h\">～　目的は１つ　～</div>\n<div class=\"i2\">旅順・大連と満鉄は中国からの借り物、返還期限を延ばしたかった</div>\n<div class=\"i25\">＋元老・軍部・財界などからの要求　→ ２１ヵ条</div>\n"
   },
   {
    "type": "raw",
@@ -245,9 +248,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>一九一四年、<a href=\"../1914/07taise.html\">第一次世界大戦が始まった時</a>、日本は連合国側に加担し、\nヨーロッパの戦場では戦わず、東アジアや太平洋地域のドイツの植民地を奪った（そして、\n他の同盟国にはそうさせないようにした）。\nこれらの戦利品の最大のものは、<a href=\"../1914/09cinta.html\">山東省のドイツの支配領域</a>で、青島の重要な軍港と貿易港を含んでいた。</div>\n<div>そこで、日本軍は、ドイツ軍と大戦中唯一の地上戦をした。\nしかも、カイゼルの小さな守備隊と戦い、ほんのわずかな代償を払っただけで、\n無気力になった中国本土の要地<span class=\"bar\">―</span>―孔子の故地に、根拠を築いた。</div>\n<div>一九一五年一月、ヨーロッパ大陸での戦いがヨーロッパの植民地宗主国に出血を強いている時、\n日本政府はますます大きな試み<span class=\"bar\">―</span>―全中国に対する独占的支配を企んだ。\n日本政府は、独裁者<a href=\"../p/enseigai.html\">袁世凱</a>に、最後通牒をもって「二十一ヵ条要求」をつきつけた。\nその用紙には大砲の絵がすかし模様で書かれていた。\n服従しないなら、武力がものを言うぞ、という威嚇である。</div>\n<div><a href=\"../p/enseigai.html\">袁</a>はいくらかの外交的駆け引きをした後、もし要求を十分に呑んだら東京の保護国におとしめられてしまう、\nこれらの不当な強要の前に腰を屈した。\n彼の心は国家の存亡にあったのではなく、彼みずからの戴冠への企みにあった。</div>\n<div class=\"txr\"><a href=\"../text/ie1souke.html\">イスラエル・エプシュタイン 「宋慶齢（上）」</a>\n　Ｐ．７１</div>\n"
   },
   {
    "type": "raw",
@@ -255,19 +258,25 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>一九一五年一月、日本は中華民国大総統<a href=\"../p/enseigai.html\">袁世凱</a>に対して、二十一ヵ条の要求をつきつけた。\n山東におけるドイツの権益処分、南満州の既得権益を二十五年から九十九年に延長、中国の政治、財政、軍事に日本人を顧問とする、\n必要な地方における警察を日華合同とするなどという途方もない要求だった。</div>\n<div>この二十一ヵ条要求は、<a href=\"../1914/okum2_1.html\">大隈重信内閣</a>によるものだったが、日本と中国との不幸な関係は、\nじつはこのときに始まったといっていいのである。\nこの二十一ヵ条要求ほど、心ある中国人を憤激させたものはなかったし、それが二十数年後の戦争の伏線ともなったのだ。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/mt_yuhit.html\">三好徹 「夕陽と怒濤」</a>\n　Ｐ．２２</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>一九一五年一月、日本は中華民国大総統<a href=\"../p/enseigai.html\">袁世凱</a>に対して、二十一ヵ条の要求をつきつけた。\n山東におけるドイツの権益処分、南満州の既得権益を二十五年から九十九年に延長、中国の政治、財政、軍事に日本人を顧問とする、\n必要な地方における警察を日華合同とするなどという途方もない要求だった。</div>\n<div>この二十一ヵ条要求は、<a href=\"../1914/okum2_1.html\">大隈重信内閣</a>によるものだったが、日本と中国との不幸な関係は、\nじつはこのときに始まったといっていいのである。\nこの二十一ヵ条要求ほど、心ある中国人を憤激させたものはなかったし、それが二十数年後の戦争の伏線ともなったのだ。</div>\n<div class=\"txr\"><a href=\"../text/mt_yuhit.html\">三好徹 「夕陽と怒濤」</a>\n　Ｐ．２２<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%259D%25BE%25E5%25B2%25A1%25E6%25B4%258B%25E5%258F%25B3%25E2%2580%2595%25E5%25A4%2595%25E9%2599%25BD%25E3%2581%25A8%25E6%2580%2592%25E6%25BF%25A4%2520%2520%2520%2520%25E4%25BA%25BA%25E7%2589%25A9%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
-   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n<br>「対華２１ヵ条要求」は「２１ヶ条要求」「２１カ条要求」「２１か条要求」「二十一ヵ条要求」「二十一ヶ条要求」「二十一カ条要求」「二十一か条要求」と同じ意味です。\n"
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",
-   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1915.html\">１９１５年</a>\n ＞ <a href=\"#h\">対華２１か条要求</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1915.html\">１９１５年</a>\n ＞ <a href=\"#h\">対華２１ヵ条要求</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
   }
  ]
 }

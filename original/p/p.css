@@ -49,23 +49,29 @@ text-decoration:none;
 background-color:#fff;
 }
 
+/*　マージンボトムの調整　*/
+
+table.line{
+margin:2px 0px 18px 0px;
+}
+
 /*　リンクテーブルの設定　*/
 
 table.lt{
-margin:8px 1px 0px 12px;
+margin:8px 1px 18px 12px;
 border-width:1px 2px 2px 1px;
 border-color:#039;
 border-style:solid;
 }
 
-/*　エピソード、語録の設定　*/
+/*　エピソードの設定　*/
 
 div.ep1{
 color:#009;
 font-size:10.5pt;
 line-height:160%;
 letter-spacing:1px;
-margin:15px 0px 0px 0px;
+margin:15px 0px 18px 0px;
 padding:12px 15px 10px 17px;
 border:5px ridge #f3f;
 }
@@ -74,18 +80,9 @@ color:#009;
 font-size:10.5pt;
 line-height:160%;
 letter-spacing:1px;
-margin:0px 0px 0px 0px;
+margin:0px 0px 18px 0px;
 padding:10px 15px 10px 15px;
 border:3px ridge #36f;
-}
-div.cm{
-color:#300;
-font-size:10.5pt;
-line-height:160%;
-letter-spacing:1px;
-margin:0px 0px 0px 0px;
-padding:10px 15px 10px 15px;
-border:3px ridge #993;
 }
 .ep1 a:link,.ep1 a:visited,
 .ep a:link,.ep a:visited{
@@ -103,24 +100,15 @@ text-decoration:underline;
 background-color:#fff;
 }
 
-.cm a:link,.cm a:visited{
-color:#300;
-text-decoration:underline;
-}
-.cm a:hover{
-color:#fff;
-text-decoration:none;
-background-color:#300;
-}
-.cm a:active{
-color:#300;
-text-decoration:underline;
-background-color:#fff;
-}
-
 /*　テキストスペースの設定　*/
 
 .tx{
-padding:15px 15px 8px 15px;
+padding:15px 15px 12px 18px;
 }
+
+
+
+
+
+
 

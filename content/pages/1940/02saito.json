@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1940.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1940.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -203,25 +212,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -235,17 +228,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>一九四〇年（昭和15）二月、<a href=\"../p/stakao.html\">斎藤隆夫</a>は再び演台に立った。\n小柄でもの静かな村夫子の風貌ながら、その演説は暗夜の雷明のごとくである。\nすでに二年半、十万の犠牲を出している支那事変という「聖戦」の欺瞞を彼は衝いた。\n「我が国民は実に従順であります。\n悲憤の涙を流しながらも黙々として、政府の統制に服従するのは何が為であるか。\n政府が適当に事変を解決して呉れるであろう。これを期待して居るが為である。\n・・・・・・然るに、歴代の政府は何を為したか。\nこの二年有半の間に於て三度内閣が辞職をする、政局の安定すら得られない。\n斯う言うことで、どうして此の困難に当ることが出来るのであるか」。\n議場は興奮し、<a href=\"../p/ahitosi.html\">芦田</a>は体がふるえるほど感動した。\n両政党は<a href=\"../p/stakao.html\">斎藤</a>の立場を支持し結集して軍部支配をはね返すべきだと<a href=\"../p/ahitosi.html\">芦田</a>は信じた。\nしかし、事実は逆であった。\n<a href=\"../p/stakao.html\">斎藤議員</a>に対する懲罰動議が提出され、両党の多数がそれに追随した。\nこれを許せば、政党政治の終焉を意味する。\n真実を語る<a href=\"../p/stakao.html\">斎藤</a>を失ってはならない。\n<a href=\"../p/ahitosi.html\">芦田</a>は「ひとりになっても反対する」と起ち上がった。\n懸命の戦った末、<a href=\"../p/ahitosi.html\">芦田</a>は二九六対七で惨敗した。\nそのうえ青票を投じた<a href=\"../p/ahitosi.html\">芦田</a>や牧野良三ら五名は、党議拘束を破った科で政友会から除名処分を受けた。\n七名のあからさまな反乱者のほかに、<a href=\"../p/stakao.html\">斎藤</a>除名に反対して欠席した議員が一四〇名もいた。\nこのときに欠席したため離党勧告を受け、それを拒否して除名処分を受けた社会大衆党員には、\n<a href=\"../p/ktetu.html\">片山哲</a>、<a href=\"../p/nsuehiro.html\">西尾末広</a>、水谷長三郎、鈴木文治ら八名がいた。\n戦後の<a href=\"../p/ktetu.html\">片山</a>と<a href=\"../p/ahitosi.html\">芦田</a>の連立内閣は、いわば斎藤<a href=\"../1940/02saito.html\">反軍演説</a>に殉じた者の同窓会と見ることも可能である\n（皮肉なことに、その時点で<a href=\"../p/stakao.html\">斎藤</a>自身は吉田自由党との連携に走るが）。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/im_senry.html\">五百旗頭真 「占領期」</a>\n　Ｐ．３４４</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>一九四〇年（昭和15）二月、<a href=\"../p/stakao.html\">斎藤隆夫</a>は再び演台に立った。\n小柄でもの静かな村夫子の風貌ながら、その演説は暗夜の雷明のごとくである。\nすでに二年半、十万の犠牲を出している支那事変という「聖戦」の欺瞞を彼は衝いた。\n「我が国民は実に従順であります。\n悲憤の涙を流しながらも黙々として、政府の統制に服従するのは何が為であるか。\n政府が適当に事変を解決して呉れるであろう。これを期待して居るが為である。\n・・・・・・然るに、歴代の政府は何を為したか。\nこの二年有半の間に於て三度内閣が辞職をする、政局の安定すら得られない。\n斯う言うことで、どうして此の困難に当ることが出来るのであるか」。\n議場は興奮し、<a href=\"../p/ahitosi.html\">芦田</a>は体がふるえるほど感動した。\n両政党は<a href=\"../p/stakao.html\">斎藤</a>の立場を支持し結集して軍部支配をはね返すべきだと<a href=\"../p/ahitosi.html\">芦田</a>は信じた。\nしかし、事実は逆であった。\n<a href=\"../p/stakao.html\">斎藤議員</a>に対する懲罰動議が提出され、両党の多数がそれに追随した。\nこれを許せば、政党政治の終焉を意味する。\n真実を語る<a href=\"../p/stakao.html\">斎藤</a>を失ってはならない。\n<a href=\"../p/ahitosi.html\">芦田</a>は「ひとりになっても反対する」と起ち上がった。\n懸命の戦った末、<a href=\"../p/ahitosi.html\">芦田</a>は二九六対七で惨敗した。\nそのうえ青票を投じた<a href=\"../p/ahitosi.html\">芦田</a>や牧野良三ら五名は、党議拘束を破った科で政友会から除名処分を受けた。\n七名のあからさまな反乱者のほかに、<a href=\"../p/stakao.html\">斎藤</a>除名に反対して欠席した議員が一四〇名もいた。\nこのときに欠席したため離党勧告を受け、それを拒否して除名処分を受けた社会大衆党員には、\n<a href=\"../p/ktetu.html\">片山哲</a>、<a href=\"../p/nsuehiro.html\">西尾末広</a>、水谷長三郎、鈴木文治ら八名がいた。\n戦後の<a href=\"../p/ktetu.html\">片山</a>と<a href=\"../p/ahitosi.html\">芦田</a>の連立内閣は、いわば<a href=\"../p/stakao.html\">斎藤</a><a href=\"../1940/02saito.html\">反軍演説</a>に殉じた者の同窓会と見ることも可能である\n（皮肉なことに、その時点で<a href=\"../p/stakao.html\">斎藤</a>自身は吉田自由党との連携に走るが）。</div>\n<div class=\"txr\"><a href=\"../text/im_senry.html\">五百旗頭真 「占領期」</a>\n　Ｐ．３４４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%258D%25A0%25E9%25A0%2598%25E6%259C%259F%25E2%2580%2595%25E9%25A6%2596%25E7%259B%25B8%25E3%2581%259F%25E3%2581%25A1%25E3%2581%25AE%25E6%2596%25B0%25E6%2597%25A5%25E6%259C%25AC\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -253,7 +238,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

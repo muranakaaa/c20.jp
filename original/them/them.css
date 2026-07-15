@@ -44,7 +44,7 @@ color:#009;
 font-size:10pt;
 line-height:160%;
 letter-spacing:1px;
-margin-bottom:2px;
+margin:6px 0px 6px 0px;
 padding:8px 0px 20px 0px;
 }
 .intro a:link,.intro a:visited{
@@ -93,7 +93,7 @@ color:#009;
 font-size:10.5pt;
 line-height:170%;
 letter-spacing:1px;
-margin:5px 0px 2px 0px;
+margin:5px 0px 10px 0px;
 }
 .t_tx a:link,.t_tx a:visited{
 color:#009;
@@ -155,3 +155,11 @@ border-color:#ddd #99c #99c #eee;
 background-color:#888;
 padding:2px 0px 2px 0px;
 }
+
+/*　リンクの強調表現　*/
+
+.t_tx a:link,.t_tx a:visited{
+color#f00;
+background-color#ff0;
+}
+

@@ -3,6 +3,7 @@
 table.headline{
 table-layout:fixed;
 border:6px outset #fff;
+width:100%;
 }
 td.headline{
 color:#039;
@@ -60,6 +61,7 @@ table-layout:fixed;
 border:6px outset #fff;
 background-color:#fff;
 margin:0px 0px 0px 0px;
+width:100%;
 }
 td.cl{
 text-align:center;

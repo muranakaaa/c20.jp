@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1935.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1935.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -73,7 +82,17 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1934/10/01　　<a href\"..=\"\" 19.html\"=\"\">\n陸軍省「国防の本義とその強化の提唱（陸軍パンフレット）」発行</a>"
+       "html": "1933/04/22　　<a href=\"../1933/04takig.html\">\n滝川事件</a>　（<a href=\"../p/hiciro.html\">鳩山文相</a>、滝川教授の辞職を京都帝大総長に要求）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/10/01　　<a href=\"../1934/10rikup.html\">\n陸軍パンフレット「国防の本義と其強化の提唱」発行</a>"
       }
      ]
     },
@@ -113,7 +132,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1935/07/16　　<a href=\"../1935/07masak.html\">\n真崎教育総監罷免</a>　（後任：「統制派」<a href=\"../p/wjotaro.html\">渡辺錠太郎</a>）"
+       "html": "1935/07/15　　<a href=\"../1935/07masak.html\">\n真崎教育総監更迭</a>　（後任：「統制派」<a href=\"../p/wjotaro.html\">渡辺錠太郎</a>）"
       }
      ]
     },
@@ -133,7 +152,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1935/08/12　　<a href=\"../1935/08aizaw.html\">\n相沢事件　（永田軍務局長斬殺）</a>"
+       "html": "1935/08/12　　<a href=\"../1935/08aizaw.html\">\n相沢事件</a>　（<a href=\"../p/ntetuzan.html\">永田軍務局長</a>斬殺）"
       }
      ]
     },
@@ -173,14 +192,6 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
@@ -189,33 +200,65 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "tx"
    },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\n高校生の頃、taroは天皇機関説問題がさっぱり理解できなかった。\nだから、ここで昔の自分に対して解説を試みてみよう。\nまず<a href=\"../p/mtatukic.html\">美濃部博士</a>の天皇機関説から。これはわかりやすく言えば、国家を人体にたとえ、天皇をその頭（元首）にたとえて、\nつまり天皇というのは国家の機関の一つなのだとすることで、明治憲法を合理化しようとしたもので、\n大正期にはすでに定説になっていた。次に、そんな天皇機関説をバッシングした人たちの気持ちを考えてみるといい。\nまず“天皇親政”の名の下に軍部独裁を企む人たちにとってこの学説はじゃまっけだった。\n<a href=\"../p/mtatukic.html\">美濃部</a>の師匠にあたる<a href=\"../p/ikitokur.html\">一木喜徳郎</a>に、狙っていた枢密院議長の座をさらわれた右翼のボス<a href=\"../p/hkiiciro.html\">平沼騏一郎</a>にとっても、\n<a href=\"../p/mtatukic.html\">美濃部</a>を叩くことは<a href=\"../p/ikitokur.html\">一木</a>を叩くと同じだから非常に好都合。\nそれから海軍の軍艦派（軍備拡張派）の人たち。彼らにとって<a href=\"../p/mtatukic.html\">美濃部</a>は、統帥権干犯問題のときに浜口内閣を支持したにっくき相手だ、\nここぞとばかり叩いただろう。\n最後に、なんとなく日本を特別な国と思いたい人たちにとっても、やっぱり天皇機関説批判は好ましいことだった。\nで、<a href=\"../p/mtatukic.html\">美濃部</a>バッシングというわけ。どうだい？　わかったかな、taroくん。\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "tx_sw"
+    "class": "cm"
    },
-   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+   "html": "<span class=\"m_y\">語録</span>\n政府は手を変え品を変えて<a href=\"../p/mtatukic.html\">父</a>にこういう態度に出るべきことを勧奨した。\n四面楚歌の中にあって<a href=\"../p/mtatukic.html\">父</a>は一歩も退かなかった。\n自分の憲法学説の正しいことをあくまでも確信し、少しの疑いも差し挿まなかった。\n自分の学説の誤りを認めたり公職を辞するなど思いもよらないことであった。\n<a href=\"../p/mtatukic.html\">父</a>は政府側からくるあらゆる勧奨をはねつけた。\n<div class=\"r\">美濃部亮吉</div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "<span class=\"m_y\">語録</span>\n憲法第四条にある、天皇は国家の元首という言葉は、いうまでもなく機関説である。\nもし機関説を否定することになれば憲法を改正しなければならぬ。\n<div class=\"r\"><a href=\"../p/stenno.html\">昭和天皇</a></div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "<span class=\"m_y\">語録</span>\n<a href=\"../p/mtatukic.html\">美濃部</a>のことをかれこれ言うけれども、<a href=\"../p/mtatukic.html\">美濃部</a>は決して不忠の者ではないと自分は思う。\n今日、<a href=\"../p/mtatukic.html\">美濃部</a>ほどの人が、一体何人日本におるか。\n<div class=\"r\"><a href=\"../p/stenno.html\">昭和天皇</a></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "cm"
+   },
+   "html": "<span class=\"m_y\">語録</span>\n機関と云う言葉が悪いと云う世論であるが、自分は悪いと断定する必要はないと思う。\n御勅諭の中に「朕ヲ頭首ト仰キ」と仰せられている。頭首とは有機体たる人間の一機関である。\n天皇を機関と仰ぎ奉ると思えば何の不都合もないではないか。\n機関説排撃国体明徴と余り騒ぎ廻ること、殊に軍人が騒ぐのはいけない。\n<div class=\"r\"><a href=\"../p/wjotaro.html\">渡辺錠太郎</a>　（軍事参議官）</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "cm"
+   },
+   "html": "<span class=\"m_y\">語録</span>\n機関説事件でウルトラ・タカ派の役を演じた軍のいわゆる「皇道派」は、<a href=\"../1936/02226ji.html\">二・二六事件</a>で\nその勢力を失うことになる。しかし、それに代って軍の\n・・・・・・したがって日本の政治全体の支配権を握ったといわれる「統制派」が、\n政治の軍国主義化ないしファッショ化の大勢をすこしでも抑制したわけではない。むしろ反対である。\n機関説事件と<a href=\"../1936/02226ji.html\">二・二六事件</a>を経て、日本の軍国主義化とファッショ化は、\nいよいよ促進されたと見るべきである。\n<div class=\"r\">宮沢俊義　（憲法学者）</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>そもそも天皇機関説問題を攻撃する背後には<a href=\"../p/hkiiciro.html\">平沼騏一郎</a>（枢密院副議長）の策動があった。</div>\n<div><a href=\"../p/hkiiciro.html\">平沼</a>の狙いは敵本主義で、<a href=\"../p/mtatukic.html\">美濃部</a>の追落しを、天皇機関説遵奉者と目されている<a href=\"../p/ikitokur.html\">一木喜徳郎枢府議長</a>と\n金森徳次郎法制局長官の失脚に及ぼし、これによって<a href=\"../p/hkiiciro.html\">平沼</a>自身が枢府議長に昇格し、\nその勢力を宮廷、重臣間に伸ばそうというにあった。\n狙いの二は、法制局長官辞職の責任により<a href=\"../1934/okada_1.html\">岡田内閣</a>を倒すにあった。</div>\n<div class=\"txr\"><a href=\"../text/ms7syowa.html\">松本清張 「昭和史発掘（７）」</a>\n　Ｐ．１８０<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F416710637X%2Fqid%3D1147086646%2Fsr%3D1-21%2Fref%3Dsr_1_0_21\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>国民は天皇機関説や国体明徴にはさっぱり関心がなかった。\n国家存亡の危急とばかりに昂奮しているのは軍部、在郷軍人会、政党、右翼の一部だけであった。</div>\n<div>だが、こうした軍人でも、単純に天皇尊崇の観念から天皇機関説に反対している「純粋」派と、\nこれを部内の派閥争いや倒閣運動に利用する「政治」派があったのはいうまでもない。</div>\n<div>「純粋」派は隊付の陸軍青年将校、飛行機や艦に乗っている海軍将校に多く、\nまた一般在郷軍人の多くもそうだった。\nそして彼らを利用する「政治」派は部内の反主流派ともいうべき皇道派、艦隊派に多く、\nまた、在郷軍人会では小林順一郎の三六倶楽部がそれにあたった。</div>\n<div class=\"txr\"><a href=\"../text/ms7syowa.html\">松本清張 「昭和史発掘（７）」</a>\n　Ｐ．１９９<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F416710637X%2Fqid%3D1147086646%2Fsr%3D1-21%2Fref%3Dsr_1_0_21\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -223,7 +266,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

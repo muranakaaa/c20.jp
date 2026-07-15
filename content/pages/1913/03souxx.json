@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1913.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1913.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -53,7 +62,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1905/08/20　　<a href\"..=\"\" 19.html\"=\"\">\n孫文ら、中国革命同盟会結成　（東京）</a>"
+       "html": "1905/08/20　　<a href=\"../1905/08c_dom.html\">\n孫文ら、中国同盟会結成</a>　（東京）"
       }
      ]
     },
@@ -213,25 +222,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -245,17 +238,25 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/soukyoji.html\">宋教仁</a>は共和政体（かたちの上だけでも）を利用して\n議会の多数党で<a href=\"../p/enseigai.html\">袁世凱</a>を抑えようとし、国民党を組織した（理事長<a href=\"../p/sonbun.html\">孫文</a>）。\n一九一三年（大正二年）二月の総選挙では国民党だけでも三百九十二人の議員が当選し、<a href=\"../p/enseigai.html\">袁</a>の与党を圧した。\n<a href=\"../p/soukyoji.html\">宋</a>の体当り的な活躍がみのったのである。</div>\n<div>ところが、その総選挙後一ヵ月余の三月二十日、<a href=\"../p/soukyoji.html\">宋教仁</a>は<a href=\"../p/enseigai.html\">袁世凱</a>の放った刺客のために上海停車場で黄興と\n話しているところを射殺された。犯人は逃走した。<a href=\"../p/soukyoji.html\">宋</a>は三十二歳の若さであった。</div>\n<div><a href=\"../p/enseigai.html\">袁世凱</a>は<a href=\"../p/sonbun.html\">孫文</a>より<a href=\"../p/soukyoji.html\">宋教仁</a>をおそれていた。</div>\n<div class=\"txr\"><a href=\"../text/ms8syowa.html\">松本清張 「昭和史発掘（８）」</a>\n　Ｐ．２５４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167106388%2Fqid%3D1147086646%2Fsr%3D1-22%2Fref%3Dsr_1_0_22\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/enseigai.html\">袁世凱</a>は独裁権を確立するために手段を選ばなかった。\n一九一三年三月、彼は刺客を放って最大の敵手と目されていた<a href=\"../p/soukyoji.html\">宋教仁</a>を暗殺した。\n<a href=\"../p/soukyoji.html\">宋教仁</a>は、同盟会を中心に、群小政党をあわせて国民党を結成し、前年末から行なわれた最初の総選挙で、\n国民党を第一党に導いていた。\n議会内で責任内閣制を樹立して<a href=\"../p/enseigai.html\">袁世凱</a>を牽制しようというのが国民党の方針であり、\n<a href=\"../p/soukyoji.html\">宋教仁</a>は新議会で国務総理に予定されていたのである。\n中心を失って、国民党の結束はもろくも崩れ、<a href=\"../p/enseigai.html\">袁</a>に対して有効な対抗策を講ずることができなくなった。</div>\n<div class=\"txr\"><a href=\"../text/ks_cyugo.html\">小島晋治・丸山松幸 「中国近現代史」</a>\n　Ｐ．７４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E4%25B8%25AD%25E5%259B%25BD%25E8%25BF%2591%25E7%258F%25BE%25E4%25BB%25A3%25E5%258F%25B2%2520%2520%2520%2520%25E5%25B2%25A9%25E6%25B3%25A2%25E6%2596%25B0%25E6%259B%25B8\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/soukyoji.html\">宋教仁</a>は国会選挙のために、同盟会を国民党に改組することに熱中した。\n議会で多数を占めて国民党の責任内閣をつくれば、<a href=\"../p/enseigai.html\">袁世凱</a>は名目だけの元首になる、\nというのが<a href=\"../p/soukyoji.html\">宋教仁</a>の考えであった。\nそのため、同盟会の綱領から「男女同権」をはじめ、反封建主義・反帝国主義の革命的内容をけずり、\n多くの政客や反動分子さえも国民党にひきいれた。</div>\n<div>かれの努力は報われた。\n一二年の末からはじまった国会選挙で、国民党は圧倒的な多数を獲得した。\n事実上の党首として、次期の総理就任が確実となった<a href=\"../p/soukyoji.html\">宋教仁</a>は、勝利に酔って全国遊説していたが、\n一三年三月二〇日、<a href=\"../p/enseigai.html\">袁世凱</a>が放った刺客のため、上海駅頭で暗殺された。</div>\n<div>真相はたちまち明るみに出た。\n革命派は<a href=\"../p/enseigai.html\">袁</a>の悪辣さに戦慄し、幻想はふっとんだ。\nだが、即時討<a href=\"../p/enseigai.html\">袁</a>を主張した<a href=\"../p/sonbun.html\">孫文</a>にたいし、黄興らは合法手段による解決をいい、\n革命派の足なみは乱れた。\n陰謀を暴露されて開き直った<a href=\"../p/enseigai.html\">袁世凱</a>は、四月、議会を無視して列強と「善後大借款」二五〇〇万ポンドの契約を結んだ。\n子飼の軍隊を拡充し、南方諸省の革命勢力を武力で圧倒する準備をととのえるためであった。</div>\n<div class=\"txr\"><a href=\"../text/os_jinmi.html\">小野信爾 「人民中国への道」</a>\n　Ｐ．９４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E4%25BA%25BA%25E6%25B0%2591%25E4%25B8%25AD%25E5%259B%25BD%25E3%2581%25B8%25E3%2581%25AE%25E9%2581%2593%2520%2520%2520%2520%25E8%25AC%259B%25E8%25AB%2587%25E7%25A4%25BE%25E7%258F%25BE%25E4%25BB%25A3%25E6%2596%25B0%25E6%259B%25B8%2520455%2520%25E6%2596%25B0%25E6%259B%25B8%25E6%259D%25B1%25E6%25B4%258B%25E5%258F%25B2%25205%2520%25E4%25B8%25AD%25E5%259B%25BD%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2%25205\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -263,7 +264,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

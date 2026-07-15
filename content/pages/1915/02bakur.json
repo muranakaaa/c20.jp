@@ -1,11 +1,12 @@
 {
  "path": "1915/02bakur.html",
  "type": "article",
- "title": "シカゴ・ヘラルド、対華２１か条要求の全条項を暴露　／ クリック ２０世紀",
+ "title": "シカゴ・ヘラルド、対華２１ヵ条要求の全条項を暴露　／ クリック ２０世紀",
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,12 +16,20 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1915.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1915.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
-   "html": "シカゴ・ヘラルド、対華２１か条要求の全条項を暴露"
+   "html": "シカゴ・ヘラルド、対華２１ヵ条要求の全条項を暴露"
   },
   {
    "type": "title2",
@@ -53,7 +62,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1915/01/18　　<a href=\"../1915/0121kaj.html\">\n対華２１か条要求</a>　（外相：<a href=\"../p/ktakaaki.html\">加藤高明</a>）"
+       "html": "1915/01/18　　<a href=\"../1915/0121kaj.html\">\n対華２１ヵ条要求</a>　（外相：<a href=\"../p/ktakaaki.html\">加藤高明</a>）"
       }
      ]
     },
@@ -63,7 +72,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1915/02/15　　<a 1915=\"\" href\"..=\"\" 02bakur.html\"=\"\">\nシカゴ・ヘラルド、対華２１か条要求の全条項を暴露</a>"
+       "html": "1915/02/15　　<a 1915=\"\" href\"..=\"\" 02bakur.html\"=\"\">\nシカゴ・ヘラルド、対華２１ヵ条要求の全条項を暴露</a>"
       }
      ]
     },
@@ -73,7 +82,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1915/02/20　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ、対華２１か条要求の秘密条項（第５号）について問い合わせ</a>"
+       "html": "1915/02/20　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ、対華２１ヵ条要求の秘密条項（第５号）について問い合わせ</a>"
       }
      ]
     },
@@ -83,7 +92,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1915/03/16　　<a href\"..=\"\" 19.html\"=\"\">\nブライアン（米）国務長官、対華２１か条要求の一部に不同意を表明</a>"
+       "html": "1915/03/16　　<a href\"..=\"\" 19.html\"=\"\">\nブライアン（米）国務長官、対華２１ヵ条要求の一部に不同意を表明</a>"
       }
      ]
     },
@@ -103,19 +112,11 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1915/05/09　　<a href\"..=\"\" 19.html\"=\"\">\n中国政府、対華２１か条要求を受諾　（中国で国辱記念日となる）</a>"
+       "html": "1915/05/09　　<a href\"..=\"\" 19.html\"=\"\">\n中国政府、対華２１ヵ条要求を受諾　（中国で国辱記念日となる）</a>"
       }
      ]
     }
    ]
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
   },
   {
    "type": "raw",
@@ -129,33 +130,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx_sw"
    },
    "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
   },
   {
    "type": "cyu",
@@ -163,11 +140,17 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",
-   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1915.html\">１９１５年</a>\n ＞ <a href=\"#h\">シカゴ・ヘラルド、対華２１か条要求の全条項を暴露</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1915.html\">１９１５年</a>\n ＞ <a href=\"#h\">シカゴ・ヘラルド、対華２１ヵ条要求の全条項を暴露</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
   }
  ]
 }

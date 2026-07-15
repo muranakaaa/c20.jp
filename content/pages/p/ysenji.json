@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -46,25 +55,17 @@
    "type": "raw",
    "tag": "table",
    "attrs": {
-    "class": "off"
+    "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"08y.html\">一覧　（ヤ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%25B1%25B1%25E6%259C%25AC%2520%25E5%25AE%25A3%25E6%25B2%25BB\" target=\"_blank\">本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></td><td class=\"lt\"><a href=\"../text/st_yamas.html\">佐々木敏二著</a></td></tr></tbody>"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "ep1"
    },
-   "html": "<span class=\"m_r\">エピソード 1</span>調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+   "html": "<span class=\"m_r\">エピソード 1</span>\nヤマセンもいいが、ヤマセンの両親も魅力的。\n父亀松は家族ももてあます極道者。大津では「泥亀」とまで言われた。\nそれが２５歳のとき、宣教師に救われ入信。以後、模範的なクリスチャンとなり、教会発展のために尽力する。\n母多年（たね）は京都の老舗足袋屋の長女で、有名なハイカラ娘。\n家業が傾くと、自ら毛糸店を設立して切り回すしっかり者でもある。\nこのハイカラさんがやがて教会に出入りするようになり、そこで今は熱心に布教の手伝いをする亀松と出会い、恋に落ちた。\nヤソには娘はやれぬ。多年の父の大反対にもかかわらず、二人は式を挙げる。\n生計を立てるため、牧師さんの勧めでわずかな資金をもとに、アメリカから輸入したアクセサリーや化粧品を売る店を新京極にオープン。\nその名は「わんぷらいすしょっぷ」。「まけぬといふたらほんまにまけぬ」という大看板を掲げ、\n「日曜日は安息日として休業します」という札を出すこの風変わりな店は、\n着倒れ京都の娘さん、若奥さんたちの間で大ブレークした。ヤマセンが生まれるのはこの少し後のことである。"
   },
   {
    "type": "timeline",
@@ -105,7 +106,7 @@
       {
        "id": null,
        "cls": "hist",
-       "html": "\n・　サンガー夫人来日を契機に産児調節運動に乗り出す。"
+       "html": "\n・　<a href=\"../1922/03sange.html\">サンガー夫人来日</a>を契機に産児調節運動に乗り出す。"
       }
      ]
     },
@@ -142,14 +143,6 @@
    ]
   },
   {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
-  },
-  {
    "type": "timeline",
    "rows": [
     {
@@ -158,7 +151,97 @@
       {
        "id": "l",
        "cls": null,
+       "html": "1904/02/10　　<a href=\"../1904/02jr_wa.html\">\n対露宣戦布告</a>　（<a href=\"../them/jr_war.html\">日露戦争</a>勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/09/05　　<a href=\"../1905/09portm.html\">\nポーツマス条約調印</a>　（首席全権：<a href=\"../p/kjutaro.html\">小村寿太郎</a>／<a href=\"../them/jr_war.html\">日露戦争</a>終結）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/01/18　　<a href=\"../1911/01taigy.html\">\n幸徳秋水ら24名に死刑判決</a>　（大逆事件）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/07/29　　<a href=\"../1912/07mhogy.html\">\n明治天皇崩御</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/02/11　　<a href=\"../1913/katu3_9.html\">\n桂内閣③総辞職　（大正政変）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/08/03　　<a href=\"../1918/08komes.html\">\n米騒動　（富山県中新川郡西水橋町→全国に波及）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/03/10　　<a href=\"../1922/03sange.html\">\nサンガー夫人来日</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/11/18　　<a href=\"../1922/11einst.html\">\nアインシュタイン来日</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
        "html": "1923/09/01　　<a href=\"../1923/09sinsa.html\">\n関東大震災</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/04/13　　<a href=\"../1925/04gakko.html\">\n陸軍現役将校学校配属令公布</a>"
       }
      ]
     },
@@ -183,6 +266,116 @@
      ]
     },
     {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/12/01　　<a href=\"../1925/12gakur.html\">\n京都府警、京大寄宿舎などを一斉家宅捜索</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/01/15　　<a href=\"../1926/01gakur.html\">\n京都学連事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/03/05　　<a href\"..=\"\" 19.html\"=\"\">\n労働農民党結成</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/04/20　　<a href=\"../1927/tanaa_1.html\">\n田中（義）内閣成立</a>　（首相：<a href=\"../p/tgiici.html\">田中義一</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/05/28　　<a href=\"../1927/05sant1.html\">\n山東出兵①</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/06/27　　<a href=\"../1927/06tohok.html\">\n東方会議開催</a>　（対中政策決定）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1928/02/20　　<a href\"..=\"\" 19.html\"=\"\">\n総選挙[16]　（政友会217、民政党216、無産諸派8、他25）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1928/03/15　　<a href=\"../1928/03315ji.html\">\n三・一五事件</a>　（共産党関係者一斉検挙）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1928/04/19　　<a href=\"../1928/04sant2.html\">\n山東出兵②</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1928/05/03　　<a href=\"../1928/05saina.html\">\n済南事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1928/05/08　　<a href=\"../1928/05sant3.html\">\n山東出兵③</a>"
+      }
+     ]
+    },
+    {
      "cls": "b",
      "cells": [
       {
@@ -193,12 +386,12 @@
      ]
     },
     {
-     "cls": "b",
+     "cls": "n",
      "cells": [
       {
        "id": "l",
        "cls": null,
-       "html": "1929/03/05　　<a href=\"../1929/03yamas.html\">\n山本宣治（衆議院議員）刺殺事件</a>"
+       "html": "1929/02/08　　<a href=\"../1929/02danat.html\">\n山本宣治、政府の弾圧政策を追及</a>　（衆議院予算委員会）"
       }
      ]
     },
@@ -211,6 +404,16 @@
        "html": "1929/03/05　　<a href=\"../1929/03ciani.html\">\n衆議院、治安維持法改正緊急勅令を事後承認</a>"
       }
      ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1929/03/05　　<a href=\"../1929/03yamas.html\">\n山本宣治（衆議院議員）刺殺事件</a>"
+      }
+     ]
     }
    ]
   },
@@ -218,49 +421,33 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "cm"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "<span class=\"m_y\">語録</span>\n山宣ひとり孤塁を守る<br>\n<span class=\"i10\">だが私は淋しくない、背後には大衆が支持しているから</span>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "<span class=\"m_b\">エピソード</span>\n調査中。"
+   "html": "<span class=\"m_y\">語録</span>\n教育（では物たらぬ、趣味、教養、たしなみ、あるいは真理を探究するその熱情）を望む人からそのいわゆる教育を奪い去らば、\n取りも直さず刃物なしに精神的に殺すものといわなければならぬ。\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "tx"
    },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>山宣ほど民衆に愛され、親しみをいだかれた闘士は少ない。\n一度山宣に接した者は、その人柄に惚れ、決して自分たちを裏切ることのない人物と信頼した。\n山宣が東大を卒業してから殺されるまでは一〇年もない。\nその間に山宣のやった仕事は、「人生生物学」「性教育」「性科学」「産児制限運動」「労働者教育」「無産政党運動」\n「左翼の代議士としての議会闘争」「犠牲者救援活動」、実に多方面にわたる。\nそしてそれらの各分野がその後多くの人々によって継承され、今日では山宣の闘った当時をはるかにのりこえ発展せしめられている。\nしかしそのいずれの分野においても、山宣の果した先駆的な仕事は今日なお光をはなっている。</div>\n<div>反動政治は山宣を殺させた。\nまさに当時の闘士のなかで、最も惜しまるる最良の人民の子にねらひを定めて殺したといえる。\n山宣は「このままでは人民は芋も食えない時代がくる、そんなことのないように戦わなければならない」と話していた。\nしかしこのあと、わが国の人民は、芋どころか、芋のツルや南瓜の茎まで食わされる時代がきたのである。</div>\n<div class=\"txr\"><a href=\"../text/st2yamas.html\">佐々木敏二 「山本宣治（下）」</a>\n　Ｐ．３８２<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4938303019%2Fqid%3D1147088125%2Fsr%3D1-5%2Fref%3Dsr_1_8_5\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span>山宣は京都市宇治の旅館兼料亭「花やしき」の一人息子として育ち、\n一九〇七年（明治四〇）カナダへ留学、一一年帰国後、三高・東大を経て、\n二〇年（大正九）京大・同志社大の講師となった。\n性科学を専攻し、二二年<a href=\"../1922/03sange.html\">アメリカ産児制限会長サンガー女史の来日</a>を期に、\n産児制限運動に乗りだした。\n労働者のなかへはいり、貧乏人の子沢山の現実を知る。\n貧困を解決することなしに、産児制限問題の根本的解決はない。\nこうして、「性と社会」の関係を問いつめていくなかで、山宣は労働運動とむすびつき、\n社会主義の思想を血肉化していった。\n二七年（昭和二）、労農党京都府委員長に選ばれ、最初の普選で当選をはたした。\n<a href=\"../1928/03315ji.html\">三・一五事件</a>で労農党がつぶされたあと、共産党系の政獲労農同盟ただ一人の衆議院議員として、\n彼は第五六議会にのぞんだ。\n治安維持法改正案が議会に上程される前、山宣は、自分の書斎の壁に「戦争撲滅」と書いてかかげた。\n彼は、この悪法の彼方に侵略戦争があることを鋭く見抜いていたのである。</div>\n<div>二九年三月四日、山宣は、大阪で開かれた全国農民組合大会でこう演説した。</div>\n<div>無産階級の議員として出てゐる人々は、日々何をしてゐるか。\nそれは諸君を欺すのだ。<a href=\"../1929/03ciani.html\">明日は死刑法、治安維持法が上程される</a>。\n私はその反対のために今夜東上する。\n反対演説もやるつもりだが、質問打切りのためにやれなくなるだろう。\n実に今や階級的立場を守る者は唯一人だ。\nだが僕は淋しくない。山宣一人孤塁を守る。併し、背後には多数の同志が・・・・・・。</div>\n<div>ここで、臨監の警部が中止を命じた。\n山宣は「議会開会中の代議士の逮捕は勅令なしにはできぬぞ」と叫んだため、\n彼を取りかこんだ警官たちはなにひとつ手だしすることができなかった。</div>\n<div>翌三月五日、山宣は、念入りに準備した治安維持法に反対する演説草稿を持って国会議事堂にはいった。\nしかし、その日の衆議院本会議は、民政党・労農大衆党の反対討論と、\n新党倶楽部・政友会の賛成討論が終わったところで、政友会提出の討論打ち切りの動議が可決され、\n山宣の発言は封じられてしまった。\n二月八日の衆議院予算委員会で、山宣は<a href=\"../1928/03315ji.html\">三・一五事件</a>の拷問や長期拘留の不当・不法を鋭く追及した。\nこれに恐れをなした与党政友会は、山宣の登壇を、なんとしても阻止したかったのである。</div>\n<div>議会はただちに採決にはいり、<a href=\"../1929/03ciani.html\">治安維持法改正法案は、賛成二四九、反対一七〇で可決した</a>。</div>\n<div class=\"txr\"><a href=\"../text/nm_syo02.html\">中村政則 「昭和の歴史（２）」</a>\n　Ｐ．１５７<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%2598%25AD%25E5%2592%258C%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2%25E3%2580%25882%25E3%2580%2589%25E6%2598%25AD%25E5%2592%258C%25E3%2581%25AE%25E6%2581%2590%25E6%2585%258C\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -268,7 +455,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

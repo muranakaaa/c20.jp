@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -40,7 +49,7 @@
    "attrs": {
     "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href=\"06h.html\">一覧　（ハ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"06h.html\">一覧　（ハ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E3%2583%2581%25E3%2583%25A3%25E3%2583%25B3%25E3%2583%2589%25E3%2583%25A9%25E3%2583%25BB%25E3%2583%259C%25E3%2583%25BC%25E3%2582%25B9\" target=\"_blank\">本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
   },
   {
    "type": "raw",
@@ -52,27 +61,11 @@
   },
   {
    "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
    "tag": "table",
    "attrs": {
     "class": "off"
    },
    "html": "<tbody><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr></tbody>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "timeline",
@@ -243,49 +236,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div><a href=\"../p/gandhi_m.html\">ガンディー</a>や国民会議派の　【中略】　行きかたに対して、\n急進的にインドの独立を求めるために、手段をいとわずドイツや日本を利用しようとした熱血の士に、\nスバス・チャンドラ・ボースがある。</div>\n<div>一八九七年オリッサに生まれ、一九二〇年インド高等文官試験に合格しながら、例の非協力運動に従って官途に就くことを拒否した。\nのち一時ケンブリッジ大学に学び、帰国してインド会議派に属し、\n会議派内の左派として<a href=\"../p/gandhi_m.html\">ガンディー</a>の非協力・非暴力運動に批判的な態度を持した。</div>\n<div>三九年、会議派主流と対立、ついに会議派から除名された。\n彼はつねに、インドの解放は帝国主義者相互の対立戦争を利用すべきであると考えていた。\nそれゆえ<a href=\"../1939/09taise.html\">第二次世界大戦勃発</a>後、猛烈な反英運動を展開し一時逮捕されたが、獄中ですすんで病気にかかり、釈放された。\nただちにドイツ諜報機関の手引きでインドを脱出、アフガニスタン、モスクワをへてベルリンにおもむいた。</div>\n<div><a href=\"../1941/12hawai.html\">太平洋戦争がはじまる</a>や、日本はなんとかしてインドにおける反英運動を結集させようとし、\nナチス・ドイツに対して、ボースを日本によこすよう再三要求した。\nこれよりさき、マライ戦線において多くのセポイの捕虜を得た日本側は、この捕虜を再編成し、\nインド国民軍としてインド進攻のときに備えて訓練していたのである。\n潜水艦で日本へ来たボースは、このインド国民軍を背景に東京政府と交渉、\nシンガポールにおいて<a href=\"../1943/10india.html\">自由インド仮政府の成立を宣言</a>した。\n一九四三年十月二十一日のことである。\nアンダマン・ニコバル両諸島は正式に自由インド仮政府の支配下に入った。</div>\n<div>一九四四（昭和一九）年三月、<a href=\"../p/thideki.html\">東条</a>は<a href=\"../1944/03impha.html\">インパール作戦を敢行</a>した。\n軍事学的にはほとんど意味をもたないが、\nともかくもインドに攻め込めばイギリスのインド統治が崩壊するかもしれないというかすかな望みをもっておこなったものであった。\n一万五千のインド国民軍はこれに協力した。\nしかし周知のとおり、インパール作戦は惨憺たる日本側の敗北に終わり、全軍潰滅。\nインド国民軍はいっそう哀れな状態で四散してしまった。</div>\n<div>もはやこのときは、イギリス側セポイを説得しようとする第一線のインド国民軍によるウルドゥー語やヒンドゥー語の呼びかけも効果なく、\nまたチャンドラ・ボースが退却する日本軍に対してきびしく抗議し、\n最後の一兵まで戦うことを主張したにもかかわらず、ついになんらなすところなく終わってしまった。</div>\n<div>その後ボースは一九四五（昭和二〇）年四月、ラングーンの陥落直前にここを去り、\nシンガポールに飛んでふたたびインド国民軍の再建のために東奔西走しているうち、\nサイゴンで<a href=\"../1945/08goz14.html\">日本軍の無条件降服</a>を聞いた。\nボースは、単身ソ連に乗り込むために日本軍の飛行機を要求、サイゴンから台北をへて大連に飛ぶ予定であった。\n八月十八日、台北飛行場を離陸しようとする飛行機は、浮き上がった直後、機首を地上に突っ込んだ。\n流れ出た油に火がうつり、たちまち激しい炎は機体をつつんだ。\n重傷を負ったボースはまもなく死んだ。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/mo_sek15.html\">村瀬興雄 「世界の歴史（15）」</a>\n　Ｐ．４６８</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/gandhi_m.html\">ガンディー</a>や国民会議派の　【中略】　行きかたに対して、\n急進的にインドの独立を求めるために、手段をいとわずドイツや日本を利用しようとした熱血の士に、\nスバス・チャンドラ・ボースがある。</div>\n<div>一八九七年オリッサに生まれ、一九二〇年インド高等文官試験に合格しながら、例の非協力運動に従って官途に就くことを拒否した。\nのち一時ケンブリッジ大学に学び、帰国してインド会議派に属し、\n会議派内の左派として<a href=\"../p/gandhi_m.html\">ガンディー</a>の非協力・非暴力運動に批判的な態度を持した。</div>\n<div>三九年、会議派主流と対立、ついに会議派から除名された。\n彼はつねに、インドの解放は帝国主義者相互の対立戦争を利用すべきであると考えていた。\nそれゆえ<a href=\"../1939/09taise.html\">第二次世界大戦勃発</a>後、猛烈な反英運動を展開し一時逮捕されたが、獄中ですすんで病気にかかり、釈放された。\nただちにドイツ諜報機関の手引きでインドを脱出、アフガニスタン、モスクワをへてベルリンにおもむいた。</div>\n<div><a href=\"../1941/12hawai.html\">太平洋戦争がはじまる</a>や、日本はなんとかしてインドにおける反英運動を結集させようとし、\nナチス・ドイツに対して、ボースを日本によこすよう再三要求した。\nこれよりさき、マライ戦線において多くのセポイの捕虜を得た日本側は、この捕虜を再編成し、\nインド国民軍としてインド進攻のときに備えて訓練していたのである。\n潜水艦で日本へ来たボースは、このインド国民軍を背景に東京政府と交渉、\nシンガポールにおいて<a href=\"../1943/10india.html\">自由インド仮政府の成立を宣言</a>した。\n一九四三年十月二十一日のことである。\nアンダマン・ニコバル両諸島は正式に自由インド仮政府の支配下に入った。</div>\n<div>一九四四（昭和一九）年三月、<a href=\"../p/thideki.html\">東条</a>は<a href=\"../1944/03impha.html\">インパール作戦を敢行</a>した。\n軍事学的にはほとんど意味をもたないが、\nともかくもインドに攻め込めばイギリスのインド統治が崩壊するかもしれないというかすかな望みをもっておこなったものであった。\n一万五千のインド国民軍はこれに協力した。\nしかし周知のとおり、インパール作戦は惨憺たる日本側の敗北に終わり、全軍潰滅。\nインド国民軍はいっそう哀れな状態で四散してしまった。</div>\n<div>もはやこのときは、イギリス側セポイを説得しようとする第一線のインド国民軍によるウルドゥー語やヒンドゥー語の呼びかけも効果なく、\nまたチャンドラ・ボースが退却する日本軍に対してきびしく抗議し、\n最後の一兵まで戦うことを主張したにもかかわらず、ついになんらなすところなく終わってしまった。</div>\n<div>その後ボースは一九四五（昭和二〇）年四月、ラングーンの陥落直前にここを去り、\nシンガポールに飛んでふたたびインド国民軍の再建のために東奔西走しているうち、\nサイゴンで<a href=\"../1945/08goz14.html\">日本軍の無条件降服</a>を聞いた。\nボースは、単身ソ連に乗り込むために日本軍の飛行機を要求、サイゴンから台北をへて大連に飛ぶ予定であった。\n八月十八日、台北飛行場を離陸しようとする飛行機は、浮き上がった直後、機首を地上に突っ込んだ。\n流れ出た油に火がうつり、たちまち激しい炎は機体をつつんだ。\n重傷を負ったボースはまもなく死んだ。</div>\n<div class=\"txr\"><a href=\"../text/mo_sek15.html\">村瀬興雄 「世界の歴史（15）」</a>\n　Ｐ．４６８<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4122002281%2Fqid%3D1146490541%2Fsr%3D1-3%2Fref%3Dsr_1_10_3\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -293,7 +246,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

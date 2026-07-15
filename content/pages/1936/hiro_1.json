@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1936.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href=\"hiro_1~.html\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1936.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href=\"hiro_1~.html\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -42,7 +51,7 @@
    "attrs": {
     "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href=\"hiro_1~.html\">[詳細]</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"hiro_1~.html\">[詳細]</a></td><td class=\"lt\"><a href=\"../them/j_gov05.html#s4\">【内閣成立史】</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
   },
   {
    "type": "timeline",
@@ -223,14 +232,6 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
@@ -239,33 +240,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "tx"
    },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "tx_sw"
-   },
-   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\n東京裁判の判決を受けたＡ級戦犯が25名。うち「絞首刑」の判決を受けた者が７名。\n７名中なんと６名が陸軍の軍人である。\n海軍の軍人は一人もおらず、背広の男がただ一人、それが<a href=\"../p/hkoki.html\">広田弘毅</a>だ。\n彼は高級官僚であるにもかかわらず、出世にがつがつしない善良な人物だった。\nすばらしきマイホームパパでもあった。\ntaroの見るところ、日本の近現代史では、このテの人物が国を誤った例が多い。\n<a href=\"../p/wreijiro.html\">若槻礼次郎</a>然り、<a href=\"../p/okosiro.html\">及川古志郎</a>然りだが、<a href=\"../p/hkoki.html\">広田</a>こそその決定版のように思える。\n<a href=\"../1936/05bukan.html\">軍部大臣現役武官制</a>や<a href=\"../1936/11jd_bo.html\">日独防共協定</a>など、後の日本にとって致命的なことが彼の内閣で決まったということもあるが、\n何よりも、<a href=\"../1936/02226ji.html\">二・二六</a>という不祥事を起こした陸軍が、その後かえって我が物顔に振舞うようになった責任は、\n<a href=\"../p/hkoki.html\">広田</a>とその内閣が負わねばならぬことだろう。\n<a href=\"../p/hkoki.html\">広田</a>を首相に推した外務省同期の<a href=\"../p/ysigeru.html\">吉田茂</a>は、<a href=\"../p/hkoki.html\">広田</a>が判決を受け処刑されたとき、首相の座にあった。\nその心中はどんなものだっただろう。\n"
   },
   {
    "type": "cyu",
@@ -273,7 +250,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

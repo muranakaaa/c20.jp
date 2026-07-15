@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1905.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1905.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -83,7 +92,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1905/06/01　　<a href\"..=\"\" 19.html\"=\"\">\n高平駐米公使、Ｔ・ルーズベルト（米）大統領に講和斡旋を要望</a>"
+       "html": "1905/06/01　　<a href=\"../1905/06assen.html\">\n高平駐米公使、Ｔ・ルーズベルト（米）大統領に講和斡旋を要望</a>"
       }
      ]
     },
@@ -213,25 +222,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -245,17 +238,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>その日の深夜、<a href=\"../p/kjutaro.html\">小村</a>は、本多電信主任に起され、長文の電報を渡された。\nそれは<a href=\"../p/kkentaro.html\">金子堅太郎</a>からの暗号電報で、午後七時にニューヨークから発信された緊急電であった。</div>\n<div>かれは読み終ると、本多に高平と山座を呼ぶように命じた。\n電文を翻訳して内容を知っている本多は、すぐに部屋を出て行った。</div>\n<div>山座についで高平が、本多とともに部屋に入ってきた。</div>\n<div><a href=\"../p/kjutaro.html\">小村</a>は高平に電文を渡し、高平は読み終ると山座に渡した。</div>\n<div>電文は、<a href=\"../p/kkentaro.html\">金子</a>のもとに届けられた<a href=\"../p/roosev_t.html\">ルーズベルト</a>の秘密書簡の全文であった。\nそこには、金銭のために戦争継続も覚悟している日本に対する批判の世論が強いので、金銭に関する要求をすべて撤回した方が、\n今後、日本のために利益になるだろう、と記されていた。\nまた、<a href=\"../p/roosev_t.html\">ルーズベルト</a>が<a href=\"../p/nikolai2.html\">ロシア皇帝</a>に、譲歩を求める第二回目の親電を発したことも書かれていた。</div>\n<div>これまで<a href=\"../p/roosev_t.html\">ルーズベルト</a>は、日本が樺太北部をロシアに返還する代りに代償金の支払いを求めるのは当然だ、と強調していた。\nそれが、突然、償金要求は好ましくないと態度を一変させた理由が解しかねた。</div>\n<div><a href=\"../p/kjutaro.html\">小村</a>は、<a href=\"../p/roosev_t.html\">ルーズベルト</a>が世論を恐れているのだ、と思った。\n<a href=\"../p/roosev_t.html\">ルーズベルト</a>はその年の春に再選され、日露講和を成立させることで国民の支持をさらにたかめようとしているにちがいなかった。\nかれは、常に世論の動きに注意をはらい、急にたかまってきた日本の金銭要求に対する批判を重視し、\n自分の立場が悪評にさらされることを危惧して日本側に要求の撤回を求めてきたのだと推定された。</div>\n<div>書簡の内容を記した電文に添えられた<a href=\"../p/kkentaro.html\">金子</a>の感想にも、</div>\n<div>「私ハ驚キ、疑ヒ、其原因ヲ推測スルニ苦ミタリ」</div>\n<div>と記されていたが、陰の支援者であった<a href=\"../p/roosev_t.html\">ルーズベルト</a>が態度を一変したことは、\n日本側にとって大きな打撃であった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ya_portm.html\">吉村昭 「ポーツマスの旗」</a>\n　Ｐ．２５５</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>その日の深夜、<a href=\"../p/kjutaro.html\">小村</a>は、本多電信主任に起され、長文の電報を渡された。\nそれは<a href=\"../p/kkentaro.html\">金子堅太郎</a>からの暗号電報で、午後七時にニューヨークから発信された緊急電であった。</div>\n<div>かれは読み終ると、本多に高平と山座を呼ぶように命じた。\n電文を翻訳して内容を知っている本多は、すぐに部屋を出て行った。</div>\n<div>山座についで高平が、本多とともに部屋に入ってきた。</div>\n<div><a href=\"../p/kjutaro.html\">小村</a>は高平に電文を渡し、高平は読み終ると山座に渡した。</div>\n<div>電文は、<a href=\"../p/kkentaro.html\">金子</a>のもとに届けられた<a href=\"../p/roosev_t.html\">ルーズベルト</a>の秘密書簡の全文であった。\nそこには、金銭のために戦争継続も覚悟している日本に対する批判の世論が強いので、金銭に関する要求をすべて撤回した方が、\n今後、日本のために利益になるだろう、と記されていた。\nまた、<a href=\"../p/roosev_t.html\">ルーズベルト</a>が<a href=\"../p/nikolai2.html\">ロシア皇帝</a>に、譲歩を求める第二回目の親電を発したことも書かれていた。</div>\n<div>これまで<a href=\"../p/roosev_t.html\">ルーズベルト</a>は、日本が樺太北部をロシアに返還する代りに代償金の支払いを求めるのは当然だ、と強調していた。\nそれが、突然、償金要求は好ましくないと態度を一変させた理由が解しかねた。</div>\n<div><a href=\"../p/kjutaro.html\">小村</a>は、<a href=\"../p/roosev_t.html\">ルーズベルト</a>が世論を恐れているのだ、と思った。\n<a href=\"../p/roosev_t.html\">ルーズベルト</a>はその年の春に再選され、日露講和を成立させることで国民の支持をさらにたかめようとしているにちがいなかった。\nかれは、常に世論の動きに注意をはらい、急にたかまってきた日本の金銭要求に対する批判を重視し、\n自分の立場が悪評にさらされることを危惧して日本側に要求の撤回を求めてきたのだと推定された。</div>\n<div>書簡の内容を記した電文に添えられた<a href=\"../p/kkentaro.html\">金子</a>の感想にも、</div>\n<div>「私ハ驚キ、疑ヒ、其原因ヲ推測スルニ苦ミタリ」</div>\n<div>と記されていたが、陰の支援者であった<a href=\"../p/roosev_t.html\">ルーズベルト</a>が態度を一変したことは、\n日本側にとって大きな打撃であった。</div>\n<div class=\"txr\"><a href=\"../text/ya_portm.html\">吉村昭 「ポーツマスの旗」</a>\n　Ｐ．２５５<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2584%25E3%2583%259E%25E3%2582%25B9%25E3%2581%25AE%25E6%2597%2597%2520%2520%2520%2520%25E6%2596%25B0%25E6%25BD%25AE%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -263,7 +248,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -48,7 +57,7 @@
    "attrs": {
     "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href=\"01a.html\">一覧　（ア）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href=\"../them/j_gov05.html#s1\">【内閣成立史】</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"01a.html\">一覧　（ア）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E7%258A%25AC%25E9%25A4%258A%2520%25E6%25AF%2585\" target=\"_blank\">本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></td><td class=\"lt\"><a href=\"../them/j_gov05.html#s1\">【内閣成立史】</a></td></tr></tbody>"
   },
   {
    "type": "raw",
@@ -57,14 +66,6 @@
     "class": "ep1"
    },
    "html": "<span class=\"m_r\">エピソード 1</span>首相として1932年５月15日に凶弾に斃れた犬養だが、 \n1925年５月16日、<a href=\"../1924/katob_1.html\">護憲三派内閣</a>で念願の<a href=\"../1925/05fusen.html\">普通選挙を実現</a>すると<a href=\"../1925/05inuka.html\">引退を発表</a>している。\nどういうことかというと、岡山の後援者たちが彼の引退を許さず、以後も勝手に選挙運動を行い当選させ続けるうちに、 \n<a href=\"../p/tgiici.html\">田中義一</a>が急死、人材難の政友会から総裁就任を求められた、というわけだ。\nかくして、すでに引退したお年寄りが首相になるという怪現象が起こった。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
   },
   {
    "type": "timeline",
@@ -160,14 +161,6 @@
      ]
     }
    ]
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "timeline",
@@ -458,49 +451,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_b\">エピソード</span>\n調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span>犬養毅は岡山藩士の倅だが、上京して慶応義塾に入り、\n郵便報知新聞記者として西南戦争に従軍した。\n彼が巻脚絆で戦地を駈けずりまわって報じた「戦地直報」は、わが国最初の従軍記事として好評を博した。\n慶応の関係から岩崎の支援をうけ、東海経済新報などを主宰したが、一時は官途についていたこともある。\n有名な明治十四年の政変で<a href=\"../p/osigenob.html\">大隈重信</a>に殉じて下野した。</div>\n<div>明治二十三年、第一回衆議院議員選挙には岡山県から当選し、進歩党を経て憲政会に入った。\nその後国民党を創立し、爾来野党的立場を守って活躍した。\n頭山満とともに<a href=\"../p/sonbun.html\">孫文</a>援助のため中国に渡ったこともある。</div>\n<div>だが、<a href=\"../1916/tera_1.html\">寺内内閣</a>のときには外交調査会に<a href=\"../p/htakasi.html\">原敬</a>とともに参加して、\nはじめて節操に動揺を来し、帝国主義権力と次第に妥協するようになった。\n第二次山本権兵衛内閣の逓信大臣となったが、例の護憲運動が起ると、自分の率いた革新倶楽部とともに護憲三派に加わり、\n加藤内閣では逓信大臣となった。</div>\n<div>大正十四年、<a href=\"../1925/05kakus.html\">革新倶楽部がもちこたえられずに政友会と合同した</a>が、\n一時は<a href=\"../1925/05inuka.html\">政界から引退した</a>。\nしかし、<a href=\"../p/tgiici.html\">田中義一</a>の死去後は<a href=\"../p/mkaku.html\">森恪</a>の懇請によって<a href=\"../1929/10inuka.html\">政友会総裁となり</a>、<a href=\"../1931/waka2_1.html\">若槻内閣</a>のあと、<a href=\"../1931/inu_1.html\">政友会内閣の首班となった</a>。\n犬養は清廉潔白な政治家と世間で見られ、木堂の名によってその書も知られている。</div>\n<div class=\"txr\"><a href=\"../text/ms4syowa.html\">松本清張 「昭和史発掘（４）」</a>\n　Ｐ．２４０<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167106345%2Fqid%3D1147086434%2Fsr%3D1-13%2Fref%3Dsr_1_0_13\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -508,7 +461,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

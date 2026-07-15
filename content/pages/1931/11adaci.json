@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1931.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1931.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -93,7 +102,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1931/03/17　　<a href=\"../1931/033gatu.html\">\n三月事件</a>　（桜会によるクーデター未遂）"
+       "html": "1931/03/17　　<a href=\"../1931/033gatu.html\">\n三月事件</a>　（陸軍によるクーデター未遂）"
       }
      ]
     },
@@ -203,25 +212,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -235,17 +228,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../1931/waka2_1.html\">第二次若槻内閣</a>にとどめをさしたのは、\n<a href=\"../p/ijunnosu.html\">井上</a>の財政政策に反対する<a href=\"../p/akenzo.html\">安達謙蔵内相</a>一派の協力内閣運動であった。\n<a href=\"../1931/08macdo.html\">英国マクドナルド内閣の挙国一致内閣</a>にならって、<a href=\"../p/akenzo.html\">安達</a>らは、政友会との連立内閣をつくり、\nこの非常事態に対処しようとしたのである。\nしかし、その背後には、ドル買い筋が暗躍していたといわれる。\nドル買い筋が思惑どおり利益をあげるためには、<a href=\"../1931/waka2_1.html\">若槻内閣</a>を倒して、金輸出再禁止をさせる必要があったのである。\n三一年一二月一一日、<a href=\"../1931/waka2_1.html\">若槻内閣</a>は閣内不統一によって総辞職に追いこまれた。\n二日後の一三日、政友会総裁<a href=\"../p/ituyosi.html\">犬養毅</a>が後継首相に推され、同内閣は即日金輸出再禁止をおこなった。</div>\n<div class=\"txr\"><a href=\"../text/nm_syo02.html\">中村政則 「昭和の歴史（２）」</a>\n　Ｐ．２９０<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%2598%25AD%25E5%2592%258C%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2%25E3%2580%25882%25E3%2580%2589%25E6%2598%25AD%25E5%2592%258C%25E3%2581%25AE%25E6%2581%2590%25E6%2585%258C\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -253,7 +238,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

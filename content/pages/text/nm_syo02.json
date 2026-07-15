@@ -11,19 +11,6 @@
  "baseClass": "base",
  "blocks": [
   {
-   "type": "raw",
-   "tag": "a",
-   "attrs": {
-    "href": "http://watch.newcolors.jp/index.html",
-    "target": "_blank"
-   },
-   "html": "[PR]オリジナル腕時計制作　12個から製造可能　卒業記念などに[PR]"
-  },
-  {
-   "type": "base_break",
-   "cls": "base"
-  },
-  {
    "type": "edit_bar",
    "kind": "e_bar",
    "html": "<a name=\"h\"></a>"

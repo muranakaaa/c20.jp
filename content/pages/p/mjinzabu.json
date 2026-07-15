@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -46,9 +55,9 @@
    "type": "raw",
    "tag": "table",
    "attrs": {
-    "class": "off"
+    "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"07m.html\">一覧　（マ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E7%259C%259F%25E5%25B4%258E%2520%25E7%2594%259A%25E4%25B8%2589%25E9%2583%258E\" target=\"_blank\">本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
   },
   {
    "type": "raw",
@@ -57,14 +66,6 @@
     "class": "off"
    },
    "html": "<span class=\"m_r\">エピソード 1</span>調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
   },
   {
    "type": "timeline",
@@ -85,7 +86,7 @@
       {
        "id": null,
        "cls": "hist",
-       "html": "\n・　陸士校長時代、尊皇絶対主義の訓育に努め、安藤輝三、磯部浅一らを輩出。"
+       "html": "\n・　陸士校長時代、尊皇絶対主義の訓育に努め、安藤輝三、<a href=\"../p/iasaici.html\">磯部浅一</a>らを輩出。"
       }
      ]
     },
@@ -125,7 +126,7 @@
       {
        "id": null,
        "cls": "hist",
-       "html": "\n・　<a href=\"../1936/02226ji.html\">二・二六事件</a>では、安藤、磯部らに共感を示し、組閣命令を期待して行動する。"
+       "html": "\n・　<a href=\"../1936/02226ji.html\">二・二六事件</a>では、安藤、<a href=\"../p/iasaici.html\">磯部</a>らに共感を示しつつ、収拾に努める。"
       }
      ]
     },
@@ -135,7 +136,7 @@
       {
        "id": null,
        "cls": "hist",
-       "html": "\n・　事件後、「反乱幇助」の容疑で軍法会議にかれられるも無罪。"
+       "html": "\n・　<a href=\"../1936/02226ji.html\">事件</a>後、「反乱幇助」の容疑で軍法会議にかけられるも無罪。"
       }
      ]
     },
@@ -150,14 +151,6 @@
      ]
     }
    ]
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "timeline",
@@ -213,6 +206,16 @@
      ]
     },
     {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/01/23　　<a href=\"../1934/01araki.html\">\n荒木陸相辞任</a>　（後任：<a href=\"../p/hsenjuro.html\">林銑十郎</a>）"
+      }
+     ]
+    },
+    {
      "cls": "b",
      "cells": [
       {
@@ -238,7 +241,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1935/07/16　　<a href=\"../1935/07masak.html\">\n真崎教育総監罷免</a>　（後任：「統制派」<a href=\"../p/wjotaro.html\">渡辺錠太郎</a>）"
+       "html": "1935/07/15　　<a href=\"../1935/07masak.html\">\n真崎教育総監更迭</a>　（後任：「統制派」<a href=\"../p/wjotaro.html\">渡辺錠太郎</a>）"
       }
      ]
     },
@@ -248,7 +251,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1935/08/12　　<a href=\"../1935/08aizaw.html\">\n相沢事件　（永田軍務局長斬殺）</a>"
+       "html": "1935/08/12　　<a href=\"../1935/08aizaw.html\">\n相沢事件</a>　（<a href=\"../p/ntetuzan.html\">永田軍務局長</a>斬殺）"
       }
      ]
     },
@@ -348,49 +351,57 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "cm"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "<span class=\"m_y\">語録</span>\n教育というものは被教育者の美点を発見してやることである。\n教育者は、被教育者の地位に身をおかなければ教育はできない。\n教官が怒ってしまうようでは兵隊の教育ができるだろうか。\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "<span class=\"m_b\">エピソード</span>\n調査中。"
+   "html": "<span class=\"m_y\">語録</span>\n私は参謀次長として、<a href=\"../p/kkotohit.html\">宮殿下</a>の御決裁を仰がなかった。\n<a href=\"../p/kkotohit.html\">宮殿下</a>に責任がいくような決裁は仰ぐべきではないと考えた。\n<a href=\"../p/kkotohit.html\">宮</a>の御徳は仰いだけれども、その能力は仰がなかった。\nだからいつも、“これこれの案がございますが、私はこの案がよろしゅうございます”というようにして、\nあの満州事変を乗り切った。\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "cm"
    },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
+   "html": "<span class=\"m_o\">評</span>\n丸坊主にして衣を着せたら、どこに出しても相当の名僧知識と誤られる。\nその話がまたすこぶる禅味を帯びたものである。\n決して軍の現状、あるいは過去のことは触れないで、宗教、哲学のことである。\n思想問題については特に話題が豊富であった。\n<div class=\"r\">高宮太平　（朝日新聞記者）</div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
+   "html": "<span class=\"m_o\">評</span>\n真崎はこちらの追及を巧妙にかわして否認一点張りで逃れる。まことにずるい。\nかんじんのところにいっても否認を繰り返す。他からの証言を突きつけても「記憶にないなあ」とか「何かの間違いではないか」\nを繰り返してトボける。非常に狡猾である。\n<div class=\"r\">阪埜淳吉　（予審官）</div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
+   "html": "<span class=\"m_o\">評</span>\n陸大を優等で卒業するほどの頭脳であり、法学、哲学を中心とする読書家でありながら、\n眞崎は近代的知性派ではない。どこか土着的で浪花節的な人情家である。\n<div class=\"r\"><a href=\"../text/mk_gunji.html\">升本喜年</a>　（作家）</div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "<span class=\"m_o\">評</span>\n<a href=\"../1936/02226ji.html\">二・二六事件</a>の最も大きな被害者は真崎であった。\nそれに対する償いと言うよりも、もっと切実な意味で彼を必要とする空気が感取されるのである。\n<div class=\"r\">山浦貫一　（ジャーナリスト）</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>歴代の大将の中で、眞崎甚三郎ほど悪イメージの色濃い大将はいない。</div>\n<div><a href=\"../1936/02226ji.html\">二・二六事件</a>の叛乱幇助罪で起訴され、陸軍大将として、西郷隆盛以来の汚名とさえいわれている。\n時代が違うといえば、それまでだが、西郷の場合、後に恩赦を受けて名誉回復している。\nだが、眞崎にそれはない。</div>\n<div>一言でいうと、眞崎甚三郎は自己の野心のために、革新派青年将校らを扇動し、\n史上空前のクーデター「<a href=\"../1936/02226ji.html\">二・二六事件</a>」を導いた老獪狡智の悪党将軍ということになっている。</div>\n<div>決起した青年将校たちは、刑場の露と消えたが、眞崎は無罪であった。\nそのことが、眞崎の悪イメージをいっそう増幅する。\n眞崎本人の戦後の弁明もあるし、実弟眞崎勝次（海軍少将）のソ連陰謀説などの眞崎擁護論や弁明論もないではないが、\n説得性は希薄である。</div>\n<div class=\"txr\"><a href=\"../text/mk_gunji.html\">升本喜年 「軍人の最期」</a>\n　Ｐ．１４６<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25BB%258D%25E4%25BA%25BA%25E3%2581%25AE%25E6%259C%2580%25E6%259C%259F%25E2%2580%2595%25E6%2594%25BF%25E6%25B2%25BB%25E7%259A%2584%25E5%25B0%2586%25E8%25BB%258D%25E3%2581%25AE%25E7%2594%259F%25E3%2581%258D%25E3%2581%2596%25E3%2581%25BE%25E3%2581%25A8%25E3%2581%259D%25E3%2581%25AE%25E6%25AD%25BB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -398,7 +409,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

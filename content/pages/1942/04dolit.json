@@ -1,11 +1,12 @@
 {
  "path": "1942/04dolit.html",
  "type": "article",
- "title": "Ｂ25ドゥーリトル隊、東京・名古屋・神戸などを空襲　／ クリック ２０世紀",
+ "title": "ドゥーリトル爆撃隊、東京・名古屋・神戸などを空襲　／ クリック ２０世紀",
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,12 +16,20 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1942.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1942.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
-   "html": "Ｂ25ドゥーリトル隊、東京・名古屋・神戸などを空襲"
+   "html": "ドゥーリトル爆撃隊、東京・名古屋・神戸などを空襲"
   },
   {
    "type": "title2",
@@ -163,7 +172,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1942/04/18　　<a 1942=\"\" href\"..=\"\" 04dolit.html\"=\"\">\nＢ25ドゥーリトル隊、東京・名古屋・神戸などを空襲</a>"
+       "html": "1942/04/18　　<a 1942=\"\" href\"..=\"\" 04dolit.html\"=\"\">\nドゥーリトル爆撃隊、東京・名古屋・神戸などを空襲</a>"
       }
      ]
     },
@@ -203,25 +212,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -235,17 +228,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>戦後明らかになったところでは、この爆撃はアメリカの示威行動だった。\nアメリカ軍上層部は、昭和十七年の初期に日本の面子を失なわせる奇襲作戦で米国民の士気を鼓舞しようと考え、\n〈日本本土爆撃〉を太平洋艦隊のキング提督が主張し、ドウリットル陸軍中佐を隊長とする爆撃隊が編成されたのである。\nキングは「大損害を与えることは期待できぬが、日本の<a href=\"../p/stenno.html\">天皇</a>にはいろいろ考えさせることは確かだ」と、\n空母ホーネットからＢ25型爆撃機十六機を六六八マイル離れた東京をめざして飛び立たせた。</div>\n<div>ドウリットル爆撃隊は、東京を爆撃してから中国奥地の基地に逃げこむことになっていた。\nが、爆撃隊は日本国内では日本軍によって撃ち落されなかった。\nこのニュースはアメリカ国内を沸きたたせた。\nアメリカのマスコミはしきりに「反転攻勢」ということばをつかって情勢の転換を期待したが、\nこの爆撃はその象徴的なてきごとと、とらえられたのである。</div>\n<div class=\"txr\"><a href=\"../text/hm2tojoh.html\">保阪正康 「東條英機と天皇の時代（下）」</a>\n　Ｐ．３８<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%259D%25B1%25E6%25A2%259D%25E8%258B%25B1%25E6%25A9%259F%25E3%2581%25A8%25E5%25A4%25A9%25E7%259A%2587%25E3%2581%25AE%25E6%2599%2582%25E4%25BB%25A3\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -253,11 +238,17 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",
-   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1942.html\">１９４２年</a>\n ＞ <a href=\"#h\">Ｂ25ドゥーリトル隊、東京・名古屋・神戸などを空襲</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1942.html\">１９４２年</a>\n ＞ <a href=\"#h\">ドゥーリトル爆撃隊、東京・名古屋・神戸などを空襲</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
   }
  ]
 }

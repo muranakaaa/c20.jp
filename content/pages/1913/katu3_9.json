@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1913.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1913.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -143,25 +152,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -175,17 +168,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>警視庁は五千人近い巡査を集めて議会の警戒に当っていたが、\n議会停会と聞いた大衆はこれと揉み合い、建物の破壊を始めた。\n護憲派代議士は上野公園神田錦輝館などで国民大会を開き、アジ演説に興奮した民衆に押し立てられて、\n議会を目ざしてやって来る。</div>\n<div>議会は数万の民衆に包囲され、川上警視総監は、騎馬憲兵二十五騎を民衆の中に馳けこませた。</div>\n<div>この頃<a href=\"../p/ktaro.html\">桂</a>は議院の中の総理室で、議長の大岡育造（長州人、政友会創立委員、総務であったが、<a href=\"../p/ktaro.html\">桂</a>への接近を計っていた。\n後に政友会反主流派二十日会を率いる）や閣僚たちが集まった中で、解散か否かで揉み合っていた。大岡は、</div>\n<div>「議長としてでなく、長州人として申し上げる。\n今、この議院は憤激した民衆にとり巻かれている。\n善処しなければこの民衆は血を見るまでは収まりませんぞ。\n閣下の英断を乞う」</div>\n<div>と激しく迫った。</div>\n<div>【中略】　病が進行し、体力が弱っていた<a href=\"../p/ktaro.html\">桂</a>はしばらく閣僚たちを残して部屋を出たが帰って来ると、</div>\n<div>「私はやめることにした。諸君も辞表を書いてもらいたい」</div>\n<div>と蒼ざめた顔で言った。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm_saion.html\">豊田穣 「西園寺公望」</a>\n　下巻　Ｐ．３２</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>警視庁は五千人近い巡査を集めて議会の警戒に当っていたが、\n議会停会と聞いた大衆はこれと揉み合い、建物の破壊を始めた。\n護憲派代議士は上野公園神田錦輝館などで国民大会を開き、アジ演説に興奮した民衆に押し立てられて、\n議会を目ざしてやって来る。</div>\n<div>議会は数万の民衆に包囲され、川上警視総監は、騎馬憲兵二十五騎を民衆の中に馳けこませた。</div>\n<div>この頃<a href=\"../p/ktaro.html\">桂</a>は議院の中の総理室で、議長の大岡育造（長州人、政友会創立委員、総務であったが、<a href=\"../p/ktaro.html\">桂</a>への接近を計っていた。\n後に政友会反主流派二十日会を率いる）や閣僚たちが集まった中で、解散か否かで揉み合っていた。大岡は、</div>\n<div>「議長としてでなく、長州人として申し上げる。\n今、この議院は憤激した民衆にとり巻かれている。\n善処しなければこの民衆は血を見るまでは収まりませんぞ。\n閣下の英断を乞う」</div>\n<div>と激しく迫った。</div>\n<div>【中略】　病が進行し、体力が弱っていた<a href=\"../p/ktaro.html\">桂</a>はしばらく閣僚たちを残して部屋を出たが帰って来ると、</div>\n<div>「私はやめることにした。諸君も辞表を書いてもらいたい」</div>\n<div>と蒼ざめた顔で言った。</div>\n<div class=\"txr\"><a href=\"../text/tm2saion.html\">豊田穣 「西園寺公望（下）」</a>\n　Ｐ．３２<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E5%259C%2592%25E5%25AF%25BA%25E5%2585%25AC%25E6%259C%259B%25E2%2580%2595%25E6%259C%2580%25E5%25BE%258C%25E3%2581%25AE%25E5%2585%2583%25E8%2580%2581%2520%2528%25E4%25B8%258B%25E5%25B7%25BB%2529%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -193,7 +178,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

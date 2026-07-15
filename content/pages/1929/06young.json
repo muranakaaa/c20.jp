@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1929.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1929.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -213,25 +222,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -245,17 +238,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>ドイツの賠償問題は、根本的には解決していなかった。\n総額を変更せずに年間賠償額を小さくしたため、支払い完了がはるか後の時代まで続くことになり、\nドイツ側に不満が残ったからである。\nドーズ案による通常支払いが始まるはずの二八年、賠償委員会はあらたな専門家会議を開くことにした。\n二九年に始まった会議では、前回も加わったアメリカのヤングが、ふたたび私人の立場で議長になった。\n今回は、以前の欧米五ヵ国のほか、ドイツと日本も参加した。</div>\n<div>ヤング案では、ドイツの支払い負担がさらに軽減され、まず年額一七億マルク、\nその後増えてもドーズ案の二五億マルクには達しないものとなった。\nまた、総額を以前の約四分の一に当たる三五八億マルクに切り下げた（そのときの元金に還元した額）。\nさらに最終支払いは、ヨーロッパ諸国からアメリカへの債務返済と同じく、一九八七年ということになった。\nその実施は一九三〇年から始まることになった。\n世界の歴史にその後何も起こらなかったならば、ドイツの賠償と旧連合国の戦債支払いがごく近年まで続いていたはずだったのである。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ks_nse26.html\">木村靖二・柴宜弘・長沼秀世 「世界の歴史（26）」</a>\n　Ｐ．１７３</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>ドイツの賠償問題は、根本的には解決していなかった。\n総額を変更せずに年間賠償額を小さくしたため、支払い完了がはるか後の時代まで続くことになり、\nドイツ側に不満が残ったからである。\nドーズ案による通常支払いが始まるはずの二八年、賠償委員会はあらたな専門家会議を開くことにした。\n二九年に始まった会議では、前回も加わったアメリカのヤングが、ふたたび私人の立場で議長になった。\n今回は、以前の欧米五ヵ国のほか、ドイツと日本も参加した。</div>\n<div>ヤング案では、ドイツの支払い負担がさらに軽減され、まず年額一七億マルク、\nその後増えてもドーズ案の二五億マルクには達しないものとなった。\nまた、総額を以前の約四分の一に当たる三五八億マルクに切り下げた（そのときの元金に還元した額）。\nさらに最終支払いは、ヨーロッパ諸国からアメリカへの債務返済と同じく、一九八七年ということになった。\nその実施は一九三〇年から始まることになった。\n世界の歴史にその後何も起こらなかったならば、ドイツの賠償と旧連合国の戦債支払いがごく近年まで続いていたはずだったのである。</div>\n<div class=\"txr\"><a href=\"../text/ks_nse26.html\">木村靖二・柴宜弘・長沼秀世 「世界の歴史（26）」</a>\n　Ｐ．１７３<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E4%25B8%2596%25E7%2595%258C%25E5%25A4%25A7%25E6%2588%25A6%25E3%2581%25A8%25E7%258F%25BE%25E4%25BB%25A3%25E6%2596%2587%25E5%258C%2596%25E3%2581%25AE%25E9%2596%258B%25E5%25B9%2595%2520%2520%2520%2520%25E4%25B8%2596%25E7%2595%258C%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -263,7 +248,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

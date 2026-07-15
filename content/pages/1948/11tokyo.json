@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1948.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1948.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -33,7 +42,7 @@
   {
    "type": "headline",
    "cells": [
-    "えっ、木村兵太郎も絞首刑？　極東国際軍事裁判、疑惑の判決で幕。"
+    "えっ、<a href=\"../p/kheitaro.html\">木村兵太郎</a>も絞首刑？　極東国際軍事裁判、疑惑の判決で幕。"
    ]
   },
   {
@@ -223,25 +232,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -255,17 +248,41 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "<span class=\"m_y\">語録</span>\n判事連中はおそらく今日の判決を、最初より予定していたことだろう。\nそれに米国弁護士を附けたり、弁護側の証拠を提出させたり、時々正義だとか公正などといって、\nよくも三年間我慢したものだ。その陰険な忍耐には驚くほかない。\n<div class=\"r\"><a href=\"../p/makira.html\">武藤章</a>　（元軍務局長）</div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "<span class=\"m_y\">語録</span>\n戦争をおこなうには、<a href=\"../p/stenno.html\">天皇</a>の許可が必要であった。・・・・・・かれが暗殺されたかもしれないということは、\n問題の答えにはならない。・・・・・・かれの免責は、疑いなく、すべての連合国の最善の利益のために決定された。\n<div class=\"r\">ウイリアム・Ｆ・ウェッブ　（東京裁判裁判長、オーストラリア代表）</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "cm"
+   },
+   "html": "<span class=\"m_y\">語録</span>\nそこに一人の<a href=\"../p/stenno.html\">主要な惹起者</a>があり、その者がいっさいの訴追を免がれていることで、\n本件の被告は、いずれにしても、その者の共犯者としてしか考えることができない。\n<div class=\"r\">アンリ・ベルナール　（東京裁判判事、フランス代表）</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "cm"
+   },
+   "html": "<span class=\"m_y\">語録</span>\n私は何が裁判所をして、無理な責任を<a href=\"../p/makira.html\">武藤</a>に負わしたかを考えてみた。\n判決の構成は、日本の侵略戦に関する共同謀議は、日本陸軍が中心となって、\n計画し準備し実行されたと云うようになっている。\nこの判決を首尾一貫したものとするには、陸軍を罰せねばならぬ。\nところが日本陸軍のどこをとってみても、ナチスの如き共同謀議の主体がない。\nそこで<a href=\"../p/thideki.html\">東条</a>を中心とした<a href=\"../p/kheitaro.html\">次官</a>と<a href=\"../p/makira.html\">局長</a>とを槍玉にあげたものと思われる。\n<div class=\"r\"><a href=\"../p/makira.html\">武藤章</a>　（元軍務局長）</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>十一月十二日、断罪をきく。\n私は、東大の文学部事務室でラジオを通して、それを聞いていた。</div>\n<div>絞首刑は、<a href=\"../p/dkenji.html\">土肥原</a>、<a href=\"../p/hkoki.html\">広田</a>、<a href=\"../p/iseisiro.html\">板垣</a>、<a href=\"../p/kheitaro.html\">木村</a>、<a href=\"../p/miwane.html\">松井</a>、<a href=\"../p/makira.html\">武藤</a>、<a href=\"../p/thideki.html\">東条</a>の七名。</div>\n<div><a href=\"../p/smamoru.html\">重光</a>の七年、<a href=\"../p/tsigenor.html\">東郷</a>の二十年を除いて、あとの十六名はいずれも終身禁固刑。\n無罪はついに一名も出なかった。</div>\n<div>断罪の劇的な情景を、新聞はきそってこれを報道した。\nその中に、断罪の宣告をうけた人々が、いちいち礼をして退出したという描写がみられた。\nこれについて、外人筋では、判決をうけるに際して、暴言を吐くとか、あるいは失神するとか、\nそういった動作を予期していた口吻がニュースの端々にみえた。\nある日本の新聞は、またこれを「お辞儀をするのは習慣」と簡単にあつかっているものもみられた。</div>\n<div>しかし、私は、これらの見解を皮相なものと思い、その浅薄さを情けないものに思わないわけにはいかなかった。\n私は、これよりまえ、これらの人々に接した体験によって、この人々が、\nすでに深い宗教的な気持にひたっていると感じていたので、暴言も予期しなければ、失神も予期せず、\n当然、こうした礼が素直に出るものと、予想していたのである。</div>\n<div>それは、単なる「習慣」などのものではない、もっと深い境地のものである。\n私はその気持を<span class=\"bar\">―</span>―つつしんでうけるということと、いろいろご苦労でありました\n<span class=\"bar\">―</span>―の二つが、しっくりと、混合したものであったと、とっている。</div>\n<div class=\"txr\"><a href=\"../text/hs_sugam.html\">花山信勝 「巣鴨の生と死」</a>\n　Ｐ．２１６<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%25B7%25A3%25E9%25B4%25A8%25E3%2581%25AE%25E7%2594%259F%25E3%2581%25A8%25E6%25AD%25BB%25E2%2580%2595%25E3%2581%2582%25E3%2582%258B%25E6%2595%2599%25E8%25AA%25A8%25E5%25B8%25AB%25E3%2581%25AE%25E8%25A8%2598%25E9%258C%25B2\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -273,7 +290,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

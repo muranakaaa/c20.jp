@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -38,9 +47,9 @@
    "type": "raw",
    "tag": "table",
    "attrs": {
-    "class": "off"
+    "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"03s.html\">一覧　（サ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
   },
   {
    "type": "raw",
@@ -52,27 +61,11 @@
   },
   {
    "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
    "tag": "table",
    "attrs": {
     "class": "off"
    },
    "html": "<tbody><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr></tbody>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "timeline",
@@ -193,49 +186,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>リンドン・Ｂ・ジョンソン（愛称ＬＢＪ）は一九〇八年八月二十七日、テキサス州中部ジョンソンシティの郊外ストーンウォールで生まれた。\n祖先が移住時に町作りに貢献したのでその名前が町に残っている。\n政治好きの一家出身だった。\n繁栄から恐慌へと大きく変化した一九三〇年代初頭、貧困問題に関心をもつジョンソンは南西テキサス州立教育大学を卒業、\nニューディール政策に共鳴、ローズヴェルト派の民主党員として政界入りした。</div>\n<div>三七年に連邦下院補選に出馬して当選、四八年に上院に転じて、五三年には上院史上もっとも若い民主党院内総務に。\n上下両院議員時代を通じて<a href=\"../p/roosev_f.html\">ローズヴェルト</a>など政界の大物に積極的に近付き、議会内に広範な人脈をつくり議会工作で活躍。\nニューディール支持でリベラル派を演じ、同時に南部保守系民主党員との結び付きを固めた。\n彼の議会工作で可決した法案の数は記録的といわれ、\n共和党のアイゼンハワー政権の主要な政策の実現にも貢献している。\n「カウボーイハットのマキャベリ」と評される所以である。</div>\n<div>三四年クラウディア・テイラー（愛称レディバード）と結婚、二女の父親となる。\n第二次大戦中は海軍少佐として南太平洋で活躍、銀星章を受賞している。</div>\n<div>一九六〇年の大統領選挙戦では、民主党大統領候補に出馬、若手の本命で、リベラル派の<a href=\"../p/kenned_j.html\">ケネディ</a>と激しく争い敗れた。\nしかし南部民主党の保守票がほしい<a href=\"../p/kenned_j.html\">ケネディ</a>はあえて副大統領候補にジョンソンを選んだ。\n直前までかなり醜い個人的な論戦を演じた相手だが、意外にもジョンソンはその要請をのみ、\n結局<a href=\"../p/kenned_j.html\">ケネディ</a>・ジョンソン・コンビの政権が誕生した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/sk_daito.html\">猿谷要 「アメリカ大統領物語」</a>\n　Ｐ．１５２</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span>リンドン・Ｂ・ジョンソン（愛称ＬＢＪ）は一九〇八年八月二十七日、テキサス州中部ジョンソンシティの郊外ストーンウォールで生まれた。\n祖先が移住時に町作りに貢献したのでその名前が町に残っている。\n政治好きの一家出身だった。\n繁栄から恐慌へと大きく変化した一九三〇年代初頭、貧困問題に関心をもつジョンソンは南西テキサス州立教育大学を卒業、\nニューディール政策に共鳴、<a href=\"../p/roosev_f.html\">ローズヴェルト</a>派の民主党員として政界入りした。</div>\n<div>三七年に連邦下院補選に出馬して当選、四八年に上院に転じて、五三年には上院史上もっとも若い民主党院内総務に。\n上下両院議員時代を通じて<a href=\"../p/roosev_f.html\">ローズヴェルト</a>など政界の大物に積極的に近付き、議会内に広範な人脈をつくり議会工作で活躍。\nニューディール支持でリベラル派を演じ、同時に南部保守系民主党員との結び付きを固めた。\n彼の議会工作で可決した法案の数は記録的といわれ、\n共和党のアイゼンハワー政権の主要な政策の実現にも貢献している。\n「カウボーイハットのマキャベリ」と評される所以である。</div>\n<div>三四年クラウディア・テイラー（愛称レディバード）と結婚、二女の父親となる。\n第二次大戦中は海軍少佐として南太平洋で活躍、銀星章を受賞している。</div>\n<div>一九六〇年の大統領選挙戦では、民主党大統領候補に出馬、若手の本命で、リベラル派の<a href=\"../p/kenned_j.html\">ケネディ</a>と激しく争い敗れた。\nしかし南部民主党の保守票がほしい<a href=\"../p/kenned_j.html\">ケネディ</a>はあえて副大統領候補にジョンソンを選んだ。\n直前までかなり醜い個人的な論戦を演じた相手だが、意外にもジョンソンはその要請をのみ、\n結局<a href=\"../p/kenned_j.html\">ケネディ</a>・ジョンソン・コンビの政権が誕生した。</div>\n<div class=\"txr\"><a href=\"../text/sk_daito.html\">猿谷要 「アメリカ大統領物語」</a>\n　Ｐ．１５２<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4403250599%2Fqid%3D1147238770%2Fsr%3D8-1%2Fref%3Dsr_8_xs_ap_i1_xgl\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -243,7 +196,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

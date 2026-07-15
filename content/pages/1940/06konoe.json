@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1940.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1940.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -33,7 +42,7 @@
   {
    "type": "headline",
    "cells": [
-    "新体制運動にまい進！　近衛フィーバーに油をそそぐ<a href=\"../p/kfumimar.html\">枢密院議長</a>の辞任。"
+    "新体制運動にまい進！　<a href=\"../p/kfumimar.html\">近衛</a>フィーバーに油をそそぐ<a href=\"../p/kfumimar.html\">枢密院議長</a>の辞任。"
    ]
   },
   {
@@ -133,25 +142,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -165,17 +158,17 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "<span class=\"m_y\">語録</span>\n<a href=\"../p/kkoici.html\">木戸</a>も辞めた方がいい、<a href=\"../1940/yona_1.html\">この内閣</a>もそう永くないようだから、そろそろ後の用意でもした方がよいと言うし\n・・・・・・それで辞める気になった。\n<div class=\"r\"><a href=\"../p/kfumimar.html\">近衛文麿</a>　（枢密院議長）</div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>三月下旬から盛り上がって来た近衛新党運動は、六月中旬最高潮に達し、二十四日<a href=\"../p/kfumimar.html\">近衛</a>は枢府議長を辞し、\n新党総裁として次期政権を担当する意欲を示した。\n加盟を予想されるのは政友会久原派、中島派、民政党永井派、社会大衆党麻生派ら百余名の代議士で、\nすでに三月二十五日「聖戦貫徹議員連盟」を結成していた。\n新党の目的は、日華事変の解決、破竹の進撃をみせるドイツとの協調、三国同盟の締結、ナチス流の一国一党組織の結成で、\n表面上軍部の勢力を抑えるのが目的という者もいたがそれは無理で、\nむしろ陸軍に便乗して利益を得ようと考えている者も少なくなかった。</div>\n<div class=\"txr\"><a href=\"../text/tm2saion.html\">豊田穣 「西園寺公望（下）」</a>\n　Ｐ．３７４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E5%259C%2592%25E5%25AF%25BA%25E5%2585%25AC%25E6%259C%259B%25E2%2580%2595%25E6%259C%2580%25E5%25BE%258C%25E3%2581%25AE%25E5%2585%2583%25E8%2580%2581%2520%2528%25E4%25B8%258B%25E5%25B7%25BB%2529%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -183,7 +176,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1903.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1903.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -93,25 +102,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "pt"
    },
-   "html": "\n<div class=\"pt_h\">～　「巌頭の感」　（一部改）　～</div>\n<div>悠々たるかな天壌、遼々たるかな古今、五尺の小躯をもってこの大をはからんとす。\nホレーショの哲学ついに何らのオーソリチーを価するものぞ。\n万有の真相はただ一言にしてつくす、いわく「不可解」。\nわれこの恨をいだきて煩悶ついに死を決するに至る。\nすでに巌頭に立つに及んで胸中何らの不安あるなし。\nはじめて知る悲観は大なる楽観に一致するを。</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+   "html": "\n<div class=\"pt_h\">～　「巌頭の感」　（一部改）　～</div>\n<div>悠々たるかな天壌、遼々たるかな古今、五尺の小躯をもってこの大をはからんとす。\nホレーショの哲学ついに何らのオーソリチーを価するものぞ。\n万有の真相はただ一言にしてつくす、いわく「不可解」。\nわれこの恨をいだきて煩悶ついに死を決するに至る。\nすでに巌頭に立つに及んで胸中何らの不安あるなし。\nはじめて知る大なる悲観は大なる楽観に一致するを。</div>\n"
   },
   {
    "type": "raw",
@@ -122,28 +115,18 @@
    "html": "\n<span class=\"m_v\">taro's トーク</span>\n２００３年１１月「クリック２０世紀」をついに公開、当然人の目が気になる。\nすると、アクセス解析の結果を見ながら、あれこれ想像する時間が増える。\nどんなキーワードをきっかけに人が弊サイトを訪れるかもアクセス解析でわかる。\nいちばん予想外だったのは「藤村操」というキーワードでやってくる人の多さだ。\n月末、ＴＶドラマの影響で「<a href=\"../p/fugi.html\">溥儀</a>」が首位に立つまで、人名では彼の名がトップであり続けた。\nなんでだろう、と考え続けている。あまりいい想像は浮かばない。\n１００年前に自殺した青年に、共感を覚える人が増えているということだろうか。\n自殺を否定することはtaroはしない。\ntaroの考えでは、人は白紙と鉛筆を持って生まれてくる。何を描こうと自由だ。\ntaroはtaroなりに何かを描いてから死にたいと思っているが、何かを描く前に、自ら紙と鉛筆をつき返してしまう人もいる。\n藤村などまさにそうだ。\n彼は、「不可解」を可能性や希望や夢の同義語だとはついに思えなかったようだ。\nそのような人が増えているということなのだろうか。\ntaroの知らない別の理由があるのかもしれない。\n"
   },
   {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
-  },
-  {
    "type": "cyu",
    "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

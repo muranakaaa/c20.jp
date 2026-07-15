@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1941.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1941.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -233,25 +242,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -265,17 +258,25 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "<span class=\"m_y\">語録</span>\n天佑トモ言フベシ、之ニテ帝国ノ開戦決意ハ踏切リ容易ニナレリ、芽出度々々々\n<div class=\"r\">「大本営機密戦争日誌」</div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "<span class=\"m_y\">語録</span>\nどうもペテンにかかったようだなあ。\n<div class=\"r\"><a href=\"../p/makira.html\">武藤章</a>　（軍務局長）</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/hull_c.html\">ハル</a>と国務省のスタッフがまとめた二つの案、すなわち「暫定協定案」と\n十ヵ条から成る「平和解決要綱」が最終的に成文化されたのは二十二日である。\n「暫定協定案」には、両国が平和宣言を発し、太平洋地域で武力行使せず、\n日本は南部仏印から撤退し、仏印駐留の全兵力を二万五千名に制限するとあり、\nこれを日本側が受けいれれば対日禁輸緩和を認めるとあった。</div>\n<div><a href=\"../p/hull_c.html\">ハル</a>は、この案を英・蘭・中国・濠州の大使に説明した。\n事態が進展すれば相談すると約束していたからだ。</div>\n<div>しかし<a href=\"../p/syokaise.html\">蒋介石</a>は、駐米大使からこの報告を受けるや失望の色を濃くした。\n日本の「乙案」、アメリカの「暫定協定案」、それは彼のもっとも恐れている日米戦争回避の可能性を示していたからだ。\n〈断じて潰さなければならぬ〉<span class=\"bar\">―</span>―彼は外交部長宋子文と駐米大使胡適にたいして、\n<a href=\"../p/hull_c.html\">ハル</a>や国務省首脳、陸海軍有力者を説得するよう命じ、彼自身も<a href=\"../p/church_w.html\">チャーチル</a>に「われわれの四年以上の抗戦も\nついに無益に終わるだろう」「わが軍の士気は崩壊しよう」「わが国をいけにえにして日本に譲歩するのか」と訴えた。</div>\n<div>この電報を読んだ<a href=\"../p/church_w.html\">チャーチル</a>は、<a href=\"../p/syokaise.html\">蒋介石</a>が同盟から離脱するのではないかと懸念した。\n<a href=\"../p/church_w.html\">チャーチル</a>は<a href=\"../p/hull_c.html\">ハル</a>から示された案を受けとったとき、\n日米戦争勃発になればイギリスだけで対独戦を戦わねばならぬのではないかと不安に思ったのだが、\n<a href=\"../p/syokaise.html\">蒋介石</a>の電報を読んでからは、<a href=\"../p/syokaise.html\">蒋介石</a>の自棄的な行動が心配になったのだ。\nインドをはじめアジアに植民地をもつ英国としては、アジア人のアジアという日本の宣伝を裏づけてしまうのを恐れて、\n中国をつねに陣営に引きいれておかねばならないと考えていた。\n彼は<a href=\"../p/roosev_f.html\">ルーズベルト</a>に宛てて、「われわれは明らかにこれ以上の戦争を望んではいない。\nわれわれは一点だけを心配している。・・・・・・われわれは中国について心配している。\nもし中国が崩壊したならば、われわれの共通の危険は非常に大きくなる」と警告した。\nこのメッセージが、国務省に届いたのは十一月二十六日の早朝だった。\nところがこれが、実際に<a href=\"../p/roosev_f.html\">ルーズベルト</a>に大きな影響を与えることになったのである。</div>\n<div>メッセージが届く三時間まえ、ワシントンでは最高軍事会議が開かれ、\n日本の最終期限をひとまず延長させるため「暫定協定案」の提案を検討していた。\n会議に集う者は、それが事態の本格的解決にならないことも知っていた。\n会議は難航したが、<a href=\"../p/roosev_f.html\">ルーズベルト</a>が「日本人は無警告に奇襲をかけることで名高いから、\nもしかすると十二月一日ごろに攻撃されることもありうる」と発言してから、出席者たちは、\nこの奇襲こそが救いになると気づいた。\n戦争反対の声や孤立主義に傾く世論を燃えあがらせるには、第一弾を日本に発射させるべきだというのである。\n対独戦に参加するためにも対日戦は必要だという暗黙の諒解がそれに輪をかけ、「暫定協定案」より「平和解決要綱」を\n示したほうが、日本に第一弾を投じさせることになるかもしれないという誘惑が彼らを虜にした。\nしかし最終的な結論をださぬまま、会議は休会となっていた。</div>\n<div>この休会の間に<a href=\"../p/roosev_f.html\">ルーズベルト</a>は<a href=\"../p/church_w.html\">チャーチル</a>の電報を読み、すぐ宋子文と胡適に会って<a href=\"../p/syokaise.html\">蒋介石</a>の要望を丹念に聞いた。\nまた<a href=\"../p/hull_c.html\">ハル</a>も陸海軍の責任者に会い、日本からの攻撃に反撃できるかを確かめた。\nそのあと<a href=\"../p/roosev_f.html\">ルーズベルト</a>と<a href=\"../p/hull_c.html\">ハル</a>は長時間話し合い、この際事態を延ばす途を採らず、\n日本に第一弾を投じさせる途を選択することにした。</div>\n<div>十一月二十六日午後五時、<a href=\"../p/hull_c.html\">ハル</a>は<a href=\"../p/nkicisab.html\">野村</a>と栗栖を呼び、「平和解決要綱」を手渡した。\nいわゆる「ハルノート」である。\n国務省の応接間にはいるまえ、<a href=\"../p/hull_c.html\">ハル</a>は陸軍長官<a href=\"../p/stimso_h.html\">スチムソン</a>と海軍長官ノックスに、\n「まもなく日米間の主役は交代するだろう」と事態が政治から軍事に移ることを予言した。\nそして事態はそのとおりに動きはじめたのである。</div>\n<div class=\"txr\"><a href=\"../text/hm1tojoh.html\">保阪正康 「東條英機と天皇の時代（上）」</a>\n　Ｐ．３１０<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%259D%25B1%25E6%25A2%259D%25E8%258B%25B1%25E6%25A9%259F%25E3%2581%25A8%25E5%25A4%25A9%25E7%259A%2587%25E3%2581%25AE%25E6%2599%2582%25E4%25BB%25A3\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -283,7 +284,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

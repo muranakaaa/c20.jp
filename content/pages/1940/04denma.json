@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1940.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1940.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -203,25 +212,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -235,9 +228,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>王宮の外で銃声がわき起こった。</div>\n<div>ドイツ軍部隊が桟橋から隊伍を組んで行進してきたので、王宮警衛兵が発砲し、独軍が応射したのである。</div>\n<div>国王クリスチャン十世は、直ちに発砲停止を命じ、受命した警衛兵は静かにドイツ側に歩み寄って申告した。</div>\n<div>「失礼だが、当方は戦闘を中止します。\n国王陛下のご命令が下りましたので」</div>\n<div>隊長は、眼をむくドイツ兵の前で背をむけ、再び閲兵式なみの歩調でひき返した。</div>\n<div>ドイツ軍部隊はぞろぞろと王宮に入り、数人を要所に配置すると、近くの陸軍本部にむかい、\n同様の占領措置をとって次の目標にすすみ、容易に首都管制作戦を実施した。</div>\n<div class=\"txr\"><a href=\"../text/kn3hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（３）」</a>\n　Ｐ．１５８<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167141388%2Fqid%3D1147087396%2Fsr%3D1-17%2Fref%3Dsr_1_2_17\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -245,23 +238,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>王宮の外で銃声がわき起こった。</div>\n<div>ドイツ軍部隊が桟橋から隊伍を組んで行進してきたので、王宮警衛兵が発砲し、独軍が応射したのである。</div>\n<div>国王クリスチャン十世は、直ちに発砲停止を命じ、受命した警衛兵は静かにドイツ側に歩み寄って申告した。</div>\n<div>「失礼だが、当方は戦闘を中止します。\n国王陛下のご命令が下りましたので」</div>\n<div>隊長は、眼をむくドイツ兵の前で背をむけ、再び閲兵式なみの歩調でひき返した。</div>\n<div>ドイツ軍部隊はぞろぞろと王宮に入り、数人を要所に配置すると、近くの陸軍本部にむかい、\n同様の占領措置をとって次の目標にすすみ、容易に首都管制作戦を実施した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kn3hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（３）」</a>\n　Ｐ．１５８</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "tx"
-   },
-   "html": "\n<div>午前七時すぎ、国王の名による停戦命令が放送された。</div>\n<div>早朝のラジオ放送で事態を知ったユトランド地方のデンマーク市民は、次々に半旗をかかげ、窓を閉じてドイツ軍部隊の進駐に背をむけた。</div>\n<div>首都コペンハーゲンは、平静のままに四月九日の朝をむかえた。</div>\n<div>市民たちもラジオで異変を承知していたが、それ以上の事情はわからず、\n平日どおりに職場に出動した。</div>\n<div>首都を制圧したドイツ軍は、わずか一個大隊である。\n街には、王宮を中心とする区域に戦車、装甲車、少数のドイツ兵が点在するだけである。</div>\n<div>所々に、デンマークはドイツの占領下にある、しかし、独立と自由は保障される、抵抗は流血を招く、\nといった趣旨のドイツ軍指揮官の布告が貼付されていた。</div>\n<div>ちらと横眼で一べつして通りすぎる者、立ちどまって熟読する者など、\n市民男女の反応の態様はさまざまであったが、ドイツ軍にたいしても事態の急変にたいしても、\n無関心に似た冷静さを維持する点については、デンマーク国民は一致していた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kn3hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（３）」</a>\n　Ｐ．１５９</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>午前七時すぎ、国王の名による停戦命令が放送された。</div>\n<div>早朝のラジオ放送で事態を知ったユトランド地方のデンマーク市民は、次々に半旗をかかげ、窓を閉じてドイツ軍部隊の進駐に背をむけた。</div>\n<div>首都コペンハーゲンは、平静のままに四月九日の朝をむかえた。</div>\n<div>市民たちもラジオで異変を承知していたが、それ以上の事情はわからず、\n平日どおりに職場に出動した。</div>\n<div>首都を制圧したドイツ軍は、わずか一個大隊である。\n街には、王宮を中心とする区域に戦車、装甲車、少数のドイツ兵が点在するだけである。</div>\n<div>所々に、デンマークはドイツの占領下にある、しかし、独立と自由は保障される、抵抗は流血を招く、\nといった趣旨のドイツ軍指揮官の布告が貼付されていた。</div>\n<div>ちらと横眼で一べつして通りすぎる者、立ちどまって熟読する者など、\n市民男女の反応の態様はさまざまであったが、ドイツ軍にたいしても事態の急変にたいしても、\n無関心に似た冷静さを維持する点については、デンマーク国民は一致していた。</div>\n<div class=\"txr\"><a href=\"../text/kn3hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（３）」</a>\n　Ｐ．１５９<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167141388%2Fqid%3D1147087396%2Fsr%3D1-17%2Fref%3Dsr_1_2_17\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -269,7 +246,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

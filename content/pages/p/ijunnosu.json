@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -46,9 +55,9 @@
    "type": "raw",
    "tag": "table",
    "attrs": {
-    "class": "off"
+    "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"01a.html\">一覧　（ア）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E4%25BA%2595%25E4%25B8%258A%2520%25E6%25BA%2596%25E4%25B9%258B%25E5%258A%25A9\" target=\"_blank\">本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
   },
   {
    "type": "raw",
@@ -57,14 +66,6 @@
     "class": "ep1"
    },
    "html": "<span class=\"m_r\">エピソード 1</span>「泣く子と井上さんには」とまで言われた強気の蔵相は\nめちゃめちゃな愛妻家。任地ニューヨークからの手紙はこんなのばっかり。\n「夜は家郷のこと思われ寝ること能わず。写真を出してきてキッスし、あるいは子供の写真を見るなど、\n２、３時間御身のことのみ考え申し候」 "
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
   },
   {
    "type": "timeline",
@@ -120,14 +121,6 @@
      ]
     }
    ]
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "timeline",
@@ -188,7 +181,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1923/09/27　　<a href\"..=\"\" 19.html\"=\"\">\n日銀震災手形割引損失補償令公布</a>"
+       "html": "1923/09/27　　<a href=\"../1923/09sinte.html\">\n日銀震災手形割引損失補償令公布</a>　（蔵相：<a href=\"../p/ijunnosu.html\">井上準之助</a>）"
       }
      ]
     },
@@ -278,7 +271,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1931/03/17　　<a href=\"../1931/033gatu.html\">\n三月事件</a>　（桜会によるクーデター未遂）"
+       "html": "1931/03/17　　<a href=\"../1931/033gatu.html\">\n三月事件</a>　（陸軍によるクーデター未遂）"
       }
      ]
     },
@@ -388,49 +381,17 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "cm"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "<span class=\"m_o\">評</span>\n井上も銀行を出て民政党に入り政治をやり始めてからは、どうも性格がすっかり変ったと私は思うのです。\n銀行をやって居る時分にはむしろ小心翼々として、どっちかというと我々から言えば消極的で弱かったですね。\n但し初めから才人ではあった。なかなか頭は冴えて居った。\n　【中略】　もう少し井上が強くならなければいけないのじゃないかということを、仲間の間では言ったものです。\nそれが一度政治に入って選挙などをやって、いろいろな人から金を取って、あのやり方になったのです。\n随分無理をしてすべてのことを強引にやった。\n殊に弗買いに対する政策は無理をして居った。　【中略】　非常に明敏な男だが、弱い人で、\n急に何だかばかに強い人のようになって来たのは、あれは結局、そこに押し込まれてそうなったのじゃないかと思うのです。\n<div class=\"r\"><a href=\"../p/isigeaki.html\">池田成彬</a>　（元蔵相）</div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<span class=\"m_b\">エピソード</span>\n調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span>井上準之助は大分県出身。\n明治二十九年東京帝大を出ると日本銀行に入り、横浜正金銀行頭取を経て日本銀行総裁に転じ、\n第一次大戦後の金融対策にたずさわった。\n<a href=\"../1923/09sinsa.html\">関東大震災</a>の善後処理にも蔵相として努めている。</div>\n<div>大正八年、日本銀行総裁のときは金融恐慌に尽力したが、昭和四年、<a href=\"../1929/hama_1.html\">浜口内閣</a>のもとに大蔵大臣として就任し、\n緊縮政策を実施し、<a href=\"../1930/01kinka.html\">金解禁</a>を断行した。\n彼は次の<a href=\"../1931/waka2_1.html\">第二次若槻内閣</a>にも留任して、その政策をつづけた。</div>\n<div>これらの政策は、おりからの世界恐慌の影響と日本資本主義の弱さから彼の思う通りの成果をあげえず、\n国内は空前の不況となり、<a href=\"../1931/waka2_1.html\">若槻内閣</a>は、ために崩壊した。</div>\n<div>しかし、井上準之助は民政党の筆頭総務となり、選挙対策委員長を兼ね、\n当時はさながら副総裁の実力があった。</div>\n<div class=\"txr\"><a href=\"../text/ms4syowa.html\">松本清張 「昭和史発掘（４）」</a>\n　Ｐ．２１５<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167106345%2Fqid%3D1147086434%2Fsr%3D1-13%2Fref%3Dsr_1_0_13\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -438,7 +399,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

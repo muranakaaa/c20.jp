@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1931.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1931.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -93,7 +102,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1931/03/17　　<a href=\"../1931/033gatu.html\">\n三月事件</a>　（桜会によるクーデター未遂）"
+       "html": "1931/03/17　　<a href=\"../1931/033gatu.html\">\n三月事件</a>　（陸軍によるクーデター未遂）"
       }
      ]
     },
@@ -133,25 +142,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -165,17 +158,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>中村震太郎事件を満州事変の引き金と見る者は少なくない。</div>\n<div>片倉衷もその一人であった。</div>\n<div>新潟県蒲原郡出身の中村震太郎は、片倉と陸士（三十一期）同期だが、陸大も同期（四十期）だった。\n一緒に<a href=\"../p/ikanji.html\">石原教官</a>の自宅を訪ねたこともあるという。</div>\n<div>参謀本部第一部勤務だった中村が、興安嶺方面の軍用地誌調査の密命を受け、\n大興安嶺の東側一帯の偵察に入ったまま消息を絶ったのは、昭和六年六月中旬だが、\n片倉もその行方捜索に当たり、便衣を着て潜入し、密偵を放って探索もした。</div>\n<div>結果、六月二十七日に関玉衛指揮下の屯墾軍に逮捕され銃殺されたという確証を掴んだ。\nさらに証拠と現地の証言を揃えたが、政府（<a href=\"../1931/waka2_1.html\">第二次若槻禮次郎内閣</a>）は穏便解決の方針をとり、\n事件解決の交渉は、軍中心ではなく、外交交渉に委ねることになった。</div>\n<div>八月二十七日、陸軍中央部及び関東軍は、この事件を公表したが、それに対して、張学良政権側は\n日本陸軍の捏造であると反発した。</div>\n<div>このまま黙っているのか<span class=\"bar\">―</span>―。</div>\n<div>国内輿論は沸騰し、在満日本人たちの憤懣は日に日に募った。\n強硬論者たちは日本軍人に向かって、「腰の軍刀は竹光か！」と罵声を浴びせている有様である。</div>\n<div>陸軍中央部の方針は、向こう一年間、隠忍自重して軍事行動を行なわないと決定しているが、\nこのまま黙認していれば、<a href=\"../p/cyogakur.html\">張学良</a>軍が全面的攻撃を仕掛けて来ることも当然あり得る。</div>\n<div>敵の二十分の一しかない関東軍だけの兵力で応戦できるのか。\nもし敗退したら、在満日本人の生命が危険にさらされるだけでなく、\n日露戦争以来の日本の権益は喪失し、政治的にも経済的にも軍事的にも、大打撃を蒙り、\n国が滅びてしまうかも知れない。国論もそれを許さない。</div>\n<div>九月初旬になって、ようやく<a href=\"../p/cyogakur.html\">張学良</a>側も中村事件の事実を認めたが、\n事件解決の外交交渉はなお進められていた。</div>\n<div class=\"txr\"><a href=\"../text/mk_gunji.html\">升本喜年 「軍人の最期」</a>\n　Ｐ．２８３<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25BB%258D%25E4%25BA%25BA%25E3%2581%25AE%25E6%259C%2580%25E6%259C%259F%25E2%2580%2595%25E6%2594%25BF%25E6%25B2%25BB%25E7%259A%2584%25E5%25B0%2586%25E8%25BB%258D%25E3%2581%25AE%25E7%2594%259F%25E3%2581%258D%25E3%2581%2596%25E3%2581%25BE%25E3%2581%25A8%25E3%2581%259D%25E3%2581%25AE%25E6%25AD%25BB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -183,7 +168,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

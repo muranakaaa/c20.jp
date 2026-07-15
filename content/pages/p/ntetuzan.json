@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -40,15 +49,15 @@
    "attrs": {
     "class": "prof"
    },
-   "html": "\n陸軍軍務局長、陸軍中将（死後）"
+   "html": "\n陸軍省軍務局長、参謀本部第二部長、陸軍省軍事課長、陸軍中将（死後）"
   },
   {
    "type": "raw",
    "tag": "table",
    "attrs": {
-    "class": "off"
+    "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"05n.html\">一覧　（ナ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
   },
   {
    "type": "raw",
@@ -57,14 +66,6 @@
     "class": "off"
    },
    "html": "<span class=\"m_r\">エピソード 1</span>調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
   },
   {
    "type": "timeline",
@@ -85,7 +86,7 @@
       {
        "id": null,
        "cls": "hist",
-       "html": "\n・　ドイツ、デンマークなどに駐在。<a href=\"../p/otosisir.html\">小畑</a>、岡村、<a href=\"../p/thideki.html\">東條</a>とバーデンバーデンの盟約を結ぶ。"
+       "html": "\n・　ドイツ、デンマークなどに駐在。<a href=\"../p/otosisir.html\">小畑</a>、岡村、<a href=\"../p/thideki.html\">東條</a>と<a href=\"../1921/10baden.html\">バーデン・バーデンの密約</a>を結ぶ。"
       }
      ]
     },
@@ -115,23 +116,75 @@
       {
        "id": null,
        "cls": "hist",
-       "html": "\n・　軍務局長室で執務中、<a href=\"../1935/07masak.html\">真崎教育総監更迭</a>の首謀者として相沢中佐に<a href=\"../1935/08aizaw.html\">斬殺される</a>。"
+       "html": "\n・　軍務局長室で執務中、<a href=\"../1935/07masak.html\">真崎教育総監更迭</a>の首謀者として<a href=\"../p/asaburo.html\">相沢中佐</a>に<a href=\"../1935/08aizaw.html\">斬殺される</a>。"
       }
      ]
     }
    ]
   },
   {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
-  },
-  {
    "type": "timeline",
    "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/07/28　　<a href=\"../1914/07taise.html\">\nオーストリア、セルビアに宣戦布告</a>　（第一次世界大戦勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/10/27　　<a href=\"../1921/10baden.html\">\nバーデン・バーデンの密約</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/04/13　　<a href=\"../1925/04gakko.html\">\n陸軍現役将校学校配属令公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/05/01　　<a href=\"../1925/05ugaki.html\">\n陸軍軍縮計画（宇垣軍縮）発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1928/06/04　　<a href=\"../1928/06cyoxx.html\">\n満州某重大事件</a>　（<a href=\"../p/cyosakur.html\">張作霖</a>爆殺）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1929/05/19　　<a href=\"../1929/05issek.html\">\n一夕会結成</a>"
+      }
+     ]
+    },
     {
      "cls": "b",
      "cells": [
@@ -158,7 +211,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1934/10/01　　<a href\"..=\"\" 19.html\"=\"\">\n陸軍省「国防の本義とその強化の提唱（陸軍パンフレット）」発行</a>"
+       "html": "1934/10/01　　<a href=\"../1934/10rikup.html\">\n陸軍パンフレット「国防の本義と其強化の提唱」発行</a>"
       }
      ]
     },
@@ -178,7 +231,17 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1935/07/16　　<a href=\"../1935/07masak.html\">\n真崎教育総監罷免</a>　（後任：「統制派」<a href=\"../p/wjotaro.html\">渡辺錠太郎</a>）"
+       "html": "1935/07/11　　<a href=\"../1935/07ikens.html\">\n「粛軍に関する意見書」配布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/07/15　　<a href=\"../1935/07masak.html\">\n真崎教育総監更迭</a>　（後任：「統制派」<a href=\"../p/wjotaro.html\">渡辺錠太郎</a>）"
       }
      ]
     },
@@ -188,7 +251,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1935/08/12　　<a href=\"../1935/08aizaw.html\">\n相沢事件　（永田軍務局長斬殺）</a>"
+       "html": "1935/08/12　　<a href=\"../1935/08aizaw.html\">\n相沢事件</a>　（<a href=\"../p/ntetuzan.html\">永田軍務局長</a>斬殺）"
       }
      ]
     },
@@ -208,49 +271,57 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "cm"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "<span class=\"m_y\">語録</span>\nいたずらに独善猪突するは、現在日本の実情がこれを許さぬばかりでなく、\n八紘一宇の大理想を顕現するになんらの意味もなさないのみか、非常なる障碍となる。\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "<span class=\"m_b\">エピソード</span>\n調査中。"
+   "html": "<span class=\"m_y\">語録</span>\n近世物質的威力の進歩の程度が理解出来ず、青竜刀式頭脳、まだ残って居ること、\n及び過度に日本人の国民性を自負する過誤に陥って居る者の多いことが危険なり。<br>\n国が貧乏にして思う丈の事が出来ず、理想の改造の出来ないのが欧米と日本との国情の差中最大のものなるべし、\n此の欠陥を糊塗するため粉飾する為に、まけ惜しみの抽象的文句を列べて気勢をつけるは、\n止むを得ぬ事ながら、之を実際の事と思い誤るが如きは大いに注意を要す。\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "cm"
    },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
+   "html": "<span class=\"m_y\">語録</span>\n国家総動員とは、有事の際に国家社会の全部を挙げて、平時の態勢から戦時の態勢に移り、\nそうして、国家が利用しうる有形無形、人的物的のあらゆる資源を組織し統合し運用いたしまして、\n最大の国力的戦争力を発揮する事業である。\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
+   "html": "<span class=\"m_o\">評</span>\n三度の会談を通じて残っている印象は鮮明なものがあり、永田の時代から<a href=\"../1945/08gyoku.html\">終戦</a>に至るまでの間、\n陸海軍をあわせて私が知った将校は無数だが、インテリらしく、いかにも才物らしい鋭さを示したものは稀で、\nこの点では、彼に師事した<a href=\"../p/makira.html\">武藤</a>などまだ及ばずの感が深い。\n永田が軍務局長として鮮満視察から帰ったあと<a href=\"../p/asaburo.html\">相沢</a>に<a href=\"../1935/08aizaw.html\">殺される</a>十数日前だったが、\n一夜会食した席上で、私が視察談を求めたのに答えて、これは極く内密の話であり私見にとどまるがと前置きして、\n関東軍の満州国に対する内面指導は早く打切る必要があり、\nまた朝鮮は軍備と外交とを除き、国内自治を許す方向にもって行く必要を痛感したと語ったのである。\n永田によれば、満州国に対する政治的内面指導は、満州国の育成上必要として考えられたものであるが、\n視察の結果は、満州国創成の意義を理解せざる俗物軍人や、この軍人を利用する一儲け主義の民間人のため、\n悪用される危険が高まりつつあり、むしろ早きに打ち切って、満州国の自立を助けることこそ賢明と考えたらしい。\nまた朝鮮の内政自治は、満州その他に朝鮮人が日鮮両国名を悪用し使い分けて、種々の弊害を叢生させていることや、\n日本国内に及ぼしている様々の弊風から考えて、自治こそ賢明得策とし、満州国とともに将来は独立も考えたらよく、\nそして日満鮮の間に同盟で結合させる方策こそ考究すべしというにあったように思う。\n私はこの話を聞きながら、軍人と話しているというよりも、大学教授と語っているような気がしたし、\n静かに落ちついて説く彼に、ありふれた軍人などのもたぬ卓見を聞いたのである。\n今でこそこんな見解は何でもないようなものだが、当時としては政界人でもここまでは、\n個人の意見としても言い切れなかった識見であったのだ。\n<div class=\"r\">矢次一夫　（国策研究会設立者）</div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
+   "html": "<span class=\"m_o\">評</span>\n秀才永田鉄山の名は、その特有な名前と共に、佐官時代からすでに陸軍部内に売れていた。\n将来の陸軍大臣、これは衆目のひとしく認めたところである。\n連隊長ともなれば馘首を恐れて、消極或は事なかれ主義に陥るものがあるが、\n自信のあるかれはあくまで積極的であった。\n<div class=\"r\">新井勲　（元陸軍中尉）</div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span>永田は一局長ではありながら、その政治的器量と存在感は、\n昭和陸軍史上、<a href=\"../p/ukazusig.html\">宇垣一成</a>以来といえる。\nただ、永田には<a href=\"../p/ukazusig.html\">宇垣</a>のような巧みな権謀術策はない。\n徹底した真正面攻撃型であり、「合理適正居士」の渾名が示す通り、きわめて現実主義で、\n割り切りは早く強引である。</div>\n<div class=\"txr\"><a href=\"../text/mk_gunji.html\">升本喜年 「軍人の最期」</a>\n　Ｐ．１７９<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25BB%258D%25E4%25BA%25BA%25E3%2581%25AE%25E6%259C%2580%25E6%259C%259F%25E2%2580%2595%25E6%2594%25BF%25E6%25B2%25BB%25E7%259A%2584%25E5%25B0%2586%25E8%25BB%258D%25E3%2581%25AE%25E7%2594%259F%25E3%2581%258D%25E3%2581%2596%25E3%2581%25BE%25E3%2581%25A8%25E3%2581%259D%25E3%2581%25AE%25E6%25AD%25BB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>現在の中学や高校でもそうだが、たまに「超」の字のつくほど凄い秀才がいる。\nそんな生徒に限って、大して勉強しなくてもよく出来る。\n友達つき合いもいい。畏敬もされるが、嫉まれもする。\n永田鉄山は、その手の超秀才だったようだ。</div>\n<div>【中略】</div>\n<div>真面目で知性的で、現実的な合理主義の一面があり、馴れ合いの徒党を組むことを嫌い、\n孤高の感じもあったが、酒も女も好き。器の大きさを感じさせたという。</div>\n<div class=\"txr\"><a href=\"../text/mk_gunji.html\">升本喜年 「軍人の最期」</a>\n　Ｐ．２２０<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25BB%258D%25E4%25BA%25BA%25E3%2581%25AE%25E6%259C%2580%25E6%259C%259F%25E2%2580%2595%25E6%2594%25BF%25E6%25B2%25BB%25E7%259A%2584%25E5%25B0%2586%25E8%25BB%258D%25E3%2581%25AE%25E7%2594%259F%25E3%2581%258D%25E3%2581%2596%25E3%2581%25BE%25E3%2581%25A8%25E3%2581%259D%25E3%2581%25AE%25E6%25AD%25BB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -258,7 +329,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

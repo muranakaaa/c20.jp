@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1929.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1929.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -143,25 +152,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -175,9 +168,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "<span class=\"m_y\">語録</span>\n<a href=\"../p/ysenji.html\">彼</a>はまだ我が党に加入していなかった。\n<a href=\"../p/ysenji.html\">彼</a>は現在の「無産政党代議士」の中で、階級的立場にふみとどまった唯一人の人であった。\nそれ故に、敵は「無産政党代議士」の中で<a href=\"../p/ysenji.html\">彼</a>を選んで殺したのである。\n疑いもなく<a href=\"../p/ysenji.html\">彼</a>は労働者農民のために倒れたのだ。\n<div class=\"r\">「赤旗」　（共産党機関紙）</div>\n"
   },
   {
    "type": "raw",
@@ -185,7 +178,15 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>有松特捜課長の報告にもとづいて、ただちに横山警保局長、牛島警務部長、有松特捜課長の談話が発表された。\n警保局長は、「取調の結果今の処、政治的には何の意味がなく、単に思想的関係のみの様である。\n七生義団に対しては何等処置しようと考へて居らぬ、\nまた代議士の身辺警戒については特に方針を変更しようとも考えてゐない。」（報知新聞六日夕刊）と語り、\n警務部長は、「かかる突発の事件に対しては事あたかも強盗事件が突発する如きものでこれをどうすることも出来ない」（同前）と\n警戒の責任をさける発言をしている。\nまた有松特捜課長は、「私の取調べでは黒田に殺意の作為は無かったが、\n若し抵抗したらやらうと思ってゐたやうである。\nつまり本人としては殺す意志はなかったが、<a href=\"../p/ysenji.html\">山本氏</a>に暴行されたので正当防衛の意味で思はず殺してしまったといふことになってゐる。\n従ってこれを傷害致死として検事局へ送るべきか殺人罪であるやは甚だデリケートな問題であるが、\n若し私がかれを送るものとすれば殺人ではなくて傷害致死で送る」（東京日日新聞六日夕刊）と断定的な発表をしている。</div>\n<div>これらの黒田の自白についての発表はすべて警視庁特捜課長有松が五日夜から六日早朝にかけて黒田を取調べた結果として発表されたものである。\nまだ<a href=\"../p/ysenji.html\">山宣</a>の死体解剖すら行なわれる以前のこと、犯行後半日たたぬ時の発表である。\n犯罪捜査に責任を負うべき警視庁特捜課長の発言とは思われないほど、あまりにも軽率な発言であり、\nあまりにも饒舌である。\nさすがに検事局も、警視庁のあまりにも早く発表しすぎた正当防衛論では世論の攻撃に抗しえないと見て、\n警視庁の見解をしりぞけ独自の取調べをすると発表した。\nまた各新聞は警視庁の発表にかえって疑惑をいだき背後関係をあさりはじめた。</div>\n<div>有松が饒舌であった理由は、山宣暗殺の糸を引いていた当人が有松であったからである。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/st2yamas.html\">佐々木敏二 「山本宣治（下）」</a>\n　Ｐ．３５５</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>有松特捜課長の報告にもとづいて、ただちに横山警保局長、牛島警務部長、有松特捜課長の談話が発表された。\n警保局長は、「取調の結果今の処、政治的には何の意味がなく、単に思想的関係のみの様である。\n七生義団に対しては何等処置しようと考へて居らぬ、\nまた代議士の身辺警戒については特に方針を変更しようとも考えてゐない。」（報知新聞六日夕刊）と語り、\n警務部長は、「かかる突発の事件に対しては事あたかも強盗事件が突発する如きものでこれをどうすることも出来ない」（同前）と\n警戒の責任をさける発言をしている。\nまた有松特捜課長は、「私の取調べでは黒田に殺意の作為は無かったが、\n若し抵抗したらやらうと思ってゐたやうである。\nつまり本人としては殺す意志はなかったが、<a href=\"../p/ysenji.html\">山本氏</a>に暴行されたので正当防衛の意味で思はず殺してしまったといふことになってゐる。\n従ってこれを傷害致死として検事局へ送るべきか殺人罪であるやは甚だデリケートな問題であるが、\n若し私がかれを送るものとすれば殺人ではなくて傷害致死で送る」（東京日日新聞六日夕刊）と断定的な発表をしている。</div>\n<div>これらの黒田の自白についての発表はすべて警視庁特捜課長有松が五日夜から六日早朝にかけて黒田を取調べた結果として発表されたものである。\nまだ<a href=\"../p/ysenji.html\">山宣</a>の死体解剖すら行なわれる以前のこと、犯行後半日たたぬ時の発表である。\n犯罪捜査に責任を負うべき警視庁特捜課長の発言とは思われないほど、あまりにも軽率な発言であり、\nあまりにも饒舌である。\nさすがに検事局も、警視庁のあまりにも早く発表しすぎた正当防衛論では世論の攻撃に抗しえないと見て、\n警視庁の見解をしりぞけ独自の取調べをすると発表した。\nまた各新聞は警視庁の発表にかえって疑惑をいだき背後関係をあさりはじめた。</div>\n<div>有松が饒舌であった理由は、山宣暗殺の糸を引いていた当人が有松であったからである。</div>\n<div class=\"txr\"><a href=\"../text/st2yamas.html\">佐々木敏二 「山本宣治（下）」</a>\n　Ｐ．３５５<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4938303019%2Fqid%3D1147088125%2Fsr%3D1-5%2Fref%3Dsr_1_8_5\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>東京の同志たちの最大の悩みは、自分たちが当夜すぐ近くの演説会場に居りながら、\n疲れきった<a href=\"../p/ysenji.html\">山宣</a>を一人で宿に帰らし、むざむざと兇刃に命を堕させてしまったことであった。\n上京してくる遺族に対してなんと申訳をしよう、なんとおわびをしようということであった。\n夕方東京に着いた山中、奥村の二人は、大山に多年の伝言を伝えた。</div>\n<div>「<a href=\"../p/ysenji.html\">宣治</a>の死は悲しいことですが、全然予期していなかったことではありません。\n遺骨は荼毘に附して送り返して下さい。\n唯一つのお願いは、<a href=\"../p/ysenji.html\">宣治</a>の遺骸を旧労農党の党旗でつつんで棺に収めて下さい。\n<a href=\"../p/ysenji.html\">宣治</a>は生前常にその赤旗のことを口にしていましたから、そうして下されば、何にもまして本懐でしょう。」</div>\n<div><a href=\"../p/ysenji.html\">山宣</a>は議会解散請願運動以来一貫して旧労農党の精神を守りぬいて死んだ、\n多年からの伝言を聞いて東京の同志たちは泣いた。</div>\n<div class=\"txr\"><a href=\"../text/st2yamas.html\">佐々木敏二 「山本宣治（下）」</a>\n　Ｐ．３６１<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4938303019%2Fqid%3D1147088125%2Fsr%3D1-5%2Fref%3Dsr_1_8_5\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -193,7 +194,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -46,9 +55,9 @@
    "type": "raw",
    "tag": "table",
    "attrs": {
-    "class": "off"
+    "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"04t.html\">一覧　（タ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=books-jp%26keyword=%25E5%25AF%25BA%25E5%2586%2585%2520%25E6%25AD%25A3%25E6%25AF%2585\" target=\"_blank\">本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></td><td class=\"lt\"><a href=\"../them/j_gov02.html#s4\">【テーマ・内閣成立史】</a></td></tr></tbody>"
   },
   {
    "type": "raw",
@@ -57,14 +66,6 @@
     "class": "off"
    },
    "html": "<span class=\"m_r\">エピソード 1</span>調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
   },
   {
    "type": "timeline",
@@ -140,14 +141,6 @@
      ]
     }
    ]
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "timeline",
@@ -408,7 +401,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1911/01/18　　<a href\"..=\"\" 19.html\"=\"\">\n幸徳秋水ら24名に死刑判決　（大逆事件）</a>"
+       "html": "1911/01/18　　<a href=\"../1911/01taigy.html\">\n幸徳秋水ら24名に死刑判決</a>　（大逆事件）"
       }
      ]
     },
@@ -468,7 +461,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1917/06/02　　<a href\"..=\"\" 19.html\"=\"\">\n寺内首相、原・</a><a href=\"../p/ktakaaki.html\">加藤</a>・犬養３党首に臨時外交調査会委員就任を要請"
+       "html": "1917/06/02　　<a href=\"../1917/06gaiko.html\">\n寺内首相、３党首に臨時外交調査会委員就任を要請</a>"
       }
      ]
     },
@@ -538,9 +531,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>寺内というのは軍事的才能はあまりなく、実戦の経験もほとんどなく、軍政家の位置にありながら、\n陸軍の将来を見通しての体質改善ということもしなかった。\nただ部内人事は上手であり（むろん藩閥的発想によるものだが）、さらに書類がすきで、事務家としては克明であった。</div>\n<div class=\"txr\"><a href=\"../text/sr4sakan.html\">司馬遼太郎 「坂の上の雲（４）」</a>\n　Ｐ．１８７<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%259D%2582%25E3%2581%25AE%25E4%25B8%258A%25E3%2581%25AE%25E9%259B%25B2%25E3%2580%25884%25E3%2580%2589%2520%2520%2520%2520%25E6%2596%2587%25E6%2598%25A5%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -548,39 +541,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>寺内というのは軍事的才能はあまりなく、実戦の経験もほとんどなく、軍政家の位置にありながら、\n陸軍の将来を見通しての体質改善ということもしなかった。\nただ部内人事は上手であり（むろん藩閥的発想によるものだが）、さらに書類がすきで、事務家としては克明であった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/sr4sakan.html\">司馬遼太郎 「坂の上の雲（４）」</a>\n　Ｐ．１８７</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "tx"
-   },
-   "html": "\n<div>「君は重箱のすみをせせるような男だ」</div>\n<div>と、同郷の<a href=\"../p/kgentaro.html\">児玉源太郎</a>が寺内をそうようにからかったことがあるが、寺内のこの性癖は全陸軍に知られていた。\nこの点、おなじ長州人の<a href=\"../p/nmaresuk.html\">乃木希典</a>に酷似しているが、<a href=\"../p/nmaresuk.html\">乃木</a>とのちがいは、<a href=\"../p/nmaresuk.html\">乃木</a>は極端な精神主義で、\n寺内は偏執的なほどの規律好きという点にあり、いずれもリゴリズムという点ではかわりはない。\nあるいは長州人のいくつかの性格の型にこの種の系列があるのであろう。\nたれかの言葉に、精神主義と規律主義は無能者にとっての絶好の隠れ蓑である、ということがあるそうだが、\n寺内と<a href=\"../p/nmaresuk.html\">乃木</a>についてこの言葉で評し去ってしまうのは多少酷であろう。\nかれらは有能無能である以前に長州人であるがために栄進した。\n時の勢いが、かれらを栄進させた。\n栄進して将領になった以上、その職責相応の能力発揮が必要であったが、かれらはその点で欠けていた。\n欠けている部分について<a href=\"../p/nmaresuk.html\">乃木</a>は自閉症的になった。\nみずから精神家たろうとした。\n<a href=\"../p/nmaresuk.html\">乃木</a>は少将に昇進してから人変わりしたように精神家になったのは、そういう自覚があったからであろう。\n<a href=\"../p/nmaresuk.html\">乃木</a>がみずからを閉じこめたのに対し、寺内は他人を規律のなかに閉じこめようとした。</div>\n<div><a href=\"../p/ayosifur.html\">秋山好古</a>が明治十年、陸軍士官学校に入ったとき、寺内正毅は大尉で、士官学校の生徒隊長であった。\nそのころ寺内は士官学校にちかい土手三番町に住んでいたが、かれは当時の定刻に学校から退出しても、\nそのあと自宅の窓から双眼鏡で校舎をのぞくのが日常の作業になっていた。\nかれにとっては生徒は規律の中の囚人であり、囚人どもが行儀よく自習しているかどうかをスパイ同然の方法で見張ることが教育であった。\nかれは夫人に対しても同様であった。\nその夫人が襖をあけて出入りする動作をじっと見、すこしでも不行儀なふるまいがあると、客の前でも大声で叱った。\n徹底した他律者であった。</div>\n<div>かれは西南戦争で右腕に負傷し、このため軍隊指揮官はやったことがなく、教育と軍政畑ばかりにいた。\n陸軍大臣になってからなにかの用事で士官学校にやってきたことがあるが、\n校門に「陸軍士官学校」と陽刻された金文字の看板が青さびて光沢を失っているのを発見した。\n重大な発見であった。\nかれはすぐ校長の某中将をよびつけ、大いに叱った。\nその叱責の論理は規律主義者が好んで用いる形式論理で、</div>\n<div>「この文字はおそれ多くも有栖川宮一品親王殿下のお手に成るものである」からはじまる。\n「しかるをなんぞや、この手入れを怠り、このように錆を生ぜしめ、ほとんど文字を識別しかねるまでに放置しているとは。\nまことに不敬の至りである。\nさらにひるがえって思えば本校は日本帝国の士官教育を代表すべき唯一の学校であるにもかかわらず、\nその扁額に錆を生ぜしめるとは、ひとり士官学校の不面目ならず、わが帝国陸軍の恥辱であり、\n帝国陸軍の恥辱であるということは、わが大日本帝国の国辱である」</div>\n<div>と、説諭した。この愚にもつかぬ形式論理はその後の帝国陸軍に遺伝相続され、\n帝国陸軍にあっては伍長にいたるまでこの種の論理を駆使して兵を叱責し、みずからの権威をうちたてる風習ができた。\n逆に考えれば寺内正毅という器にもっとも適した職は、伍長か軍曹がつとめる内務班長であったかもしれない。\nなぜならば、寺内陸相は日露戦争前後の陸軍のオーナーでありながら、陸軍のためになにひとつ創造的な仕事をしなかったからである。</div>\n<div>その点については、彼を賞めるために書かれた「元帥寺内伯爵伝」（大正九年発行・元帥寺内伯爵伝記編纂所刊）ですら、\nやむなく、「伯は創造的の人というよりも寧ろ整理的の人であった」と、須永武義（陸軍中将）のことばをかかげている。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/sr8sakan.html\">司馬遼太郎 「坂の上の雲（８）」</a>\n　Ｐ．３２４</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span>「君は重箱のすみをせせるような男だ」</div>\n<div>と、同郷の<a href=\"../p/kgentaro.html\">児玉源太郎</a>が寺内をそうようにからかったことがあるが、寺内のこの性癖は全陸軍に知られていた。\nこの点、おなじ長州人の<a href=\"../p/nmaresuk.html\">乃木希典</a>に酷似しているが、<a href=\"../p/nmaresuk.html\">乃木</a>とのちがいは、<a href=\"../p/nmaresuk.html\">乃木</a>は極端な精神主義で、\n寺内は偏執的なほどの規律好きという点にあり、いずれもリゴリズムという点ではかわりはない。\nあるいは長州人のいくつかの性格の型にこの種の系列があるのであろう。\nたれかの言葉に、精神主義と規律主義は無能者にとっての絶好の隠れ蓑である、ということがあるそうだが、\n寺内と<a href=\"../p/nmaresuk.html\">乃木</a>についてこの言葉で評し去ってしまうのは多少酷であろう。\nかれらは有能無能である以前に長州人であるがために栄進した。\n時の勢いが、かれらを栄進させた。\n栄進して将領になった以上、その職責相応の能力発揮が必要であったが、かれらはその点で欠けていた。\n欠けている部分について<a href=\"../p/nmaresuk.html\">乃木</a>は自閉症的になった。\nみずから精神家たろうとした。\n<a href=\"../p/nmaresuk.html\">乃木</a>は少将に昇進してから人変わりしたように精神家になったのは、そういう自覚があったからであろう。\n<a href=\"../p/nmaresuk.html\">乃木</a>がみずからを閉じこめたのに対し、寺内は他人を規律のなかに閉じこめようとした。</div>\n<div><a href=\"../p/ayosifur.html\">秋山好古</a>が明治十年、陸軍士官学校に入ったとき、寺内正毅は大尉で、士官学校の生徒隊長であった。\nそのころ寺内は士官学校にちかい土手三番町に住んでいたが、かれは当時の定刻に学校から退出しても、\nそのあと自宅の窓から双眼鏡で校舎をのぞくのが日常の作業になっていた。\nかれにとっては生徒は規律の中の囚人であり、囚人どもが行儀よく自習しているかどうかをスパイ同然の方法で見張ることが教育であった。\nかれは夫人に対しても同様であった。\nその夫人が襖をあけて出入りする動作をじっと見、すこしでも不行儀なふるまいがあると、客の前でも大声で叱った。\n徹底した他律者であった。</div>\n<div>かれは西南戦争で右腕に負傷し、このため軍隊指揮官はやったことがなく、教育と軍政畑ばかりにいた。\n陸軍大臣になってからなにかの用事で士官学校にやってきたことがあるが、\n校門に「陸軍士官学校」と陽刻された金文字の看板が青さびて光沢を失っているのを発見した。\n重大な発見であった。\nかれはすぐ校長の某中将をよびつけ、大いに叱った。\nその叱責の論理は規律主義者が好んで用いる形式論理で、</div>\n<div>「この文字はおそれ多くも有栖川宮一品親王殿下のお手に成るものである」からはじまる。\n「しかるをなんぞや、この手入れを怠り、このように錆を生ぜしめ、ほとんど文字を識別しかねるまでに放置しているとは。\nまことに不敬の至りである。\nさらにひるがえって思えば本校は日本帝国の士官教育を代表すべき唯一の学校であるにもかかわらず、\nその扁額に錆を生ぜしめるとは、ひとり士官学校の不面目ならず、わが帝国陸軍の恥辱であり、\n帝国陸軍の恥辱であるということは、わが大日本帝国の国辱である」</div>\n<div>と、説諭した。この愚にもつかぬ形式論理はその後の帝国陸軍に遺伝相続され、\n帝国陸軍にあっては伍長にいたるまでこの種の論理を駆使して兵を叱責し、みずからの権威をうちたてる風習ができた。\n逆に考えれば寺内正毅という器にもっとも適した職は、伍長か軍曹がつとめる内務班長であったかもしれない。\nなぜならば、寺内陸相は日露戦争前後の陸軍のオーナーでありながら、陸軍のためになにひとつ創造的な仕事をしなかったからである。</div>\n<div>その点については、彼を賞めるために書かれた「元帥寺内伯爵伝」（大正九年発行・元帥寺内伯爵伝記編纂所刊）ですら、\nやむなく、「伯は創造的の人というよりも寧ろ整理的の人であった」と、須永武義（陸軍中将）のことばをかかげている。</div>\n<div class=\"txr\"><a href=\"../text/sr8sakan.html\">司馬遼太郎 「坂の上の雲（８）」</a>\n　Ｐ．３２４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%259D%2582%25E3%2581%25AE%25E4%25B8%258A%25E3%2581%25AE%25E9%259B%25B2%25E3%2580%25888%25E3%2580%2589%2520%2520%2520%2520%25E6%2596%2587%25E6%2598%25A5%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -588,7 +549,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1940.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1940.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -213,25 +222,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -245,17 +238,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>外相<a href=\"../p/ribben_j.html\">リベントロップ</a>には「五月ごろ」の参戦をほのめかしたが、\nイタリヤ経済はとても早期の参戦を許さぬ事情にあった　【中略】。</div>\n<div>軍備は遅れに遅れ、中には前世紀の「赤シャツ」党首Ｇ・ガリバルジ時代の旧式砲を配備されている部隊もあり、\n軍需相Ｃ・ファバグロッサは、二月末、次のように首相<a href=\"../p/mussol_b.html\">ムソリーニ</a>に報告していた。</div>\n<div>「全産業が二十四時間操業をつづけたとして、わが国が十分な軍備をととのえ得るのは、\n最も早い時期が一九四九年です。\nたぶん、実際には一九五九年までかかりましょう」</div>\n<div>金融相Ｒ・リカルディは、</div>\n<div>「わが国は年間二千五百万トンの食糧を輸入している。\n中立を放棄すればこの輸入は絶えてしまう」</div>\n<div>と述べ、「参戦即飢餓」だと強調した。</div>\n<div>このような事情では、首相<a href=\"../p/mussol_b.html\">ムソリーニ</a>としては「国家を救う」ために参戦を拒否せざるを得ない。</div>\n<div>首相<a href=\"../p/mussol_b.html\">ムソリーニ</a>は、三月十六日、外相<a href=\"../p/ciano_g.html\">チアノ</a>に、<a href=\"../p/hitler_a.html\">ヒトラー</a>には、参戦には同意する、\nしかしその時期を選ぶ権利は保留するというつもりだ、と語り、肩をすくめてつけ加えた。</div>\n<div>「昔話に、絞首刑をいい渡された罪人が、最後の頼みをきいてやるといわれて、\n首をつられる樹を選ばせてくれ、といって許可された。\nそして、結局は、どの樹も気にいらぬといいつづけて生きのびた、という話だ」</div>\n<div>これでいこうじゃないか、と首相<a href=\"../p/mussol_b.html\">ムソリーニ</a>は自嘲の意をこめた苦笑まじりにいい、\n外相<a href=\"../p/ciano_g.html\">チアノ</a>も冴えない表情でうなずき、二人は三月十七日午後一時三十分、特別列車でローマを出発した。</div>\n<div class=\"txr\"><a href=\"../text/kn3hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（３）」</a>\n　Ｐ．１２３<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167141388%2Fqid%3D1147087396%2Fsr%3D1-17%2Fref%3Dsr_1_2_17\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -263,7 +248,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

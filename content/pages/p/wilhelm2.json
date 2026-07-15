@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -52,27 +61,11 @@
   },
   {
    "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
    "tag": "table",
    "attrs": {
     "class": "off"
    },
    "html": "<tbody><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr></tbody>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "timeline",
@@ -163,7 +156,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1914/08/26　　<a href\"..=\"\" 19.html\"=\"\">\nタンネンベルクの戦い　（～08/30）</a>"
+       "html": "1914/08/26　　<a href=\"../1914/08tanne.html\">\nタンネンベルクの戦い</a>　（～08/30）"
       }
      ]
     },
@@ -173,7 +166,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1914/09/05　　<a href\"..=\"\" 19.html\"=\"\">\nマルヌの戦い　（～09/12／西部戦線膠着）</a>"
+       "html": "1914/09/05　　<a href=\"../1914/09marne.html\">\nマルヌの戦い</a>　（～09/12／西部戦線膠着）"
       }
      ]
     },
@@ -203,7 +196,27 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1916/02/21　　<a href\"..=\"\" 19.html\"=\"\">\nヴェルダン要塞攻防戦　（～07/11）</a>"
+       "html": "1916/02/21　　<a href=\"../1916/02verdu.html\">\nヴェルダン要塞攻防戦</a>　（～07/11）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/07/01　　<a href=\"../1916/07somme.html\">\nソンムの戦い</a>　（～11/18）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1917/01/09　　<a href=\"../1917/01d_sub.html\">\nドイツ、無制限潜水艦作戦を決定</a>　（01/31 対米通告）"
       }
      ]
     },
@@ -213,7 +226,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1917/01/09　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ、無制限潜水艦作戦を決定　（01/31 対米通告）</a>"
+       "html": "1917/04/06　　<a href=\"../1917/04a_san.html\">\nアメリカ、対独参戦</a>"
       }
      ]
     },
@@ -223,17 +236,17 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1917/04/06　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ、対独参戦</a>"
+       "html": "1918/03/03　　<a href=\"../1918/03brest.html\">\nブレスト・リトフスク条約調印</a>　（ソビエト政府、独墺と講和）"
       }
      ]
     },
     {
-     "cls": "b",
+     "cls": "n",
      "cells": [
       {
        "id": "l",
        "cls": null,
-       "html": "1918/03/03　　<a href\"..=\"\" 19.html\"=\"\">\nブレストリトフスク条約調印　（ソビエト政府、独墺と講和）</a>"
+       "html": "1918/03/21　　<a href=\"../1918/03micha.html\">\nドイツ軍、西部戦線で大反攻開始</a>　（ミヒャエル作戦）"
       }
      ]
     },
@@ -303,49 +316,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>ドイツの皇帝ウィルヘルム二世は凡庸な資質のもちぬしであったが、しかし虚栄心がつよく、\nさらには芝居っ気が多く、国家的演技をすることがむしょうに好きであった。</div>\n<div>名宰相といわれたビスマルクの退陣後、カイゼルは自分の意見や機嫌をそこなうことのない首相をえらび、\nさらにはかれを輔佐する他の文官も武官も自分で選んだ。\n議会が存在するとはいえ、ドイツの政体は皇帝の専制をゆるしているという点で、英国やフランスにくらべておそろしく田舎臭かった。\nただロシア皇帝のような無制限の専制はもっていなかったが、それだけにカイゼルはロシアにはない議会という国内勢力に対して\nさまざまな機略をもちい、操縦し、みずからの帝権をすこしでも誇示しようとする権謀家的性格をみずからつくりあげた。\nその権謀家的性格は外交に対しても露骨にあらわれ、つねに他国をあっといわせ、ときには手玉にとり、\nときには無用なほどのまやかしをやってのけたいという欲求をどうにも抑えきれない政治家に自分を仕立てあげた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/sr7sakan.html\">司馬遼太郎 「坂の上の雲（７）」</a>\n　Ｐ．２０８</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span>ドイツの皇帝ウィルヘルム二世は凡庸な資質のもちぬしであったが、しかし虚栄心がつよく、\nさらには芝居っ気が多く、国家的演技をすることがむしょうに好きであった。</div>\n<div>名宰相といわれたビスマルクの退陣後、カイゼルは自分の意見や機嫌をそこなうことのない首相をえらび、\nさらにはかれを輔佐する他の文官も武官も自分で選んだ。\n議会が存在するとはいえ、ドイツの政体は皇帝の専制をゆるしているという点で、英国やフランスにくらべておそろしく田舎臭かった。\nただロシア皇帝のような無制限の専制はもっていなかったが、それだけにカイゼルはロシアにはない議会という国内勢力に対して\nさまざまな機略をもちい、操縦し、みずからの帝権をすこしでも誇示しようとする権謀家的性格をみずからつくりあげた。\nその権謀家的性格は外交に対しても露骨にあらわれ、つねに他国をあっといわせ、ときには手玉にとり、\nときには無用なほどのまやかしをやってのけたいという欲求をどうにも抑えきれない政治家に自分を仕立てあげた。</div>\n<div class=\"txr\"><a href=\"../text/sr7sakan.html\">司馬遼太郎 「坂の上の雲（７）」</a>\n　Ｐ．２０８<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%259D%2582%25E3%2581%25AE%25E4%25B8%258A%25E3%2581%25AE%25E9%259B%25B2%25E3%2580%25887%25E3%2580%2589%2520%2520%2520%2520%25E6%2596%2587%25E6%2598%25A5%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -353,7 +326,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

@@ -12,7 +12,7 @@
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
   },
   {
    "type": "navi",

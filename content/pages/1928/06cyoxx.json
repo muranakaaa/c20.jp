@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1928.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1928.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -53,7 +62,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1926/07/09　　<a href\"..=\"\" 19.html\"=\"\">\n蒋介石、北伐開始</a>"
+       "html": "1926/07/09　　<a href=\"../1926/07hokub.html\">\n蒋介石、北伐開始</a>"
       }
      ]
     },
@@ -213,14 +222,6 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "pt"
    },
    "html": "\n<div class=\"pt_h\">～　関東軍参謀・河本大作大佐の計画　～</div>\n<div class=\"c\"><a href=\"../p/cyosakur.html\">張作霖</a>爆殺 → 満州混乱 → 関東軍治安出動 → 満州制圧（関東軍による直接支配） </div>\n"
@@ -229,9 +230,17 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "tx"
    },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\n張作霖爆殺事件（満州某重大事件）の日本史における意義は、いくら強調しても強調しすぎることはないだろう。\n振り返れば反省点てんこ盛りのこの事件だが、実際に反省した人はきわめて少ない。\n<a href=\"../p/stenno.html\">昭和天皇</a>と<a href=\"../p/ikanji.html\">石原莞爾</a>ぐらいだろう。\n<a href=\"../p/stenno.html\">昭和天皇</a>は、処分の甘い<a href=\"../p/tgiici.html\">田中首相</a>（陸軍大将）をきびしく叱責したことを、若気の至りと反省し、\n<a href=\"../p/ikanji.html\">石原</a>は、やるならもっと計画的にやらなきゃと反省、三年後、練りに練って満州事変をみごと（？）成功させた。\nどっちの反省も、この後の日本を暗い方向に進めるものだっただけにtaroはがっくりだ。\nいちばん反省しなければならなかったことはビジョンの欠如だったろう。\n中央が<a href=\"../p/cyosakur.html\">張作霖</a>を遠隔操作して<a href=\"../p/syokaise.html\">蒋介石</a>に対抗させようとしているときに、海外の出先がその<a href=\"../p/cyosakur.html\">張作霖</a>を爆殺、\nというのはいかにもチグハグで、しっかりしたビジョンがあれば起こりえないことだ。\n反省は今からでも遅すぎはしない、これはtaroの信条だ。\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "cm"
+   },
+   "html": "<span class=\"m_y\">語録</span>\n<a href=\"../p/tgiici.html\">親</a>の心子知らずとはこのことだ。\n<div class=\"r\"><a href=\"../p/tgiici.html\">田中義一</a>　（首相）</div>\n"
   },
   {
    "type": "raw",
@@ -239,15 +248,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<span class=\"m_v\">taro's トーク</span>\n張作霖爆殺事件（満州某重大事件）の日本史における意義は、いくら強調しても強調しすぎることはないだろう。\n振り返れば反省点てんこ盛りのこの事件だが、実際に反省した人はきわめて少ない。\n昭和天皇と石原莞爾ぐらいだろう。\n<a href=\"../p/stenno.html\">昭和天皇</a>は、処分の甘い田中首相（陸軍大将）をきびしく叱責したことを、若気の至りと反省し、\n石原は、やるならもっと計画的にやらなきゃと反省、三年後、練りに練って満州事変をみごと（？）成功させた。\nどっちの反省も、この後の日本を暗い方向に進めるものだっただけにtaroはがっくりだ。\nいちばん反省しなければならなかったことはビジョンの欠如だったろう。\n中央が<a href=\"../p/cyosakur.html\">張作霖</a>を遠隔操作して<a href=\"../p/syokaise.html\">蒋介石</a>に対抗させようとしているときに、海外の出先がその<a href=\"../p/cyosakur.html\">張作霖</a>を爆殺、\nというのはいかにもチグハグで、しっかりしたビジョンがあれば起こりえないことだ。\n反省は今からでも遅すぎはしない、これはtaroの信条だ。\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>張作霖爆殺事件が発生したのは昭和三年六月四日である。</div>\n<div>この頃<a href=\"../p/cyosakur.html\">張</a>は、北京において<a href=\"../p/syokaise.html\">蒋介石</a>の北伐軍主力と決戦しようと考えていたが、日本政府は<a href=\"../p/cyosakur.html\">張</a>が負けると、\n<a href=\"../p/syokaise.html\">蒋</a>の軍隊が山海関を通って満州に攻めて来るおそれありとして、<a href=\"../p/cyosakur.html\">張</a>に奉天に帰るよう警告していた。\n一方、関東軍は、満州の実権を手に入れる為には、言うことを聞かなくなって来た<a href=\"../p/cyosakur.html\">張</a>を倒さなければならないとして、\nひそかに<a href=\"../p/cyosakur.html\">張</a>の暗殺計画をすすめていた。</div>\n<div>六月三日<a href=\"../p/cyosakur.html\">張</a>は特別列車を編成して北京を発ち、京奉線で奉天に向った。</div>\n<div>四日午前五時、<a href=\"../p/cyosakur.html\">張</a>は起床して食堂車の喫煙室で煙草をすっていた。</div>\n<div>突如、轟然たる爆音と共に、三輛目の食堂車と四輛目の寝台車は炎上した。\n<a href=\"../p/cyosakur.html\">張</a>は重傷を負い、自邸にかつぎこまれたが絶命した。</div>\n<div>この爆殺を担当したのは関東軍の高級参謀河本大作大佐で実施に当ったのは独立守備隊の東宮鉄男大尉と朝鮮軍の亀山工兵隊であった。</div>\n<div>河本はあらかじめ中国人の浮浪者二名を殺して現場に放置し、これを南方の便衣隊に仕立てるという工作をやったが、\n日本軍の仕業ではないかという噂は忽ち拡がり、<a href=\"../1927/tanaa_1.html\">田中内閣</a>は苦境に立った。</div>\n<div class=\"txr\"><a href=\"../text/tm2saion.html\">豊田穣 「西園寺公望（下）」</a>\n　Ｐ．２１８<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E5%259C%2592%25E5%25AF%25BA%25E5%2585%25AC%25E6%259C%259B%25E2%2580%2595%25E6%259C%2580%25E5%25BE%258C%25E3%2581%25AE%25E5%2585%2583%25E8%2580%2581%2520%2528%25E4%25B8%258B%25E5%25B7%25BB%2529%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -255,15 +256,41 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>張作霖爆殺事件が発生したのは昭和三年六月四日である。</div>\n<div>この頃<a href=\"../p/cyosakur.html\">張</a>は、北京において<a href=\"../p/syokaise.html\">蒋介石</a>の北伐軍主力と決戦しようと考えていたが、日本政府は<a href=\"../p/cyosakur.html\">張</a>が負けると、\n<a href=\"../p/syokaise.html\">蒋</a>の軍隊が山海関を通って満州に攻めて来るおそれありとして、<a href=\"../p/cyosakur.html\">張</a>に奉天に帰るよう警告していた。\n一方、関東軍は、満州の実権を手に入れる為には、言うことを聞かなくなって来た<a href=\"../p/cyosakur.html\">張</a>を倒さなければならないとして、\nひそかに<a href=\"../p/cyosakur.html\">張</a>の暗殺計画をすすめていた。</div>\n<div>六月三日<a href=\"../p/cyosakur.html\">張</a>は特別列車を編成して北京を発ち、京奉線で奉天に向った。</div>\n<div>四日午前五時、<a href=\"../p/cyosakur.html\">張</a>は起床して食堂車の喫煙室で煙草をすっていた。</div>\n<div>突如、轟然たる爆音と共に、三輛目の食堂車と四輛目の寝台車は炎上した。\n<a href=\"../p/cyosakur.html\">張</a>は重傷を負い、自邸にかつぎこまれたが絶命した。</div>\n<div>この爆殺を担当したのは関東軍の高級参謀河本大作大佐で実施に当ったのは独立守備隊の東宮鉄男大尉と朝鮮軍の亀山工兵隊であった。</div>\n<div>河本はあらかじめ中国人の浮浪者二名を殺して現場に放置し、これを南方の便衣隊に仕立てるという工作をやったが、\n日本軍の仕業ではないかという噂は忽ち拡がり、田中内閣は苦境に立った。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm_saion.html\">豊田穣 「西園寺公望」</a>\n　下巻　Ｐ．２１８</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>関東軍の村岡長太郎司令官以下参謀は、</div>\n<div><span class=\"bar\">―</span>―北京政府をこしらえた<a href=\"../p/cyosakur.html\">張作霖</a>は、日本の意のままにならなくなっている。</div>\n<div><span class=\"bar\">―</span>―この<a href=\"../p/cyosakur.html\">張作霖</a>を、<a href=\"../p/syokaise.html\">蒋介石</a>が北伐革命の名の下に攻撃しつつある。</div>\n<div><span class=\"bar\">―</span>―おそらく<a href=\"../p/cyosakur.html\">張作霖</a>は北京で<a href=\"../p/syokaise.html\">蒋</a>に敗れ、満州に逃げ帰ってくるであろう。\nそこで関東軍が山海関に出兵し、逃げてくる<a href=\"../p/cyosakur.html\">張作霖</a>を武装解除する。\n<a href=\"../p/syokaise.html\">蒋介石</a>がこれを追撃してくれば、それも武装解除を行なう。</div>\n<div><span class=\"bar\">―</span>―無力化した<a href=\"../p/cyosakur.html\">張作霖</a>を討って、満州を関東軍の支配下に置く。やがて独立させる。</div>\n<div><span class=\"bar\">―</span>―もし蒋介石軍が日本の関東軍に抵抗するならば、これをも討伐する。</div>\n<div>そのような計画をたてていた。\nこれを確かなものにするために、関東軍参謀河本大作たちが仕組んだのが、張作霖暗殺であった。</div>\n<div><a href=\"../p/tgiici.html\">田中義一</a>、<a href=\"../p/ysigeru.html\">吉田次官</a>の指示で、<a href=\"../p/ykenkici.html\">芳沢謙吉大使</a>が<a href=\"../p/cyosakur.html\">張作霖</a>に対して、</div>\n<div>「北京に引きあげて、満州に戻れば満州における地位は保証する」と勧告したのを受け入れた<a href=\"../p/cyosakur.html\">張作霖</a>は、列車で奉天に引きあげた。</div>\n<div>この列車が徨古屯（<a href=\"#cyu\">※</a>）にさしかかったときに、河本が仕掛けた爆弾で列車は爆破され、\n<a href=\"../p/cyosakur.html\">張作霖</a>は死亡することになったのだ。関東軍はすかさず、</div>\n<div>「蒋介石軍の便衣隊（一般市民に化けて、ゲリラ活動を行なう軍人）の犯行である」と発表した。</div>\n<div>真相はすぐに知れわたって、<a href=\"../p/cyosakur.html\">張作霖</a>の息<a href=\"../p/cyogakur.html\">学良</a>は、<a href=\"../p/syokaise.html\">蒋介石</a>とたずさえ、反日、抗日戦線を結成、のちの満州事変などに発展していくのだが\n<span class=\"bar\">―</span>―<a href=\"../p/tgiici.html\">田中首相</a>その人は、</div>\n<div>「親の心、子知らず・・・・・・だ」と、関東軍の犯行を嘆いた。</div>\n<div class=\"txr\"><a href=\"../text/ti_yosid.html\">戸川猪佐武 「小説 吉田茂」</a>\n　Ｐ．１４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%25B0%258F%25E8%25AA%25AC%25E5%2590%2589%25E7%2594%25B0%25E8%258C%2582%2520%2520%2520%2520%25E8%25A7%2592%25E5%25B7%259D%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
-   "type": "cyu",
-   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/syokaise.html\">蒋介石</a>は日本と正面から対決することを避け、\n「隠忍自重」、済南を迂回して北伐を続行した。\n北伐軍が北京南方百キロ余の保定にまで達したとき、<a href=\"../p/cyosakur.html\">張作霖</a>はついに<a href=\"../1928/05taiky.html\">北京退出を宣言した</a>。\nもし北伐軍に敗れて東三省（満州）に逃げ帰り、それを追って北伐軍がこの地域に入りこむことになれば、\n日本軍は両軍ともに武装解除する、と強く警告されていたからである。</div>\n<div>ところが<a href=\"../p/cyosakur.html\">張作霖</a>を乗せた特別列車は、六月四日奉天（瀋陽）駅に到着する直前に爆破され、\n<a href=\"../p/cyosakur.html\">張作霖</a>は即死した。\nこの爆殺事件は関東軍高級参謀河本大作らの謀略によるもので、\n満鉄延長増設問題などで必ずしも日本の意のままにならなくなった<a href=\"../p/cyosakur.html\">張作霖</a>を排除し、\n一挙に東三省を関東軍のコントロール下に置こうとしたのである。</div>\n<div>しかし<a href=\"../p/cyosakur.html\">張作霖</a>のあとを継いで奉天軍閥の総帥となった<a href=\"../p/cyogakur.html\">張学良</a>は、\n河本らの意図とは逆に南京国民政府のほうに傾いてゆき、日本の露骨な脅迫にもかかわらず、\n一九二八年十二月二十九日ついに国民政府に忠誠を誓って、東三省に一斉に青天白日旗をかかげた。\nこうして中国は<a href=\"../p/syokaise.html\">蒋介石</a>のもとに一応の全国統一を実現したのである。</div>\n<div class=\"txr\"><a href=\"../text/ks_cyugo.html\">小島晋治・丸山松幸 「中国近現代史」</a>\n　Ｐ．１２３<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E4%25B8%25AD%25E5%259B%25BD%25E8%25BF%2591%25E7%258F%25BE%25E4%25BB%25A3%25E5%258F%25B2%2520%2520%2520%2520%25E5%25B2%25A9%25E6%25B3%25A2%25E6%2596%25B0%25E6%259B%25B8\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>済南城攻撃も、北伐の進行をとどめることはできなかった。\nこの時期に国民革命軍に対抗していたのは、<a href=\"../p/cyosakur.html\">張作霖</a>が総司令となり、\n孫伝芳、張宗昌を副司令とした安国軍であったが、\n<a href=\"../1928/05saina.html\">済南事件</a>のころには、その敗勢は動かし難いものとなっており、\n日本側の関心は、北伐が満蒙に及んだ場合にはどう対処するのかという点に向けられていった。\nそしてここでは、すでにその態度を固めていた関東軍が、政策の方向をリードしようとする動きを示しはじめていた。</div>\n<div>関東軍は、まず四月二〇日、<a href=\"../p/cyosakur.html\">張作霖</a>の軍隊が満蒙に向けて敗走してくる場合には、\n関東軍の主力を山海関または錦州付近まで進出させ、どちらの軍隊の進入をも許さずに武装解除しなければならない、\nとの意見を具申し、さらに<a href=\"../1928/05saina.html\">済南事件</a>前日の五月二日には、この機会に「<a href=\"../p/cyosakur.html\">張作霖</a>を頭目とせる現東三省政権を排し、\n帝国の要望に応ずる新政権を擁立し、該政府をして支那中央政府に対し独立を宣せしむること緊要なり」\nと主張するに至っている。\n第一次大戦中から<a href=\"../p/cyosakur.html\">張作霖</a>軍閥を育成・支援してきた日本の軍部のなかから、\n今度は、その<a href=\"../p/cyosakur.html\">張作霖</a>を打倒しようとする動きがあらわれてきたのであった。</div>\n<div>つまり、中国の中央政界に乗り出しては敗北を繰り返し、\nしかもその間に、日本側が満鉄並行線と抗議するような鉄道建設に乗り出したり、\n日本の利権要求に抵抗するようになってきた<a href=\"../p/cyosakur.html\">張作霖</a>に、もはやこれ以上期待できない、\nというのが関東軍の言い分であったと思われる。\nそして関東軍は、この時点で、<a href=\"../1931/09ryujo.html\">満州事変</a>を企てたといいかえることもできよう。</div>\n<div><a href=\"../1927/tanaa_1.html\">田中内閣</a>も、五月一六日には、<a href=\"../p/cyosakur.html\">張作霖</a>と南京政府の双方に対して、\n満州治安維持のために適当にして有効な措置をとるとの警告を発するとともに、\n秩序を乱した軍隊が敗走する場合や、戦闘そのものがもち込まれる場合には、\n武装解除するとの方針を決めた。\n関東軍側は政府も自分達の考えに同調していると考え、主力を奉天に集中して出兵体制をととのえた。</div>\n<div>しかしこの時、<a href=\"../p/tgiici.html\">田中外相</a>は関東軍とちがって、\n<a href=\"../p/cyosakur.html\">張作霖</a>をまだ利用価値があると考えており、外交ルートを通ずる説得によって、\n<a href=\"../p/cyosakur.html\">張</a>の軍隊を秩序立った形で満州に撤退させるとともに、国民革命に満蒙への追撃をあきらめさせようとする方向に動いていた。\nそしてこの構想の見通しがつくとともに、関東軍への出動命令は発動されることなく終ることとなった。\n反面、この間いら立ちながら出動命令を待ち続けた関東軍のなかには不満が高まっており、\nそれは高級参謀河本大作大佐による張作霖爆殺事件をひきおこすことになった。\nすなわち河本は、工兵を使って鉄道に爆薬を仕掛け、\n六月四日日本側の説得に従って、北京から引き揚げて来た<a href=\"../p/cyosakur.html\">張作霖</a>が乗っている列車を爆破して、\n<a href=\"../p/cyosakur.html\">張</a>を殺害してしまったのであった。</div>\n<div class=\"txr\"><a href=\"../text/ft_niccy.html\">古屋哲夫 「日中戦争」</a>\n　Ｐ．４５<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4004203023%2Fqid%3D1146491161%2Fsr%3D1-2%2Fref%3Dsr_1_10_2\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "a",
+   "attrs": {
+    "name": "cyu"
+   },
+   "html": "\n<div class=\"cyu\">※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n<br>「徨古屯」の「徨」は、正しい字を表示できないため、仮にこの字を当てています。\n</div>\n\n"
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a name=\"cyu\"></a><a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

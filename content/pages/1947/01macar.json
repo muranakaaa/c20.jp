@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1947.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1947.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -163,25 +172,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -195,17 +188,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>共闘の拡大会議は、まだつづけられていた。\nそこへ総司令部からの使者が伊井議長に面会をもとめ、議長および共闘傘下組合の委員長にたいする経済科学局長マーカットの出頭命令をつたえてきた。\n拡大会議は一時中止し、伊井議長以下八名の委員長は総司令部に出頭した。</div>\n<div>総司令部との会見は、前日までは全員そろってしていたが、今日は一人ずつ別室によばれた。\nマーカットは、激怒してテーブルをたたきながら正式の中止命令をいいわたし、命令の趣旨を電話で各本部へつたえるよう命じた。\n伊井議長と全逓委員長土橋一吉および国鉄総連合委員長鈴木清一は、さらに次室にみちびかれ、\n総司令部の幹部が数人いる前でラジオ放送の原稿起草を申しわたされた。</div>\n<div>【中略】</div>\n<div>総司令部で放送原稿を起草させられた伊井議長と土橋・鈴木の両委員長は、ジープでＮＨＫにおくりとどけられた。\n伊井は、まだゼネストを中止することが正しいかどうかについて迷っていた。\n迷いながら放送室にむかってせまい廊下をあるいていると、バッタリと徳田球一にでくわした。\n徳田は、「ストはやめると放送しなくてはダメですよ」とおとなしく一言のこして神出鬼没のように姿を消していった。\n伊井は、このときはじめてゼネストを中止するのが正しいのかと意を決した。\n午後九時二〇分、彼は「断腸の思いで」ゼネストの中止を全国の労働組合につたえた。\nつづく両委員長の放送は、一〇時〇四分に終った。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ss2sengo.html\">信夫清三郎 「戦後日本政治史Ⅱ」</a>\n　Ｐ．４８１</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>共闘の拡大会議は、まだつづけられていた。\nそこへ総司令部からの使者が伊井議長に面会をもとめ、議長および共闘傘下組合の委員長にたいする経済科学局長マーカットの出頭命令をつたえてきた。\n拡大会議は一時中止し、伊井議長以下八名の委員長は総司令部に出頭した。</div>\n<div>総司令部との会見は、前日までは全員そろってしていたが、今日は一人ずつ別室によばれた。\nマーカットは、激怒してテーブルをたたきながら正式の中止命令をいいわたし、命令の趣旨を電話で各本部へつたえるよう命じた。\n伊井議長と全逓委員長土橋一吉および国鉄総連合委員長鈴木清一は、さらに次室にみちびかれ、\n総司令部の幹部が数人いる前でラジオ放送の原稿起草を申しわたされた。</div>\n<div>【中略】</div>\n<div>総司令部で放送原稿を起草させられた伊井議長と土橋・鈴木の両委員長は、ジープでＮＨＫにおくりとどけられた。\n伊井は、まだゼネストを中止することが正しいかどうかについて迷っていた。\n迷いながら放送室にむかってせまい廊下をあるいていると、バッタリと<a href=\"../p/tkyuici.html\">徳田球一</a>にでくわした。\n<a href=\"../p/tkyuici.html\">徳田</a>は、「ストはやめると放送しなくてはダメですよ」とおとなしく一言のこして神出鬼没のように姿を消していった。\n伊井は、このときはじめてゼネストを中止するのが正しいのかと意を決した。\n午後九時二〇分、彼は「断腸の思いで」ゼネストの中止を全国の労働組合につたえた。\nつづく両委員長の放送は、一〇時〇四分に終った。</div>\n<div class=\"txr\"><a href=\"../text/ss2sengo.html\">信夫清三郎 「戦後日本政治史Ⅱ」</a>\n　Ｐ．４８１<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4326398175%2Fqid%3D1147087145%2Fsr%3D1-2%2Fref%3Dsr_1_8_2\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -213,7 +198,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

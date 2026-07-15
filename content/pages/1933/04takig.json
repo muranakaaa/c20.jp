@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1933.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1933.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -123,25 +132,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -155,9 +148,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>政治の中枢部に乗り込んだ軍部は思想対策に乗り出す。\n軍部に批判的な思想はすべて攻撃対象とされた。</div>\n<div>その最初の標的が京大法学部の滝川幸辰教授（刑法）。\n４月11日、滝川教授の２著書が、内乱と姦通を奨励しているとして発禁に。\n22日、<a href=\"../p/hiciro.html\">鳩山一郎文相</a>はこれを理由に滝川教授の罷免を要求。\n京大が拒否すると、文部省は５月15日、滝川教授を休職処分とした。</div>\n<div>法学部教授陣は全員辞表を提出して抗議、学生も支援した。\nしかし文部省の切り崩し工作で、京大側の敗北で終わる。</div>\n<div class=\"txr\"><a href=\"../text/ys_20sei.html\">読売新聞社 「読む年表・20世紀と昭和天皇」</a>\n　Ｐ．４７</div>\n"
   },
   {
    "type": "raw",
@@ -165,7 +158,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>政治の中枢部に乗り込んだ軍部は思想対策に乗り出す。\n軍部に批判的な思想はすべて攻撃対象とされた。</div>\n<div>その最初の標的が京大法学部の滝川幸辰教授（刑法）。\n４月11日、滝川教授の２著書が、内乱と姦通を奨励しているとして発禁に。\n22日、<a href=\"../p/hiciro.html\">鳩山一郎文相</a>はこれを理由に滝川教授の罷免を要求。\n京大が拒否すると、文部省は５月15日、滝川教授を休職処分とした。</div>\n<div>法学部教授陣は全員辞表を提出して抗議、学生も支援した。\nしかし文部省の切り崩し工作で、京大側の敗北で終わる。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ys_20sei.html\">読売新聞社 「読む年表・20世紀と昭和天皇」</a>\n　Ｐ．４７</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>七月十四日の東京朝日新聞の投書欄「鉄箒」に「先憂子」という名で\n「学者の態度」と題した投書が載っている。\n少し長いが次に出してみる。</div>\n<div>「天下を論議する政客はいくらでも転がっているが、一身を国家に捧げる志士はない。\n諸学説を講義する教授はざらにあるが、真理に殉ずる学徒は少ない。\n常に動揺せる文部当局に比し、真理の忠僕、正義の使徒として終始一貫微動だもせず所信に生き、\n大学のために玉砕されし京大法学部諸教授の態度に私は満腹の敬意を表し、\nその立派な最期に近来になき感激を覚ゆる。</div>\n<div>滝川氏の学説が真に国家に有害ならば、京大法学部の閉鎖は云うもさらなり、\nこれに和する全大学の全滅もまた厭うべきではない。\nまた法学部の主張が是なりとせば、文相の即時辞職も内閣の更迭も避くべきでない。\n大学の自治と云い、研究の自由と云うも、滝川問題より派生したものである。\nかくも重大な問題となったにもかかわらず、\n本家本元の京都大学ですら問題の核心たる滝川氏の学説についての批判を聞かないのは吾人の深く遺憾とするところである。</div>\n<div>私は『刑法読本』を一読し、これが何故にかほどの問題を起したかを怪しむ。\n文部当局によって盛んに宣伝された滝川氏の内乱激成、姦通奨励の説のごときも、その実は吾人の常識に一致している。\nこの書の発行当時、牧野前大審院長が本紙の読書頁でこれを推奨した事実よりみても、\nその危険思想でないことくらい見通しがつくと思う。</div>\n<div>今日の社会の通弊とするところは、正邪善悪の判明せざるということよりも、\n判明しながらこれによって去就を決せず、長きものには巻かれよという態度をとることである。\n滝川氏の学説の危険性を認めず、文部省の処置の不当を百も承知しながら、\n立って京大法学部を助けようとしない大学教授は救われざる輩である。</div>\n<div>学者の真理に対する態度はあくまで厳粛でなければならない。\n眼前を糊塗するは政治家の常であるが、学者のすべきことではない。\n今となっては致仕方なしなどとは学者として云うべきことではない。\n事件の根本に眼を向け、滝川氏の学説の正邪を明らかにして、あくまでも良心的に行動すべきである」</div>\n<div>この「先憂子」と名乗った投書の主は、実は岩波書店主の岩波茂雄だった。</div>\n<div class=\"txr\"><a href=\"../text/ms6syowa.html\">松本清張 「昭和史発掘（６）」</a>\n　Ｐ．８６<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167106361%2Fqid%3D1147086434%2Fsr%3D1-12%2Fref%3Dsr_1_0_12\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -173,7 +166,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

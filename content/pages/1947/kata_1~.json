@@ -15,8 +15,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1947.html\">年表</a> ＞ <a href=\"kata_1.html\">事項</a> ＞ <span class=\"now\">詳細</span>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1947.html\">年表</a> ＞ <a href=\"kata_1.html\">事項</a> ＞ <span class=\"now\">詳細</span> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -51,14 +59,6 @@
     "class": "cl"
    },
    "html": "\n<tbody><tr><td class=\"cl\">内閣総理大臣</td><td class=\"cl\"><a href=\"../p/ktetu.html\">片山哲</a></td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">副総理</td><td class=\"cl\"><a href=\"../p/ahitosi.html\">芦田均</a></td><td class=\"cl\">1947.06.01～</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">外務大臣</td><td class=\"cl\"><a href=\"../p/ktetu.html\">（片山哲）</a></td><td class=\"cl\"><a href=\"../p/ahitosi.html\">（芦田均）</a></td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1947.06.01</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">内務大臣</td><td class=\"cl\"><a href=\"../p/ktetu.html\">（片山哲）</a></td><td class=\"cl\">木村小左衞門</td><td class=\"cl\">1948.2.15廃止</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1947.06.01</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">大蔵大臣</td><td class=\"cl\"><a href=\"../p/ktetu.html\">（片山哲）</a></td><td class=\"cl\">矢野庄太郎</td><td class=\"cl\">栗栖赳夫</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1947.06.01</td><td class=\"cl\">～1948.06.25</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">司法大臣</td><td class=\"cl\"><a href=\"../p/ktetu.html\">（片山哲）</a></td><td class=\"cl\">鈴木義男</td><td class=\"cl\">1948.2.15設置</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1947.06.01</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">法務総裁</td><td class=\"cl\">鈴木義男</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">1948.02.15設置</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">文部大臣</td><td class=\"cl\"><a href=\"../p/ktetu.html\">（片山哲）</a></td><td class=\"cl\">森戸辰男</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1947.06.01</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">厚生大臣</td><td class=\"cl\"><a href=\"../p/ktetu.html\">（片山哲）</a></td><td class=\"cl\">一松定吉</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1947.06.01</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">農林大臣</td><td class=\"cl\"><a href=\"../p/ktetu.html\">（片山哲）</a></td><td class=\"cl\">平野力三</td><td class=\"cl\"><a href=\"../p/ktetu.html\">（片山哲）</a></td><td class=\"cl\">波多野鼎</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1947.06.01</td><td class=\"cl\">～1947.11.04</td><td class=\"cl\">～1947.12.13</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">商工大臣</td><td class=\"cl\"><a href=\"../p/ktetu.html\">（片山哲）</a></td><td class=\"cl\">水谷長三郎</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1947.06.01</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">運輸大臣</td><td class=\"cl\"><a href=\"../p/ktetu.html\">（片山哲）</a></td><td class=\"cl\">苫米地義三</td><td class=\"cl\">北村徳太郎</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1947.06.01</td><td class=\"cl\">～1947.01.31</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">逓信大臣</td><td class=\"cl\"><a href=\"../p/ktetu.html\">（片山哲）</a></td><td class=\"cl\">三木武夫</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1947.06.01</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">労働大臣</td><td class=\"cl\">米窪滿亮</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">1947.09.01設置</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">経済安定本部長官</td><td class=\"cl\"><a href=\"../p/whiroo.html\">和田博雄</a></td><td class=\"cl\">1947.06.01～</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">物価庁長官</td><td class=\"cl\"><a href=\"../p/ktetu.html\">（片山哲）</a></td><td class=\"cl\"><a href=\"../p/whiroo.html\">（和田博雄）</a></td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1947.06.01</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">復員庁総裁</td><td class=\"cl\">笹森順造</td><td class=\"cl\">1947.06.01～</td><td class=\"cl\">1947.10.15廃止</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">行政調査部総裁</td><td class=\"cl\"><a href=\"../p/stakao.html\">斉藤隆夫</a></td><td class=\"cl\">1947.06.01～</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">建設院総裁</td><td class=\"cl\">木村小左衞門</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">1948.01.01設置</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">地方財政委員長</td><td class=\"cl\">竹田儀一</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">1948.01.07設置</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">賠償庁長官</td><td class=\"cl\">笹森順造</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">1948.02.01設置</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">国務大臣</td><td class=\"cl\"><a href=\"../p/nsuehiro.html\">西尾末広</a></td><td class=\"cl\">1947.06.01～</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">国務大臣</td><td class=\"cl\">林平馬</td><td class=\"cl\" colspan=\"2\"><div class=\"l\">　1947.06.01～1947.11.25</div></td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">国務大臣</td><td class=\"cl\">米窪滿亮</td><td class=\"cl\" colspan=\"2\"><div class=\"l\">　1947.06.01～1947.09.01</div></td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">国務大臣</td><td class=\"cl\">笹森順造</td><td class=\"cl\" colspan=\"2\"><div class=\"l\">　1947.10.15～1948.02.01</div></td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">国務大臣</td><td class=\"cl\">竹田儀一</td><td class=\"cl\" colspan=\"2\"><div class=\"l\">　1947.12.04～1948.01.07</div></td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">内閣官房長官</td><td class=\"cl\"><a href=\"../p/nsuehiro.html\">（西尾末広）</a></td><td class=\"cl\">1947.06.01～</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">内閣官房次長</td><td class=\"cl\">瀧川亜末一</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">内閣官房次長</td><td class=\"cl\">曾禰益</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">1947.06.17二人制</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">法制局長官</td><td class=\"cl\">佐藤達夫</td><td class=\"cl\">1947.06.14～</td><td class=\"cl\">1948.02.15廃止</td><td class=\"cl\">　</td></tr>\n</tbody>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
   },
   {
    "type": "timeline",
@@ -186,28 +186,18 @@
    ]
   },
   {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s2\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
-  },
-  {
    "type": "cyu",
    "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n<br>「片山内閣」は「片山哲内閣」と同じ意味です。\n"
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

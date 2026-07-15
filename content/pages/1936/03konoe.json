@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1936.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1936.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -143,25 +152,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -175,17 +168,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>翌四日午前十時<a href=\"../p/skinmoci.html\">西園寺</a>によばれた<a href=\"../p/kfumimar.html\">近衛</a>は宮内省に現れた。\n『原田日記』によると<a href=\"../p/skinmoci.html\">西園寺</a>の総理就任の申し出に対し、<a href=\"../p/kfumimar.html\">近衛</a>は健康を理由として断った。珍しく<a href=\"../p/skinmoci.html\">西園寺</a>は怒った。</div>\n<div>「体の具合が悪いとは何事どす。（四十四歳の）あんたが健康のことをいうんなら、八十八歳のこちはどないなりますのや。\nあんたが受ける受けないにかかわらずこちには奏薦の権限がおますのや。\nこちは自分の信念によって奉答するよう決心してますさかい、このさい多少のことは辛抱して受けるのが当然やおまへんか！」</div>\n<div><a href=\"../p/skinmoci.html\">西園寺</a>は京都弁丸出しで<a href=\"../p/kfumimar.html\">近衛</a>を督励したが、椅子の上の<a href=\"../p/kfumimar.html\">近衛</a>は長身を二つ折りにして顔面を蒼白にしてうつむいているだけであった。\n眺めている<a href=\"../p/hkumao.html\">原田</a>も胸が痛い想いであった。\n近衛首班は永い間唯一の公卿政治家として、軍部や政党と戦って来た老公の、最大にして多年描いていた夢であった。\nしかし、<a href=\"../p/kfumimar.html\">近衛</a>はそれを受けようとしない。\nそこに示されているのは最愛の恋人に裏切られたような、貴族の老人性ヒステリーのようでもあった。</div>\n<div><a href=\"../p/kfumimar.html\">近衛</a>の辞退にかかわりなくヒステリックになった<a href=\"../p/skinmoci.html\">西園寺</a>は“信念”に従って、午後二時<a href=\"../p/stenno.html\">天皇</a>に拝謁して近衛後継首班を奏請した。</div>\n<div>この日（四日）午後四時、<a href=\"../p/kfumimar.html\">近衛</a>は<a href=\"../p/stenno.html\">天皇</a>のお召しによって参内した。</div>\n<div><a href=\"../p/stenno.html\">天皇</a>は、</div>\n<div>「卿に内閣組織を命ず」</div>\n<div>と大命降下を行った後、</div>\n<div>「この際是非とも時局収拾の為に起ってもらいたい」</div>\n<div>とつけ加えた。</div>\n<div><a href=\"../p/kfumimar.html\">近衛</a>は<a href=\"../p/stenno.html\">天皇</a>の顔を仰いだ。\n三十六歳の<a href=\"../p/stenno.html\">天皇</a>は真剣な表情であった。\nご信任の厚さに彼はめまいを感じた。しかし、やはりこの際総理を引き受ける決心はつかなかった。</div>\n<div><a href=\"../p/kfumimar.html\">近衛</a>は一旦御前を退出した後、<a href=\"../p/ikitokur.html\">一木議長</a>と会いさらに次官室に<a href=\"../p/skinmoci.html\">西園寺</a>を訪れ、辞意を表明した。\n老公はあきれたようにこのいうことをきかない親不孝の息子を眺め、</div>\n<div>「こちがあれほどいうたのに、わからんのか」</div>\n<div>と苦り切った調子で言った。</div>\n<div class=\"txr\"><a href=\"../text/tm2saion.html\">豊田穣 「西園寺公望（下）」</a>\n　Ｐ．２８８<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E5%259C%2592%25E5%25AF%25BA%25E5%2585%25AC%25E6%259C%259B%25E2%2580%2595%25E6%259C%2580%25E5%25BE%258C%25E3%2581%25AE%25E5%2585%2583%25E8%2580%2581%2520%2528%25E4%25B8%258B%25E5%25B7%25BB%2529%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -193,7 +178,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

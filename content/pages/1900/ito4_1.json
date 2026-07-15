@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href\"..=\"\" 20c=\"\" 1900.html\"=\"\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href=\"ito4_1~.html\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href\"..=\"\" 20c=\"\" 1900.html\"=\"\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href=\"ito4_1~.html\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -93,6 +102,16 @@
       {
        "id": "l",
        "cls": null,
+       "html": "1901/03/16　　<a href=\"../1901/03zozei.html\">\n貴族院、増税諸法案を可決</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
        "html": "1901/05/02　　<a href\"..=\"\" 19.html\"=\"\">\n伊藤首相、閣内不統一で辞表提出　（首相代理：</a><a href=\"../p/skinmoci.html\">西園寺公望</a>）"
       }
      ]
@@ -123,25 +142,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -155,17 +158,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>予想通り三十三年九月二十六日<a href=\"../p/yaritomo.html\">山県</a>は<a href=\"../p/ihirobum.html\">伊藤</a>を困惑せしむる為早期に内閣を投げ出し、\n十月十九日<a href=\"../p/ihirobum.html\">伊藤</a>が第四次内閣を組織した。\nメンバーは外務・<a href=\"../p/ktakaaki.html\">加藤高明</a>（岩崎弥太郎の女婿）、内務・末松謙澄、大蔵・渡辺国武、陸軍・<a href=\"../p/ktaro.html\">桂太郎</a>、\n海軍・<a href=\"../p/ygonnohy.html\">山本権兵衛</a>、司法・<a href=\"../p/kkentaro.html\">金子堅太郎</a>、文部・<a href=\"../p/mmasahis.html\">松田正久</a>、農商務・林有造、逓信・<a href=\"../p/htooru.html\">星亨</a>で<a href=\"../p/skinmoci.html\">西園寺</a>は班列といって国務大臣扱いでポストがない。\n伊藤政友会の御曹子ともいうべき侯爵の扱いがおかしいではないかと、一族の者が眼をこすっていると伊藤から呼び出しがかかった。\n首相官邸にゆくと、</div>\n<div>「あんた、総理をやってくれんか」</div>\n<div>という話である。</div>\n<div>「え？　こちが？・・・・・・」</div>\n<div>と<a href=\"../p/skinmoci.html\">西園寺</a>は思わず自宅での口癖を出した。</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>はにやりとした。\n義太夫では芸者が愛人のことを「ちょいとこちの人」と呼びことがある。</div>\n<div>「いやあ、代理でいいんだ。しばらくやってもらいたい」</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>はそう言ってビスマルクもどきに葉巻をふかした。\nこの頃ではビスマルクよりも偉いと思っているようである。</div>\n<div>「しかし、私は前歴が（文部大臣と外務大臣をやった位で内務、大蔵などの重要なポストがない）・・・・・・」</div>\n<div>と<a href=\"../p/skinmoci.html\">西園寺</a>が言いかけると、</div>\n<div>「<a href=\"../p/skinmoci.html\">西園寺さん</a>、経歴などは自然に出来るもんだ。\nあんたには私の後を継いでもらわにゃならん、総理も場数を踏んでおいた方がええ」</div>\n<div>そう言って<a href=\"../p/ihirobum.html\">伊藤</a>は微笑した。</div>\n<div>「しかし、<a href=\"../p/ihirobum.html\">伊藤さん</a>がなったばかりで代理を立てるのでは、理由が立たないでしょう」</div>\n<div>「わしは病気じゃよ」</div>\n<div>「え？」</div>\n<div><a href=\"../p/skinmoci.html\">西園寺</a>は驚いて<a href=\"../p/ihirobum.html\">伊藤</a>の顔を見た。どこも悪くはなさそうである。</div>\n<div>「わしは演説のやりすぎでのどが痛い。\nしばらく静養して政友会の名簿でも整理するとしよう」</div>\n<div>このようなわけで<a href=\"../p/skinmoci.html\">西園寺</a>は十月二十七日から十二月十二日まで総理大臣臨時代理を命じられた。\n<a href=\"../p/ihirobum.html\">伊藤</a>はこの頃のどを傷めていたというが、実のところは<a href=\"../p/skinmoci.html\">西園寺</a>に総理の予習をやらせて、自分は政友会の人材集めを行い、\n眼を細めながら二代目の練習ぶりを眺めていよう、というあたりが本音だったようである。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm_saion.html\">豊田穣 「西園寺公望」</a>\n　上巻　Ｐ．２９６</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>予想通り三十三年九月二十六日<a href=\"../p/yaritomo.html\">山県</a>は<a href=\"../p/ihirobum.html\">伊藤</a>を困惑せしむる為早期に内閣を投げ出し、\n十月十九日<a href=\"../p/ihirobum.html\">伊藤</a>が第四次内閣を組織した。\nメンバーは外務・<a href=\"../p/ktakaaki.html\">加藤高明</a>（岩崎弥太郎の女婿）、内務・末松謙澄、大蔵・渡辺国武、陸軍・<a href=\"../p/ktaro.html\">桂太郎</a>、\n海軍・<a href=\"../p/ygonnohy.html\">山本権兵衛</a>、司法・<a href=\"../p/kkentaro.html\">金子堅太郎</a>、文部・<a href=\"../p/mmasahis.html\">松田正久</a>、農商務・林有造、逓信・<a href=\"../p/htooru.html\">星亨</a>で<a href=\"../p/skinmoci.html\">西園寺</a>は班列といって国務大臣扱いでポストがない。\n伊藤政友会の御曹子ともいうべき侯爵の扱いがおかしいではないかと、一族の者が眼をこすっていると<a href=\"../p/ihirobum.html\">伊藤</a>から呼び出しがかかった。\n首相官邸にゆくと、</div>\n<div>「あんた、総理をやってくれんか」</div>\n<div>という話である。</div>\n<div>「え？　こちが？・・・・・・」</div>\n<div>と<a href=\"../p/skinmoci.html\">西園寺</a>は思わず自宅での口癖を出した。</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>はにやりとした。\n義太夫では芸者が愛人のことを「ちょいとこちの人」と呼びことがある。</div>\n<div>「いやあ、代理でいいんだ。しばらくやってもらいたい」</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>はそう言ってビスマルクもどきに葉巻をふかした。\nこの頃ではビスマルクよりも偉いと思っているようである。</div>\n<div>「しかし、私は前歴が（文部大臣と外務大臣をやった位で内務、大蔵などの重要なポストがない）・・・・・・」</div>\n<div>と<a href=\"../p/skinmoci.html\">西園寺</a>が言いかけると、</div>\n<div>「<a href=\"../p/skinmoci.html\">西園寺さん</a>、経歴などは自然に出来るもんだ。\nあんたには私の後を継いでもらわにゃならん、総理も場数を踏んでおいた方がええ」</div>\n<div>そう言って<a href=\"../p/ihirobum.html\">伊藤</a>は微笑した。</div>\n<div>「しかし、<a href=\"../p/ihirobum.html\">伊藤さん</a>がなったばかりで代理を立てるのでは、理由が立たないでしょう」</div>\n<div>「わしは病気じゃよ」</div>\n<div>「え？」</div>\n<div><a href=\"../p/skinmoci.html\">西園寺</a>は驚いて<a href=\"../p/ihirobum.html\">伊藤</a>の顔を見た。どこも悪くはなさそうである。</div>\n<div>「わしは演説のやりすぎでのどが痛い。\nしばらく静養して政友会の名簿でも整理するとしよう」</div>\n<div>このようなわけで<a href=\"../p/skinmoci.html\">西園寺</a>は十月二十七日から十二月十二日まで総理大臣臨時代理を命じられた。\n<a href=\"../p/ihirobum.html\">伊藤</a>はこの頃のどを傷めていたというが、実のところは<a href=\"../p/skinmoci.html\">西園寺</a>に総理の予習をやらせて、自分は政友会の人材集めを行い、\n眼を細めながら二代目の練習ぶりを眺めていよう、というあたりが本音だったようである。</div>\n<div class=\"txr\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．２９６<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E5%259C%2592%25E5%25AF%25BA%25E5%2585%25AC%25E6%259C%259B%25E2%2580%2595%25E6%259C%2580%25E5%25BE%258C%25E3%2581%25AE%25E5%2585%2583%25E8%2580%2581%2520%2528%25E4%25B8%258A%25E5%25B7%25BB%2529%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -173,7 +168,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

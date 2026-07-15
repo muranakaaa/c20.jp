@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1941.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1941.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -203,25 +212,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -235,17 +228,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>一時四十五分には、<a href=\"../p/nkicisab.html\">野村</a>と栗栖は玄関先で車に乗り込んで、いつでも出発できるようにしていたが、\nまだタイプは終らなかった。\n打ち終ったのは、午後一時五十分だった。</div>\n<div>両大使の車は、フルスピードで国務省に向かった。\n国務省は休日なのでひっそりとしていた。\n<a href=\"../p/nkicisab.html\">野村</a>が<a href=\"../p/hull_c.html\">ハル</a>と会談するのは、これが実に四十六回目だった。\nその間に<a href=\"../p/roosev_f.html\">ルーズベルト</a>との会見も九次を数えていた。\n長官室でしばらく待たされた後、ようやく<a href=\"../p/hull_c.html\">ハル</a>が入ってきた。\n午後二時二十分だった。\nすでにハワイでは<a href=\"../1941/12hawai.html\">日本海軍による奇襲攻撃</a>が開始されて一時間近く経ち、\nパール・ハーバーは戦闘の修羅場と化していた。\n<a href=\"../p/hull_c.html\">ハル</a>はその第一報を知らされていたが、素知らぬふりで<a href=\"../p/nkicisab.html\">野村</a>と栗栖を迎え入れた。\nだが、<a href=\"../p/hull_c.html\">ハル</a>は二人に椅子をすすめることもしなかった。</div>\n<div><a href=\"../p/nkicisab.html\">野村</a>は遅れたことを詫びつつ、「午後一時にこの回答を貴長官に手交すべく訓令を受けた」といって、\n対米覚書を<a href=\"../p/hull_c.html\">ハル</a>に渡した。</div>\n<div><a href=\"../p/hull_c.html\">ハル</a>は覚書の内容をすでに知っていたが、念のため最後の頁まで急いで目を通すと、激怒していった。</div>\n<div>「自分は公職にあること五十年になるが、このように恥ずべき偽りと歪曲とをもって充満された文書を見たことはない」</div>\n<div><a href=\"../p/hull_c.html\">ハル</a>は、何かいおうとする<a href=\"../p/nkicisab.html\">野村</a>を制止して、あごでドアのほうをさした。\n<a href=\"../p/nkicisab.html\">野村</a>と栗栖は頭をたれて退席した。\n二人が去ると、<a href=\"../p/hull_c.html\">ハル</a>は自分がいったことをすぐに速記者に書き取らせ、新聞に発表した。\n情報戦において、アメリカは完全に日本に水をあけていた。</div>\n<div><a href=\"../p/nkicisab.html\">野村</a>と栗栖が大使館に帰ったとき、大使館員たちはラジオ放送で<a href=\"../1941/12hawai.html\">真珠湾攻撃</a>のニュースを聞き、騒然となっていた。\n<a href=\"../p/nkicisab.html\">野村</a>と栗栖はあまりのことに愕然となった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/yk_marik.html\">柳田邦男 「マリコ」</a>\n　Ｐ．１１１</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>一時四十五分には、<a href=\"../p/nkicisab.html\">野村</a>と栗栖は玄関先で車に乗り込んで、いつでも出発できるようにしていたが、\nまだタイプは終らなかった。\n打ち終ったのは、午後一時五十分だった。</div>\n<div>両大使の車は、フルスピードで国務省に向かった。\n国務省は休日なのでひっそりとしていた。\n<a href=\"../p/nkicisab.html\">野村</a>が<a href=\"../p/hull_c.html\">ハル</a>と会談するのは、これが実に四十六回目だった。\nその間に<a href=\"../p/roosev_f.html\">ルーズベルト</a>との会見も九次を数えていた。\n長官室でしばらく待たされた後、ようやく<a href=\"../p/hull_c.html\">ハル</a>が入ってきた。\n午後二時二十分だった。\nすでにハワイでは<a href=\"../1941/12hawai.html\">日本海軍による奇襲攻撃</a>が開始されて一時間近く経ち、\nパール・ハーバーは戦闘の修羅場と化していた。\n<a href=\"../p/hull_c.html\">ハル</a>はその第一報を知らされていたが、素知らぬふりで<a href=\"../p/nkicisab.html\">野村</a>と栗栖を迎え入れた。\nだが、<a href=\"../p/hull_c.html\">ハル</a>は二人に椅子をすすめることもしなかった。</div>\n<div><a href=\"../p/nkicisab.html\">野村</a>は遅れたことを詫びつつ、「午後一時にこの回答を貴長官に手交すべく訓令を受けた」といって、\n対米覚書を<a href=\"../p/hull_c.html\">ハル</a>に渡した。</div>\n<div><a href=\"../p/hull_c.html\">ハル</a>は覚書の内容をすでに知っていたが、念のため最後の頁まで急いで目を通すと、激怒していった。</div>\n<div>「自分は公職にあること五十年になるが、このように恥ずべき偽りと歪曲とをもって充満された文書を見たことはない」</div>\n<div><a href=\"../p/hull_c.html\">ハル</a>は、何かいおうとする<a href=\"../p/nkicisab.html\">野村</a>を制止して、あごでドアのほうをさした。\n<a href=\"../p/nkicisab.html\">野村</a>と栗栖は頭をたれて退席した。\n二人が去ると、<a href=\"../p/hull_c.html\">ハル</a>は自分がいったことをすぐに速記者に書き取らせ、新聞に発表した。\n情報戦において、アメリカは完全に日本に水をあけていた。</div>\n<div><a href=\"../p/nkicisab.html\">野村</a>と栗栖が大使館に帰ったとき、大使館員たちはラジオ放送で<a href=\"../1941/12hawai.html\">真珠湾攻撃</a>のニュースを聞き、騒然となっていた。\n<a href=\"../p/nkicisab.html\">野村</a>と栗栖はあまりのことに愕然となった。</div>\n<div class=\"txr\"><a href=\"../text/yk_marik.html\">柳田邦男 「マリコ」</a>\n　Ｐ．１１１<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4101249024%2Fqid%3D1146491819%2Fsr%3D1-1%2Fref%3Dsr_1_2_1\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -253,7 +238,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1928.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1928.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -53,7 +62,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1926/07/09　　<a href\"..=\"\" 19.html\"=\"\">\n蒋介石、北伐開始</a>"
+       "html": "1926/07/09　　<a href=\"../1926/07hokub.html\">\n蒋介石、北伐開始</a>"
       }
      ]
     },
@@ -203,25 +212,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -235,17 +228,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>国民党軍は、馮玉祥軍、閻錫山軍と連合して、\n三月中旬には三方から北京へ進撃を開始した。\n早くも四月一日には徐州を占領、中旬には山東に迫って、まさに済南を指呼の間に見るようになった。</div>\n<div>ここで<a href=\"../p/tgiici.html\">田中</a>は、<a href=\"../1927/05sant1.html\">去年の山東出兵</a>のときと同じような状態となり、\n撤兵の際に強硬声明を発表した手前もあって、再び出兵を考えなければならなくなった。</div>\n<div>しかし、今度は、<a href=\"../p/tgiici.html\">田中</a>も、陸軍の首脳も、重臣筋も、二度の出兵をかなり疑問視していた。\nというのは、日支両軍の接触で不測の事態発生が心配されたのと、南京政権の内部が<a href=\"../p/syokaise.html\">蒋</a>によって統一され、\nもはや、<a href=\"../p/syokaise.html\">蒋介石</a>による中国本土の統一が確認されるようになった。\nこのさい、<a href=\"../p/cyosakur.html\">張作霖</a>を北京から引揚させ、彼を東三省経営に専念させ、\n<a href=\"../p/syokaise.html\">蒋介石</a>には無事に北京入城をやらせる、という考えが強くなってきたからである。</div>\n<div>この考えの背後には、もともと、<a href=\"../p/cyosakur.html\">張作霖</a>は東三省だけの軍閥にし、\n日本のカイライ政権として権益を確保するという考えがあった。\nそれと、去年、<a href=\"../p/syokaise.html\">蒋介石</a>が来日したときの<a href=\"../p/tgiici.html\">田中</a>との箱根会談で、<a href=\"../p/tgiici.html\">田中</a>はかなり<a href=\"../p/syokaise.html\">蒋</a>を信用していたのである。</div>\n<div>ところが、こうした<a href=\"../p/tgiici.html\">田中首相</a>や軍首脳部の意向に対して今度も<a href=\"../p/mkaku.html\">森恪</a>が強硬に第二次出兵を主張した。</div>\n<div><a href=\"../p/mkaku.html\">森</a>は、前年<a href=\"../1927/05sant1.html\">出兵</a>のさいに政府が声明した再出兵の公約を、\n国民の手前反古にするわけにはいかないという、表向きの理屈をこねたが、その裏には、\n参謀本部の<a href=\"../p/steiici.html\">鈴木貞一</a>をはじめ、陸軍部内の「若い連中」との連繋によって彼らの意見の代表だったのである。</div>\n<div>外務関係のみならず、閣内の実力者、<a href=\"../p/mkaku.html\">森</a>に迫られた<a href=\"../p/tgiici.html\">田中</a>は、やむなく二度目の出兵を決定し、\n四月十九日、天津駐屯軍から一個中隊と、内地から第六師団を動員して済南に入らせた。</div>\n<div>ところが、二十六日、日本軍は済南に入って警備についたが、\n東北軍は国民党軍が接近してきたと知ると、三十日の晩から翌未明にかけて一戦も交えず、済南市内から逃走してしまった。\nそのあとに国民党軍各部隊が続々と入って来て五月二日には<a href=\"../p/syokaise.html\">蒋介石</a>の総司令部も入城した。</div>\n<div>総司令部は入城すると同時に日本側に対し、あとはわれわれが治安維持の責任を負うから、\n日本軍は撤退してもらいたいと申入れた。\n日本側領事もこれを了承したが、その交渉がつづいている三日朝、市内警備の日本軍一小部隊と国民党軍一小部隊との間に\n衝突が起り、これがきっかけとなって両軍は随所に交戦状態に入ったのである。</div>\n<div>国民党軍総司令部は停戦命令を出して日本軍に対する中国側の反抗を抑えようと努力したが、\n混乱のさなかのことで、それがなかなか徹底しない。\nようやく翌四日夜になって、国民党軍部隊が日本側警備地帯から撤退するに及んで交戦は収まった。</div>\n<div>この突発交戦によって中国側の日本軍撤退交渉はまったく途絶しただけでなく、\n日本軍司令官は十二時間を限った最後通告を突きつけ、中国軍の済南撤退を要求した。</div>\n<div>さらに、八日午前四時になっても満足な回答がなかったという理由で全軍に総攻撃命令を下し、\n十一日には中国軍を済南城外に完全に追出し、済南を全面的に占領した。</div>\n<div>第二次出兵に際して<a href=\"../p/tgiici.html\">田中首相</a>や軍首脳部が渋ったのは、現地で不測の事態がおきる不安だった。\nこの不安ははたして的中し、派遣軍と国民党軍との交戦という事態となって現れたのだ。</div>\n<div>そこで、政府は国民の前に現地の事態を必要以上に誇張して宣伝し、\n第三師団に動員令を下して、一万五千の兵を戦時編成として組み、青島へむけて出発させた。</div>\n<div>このとき陸軍当局は、「ことの起りは、支那軍隊が日本軍隊の実力を軽視し、\n<a href=\"../p/syokaise.html\">蒋介石</a>の威令全く行われず、誤解と昂奮のままに拡大し、計画的に日本軍の全滅を図った」と説明し、\nなお、「両軍の戦闘中、支那側によって行われた日本人の虐殺は、ほとんど鬼畜もおよばざるものあり・・・・・・\n日本人の墓地は暴かれ、婦女子は言うに忍びざる暴辱を蒙り」と述べた。</div>\n<div>これが、いわゆる済南事件といわれるものである。</div>\n<div class=\"txr\"><a href=\"../text/ms3syowa.html\">松本清張 「昭和史発掘（３）」</a>\n　Ｐ．３４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167697025%2Fqid%3D1147086156%2Fsr%3D1-4%2Fref%3Dsr_1_2_4\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -253,7 +238,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1907.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1907.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -63,25 +72,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -95,9 +88,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>日露戦争後、労働者の間で待遇改善を求める運動が活発化、ストが流行になっていた。\n特にこの年初め戦後恐慌が起きると、足尾銅山の大争議を皮切りに夕張炭鉱、幌内炭鉱、別子銅山、生野鉱山など次々にストが発生、\nあるものは暴動化して軍隊が鎮圧した。</div>\n<div>２月の足尾銅山暴動も増税・物価高騰下の生活苦を背景に、大日本労働至誠会足尾支部の指導下で賃上げ運動展開中に発生したもの。\n現場係員の中間搾取、至誠会つぶしも活発に行われていたが、４日、作業員と係員の衝突がきっかけとなった。</div>\n<div>初めは至誠会指導者の説得で収まってものの、警察が指導者２人を逮捕すると暴動は一挙に拡大。\n労働者は職員社宅、事務所、倉庫、選鉱所など次々に打ち壊し騒乱と化した。\n７日、銃剣で装備した高崎連隊３個中隊の到着をまってやっと鎮圧、360人余が検挙された。</div>\n<div>この事件を扱った宇都宮裁判所の判決は、現場役職者でワイロを要求しないものはほとんどなく、\nワイロの多少で賃金や作業内容を差別していたと指摘、\n「智乏しく慮浅き年壮気鋭の坑夫等が多年の怨嗟憤懣鬱結し」て、偶発的に起こしたと判断、\n至誠会指導者には無罪を言い渡している。</div>\n<div>４か月後の別子銅山暴動も軍出動で鎮圧した。</div>\n<div class=\"txr\"><a href=\"../text/ys_20sei.html\">読売新聞社 「読む年表・20世紀と昭和天皇」</a>\n　Ｐ．１１</div>\n"
   },
   {
    "type": "raw",
@@ -105,7 +98,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>日露戦争後、労働者の間で待遇改善を求める運動が活発化、ストが流行になっていた。\n特にこの年初め戦後恐慌が起きると、足尾銅山の大争議を皮切りに夕張炭鉱、幌内炭鉱、別子銅山、生野鉱山など次々にストが発生、\nあるものは暴動化して軍隊が鎮圧した。</div>\n<div>２月の足尾銅山暴動も増税・物価高騰下の生活苦を背景に、大日本労働至誠会足尾支部の指導下で賃上げ運動展開中に発生したもの。\n現場係員の中間搾取、至誠会つぶしも活発に行われていたが、４日、作業員と係員の衝突がきっかけとなった。</div>\n<div>初めは至誠会指導者の説得で収まってものの、警察が指導者２人を逮捕すると暴動は一挙に拡大。\n労働者は職員社宅、事務所、倉庫、選鉱所など次々に打ち壊し騒乱と化した。\n７日、銃剣で装備した高崎連隊３個中隊の到着をまってやっと鎮圧、360人余が検挙された。</div>\n<div>この事件を扱った宇都宮裁判所の判決は、現場役職者でワイロを要求しないものはほとんどなく、\nワイロの多少で賃金や作業内容を差別していたと指摘、\n「智乏しく慮浅き年壮気鋭の坑夫等が多年の怨嗟憤懣鬱結し」て、偶発的に起こしたと判断、\n至誠会指導者には無罪を言い渡している。</div>\n<div>４か月後の別子銅山暴動も軍出動で鎮圧した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ys_20sei.html\">読売新聞社 「読む年表・20世紀と昭和天皇」</a>\n　Ｐ．１１</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>二月四日から七日にかけ足尾銅山でダイナマイトによる大暴動が起きた。\n千人以上の坑夫が実力を行使し、古河鉱業事務所長南挺三宅を焼いたほか各所で焼き打ち、打ちこわしを働いた。\n理由は待遇改善、賃銀値上げであるが、南助松、永岡鶴蔵らの幹部（オルグ）は社会主義、あるいは共産主義思想の筋金入りで、\n殉教者のつもりで坑夫たちの集団抵抗を指導していた。</div>\n<div>永岡は先鋭な革命指導家で共産主義者の<a href=\"../p/ksen.html\">片山潜</a>の教えをうけて、足尾に潜入した。\n彼が<a href=\"../p/ksen.html\">片山</a>に書き送った手紙には、</div>\n<div>「貧苦の点ではカール・マルクス氏に近くなりました。\n小生は一大覚悟をもって日本数万の坑夫の為に一身一家を犠牲にするも顧みず、\n七名の家族を北海の雪中に投じ一家の諸道具を売りとばして旅費として出発致す予定です。\n一家の処分は次の通りです。</div>\n<div>一、四歳の子は養女にやる。</div>\n<div>二、八歳の子は二歳児の子守をなす。</div>\n<div>三、十歳の子は学校より戻りて菓子売りをなす。</div>\n<div>四、十三歳の子は朝夕の御飯たきをひきうけ通学す。</div>\n<div>五、十五歳の子は器械場に労働し夜は甘酒を売る。</div>\n<div>六、妻は昼間停車場において荷物運搬をなし夜は甘酒を売る」</div>\n<div>永岡らは裁判をうけるが、裁判官は足尾銅山の待遇が古河市兵衛在世当時に較べて格段に悪化し、\n役員が収賄によって腐敗していることを指摘し、永岡と南に無罪の判決を下した。\n事ほど左様に鉱山の内部は管理が堕落していたのである。</div>\n<div class=\"txr\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．３５６<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E5%259C%2592%25E5%25AF%25BA%25E5%2585%25AC%25E6%259C%259B%25E2%2580%2595%25E6%259C%2580%25E5%25BE%258C%25E3%2581%25AE%25E5%2585%2583%25E8%2580%2581%2520%2528%25E4%25B8%258A%25E5%25B7%25BB%2529%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -113,7 +106,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

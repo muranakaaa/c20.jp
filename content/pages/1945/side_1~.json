@@ -15,8 +15,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1945.html\">年表</a> ＞ <a href=\"side_1.html\">事項</a> ＞ <span class=\"now\">詳細</span>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1945.html\">年表</a> ＞ <a href=\"side_1.html\">事項</a> ＞ <span class=\"now\">詳細</span> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -51,14 +59,6 @@
     "class": "cl"
    },
    "html": "\n<tbody><tr><td class=\"cl\">内閣総理大臣</td><td class=\"cl\"><a href=\"../p/skijuro.html\">幣原喜重郎</a></td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">外務大臣</td><td class=\"cl\"><a href=\"../p/ysigeru.html\">吉田茂</a></td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">内務大臣</td><td class=\"cl\">堀切善次郎</td><td class=\"cl\"><a href=\"../p/mcyuzo.html\">三土忠造</a></td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1946.01.13</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">大蔵大臣</td><td class=\"cl\">渋沢敬三</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">陸軍大臣</td><td class=\"cl\">下村定</td><td class=\"cl\">1945.12.01廃止</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">第一復員大臣</td><td class=\"cl\"><a href=\"../p/skijuro.html\">（幣原喜重郎）</a></td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">1945.12.01設置</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">海軍大臣</td><td class=\"cl\"><a href=\"../p/ymitumas.html\">米内光政</a></td><td class=\"cl\">1945.12.01廃止</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">第二復員大臣</td><td class=\"cl\"><a href=\"../p/skijuro.html\">（幣原喜重郎）</a></td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">1945.12.01設置</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">司法大臣</td><td class=\"cl\">岩田宙造</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">文部大臣</td><td class=\"cl\">前田多門</td><td class=\"cl\">安倍能成</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1946.01.13</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">厚生大臣</td><td class=\"cl\"><a href=\"../p/ahitosi.html\">芦田均</a></td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">農林大臣</td><td class=\"cl\">松村謙三</td><td class=\"cl\">副島千八</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1946.01.13</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">商工大臣</td><td class=\"cl\">小笠原三九郎</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">運輸大臣</td><td class=\"cl\">田中武雄</td><td class=\"cl\"><a href=\"../p/mcyuzo.html\">（三土忠造）</a></td><td class=\"cl\">村上義一</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1946.01.13</td><td class=\"cl\">～1946.01.26</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">戦災復興院総裁</td><td class=\"cl\"><a href=\"../p/kicizo.html\">小林一三</a></td><td class=\"cl\">1947.12.30廃止</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">1945.11.05設置</td><td class=\"cl\">～1946.03.09</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">国務大臣</td><td class=\"cl\"><a href=\"../p/mjoji.html\">松本烝治</a></td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">国務大臣</td><td class=\"cl\">次田大三郎</td><td class=\"cl\">～1946.01.13</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">国務大臣</td><td class=\"cl\"><a href=\"../p/kicizo.html\">小林一三</a></td><td class=\"cl\" colspan=\"2\"><div class=\"l\">　1945.10.30～1946.03.09</div></td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">国務大臣</td><td class=\"cl\">石黒武重</td><td class=\"cl\">1946.02.26～</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">国務大臣</td><td class=\"cl\">楢橋渡</td><td class=\"cl\">1946.02.26～</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">内閣書記官長</td><td class=\"cl\">（次田大三郎）</td><td class=\"cl\">楢橋渡</td><td class=\"cl\">（楢橋渡）</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1946.01.13</td><td class=\"cl\">～1946.02.26</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">内閣副書記官長</td><td class=\"cl\">三好重夫</td><td class=\"cl\">1946.03.02～</td><td class=\"cl\">木内四郎</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1946.01.13</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">法制局長官</td><td class=\"cl\">楢橋渡</td><td class=\"cl\">石黒武重</td><td class=\"cl\">（石黒武重）</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1946.01.13</td><td class=\"cl\">～1946.02.26</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n</tbody>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
   },
   {
    "type": "timeline",
@@ -276,28 +276,18 @@
    ]
   },
   {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s2\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
-  },
-  {
    "type": "cyu",
    "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n<br>「幣原内閣」は「幣原喜重郎内閣」と同じ意味です。\n"
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

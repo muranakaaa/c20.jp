@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1945.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1945.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -193,25 +202,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -225,17 +218,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>京都大学時代の恩師で憲法学の権威佐々木惣一博士に同じく内大臣御用掛の任についてもらい、\n具体的な改正案の起草にとりかかった<a href=\"../p/kfumimar.html\">近衛</a>は、二十一日、ＡＰ通信の東京特派員ラッセル・ブラインズを通じ、\n自分が<a href=\"../p/macart_d.html\">マッカーサー元帥</a>のすすめによって憲法改正に着手するにいたったと、世界に告げたのである。</div>\n<div>「<a href=\"../p/macart_d.html\">元帥</a>は会見劈頭日本憲法を自由主義化する必要のあることをはつきり言明し、\n自分にその運動の先導をするやう示唆した。\n自分は憲法改正は<a href=\"../p/stenno.html\">天皇陛下</a>の御発意によつてのみ行ひ得る旨を答へたが、\n<a href=\"../p/macart_d.html\">元帥</a>の意志を<a href=\"../p/stenno.html\">陛下</a>に御伝へすることを約束した。\nそしてこのことを御報告申上げたら、<a href=\"../p/stenno.html\">陛下</a>は自分に憲法改正に着手せよと命ぜられ、\n自分は<a href=\"../1945/10goyog.html\">内大臣御用掛を拝命した</a>。\n改正草案は十一月中に完成したいと思つてゐる。\n米軍当局には随時詳細に亘つて報告されよう。\n<a href=\"../p/macart_d.html\">マ元帥</a>からは特殊の問題はすべて最高司令官自身へ持つてくるやう要求されてゐる・・・・・・」</div>\n<div>この記事がＧＨＱの事前検閲を経て掲載されたのだということを考えると、\nこの段階では<a href=\"../p/macart_d.html\">マッカーサー</a>は自分が<a href=\"../p/kfumimar.html\">近衛</a>に憲法改正のイニシャティブをとらせたという事実を完全に認めていたことになる。\n当時中国でもまたアメリカ国内でも、<a href=\"../p/kfumimar.html\">近衛</a>は戦争犯罪人として逮捕されるべきだという声は高かった。\nそれなのに<a href=\"../p/macart_d.html\">マッカーサー</a>はなぜ<a href=\"../p/kfumimar.html\">近衛</a>を重用したのだろうか。\n<a href=\"../p/macart_d.html\">マッカーサー</a>の貴族趣味というだけでは解答にならない。\nおそらく天皇制をその権力を弱体化しつつもかたちとして守ることをすでに決意していた<a href=\"../p/macart_d.html\">マッカーサー</a>は、\nその目的のために、天皇家の最良の理解者であり、最大の忠臣である<a href=\"../p/kfumimar.html\">近衛</a>を利用しようとしたのではないだろうか。\n<a href=\"../p/macart_d.html\">マッカーサー</a>が<a href=\"../p/kfumimar.html\">近衛</a>を<a href=\"../p/stenno.html\">天皇</a>と同じように戦犯リストから除外することができると思っていたかどうかは明らかでない。</div>\n<div>ＡＰの記事は<a href=\"../p/kfumimar.html\">近衛</a>にとって命とりになった。\n十月二十六日の『ニューヨーク・タイムズ』紙は<a href=\"../p/kfumimar.html\">近衛</a>が日本の憲法を起草するにふさわしいというなら、\n［ナチスの］<a href=\"../p/goring_h.html\">ゲーリング</a>もアメリカ合衆国の首相になれる、というきびしい社説をかかげた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/sr_mac2k.html\">袖井林二郎 「マッカーサーの二千日」</a>\n　Ｐ．１６３</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>京都大学時代の恩師で憲法学の権威佐々木惣一博士に同じく内大臣御用掛の任についてもらい、\n具体的な改正案の起草にとりかかった<a href=\"../p/kfumimar.html\">近衛</a>は、二十一日、ＡＰ通信の東京特派員ラッセル・ブラインズを通じ、\n自分が<a href=\"../p/macart_d.html\">マッカーサー元帥</a>のすすめによって憲法改正に着手するにいたったと、世界に告げたのである。</div>\n<div>「<a href=\"../p/macart_d.html\">元帥</a>は会見劈頭日本憲法を自由主義化する必要のあることをはつきり言明し、\n自分にその運動の先導をするやう示唆した。\n自分は憲法改正は<a href=\"../p/stenno.html\">天皇陛下</a>の御発意によつてのみ行ひ得る旨を答へたが、\n<a href=\"../p/macart_d.html\">元帥</a>の意志を<a href=\"../p/stenno.html\">陛下</a>に御伝へすることを約束した。\nそしてこのことを御報告申上げたら、<a href=\"../p/stenno.html\">陛下</a>は自分に憲法改正に着手せよと命ぜられ、\n自分は<a href=\"../1945/10goyog.html\">内大臣御用掛を拝命した</a>。\n改正草案は十一月中に完成したいと思つてゐる。\n米軍当局には随時詳細に亘つて報告されよう。\n<a href=\"../p/macart_d.html\">マ元帥</a>からは特殊の問題はすべて最高司令官自身へ持つてくるやう要求されてゐる・・・・・・」</div>\n<div>この記事がＧＨＱの事前検閲を経て掲載されたのだということを考えると、\nこの段階では<a href=\"../p/macart_d.html\">マッカーサー</a>は自分が<a href=\"../p/kfumimar.html\">近衛</a>に憲法改正のイニシャティブをとらせたという事実を完全に認めていたことになる。\n当時中国でもまたアメリカ国内でも、<a href=\"../p/kfumimar.html\">近衛</a>は戦争犯罪人として逮捕されるべきだという声は高かった。\nそれなのに<a href=\"../p/macart_d.html\">マッカーサー</a>はなぜ<a href=\"../p/kfumimar.html\">近衛</a>を重用したのだろうか。\n<a href=\"../p/macart_d.html\">マッカーサー</a>の貴族趣味というだけでは解答にならない。\nおそらく天皇制をその権力を弱体化しつつもかたちとして守ることをすでに決意していた<a href=\"../p/macart_d.html\">マッカーサー</a>は、\nその目的のために、天皇家の最良の理解者であり、最大の忠臣である<a href=\"../p/kfumimar.html\">近衛</a>を利用しようとしたのではないだろうか。\n<a href=\"../p/macart_d.html\">マッカーサー</a>が<a href=\"../p/kfumimar.html\">近衛</a>を<a href=\"../p/stenno.html\">天皇</a>と同じように戦犯リストから除外することができると思っていたかどうかは明らかでない。</div>\n<div>ＡＰの記事は<a href=\"../p/kfumimar.html\">近衛</a>にとって命とりになった。\n十月二十六日の『ニューヨーク・タイムズ』紙は<a href=\"../p/kfumimar.html\">近衛</a>が日本の憲法を起草するにふさわしいというなら、\n［ナチスの］<a href=\"../p/goring_h.html\">ゲーリング</a>もアメリカ合衆国の首相になれる、というきびしい社説をかかげた。</div>\n<div class=\"txr\"><a href=\"../text/sr_mac2k.html\">袖井林二郎 「マッカーサーの二千日」</a>\n　Ｐ．１６３<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E3%2583%259E%25E3%2583%2583%25E3%2582%25AB%25E3%2583%25BC%25E3%2582%25B5%25E3%2583%25BC%25E3%2581%25AE%25E4%25BA%258C%25E5%258D%2583%25E6%2597%25A5%2520%2520%2520%2520%25E4%25B8%25AD%25E5%2585%25AC%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -243,7 +228,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

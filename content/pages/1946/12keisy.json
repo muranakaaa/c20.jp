@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1946.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1946.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -173,25 +182,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -205,17 +198,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>一九四六年（昭和21）末に提唱され、四七年から本格的に実施された戦後復興のための経済政策。\n提唱者は<a href=\"../1946/yosi1_1.html\">第一次吉田内閣</a>が設置した石炭委員会で、会長の有沢広巳が大来佐武郎の構想をヒントを得て立案したといわれる。\n限られた資金と資材を基礎素材の生産に集中的に傾斜させ、これを原動力として経済全体の復興をめざすというのが傾斜生産の発想だった。\n具体的には、輸入重油を鉄鋼生産に投入し、増産された鋼材を炭鉱に投入し、\nさらに増産された石炭を鉄鋼業に投入するという操作を繰り返し、石炭・鉄鋼の生産回復を図ろうというもので、\nのちに食糧や肥料も増産の対象とされた。</div>\n<div>その政策手段としては、価格差補給金と復興金融金庫が創設された。\n価格差補給金は戦時中の制度を復活したもので、政府が補助金を交付して石炭を原価より安く鉄鋼業に引き渡し、\n同様に鋼材も原価より安く炭鉱に引き渡された。\n復興金融金庫は四七年一月に設立され、石炭・鉄鋼・電力・海運を中心として重点産業に傾斜金融をおこなった。\nこうした傾斜生産方式は<a href=\"../1947/kata_1.html\">片山内閣</a>・<a href=\"../1948/asi_1.html\">芦田内閣</a>にも継承され、経済復興を軌道に乗せる役割を果たした。</div>\n<div>しかし、復興金融金庫の原資を復金債の日銀引き受けに頼ったため、通貨が増発され激しいインフレがもたらされた。\nそのインフレを収束させるための<a href=\"../1946/02kinyu.html\">金融緊急措置令</a>も、十分な効果をあげることはできなかった。\nまた、<a href=\"../1947/kata_1.html\">片山</a>・<a href=\"../1948/asi_1.html\">芦田</a>両内閣とも、インフレの一因だった賃金抑制に成功しなかった。\nそこでエコノミストの間で、通貨政策によって短期間にインフレを収束させる「一挙安定」か、\nそれとも漸進的にインフレを収束させる「中間安定」かをめぐり、論争が展開された。\n<a href=\"../1947/kata_1.html\">片山内閣</a>は中間安定論をとり、ＧＨＱもはじめこれを支持していたが、結局、一挙安定論に傾くようになり、\n四九年の<a href=\"../1949/03dodge.html\">ドッジ・ライン</a>で強力な経済政策が示されてインフレの収束に成功した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/sr_syowa.html\">佐々木隆爾 「昭和史の事典」</a>\n　Ｐ．２１１</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>一九四六年（昭和21）末に提唱され、四七年から本格的に実施された戦後復興のための経済政策。\n提唱者は<a href=\"../1946/yosi1_1.html\">第一次吉田内閣</a>が設置した石炭委員会で、会長の有沢広巳が大来佐武郎の構想をヒントを得て立案したといわれる。\n限られた資金と資材を基礎素材の生産に集中的に傾斜させ、これを原動力として経済全体の復興をめざすというのが傾斜生産の発想だった。\n具体的には、輸入重油を鉄鋼生産に投入し、増産された鋼材を炭鉱に投入し、\nさらに増産された石炭を鉄鋼業に投入するという操作を繰り返し、石炭・鉄鋼の生産回復を図ろうというもので、\nのちに食糧や肥料も増産の対象とされた。</div>\n<div>その政策手段としては、価格差補給金と復興金融金庫が創設された。\n価格差補給金は戦時中の制度を復活したもので、政府が補助金を交付して石炭を原価より安く鉄鋼業に引き渡し、\n同様に鋼材も原価より安く炭鉱に引き渡された。\n復興金融金庫は四七年一月に設立され、石炭・鉄鋼・電力・海運を中心として重点産業に傾斜金融をおこなった。\nこうした傾斜生産方式は<a href=\"../1947/kata_1.html\">片山内閣</a>・<a href=\"../1948/asi_1.html\">芦田内閣</a>にも継承され、経済復興を軌道に乗せる役割を果たした。</div>\n<div>しかし、復興金融金庫の原資を復金債の日銀引き受けに頼ったため、通貨が増発され激しいインフレがもたらされた。\nそのインフレを収束させるための<a href=\"../1946/02kinyu.html\">金融緊急措置令</a>も、十分な効果をあげることはできなかった。\nまた、<a href=\"../1947/kata_1.html\">片山</a>・<a href=\"../1948/asi_1.html\">芦田</a>両内閣とも、インフレの一因だった賃金抑制に成功しなかった。\nそこでエコノミストの間で、通貨政策によって短期間にインフレを収束させる「一挙安定」か、\nそれとも漸進的にインフレを収束させる「中間安定」かをめぐり、論争が展開された。\n<a href=\"../1947/kata_1.html\">片山内閣</a>は中間安定論をとり、ＧＨＱもはじめこれを支持していたが、結局、一挙安定論に傾くようになり、\n四九年の<a href=\"../1949/03dodge.html\">ドッジ・ライン</a>で強力な経済政策が示されてインフレの収束に成功した。</div>\n<div class=\"txr\"><a href=\"../text/sr_syowa.html\">佐々木隆爾 「昭和史の事典」</a>\n　Ｐ．２１１<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4490103875%2Fqid%3D1146489204%2Fsr%3D1-9%2Fref%3Dsr_1_10_9\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -223,7 +208,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

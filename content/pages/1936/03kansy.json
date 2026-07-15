@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1936.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1936.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -213,25 +222,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "pt"
    },
    "html": "\n<div class=\"pt_h\">～　幻の<a href=\"../p/ysigeru.html\">吉田茂外相</a>　～</div>\n<div class=\"c\"><a href=\"../p/hkoki.html\">広田首相</a>とは外務省同期入省で、内閣の組閣参謀役</div>\n<div class=\"c\">当然、外相としての入閣が予定されていた</div>\n<div class=\"c\">⇒　<a href=\"../p/thisaici.html\">寺内</a>の干渉で、閣僚名簿から削除　（自由主義者 <a href=\"../p/mnobuaki.html\">牧野伸顕</a>の女婿だから）</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -245,9 +238,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../1936/okada_9.html\">岡田内閣は総辞職</a>し、近衛文麿が組閣を命ぜられたが、<a href=\"../p/kfumimar.html\">近衛</a>は辞退した。</div>\n<div>代って組閣を命じられたのは、外相の<a href=\"../p/hkoki.html\">広田弘毅</a>だった。\n<a href=\"../p/hkoki.html\">広田</a>はこれを受諾して、組閣に乗り出したが、閣僚メンバーについて、陸相<a href=\"../p/thisaici.html\">寺内寿一</a>をはじめとする陸軍側から激しい横槍が入った。\n外相候補の<a href=\"../p/ysigeru.html\">吉田茂</a>ら五人の入閣予定者が自由主義的で、時局を乗り切るには、不適当であるというのが、\n陸軍側の主張だった。\n陸軍側の政治干渉は従来になく強硬なものだったため、<a href=\"../p/hkoki.html\">広田</a>はやむなく<a href=\"../p/ysigeru.html\">吉田</a>を除外するなど、閣僚の顔ぶれを変更して、\n組閣にこぎつけた。</div>\n<div class=\"txr\"><a href=\"../text/yk_marik.html\">柳田邦男 「マリコ」</a>\n　Ｐ．５３<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4101249024%2Fqid%3D1146491819%2Fsr%3D1-1%2Fref%3Dsr_1_2_1\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -255,7 +248,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div><a href=\"../1936/okada_9.html\">岡田内閣は総辞職</a>し、近衛文麿が組閣を命ぜられたが、<a href=\"../p/kfumimar.html\">近衛</a>は辞退した。</div>\n<div>代って組閣を命じられたのは、外相の<a href=\"../p/hkoki.html\">広田弘毅</a>だった。\n<a href=\"../p/hkoki.html\">広田</a>はこれを受諾して、組閣に乗り出したが、閣僚メンバーについて、陸相<a href=\"../p/thisaici.html\">寺内寿一</a>をはじめとする陸軍側から激しい横槍が入った。\n外相候補の<a href=\"../p/ysigeru.html\">吉田茂</a>ら五人の入閣予定者が自由主義的で、時局を乗り切るには、不適当であるというのが、\n陸軍側の主張だった。\n陸軍側の政治干渉は従来になく強硬なものだったため、<a href=\"../p/hkoki.html\">広田</a>はやむなく<a href=\"../p/ysigeru.html\">吉田</a>を除外するなど、閣僚の顔ぶれを変更して、\n組閣にこぎつけた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/yk_marik.html\">柳田邦男 「マリコ」</a>\n　Ｐ．５３</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/thisaici.html\">寺内</a>は、偕行社に待ちうけていた<a href=\"../p/hsenjuro.html\">林銑十郎</a>、<a href=\"../p/anobuyuk.html\">阿部信行</a>、<a href=\"../p/asadao.html\">荒木貞夫</a>と三人の大将をたずね、\n諒承を得ると、午後二時四十分、組閣本部に現われた。</div>\n<div>「あなたの時局認識は、多分に疑問なところがある。\nこれでは組閣には同調しがたい」と述べたてた。<a href=\"../p/hkoki.html\">広田</a>は、押し返した。</div>\n<div>「陸軍だけの判断で、時局認識うんぬんといわれるのは困る。\nそれに具体的な政策については、内閣ができたあと、全閣僚が協議していくのが当然だ。\n不平不満、批判があるならば、その折にははっきりしてもらいたい」</div>\n<div>「いや、そうはいっても、最初から疑義のある内閣に、私は入閣できがたい。\nこれは私一人の意見ではなく、陸軍の総意だ」</div>\n<div><a href=\"../p/thisaici.html\">寺内</a>は困惑しきった<a href=\"../p/hkoki.html\">広田</a>をあとにして、組閣本部の外相官邸を出ると、陸軍省で記者団と会見して談話を発表した。</div>\n<div>「この未曾有の重責に任ずべき新内閣は、内外にあたり時弊の根本的刷新、国防充実など、\n積極的強力国策を遂行せんとする気魄と、実行力とを有することが絶対に必要であって、\n依然として自由主義的色彩を帯び、現状維持または消極的政策により、妥協退嬰をこととするがごときものであってはならない。\n積極政策により国政を一新することは、全軍一致の要望であって、\n妥協退嬰は時局を収拾するゆえんにあらずして、かえって事態を紛糾せしむるのみならず、\n将来大なる禍根を残すものというべきである」</div>\n<div>【中略】</div>\n<div>陸軍の要求とはなんであるのか。<span class=\"bar\">―</span>―陸軍側では組閣名簿を手にして、\n<a href=\"../p/makira.html\">武藤章中佐</a>がその何人かの名前の上に赤線を引っ張った。\nつまりそれらの人々は入閣させるなということであった。</div>\n<div><a href=\"../p/hkoki.html\">広田</a>の組閣参謀たちは、やがてこの陸軍の意向を知った。</div>\n<div>一、牧野の女婿<a href=\"../p/ysigeru.html\">吉田茂</a>を外相に起用せんとすること。</div>\n<div>一、自由主義の急先鋒である朝日新聞の下村を、入閣せしめんとすること。</div>\n<div>一、川崎卓吉のごとき党人を、内相にすえんとすること。</div>\n<div>一、小原直のごとき国体明徴の観念に異議のある者を、入閣せしめんとすること。</div>\n<div>一、<a href=\"../p/ncikuhei.html\">中島知久平</a>のごとき軍需産業に関係のある者を、入閣せしめんとすること。</div>\n<div>入閣予定者を五名まで拒否されて、<a href=\"../p/hkoki.html\">広田</a>は、見るも無残な情けない顔つきになった。</div>\n<div>「やむを得ない。これらの諸君には、私としては辛いことだが、涙をのんでもらわねばならない」\n<span class=\"bar\">―</span>―消えいるような声でいった。</div>\n<div>具体的な陸軍の人事案をのんだにもかかわらず、陸軍はなおも横車を押してきた。\n政友、民政から、それぞれ二名ずつ入閣を予定していたのを、一名に減らせというのであった。\n<a href=\"../p/hkoki.html\">広田</a>は、それをも承知した。</div>\n<div>陸軍に対して、屈服につぐ屈服を重ねてできあがった<a href=\"../1936/hiro_1.html\">広田内閣</a>は<span class=\"bar\">―</span>―その後のことになるが、\n政治史的には取り返しのつかない、大きな失敗を重ねることになる。\nそれは軍務大臣の任用令の改正である。</div>\n<div class=\"txr\"><a href=\"../text/ti_yosid.html\">戸川猪佐武 「小説 吉田茂」</a>\n　Ｐ．９２<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%25B0%258F%25E8%25AA%25AC%25E5%2590%2589%25E7%2594%25B0%25E8%258C%2582%2520%2520%2520%2520%25E8%25A7%2592%25E5%25B7%259D%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -263,7 +256,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

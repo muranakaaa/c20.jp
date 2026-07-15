@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -52,27 +61,11 @@
   },
   {
    "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
    "tag": "table",
    "attrs": {
     "class": "off"
    },
    "html": "<tbody><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr></tbody>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "timeline",
@@ -173,49 +166,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_b\">エピソード</span>\n調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span>エジプトのナセルは一九三八年に士官学校を卒業して四〇年代に民族主義的な秘密組織・自由将校団の中心的な人物となっていたが、\n<a href=\"../1948/05cyut1.html\">第一次中東戦争</a>では王政の腐敗と無能を身をもって経験し、五二年に王制を廃し、五四年に政権についた。\nかれはアラブ世界で初めて農地改革を実現し、反植民地主義・非同盟政策をとって広くアラブ諸民族の支持を固めた。</div>\n<div>エジプトは一九五六年、米英がアスワン・ハイダム建設への援助を打ち切ったのに抗議してスエズ運河を国有化した。\nこれに対してイスラエルは、英仏と共謀してエジプトに侵攻して第二次中東戦争（スエズ戦争）を引きおこし、\n英仏中東支配の橋頭堡となっていることを示した。</div>\n<div>ソ連はただちに英仏に警告を発し、アメリカも支持しなかったため、英仏とイスラエルは撤兵せざるをえず、\nナセルの名声は高まった。\nかれはソ連からも援助を獲得し、一九六一年にはインドの<a href=\"../p/nehru_j.html\">ネール</a>、ユーゴスラヴィアの<a href=\"../p/tito.html\">チトー</a>とともに\n非同盟諸国首脳会議を主催した。\nこの年には社会主義政策を宣言して第二次農地改革と大企業の国有化をおこない、エジプトの近代化を進めた。</div>\n<div class=\"txr\"><a href=\"../text/kh_20sek.html\">木村英亮 「二〇世紀の世界史」</a>\n　Ｐ．１９６<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=20%25E4%25B8%2596%25E7%25B4%2580%25E3%2581%25AE%25E4%25B8%2596%25E7%2595%258C%25E5%258F%25B2%25E2%2580%2595%25E6%25B0%2591%25E6%2597%258F%25E8%25A7%25A3%25E6%2594%25BE%25E9%2581%258B%25E5%258B%2595%25E3%2581%25A8%25E7%25A4%25BE%25E4%25BC%259A%25E4%25B8%25BB%25E7%25BE%25A9\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -223,7 +176,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

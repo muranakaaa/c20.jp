@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1945.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1945.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -253,25 +262,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -285,9 +278,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>安藤正純や<a href=\"../p/ahitosi.html\">芦田均</a>らが戦後政党づくりに動き始めたのは、日本政府のポツダム宣言受諾の動きが本格化した戦争末期であった。\n仲間の要請を受けて、<a href=\"../p/hiciro.html\">鳩山一郎</a>は八月二十二日に軽井沢から東京に戻った。\nこのグループは<a href=\"../1941/tojo_1.html\">東条内閣</a>に抵抗した<a href=\"../p/hiciro.html\">鳩山</a>を中心とする「同交会」と呼ばれた小さな、しかし力ある人たちの集まりだった。</div>\n<div>進歩党が旧政治家を広く糾合しようとしたのに対し、<a href=\"../p/hiciro.html\">鳩山</a>グループは政治の手あかに染まっていない官僚、\n学者、ジャーナリストら新人を発掘し、穏健の社会主義者たちも包含して、\n清新な活力ある新政党を樹立する意欲を持っていた。\n　【中略】　平野、<a href=\"../p/nsuehiro.html\">西尾</a>ら社会主義グループを誘ったのもその表れであった。\n十一月九日、<a href=\"../p/hiciro.html\">鳩山</a>を総裁として四三名の代議士を集めて自由党を結成した。\n小粒に出発したが、総裁という顔を明瞭に持ち得たのは自由党のみであり、有力政党となるであろうことが予期された。</div>\n<div class=\"txr\"><a href=\"../text/im_senry.html\">五百旗頭真 「占領期」</a>\n　Ｐ．２３４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%258D%25A0%25E9%25A0%2598%25E6%259C%259F%25E2%2580%2595%25E9%25A6%2596%25E7%259B%25B8%25E3%2581%259F%25E3%2581%25A1%25E3%2581%25AE%25E6%2596%25B0%25E6%2597%25A5%25E6%259C%25AC\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -295,15 +288,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>安藤正純や<a href=\"../p/ahitosi.html\">芦田均</a>らが戦後政党づくりに動き始めたのは、日本政府のポツダム宣言受諾の動きが本格化した戦争末期であった。\n仲間の要請を受けて、<a href=\"../p/hiciro.html\">鳩山一郎</a>は八月二十二日に軽井沢から東京に戻った。\nこのグループは<a href=\"../1941/tojo_1.html\">東条内閣</a>に抵抗した<a href=\"../p/hiciro.html\">鳩山</a>を中心とする「同交会」と呼ばれた小さな、しかし力ある人たちの集まりだった。</div>\n<div>進歩党が旧政治家を広く糾合しようとしたのに対し、鳩山グループは政治の手あかに染まっていない官僚、\n学者、ジャーナリストら新人を発掘し、穏健の社会主義者たちも包含して、\n清新な活力ある新政党を樹立する意欲を持っていた。\n　【中略】　平野、<a href=\"../p/nsuehiro.html\">西尾</a>ら社会主義グループを誘ったのもその表れであった。\n十一月九日、<a href=\"../p/hiciro.html\">鳩山</a>を総裁として四三名の代議士を集めて自由党を結成した。\n小粒に出発したが、総裁という顔を明瞭に持ち得たのは自由党のみであり、有力政党となるであろうことが予期された。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/im_senry.html\">五百旗頭真 「占領期」</a>\n　Ｐ．２３４</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s4\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>日本自由党はブルジョア政党であったが、財界との組織的関係はまだ希薄であった。\n自由党の資金第一号は、<a href=\"../p/hiciro.html\">鳩山</a>がだした三〇〇〇円であり、その他は主として河野幹事長が辻嘉六からひきだした。</div>\n<div>辻嘉六は、かつて政友会の黒幕といわれた浪人であるが、資金の調達を河野からたのまれた彼は、\n児玉誉士夫に目をつけた。\n児玉は、<a href=\"../p/kikki.html\">北一輝</a>や<a href=\"../p/osyumei.html\">大川周明</a>を尊敬するファシストであり、戦争中は海軍のために「児玉機関」を組織し、\n上海で物資の調達に従事していた。\n<a href=\"../1945/08gyoku.html\">敗戦</a>で児玉機関は解体したが、海軍から得た巨利で蓄積した内地・外地の資産を海軍の了解のもとにソックリそのまま自分の手にいれていた。\nそこに辻嘉六からの声がかけられた。\n児玉は<a href=\"../p/hiciro.html\">鳩山</a>と会見し、「ただひとつ、いかなる圧迫があろうと、ぜったい天皇制を護持してください」\nという条件で自分の資産を自由党のための提供した。\n児玉機関の副隊長をしていた吉田彦太郎は、自分が手にしていた多額の資金で緑産業という会社をはじめていたが、\nその利益のなかから六五〇万円を献金した。\n自由党の政治資金は、戦争中に海軍が国民の税金をつかって特殊の機関にもうけさせた資金、\nそしてファシストが国体護持を条件として提供した資金をもってまかなわれた。</div>\n<div class=\"txr\"><a href=\"../text/ss1sengo.html\">信夫清三郎 「戦後日本政治史Ⅰ」</a>\n　Ｐ．２０２<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4326398167%2Fqid%3D1147087145%2Fsr%3D1-1%2Fref%3Dsr_1_8_1\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -311,7 +296,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>日本自由党はブルジョア政党であったが、財界との組織的関係はまだ希薄であった。\n自由党の資金第一号は、<a href=\"../p/hiciro.html\">鳩山</a>がだした三〇〇〇円であり、その他は主として河野幹事長が辻嘉六からひきだした。</div>\n<div>辻嘉六は、かつて政友会の黒幕といわれた浪人であるが、資金の調達を河野からたのまれた彼は、\n児玉誉士夫に目をつけた。\n児玉は、<a href=\"../p/kikki.html\">北一輝</a>や<a href=\"../p/osyumei.html\">大川周明</a>を尊敬するファシストであり、戦争中は海軍のために「児玉機関」を組織し、\n上海で物資の調達に従事していた。\n敗戦で児玉機関は解体したが、海軍から得た巨利で蓄積した内地・外地の資産を海軍の了解のもとにソックリそのまま自分の手にいれていた。\nそこに辻嘉六からの声がかけられた。\n児玉は<a href=\"../p/hiciro.html\">鳩山</a>と会見し、「ただひとつ、いかなる圧迫があろうと、ぜったい天皇制を護持してください」\nという条件で自分の資産を自由党のための提供した。\n児玉機関の副隊長をしていた吉田彦太郎は、自分が手にしていた多額の資金で緑産業という会社をはじめていたが、\nその利益のなかから六五〇万円を献金した。\n自由党の政治資金は、戦争中に海軍が国民の税金をつかって特殊の機関にもうけさせた資金、\nそしてファシストが国体護持を条件として提供した資金をもってまかなわれた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ss1sengo.html\">信夫清三郎 「戦後日本政治史Ⅰ」</a>\n　Ｐ．２０２</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>自由党は、<a href=\"../p/hiciro.html\">鳩山一郎</a>（戦前文相）を中心に、安藤正純、星島二郎、植原悦二郎、河野一郎、<a href=\"../p/ahitosi.html\">芦田均</a>、矢野正太郎たちの手で、\nその結成が準備された。</div>\n<div>十一月九日には日比谷公会堂で結党式を行ない、<a href=\"../p/hiciro.html\">鳩山総裁</a>のもとに幹事長に河野一郎、政調会長に安藤正純、総務会長に三木武吉を選んだ。\n擁する議員は四十三名であった。</div>\n<div class=\"txr\"><a href=\"../text/ti_yosid.html\">戸川猪佐武 「小説 吉田茂」</a>\n　Ｐ．１９０<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%25B0%258F%25E8%25AA%25AC%25E5%2590%2589%25E7%2594%25B0%25E8%258C%2582%2520%2520%2520%2520%25E8%25A7%2592%25E5%25B7%259D%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -319,7 +304,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

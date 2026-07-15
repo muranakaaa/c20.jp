@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1924.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href=\"katob_1~.html\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1924.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href=\"katob_1~.html\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -42,7 +51,7 @@
    "attrs": {
     "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href=\"katob_1~.html\">[詳細]</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"katob_1~.html\">[詳細]</a></td><td class=\"lt\"><a href=\"../them/j_gov03.html#s5\">【内閣成立史】</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
   },
   {
    "type": "timeline",
@@ -163,7 +172,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1925/05/01　　<a href\"..=\"\" 19.html\"=\"\">\n陸軍軍縮計画（宇垣軍縮）発表</a>"
+       "html": "1925/05/01　　<a href=\"../1925/05ugaki.html\">\n陸軍軍縮計画（宇垣軍縮）発表</a>"
       }
      ]
     },
@@ -253,25 +262,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -285,17 +278,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>憲政会総裁の<a href=\"../p/ktakaaki.html\">加藤高明</a>が、憲政・政友・革新の三派連合のいわゆる護憲三派内閣を組閣した。\n政友会総裁の<a href=\"../p/tkorekiy.html\">高橋是清</a>が農商務大臣として、革新倶楽部総理の<a href=\"../p/ituyosi.html\">犬養毅</a>が逓信大臣として入閣した。\n三派内閣は、日ソ国交回復を実現し、<a href=\"../1925/05fusen.html\">普通選挙法を成立させた</a>。\nしかし、同時に、日ソ国交回復と労働者階級の選挙権公使から予測される共産主義運動を弾圧するために、\n<a href=\"../1925/04ciani.html\">治安維持法を制定した</a>。\nその後、<a href=\"../p/tkorekiy.html\">高橋</a>は大臣を辞して政友会総裁のポストを陸軍をしりぞいた<a href=\"../p/tgiici.html\">田中義一</a>にゆずり、\n<a href=\"../p/ituyosi.html\">犬養</a>も大臣を辞して革新倶楽部は政友会に合流した。</div>\n<div class=\"txr\"><a href=\"../text/os_cyosa.html\">大江志乃夫 「張作霖爆殺」</a>\n　Ｐ．６３<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%25BC%25B5%25E4%25BD%259C%25E9%259C%2596%25E7%2588%2586%25E6%25AE%25BA%25E2%2580%2595%25E6%2598%25AD%25E5%2592%258C%25E5%25A4%25A9%25E7%259A%2587%25E3%2581%25AE%25E7%25B5%25B1%25E5%25B8%25A5\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -303,7 +288,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

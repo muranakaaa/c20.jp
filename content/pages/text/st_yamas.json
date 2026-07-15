@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "text.css"
+  "text.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\"><span class=\"now\">書籍</span></a> ／ 他"
   },
   {
    "type": "title",
@@ -32,7 +41,7 @@
    "attrs": {
     "class": "list"
    },
-   "html": "<tbody><tr>\n<td class=\"list\"><a href=\"08y.html\">一覧</a></td>\n<td class=\"list2\"><a href\"st_yamas.html\"=\"\">データ</a></td>\n<td class=\"list\"><a href=\"st1yamas.html\">上</a></td>     \n<td class=\"list\"><a href=\"st2yamas.html\">下</a></td>\n</tr></tbody>"
+   "html": "<tbody><tr>\n<td class=\"list\"><a href=\"08y.html\">一覧</a></td>\n<td class=\"list2\"><a href\"st_yamas.html\"=\"\">データ</a></td>\n<td class=\"list\"><a href=\"st1yamas.html\">上</a></td>\n<td class=\"list\"><a href=\"st2yamas.html\">下</a></td>\n</tr></tbody>"
   },
   {
    "type": "raw",
@@ -43,12 +52,34 @@
    "html": "\n著者：　佐々木敏二（ささき・としじ）<br>\n発行：　汐文社<br>\n書籍：　全２巻／単行本<br>\n定価：　各1500円（？）<br>\n補足情報：<br>\n<div class=\"in\">\n同志社山宣祭の講演会のとき、<a href=\"../p/ysenji.html\">山宣</a>の長男英治氏より、「花やしき」に<a href=\"../p/ysenji.html\">山宣</a>資料がある程度残されていることを教えられた。\n講演会も終ってしばらくたった頃、同志社山宣会では<a href=\"../p/ysenji.html\">山宣</a>資料の調査をしてみようという計画がたてられ、\n私たち数名が「花やしき」を訪れた。\n英治氏の案内で、<a href=\"../p/ysenji.html\">山宣</a>の書斎の蔵書類、布団部屋の奥の棚にある遺品類、<a href=\"../p/ysenji.html\">山宣</a>所有の資料戸棚などを見せていただいた。\nその時古くから居られるお手伝のお婆さんが「<a href=\"../p/ysenji.html\">山宣さん</a>の資料なら蔵の二階に沢山ありますよ」と教えてくれた。\n私たちは、旅館のお膳や机などのこわれたものの入っている真暗な二階に懐中電灯を持って入って行って、\nそれらのガラクタを動かしてみて、ビックリした。\nそこには、日記、書簡、ノート、山宣渡政労農葬のフィルム、その他沢山の資料が山とつまれていた。（まえがき）</div>\n"
   },
   {
+   "type": "raw",
+   "tag": "span",
+   "attrs": {
+    "class": "book"
+   },
+   "html": "<a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4938303000%2Fqid%3D1147088125%2Fsr%3D1-1%2Fref%3Dsr_1_8_1\" target=\"_blank\">上巻を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\">"
+  },
+  {
+   "type": "raw",
+   "tag": "span",
+   "attrs": {
+    "class": "book"
+   },
+   "html": "<a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4938303019%2Fqid%3D1147088125%2Fsr%3D1-5%2Fref%3Dsr_1_8_5\" target=\"_blank\">下巻を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\">"
+  },
+  {
    "type": "cyu",
    "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

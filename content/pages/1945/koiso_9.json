@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1945.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1945.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -213,25 +222,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -245,9 +238,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>国務と統帥の一致が得られないまま、<a href=\"../p/kkuniaki.html\">小磯首相</a>は本土決戦の準備をすすめなければならなかった。\n大本営陸軍部は、三月中旬に本土決戦のための『決号作戦準備要綱』を策定し、二〇日に本土各方面軍の参謀長ならびに関係閣僚に内示した。\n<a href=\"../1944/koiso_1.html\">小磯内閣</a>は、呼応して二六日、本土決戦のための国民義勇隊の結成を閣議決定した。\n国民義勇隊は、当面は防空および防衛、空襲被害の復旧から重要物資の輸送、食糧増産などの臨時緊急を要する作業に国民を動員し、\n情勢が急迫した場合には国民を武装出動させようという非常態勢である。\nところが、その命令系統をめぐって<a href=\"../p/kkuniaki.html\">小磯首相</a>と陸軍が対立し、陸軍の内部では陸軍省と参謀本部が対立した。\n陸軍は、憲法を停止し、憲法によって保証されている国民の権利をすべて剥奪し、軍の統帥命令によって生殺与奪の権をすべて軍官の手に掌握し、\n全国民を婦女子にいたるまで戦闘にかりたてようとした。\nこの計画について不一致はなかったが、参謀本部は、大本営を最高の指導機関とし、\n内閣は大本営に付属しつつ軍の作戦方針によってうごく一行政機関たらしめようとした。\nしかし、陸軍省は、それでは陸軍大臣も下級の隷属機関となってしまうといって反対し、\n命令系統を陸軍省に確保しようとした。\n<a href=\"../p/kkuniaki.html\">小磯首相</a>は、義勇隊を統裁する総司令部には首相みずからがあたるべきであると主張した。\n<a href=\"../p/kkuniaki.html\">小磯首相</a>の主張は、中国にたいする和平工作としての繆斌を介した<a href=\"../p/syokaise.html\">蒋介石</a>との直接交渉が失敗し、\nのこされた道が来るべき本土決戦において敵に打撃をあたえつつ、その機先を利用して和平の手をうつ以外になくなったとき、\n国務と統帥の一致を要求するためにいっそうつよめられた。\n彼は、かくしてひろく戦争遂行のうえで依然として未解決のままのこされていた国務と統帥のあいだの矛盾をもあわせて解決するため、\n予備役から現役に復帰して陸相を兼摂しようとした。\n首相は大本営の議に単に列するにすぎないが、陸相を兼摂するならば、\n陸相としての本来の権限から大本営の決定に強力に参与することができるからであった。\nちょうどこのとき、陸相の<a href=\"../p/shajime.html\">杉山元</a>が本土決戦のために設けられた第一総軍司令官に転出することとなった。\n<a href=\"../p/kkuniaki.html\">小磯首相</a>は、いい機会だと陸相の兼摂を要求した。\nしかし、陸軍は、予備役の現役復帰と陸相兼摂は絶対に承認できないといって拒否した。\n戦争指導の方途をうしなった<a href=\"../p/kkuniaki.html\">小磯首相</a>は、四月五日、ついに内閣をなげだした。\n彼は、とくに後継内閣は大本営内閣でなければならないことを強調しながら、辞表を提出した。</div>\n<div class=\"txr\"><a href=\"../text/ss1sengo.html\">信夫清三郎 「戦後日本政治史Ⅰ」</a>\n　Ｐ．６６<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4326398167%2Fqid%3D1147087145%2Fsr%3D1-1%2Fref%3Dsr_1_8_1\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -255,23 +248,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>国務と統帥の一致が得られないまま、<a href=\"../p/kkuniaki.html\">小磯首相</a>は本土決戦の準備をすすめなければならなかった。\n大本営陸軍部は、三月中旬に本土決戦のための『決号作戦準備要綱』を策定し、二〇日に本土各方面軍の参謀長ならびに関係閣僚に内示した。\n<a href=\"../1944/koiso_1.html\">小磯内閣</a>は、呼応して二六日、本土決戦のための国民義勇隊の結成を閣議決定した。\n国民義勇隊は、当面は防空および防衛、空襲被害の復旧から重要物資の輸送、食糧増産などの臨時緊急を要する作業に国民を動員し、\n情勢が急迫した場合には国民を武装出動させようという非常態勢である。\nところが、その命令系統をめぐって<a href=\"../p/kkuniaki.html\">小磯首相</a>と陸軍が対立し、陸軍の内部では陸軍省と参謀本部が対立した。\n陸軍は、憲法を停止し、憲法によって保証されている国民の権利をすべて剥奪し、軍の統帥命令によって生殺与奪の権をすべて軍官の手に掌握し、\n全国民を婦女子にいたるまで戦闘にかりたてようとした。\nこの計画について不一致はなかったが、参謀本部は、大本営を最高の指導機関とし、\n内閣は大本営に付属しつつ軍の作戦方針によってうごく一行政機関たらしめようとした。\nしかし、陸軍省は、それでは陸軍大臣も下級の隷属機関となってしまうといって反対し、\n命令系統を陸軍省に確保しようとした。\n<a href=\"../p/kkuniaki.html\">小磯首相</a>は、義勇隊を統裁する総司令部には首相みずからがあたるべきであると主張した。\n<a href=\"../p/kkuniaki.html\">小磯首相</a>の主張は、中国にたいする和平工作としての繆斌を介した<a href=\"../p/syokaise.html\">蒋介石</a>との直接交渉が失敗し、\nのこされた道が来るべき本土決戦において敵に打撃をあたえつつ、その機先を利用して和平の手をうつ以外になくなったとき、\n国務と統帥の一致を要求するためにいっそうつよめられた。\n彼は、かくしてひろく戦争遂行のうえで依然として未解決のままのこされていた国務と統帥のあいだの矛盾をもあわせて解決するため、\n予備役から現役に復帰して陸相を兼摂しようとした。\n首相は大本営の議に単に列するにすぎないが、陸相を兼摂するならば、\n陸相としての本来の権限から大本営の決定に強力に参与することができるからであった。\nちょうどこのとき、陸相の<a href=\"../p/shajime.html\">杉山元</a>が本土決戦のために設けられた第一総軍司令官に転出することとなった。\n<a href=\"../p/kkuniaki.html\">小磯首相</a>は、いい機会だと陸相の兼摂を要求した。\nしかし、陸軍は、予備役の現役復帰と陸相兼摂は絶対に承認できないといって拒否した。\n戦争指導の方途をうしなった<a href=\"../p/kkuniaki.html\">小磯首相</a>は、四月五日、ついに内閣をなげだした。\n彼は、とくに後継内閣は大本営内閣でなければならないことを強調しながら、辞表を提出した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ss1sengo.html\">信夫清三郎 「戦後日本政治史Ⅰ」</a>\n　Ｐ．６６</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "tx"
-   },
-   "html": "\n<div>小磯内閣が退陣したのは、この四月五日であった。</div>\n<div>総辞職の原因は<span class=\"bar\">―</span>―<a href=\"../p/otaketor.html\">緒方竹虎国務相</a>（戦後副総理、自由党総裁）が、\n汪精衛政権の考試院長繆斌を通じて、重慶の蒋介石政権と直接、和平交渉をこころみようとしたのを、軍部が反対し、\nその軍と一緒になった<a href=\"../p/smamoru.html\">重光葵外相</a>と対立、それで閣内不統一をきたしたからであった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ti_yosid.html\">戸川猪佐武 「小説 吉田茂」</a>\n　Ｐ．１６０</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>小磯内閣が退陣したのは、この四月五日であった。</div>\n<div>総辞職の原因は<span class=\"bar\">―</span>―<a href=\"../p/otaketor.html\">緒方竹虎国務相</a>（戦後副総理、自由党総裁）が、\n汪精衛政権の考試院長繆斌を通じて、重慶の蒋介石政権と直接、和平交渉をこころみようとしたのを、軍部が反対し、\nその軍と一緒になった<a href=\"../p/smamoru.html\">重光葵外相</a>と対立、それで閣内不統一をきたしたからであった。</div>\n<div class=\"txr\"><a href=\"../text/ti_yosid.html\">戸川猪佐武 「小説 吉田茂」</a>\n　Ｐ．１６０<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%25B0%258F%25E8%25AA%25AC%25E5%2590%2589%25E7%2594%25B0%25E8%258C%2582%2520%2520%2520%2520%25E8%25A7%2592%25E5%25B7%259D%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -279,7 +256,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1910.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1910.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -213,25 +222,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "pt"
    },
    "html": "\n<div class=\"pt_h\">～　韓国は日本のもの　～</div>\n<div class=\"c\">各国はいつ認めたか　　・・・１９０５年</div>\n<div class=\"c\">アメリカ：<a href=\"../1905/07taftk.html\">桂・タフト協定</a> ／ イギリス：<a href=\"../1905/08je_d2.html\">日英同盟②</a> ／ ロシア：<a href=\"../1905/09portm.html\">ポーツマス条約</a> </div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -245,9 +238,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/ktaro.html\">桂</a>は、ひそかに韓国併合の気運をたかめることにつとめ、時期尚早を口にする<a href=\"../p/kjutaro.html\">小村</a>をはじめ閣僚、元老を説得し、\n一進会との連絡も一層強めた。</div>\n<div>翌明治四十三年春、<a href=\"../p/ktaro.html\">桂</a>は、併合の機運が熟したと判断し、本格的な準備に入った。</div>\n<div><a href=\"../p/kjutaro.html\">小村</a>は、それをうけて危惧されている列国の承認を得る工作にとりかかった。\nまず、その年の四月、第二回日露協商の折衝をおこなっていた駐露大使本野一郎に命じ、\n日本の韓国併合についてのロシアの意見をたださせたが、ロシア政府は異存なし、と答えた。</div>\n<div>その意見交換がイギリス政府にもつたえられ、ロシアと同じように諒承する旨の回答を得た。\nまた、アメリカもそれを当然のこととして認めたので、列国に対する打診は終り、<a href=\"../p/ktaro.html\">桂</a>は、実行に移った。</div>\n<div>まず、統監の<a href=\"../p/sarasuke.html\">曾禰</a>を辞任させ、陸相<a href=\"../p/tmasatak.html\">寺内正毅</a>を第三代統監に就任させた。\nそして、併合に必要な調査を徹底的におこない、正式に閣議に上程して併合を決定した。\n国の名称については、韓国という名称を廃することになり、逓相<a href=\"../p/gsinpei.html\">後藤新平</a>が韓国人の歴史的心理を考えて高麗とする案を出したが、\n<a href=\"../p/ktaro.html\">桂</a>と<a href=\"../p/tmasatak.html\">寺内</a>が朝鮮を強く主張し、これに決定した。</div>\n<div><a href=\"../p/tmasatak.html\">寺内</a>は、七月二十三日、統監として着任、韓国内の情勢を慎重に観察した。\nそして、八月十三日、<a href=\"../p/kjutaro.html\">小村</a>に対して決行する旨を打電し、李完用首相を統監部に招いて、併合をつたえた。</div>\n<div><a href=\"../p/tmasatak.html\">寺内</a>の説明をきいた李は、すでにそれを予測し受諾する以外にないとあきらめていたので、内諾した。\nが、ただ国号は韓国のままとし、皇帝の尊称ものこして欲しいと要望したが、<a href=\"../p/tmasatak.html\">寺内</a>はそれを拒否し、\n<a href=\"../p/ritaio.html\">皇帝</a>を李王殿下にするよう本国に要請してみる、と答えた。</div>\n<div>韓国政府は、緊急閣議をひらいた。\nが、学部大臣李容植が頑強に反対しただけで、御前会議で日本の要求を受諾することに決定した。</div>\n<div>交渉は急速にすすめられて条約の調印も終り、八月二十九日、日韓両国は併合条約を公布し、韓国は日本に併合させ、\n朝鮮と名称を変えた。\nこれについて、ロシアをはじめイギリス、ドイツ、アメリカ、フランス、イタリアの諸国も承認する声明を発した。\n各国は、それぞれ他国を殖民地として併合していて、日本の韓国併合を不当として責めることができなかったのである。</div>\n<div>この併合は、韓国内に衝撃をあたえ、各地に騒乱が起った。\n日本政府は、憲兵、警察力を駆使して鎮圧につとめたが、抵抗運動は根強く反復した。</div>\n<div class=\"txr\"><a href=\"../text/ya_portm.html\">吉村昭 「ポーツマスの旗」</a>\n　Ｐ．３５１<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2584%25E3%2583%259E%25E3%2582%25B9%25E3%2581%25AE%25E6%2597%2597%2520%2520%2520%2520%25E6%2596%25B0%25E6%25BD%25AE%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -255,23 +248,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div><a href=\"../p/ktaro.html\">桂</a>は、ひそかに韓国併合の気運をたかめることにつとめ、時期尚早を口にする<a href=\"../p/kjutaro.html\">小村</a>をはじめ閣僚、元老を説得し、\n一進会との連絡も一層強めた。</div>\n<div>翌明治四十三年春、<a href=\"../p/ktaro.html\">桂</a>は、併合の機運が熟したと判断し、本格的な準備に入った。</div>\n<div><a href=\"../p/kjutaro.html\">小村</a>は、それをうけて危惧されている列国の承認を得る工作にとりかかった。\nまず、その年の四月、第二回日露協商の折衝をおこなっていた駐露大使本野一郎に命じ、\n日本の韓国併合についてのロシアの意見をたださせたが、ロシア政府は異存なし、と答えた。</div>\n<div>その意見交換がイギリス政府にもつたえられ、ロシアと同じように諒承する旨の回答を得た。\nまた、アメリカもそれを当然のこととして認めたので、列国に対する打診は終り、<a href=\"../p/ktaro.html\">桂</a>は、実行に移った。</div>\n<div>まず、統監の<a href=\"../p/sarasuke.html\">曾禰</a>を辞任させ、陸相<a href=\"../p/tmasatak.html\">寺内正毅</a>を第三代統監に就任させた。\nそして、併合に必要な調査を徹底的におこない、正式に閣議に上程して併合を決定した。\n国の名称については、韓国という名称を廃することになり、逓相<a href=\"../p/gsinpei.html\">後藤新平</a>が韓国人の歴史的心理を考えて高麗とする案を出したが、\n<a href=\"../p/ktaro.html\">桂</a>と<a href=\"../p/tmasatak.html\">寺内</a>が朝鮮を強く主張し、これに決定した。</div>\n<div><a href=\"../p/tmasatak.html\">寺内</a>は、七月二十三日、統監として着任、韓国内の情勢を慎重に観察した。\nそして、八月十三日、<a href=\"../p/kjutaro.html\">小村</a>に対して決行する旨を打電し、李完用首相を統監部に招いて、併合をつたえた。</div>\n<div><a href=\"../p/tmasatak.html\">寺内</a>の説明をきいた李は、すでにそれを予測し受諾する以外にないとあきらめていたので、内諾した。\nが、ただ国号は韓国のままとし、皇帝の尊称ものこして欲しいと要望したが、<a href=\"../p/tmasatak.html\">寺内</a>はそれを拒否し、\n<a href=\"../p/ritaio.html\">皇帝</a>を李王殿下にするよう本国に要請してみる、と答えた。</div>\n<div>韓国政府は、緊急閣議をひらいた。\nが、学部大臣李容植が頑強に反対しただけで、御前会議で日本の要求を受諾することに決定した。</div>\n<div>交渉は急速にすすめられて条約の調印も終り、八月二十九日、日韓両国は併合条約を公布し、韓国は日本に併合させ、\n朝鮮と名称を変えた。\nこれについて、ロシアをはじめイギリス、ドイツ、アメリカ、フランス、イタリアの諸国も承認する声明を発した。\n各国は、それぞれ他国を殖民地として併合していて、日本の韓国併合を不当として責めることができなかったのである。</div>\n<div>この併合は、韓国内に衝撃をあたえ、各地に騒乱が起った。\n日本政府は、憲兵、警察力を駆使して鎮圧につとめたが、抵抗運動は根強く反復した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ya_portm.html\">吉村昭 「ポーツマスの旗」</a>\n　Ｐ．３５１</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "tx"
-   },
-   "html": "\n<div>桂内閣は　【中略】　<a href=\"../p/ksyusui.html\">幸徳</a>ら検挙の二ヶ月後、四十三年（一九一〇）八月二十二日には韓国併合の条約に調印してしまった。\nその第一条は「韓国皇帝陛下は韓国全部に関する一切の統治権を安全且永久に日本国皇帝陛下に譲与する」となっている。</div>\n<div>この条約は三代目韓国統監（二代目は<a href=\"../p/sarasuke.html\">曾禰荒助</a>）<a href=\"../p/tmasatak.html\">寺内正毅</a>（初代朝鮮総督）と韓国の李完用総理の間に調印され、\n韓国皇帝<a href=\"../p/ritaio.html\">李王</a>は、日本の皇族となり殿下の尊称をもって呼ばれることとなった。</div>\n<div>保護国とされた頃から反日感情が高まっていた朝鮮では、この決定で各地に暴動が起きた。\nこの時弾圧に当ったのは日露戦争当時ヨーロッパでスパイを働き過激派を煽動した<a href=\"../p/amotojir.html\">明石元二郎少将</a>で、\n彼は朝鮮駐屯軍参謀長の職から駐韓憲兵隊司令官に格下げをうけ、この難局に腕を揮った。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．４０６</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>桂内閣は　【中略】　<a href=\"../p/ksyusui.html\">幸徳</a>ら検挙の二ヶ月後、四十三年（一九一〇）八月二十二日には韓国併合の条約に調印してしまった。\nその第一条は「韓国皇帝陛下は韓国全部に関する一切の統治権を安全且永久に日本国皇帝陛下に譲与する」となっている。</div>\n<div>この条約は三代目韓国統監（二代目は<a href=\"../p/sarasuke.html\">曾禰荒助</a>）<a href=\"../p/tmasatak.html\">寺内正毅</a>（初代朝鮮総督）と韓国の李完用総理の間に調印され、\n韓国皇帝<a href=\"../p/ritaio.html\">李王</a>は、日本の皇族となり殿下の尊称をもって呼ばれることとなった。</div>\n<div>保護国とされた頃から反日感情が高まっていた朝鮮では、この決定で各地に暴動が起きた。\nこの時弾圧に当ったのは日露戦争当時ヨーロッパでスパイを働き過激派を煽動した<a href=\"../p/amotojir.html\">明石元二郎少将</a>で、\n彼は朝鮮駐屯軍参謀長の職から駐韓憲兵隊司令官に格下げをうけ、この難局に腕を揮った。</div>\n<div class=\"txr\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．４０６<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E5%259C%2592%25E5%25AF%25BA%25E5%2585%25AC%25E6%259C%259B%25E2%2580%2595%25E6%259C%2580%25E5%25BE%258C%25E3%2581%25AE%25E5%2585%2583%25E8%2580%2581%2520%2528%25E4%25B8%258A%25E5%25B7%25BB%2529%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -279,7 +256,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

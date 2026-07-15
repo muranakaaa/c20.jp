@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "them.css"
+  "them.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ <span class=\"now\">他</span>"
   },
   {
    "type": "title",
@@ -28,7 +37,7 @@
   },
   {
    "type": "navi2",
-   "html": "\n<a href=\"jr_war01.html\">前頁</a> &lt;&lt;&lt; <a href=\"jr_war.html\">テーマ</a> &gt;&gt;&gt; <a href\"jr_war03.html\"=\"\">次頁</a>"
+   "html": "\n<a href=\"jr_war01.html\">前頁</a> &lt;&lt;&lt; <a href=\"jr_war.html\">テーマ</a> &gt;&gt;&gt; <a href=\"jr_war03.html\">次頁</a>"
   },
   {
    "type": "raw",
@@ -126,7 +135,7 @@
    "attrs": {
     "class": "t_tx"
    },
-   "html": "\n<a href=\"../p/theihaci.html\">東郷</a>を人選したのは、<a href=\"../p/stugumic.html\">西郷従道</a>亡き後、海軍の第一人者となった<a href=\"../p/ygonnohy.html\">山本権兵衛海相</a>である。\n明治天皇から選定理由を問われた<a href=\"../p/ygonnohy.html\">山本</a>は「強運の持ち主だから」と答えている。\nすでに人事は尽くしたという意味なのか、それとも<a href=\"../p/theihaci.html\">東郷</a>の強運にでもすがるほかないということなのか、\nその真意はさだかではない。<br>\n参謀長に<a href=\"../p/shayao.html\">島村速雄</a>、作戦参謀に<a href=\"../p/asaneyuk.html\">秋山真之</a>が選ばれている。\n<a href=\"../p/asaneyuk.html\">秋山</a>は日清戦争以後、ロシア海軍に勝利することだけを念頭に、米西戦争を間近に観戦するなど研究を重ねてきた異色の人物だった。\n<a href=\"../p/theihaci.html\">強運の主将</a>と<a href=\"../p/asaneyuk.html\">作戦の奇才</a>の間に、私心のない人格者である<a href=\"../p/shayao.html\">島村</a>を配し、海軍の人事は完了した。<br>\n急遽購入した巡洋艦「春日」「日進」は回航中であり、この到着によって連合艦隊は完成する。<br>\n"
+   "html": "\n<a href=\"../p/theihaci.html\">東郷</a>を人選したのは、<a href=\"../p/stugumic.html\">西郷従道</a>亡き後、海軍の第一人者となった<a href=\"../p/ygonnohy.html\">山本権兵衛海相</a>である。\n<a href=\"../p/mtenno.html\">明治天皇</a>から選定理由を問われた<a href=\"../p/ygonnohy.html\">山本</a>は「強運の持ち主だから」と答えている。\nすでに人事は尽くしたという意味なのか、それとも<a href=\"../p/theihaci.html\">東郷</a>の強運にでもすがるほかないということなのか、\nその真意はさだかではない。<br>\n参謀長に<a href=\"../p/shayao.html\">島村速雄</a>、作戦参謀に<a href=\"../p/asaneyuk.html\">秋山真之</a>が選ばれている。\n<a href=\"../p/asaneyuk.html\">秋山</a>は日清戦争以後、ロシア海軍に勝利することだけを念頭に、米西戦争を間近に観戦するなど研究を重ねてきた異色の人物だった。\n<a href=\"../p/theihaci.html\">強運の主将</a>と<a href=\"../p/asaneyuk.html\">作戦の奇才</a>の間に、私心のない人格者である<a href=\"../p/shayao.html\">島村</a>を配し、海軍の人事は完了した。<br>\n急遽購入した巡洋艦「春日」「日進」は回航中であり、この到着によって連合艦隊は完成する。<br>\n"
   },
   {
    "type": "raw",
@@ -183,7 +192,7 @@
    "attrs": {
     "class": "move"
    },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href\"jr_war03.html#s1\"=\"\">▽</a><a href=\"#s4\">＝</a>"
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"jr_war03.html#s1\">▽</a><a href=\"#s4\">＝</a>"
   },
   {
    "type": "raw",
@@ -225,26 +234,6 @@
        "html": "1904/02/04　　<a href=\"../1904/02goz04.html\">\n御前会議、対露開戦を決定</a>"
       }
      ]
-    },
-    {
-     "cls": "n",
-     "cells": [
-      {
-       "id": "l",
-       "cls": null,
-       "html": "1904/02/06　　<a href=\"../1904/02saseb.html\">\n連合艦隊、佐世保出航</a>"
-      }
-     ]
-    },
-    {
-     "cls": "n",
-     "cells": [
-      {
-       "id": "l",
-       "cls": null,
-       "html": "1904/02/06　　<a href=\"../1904/02danko.html\">\n栗野駐露公使、ロシアに国交断絶を通告</a>"
-      }
-     ]
     }
    ]
   },
@@ -262,11 +251,17 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",
-   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"jr_war.html\">【日露戦争史】</a>\n ＞ <a href=\"#h\">【テーマ・日露戦争史 02】</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"jr_war.html\">【テーマ・日露戦争史】</a>\n ＞ <a href=\"#h\">【テーマ・日露戦争史 02】</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
   }
  ]
 }

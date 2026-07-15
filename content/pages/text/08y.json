@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "t_list.css"
+  "t_list.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\"><span class=\"now\">書籍</span></a> ／ 他"
   },
   {
    "type": "title",
@@ -56,6 +65,36 @@
        "id": "ll",
        "cls": null,
        "html": "<span class=\"t0\">や</span><span class=\"t1\">\n<a href=\"yk_marik.html\">柳田邦男　「マリコ」</a></span><span class=\"t2\">新潮社</span>"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"t0\">や</span><span class=\"t1\">\n<a href=\"yk_reisi.html\">柳田邦男　「零式戦闘機」</a></span><span class=\"t2\">文藝春秋</span>"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"t0\">や</span><span class=\"t1\">\n<a href=\"ys_kakyu.html\">山本七平　「一下級将校の見た帝国陸軍」</a></span><span class=\"t2\">文藝春秋／朝日新聞社</span>"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"t0\">や</span><span class=\"t1\">\n<a href=\"st_yamas.html\">「山本宣治」　／佐々木敏二</a></span><span class=\"t2\">汐文社</span>"
       }
      ]
     }
@@ -136,12 +175,26 @@
    ]
   },
   {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "list_f"
+   },
+   "html": "<tbody><tr>\n<td class=\"list\"><a href=\"01a.html\">ア</a></td>\n<td class=\"list\"><a href=\"02k.html\">カ</a></td>\n<td class=\"list\"><a href=\"03s.html\">サ</a></td>\n<td class=\"list\"><a href=\"04t.html\">タ</a></td>\n<td class=\"list\"><a href=\"05n.html\">ナ</a></td>\n<td class=\"list\"><a href=\"06h.html\">ハ</a></td>\n<td class=\"list\"><a href=\"07m.html\">マ</a></td>\n<td class=\"list2\"><a href=\"#s1\">や</a></td>\n<td class=\"list2\">・</td>\n<td class=\"list2\"><a href=\"#s2\">ゆ</a></td>\n<td class=\"list2\">・</td>\n<td class=\"list2\"><a href=\"#s3\">よ</a></td>\n<td class=\"list\"><a href=\"09r.html\">ラ</a></td>\n<td class=\"list\"><a href=\"10w.html\">ワ</a></td>\n</tr></tbody>"
+  },
+  {
    "type": "cyu",
    "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

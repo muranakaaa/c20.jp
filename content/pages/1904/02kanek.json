@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1904.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1904.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -103,7 +112,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1905/06/01　　<a href\"..=\"\" 19.html\"=\"\">\n高平駐米公使、Ｔ・ルーズベルト（米）大統領に講和斡旋を要望</a>"
+       "html": "1905/06/01　　<a href=\"../1905/06assen.html\">\n高平駐米公使、Ｔ・ルーズベルト（米）大統領に講和斡旋を要望</a>"
       }
      ]
     },
@@ -183,25 +192,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -215,17 +208,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>その日午後六時半、<a href=\"../p/kkentaro.html\">金子</a>は、電話で霊南坂の<a href=\"../p/ihirobum.html\">伊藤</a>の官邸に呼ばれた。</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>は、<a href=\"../p/kkentaro.html\">金子</a>を一室に招き入れて御前会議の内容を告げ、<a href=\"../p/roosev_t.html\">ルーズベルト</a>への工作とアメリカ世論の操作のため渡米するよう求めた。</div>\n<div><a href=\"../p/kkentaro.html\">金子</a>は、自分には負いかねる重大な使命であり、第一、アメリカ国民を親日的なものにさせることは不可能であるという理由から辞退した。\n歴史的にみても、アメリカは南北戦争で現在の合衆国を建設した折にロシアの援助を受け、\n現在でも恩義を感じているし、またアメリカの富豪の大半はロシアの貴族階級と姻戚関係にあり、\n貿易をはじめ財政、政治、経済の上でロシアとの関係は深く、軍需品もロシアに大量に輸出し、両国間に楔を入れることなどできないという。\nまして、<a href=\"../p/roosev_t.html\">ルーズベルト</a>に日本に有利な和平斡旋をうながすなどということは論外だ、と答えた。</div>\n<div>しかし、<a href=\"../p/ihirobum.html\">伊藤</a>も屈せず、</div>\n<div>「もし君が行かない場合には、アメリカはロシアの完全な味方になり日本の生きる道はなくなるだろう。\n是非、渡米して欲しい」</div>\n<div>と、強い語調で言った。</div>\n<div><a href=\"../p/kkentaro.html\">金子</a>は、</div>\n<div>「半ばぐらい成功する予測が立てられれば行きますが、全く見込みがありません。\nもしそれを可能とする人物がいるとしたら、それは<a href=\"../p/ihirobum.html\">伊藤公爵</a>以外にないでしょう」</div>\n<div>と、答えた。</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>は、</div>\n<div>自分は<a href=\"../p/mtenno.html\">天皇</a>のおそばにいてお仕えしなければならぬ身である。\nまた、<a href=\"../p/ktaro.html\">桂</a>、<a href=\"../p/kjutaro.html\">小村</a>も国事からはなれるわけにはいかぬ。是非行ってもらいたい」</div>\n<div>と、くりかえした。</div>\n<div><a href=\"../p/kkentaro.html\">金子</a>は頭をふりつづけ、結論が出ぬままに官邸を辞した。</div>\n<div>翌朝、<a href=\"../p/ihirobum.html\">伊藤</a>から再び電話があり、<a href=\"../p/kkentaro.html\">金子</a>は邸におもむいた。</div>\n<div>「決心はついたか」</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>は、言った。</div>\n<div>「御辞退いたします。熟考しましたが、自信はありません」</div>\n<div><a href=\"../p/kkentaro.html\">金子</a>は、即座に答えた。</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>は、熱をおびた口調で説得をはじめた。</div>\n<div>「戦争を決意はしたが、勝つ見込みは全くないのだ。\nしかし、私は、一身を捧げる覚悟で、もしもロシア軍が大挙九州に上陸してきたならば、兵にまじって銃をとり戦うつもりだ。\n兵は死に絶え艦はすべて沈むかも知れぬが、私は生命のあるかぎり最後まで戦う。\nこの度の戦さは、勝利を期待することは無理だが、国家のため全員が生命を賭して最後まで戦う決意があれば、\n国を救う道が開けるかも知れない。\n君は成功する見込みがないといって辞退しているが、成功しようなどとは考えず、\n身を賭すという決意があれば十分なのだ。\nぜひ、渡米して欲しい。私と共に生命を国家に捧げてもらいたい」</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>の眼は、光っていた。</div>\n<div><a href=\"../p/kkentaro.html\">金子</a>は沈黙し、やがて、</div>\n<div>「渡米します」</div>\n<div>と、答えた。</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>は安堵の色を顔にうかべ、すぐに傍の卓上電話で<a href=\"../p/ktaro.html\">桂</a>に<a href=\"../p/kkentaro.html\">金子</a>が承諾したことをつたえた。</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>の邸を辞した<a href=\"../p/kkentaro.html\">金子</a>は、使命を達成する上での参考として陸海軍の戦争に対する見通しをきくため、\nまず参謀本部に参謀次長<a href=\"../p/kgentaro.html\">児玉源太郎大将</a>を訪れた。<a href=\"../p/kgentaro.html\">児玉</a>は<a href=\"../p/kkentaro.html\">金子</a>の質問に、</div>\n<div>「対等の兵力では勝利を得る見込みがないので、ロシア軍の三倍の兵力をもって当るつもりです。\nそれでも勝敗は五分五分と見ているが、せめて六分四分にしようとして、参謀本部で三十日も泊まりこんで作戦を練っています」</div>\n<div>と、答えた。</div>\n<div>海軍については、<a href=\"../p/ygonnohy.html\">山本海相</a>を海軍省に訪れたが、<a href=\"../p/ygonnohy.html\">山本</a>は、</div>\n<div>「日本軍艦の半分は撃沈させられると思う。\n勝利を得たいと思ってはいるが、これ以上話すことはない」</div>\n<div>と、暗い表情で答えた。</div>\n<div>その日、<a href=\"../p/kkentaro.html\">金子</a>は帰宅してあわただしく渡米の準備をし、夜遅く就寝した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ya_portm.html\">吉村昭 「ポーツマスの旗」</a>\n　Ｐ．７５</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>その日午後六時半、<a href=\"../p/kkentaro.html\">金子</a>は、電話で霊南坂の<a href=\"../p/ihirobum.html\">伊藤</a>の官邸に呼ばれた。</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>は、<a href=\"../p/kkentaro.html\">金子</a>を一室に招き入れて御前会議の内容を告げ、<a href=\"../p/roosev_t.html\">ルーズベルト</a>への工作とアメリカ世論の操作のため渡米するよう求めた。</div>\n<div><a href=\"../p/kkentaro.html\">金子</a>は、自分には負いかねる重大な使命であり、第一、アメリカ国民を親日的なものにさせることは不可能であるという理由から辞退した。\n歴史的にみても、アメリカは南北戦争で現在の合衆国を建設した折にロシアの援助を受け、\n現在でも恩義を感じているし、またアメリカの富豪の大半はロシアの貴族階級と姻戚関係にあり、\n貿易をはじめ財政、政治、経済の上でロシアとの関係は深く、軍需品もロシアに大量に輸出し、両国間に楔を入れることなどできないという。\nまして、<a href=\"../p/roosev_t.html\">ルーズベルト</a>に日本に有利な和平斡旋をうながすなどということは論外だ、と答えた。</div>\n<div>しかし、<a href=\"../p/ihirobum.html\">伊藤</a>も屈せず、</div>\n<div>「もし君が行かない場合には、アメリカはロシアの完全な味方になり日本の生きる道はなくなるだろう。\n是非、渡米して欲しい」</div>\n<div>と、強い語調で言った。</div>\n<div><a href=\"../p/kkentaro.html\">金子</a>は、</div>\n<div>「半ばぐらい成功する予測が立てられれば行きますが、全く見込みがありません。\nもしそれを可能とする人物がいるとしたら、それは<a href=\"../p/ihirobum.html\">伊藤公爵</a>以外にないでしょう」</div>\n<div>と、答えた。</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>は、</div>\n<div>自分は<a href=\"../p/mtenno.html\">天皇</a>のおそばにいてお仕えしなければならぬ身である。\nまた、<a href=\"../p/ktaro.html\">桂</a>、<a href=\"../p/kjutaro.html\">小村</a>も国事からはなれるわけにはいかぬ。是非行ってもらいたい」</div>\n<div>と、くりかえした。</div>\n<div><a href=\"../p/kkentaro.html\">金子</a>は頭をふりつづけ、結論が出ぬままに官邸を辞した。</div>\n<div>翌朝、<a href=\"../p/ihirobum.html\">伊藤</a>から再び電話があり、<a href=\"../p/kkentaro.html\">金子</a>は邸におもむいた。</div>\n<div>「決心はついたか」</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>は、言った。</div>\n<div>「御辞退いたします。熟考しましたが、自信はありません」</div>\n<div><a href=\"../p/kkentaro.html\">金子</a>は、即座に答えた。</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>は、熱をおびた口調で説得をはじめた。</div>\n<div>「戦争を決意はしたが、勝つ見込みは全くないのだ。\nしかし、私は、一身を捧げる覚悟で、もしもロシア軍が大挙九州に上陸してきたならば、兵にまじって銃をとり戦うつもりだ。\n兵は死に絶え艦はすべて沈むかも知れぬが、私は生命のあるかぎり最後まで戦う。\nこの度の戦さは、勝利を期待することは無理だが、国家のため全員が生命を賭して最後まで戦う決意があれば、\n国を救う道が開けるかも知れない。\n君は成功する見込みがないといって辞退しているが、成功しようなどとは考えず、\n身を賭すという決意があれば十分なのだ。\nぜひ、渡米して欲しい。私と共に生命を国家に捧げてもらいたい」</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>の眼は、光っていた。</div>\n<div><a href=\"../p/kkentaro.html\">金子</a>は沈黙し、やがて、</div>\n<div>「渡米します」</div>\n<div>と、答えた。</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>は安堵の色を顔にうかべ、すぐに傍の卓上電話で<a href=\"../p/ktaro.html\">桂</a>に<a href=\"../p/kkentaro.html\">金子</a>が承諾したことをつたえた。</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>の邸を辞した<a href=\"../p/kkentaro.html\">金子</a>は、使命を達成する上での参考として陸海軍の戦争に対する見通しをきくため、\nまず参謀本部に参謀次長<a href=\"../p/kgentaro.html\">児玉源太郎大将</a>を訪れた。<a href=\"../p/kgentaro.html\">児玉</a>は<a href=\"../p/kkentaro.html\">金子</a>の質問に、</div>\n<div>「対等の兵力では勝利を得る見込みがないので、ロシア軍の三倍の兵力をもって当るつもりです。\nそれでも勝敗は五分五分と見ているが、せめて六分四分にしようとして、参謀本部で三十日も泊まりこんで作戦を練っています」</div>\n<div>と、答えた。</div>\n<div>海軍については、<a href=\"../p/ygonnohy.html\">山本海相</a>を海軍省に訪れたが、<a href=\"../p/ygonnohy.html\">山本</a>は、</div>\n<div>「日本軍艦の半分は撃沈させられると思う。\n勝利を得たいと思ってはいるが、これ以上話すことはない」</div>\n<div>と、暗い表情で答えた。</div>\n<div>その日、<a href=\"../p/kkentaro.html\">金子</a>は帰宅してあわただしく渡米の準備をし、夜遅く就寝した。</div>\n<div class=\"txr\"><a href=\"../text/ya_portm.html\">吉村昭 「ポーツマスの旗」</a>\n　Ｐ．７５<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2584%25E3%2583%259E%25E3%2582%25B9%25E3%2581%25AE%25E6%2597%2597%2520%2520%2520%2520%25E6%2596%25B0%25E6%25BD%25AE%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -233,7 +218,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1919.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1919.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -83,7 +92,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1917/04/06　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ、対独参戦</a>"
+       "html": "1917/04/06　　<a href=\"../1917/04a_san.html\">\nアメリカ、対独参戦</a>"
       }
      ]
     },
@@ -103,7 +112,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1918/03/03　　<a href\"..=\"\" 19.html\"=\"\">\nブレストリトフスク条約調印　（ソビエト政府、独墺と講和）</a>"
+       "html": "1918/03/03　　<a href=\"../1918/03brest.html\">\nブレスト・リトフスク条約調印</a>　（ソビエト政府、独墺と講和）"
       }
      ]
     },
@@ -233,25 +242,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -265,9 +258,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>のちの米大統領<a href=\"../p/hoover_h.html\">Ｈ・フーバー</a>は、米代表団の一人として<a href=\"../1919/01paris.html\">ヴェルサイユ会議</a>に参加したが、条約の不徹底さに注目している。</div>\n<div>「もし真に平和を望むのであれば、ドイツをいかなる自力回生も不可能なほどの貧困と無力状態におとしいれるか、\n自由な政府を持たせて人類家族の平和なメンバーにするか、そのどちらかにすべきであった」</div>\n<div>フランスの作家Ｊ・バンヴィルも同様の感想を述べて、</div>\n<div>「この条約は苛酷な点があるにしてはあまりに手ぬるく、\n手ぬるい点があるにしては苛酷にすぎる」</div>\n<div class=\"txr\"><a href=\"../text/kn1hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（１）」</a>\n　Ｐ．２３<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4093610010%2Fqid%3D1147087396%2Fsr%3D1-13%2Fref%3Dsr_1_2_13\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -275,23 +268,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>のちの米大統領<a href=\"../p/hoover_h.html\">Ｈ・フーバー</a>は、米代表団の一人として<a href=\"../1919/01paris.html\">ヴェルサイユ会議</a>に参加したが、条約の不徹底さに注目している。</div>\n<div>「もし真に平和を望むのであれば、ドイツをいかなる自力回生も不可能なほどの貧困と無力状態におとしいれるか、\n自由な政府を持たせて人類家族の平和なメンバーにするか、そのどちらかにすべきであった」</div>\n<div>フランスの作家Ｊ・バンヴィルも同様の感想を述べて、</div>\n<div>「この条約は苛酷な点があるにしてはあまりに手ぬるく、\n手ぬるい点があるにしては苛酷にすぎる」</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kn1hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（１）」</a>\n　Ｐ．２３</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "tx"
-   },
-   "html": "\n<div>五ヵ月間かかってまとまった対ドイツ講和条約は、全体で四四〇条におよぶ膨大なものとなった。\n第一編は国際連盟の創設を決めたものだが、第二編以下はドイツをきびしく制約するものだった。\nドイツは領土の一部を周辺諸国へ割譲し、海外領土を放棄し、巨額の賠償金を支払うことを求められた。\nしかも、五日以内に受諾しなければ、戦争を再開するという強圧的なものだった。</div>\n<div>六月二十八日、この条約はヴェルサイユ宮殿の「鏡の間」で調印された。\nその日は、かつて<a href=\"../1914/06saraj.html\">オーストリア皇太子が暗殺された</a>日であり、その場所は、かつてフランスがドイツ（プロイセン）に敗れ、\nアルザス=ロレーヌ地方を割譲させられた条約を結んだ場所だった。\nこうして、条約は<a href=\"../1918/01wil14.html\">「十四ヵ条」</a>とはかなり異なるものになった。\nとくに賠償金については、フランスの強硬な主張とイギリスのやや消極的な主張、アメリカの反対が折り合わず、この段階では、\n暫定的に戦前の金平価で二〇〇億マルクとなった。\n二年後のロンドン会議で、それは七倍ちかい<a href=\"../1921/05baisy.html\">一三二〇億金マルクになった</a>。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ks_nse26.html\">木村靖二・柴宜弘・長沼秀世 「世界の歴史（26）」</a>\n　Ｐ．１４４</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>五ヵ月間かかってまとまった対ドイツ講和条約は、全体で四四〇条におよぶ膨大なものとなった。\n第一編は国際連盟の創設を決めたものだが、第二編以下はドイツをきびしく制約するものだった。\nドイツは領土の一部を周辺諸国へ割譲し、海外領土を放棄し、巨額の賠償金を支払うことを求められた。\nしかも、五日以内に受諾しなければ、戦争を再開するという強圧的なものだった。</div>\n<div>六月二十八日、この条約はヴェルサイユ宮殿の「鏡の間」で調印された。\nその日は、かつて<a href=\"../1914/06saraj.html\">オーストリア皇太子が暗殺された</a>日であり、その場所は、かつてフランスがドイツ（プロイセン）に敗れ、\nアルザス=ロレーヌ地方を割譲させられた条約を結んだ場所だった。\nこうして、条約は<a href=\"../1918/01wil14.html\">「十四ヵ条」</a>とはかなり異なるものになった。\nとくに賠償金については、フランスの強硬な主張とイギリスのやや消極的な主張、アメリカの反対が折り合わず、この段階では、\n暫定的に戦前の金平価で二〇〇億マルクとなった。\n二年後のロンドン会議で、それは七倍ちかい<a href=\"../1921/05baisy.html\">一三二〇億金マルクになった</a>。</div>\n<div class=\"txr\"><a href=\"../text/ks_nse26.html\">木村靖二・柴宜弘・長沼秀世 「世界の歴史（26）」</a>\n　Ｐ．１４４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E4%25B8%2596%25E7%2595%258C%25E5%25A4%25A7%25E6%2588%25A6%25E3%2581%25A8%25E7%258F%25BE%25E4%25BB%25A3%25E6%2596%2587%25E5%258C%2596%25E3%2581%25AE%25E9%2596%258B%25E5%25B9%2595%2520%2520%2520%2520%25E4%25B8%2596%25E7%2595%258C%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -299,7 +276,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

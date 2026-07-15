@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1938.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1938.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -223,25 +232,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -255,9 +248,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>ミュンヘンでの西欧側の降伏がその国民一般に人気があったということは、注目に値する。\n会談に臨んだ<a href=\"../p/chambe_n.html\">チェンバレン</a>と<a href=\"../p/daladi_e.html\">ダラディエ</a>とは、熱狂的群集によって平和の調印者だと称賛された。\nそして<a href=\"../p/hitler_a.html\">ヒットラー</a>が、「これはわたしが欧洲でなさねばならぬ最後の領土的要求である」と声明したとき、\nイギリスやフランスの国民一般は感謝の念をもって、彼の言葉を信用した。</div>\n<div class=\"txr\"><a href=\"../text/ia_gaise.html\">今津晃 「概説現代史」</a>\n　Ｐ．１９７<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%25A6%2582%25E8%25AA%25AC%25E7%258F%25BE%25E4%25BB%25A3%25E5%258F%25B2%2520%2520%2520%2520%25E5%2589%25B5%25E5%2585%2583%25E9%2581%25B8%25E6%259B%25B8\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -265,23 +258,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>ミュンヘンでの西欧側の降伏がその国民一般に人気があったということは、注目に値する。\n会談に臨んだ<a href=\"../p/chambe_n.html\">チェンバレン</a>と<a href=\"../p/daladi_e.html\">ダラディエ</a>とは、熱狂的群集によって平和の調印者だと称賛された。\nそして<a href=\"../p/hitler_a.html\">ヒットラー</a>が、「これはわたしが欧洲でなさねばならぬ最後の領土的要求である」と声明したとき、\nイギリスやフランスの国民一般は感謝の念をもって、彼の言葉を信用した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ia_gaise.html\">今津晃 「概説現代史」</a>\n　Ｐ．１９７</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "tx"
-   },
-   "html": "\n<div>チェコ政府は、午後零時五十分、「われわれは見捨てられた」と言明して「ミュンヘン協定」受諾を発表し、\n英仏伊三国首脳はいずれも凱旋将軍なみの歓迎をうけて自国に帰った。</div>\n<div>英首相<a href=\"../p/chambe_n.html\">チェンバレン</a>は、ロンドン空港に到着すると、共同声明文をふりかざして出迎えの外相ハリファクス卿に叫んだ。</div>\n<div>「やったぞ・・・・・・私はやったぞ」</div>\n<div>首相としては、「ミュンヘン協定」そのものよりも、\nチェコを犠牲にして獲得した<a href=\"../p/hitler_a.html\">ヒトラー</a>の「平和公約」のほうを成果とみなしていたのである。</div>\n<div>そして、その気持ちは世界の国民多数に共通していた。</div>\n<div>世界大戦が回避された、との喜びは大きく、帰国する伊首相<a href=\"../p/mussol_b.html\">ムソリーニ</a>の列車は、\nどの駅でも跪いて謝意を表明する市民の群で迎えられた。</div>\n<div>日本では、首相<a href=\"../p/kfumimar.html\">近衛文麿</a>がヒトラーあてに祝電を送った。</div>\n<div>「今般閣下のおさめられたる光輝ある外交的成果に対し、\n茲に余の満腔の祝意を呈すると共に閣下並にドイツ国民に対する敬意を表す」</div>\n<div>さらに陸相<a href=\"../p/iseisiro.html\">板垣征四郎</a>、海相<a href=\"../p/ymitumas.html\">米内光政</a>もそれぞれ「帝国陸軍」および「帝国海軍」の名で、祝辞を伝えている。</div>\n<div>だが、なんといっても祝意と謝意は英首相<a href=\"../p/chambe_n.html\">チェンバレン</a>に集中した。</div>\n<div>元ドイツ皇太子ウィルヘルムが、平和確保を感謝する秘密書簡を首相に送れば、\nオランダに亡命中の元皇帝<a href=\"../p/wilhelm2.html\">ウィルヘルム二世</a>も英皇后メリーに、\n「天の声にはげまされ神の導き」で災禍を回避してくれた、と首相を讃える手紙を伝達した。</div>\n<div>英首相にノーベル平和賞を、という声が高まり、英国内では感謝醵金運動が起り（註、首相は辞退した）、\nパリでは街のひとつを「チェンバレン」と命名する動議がおこなわれた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kn2hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（２）」</a>\n　Ｐ．２４７</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>チェコ政府は、午後零時五十分、「われわれは見捨てられた」と言明して「ミュンヘン協定」受諾を発表し、\n英仏伊三国首脳はいずれも凱旋将軍なみの歓迎をうけて自国に帰った。</div>\n<div>英首相<a href=\"../p/chambe_n.html\">チェンバレン</a>は、ロンドン空港に到着すると、共同声明文をふりかざして出迎えの外相ハリファクス卿に叫んだ。</div>\n<div>「やったぞ・・・・・・私はやったぞ」</div>\n<div>首相としては、「ミュンヘン協定」そのものよりも、\nチェコを犠牲にして獲得した<a href=\"../p/hitler_a.html\">ヒトラー</a>の「平和公約」のほうを成果とみなしていたのである。</div>\n<div>そして、その気持ちは世界の国民多数に共通していた。</div>\n<div>世界大戦が回避された、との喜びは大きく、帰国する伊首相<a href=\"../p/mussol_b.html\">ムソリーニ</a>の列車は、\nどの駅でも跪いて謝意を表明する市民の群で迎えられた。</div>\n<div>日本では、首相<a href=\"../p/kfumimar.html\">近衛文麿</a>が<a href=\"../p/hitler_a.html\">ヒトラー</a>あてに祝電を送った。</div>\n<div>「今般閣下のおさめられたる光輝ある外交的成果に対し、\n茲に余の満腔の祝意を呈すると共に閣下並にドイツ国民に対する敬意を表す」</div>\n<div>さらに陸相<a href=\"../p/iseisiro.html\">板垣征四郎</a>、海相<a href=\"../p/ymitumas.html\">米内光政</a>もそれぞれ「帝国陸軍」および「帝国海軍」の名で、祝辞を伝えている。</div>\n<div>だが、なんといっても祝意と謝意は英首相<a href=\"../p/chambe_n.html\">チェンバレン</a>に集中した。</div>\n<div>元ドイツ皇太子ウィルヘルムが、平和確保を感謝する秘密書簡を首相に送れば、\nオランダに亡命中の元皇帝<a href=\"../p/wilhelm2.html\">ウィルヘルム二世</a>も英皇后メリーに、\n「天の声にはげまされ神の導き」で災禍を回避してくれた、と首相を讃える手紙を伝達した。</div>\n<div>英首相にノーベル平和賞を、という声が高まり、英国内では感謝醵金運動が起り（註、首相は辞退した）、\nパリでは街のひとつを「チェンバレン」と命名する動議がおこなわれた。</div>\n<div class=\"txr\"><a href=\"../text/kn2hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（２）」</a>\n　Ｐ．２４７<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F416714137X%2Fqid%3D1147087396%2Fsr%3D1-16%2Fref%3Dsr_1_2_16\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -289,7 +266,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1905.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1905.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -173,25 +182,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "pt"
    },
    "html": "\n<div class=\"pt_h\">～　協約の内容　（韓国保護国化）　～</div>\n<div class=\"c\">韓国は外交を日本に任せ、日本から来た統監の指導を受けること！</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -205,17 +198,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div><a href=\"../p/ihirobum.html\">伊藤</a>は大臣を集め、参政大臣（首相）韓圭咼（<a href=\"#cyu\">※</a>）の保護協約反対の訴えを聞いたあと、\n一人一人の閣僚から意見を求めた。\nまず外部大臣朴斉純がだんぜん不同意だが皇帝の命令とあればいたしかたないと述べると、\n<a href=\"../p/ihirobum.html\">伊藤</a>はそれでは命令なら調印するのだから不同意ではないと分類してしまった。\nこのほか度支部大臣（蔵相）閔泳綺が絶対反対を述べたが、学部大臣李完用は、逆に日韓両国は実力が違うのだから、\n「未ダ感情ノ衝突セザル、未ダ時機ノ切迫セザル今日ニ於テ円満ニ妥協ヲ遂ゲ」ることが望ましいと積極的に賛成の態度を明らかにした。\n残る四大臣も李完用に同調した。</div>\n<div>これを聞いた<a href=\"../p/ihirobum.html\">伊藤</a>は、これでは閣議は多数決で協約に賛成ではないか、それなのに調印の手続きをとらないのは日本と絶交するつもりか、\nと韓参政につめよった。\n進退きわまった韓が号泣しながら別室にしりぞくと、<a href=\"../p/ihirobum.html\">伊藤</a>は閣僚の希望をいれて二、三の修正を行ない、\n宮内府大臣に裁可を求めるよう要求した。\n皇帝は韓国が独立を維持する力を蓄えたときにはこの協約を撤回するような規定がほしいと希望、\n<a href=\"../p/ihirobum.html\">伊藤</a>はこれをいれて「韓国ノ富強ノ実ヲ認ムル時ニ至ル迄」との一句を加え、\nその場で浄書し、林公使と朴外部大臣が署名調印した。\n時に夜中の十一時であり、<a href=\"../p/ihirobum.html\">伊藤</a>らが退出したのは午前零時をすぎていた。</div>\n<div>韓国植民地化の決定的な曲り角がすぎた。\n協約は、日本が東京の外務省により、韓国の外国に対する関係および事務を監理・指導すること、\n日本政府の代表として統監一名を置くことなどを規定した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ft_nicir.html\">古屋哲夫 「日露戦争」</a>\n　Ｐ．２１４</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/ihirobum.html\">伊藤</a>は大臣を集め、参政大臣（首相）韓圭咼（<a href=\"#cyu\">※</a>）の保護協約反対の訴えを聞いたあと、\n一人一人の閣僚から意見を求めた。\nまず外部大臣朴斉純がだんぜん不同意だが皇帝の命令とあればいたしかたないと述べると、\n<a href=\"../p/ihirobum.html\">伊藤</a>はそれでは命令なら調印するのだから不同意ではないと分類してしまった。\nこのほか度支部大臣（蔵相）閔泳綺が絶対反対を述べたが、学部大臣李完用は、逆に日韓両国は実力が違うのだから、\n「未ダ感情ノ衝突セザル、未ダ時機ノ切迫セザル今日ニ於テ円満ニ妥協ヲ遂ゲ」ることが望ましいと積極的に賛成の態度を明らかにした。\n残る四大臣も李完用に同調した。</div>\n<div>これを聞いた<a href=\"../p/ihirobum.html\">伊藤</a>は、これでは閣議は多数決で協約に賛成ではないか、それなのに調印の手続きをとらないのは日本と絶交するつもりか、\nと韓参政につめよった。\n進退きわまった韓が号泣しながら別室にしりぞくと、<a href=\"../p/ihirobum.html\">伊藤</a>は閣僚の希望をいれて二、三の修正を行ない、\n宮内府大臣に裁可を求めるよう要求した。\n皇帝は韓国が独立を維持する力を蓄えたときにはこの協約を撤回するような規定がほしいと希望、\n<a href=\"../p/ihirobum.html\">伊藤</a>はこれをいれて「韓国ノ富強ノ実ヲ認ムル時ニ至ル迄」との一句を加え、\nその場で浄書し、林公使と朴外部大臣が署名調印した。\n時に夜中の十一時であり、<a href=\"../p/ihirobum.html\">伊藤</a>らが退出したのは午前零時をすぎていた。</div>\n<div>韓国植民地化の決定的な曲り角がすぎた。\n協約は、日本が東京の外務省により、韓国の外国に対する関係および事務を監理・指導すること、\n日本政府の代表として統監一名を置くことなどを規定した。</div>\n<div class=\"txr\"><a href=\"../text/ft_nicir.html\">古屋哲夫 「日露戦争」</a>\n　Ｐ．２１４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4121001109%2Fqid%3D1146491161%2Fsr%3D1-1%2Fref%3Dsr_1_10_1\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -227,7 +212,13 @@
   },
   {
    "type": "taro",
-   "html": "<a name=\"cyu\"></a><a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a name=\"cyu\"></a><a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

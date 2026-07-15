@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1949.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1949.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -133,25 +142,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -165,17 +158,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>一五日の新聞は、一三日の午後九時三〇分、奥羽線弘前機関区の一運転手が機関区内に二つの人影をみとめたので「だれか？」とたずねたところ、\nいきなりけりたおされ、棒のようなもので頭と腰をめったうちにきれた、というニュースを掲載した。\n急報で助役や警官がかけつけてしらべたところ、「機関車は安全弁をはずされていて、\n数分後に自然発車して一八メートル先の転車台にゆくと転覆するようになっていた」というのだ。</div>\n<div>あたかも三鷹事件をおもわせるようなこのニュースが朝の新聞で配達された日の夜九時二四分、\n中央線の三鷹駅でほんものの三鷹事件が勃発した。\n突然走りだした無人電車は、民家に突入し、市民のなかから六名の死者と七名の重傷者をだした。\n検察当局は、ただちに事件を共産党のしわざときめ、一七日午後五時〇七分、\n去る六月の国電ストで免職処分をうけていた飯田七三と山本久一を逮捕した。\n二人とも共産党員だった。</div>\n<div><a href=\"../p/ysigeru.html\">吉田首相</a>は、二人の逮捕と間髪をいれず、午後五時三〇分に長文の声明を発した。\n彼は、「政府職員の今回の大掛りな整理がもたらした社会不安」は、職を失う人たちの危惧や動揺にもよることだが、\n同時に「主として共産主義者の煽動」からくる「一部労働組合の険悪な気配や無節制な挑戦的態度によって醸発」されていると指摘し、\n外国筋では「日本では極右・極左の両派のあいだに天下分け目の合戦がおこなわれている」などといっているようだが、\nなるほど極左というのが共産主義とその同調者のことなら、これはたしかに日本にもあるが、\n「しかし『極右』というものはもはや実在しない」し、「われわれ保守党人は極右ではない」と強調し、\n「われわれは、極右にも、極左にも、どちらの極端な思想にも反対するという意味で保守主義者である」と主張した。</div>\n<div>検察当局は、なお逮捕をつづけた。\nそして九名の共産党員と一名の非党員（三鷹電車区検査掛竹内景助）を主役にしたてて「空中楼閣」をきずきあげた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ss3sengo.html\">信夫清三郎 「戦後日本政治史Ⅲ」</a>\n　Ｐ．９９０</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>一五日の新聞は、一三日の午後九時三〇分、奥羽線弘前機関区の一運転手が機関区内に二つの人影をみとめたので「だれか？」とたずねたところ、\nいきなりけりたおされ、棒のようなもので頭と腰をめったうちにきれた、というニュースを掲載した。\n急報で助役や警官がかけつけてしらべたところ、「機関車は安全弁をはずされていて、\n数分後に自然発車して一八メートル先の転車台にゆくと転覆するようになっていた」というのだ。</div>\n<div>あたかも三鷹事件をおもわせるようなこのニュースが朝の新聞で配達された日の夜九時二四分、\n中央線の三鷹駅でほんものの三鷹事件が勃発した。\n突然走りだした無人電車は、民家に突入し、市民のなかから六名の死者と七名の重傷者をだした。\n検察当局は、ただちに事件を共産党のしわざときめ、一七日午後五時〇七分、\n去る六月の国電ストで免職処分をうけていた飯田七三と山本久一を逮捕した。\n二人とも共産党員だった。</div>\n<div><a href=\"../p/ysigeru.html\">吉田首相</a>は、二人の逮捕と間髪をいれず、午後五時三〇分に長文の声明を発した。\n彼は、「政府職員の今回の大掛りな整理がもたらした社会不安」は、職を失う人たちの危惧や動揺にもよることだが、\n同時に「主として共産主義者の煽動」からくる「一部労働組合の険悪な気配や無節制な挑戦的態度によって醸発」されていると指摘し、\n外国筋では「日本では極右・極左の両派のあいだに天下分け目の合戦がおこなわれている」などといっているようだが、\nなるほど極左というのが共産主義とその同調者のことなら、これはたしかに日本にもあるが、\n「しかし『極右』というものはもはや実在しない」し、「われわれ保守党人は極右ではない」と強調し、\n「われわれは、極右にも、極左にも、どちらの極端な思想にも反対するという意味で保守主義者である」と主張した。</div>\n<div>検察当局は、なお逮捕をつづけた。\nそして九名の共産党員と一名の非党員（三鷹電車区検査掛竹内景助）を主役にしたてて「空中楼閣」をきずきあげた。</div>\n<div class=\"txr\"><a href=\"../text/ss3sengo.html\">信夫清三郎 「戦後日本政治史Ⅲ」</a>\n　Ｐ．９９０<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4326398183%2Fqid%3D1147087145%2Fsr%3D1-3%2Fref%3Dsr_1_8_3\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -183,7 +168,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

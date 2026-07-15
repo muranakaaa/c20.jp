@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1929.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href=\"hama_1~.html\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1929.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href=\"hama_1~.html\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -193,7 +202,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1931/03/17　　<a href=\"../1931/033gatu.html\">\n三月事件</a>　（桜会によるクーデター未遂）"
+       "html": "1931/03/17　　<a href=\"../1931/033gatu.html\">\n三月事件</a>　（陸軍によるクーデター未遂）"
       }
      ]
     },
@@ -233,25 +242,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -265,17 +258,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>昭和四年、<a href=\"../1927/tanaa_1.html\">田中内閣</a>のあとをうけて成立した<a href=\"../p/hosaci.html\">浜口雄幸</a>の民政党内閣は、\n<a href=\"../1930/01kinka.html\">金の輸出解禁</a>を行うと同時にデフレ政策を実施してきた。\n大蔵大臣<a href=\"../p/ijunnosu.html\">井上準之助</a>は財政の緊縮を唱えて、昭和五年度の予算には一億六千万円の緊縮と、\nすでに計画していた八千五百万円の公債発行の全廃をおこなった。\nしかし、<a href=\"../1930/01kinka.html\">金解禁</a>と緊縮政策が国民の生活に与える影響はたちまちにして現われ、昭和五年の夏には農村の窮乏がはじまり、\n陳情団が東京に押しよせてくる状態となった。\nまた、行政整理によって多数の官吏が失職し、民間の失業者も巷にあふれた。\n不況によって倒産する企業がふえ、失業者は増大し、地方に帰村する失業者の群れは汽車賃がないために徒歩で帰るような\n有様だった。新聞は東海道五十三次が時ならぬ賑わいを呈したと報じた。</div>\n<div>この失業問題は同時に就職難時代を出現させ、\n東京大学卒業生が保険の外交や小学校の代用教員にまでならねばならなかった。\n不況による自殺、心中は毎日のように新聞の社会面に現われ、強盗や殺人もふえた。</div>\n<div>政府は産業合理化の名のもとに独占企業に対して賃金引下げをすすめた。\nたとえば、鐘ヶ淵紡績は昭和五年中に賃金の三〇パーセントを引下げた。</div>\n<div>このような工業恐慌は、農村の恐慌ともからみあってもっと深刻になって行った。\n農産物価格の下落は、アメリカの不況の打撃もあって繭の値段にまず現われた。\nそのため全農民の四割を占める養蚕農家はひどい窮乏に陥った。</div>\n<div>長野県の養蚕農業地帯では各農家が現金収入がないため、五銭、十銭と書いた紙を葬式の香奠にもってゆき、\nあとで収入があったときに支払うという習慣が一般化した。（歴史学研究会編「太平洋戦争史」）</div>\n<div>その年の秋は大豊作が予想されたため、米価が暴落し、いわゆる豊作飢饉が来した。\n前年同期の二十七円台に対し、六年一月には十六円台に下落した。\nその秋には逆に東北、北海道に未曾有の凶作が起って、これらの地方では馬鈴薯と屑米を混ぜて食べ、\nかろうじて命をつなぐ悲惨な状態となった。</div>\n<div>だが、一方、工業面では独占資本による生産制限が行われたため、生産品の値段は比較的高いままにすえおかれ、\nそれと下落した農産物価の差がふえた。\nこの面からも農民の窮乏はさらにひどくなった。\nこうした工業面の規制は独占資本相互間の生産割当、価格協定、販売協定などといった、\nいわゆる共同行為運動となって現れた。\n浜口内閣の産業合理化政策は、これを強力に推し進めたため、日本の全産業を支配した三井、三菱、住友などの\n財閥資本は逆に安泰となり、同時に中小財閥との対立がひどくなって行った。\nこのような事情は後年右翼テロによって財閥の代表者を仆す原因となった。</div>\n<div class=\"txr\"><a href=\"../text/ms4syowa.html\">松本清張 「昭和史発掘（４）」</a>\n　Ｐ．９１<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167106345%2Fqid%3D1147086434%2Fsr%3D1-13%2Fref%3Dsr_1_0_13\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -283,7 +268,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

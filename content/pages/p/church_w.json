@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -38,9 +47,9 @@
    "type": "raw",
    "tag": "table",
    "attrs": {
-    "class": "off"
+    "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"04t.html\">一覧　（タ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=books-jp%26keyword=%25E3%2583%2581%25E3%2583%25A3%25E3%2583%25BC%25E3%2583%2581%25E3%2583%25AB\" target=\"_blank\">本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
   },
   {
    "type": "raw",
@@ -52,27 +61,11 @@
   },
   {
    "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
    "tag": "table",
    "attrs": {
     "class": "off"
    },
    "html": "<tbody><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr></tbody>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "timeline",
@@ -383,9 +376,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>かれは一八八八年に陸軍士官学校を卒業後、九八年インドへ出征、九九年ブール戦争に従軍、\nその後内相、植民相などをつとめ、ロシア革命以後は一貫して反共の闘士であった。\n一九三九年九月、大戦勃発と同時に海相、四〇年<a href=\"../p/chambe_n.html\">チェンバレン</a>辞職後首相となり、労働党の協力を求めて戦時内閣を組織し、\n国防相を兼ねて大戦を指導した。</div>\n<div class=\"txr\"><a href=\"../text/kh_20sek.html\">木村英亮 「二〇世紀の世界史」</a>\n　Ｐ．１３２<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=20%25E4%25B8%2596%25E7%25B4%2580%25E3%2581%25AE%25E4%25B8%2596%25E7%2595%258C%25E5%258F%25B2%25E2%2580%2595%25E6%25B0%2591%25E6%2597%258F%25E8%25A7%25A3%25E6%2594%25BE%25E9%2581%258B%25E5%258B%2595%25E3%2581%25A8%25E7%25A4%25BE%25E4%25BC%259A%25E4%25B8%25BB%25E7%25BE%25A9\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -393,39 +386,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>かれは一八八八年に陸軍士官学校を卒業後、九八年インドへ出征、九九年ブール戦争に従軍、\nその後内相、植民相などをつとめ、ロシア革命以後は一貫して反共の闘士であった。\n一九三九年九月、大戦勃発と同時に海相、四〇年<a href=\"../p/chambe_n.html\">チェンバレン</a>辞職後首相となり、労働党の協力を求めて戦時内閣を組織し、\n国防相を兼ねて大戦を指導した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kh_20sek.html\">木村英亮 「二〇世紀の世界史」</a>\n　Ｐ．１３２</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "tx"
-   },
-   "html": "\n<div>チャーチルは、保守党革新派の政治家ランドルフ・チャーチルの長男として、\nオックスフォード近くの壮麗な屋敷「ブレナム・パレス」に生まれた。\n七歳で有名なパブリック・スクールのひとつハロー校に入学。\nあまり優秀な生徒ではなかったが、彼は英語が得意科目で、個人の実力が発揮される水泳やフェンシングといったスポーツを好んだ。\nこの頃身につけた作文の能力は、チャーチル自ら執筆した多くの名演説で、人びとを魅了する政治家として彼の名声を高めただけでなく、\n従軍記者や多作な文筆家（一九五三年にノーベル文学賞を受賞）として多方面に活躍したチャーチルの、生涯の宝物となった。</div>\n<div>一八九五年にサンドハースト陸軍士官学校を終えた後、チャーチルはキューバやインドでの反乱の鎮圧や、\nスーダン進出、ボーア戦争など世紀転換期の帝国主義戦争の数々を、主に従軍記者として経験した。\n彼はそれらへの従軍体験記を出版して世にその名を知らしめ、一九〇〇年、保守党の下院議員として初当選をはたした。</div>\n<div>だがチャーチルの政治家としての第一歩は、自由党とともに始まった。\n彼は一九〇四年に自由党に移籍し、植民相次官、商相、内相にくわえて陸海軍の大臣という要職を歴任したが、その間、\n労使協議会や労働紹介所を設置し、人民予算の立法化を支持して社会変革を推進した。\nまた、一四年に勃発した第一次世界大戦下には、海軍力の増強を断行しドイツの脅威に備えるとともに、\n航空戦の到来を見通して空軍の育成にも力を入れた。\nしかし、ダーダネルス海峡進攻作戦の失敗（一九一五）を厳しく批判されて第一線から退いたチャーチルは、\n水彩画を楽しみながら次なる出番を待った。\n一七年の夏、盟友<a href=\"../p/lloyd_g.html\">ロイド=ジョージ</a>の連立内閣に軍需相として復帰。\n二二年に下野するまでの間、彼は、大衆の時代を迎えた戦後イギリスの処理にあたる一方、「反共」を唱えて革命ロシアへの干渉を指導した。</div>\n<div>一九三九年秋、<a href=\"../1939/09ef_se.html\">イギリスは第二次世界大戦に突入</a>した。\n再び海相として入閣したチャーチルは、翌四〇年、<a href=\"../1940/05churc.html\">首相に就任</a>し、挙国体制を整えてナチス・ドイツ軍との戦いの陣頭指揮をとった。\n国民総力戦が必須であることは、先の大戦の最も重要な教訓であった。\nチャーチルは、国民の生活の一部となったラジオ、そして議会演説をつうじて、\nヨーロッパを震撼させるファシズムの脅威打倒をスローガンに、熱弁をふるって大衆に戦争協力を呼びかけた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ks_ig101.html\">小池滋・青木康 「イギリス史重要人物１０１」</a>\n　Ｐ．１９４</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span>チャーチルは、保守党革新派の政治家ランドルフ・チャーチルの長男として、\nオックスフォード近くの壮麗な屋敷「ブレナム・パレス」に生まれた。\n七歳で有名なパブリック・スクールのひとつハロー校に入学。\nあまり優秀な生徒ではなかったが、彼は英語が得意科目で、個人の実力が発揮される水泳やフェンシングといったスポーツを好んだ。\nこの頃身につけた作文の能力は、チャーチル自ら執筆した多くの名演説で、人びとを魅了する政治家として彼の名声を高めただけでなく、\n従軍記者や多作な文筆家（一九五三年にノーベル文学賞を受賞）として多方面に活躍したチャーチルの、生涯の宝物となった。</div>\n<div>一八九五年にサンドハースト陸軍士官学校を終えた後、チャーチルはキューバやインドでの反乱の鎮圧や、\nスーダン進出、ボーア戦争など世紀転換期の帝国主義戦争の数々を、主に従軍記者として経験した。\n彼はそれらへの従軍体験記を出版して世にその名を知らしめ、一九〇〇年、保守党の下院議員として初当選をはたした。</div>\n<div>だがチャーチルの政治家としての第一歩は、自由党とともに始まった。\n彼は一九〇四年に自由党に移籍し、植民相次官、商相、内相にくわえて陸海軍の大臣という要職を歴任したが、その間、\n労使協議会や労働紹介所を設置し、人民予算の立法化を支持して社会変革を推進した。\nまた、一四年に勃発した第一次世界大戦下には、海軍力の増強を断行しドイツの脅威に備えるとともに、\n航空戦の到来を見通して空軍の育成にも力を入れた。\nしかし、ダーダネルス海峡進攻作戦の失敗（一九一五）を厳しく批判されて第一線から退いたチャーチルは、\n水彩画を楽しみながら次なる出番を待った。\n一七年の夏、盟友<a href=\"../p/lloyd_g.html\">ロイド・ジョージ</a>の連立内閣に軍需相として復帰。\n二二年に下野するまでの間、彼は、大衆の時代を迎えた戦後イギリスの処理にあたる一方、「反共」を唱えて革命ロシアへの干渉を指導した。</div>\n<div>一九三九年秋、<a href=\"../1939/09ef_se.html\">イギリスは第二次世界大戦に突入</a>した。\n再び海相として入閣したチャーチルは、翌四〇年、<a href=\"../1940/05churc.html\">首相に就任</a>し、挙国体制を整えてナチス・ドイツ軍との戦いの陣頭指揮をとった。\n国民総力戦が必須であることは、先の大戦の最も重要な教訓であった。\nチャーチルは、国民の生活の一部となったラジオ、そして議会演説をつうじて、\nヨーロッパを震撼させるファシズムの脅威打倒をスローガンに、熱弁をふるって大衆に戦争協力を呼びかけた。</div>\n<div class=\"txr\"><a href=\"../text/ks_ig101.html\">小池滋・青木康 「イギリス史重要人物１０１」</a>\n　Ｐ．１９４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E3%2582%25A4%25E3%2582%25AE%25E3%2583%25AA%25E3%2582%25B9%25E5%258F%25B2%25E9%2587%258D%25E8%25A6%2581%25E4%25BA%25BA%25E7%2589%25A9%25EF%25BC%2591%25EF%25BC%2590%25EF%25BC%2591\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -433,7 +394,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

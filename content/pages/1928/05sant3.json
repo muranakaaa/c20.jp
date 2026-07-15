@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1928.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1928.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -53,7 +62,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1926/07/09　　<a href\"..=\"\" 19.html\"=\"\">\n蒋介石、北伐開始</a>"
+       "html": "1926/07/09　　<a href=\"../1926/07hokub.html\">\n蒋介石、北伐開始</a>"
       }
      ]
     },
@@ -213,25 +222,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -245,17 +238,17 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>表面上、一触即発の空気は、五月一、二日にはなかった。\nところが、五月三日午前九時半、日中両軍の間で軍事衝突がおこった。\nその原因に関する主張は、日本側と中国側とでは完全にくいちがっている。\n日本側は、南軍兵士が『満州日報』取次販売店に乱入し、吉房長平を罵倒殴打し、\n家財道具を掠奪したことにはじまるというのにたいし、中国側は、日本軍守備区域で一人の中国人が射殺されたことが\n発端であるとしている。\n戦争の原因について両者の言い分が一致するなどということは史上例がない。<a href=\"../1928/05saina.html\">済南事件</a>はこうしてはじまった。</div>\n<div>済南市内での市街戦は五月三、四日の二日間で終わったが、参謀本部は、\n「このさい断乎たる処置をとる」こととし、「南軍膺懲（こらしめる）」の方針を固めた。\n五月四日の臨時閣議は、関東軍と朝鮮軍とから二個師団の増派を決定、\n五月九日には名古屋の第三師団にも出動命令をくだし、約一万五〇〇〇名の兵員を補充して、\n革命軍との徹底抗戦を辞さずとの態勢をととのえた。</div>\n<div>日本軍は、九日から総攻撃を開始、済南城内に集中砲火をあびせ、一一日に済南城を軍事占領した。\nこの戦闘で、南軍は一般市民をふくめ死者三六〇〇名、負傷者一四〇〇名を出したのにたいし、\n日本軍の死傷は死者二五名、負傷者一五七名であった。</div>\n<div class=\"txr\"><a href=\"../text/nm_syo02.html\">中村政則 「昭和の歴史（２）」</a>\n　Ｐ．１２０<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%2598%25AD%25E5%2592%258C%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2%25E3%2580%25882%25E3%2580%2589%25E6%2598%25AD%25E5%2592%258C%25E3%2581%25AE%25E6%2581%2590%25E6%2585%258C\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/syokaise.html\">蒋介石</a>の北伐が再会され国民政府軍が済南に近づくと、\n<a href=\"../1927/tanaa_1.html\">田中内閣</a>は四月一九日久留米師団五〇〇〇名と華北駐屯第九師団の一部を派遣し済南を占領させた。\n<a href=\"../1928/04sant2.html\">第二次山東出兵</a>である。\n済南の東北軍は国民政府軍と一戦もまじえず撤退したが、済南に勢ぞろいした日本軍と国民政府軍との間に五月三、四の両日戦闘が行なわれた。\n日本軍は国民政府軍の内戦不干渉の要求を拒否し、特派交渉員蔡公時などの政府役人を殺害しながらも、\n二〇名程の犠牲者が出たことを理由に、<a href=\"../1927/tanaa_1.html\">田中内閣</a>は第五五議会が閉会した翌五月八日第三次山東出兵をきめ、\n第三師団を派遣し、九日・一〇日の両日済南の総攻撃を行なった。\nそのため中国側は三六〇〇人の死者と一四〇〇人の負傷者をだし、済南は壊滅した。</div>\n<div class=\"txr\"><a href=\"../text/st2yamas.html\">佐々木敏二 「山本宣治（下）」</a>\n　Ｐ．２５１<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4938303019%2Fqid%3D1147088125%2Fsr%3D1-5%2Fref%3Dsr_1_8_5\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -263,7 +256,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

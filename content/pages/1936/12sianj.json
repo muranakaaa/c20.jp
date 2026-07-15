@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1936.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1936.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -93,7 +102,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1931/11/27　　<a href\"..=\"\" 19.html\"=\"\">\n中華ソビエト共和国臨時政府（瑞金政府）樹立</a>　（主席：<a href=\"../p/motakuto.html\">毛沢東</a>）"
+       "html": "1931/11/07　　<a href=\"../1931/11zuiki.html\">\n中華ソビエト共和国臨時政府（瑞金政府）成立</a>　（主席：<a href=\"../p/motakuto.html\">毛沢東</a>）"
       }
      ]
     },
@@ -124,6 +133,16 @@
        "id": "l",
        "cls": null,
        "html": "1935/08/01　　<a href=\"../1935/0881sen.html\">\n八・一宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/12/09　　<a href=\"../1935/12129un.html\">\n一二・九運動</a>"
       }
      ]
     },
@@ -193,25 +212,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -225,17 +228,41 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "<span class=\"m_y\">語録</span>\n・・・・・・わたしの場合は疑惑や不安どころではなかった。\n<a href=\"../p/syokaise.html\">蒋先生</a>はわたしを信任していない、わたしはもはや重視されていないのだ、\nという思い、それこそが、楊虎城と協議のうえ、監禁して諌めるという策謀を決行させたきっかけ・・・・・・\n<div class=\"r\"><a href=\"../p/cyogakur.html\">張学良</a>　（奉天派軍閥）</div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "<span class=\"m_y\">語録</span>\n今回、わたしは生命の危険を冒して<a href=\"../p/syokaise.html\">委員長</a>を送って南京に戻った。\nそもそもがこれまで誰も演じたことのない、すばらしい劇を演じたいと思ったのだ。\nもし、<a href=\"../p/syokaise.html\">委員長</a>に大政治家の風格をもってわたしに西安を帰したなら、\nこれこそ千古の美談じゃないか！　惜しいことにせっかくの芝居が台なしになってしまった！\n<div class=\"r\"><a href=\"../p/cyogakur.html\">張学良</a>　（奉天派軍閥）</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>一九三六年の十二月はじめ、<a href=\"../p/syokaise.html\">蒋介石</a>は、おりから陝北地区の共産軍討伐にあたっていた<a href=\"../p/cyogakur.html\">張学良</a>、楊虎城の軍隊を督戦するために、\n西安に飛んだ。\nところが、すでにそれ以前から共産党の統一戦線結成のアピールに耳をかすようになっていた<a href=\"../p/cyogakur.html\">張学良</a>たちは、十二日、\n突如<a href=\"../p/syokaise.html\">蒋介石</a>を幽閉する挙にで、その方針の転換（つまり内戦の中止と抗日のために統一戦線の結成）をせまったのだった。\n<a href=\"../p/syokaise.html\">蒋</a>は、はじめのうちこの要求を拒絶した。\nだが、まもなく西安にまねかれた中共代表の<a href=\"../p/syuonrai.html\">周恩来</a>の斡旋もあって、この年もおしつまった十二月二十四日、\nついに両者のあいだに和解が成立した。\n<a href=\"../p/syokaise.html\">蒋介石</a>は、釈放されて南京への帰還をみとめられるかわりに、<a href=\"../p/cyogakur.html\">張</a>たちの要求をうけいれたのである。</div>\n<div class=\"txr\"><a href=\"../text/nn1hitle.html\">野田宣雄 「ヒトラーの時代（上）」</a>\n　Ｐ．１８９<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E3%2583%2592%25E3%2583%2588%25E3%2583%25A9%25E3%2583%25BC%25E3%2581%25AE%25E6%2599%2582%25E4%25BB%25A3%2520%25E4%25B8%258A%2520%25281%2529%2520%2520%2520%2520%25E8%25AC%259B%25E8%25AB%2587%25E7%25A4%25BE%25E5%25AD%25A6%25E8%25A1%2593%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>一九三六年一二月、<a href=\"../p/syokaise.html\">蒋介石</a>は、彼の内戦の主要基地、西安で、\n二人の部下の将軍によって強制的に拘留された。\n一人は「青年元帥」<a href=\"../p/cyogakur.html\">張学良</a>だった。\n<a href=\"../p/cyogakur.html\">張</a>は、一九三一年に、彼の故郷東北（満州）に対する<a href=\"../1931/09ryujo.html\">日本の占領</a>に抵抗してはいけないと、\n<a href=\"../p/syokaise.html\">蒋</a>に命令されていた。\nしかも今度は、日本軍ではなく「紅軍」と闘うように<a href=\"../p/syokaise.html\">蒋</a>から命じられた。</div>\n<div><a href=\"../p/cyogakur.html\">張</a>と彼の部隊は、紅軍に敗れた後、紅軍が捕虜を友人として待遇し、釈放したことを見て、\n「中国人は中国人とは闘ってはいけない」という呼びかけにはどうしても応えなければならないと認識したとしても不思議ではない。\n<a href=\"../p/cyogakur.html\">張</a>は、抗日と紅軍との停戦を決定した。</div>\n<div>もう一人の将軍楊虎城は陝西で生まれ育ったので、西安を首都とする陝西省を内戦の主戦場にしたくなかった。\nまた、彼は帝国主義とは何のつながりもなかったが、\n地元の進歩的な人たちと往来があったので、<a href=\"../p/cyogakur.html\">張学良</a>といっしょに行動した。</div>\n<div><a href=\"../p/syokaise.html\">蒋介石</a>を掌中にした両将軍は、<a href=\"../p/syokaise.html\">蒋</a>に統一戦線に同意し、それを全国的規模のものに発展させることを要求した。\n<a href=\"../p/syokaise.html\">蒋</a>は初めのうちはかたくなで、「いっそのこと、私を殺せ」と言った。\nもし共産党が介在しなかったなら、事情は彼に不利に推移したであろう。</div>\n<div>中共は<a href=\"../p/syuonrai.html\">周恩来</a>を西安に派遣し、<a href=\"../p/syokaise.html\">蒋</a>が国内平和を実現し、日本に対して強硬姿勢をとることに同意することを条件に、\n<a href=\"../p/syokaise.html\">蒋</a>の釈放を提案した。\n共産党員は、これまで非常に長い間、<a href=\"../p/syokaise.html\">蒋</a>に追われ、皆殺しの対象（<a href=\"../p/syuonrai.html\">周恩来</a>の首にも高額の賞金がかけられていた）になっていた。\nしかし、いまは<a href=\"../p/syokaise.html\">蒋</a>の生死を思いのままにできる立場に立ち、しかもこのように提案したのである。\nこのことは、全中国と全世界に対して、共産党員は民族の運命の関頭に立って、\nみずからの恩讐を超越したことを表明するものだった。</div>\n<div><a href=\"../p/syokaise.html\">蒋介石</a>は、同意の後、南京に送り返された。\nそれは、妻宋美齢と妻の兄宋子文の協力によるものでもあった。\n二人は<a href=\"../p/syokaise.html\">蒋</a>の釈放を求めるために南京から西安に飛び、<a href=\"../p/cyogakur.html\">張学良</a>、楊虎城両将軍と話し合い、<a href=\"../p/syuonrai.html\">周恩来</a>とも会談した。\n彼らは国民党内の親欧米派を代表していて、親日派に反対していた。\n彼らは<a href=\"../p/syokaise.html\">蒋介石</a>に、南京の親日派の政客たちは西安を爆撃することを画策し、\n内戦を長びかせるだけでなく、機に乗じて彼を見殺しにして権力を奪おうとしていると信じさせた。</div>\n<div class=\"txr\"><a href=\"../text/ie1souke.html\">イスラエル・エプシュタイン 「宋慶齢（上）」</a>\n　Ｐ．４２８</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>中国現代史の大きな転換点となった「西安事変」は、\n一九三六年十二月十二日未明に起こった。\n<a href=\"../p/syokaise.html\">蒋介石</a>に内戦停止を説いて拒絶された<a href=\"../p/cyogakur.html\">張学良</a>が、兵を動かして<a href=\"../p/syokaise.html\">蒋介石</a>を監禁し、\n楊虎城と連名で八項目の要求を全国に通電したのである。</div>\n<div>①南京政府の改組、諸党派共同の救国。②内戦の停止。③抗日七君子の釈放。④政治犯の釈放。\n⑤民衆愛国運動の解禁。⑥人民の政治的自由の保証。⑦<a href=\"../p/sonbun.html\">孫文</a>遺嘱の順守。⑧救国会議の即時開催。</div>\n<div>この事件は「内戦停止、一致抗日」の世論を劇的に表現したものにほかならなかった。\nだが中国の最高指導者の監禁という異常な事件は、全世界に強烈な衝撃を与えた。\nソ連の新聞は「親日分子の陰謀」であり、「反日勢力の団結を破壊するもの」と非難した。\n日本の新聞は、<a href=\"../p/cyogakur.html\">張学良</a>独立政府とソ連が協定を結んだ、と報じた（民衆運動の動向から「抗日民族統一戦線」の結成を予見したのは、\n朝日新聞記者尾崎秀実ただ一人であった）。\n日本政府は<a href=\"../p/syokaise.html\">蒋介石</a>後の南京政府を親日派が掌握するよう画策しはじめた。\n南京の国民政府では、<a href=\"../p/syokaise.html\">蒋介石</a>の生命の安全を無視しても<a href=\"../p/cyogakur.html\">張学良</a>を討伐すべし、とする親日派の何応欽ら強硬派と、\n和平解決を望む馮玉祥・宋美齢（<a href=\"../p/syokaise.html\">蒋介石</a>夫人）らが対立した。\n「逼蒋抗日」を唱えていた共産党内でも、ことの意外な進展にとまどって、\n<a href=\"../p/syokaise.html\">蒋介石</a>の公開裁判・処刑を要求する声さえあった。</div>\n<div>【中略】</div>\n<div><a href=\"../p/syokaise.html\">蒋介石</a>は頑強にこの「兵諫」を拒絶した。\n<a href=\"../p/cyogakur.html\">張学良</a>討伐のための中央軍は陝西省東端の潼関に入り、西安近郊を爆撃した。\n東北軍の青年将校の間に<a href=\"../p/syokaise.html\">蒋</a>処刑の声があがりはじめた。\nこの一触即発の危機を救ったのは共産党であった。\n<a href=\"../p/cyogakur.html\">張学良</a>の依頼を受けて十七日西安に飛来した<a href=\"../p/syuonrai.html\">周恩来</a>、秦邦憲、葉剣英は、\n「団結抗日の基礎に立つ和平解決」を求めて<a href=\"../p/syokaise.html\">蒋介石</a>を説得するとともに、\n南京代表の宋子文、宋美齢らと折衝を重ね、ほぼ八項目要求の内容を認める形で合意に達したのである。\n<a href=\"../p/syokaise.html\">蒋介石</a>はこの合意を文書にして署名することは拒否したが、十二月二十五日、西安を飛び立つさいに、\n「約束はかならず守る」と言明した。\nこうして内戦は事実上停止された。\n<a href=\"../p/cyogakur.html\">張学良</a>は、「兵諫」の責任を負ってすすんで軍法会議にかけられることを望み、\n<a href=\"../p/syokaise.html\">蒋介石</a>に同行した。</div>\n<div class=\"txr\"><a href=\"../text/ks_cyugo.html\">小島晋治・丸山松幸 「中国近現代史」</a>\n　Ｐ．１５８<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E4%25B8%25AD%25E5%259B%25BD%25E8%25BF%2591%25E7%258F%25BE%25E4%25BB%25A3%25E5%258F%25B2%2520%2520%2520%2520%25E5%25B2%25A9%25E6%25B3%25A2%25E6%2596%25B0%25E6%259B%25B8\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -243,7 +270,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

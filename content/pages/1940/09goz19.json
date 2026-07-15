@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1940.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1940.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -163,25 +172,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -195,17 +188,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span><b>阿川</b>　【中略】　<a href=\"../1940/09jdi_d.html\">「日独伊三国同盟」締結</a>が決まった一九四〇（昭和15）年九月、<a href=\"../p/kfumimar.html\">近衛首相</a>が宮中で気を失ったという話を、戦後、\n日本医師会会長を長くつとめた“喧嘩太郎”こと、武見太郎さんから直接聞いたことがあります。\n武見さんは、当時銀座に診療所を開いていたのですが、その日、宮内省から至急の呼び出しがかかった。\n行ってみると、<a href=\"../p/kfumimar.html\">近衛さん</a>がもう目を醒ましてソファに座ってたそうですがね。\n「どうなさいました？」と訊ねると、実は昼食のあと、<a href=\"../p/stenno.html\">陛下</a>から庭を歩こうと言われて、ご一緒に散歩していた。\nすると突然、<a href=\"../p/stenno.html\">陛下</a>が「<a href=\"../1940/09jdi_d.html\">三国同盟</a>がいよいよ成立することになった、これで国民がさぞ難儀するだろうね」とおっしゃった。\nそれを聞いた途端、すーっと気が遠くなった、というのです。</div>\n<div><b>中西</b>　まさにその瞬間に、日本の運命は決まったわけですね。\n<a href=\"../1940/09jdi_d.html\">三国同盟の成立</a>で、<a href=\"../1941/12hawai.html\">真珠湾奇襲攻撃</a>に始まる日米戦への流れは決定的に避け得なくなった、と私は思います。\n四〇年の九月といえば、フランスはすでに<a href=\"../p/hitler_a.html\">ヒトラー</a>に<a href=\"../1940/06f_kof.html\">征服されており</a>、\n「バトル・オブ・ブリテン」の最中で、イギリスはすでに風前の灯火であった。\nアメリカがこれを見捨てていられるはずはなく、遅かれ早かれ対独参戦は誰の目にも明らかだったのに、\nそのドイツと同盟したわけですから。\n言ってみれば、「<a href=\"../1945/09kofuk.html\">ミズーリ号</a>への道」はここで決定づけられたわけです。</div>\n<div class=\"txr\"><a href=\"../text/ah_20nih.html\">阿川弘之・猪瀬直樹・中西輝政・秦郁彦・福田和也 「二十世紀　日本の戦争」</a>\n　Ｐ．１２０<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E4%25BA%258C%25E5%258D%2581%25E4%25B8%2596%25E7%25B4%2580%25E3%2580%2580%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25AE%25E6%2588%25A6%25E4%25BA%2589\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -213,7 +198,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

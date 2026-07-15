@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1904.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1904.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -33,7 +42,7 @@
   {
    "type": "headline",
    "cells": [
-    "パーティーの夜の旅順大パニック！　ただし撃沈ゼロ。"
+    "日本軍の奇襲雷撃でパーティーの夜の旅順大パニック！　ただし撃沈ゼロ。"
    ]
   },
   {
@@ -83,17 +92,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1904/02/08　　<a href=\"../1904/02jorik.html\">\n陸軍先遣隊、仁川上陸</a>"
-      }
-     ]
-    },
-    {
-     "cls": "n",
-     "cells": [
-      {
-       "id": "l",
-       "cls": null,
-       "html": "1904/02/08　　<a href=\"../1904/02jinse.html\">\n仁川沖海戦</a>"
+       "html": "1904/02/08　　<a href=\"../1904/02jorik.html\">\n陸軍先遣隊、仁川上陸開始</a>"
       }
      ]
     },
@@ -104,6 +103,16 @@
        "id": "l",
        "cls": null,
        "html": "1904/02/08　　<a 1904=\"\" href\"..=\"\" 02yasyu.html\"=\"\">\n連合艦隊の駆逐艦隊、旅順口のロシア艦隊を夜襲攻撃</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/09　　<a href=\"../1904/02jinse.html\">\n仁川沖海戦</a>"
       }
      ]
     },
@@ -133,25 +142,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -165,17 +158,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>午後一〇時頃、旅順港の東方二〇海里の地点を巡航中の戦艦「ベストラーシヌイ」号と「ラストロープヌイ」号は、\n戦闘灯で海面を照らしていたので、自分のいる場所を教えてしまった。\nそのため、日本の水雷艇はロシア艦との遭遇をかわすことができた。</div>\n<div>敵艦はロシア水雷艇の運行速度や方向を確認した後、「ベストラーシヌイ」号と「ラストロープヌイ」号が到着するよりも前に、\n妨害されることなく外泊地にたっすることができた。\n日本の水雷艇は灯台の明りや艦船の灯火を目当てにして、ロシア艦隊に近づき、近距離からロシアの艦船に向かって魚雷を一六発射ちこんだのだったが、\nそのうちの三発が命中した。</div>\n<div>午後一一時三五分、戦艦「レトヴィーザン」号で最初の爆発がおこった。\n左舷の全砲門が日本の水雷艇に向かって、即時火をふいたのだった。</div>\n<div>いくつかのロシア軍艦の兵員にたいしては、司令部の矛盾にみちた命令がだされていたため、それが禍して、\n自分の艦を攻撃してくる日本の水雷艇を見つけても、ロシアの砲手や魚雷手はまちがいを犯すまいとして、\n自艦を目がけて進んでくる魚雷をみたり、爆発の音を聞くまでは、砲門を開かなかった。\n後にスタルク提督が総督に報告しているように、旗艦においてさえ、当初「爆発（最初の爆発）が偶然のものであったという考えが支配的であった。\n当日戦闘に際会したときの準備として、わが方の水雷艇の魚雷が爆発したのだとさえ、考えられていた。\n戦艦「ツェザレーヴィチ」号からの信号で、疑念がすべて解けたのだった。」</div>\n<div class=\"txr\"><a href=\"../text/ro_soren.html\">ロストーノフ 「ソ連から見た日露戦争」</a>\n　Ｐ．１２１</div>\n"
   },
   {
    "type": "cyu",
@@ -183,7 +168,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

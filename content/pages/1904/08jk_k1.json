@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1904.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1904.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -163,25 +172,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "pt"
    },
    "html": "\n<div class=\"pt_h\">～　協約の内容　～</div>\n<div class=\"c\">韓国は日本が送り込む財政・外交の顧問を受け入れること！</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -195,17 +188,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div><a href=\"../1904/02jk_gi.html\">日韓議定書</a>を一歩進めるという方針の具体化は、八月二十二日の日韓協約（第一次）の調印によって実現された。\nこの協約は三ヵ条からなり、（一）韓国政府は日本政府推薦の日本人一名を財政顧問に、\n（二）日本政府推薦の外国人一名を外交顧問に任用すること、\n（三）韓国政府は外国との条約締結、外国人に対する特権譲与もしくは契約などについては、\nあらかじめ日本政府と協議すること、というのである。</div>\n<div>外交顧問に外国人をあてたのは、国際的反響を顧慮したからであり、とくにあまり目立つことをやって、\nアメリカ、イギリスの世論を失ってはまずいと考えたからであろう。\n外交顧問には、アメリカ駐在日本公使館の顧問スチーブンス、財政顧問には、大蔵省主計局長目賀田種太郎があてられた。\nとくに第三条が設けられたのは、韓国政府が<a href=\"../1904/02jk_gi.html\">日韓議定書</a>と矛盾する対外条約、契約などは結べないとしても、\nそれ以外のものは自由であり、外国人の要求に応じて利権を与えることが心配だったからであり、\nこの心配が顧問任用の第一次日韓協約の調印を急がせた最大のモメントになっていた。</div>\n<div>韓国政府と目賀田の顧問傭聘契約は十月十五日、スチーブンスとの契約は十二月二十七日締結されたが、\nそれによれば、韓国政府は財政・外交のいっさいの案件は、両顧問の事前の同意がなければ実行できないことになっている。\nこれで韓国政府は、財政・外交というもっとも重要な部門での実権を失った。\nこれはまさしく併合への第一歩であった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ft_nicir.html\">古屋哲夫 「日露戦争」</a>\n　Ｐ．１１５</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../1904/02jk_gi.html\">日韓議定書</a>を一歩進めるという方針の具体化は、八月二十二日の日韓協約（第一次）の調印によって実現された。\nこの協約は三ヵ条からなり、（一）韓国政府は日本政府推薦の日本人一名を財政顧問に、\n（二）日本政府推薦の外国人一名を外交顧問に任用すること、\n（三）韓国政府は外国との条約締結、外国人に対する特権譲与もしくは契約などについては、\nあらかじめ日本政府と協議すること、というのである。</div>\n<div>外交顧問に外国人をあてたのは、国際的反響を顧慮したからであり、とくにあまり目立つことをやって、\nアメリカ、イギリスの世論を失ってはまずいと考えたからであろう。\n外交顧問には、アメリカ駐在日本公使館の顧問スチーブンス、財政顧問には、大蔵省主計局長目賀田種太郎があてられた。\nとくに第三条が設けられたのは、韓国政府が<a href=\"../1904/02jk_gi.html\">日韓議定書</a>と矛盾する対外条約、契約などは結べないとしても、\nそれ以外のものは自由であり、外国人の要求に応じて利権を与えることが心配だったからであり、\nこの心配が顧問任用の第一次日韓協約の調印を急がせた最大のモメントになっていた。</div>\n<div>韓国政府と目賀田の顧問傭聘契約は十月十五日、スチーブンスとの契約は十二月二十七日締結されたが、\nそれによれば、韓国政府は財政・外交のいっさいの案件は、両顧問の事前の同意がなければ実行できないことになっている。\nこれで韓国政府は、財政・外交というもっとも重要な部門での実権を失った。\nこれはまさしく併合への第一歩であった。</div>\n<div class=\"txr\"><a href=\"../text/ft_nicir.html\">古屋哲夫 「日露戦争」</a>\n　Ｐ．１１５<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4121001109%2Fqid%3D1146491161%2Fsr%3D1-1%2Fref%3Dsr_1_10_1\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -213,7 +198,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1938.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1938.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -33,7 +42,7 @@
   {
    "type": "headline",
    "cells": [
-    "<a href=\"../p/kfumimar.html\">近衛首相</a>を励まして、クビになった<a href=\"../p/nsuehiro.html\">西尾末広</a>って、やっぱ○？"
+    "<a href=\"../p/kfumimar.html\">近衛首相</a>を励まして、クビになった<a href=\"../p/nsuehiro.html\">西尾末広</a>って、やっぱ ○？"
    ]
   },
   {
@@ -173,25 +182,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -205,9 +198,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>三月二十四日衆議院本会議でちょっとしたハプニングが起きた。\n社会大衆党代議士<a href=\"../p/nsuehiro.html\">西尾末広</a>は、賛成演説に立ったとき、</div>\n<div>「日本は未曾有の変革を為さんとしております。\n<a href=\"../p/mtenno.html\">明治天皇</a>の五ヶ条の御誓文の中にも『旧来の陋習を破り、天地の公道に基くべし』と記されております。\n<a href=\"../p/kfumimar.html\">近衛首相</a>はこの精神をしっかりと把握されまして、もっと大胆率直に日本の進むべき道はこれであると、\nかの<a href=\"../p/hitler_a.html\">ヒトラー</a>の如く、<a href=\"../p/mussol_b.html\">ムッソリーニ</a>の如く、あるいは<a href=\"../p/stalin.html\">スターリン</a>の如く大胆に進むべきであると思うのであります」</div>\n<div>と演説し、日本が全体主義国家的な道をとるべきことを主張した。\nしかし、共産主義ソビエトの指導者<a href=\"../p/stalin.html\">スターリン</a>を手本にせよというのは怪しからん、というので<a href=\"../p/nsuehiro.html\">西尾</a>は懲罰委員会にかけられ除名された。\n（翌年の補欠選挙で返り咲くことになる）</div>\n<div class=\"txr\"><a href=\"../text/tm2saion.html\">豊田穣 「西園寺公望（下）」</a>\n　Ｐ．３３７<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E5%259C%2592%25E5%25AF%25BA%25E5%2585%25AC%25E6%259C%259B%25E2%2580%2595%25E6%259C%2580%25E5%25BE%258C%25E3%2581%25AE%25E5%2585%2583%25E8%2580%2581%2520%2528%25E4%25B8%258B%25E5%25B7%25BB%2529%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -215,7 +208,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>三月二十四日衆議院本会議でちょっとしたハプニングが起きた。\n社会大衆党代議士<a href=\"../p/nsuehiro.html\">西尾末広</a>は、賛成演説に立ったとき、</div>\n<div>「日本は未曾有の変革を為さんとしております。\n<a href=\"../p/mtenno.html\">明治天皇</a>の五ヶ条の御誓文の中にも『旧来の陋習を破り、天地の公道に基くべし』と記されております。\n<a href=\"../p/kfumimar.html\">近衛首相</a>はこの精神をしっかりと把握されまして、もっと大胆率直に日本の進むべき道はこれであると、\nかの<a href=\"../p/hitler_a.html\">ヒトラー</a>の如く、<a href=\"../p/mussol_b.html\">ムッソリーニ</a>の如く、あるいは<a href=\"../p/stalin.html\">スターリン</a>の如く大胆に進むべきであると思うのであります」</div>\n<div>と演説し、日本が全体主義国家的な道をとるべきことを主張した。\nしかし、共産主義ソビエトの指導者<a href=\"../p/stalin.html\">スターリン</a>を手本にせよというのは怪しからん、というので<a href=\"../p/nsuehiro.html\">西尾</a>は懲罰委員会にかけられ除名された。\n（翌年の補欠選挙で返り咲くことになる）</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm2saion.html\">豊田穣 「西園寺公望（下）」</a>\n　Ｐ．３３７</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>昭和一三年三月一七日には、\n<a href=\"../1937/kono1_1.html\">近衛内閣</a>が提出した国家総動員法案に対する討議中、\n社会大衆党の<a href=\"../p/nsuehiro.html\">西尾末広議員</a>が演説の中で「<a href=\"../p/mussol_b.html\">ムッソリーニ</a>の如く、\n<a href=\"../p/hitler_a.html\">ヒットラー</a>の如く、<a href=\"../p/stalin.html\">スターリン</a>の如く」勇往邁進すべし\nと<a href=\"../p/kfumimar.html\">近衛</a>を激励したことが問題となって、二三日には<a href=\"../p/nsuehiro.html\">同議員</a>が議員を除名されるという事件がおこっている。\nこの事件は、政民両党が軍部の強い圧力で、\n結局しぶしぶながら国家総動員法案賛成を表明せねばならぬ場面に追い込まれていたのに対し、\n社会大衆党は当初から積極的に法案に賛成し、ひとり<a href=\"../1937/kono1_1.html\">近衛内閣</a>の与党の如く振舞ったので、\n政民両党が言葉尻をとらえてその報復を試みたものといってよいであろう。\n社大党は国家総動員法を「社会主義の模型」ととらえていたのである。</div>\n<div class=\"txr\"><a href=\"../text/it_konoe.html\">伊藤隆 「近衛新体制」</a>\n　Ｐ．７５<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25BF%2591%25E8%25A1%259B%25E6%2596%25B0%25E4%25BD%2593%25E5%2588%25B6%25E2%2580%2595%25E5%25A4%25A7%25E6%2594%25BF%25E7%25BF%25BC%25E8%25B3%259B%25E4%25BC%259A%25E3%2581%25B8%25E3%2581%25AE%25E9%2581%2593%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -223,7 +216,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

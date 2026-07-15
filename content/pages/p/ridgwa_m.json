@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -38,9 +47,9 @@
    "type": "raw",
    "tag": "table",
    "attrs": {
-    "class": "off"
+    "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"09r.html\">一覧　（ラ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
   },
   {
    "type": "raw",
@@ -52,27 +61,11 @@
   },
   {
    "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
    "tag": "table",
    "attrs": {
     "class": "off"
    },
    "html": "<tbody><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr></tbody>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "timeline",
@@ -203,49 +196,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>マッカーサー解任のあとをうけて最高司令官に就任したマシュー・バンカー・リッジウェイ中将は、\n一八九五年にうまれ、一九一七年に陸軍士官学校を卒業し、陸軍大学に入り、陸大を卒業後は第四軍団副参謀長・参謀本部作戦課勤務などを歴任した。\n第二次世界大戦中は、第八二パラシュート師団長としてシチリア・イタリア・ノルマンディーと転戦し、\nつづいて第一八パラシュート師団長となり、ベルギー戦線でドイツ軍の突破作戦を阻止して勇名をはせた。\n彼の戦歴は、そのままアメリカのパラシュート部隊発展の歴史であった。\nドイツが降伏してからは、フィリピンに飛び、<a href=\"../p/macart_d.html\">マッカーサー</a>のもとで対日侵攻作戦に参画し、戦後は、\n地中海方面軍最高司令官代理・国際連合陸軍幕僚委員会のアメリカ代表・行政担当の参謀次長を歴任し、前年一二月、\nジープ事故で死亡したウォーカー中将のあとをついで第八軍司令官に就任した。\n<a href=\"../1950/06cyose.html\">朝鮮戦争</a>の推移を参謀次長としてみていたリッジウェイは、政府や統合参謀本部が朝鮮戦争をどう指導しようとしているかをよく知っており、\n彼を第八軍司令官に推した統合参謀本部議長ブラッドレーと参謀総長コリンズは、\nリッジウェイがウォーカー前司令官よりも<a href=\"../p/macart_d.html\">マッカーサー</a>の影響からはなれて行動できると信じていた。\n戦局は、国連軍にとって重大であった。\nリッジウェイは、うちつづく苦闘に乱れて自信をうしなっていた第八軍を再建し、\n国連軍の全部隊にたいする指揮統率権を完全に掌握し、一月末、漢江の南から反撃して国連軍を危機から脱出させた。</div>\n<div>リッジウェイは、生粋の軍人であった。\nある幕僚は、彼を批評して「操縦席にある男」と形容した。\n第八軍司令官として朝鮮戦争に参加したときも、司令部の仕事は参謀長にまかせきり、自分は二つの手榴弾を両胸につけて前線を疾駆した。\n<a href=\"../p/macart_d.html\">マッカーサー</a>の解任から最高司令官に任命されて急遽日本に来たときも、リッジウェイは両胸に手榴弾をつけていた。\nリッジウェイを批判するものは、いつも手榴弾をつけているのはショウマンシップのジェスチュアだと悪口をたたいたが、\nリッジウェイは、「ヨーロッパでも、朝鮮でも、しばしば困難な地点から手榴弾で血路がひらかれたのだ」と抗弁した。</div>\n<div>リッジウェイは、緻密な頭脳をもっていた。\n作戦をたてる彼は、「一つの行動にたいして敵の反応を九通りかんがえる」といわれたが、\n行政上の手腕も抜群であった。\n誰もが彼を将来の参謀総長とみていた。\n平素は寡黙だが、物をかついで手を離せない兵士のために靴のヒモをむすんでやる気易さももっており、\n尊大な気風をただよわせていた<a href=\"../p/macart_d.html\">マッカーサー</a>とは対照的であった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ss4sengo.html\">信夫清三郎 「戦後日本政治史Ⅳ」</a>\n　Ｐ．１２６０</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span>マッカーサー解任のあとをうけて最高司令官に就任したマシュー・バンカー・リッジウェイ中将は、\n一八九五年にうまれ、一九一七年に陸軍士官学校を卒業し、陸軍大学に入り、陸大を卒業後は第四軍団副参謀長・参謀本部作戦課勤務などを歴任した。\n第二次世界大戦中は、第八二パラシュート師団長としてシチリア・イタリア・ノルマンディーと転戦し、\nつづいて第一八パラシュート師団長となり、ベルギー戦線でドイツ軍の突破作戦を阻止して勇名をはせた。\n彼の戦歴は、そのままアメリカのパラシュート部隊発展の歴史であった。\nドイツが降伏してからは、フィリピンに飛び、<a href=\"../p/macart_d.html\">マッカーサー</a>のもとで対日侵攻作戦に参画し、戦後は、\n地中海方面軍最高司令官代理・国際連合陸軍幕僚委員会のアメリカ代表・行政担当の参謀次長を歴任し、前年一二月、\nジープ事故で死亡したウォーカー中将のあとをついで第八軍司令官に就任した。\n<a href=\"../1950/06cyose.html\">朝鮮戦争</a>の推移を参謀次長としてみていたリッジウェイは、政府や統合参謀本部が朝鮮戦争をどう指導しようとしているかをよく知っており、\n彼を第八軍司令官に推した統合参謀本部議長ブラッドレーと参謀総長コリンズは、\nリッジウェイがウォーカー前司令官よりも<a href=\"../p/macart_d.html\">マッカーサー</a>の影響からはなれて行動できると信じていた。\n戦局は、国連軍にとって重大であった。\nリッジウェイは、うちつづく苦闘に乱れて自信をうしなっていた第八軍を再建し、\n国連軍の全部隊にたいする指揮統率権を完全に掌握し、一月末、漢江の南から反撃して国連軍を危機から脱出させた。</div>\n<div>リッジウェイは、生粋の軍人であった。\nある幕僚は、彼を批評して「操縦席にある男」と形容した。\n第八軍司令官として朝鮮戦争に参加したときも、司令部の仕事は参謀長にまかせきり、自分は二つの手榴弾を両胸につけて前線を疾駆した。\n<a href=\"../p/macart_d.html\">マッカーサー</a>の解任から最高司令官に任命されて急遽日本に来たときも、リッジウェイは両胸に手榴弾をつけていた。\nリッジウェイを批判するものは、いつも手榴弾をつけているのはショウマンシップのジェスチュアだと悪口をたたいたが、\nリッジウェイは、「ヨーロッパでも、朝鮮でも、しばしば困難な地点から手榴弾で血路がひらかれたのだ」と抗弁した。</div>\n<div>リッジウェイは、緻密な頭脳をもっていた。\n作戦をたてる彼は、「一つの行動にたいして敵の反応を九通りかんがえる」といわれたが、\n行政上の手腕も抜群であった。\n誰もが彼を将来の参謀総長とみていた。\n平素は寡黙だが、物をかついで手を離せない兵士のために靴のヒモをむすんでやる気易さももっており、\n尊大な気風をただよわせていた<a href=\"../p/macart_d.html\">マッカーサー</a>とは対照的であった。</div>\n<div class=\"txr\"><a href=\"../text/ss4sengo.html\">信夫清三郎 「戦後日本政治史Ⅳ」</a>\n　Ｐ．１２６０<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4326398191%2Fqid%3D1147087145%2Fsr%3D1-4%2Fref%3Dsr_1_8_4\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -253,7 +206,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -48,7 +57,7 @@
    "attrs": {
     "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href=\"01a.html\">一覧　（ア）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href=\"../them/j_gov02.html#s3\">【テーマ・内閣成立史】</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"01a.html\">一覧　（ア）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%25A4%25A7%25E9%259A%2588%2520%25E9%2587%258D%25E4%25BF%25A1\" target=\"_blank\">本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></td><td class=\"lt\"><a href=\"../them/j_gov02.html#s3\">【テーマ・内閣成立史】</a></td></tr></tbody>"
   },
   {
    "type": "raw",
@@ -57,14 +66,6 @@
     "class": "ep1"
    },
    "html": "<span class=\"m_r\">エピソード 1</span>早稲田大学の創設者として今でも人気抜群の大隈さんだが、\n歴史を振り返ると、少なくとも後半生はろくでもないじいさんだったようだ。\n自分の人気を利用した選挙運動と選挙違反は相当あざといものだった。\nあの悪名高い<a href=\"../1915/0121kaj.html\">対華２１か条を中国に突きつけた</a>のも彼の内閣である。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
   },
   {
    "type": "timeline",
@@ -170,14 +171,6 @@
      ]
     }
    ]
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "timeline",
@@ -298,7 +291,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1915/01/18　　<a href=\"../1915/0121kaj.html\">\n対華２１か条要求</a>　（外相：<a href=\"../p/ktakaaki.html\">加藤高明</a>）"
+       "html": "1915/01/18　　<a href=\"../1915/0121kaj.html\">\n対華２１ヵ条要求</a>　（外相：<a href=\"../p/ktakaaki.html\">加藤高明</a>）"
       }
      ]
     },
@@ -388,9 +381,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>佐賀の武士の子は藩校弘道館で勉強することになっていました。\nきめられたように勉強がすすまず、試験に不合格になろうものなら上級に上れず、藩の役人になれなかったり、\n家の収入をへらされたりするのです。\nたいへんきびしいやり方で、がんこに朱子学をおしつけていました。</div>\n<div>そのうえ、佐賀には「葉隠」という武士道の教えがありました。\nこの教えは疑うことのできないもので、藩士たるものは絶対に守らなければならないとされていました。\nそれについて意見を言ったり、そむこうものなら、罰が加えられるというありさまです。</div>\n<div>重信はこういう弘道館の教育の考え方ややり方には、とうていたえられなかったのです。</div>\n<div>「『大学』や『論語』だけが学問だろうか」</div>\n<div>「葉隠では、佐賀藩主鍋島さまに一身をささげよというが、それが正しいことなのだろうか」</div>\n<div>「弘道館以外の私立学校をバカにするのはなぜだ」</div>\n<div>「先生と違うことを言うと、のけ者のされるのは？」</div>\n<div>こんなことが、重信の心をとらえていたのです。</div>\n<div>重信は江藤新平（一八三四～七四）ら、上級生も同じことを思っていることを知ると勇気が出てきました。</div>\n<div>「館の教育方針を変えてもらおうではないか」</div>\n<div>と言って、学友にはたらきかけました。</div>\n<div>しかし、重信は弘道館から追われてしまいました。</div>\n<div>藩主は西洋の学問をとり入れたいと考えていた人で、弘道館からはなれたところに、\nオランダ学のための蘭学寮をつくっていました。\n重信は、こちらへうつりました。</div>\n<div class=\"txr\"><a href=\"../text/it_syaka.html\">稲垣友美・鈴木喜代春 「「社会」に出てくる人物Ⅴ」</a>\n　Ｐ．２３<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%2595%2599%25E7%25A7%2591%25E5%2588%25A5%2520%25E6%2595%2599%25E7%25A7%2591%25E6%259B%25B8%25E3%2581%25AB%25E3%2581%25A7%25E3%2581%25A6%25E3%2581%258F%25E3%2582%258B%25E4%25BA%25BA%25E7%2589%25A9124%25E4%25BA%25BA\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -398,39 +391,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>佐賀の武士の子は藩校弘道館で勉強することになっていました。\nきめられたように勉強がすすまず、試験に不合格になろうものなら上級に上れず、藩の役人になれなかったり、\n家の収入をへらされたりするのです。\nたいへんきびしいやり方で、がんこに朱子学をおしつけていました。</div>\n<div>そのうえ、佐賀には「葉隠」という武士道の教えがありました。\nこの教えは疑うことのできないもので、藩士たるものは絶対に守らなければならないとされていました。\nそれについて意見を言ったり、そむこうものなら、罰が加えられるというありさまです。</div>\n<div>重信はこういう弘道館の教育の考え方ややり方には、とうていたえられなかったのです。</div>\n<div>「『大学』や『論語』だけが学問だろうか」</div>\n<div>「葉隠では、佐賀藩主鍋島さまに一身をささげよというが、それが正しいことなのだろうか」</div>\n<div>「弘道館以外の私立学校をバカにするのはなぜだ」</div>\n<div>「先生と違うことを言うと、のけ者のされるのは？」</div>\n<div>こんなことが、重信の心をとらえていたのです。</div>\n<div>重信は江藤新平（一八三四～七四）ら、上級生も同じことを思っていることを知ると勇気が出てきました。</div>\n<div>「館の教育方針を変えてもらおうではないか」</div>\n<div>と言って、学友にはたらきかけました。</div>\n<div>しかし、重信は弘道館から追われてしまいました。</div>\n<div>藩主は西洋の学問をとり入れたいと考えていた人で、弘道館からはなれたところに、\nオランダ学のための蘭学寮をつくっていました。\n重信は、こちらへうつりました。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/it_syaka.html\">稲垣友美・鈴木喜代春 「「社会」に出てくる人物Ⅴ」</a>\n　Ｐ．２３</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span>大隈重信も、鍋島藩（現佐賀県）の上級士族の家に生まれた最後の武士だった。\n若いころは砲術と築城という、いわば技術者の道を志し、青年期に蘭学と英学の双方を身につけ、\nとくに、英学では、師匠のフルベッキをして、「新約聖書の大部分を研究し、\nアメリカ憲法の大部分を学んでしまった」と言わしめるほどの英才振りを発揮する。\n改革意欲が強く、藩の学制改革、財政改革、軍制改革に乗り出すが、失望して脱藩。</div>\n<div>明治草創期は、大蔵大輔（現在でいえば、財務省事務次官）として、\n産声を上げたばかりの政府の租税政策、財政政策、教育制度や軍隊制度の確立、\n産業振興などじつに広範な分野で実績をあげただけではなく、\nその外交力は、うるさ型の英国公使パークスも舌を巻くほどのものであった。</div>\n<div>官僚としての栄達の道に見切りをつけると、今度は自ら政党（立憲改進党）を作り、\n政治家としての道を歩み始める。\nまた次世代を育てる使命感から、大学の設立（東京専門学校、のちの早稲田大学）にまで乗り出した教育者でもあった。\nそして、総理になること二度。絵に描いたような明治の怪物ジェネラリストだった。</div>\n<div class=\"txr\"><a href=\"../text/st_tenra.html\">齋藤健 「転落の歴史に何を見るか」</a>\n　Ｐ．６８<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25BB%25A2%25E8%2590%25BD%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2%25E3%2581%25AB%25E4%25BD%2595%25E3%2582%2592%25E8%25A6%258B%25E3%2582%258B%25E3%2581%258B%25E2%2580%2595%25E5%25A5%2589%25E5%25A4%25A9%25E4%25BC%259A%25E6%2588%25A6%25E3%2581%258B%25E3%2582%2589%25E3%2583%258E%25E3%2583%25A2%25E3%2583%25B3%25E3%2583%258F%25E3%2583%25B3%25E4%25BA%258B%25E4%25BB%25B6%25E3%2581%25B8\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -438,7 +399,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

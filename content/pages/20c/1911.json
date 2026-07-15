@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../a.css"
+  "../a.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -58,7 +67,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1911/01/18　　<a href\"..=\"\" 19.html\"=\"\">\n幸徳秋水ら24名に死刑判決　（大逆事件）</a>"
+       "html": "1911/01/18　　<a href=\"../1911/01taigy.html\">\n幸徳秋水ら24名に死刑判決</a>　（大逆事件）"
       }
      ]
     },
@@ -68,7 +77,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1911/01/26　　<a href\"..=\"\" 19.html\"=\"\">\n桂・西園寺会談　（01/29 情意投合を発表／政府と政友会の提携成立）</a>"
+       "html": "1911/01/26　　<a href=\"../1911/01joito.html\">\n桂・西園寺会談</a>　（01/29 情意投合を発表／政府と政友会の提携成立）"
       }
      ]
     },
@@ -155,6 +164,16 @@
       {
        "id": "l",
        "cls": null,
+       "html": "1911/04/01　　<a href=\"../1911/04kansi.html\">\n警視庁、鑑識課を新設</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
        "html": "1911/04/09　　<a href\"..=\"\" 19.html\"=\"\">\n吉原遊郭大火</a>"
       }
      ]
@@ -197,7 +216,7 @@
    "type": "timeline",
    "rows": [
     {
-     "cls": "b",
+     "cls": "n",
      "cells": [
       {
        "id": "l",
@@ -302,7 +321,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1911/09/29　　<a href\"..=\"\" 19.html\"=\"\">\nトリポリ戦争　（～12/10/18）</a>"
+       "html": "1911/09/29　　<a href=\"../1911/09tripo.html\">\nトリポリ戦争勃発</a>　（～12/10/18）"
       }
      ]
     }
@@ -439,7 +458,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1921.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1921.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -53,7 +62,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1919/06/10　　<a href\"..=\"\" 19.html\"=\"\">\n皇太子婚約</a>"
+       "html": "1919/06/10　　<a href=\"../1919/06konya.html\">\n皇太子婚約</a>"
       }
      ]
     },
@@ -113,25 +122,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -145,9 +138,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>東宮御学問所を修了された皇太子<a href=\"../p/stenno.html\">裕仁親王</a>は３月３日、御召艦「香取」、供奉艦「鹿島」を伴い横浜港を出航、\n半年間の欧州歴訪の途につかれた。</div>\n<div><a href=\"../p/ttenno.html\">大正天皇</a>が病弱であったため、宮中には強い反対があったが、<a href=\"../p/htakasi.html\">原首相</a>らの後押しで訪欧が実行された。</div>\n<div><a href=\"../p/stenno.html\">裕仁親王</a>は英、仏、ベルギー、蘭、伊５か国をご視察、９月３日に帰国された。\nバッキンガム宮殿での歓迎パーティーで華やかな雰囲気にひたり、スコットランドのアリール公爵の居城で\n公爵夫妻が農民らと和気あいあいとパーティーを催す光景を見られた。\nパリでは、フォンテーヌブローの森を自動車で走り、地下鉄に乗って買い物を楽しまれるなど、\nそれまであじわってことのなかった「人」としての自由を味わわれた。\n思い出深く有意義なご旅行になったようで、のちに「いまもあのときの経験が役立ち、勉強になって、\n今日の私の行動があると思います」と語られた。</div>\n<div>外遊中に<a href=\"../p/ttenno.html\">大正天皇</a>の病状は悪化、11月25日、<a href=\"../p/stenno.html\">裕仁親王</a>は<a href=\"../1921/11sessy.html\">摂政に就任</a>し、<a href=\"../p/ttenno.html\">大正天皇</a>の代わりにご公務につかれた。</div>\n<div class=\"txr\"><a href=\"../text/ys_20sei.html\">読売新聞社 「読む年表・20世紀と昭和天皇」</a>\n　Ｐ．２９</div>\n"
   },
   {
    "type": "raw",
@@ -155,23 +148,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>東宮御学問所を修了された皇太子<a href=\"../p/stenno.html\">裕仁親王</a>は３月３日、御召艦「香取」、供奉艦「鹿島」を伴い横浜港を出航、\n半年間の欧州歴訪の途につかれた。</div>\n<div><a href=\"../p/ttenno.html\">大正天皇</a>が病弱であったため、宮中には強い反対があったが、<a href=\"../p/htakasi.html\">原首相</a>らの後押しで訪欧が実行された。</div>\n<div><a href=\"../p/stenno.html\">裕仁親王</a>は英、仏、ベルギー、蘭、伊５か国をご視察、９月３日に帰国された。\nバッキンガム宮殿での歓迎パーティーで華やかな雰囲気にひたり、スコットランドのアリール公爵の居城で\n公爵夫妻が農民らと和気あいあいとパーティーを催す光景を見られた。\nパリでは、フォンテーヌブローの森を自動車で走り、地下鉄に乗って買い物を楽しまれるなど、\nそれまであじわってことのなかった「人」としての自由を味わわれた。\n思い出深く有意義なご旅行になったようで、のちに「いまもあのときの経験が役立ち、勉強になって、\n今日の私の行動があると思います」と語られた。</div>\n<div>外遊中に<a href=\"../p/ttenno.html\">大正天皇</a>の病状は悪化、11月25日、<a href=\"../p/stenno.html\">裕仁親王</a>は<a href=\"../1921/11sessy.html\">摂政に就任</a>し、<a href=\"../p/ttenno.html\">大正天皇</a>の代わりにご公務につかれた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ys_20sei.html\">読売新聞社 「読む年表・20世紀と昭和天皇」</a>\n　Ｐ．２９</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "tx"
-   },
-   "html": "\n<div>二月二十六日午前七時、秘密結社抹殺社のメンバー六人は外遊中止を叫んで、麻布飯倉片町七番地の西園寺邸に乱入した。\n寝ていた八郎は護身用仕込杖を揮って一味と相対し、「殺されても延期は出来ないのだ」と叫んだ。\nこの時彼は誤って自ら左の小指を傷つけ、また自分の眼鏡をこわして右まぶたに軽傷を負った。\n一味に追われた八郎は隣りの相良子爵邸に逃げこんだ。\n一味は室内を破壊した後、麻布鳥居坂署に捕えられた。\n八郎は小指に繃帯した後、警視庁を訪れ、午後八時宮内庁に登庁した。</div>\n<div>三月三日盛大な見送りの内に皇太子<a href=\"../p/stenno.html\">裕仁親王</a>を乗せた軍艦香取は横浜港を出港した。\n同行は後見役の<a href=\"../p/kkotohit.html\">閑院宮載仁親王</a>、供奉珍田捨巳伯、そして小指の繃帯のとれた西園寺八郎もその中に入っていた。</div>\n<div>香取には供奉艦として同型艦の鹿島が同行し、両艦の半年間の費用が四百四十二万円と議会で採決され、\nその他の費用は外務省及び大公使館の経費二百八十万円、外遊中の旅費（慈善団体への寄付、レセプション費、ホテル代、\n馬車運賃、チップ、ショッピング等の宮廷費）二百万円、総計一千万円に近いといわれた。\nその中には各国で君主、高官に贈呈する勲章（大勲位菊花大授章から勲八等まで）五百個、美術品三百個も入っていた。\n時価として現在（昭和五十六年）の二百億円以上に上る。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm_saion.html\">豊田穣 「西園寺公望」</a>\n　下巻　Ｐ．１５５</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>二月二十六日午前七時、秘密結社抹殺社のメンバー六人は外遊中止を叫んで、麻布飯倉片町七番地の<a href=\"../p/skinmoci.html\">西園寺</a>邸に乱入した。\n寝ていた八郎は護身用仕込杖を揮って一味と相対し、「殺されても延期は出来ないのだ」と叫んだ。\nこの時彼は誤って自ら左の小指を傷つけ、また自分の眼鏡をこわして右まぶたに軽傷を負った。\n一味に追われた八郎は隣りの相良子爵邸に逃げこんだ。\n一味は室内を破壊した後、麻布鳥居坂署に捕えられた。\n八郎は小指に繃帯した後、警視庁を訪れ、午後八時宮内庁に登庁した。</div>\n<div>三月三日盛大な見送りの内に皇太子<a href=\"../p/stenno.html\">裕仁親王</a>を乗せた軍艦香取は横浜港を出港した。\n同行は後見役の<a href=\"../p/kkotohit.html\">閑院宮載仁親王</a>、供奉珍田捨巳伯、そして小指の繃帯のとれた西園寺八郎もその中に入っていた。</div>\n<div>香取には供奉艦として同型艦の鹿島が同行し、両艦の半年間の費用が四百四十二万円と議会で採決され、\nその他の費用は外務省及び大公使館の経費二百八十万円、外遊中の旅費（慈善団体への寄付、レセプション費、ホテル代、\n馬車運賃、チップ、ショッピング等の宮廷費）二百万円、総計一千万円に近いといわれた。\nその中には各国で君主、高官に贈呈する勲章（大勲位菊花大授章から勲八等まで）五百個、美術品三百個も入っていた。\n時価として現在（昭和五十六年）の二百億円以上に上る。</div>\n<div class=\"txr\"><a href=\"../text/tm2saion.html\">豊田穣 「西園寺公望（下）」</a>\n　Ｐ．１５５<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E5%259C%2592%25E5%25AF%25BA%25E5%2585%25AC%25E6%259C%259B%25E2%2580%2595%25E6%259C%2580%25E5%25BE%258C%25E3%2581%25AE%25E5%2585%2583%25E8%2580%2581%2520%2528%25E4%25B8%258B%25E5%25B7%25BB%2529%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -179,7 +156,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

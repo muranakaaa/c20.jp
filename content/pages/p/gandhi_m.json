@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -40,7 +49,7 @@
    "attrs": {
     "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href=\"02k.html\">一覧　（カ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"02k.html\">一覧　（カ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E3%2583%259E%25E3%2583%258F%25E3%2583%2588%25E3%2583%259E%25E3%2583%25BB%25E3%2582%25AC%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%25BC\" target=\"_blank\">本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
   },
   {
    "type": "raw",
@@ -52,27 +61,11 @@
   },
   {
    "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
    "tag": "table",
    "attrs": {
     "class": "off"
    },
    "html": "<tbody><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr></tbody>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "timeline",
@@ -273,9 +266,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>ガンディーは、第一次世界大戦後、インド人の反英闘争においてずば抜けた指導者であり、「偉大な魂（マハトマ）」と呼ばれた。\nそもそも、インド人の民族自覚を喚起するため、一八八五年に組織されたインド国民会議は、<a href=\"../1914/07taise.html\">大戦勃発</a>のころまでは、\nイギリスの立場を脅かすような存在ではなかった。\nそれは基本的に中産階級の組織なり運動なりであり、農民大衆からはわずかの支持を得るにとどまっていた。\nガンディーの偉大な貢献は、みずから農村にとびこんで農民と交わり、農民をインド独立のための闘争に引きいれた点にある。\nロンドンで教育を受けた弁護士ではあったが、彼は本来的にインド的で非西欧的、いやむしろ反西欧的でさえあった。</div>\n<div class=\"txr\"><a href=\"../text/ia_gaise.html\">今津晃 「概説現代史」</a>\n　Ｐ．５４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%25A6%2582%25E8%25AA%25AC%25E7%258F%25BE%25E4%25BB%25A3%25E5%258F%25B2%2520%2520%2520%2520%25E5%2589%25B5%25E5%2585%2583%25E9%2581%25B8%25E6%259B%25B8\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -283,39 +276,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>ガンディーは、第一次世界大戦後、インド人の反英闘争においてずば抜けた指導者であり、「偉大な魂（マハトマ）」と呼ばれた。\nそもそも、インド人の民族自覚を喚起するため、一八八五年に組織されたインド国民会議は、<a href=\"../1914/07taise.html\">大戦勃発</a>のころまでは、\nイギリスの立場を脅かすような存在ではなかった。\nそれは基本的に中産階級の組織なり運動なりであり、農民大衆からはわずかの支持を得るにとどまっていた。\nガンディーの偉大な貢献は、みずから農村にとびこんで農民と交わり、農民をインド独立のための闘争に引きいれた点にある。\nロンドンで教育を受けた弁護士ではあったが、彼は本来的にインド的で非西欧的、いやむしろ反西欧的でさえあった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ia_gaise.html\">今津晃 「概説現代史」</a>\n　Ｐ．５４</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "tx"
-   },
-   "html": "\n<div>ガンディーは非暴力の信条からして、日本やナチス・ドイツの帝国主義的侵略をきびしく批判していた。\n一九四二（昭和一七）年七月、ガンディーは、「すべての日本人に」と題する手紙を発表した。\nそのなかの一節にいう<span class=\"bar\">―</span>―</div>\n<div>「私は、あなたがたについて楽しいたくさんの思い出を持っている。\n楽しい思い出を持っていればこそ、かえって私は、あなたがたが中国にくわえた理由のない攻撃、\n偉大なそして古い中国を無慈悲に荒らしてしまったことを思うたびに、ひじょうに悲しく思う。\nあなたがたが世界の強国と肩を並べたいというのは、りっぱな野心である。\nしかし中国を侵略したり、<a href=\"../1940/09jdi_d.html\">ドイツやイタリアと同盟</a>することは、その野心の度を越したもので、正当なものではない。・・・・・・</div>\n<div>もしもあなたがたが、イギリスがインドから退却したらインドに入ろうという考えを実行するならば、\nわがインドは、全力をあげてかならずあなたがたに抵抗する。・・・・・・</div>\n<div>われわれは、あなたがたを、最後には道徳的崩壊に終わるにちがいない道、\nいや人間をロボットにしてしまう道から正しい道へ引きもどしたい・・・・・・。」</div>\n<div>こうして日本の新秩序論に対してきびしい批判をしめした</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/mo_sek15.html\">村瀬興雄 「世界の歴史（15）」</a>\n　Ｐ．４６６</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span>ガンディーは非暴力の信条からして、日本やナチス・ドイツの帝国主義的侵略をきびしく批判していた。\n一九四二（昭和一七）年七月、ガンディーは、「すべての日本人に」と題する手紙を発表した。\nそのなかの一節にいう<span class=\"bar\">―</span>―</div>\n<div>「私は、あなたがたについて楽しいたくさんの思い出を持っている。\n楽しい思い出を持っていればこそ、かえって私は、あなたがたが中国にくわえた理由のない攻撃、\n偉大なそして古い中国を無慈悲に荒らしてしまったことを思うたびに、ひじょうに悲しく思う。\nあなたがたが世界の強国と肩を並べたいというのは、りっぱな野心である。\nしかし中国を侵略したり、<a href=\"../1940/09jdi_d.html\">ドイツやイタリアと同盟</a>することは、その野心の度を越したもので、正当なものではない。・・・・・・</div>\n<div>もしもあなたがたが、イギリスがインドから退却したらインドに入ろうという考えを実行するならば、\nわがインドは、全力をあげてかならずあなたがたに抵抗する。・・・・・・</div>\n<div>われわれは、あなたがたを、最後には道徳的崩壊に終わるにちがいない道、\nいや人間をロボットにしてしまう道から正しい道へ引きもどしたい・・・・・・。」</div>\n<div>こうして日本の新秩序論に対してきびしい批判をしめした</div>\n<div class=\"txr\"><a href=\"../text/mo_sek15.html\">村瀬興雄 「世界の歴史（15）」</a>\n　Ｐ．４６６<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4122002281%2Fqid%3D1146490541%2Fsr%3D1-3%2Fref%3Dsr_1_10_3\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -323,7 +284,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

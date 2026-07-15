@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1938.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1938.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -233,25 +242,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "pt"
    },
-   "html": "\n<div class=\"pt_h\">～　首脳たちの思惑　～</div>\n<div class=\"i2\"><a href=\"../p/hitler_a.html\">ヒトラー（独）総統</a>　：強気のかけひきで、ズデーテンはいただきだ。</div>\n<div class=\"i2\"><a href=\"../p/chambe_n.html\">チェンバレン（英）首相</a>　：とにかく平和だ。そのためには譲歩もやむをえない。</div>\n<div class=\"i2\"><a href=\"../p/daladi_e.html\">ダラディエ（仏）首相</a>　：まず戦争回避だ。イギリスと歩調をあわせよう。</div>\n<div class=\"i2\"><a href=\"../p/mussol_b.html\">ムッソリーニ（伊）首相</a>　：この会談をうまくまとめて、わが国のステータスをあげよう。</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+   "html": "\n<div class=\"pt_h\">～　首脳たちの思惑　～</div>\n<div class=\"i3\"><a href=\"../p/hitler_a.html\">ヒトラー（独）総統</a>　：強気のかけひきで、ズデーテンはいただきだ。</div>\n<div class=\"i3\"><a href=\"../p/chambe_n.html\">チェンバレン（英）首相</a>　：とにかく平和だ。そのためには譲歩もやむをえない。</div>\n<div class=\"i3\"><a href=\"../p/daladi_e.html\">ダラディエ（仏）首相</a>　：まず戦争回避だ。イギリスと歩調をあわせよう。</div>\n<div class=\"i3\"><a href=\"../p/mussol_b.html\">ムッソリーニ</a>（伊）首相　：この会談をうまくまとめて、わが国のステータスをあげよう。</div>\n"
   },
   {
    "type": "raw",
@@ -265,9 +258,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>ベルヒテスガーデンでの会合において、<a href=\"../p/hitler_a.html\">ヒットラー</a>は民族自決を楯にスデーテンの併合を要求し、\nこの目的を達成するためには「世界戦争も辞さない」旨をほのめかした。\n<a href=\"../p/chambe_n.html\">チェンバレン</a>は<a href=\"../p/hitler_a.html\">ヒットラー</a>に敗け、帰国後、まず自国閣僚を、それからフランス政府を納得させた。\nついでイギリスとフランス両国政府はチェコ政府に、ドイツの要求を呑むよう勧告した。\nチェコ政府がこれを蹴ったとき、両国政府は、チェコを見捨てるという威嚇など、あらゆる手を使って圧力をかけてきた。\n九月二十一日、チェコは新国境をイギリスとフランスとが保障するという条件で、ついに屈服した。</div>\n<div>翌九月二十二日、<a href=\"../p/chambe_n.html\">チェンバレン</a>はボン南方の都市、ゴーデスベルクに飛び、<a href=\"../p/hitler_a.html\">ヒットラー</a>と領土割譲についての手続きだけを\n打ち合わせようとした。ところが、<a href=\"../p/hitler_a.html\">ヒットラー</a>はさらに新しい要求をつきつけてきた。\nチェコは人民投票をまつことなく、また軍事的・経済的施設を撤去ないし破壊することなく、\n圧倒的にドイツ人の多い地区を即時放棄せよ、というのである。\nそれのみか<a href=\"../p/hitler_a.html\">ヒットラー</a>は、ポーランドおよびハンガリーによるチェコへの領土的要求をも支持したのであった。</div>\n<div class=\"txr\"><a href=\"../text/ia_gaise.html\">今津晃 「概説現代史」</a>\n　Ｐ．１９６<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%25A6%2582%25E8%25AA%25AC%25E7%258F%25BE%25E4%25BB%25A3%25E5%258F%25B2%2520%2520%2520%2520%25E5%2589%25B5%25E5%2585%2583%25E9%2581%25B8%25E6%259B%25B8\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -275,15 +268,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>ベルヒテスガーデンでの会合において、<a href=\"../p/hitler_a.html\">ヒットラー</a>は民族自決を楯にスデーテンの併合を要求し、\nこの目的を達成するためには「世界戦争も辞さない」旨をほのめかした。\n<a href=\"../p/chambe_n.html\">チェンバレン</a>は<a href=\"../p/hitler_a.html\">ヒットラー</a>に敗け、帰国後、まず自国閣僚を、それからフランス政府を納得させた。\nついでイギリスとフランス両国政府はチェコ政府に、ドイツの要求を呑むよう勧告した。\nチェコ政府がこれを蹴ったとき、両国政府は、チェコを見捨てるという威嚇など、あらゆる手を使って圧力をかけてきた。\n九月二十一日、チェコは新国境をイギリスとフランスとが保障するという条件で、ついに屈服した。</div>\n<div>翌九月二十二日、<a href=\"../p/chambe_n.html\">チェンバレン</a>はボン南方の都市、ゴーデスベルクに飛び、<a href=\"../p/hitler_a.html\">ヒットラー</a>と領土割譲についての手続きだけを\n打ち合わせようとした。ところが、<a href=\"../p/hitler_a.html\">ヒットラー</a>はさらに新しい要求をつきつけてきた。\nチェコは人民投票をまつことなく、また軍事的・経済的施設を撤去ないし破壊することなく、\n圧倒的にドイツ人の多い地区を即時放棄せよ、というのである。\nそれのみか<a href=\"../p/hitler_a.html\">ヒットラー</a>は、ポーランドおよびハンガリーによるチェコへの領土的要求をも支持したのであった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ia_gaise.html\">今津晃 「概説現代史」</a>\n　Ｐ．１９６</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>九月十九日午後二時、チェコの首都プラハに駐在する英公使Ｂ・ニュートンは、仏公使Ｖ・ド・ラクロワと同道して\n大統領<a href=\"../p/benes_e.html\">Ｅ・ベネシュ</a>を訪ね、英仏共同勧告書を手交した。</div>\n<div>内容は、チェコがズデーテン地方を割譲しなければヨーロッパの平和もチェコの国益も維持できなくなる、\nとの主意で、人民投票による決着も混乱を招きかねないので「直接割譲」をすすめる、というのである。</div>\n<div>そのごのチェコの安全保障には協力する、という項目もあるが、\nそれには「軍事的性格の相互義務を含む現存条約を放棄する」ことが条件になっていた。</div>\n<div>そして、二十二日に英独首脳会談が再開されるので至急に回答してほしい、という。</div>\n<div>昼食後の安楽な気分で応接していた大統領<a href=\"../p/benes_e.html\">ベネシュ</a>は、一瞬に顔色が蒼ざめ、胃を押さえた。\n急激な緊張のために胃の活動が不良となり、痛みにおそわれたらしい。</div>\n<div>チェコは、　【中略】　第一次大戦の産物としてオーストリアから派生した国である。\nその誕生の産婆役をつとめたのは英仏であり、チェコの安全についても、ソ連との条約はフランス、\nフランスとの条約は英国の協力が条件になっているように、両国が保障する体制になっている。</div>\n<div>それなのに、ドイツとの戦争が嫌だからといって、もともと関係がないドイツに領土を割譲せよと迫り、\n今後は軍事同盟も結ばない、という。</div>\n<div>ソ連も単独ではチェコ防衛に立ち上らない以上、つまりはチェコの保護から手を引くというにひとしい。</div>\n<div>自分たちが作ってやった国だから自分たちでどうにでも処理できる、と考えてでもいるのだろうか。</div>\n<div>「要するに、わが国は見捨てられたわけだ」</div>\n<div>大統領<a href=\"../p/benes_e.html\">ベネシュ</a>は、痛む胃をさすりながら、割譲勧告は承知できない、一部の割譲は国家全体が併呑される一歩にすぎない、\nと二人の公使に強調した。</div>\n<div class=\"txr\"><a href=\"../text/kn2hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（２）」</a>\n　Ｐ．２１８<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F416714137X%2Fqid%3D1147087396%2Fsr%3D1-16%2Fref%3Dsr_1_2_16\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -291,15 +276,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>九月十九日午後二時、チェコの首都プラハに駐在する英公使Ｂ・ニュートンは、仏公使Ｖ・ド・ラクロワと同道して\n大統領<a href=\"../p/benes_e.html\">Ｅ・ベネシュ</a>を訪ね、英仏共同勧告書を手交した。</div>\n<div>内容は、チェコがズデーテン地方を割譲しなければヨーロッパの平和もチェコの国益も維持できなくなる、\nとの主意で、人民投票による決着も混乱を招きかねないので「直接割譲」をすすめる、というのである。</div>\n<div>そのごのチェコの安全保障には協力する、という項目もあるが、\nそれには「軍事的性格の相互義務を含む現存条約を放棄する」ことが条件になっていた。</div>\n<div>そして、二十二日に英独首脳会談が再開されるので至急に回答してほしい、という。</div>\n<div>昼食後の安楽な気分で応接していた大統領<a href=\"../p/benes_e.html\">ベネシュ</a>は、一瞬に顔色が蒼ざめ、胃を押さえた。\n急激な緊張のために胃の活動が不良となり、痛みにおそわれたらしい。</div>\n<div>チェコは、　【中略】　第一次大戦の産物としてオーストリアから派生した国である。\nその誕生の産婆役をつとめたのは英仏であり、チェコの安全についても、ソ連との条約はフランス、\nフランスとの条約は英国の協力が条件になっているように、両国が保障する体制になっている。</div>\n<div>それなのに、ドイツとの戦争が嫌だからといって、もともと関係がないドイツに領土を割譲せよと迫り、\n今後は軍事同盟も結ばない、という。</div>\n<div>ソ連も単独ではチェコ防衛に立ち上らない以上、つまりはチェコの保護から手を引くというにひとしい。</div>\n<div>自分たちが作ってやった国だから自分たちでどうにでも処理できる、と考えてでもいるのだろうか。</div>\n<div>「要するに、わが国は見捨てられたわけだ」</div>\n<div>大統領<a href=\"../p/benes_e.html\">ベネシュ</a>は、痛む胃をさすりながら、割譲勧告は承知できない、一部の割譲は国家全体が併呑される一歩にすぎない、\nと二人の公使に強調した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kn2hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（２）」</a>\n　Ｐ．２１８</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s6\">▽</a><a href=\"#s5\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/hitler_a.html\">ヒトラー</a>は、イタリヤ大使アトリコを通じて<a href=\"../p/mussol_b.html\">ムソリーニ首相</a>と連絡して、翌日ミュンヘンで\n「チェコ抜き四国会議」を開催することにして、午後二時少し前、英仏伊三国首脳に招請電を送った。</div>\n<div>英首相<a href=\"../p/chambe_n.html\">チェンバレン</a>がその電報を受理したのは、午後四時十五分、ちょうど議会で対ドイツ交渉の経緯を説明中であった。</div>\n<div><a href=\"../p/chambe_n.html\">首相</a>がニュースを披露すると、「神よ、<a href=\"../p/chambe_n.html\">首相</a>を讃えよ」という叫びを合図に議場は歓声にどよめき、\n貴賓席にいた皇后メリーは首相夫人の手をとってともに嬉し泣いた。</div>\n<div>「過般来、致国（チェコ）問題は紛糾を重ねありしが、結局は弱国の犠牲によりて大国が戦争を免れたり」</div>\n<div>とは、日本の外相<a href=\"../p/ukazusig.html\">宇垣一成</a>がいち早く下した“判決”であるが、\nその種の冷静な観察をする余裕を持つ者は当時の「大国」には稀少であった。</div>\n<div>ロンドン、パリ、そしてニューヨークでも、ひたすらに戦争回避を喜ぶ市民が街頭で踊った。</div>\n<div class=\"txr\"><a href=\"../text/kn2hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（２）」</a>\n　Ｐ．２３９<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F416714137X%2Fqid%3D1147087396%2Fsr%3D1-16%2Fref%3Dsr_1_2_16\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -307,15 +284,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div><a href=\"../p/hitler_a.html\">ヒトラー</a>は、イタリヤ大使アトリコを通じて<a href=\"../p/mussol_b.html\">ムソリーニ首相</a>と連絡して、翌日ミュンヘンで\n「チェコ抜き四国会議」を開催することにして、午後二時少し前、英仏伊三国首脳に招請電を送った。</div>\n<div>英首相<a href=\"../p/chambe_n.html\">チェンバレン</a>がその電報を受理したのは、午後四時十五分、ちょうど議会で対ドイツ交渉の経緯を説明中であった。</div>\n<div><a href=\"../p/chambe_n.html\">首相</a>がニュースを披露すると、「神よ、<a href=\"../p/chambe_n.html\">首相</a>を讃えよ」という叫びを合図に議場は歓声にどよめき、\n貴賓席にいた皇后メリーは首相夫人の手をとってともに嬉し泣いた。</div>\n<div>「過般来、致国（チェコ）問題は紛糾を重ねありしが、結局は弱国の犠牲によりて大国が戦争を免れたり」</div>\n<div>とは、日本の外相<a href=\"../p/ukazusig.html\">宇垣一成</a>がいち早く下した“判決”であるが、\nその種の冷静な観察をする余裕を持つ者は当時の「大国」には稀少であった。</div>\n<div>ロンドン、パリ、そしてニューヨークでも、ひたすらに戦争回避を喜ぶ市民が街頭で踊った。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kn2hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（２）」</a>\n　Ｐ．２３９</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s6\"></a>\n<a href=\"#s6\">＝</a><a href=\"#s5\">△</a><a href=\"#h\">◎</a><a href=\"#s6\">▽</a><a href=\"#s6\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>午後一時四十五分に開始された会談は、およそ首脳会談にふさわしくない「乱雑な雰囲気」がつづいた。</div>\n<div>議題も議事次第も議長も、会議の進行に必要な手続きがなにひとつ定められていなかったからである。</div>\n<div>「今日じゅうに妥結しよう。\nわずか二十四時間の遅延も新たな不安と不振を招きかねぬ」</div>\n<div><a href=\"../p/mussol_b.html\">ムソリーニ首相</a>は、今回ばかりは「拙速も正義」だと強調したが、なにせ会議に秩序がないのだから、\n各首脳はわれ勝ちに発言し、通訳Ｐ・シュミットは、待って下さい、まず私に翻訳させて下さい、\nとうるさい生徒に往生する小学校教師なみに汗だくになった。</div>\n<div><a href=\"../p/mussol_b.html\">ムソリーニ首相</a>は、しかし、そうなると、かえって楽しくなったらしい。</div>\n<div>英仏独三首脳はそれぞれ自国語しか話せないが、<a href=\"../p/mussol_b.html\">ムソリーニ首相</a>は、いずれも下手でイタリヤなまりがひどかったが、\n英語もフランス語もドイツ語もしゃべれる。</div>\n<div>そこで、いつの間にか通訳シュミットを押しのける形で三国首脳の言葉を仲介し、自然に会議の主宰者になった。</div>\n<div>「みんな私を見ておった。まことに愉快な日だった」</div>\n<div><a href=\"../p/mussol_b.html\">ムソリーニ首相</a>は、会談後、首相の通訳に配置されていたＳＳ（親衛）隊大尉Ｅ・ドルマンにそう述懐している</div>\n<div class=\"txr\"><a href=\"../text/kn2hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（２）」</a>\n　Ｐ．２４１<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F416714137X%2Fqid%3D1147087396%2Fsr%3D1-16%2Fref%3Dsr_1_2_16\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -323,7 +292,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>午後一時四十五分に開始された会談は、およそ首脳会談にふさわしくない「乱雑な雰囲気」がつづいた。</div>\n<div>議題も議事次第も議長も、会議の進行に必要な手続きがなにひとつ定められていなかったからである。</div>\n<div>「今日じゅうに妥結しよう。\nわずか二十四時間の遅延も新たな不安と不振を招きかねぬ」</div>\n<div><a href=\"../p/mussol_b.html\">ムソリーニ首相</a>は、今回ばかりは「拙速も正義」だと強調したが、なにせ会議に秩序がないのだから、\n各首脳はわれ勝ちに発言し、通訳Ｐ・シュミットは、待って下さい、まず私に翻訳させて下さい、\nとうるさい生徒に往生する小学校教師なみに汗だくになった。</div>\n<div><a href=\"../p/mussol_b.html\">ムソリーニ首相</a>は、しかし、そうなると、かえって楽しくなったらしい。</div>\n<div>英仏独三首脳はそれぞれ自国語しか話せないが、<a href=\"../p/mussol_b.html\">ムソリーニ首相</a>は、いずれも下手でイタリヤなまりがひどかったが、\n英語もフランス語もドイツ語もしゃべれる。</div>\n<div>そこで、いつの間にか通訳シュミットを押しのける形で三国首脳の言葉を仲介し、自然に会議の主宰者になった。</div>\n<div>「みんな私を見ておった。まことに愉快な日だった」</div>\n<div><a href=\"../p/mussol_b.html\">ムソリーニ首相</a>は、会談後、首相の通訳に配置されていたＳＳ（親衛）隊大尉Ｅ・ドルマンにそう述懐している</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kn2hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（２）」</a>\n　Ｐ．２４１</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>九月二十九日、木曜日。<a href=\"../p/chambe_n.html\">チェンバレン</a>は、イギリス政府の全閣僚の見送りをうけてミュンヘンにむかう機上のひととなった。\n二十日間にもみたないあいだに三度も、大英帝国の首相がドイツの独裁者のもとへおもむこうとしているのだ。\nすべては、なんとしてでもヨーロッパの平和を救いたいという願望からにほかならない。</div>\n<div>ミュンヘン会談は、「総統の家」とよばれる旧王宮の構内に新築された建物のなかでおこなわれた。\n出席者は、イギリスの<a href=\"../p/chambe_n.html\">チェンバレン</a>、フランスの<a href=\"../p/daladi_e.html\">ダラディエ</a>、ドイツの<a href=\"../p/hitler_a.html\">ヒトラー</a>、イタリアの<a href=\"../p/mussol_b.html\">ムッソリーニ</a>の各首脳であった。\n特徴的なことは、これからチェコスロヴァキアの領土問題が議されようとしていたのに、\n肝心のこの国の代表が会議に出席をみとめられなかったことである。\nミュンヘンにやってきたチェコスロヴァキア政府の代表は、会議のあいだじゅう別の部屋で待たされ、なんの発言も許させなかったのである。</div>\n<div>会議は、<a href=\"../p/mussol_b.html\">ムッソリーニ</a>がたずさえてきた提案<span class=\"bar\">―</span>―実は、\nドイツの<a href=\"../p/goring_h.html\">ゲーリング</a>らによって前日に作成されたもの<span class=\"bar\">―</span>―を中心にすすめられた。\n英仏の首脳は、最初から<a href=\"../p/hitler_a.html\">ヒトラー</a>に譲歩するつもりでミュンヘンにやってきたのだから、\n大きな点では意見のくいちがいはおこらなかった。\n二十九日の夜いっぱいをついやして討議がつづけられたのち、翌三十日の午前一時すぎになって妥協に達し、\nここにいわゆるミュンヘン協定が調印された。\nその内容は、ゴーデスベルクで<a href=\"../p/hitler_a.html\">ヒトラー</a>がもちだした要求をほぼそのままみとめたものだった。\nすなわち、ドイツ軍は十月一日からズデーテンラントの進駐を開始し、十月十日までにこの地域の占領を完了するものときめられた。\nまた、ポーランドやハンガリーのチェコスロヴァキアに対する領土要求は、別途に解決さるべきものとされた。</div>\n<div>このミュンヘン会談の結果は、英仏を通じてチェコスロヴァキア政府に有無をいわさぬかたちでおしつけられた。</div>\n<div>「わたしは、いまでもあの運命の夜のことを思いだす。\n会合のあと、『総統の家』のひろい階段を気どっておりていった<a href=\"../p/hitler_a.html\">ヒトラー</a>の目の勝利のかがやき、\n特別製の軍服に身をつつんだ<a href=\"../p/mussol_b.html\">ムッソリーニ</a>の得意げなおももち。\nレギナ・パレス・ホテルにもどってゆく<a href=\"../p/chambe_n.html\">チェンバレン</a>のあくびと、そのここちよく眠たげな様子」</div>\n<div>ミュンヘン会談の取材にあたったアメリカのジャーナリストのシャイラーは、こんなふうに回想している。</div>\n<div>なお、三十日の朝はやく、<a href=\"../p/chambe_n.html\">チェンバレン</a>は、もう一度<a href=\"../p/hitler_a.html\">ヒトラー</a>と二人だけで会談した。\nそして、つぎのような文章をふくむ共同声明に署名した。</div>\n<div>「われわれは、昨夜調印された協定（つまりミュンヘン協定）と英独海軍協定とを、\n相互に決して戦争をしないという（英独）両国民の願望の象徴とみなす」</div>\n<div class=\"txr\"><a href=\"../text/nn2hitle.html\">野田宣雄 「ヒトラーの時代（下）」</a>\n　Ｐ．２５<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E3%2583%2592%25E3%2583%2588%25E3%2583%25A9%25E3%2583%25BC%25E3%2581%25AE%25E6%2599%2582%25E4%25BB%25A3%2520%25E4%25B8%258B%25E3%2580%2580%2520%25E8%25AC%259B%25E8%25AB%2587%25E7%25A4%25BE%25E5%25AD%25A6%25E8%25A1%2593%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -331,7 +300,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

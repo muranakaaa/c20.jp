@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1940.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href=\"kono2_1~.html\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1940.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href=\"kono2_1~.html\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -223,25 +232,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -255,17 +248,17 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "<span class=\"m_y\">語録</span>\n昨夜<a href=\"../p/kfumimar.html\">近衛</a>の放送を聴いたが、声はいいし非常によかった。\nしかし内容はパラドックスに充ちていて、自分には少しもわからなかった。うまくやってくれればいいが。\n<div class=\"r\"><a href=\"../p/skinmoci.html\">西園寺公望</a>　（元老）</div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>昭和一五年七月二二日、<a href=\"../p/kfumimar.html\">近衛文麿</a>は三年前につづいて二度目の内閣を組織した。\nこの日午後七時に参内した<a href=\"../p/kfumimar.html\">近衛</a>は閣員名簿を<a href=\"../p/stenno.html\">天皇</a>に捧呈し、八時には宮中で<a href=\"../p/kfumimar.html\">近衛首相</a>の親任式、\n九時に閣僚の親任式が行なわれたのであった。\n翌二三日夕、<a href=\"../p/kfumimar.html\">近衛</a>は「大命を拝して」と題するラジオ放送を行なった。\nその中で彼は、世界情勢の一変に対応して国内体制の一新を図らねばならぬとし、とりわけ、\n政党を「立党の趣旨において、自由主義をとり、民主主義をとり、或は社会主義をとって、\nその根本の世界観人生観が、既に国体と相容れ」ず、\nまたその目的が政権争奪にあることは「立法府における大政翼賛の道では断じてない」として非難した。\nそのほか、日本独自の立場で外交をすすめること、そのためにはまた、日本経済を外国依存から脱却せしめて、\n満州・中国との提携、南洋方面への発展を要すること、国民生活は確保するが、\nしかし増産と節約が不可欠なこと、個人の創意を重んずるが、種々の統制は不可避だということ、\n教育の刷新が根本だということなどをのべた。</div>\n<div class=\"txr\"><a href=\"../text/it_konoe.html\">伊藤隆 「近衛新体制」</a>\n　Ｐ．３<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25BF%2591%25E8%25A1%259B%25E6%2596%25B0%25E4%25BD%2593%25E5%2588%25B6%25E2%2580%2595%25E5%25A4%25A7%25E6%2594%25BF%25E7%25BF%25BC%25E8%25B3%259B%25E4%25BC%259A%25E3%2581%25B8%25E3%2581%25AE%25E9%2581%2593%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -273,7 +266,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

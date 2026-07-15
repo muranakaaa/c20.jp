@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1937.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href=\"haya_1~.html\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1937.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href=\"haya_1~.html\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -33,7 +42,7 @@
   {
    "type": "headline",
    "cells": [
-    "素直さを買われてのご指名。　そうとも知らず「<a href=\"../p/hsenjuro.html\">越境将軍</a>」やる気まんまんの首相就任。"
+    "素直さを買われてのご指名。　そうとも知らず<a href=\"../p/hsenjuro.html\">「越境将軍」</a>やる気まんまんの首相就任。"
    ]
   },
   {
@@ -163,25 +172,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -195,17 +188,17 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>昭和十二年二月、陸軍内部の満州派の将校が林銑十郎内閣を成立させていた。\nこの中心は、参謀本部第一部長<a href=\"../p/ikanji.html\">石原莞爾</a>で、彼はかつての無産政党議員浅原健三を動かし、\n政界上層部に林内閣を打診し、それを最終的に元老<a href=\"../p/skinmoci.html\">西園寺公望</a>に納得させた。</div>\n<div class=\"txr\"><a href=\"../text/hm1tojoh.html\">保阪正康 「東條英機と天皇の時代（上）」</a>\n　Ｐ．１５２<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%259D%25B1%25E6%25A2%259D%25E8%258B%25B1%25E6%25A9%259F%25E3%2581%25A8%25E5%25A4%25A9%25E7%259A%2587%25E3%2581%25AE%25E6%2599%2582%25E4%25BB%25A3\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/hsenjuro.html\">林</a>の組閣は少くとも当初において<a href=\"../p/ikanji.html\">石原</a>の路線の下にすすんでいた。\nそしてその組閣の眼目は、陸相に<a href=\"../p/ikanji.html\">石原</a>とともに満州事変の立役者であった<a href=\"../p/iseisiro.html\">板垣征四郎</a>、海相に<a href=\"../p/snobumas.html\">末次信正</a>を得ようとするところにあった。\nしかしこうした<a href=\"../p/ikanji.html\">石原</a>の動きは、すでに満州時代から対立のはじまっていた<a href=\"../p/thideki.html\">東条英機</a>を含む軍中央部の一部から危懼の念をもってみられており、\n<a href=\"../p/hsenjuro.html\">林</a>はやがて<a href=\"../p/ikanji.html\">石原</a>グループをふりすてた。\n<a href=\"../p/hsenjuro.html\">林</a>は<a href=\"../p/iseisiro.html\">板垣</a>をあきらめ、十河らは憲兵の手で組閣本部から追放され、結局<a href=\"../p/ikanji.html\">石原</a>の計画は失敗に終るのである。</div>\n<div class=\"txr\"><a href=\"../text/it_konoe.html\">伊藤隆 「近衛新体制」</a>\n　Ｐ．６１<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25BF%2591%25E8%25A1%259B%25E6%2596%25B0%25E4%25BD%2593%25E5%2588%25B6%25E2%2580%2595%25E5%25A4%25A7%25E6%2594%25BF%25E7%25BF%25BC%25E8%25B3%259B%25E4%25BC%259A%25E3%2581%25B8%25E3%2581%25AE%25E9%2581%2593%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -213,7 +206,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

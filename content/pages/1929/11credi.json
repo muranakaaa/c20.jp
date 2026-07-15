@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1929.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1929.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -193,25 +202,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -225,17 +218,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>官吏減俸問題で世論がわいているさなかの一〇月一七日、\n財務官津島寿一は、<a href=\"../p/ijunnosu.html\">井上蔵相</a>・土方日銀総裁との協議を終えて、ひそかにニューヨークへむかった。\n西海岸バンクーバーにつき、ニューヨーク行きの汽車のなかで、津島は、“<a href=\"../1929/10walls.html\">ウォール街で株価大暴落</a>”の第一報をうけた。\nこれが、そののち全世界を巻きこむ大恐慌にまで発展するとは、誰しも夢にも思っていなかった。\nニューヨーク着は一一月一日。その日、米財界の首脳部は、Ｊ=Ｐ=モルガン商会に集まって対策を鳩首協議中であった。\n同四日の月曜日から、津島は、モルガン商会のラモントをはじめとする銀行家とクレジット設定の交渉にはいった。\nその間の経緯は、津島の随想集『芳塘随想』第九集に簡単だが記されている。</div>\n<div>それによると、モルガンの首脳たちは、日本政府はなぜ新平価で解禁しないのか、\n日本経済の実力では旧平価は無理であると語ったという。\nクレジットの設定は、外国金融界が必要に応じて金を貸そうと約束するところに意義があるのであって、\nそれには精神的支援を必要とする。\n米財界人が旧平価解禁に不安感を示したことはそれだけ交渉をむずかしくさせた。\nしかも、交渉中の一一月上旬、津島は、日本政府から、一一月中旬に<a href=\"../1929/11kinka.html\">金解禁の大蔵省令を公布する</a>との電報をうけとった。\n東京出発前、彼は、<a href=\"../p/ijunnosu.html\">井上蔵相</a>から、翌三〇年（昭和五）一月に省令の公布をおこない、\n同時に金解禁実施にふみきると聞かされていたのである。</div>\n<div>突然の方針変更に、津島財務官は驚いた。\n交渉を急がなければならない。彼は、米財界人にたいして、\n<a href=\"../1929/hama_1.html\">浜口内閣</a>は官吏の減俸までおこなって財政緊縮を推進する覚悟でいる、\n<a href=\"../p/hosaci.html\">浜口首相</a>と<a href=\"../p/ijunnosu.html\">井上蔵相</a>を信頼してほしいと訴え、ついに一一月中旬に、英米両国銀行団との間にクレジット設定に成功した。</div>\n<div class=\"txr\"><a href=\"../text/nm_syo02.html\">中村政則 「昭和の歴史（２）」</a>\n　Ｐ．２４５<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%2598%25AD%25E5%2592%258C%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2%25E3%2580%25882%25E3%2580%2589%25E6%2598%25AD%25E5%2592%258C%25E3%2581%25AE%25E6%2581%2590%25E6%2585%258C\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -243,7 +228,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

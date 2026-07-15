@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1928.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1928.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -33,7 +42,7 @@
   {
    "type": "headline",
    "cells": [
-    "政権掌握、北伐も完了し、意気揚々の<a href=\"../p/syokaise.html\">蒋介石</a>、主席に就任。"
+    "北伐完了、　政権も掌握で 意気揚々？　<a href=\"../p/syokaise.html\">蒋介石</a>、前途多難な主席就任。"
    ]
   },
   {
@@ -73,7 +82,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1925/03/12　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/sonbun.html\">\n孫文</a>没　（北京）"
+       "html": "1925/03/12　　<a href=\"../1925/03sonbu.html\">\n孫文病死</a>　（北京）"
       }
      ]
     },
@@ -93,7 +102,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1926/07/09　　<a href\"..=\"\" 19.html\"=\"\">\n蒋介石、北伐開始</a>"
+       "html": "1926/07/09　　<a href=\"../1926/07hokub.html\">\n蒋介石、北伐開始</a>"
       }
      ]
     },
@@ -243,25 +252,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -275,17 +268,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>一九二八年十月、国民党は中央常務委員会を開いて「国民政府組織法」\n「訓政大綱」を決め、立法、行政、司法のほか考試と監察（官吏の任免と監察）を加えた五院を最高機関とする\n国民政府を正式に発足させた。\n「訓政」とは「軍政」から「憲政」に移行する過渡期にあたり、この期間は国民党が「国民を指導して政権を行使する」\n一党独裁が行なわれることとされ、民衆運動にはきびしい枠がはめられていた。\n<a href=\"../p/syokaise.html\">蒋介石</a>がこの国民政府主席となった。</div>\n<div>しかし形の上では統一されたこの政権も、\nその内実は「革命軍将領」あるいは「国民政府委員・各省主席」の肩書をもつ新軍閥の不安定な連合にすぎなかった。\n財政部長宋子文が「中央の財政権はわずかに江西、浙江、安徽、江蘇に及ぶだけで、\nこのうち安徽、江西の収入は中央に入ってこない」（二九年一月）と報告しているように、\nその他の各省の税収はすべて<a href=\"../p/cyogakur.html\">張学良</a>、閻錫山、馮玉祥、李宗仁、白崇禧、\n李済深ら地方軍閥が勝手に処分して私兵を養っているありさまだった。\nしかも党内には<a href=\"../p/ocyomei.html\">汪精衛</a>らの改組派、胡漢民らの元老派、鄒魯らの西山派など、\n<a href=\"../p/syokaise.html\">蒋介石</a>に対立する派閥が根を張っていた。</div>\n<div class=\"txr\"><a href=\"../text/ks_cyugo.html\">小島晋治・丸山松幸 「中国近現代史」</a>\n　Ｐ．１２３<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E4%25B8%25AD%25E5%259B%25BD%25E8%25BF%2591%25E7%258F%25BE%25E4%25BB%25A3%25E5%258F%25B2%2520%2520%2520%2520%25E5%25B2%25A9%25E6%25B3%25A2%25E6%2596%25B0%25E6%259B%25B8\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -293,7 +278,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

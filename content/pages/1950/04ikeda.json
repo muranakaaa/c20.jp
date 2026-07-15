@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1950.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1950.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -183,25 +192,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -215,17 +208,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>渡米する<a href=\"../p/ihayato.html\">池田蔵相</a>に<a href=\"../p/ysigeru.html\">吉田</a>が携行させた覚書は、</div>\n<div>「早期講和の後、日本およびアジア地域の安全保障のため、米軍が日本に駐留する必要があるのであろうが、\nもしアメリカ側がその希望を申し出にくいならば、日本政府がそれをオファーする方法を研究してもよろしい。\nこの点について、憲法学者の研究を参照しているが、米軍駐留を講和条約中に規定できれば、憲法上問題は少ない。\n別個の形で米軍駐留を約束することも、日本憲法に違反するものではない」というのであった。</div>\n<div>その<a href=\"../p/ihayato.html\">池田</a>のワシントン到着は、二十五年（一九五〇）の四月二十七日であった。\n随行したのは、秘書官の宮沢喜一（のち経企長官、外相、官房長官）であった。\n大蔵省出身ながら英語に練達で、国際情勢にも通じている宮沢は、<a href=\"../p/ihayato.html\">池田</a>が各方面の人びとにあえるようにアレンジした。\nまず<a href=\"../p/ihayato.html\">池田</a>が会ったのは、陸軍次官のヴォーリーズであった。</div>\n<div>【中略】</div>\n<div>つづいて会った<a href=\"../p/eichel_r.html\">アイケルバーガー</a>は、第一軍司令官として、日本にいた。</div>\n<div>【中略】</div>\n<div><a href=\"../p/ihayato.html\">池田</a>はこの二人には、<a href=\"../p/ysigeru.html\">吉田</a>の覚書を提出しなかった。\n陸軍首脳に出したとあっては、国務省の機嫌を損ずるおそれがあった。</div>\n<div><a href=\"../p/ihayato.html\">池田</a>は宮沢と相談した結果、吉田覚書は、<a href=\"../p/dodge_j.html\">ドッジ公使</a>に提出するのがよいと判断した。\n<a href=\"../p/dodge_j.html\">ドッジ</a>は国務省では公使、陸軍省では顧問という肩書きであったからだ。\nその<a href=\"../p/dodge_j.html\">ドッジ</a>に<a href=\"../p/ihayato.html\">池田</a>が会ったのは、五月三日の午後、そのオフィスであった。<a href=\"../p/ihayato.html\">池田</a>は、</div>\n<div>「早期講和の声が、世論の上で強まりつつある。\nだが共産党、社会党は、ソ連はじめ共産主義国家を加えた全面講和を主張している。\n吉田内閣は、多数の国家が講和に加わるのを望んではいるが、かといって、ソ連の参加などを求めていけば、\nいつ講和ができるかはかり難い。\nその間、ソ連など日本を敵視する国まで参加している占領下に置かれる。\nこれはたえ難いことだ。\nそれに占領が長期にわたって継続すると、内政干渉や反米感情などが蓄積して、日米間に亀裂が入りかねない。\nそうした実情から、<a href=\"../p/ysigeru.html\">吉田</a>総理は早期講和を希望している」と述べ、覚書を<a href=\"../p/dodge_j.html\">ドッジ</a>に手渡した。</div>\n<div>それに目を通した<a href=\"../p/dodge_j.html\">ドッジ</a>は、私見として、</div>\n<div>「今、米ソ関係は、極端に悪化している。\nそういうさい、日本を独立させるのは危険であるという軍事的配慮を、外交的配慮よりも優先させる。\nこれは、やむを得ない。\n講和には反対ではないにしても、それが、ソ連に対するアメリカの軍事的立場を、弱める結果になってはならないと、\nワシントンでは考えている。\nこうした状況が消えて、可能な条件がととのい、早い時期に講和ができる事態になるよう、自分は願っている」</div>\n<div>二、三日たって、<a href=\"../p/dodge_j.html\">ドッジ</a>は<a href=\"../p/ihayato.html\">池田</a>の説明したところを文書にし、吉田首相覚書と合わせて、\n国務次官バタース、国務省顧問<a href=\"../p/dulles_j.html\">ダレス</a>、陸軍次官代理マグルーダー、総司令官<a href=\"../p/macart_d.html\">マッカーサー</a>に伝えることになる。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ti_yosid.html\">戸川猪佐武 「小説 吉田茂」</a>\n　Ｐ．３１４</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>渡米する<a href=\"../p/ihayato.html\">池田蔵相</a>に<a href=\"../p/ysigeru.html\">吉田</a>が携行させた覚書は、</div>\n<div>「早期講和の後、日本およびアジア地域の安全保障のため、米軍が日本に駐留する必要があるのであろうが、\nもしアメリカ側がその希望を申し出にくいならば、日本政府がそれをオファーする方法を研究してもよろしい。\nこの点について、憲法学者の研究を参照しているが、米軍駐留を講和条約中に規定できれば、憲法上問題は少ない。\n別個の形で米軍駐留を約束することも、日本憲法に違反するものではない」というのであった。</div>\n<div>その<a href=\"../p/ihayato.html\">池田</a>のワシントン到着は、二十五年（一九五〇）の四月二十七日であった。\n随行したのは、秘書官の宮沢喜一（のち経企長官、外相、官房長官）であった。\n大蔵省出身ながら英語に練達で、国際情勢にも通じている宮沢は、<a href=\"../p/ihayato.html\">池田</a>が各方面の人びとにあえるようにアレンジした。\nまず<a href=\"../p/ihayato.html\">池田</a>が会ったのは、陸軍次官のヴォーリーズであった。</div>\n<div>【中略】</div>\n<div>つづいて会った<a href=\"../p/eichel_r.html\">アイケルバーガー</a>は、第一軍司令官として、日本にいた。</div>\n<div>【中略】</div>\n<div><a href=\"../p/ihayato.html\">池田</a>はこの二人には、<a href=\"../p/ysigeru.html\">吉田</a>の覚書を提出しなかった。\n陸軍首脳に出したとあっては、国務省の機嫌を損ずるおそれがあった。</div>\n<div><a href=\"../p/ihayato.html\">池田</a>は宮沢と相談した結果、吉田覚書は、<a href=\"../p/dodge_j.html\">ドッジ公使</a>に提出するのがよいと判断した。\n<a href=\"../p/dodge_j.html\">ドッジ</a>は国務省では公使、陸軍省では顧問という肩書きであったからだ。\nその<a href=\"../p/dodge_j.html\">ドッジ</a>に<a href=\"../p/ihayato.html\">池田</a>が会ったのは、五月三日の午後、そのオフィスであった。<a href=\"../p/ihayato.html\">池田</a>は、</div>\n<div>「早期講和の声が、世論の上で強まりつつある。\nだが共産党、社会党は、ソ連はじめ共産主義国家を加えた全面講和を主張している。\n吉田内閣は、多数の国家が講和に加わるのを望んではいるが、かといって、ソ連の参加などを求めていけば、\nいつ講和ができるかはかり難い。\nその間、ソ連など日本を敵視する国まで参加している占領下に置かれる。\nこれはたえ難いことだ。\nそれに占領が長期にわたって継続すると、内政干渉や反米感情などが蓄積して、日米間に亀裂が入りかねない。\nそうした実情から、<a href=\"../p/ysigeru.html\">吉田</a>総理は早期講和を希望している」と述べ、覚書を<a href=\"../p/dodge_j.html\">ドッジ</a>に手渡した。</div>\n<div>それに目を通した<a href=\"../p/dodge_j.html\">ドッジ</a>は、私見として、</div>\n<div>「今、米ソ関係は、極端に悪化している。\nそういうさい、日本を独立させるのは危険であるという軍事的配慮を、外交的配慮よりも優先させる。\nこれは、やむを得ない。\n講和には反対ではないにしても、それが、ソ連に対するアメリカの軍事的立場を、弱める結果になってはならないと、\nワシントンでは考えている。\nこうした状況が消えて、可能な条件がととのい、早い時期に講和ができる事態になるよう、自分は願っている」</div>\n<div>二、三日たって、<a href=\"../p/dodge_j.html\">ドッジ</a>は<a href=\"../p/ihayato.html\">池田</a>の説明したところを文書にし、吉田首相覚書と合わせて、\n国務次官バタース、国務省顧問<a href=\"../p/dulles_j.html\">ダレス</a>、陸軍次官代理マグルーダー、総司令官<a href=\"../p/macart_d.html\">マッカーサー</a>に伝えることになる。</div>\n<div class=\"txr\"><a href=\"../text/ti_yosid.html\">戸川猪佐武 「小説 吉田茂」</a>\n　Ｐ．３１４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%25B0%258F%25E8%25AA%25AC%25E5%2590%2589%25E7%2594%25B0%25E8%258C%2582%2520%2520%2520%2520%25E8%25A7%2592%25E5%25B7%259D%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -233,7 +218,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

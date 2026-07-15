@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1935.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1935.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -103,7 +112,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1931/11/27　　<a href\"..=\"\" 19.html\"=\"\">\n中華ソビエト共和国臨時政府（瑞金政府）樹立</a>　（主席：<a href=\"../p/motakuto.html\">毛沢東</a>）"
+       "html": "1931/11/07　　<a href=\"../1931/11zuiki.html\">\n中華ソビエト共和国臨時政府（瑞金政府）成立</a>　（主席：<a href=\"../p/motakuto.html\">毛沢東</a>）"
       }
      ]
     },
@@ -193,25 +202,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "pt"
    },
    "html": "\n<div class=\"pt_h\">～　「抗日救国のため全国同胞に告ぐ」　～</div>\n<div class=\"c\">国民の共感 → 抗日デモ → 下郷運動（故郷で抗日の呼びかけ）</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -225,17 +218,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>宣言は、過去のいきさつや意見・利害の相違をいっさい棄てて、\n「すべてのものが内戦を停止し、すべての国力を集中して抗日救国の神聖なる事業に奮闘すべきである」として\n「全中国を統一した国防政府と抗日連軍」を組織するよう提案し、\n「金があるものは金を出し、銃があるものは銃を出し、食糧があるものは食糧を出し、\n力があるものは力を出し、専門技能があるものは専門技能を捧げて、わが全同胞を総動員し、\nかつすべての新旧の武器を用いて数百万数千万の民衆を武装しよう」と呼びかけた。</div>\n<div>これは中国共産党の政策の一大転換であった。\nかつての「プロレタリア的な中核」による「下からの統一戦線」に代わって、\n国民党までも含む（ただし<a href=\"../p/syokaise.html\">蒋介石</a>は売国賊として除外される）広範な政治勢力を結集した\n抗日民族統一戦線が提唱されたのである。\n抗日救国こそがすべてに優先する最大の課題であるとしたこの宣言は、\n盛りあがりつつあった抗日運動に巨大な影響を与え、やがて実現する<a href=\"../1937/09gass2.html\">第二次国共合作</a>への契機となった。</div>\n<div>※　八・一宣言はじっさいには王明らコミンテルン駐在の中共代表団によって出された。\nこの年七月からモスクワでコミンテルン第七回代表大会が開かれ、\nヨーロッパにおけるナチズムの台頭に対して反ファシズム統一戦線（人民戦線）の方針が出された。\nこれに基づいて作られたのがこの宣言である。\n当時張聞天、<a href=\"../p/motakuto.html\">毛沢東</a>らの党中央は長征途上にあり、また北上抗日に反対する張国燾との対立をかかえていた。\n<a href=\"../p/motakuto.html\">毛沢東</a>がこの宣言をうけて本格的に抗日民族統一戦線の問題と取組んだのは、\n三五年十二月の瓦窰堡会議である。\nここで<a href=\"../p/motakuto.html\">毛沢東</a>は、日本帝国主義を当面の最大の敵として、広範な民衆を「統一した民族革命戦線」に結集するとともに、\n<a href=\"../1927/04syanh.html\">一九二七年の敗北</a>を教訓として、共産党が統一戦線において指導権を握ること、\nそのためには紅軍と根拠地の拡大と強化が重要であることを強調している。</div>\n<div class=\"txr\"><a href=\"../text/ks_cyugo.html\">小島晋治・丸山松幸 「中国近現代史」</a>\n　Ｐ．１５４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E4%25B8%25AD%25E5%259B%25BD%25E8%25BF%2591%25E7%258F%25BE%25E4%25BB%25A3%25E5%258F%25B2%2520%2520%2520%2520%25E5%25B2%25A9%25E6%25B3%25A2%25E6%2596%25B0%25E6%259B%25B8\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -243,7 +228,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

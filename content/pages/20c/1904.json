@@ -2,21 +2,30 @@
  "path": "20c/1904.html",
  "type": "year",
  "title": "１９０４年　／ クリック ２０世紀",
- "description": null,
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../a.css"
+  "../a.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a href=\"#f\">▽▽▽</a><a name=\"h\"></a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -33,14 +42,13 @@
   {
    "type": "headline",
    "cells": [
-    "花電車　　兵隊勘定　　露探　　軍神",
+    "<a href=\"#s4\">花電車　　兵隊勘定　　露探　　軍神</a>",
     "<a href=\"../1901/katu1_1.html\">桂内閣①</a>"
    ]
   },
   {
-   "type": "edit_bar",
-   "kind": "e_data",
-   "html": "リンク情報（2003/00/00）＝削除：０件（.html）"
+   "type": "base_break",
+   "cls": "base"
   },
   {
    "type": "raw",
@@ -89,7 +97,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1904/02/08　　<a href=\"../1904/02jorik.html\">\n陸軍先遣隊、仁川上陸</a>"
+       "html": "1904/02/06　　<a href=\"../1904/02saseb.html\">\n連合艦隊、佐世保出航</a>"
       }
      ]
     },
@@ -99,7 +107,37 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1904/02/08　　<a href=\"../1904/02jinse.html\">\n仁川沖海戦</a>"
+       "html": "1904/02/06　　<a href=\"../1904/02danko.html\">\n栗野駐露公使、ロシアに国交断絶を通告</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/08　　<a href=\"../1904/02jorik.html\">\n陸軍先遣隊、仁川上陸開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/08　　<a href=\"../1904/02yasyu.html\">\n連合艦隊の駆逐艦隊、旅順口のロシア艦隊を夜襲攻撃</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/09　　<a href=\"../1904/02jinse.html\">\n仁川沖海戦</a>"
       }
      ]
     },
@@ -109,7 +147,17 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1904/02/10　　<a href=\"../1904/02jr_wa.html\">\n対露宣戦布告</a>　（日露戦争勃発）"
+       "html": "1904/02/10　　<a href=\"../1904/02jr_wa.html\">\n対露宣戦布告</a>　（<a href=\"../them/jr_war.html\">日露戦争</a>勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/10　　<a href=\"../1904/02akasi.html\">\n明石大佐、公使館員とともにペテルブルク退去　（明石工作開始）</a>"
       }
      ]
     },
@@ -129,7 +177,27 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1904/02/12　　<a href\"..=\"\" 19.html\"=\"\">\n清国政府、中立宣言</a>"
+       "html": "1904/02/12　　<a href\"..=\"\" 19.html\"=\"\">\n清国、日露戦争に対する中立を宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/14　　<a href\"..=\"\" 19.html\"=\"\">\n長崎・佐世保・対馬・函館に戒厳令施行</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/17　　<a href\"..=\"\" 19.html\"=\"\">\n閣議、外債募集方針を決定</a>"
       }
      ]
     },
@@ -169,6 +237,26 @@
       {
        "id": "l",
        "cls": null,
+       "html": "1904/02/24　　<a href=\"../1904/02kanek.html\">\n金子特使渡米</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/24　　<a href=\"../1904/02takah.html\">\n高橋日銀副総裁渡米</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
        "html": "1904/03/01　　<a href\"..=\"\" 19.html\"=\"\">\n総選挙[９]　（政友会133、憲政本党90、帝国党19）</a>"
       }
      ]
@@ -189,6 +277,16 @@
       {
        "id": "l",
        "cls": null,
+       "html": "1904/03/14　　<a href\"..=\"\" 19.html\"=\"\">\n第一軍主力、鎮南浦に上陸</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
        "html": "1904/03/27　　<a href=\"../1904/03heso2.html\">\n旅順口閉塞作戦②</a>"
       }
      ]
@@ -199,11 +297,15 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1904/03/29　　<a href=\"../1904/03hiros.html\">\n海軍省、旅順口閉塞作戦②を詳報</a>　（広瀬中佐の美談）"
+       "html": "1904/03/29　　<a href=\"../1904/03hiros.html\">\n海軍省、旅順口閉塞作戦②を詳報</a>　（<a href=\"../p/htakeo.html\">広瀬中佐</a>の美談）"
       }
      ]
     }
    ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
   },
   {
    "type": "raw",
@@ -232,7 +334,17 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1904/04/08　　<a href\"..=\"\" 19.html\"=\"\">\n英仏協商調印</a>"
+       "html": "1904/04/08　　<a href=\"../1904/04ef_ky.html\">\n英仏協商調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/04/13　　<a href=\"../1904/04makar.html\">\nロシア太平洋艦隊マカロフ司令官戦死</a>"
       }
      ]
     },
@@ -252,7 +364,27 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1904/05/01　　<a href\"..=\"\" 19.html\"=\"\">\n第一軍、鴨緑江を渡河、九連城占領</a>"
+       "html": "1904/04/25　　<a href=\"../1904/04kinsy.html\">\nウラジオ艦隊、元山沖で陸軍輸送船「金州丸」を撃沈</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/04/26　　<a href\"..=\"\" 19.html\"=\"\">\n第一軍、鴨緑江渡河作戦開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/05/01　　<a href=\"../1904/059renj.html\">\n第一軍、鴨緑江を渡河、九連城占領</a>"
       }
      ]
     },
@@ -273,6 +405,16 @@
        "id": "l",
        "cls": null,
        "html": "1904/05/03　　<a href=\"../1904/05heso3.html\">\n旅順口閉塞作戦③</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/05/05　　<a href\"..=\"\" 19.html\"=\"\">\n第二軍、遼東半島に上陸開始</a>"
       }
      ]
     },
@@ -302,7 +444,57 @@
       {
        "id": "l",
        "cls": null,
+       "html": "1904/05/09　　<a href\"..=\"\" 19.html\"=\"\">\nパナマ運河着工</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
        "html": "1904/05/10　　<a href=\"../1904/05gaisa.html\">\nロンドン・ニューヨークで外債募集①</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/05/15　　<a href=\"../1904/05yosin.html\">\n巡洋艦「春日」、「吉野」に衝突、「吉野」沈没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/05/15　　<a href=\"../1904/05senka.html\">\n戦艦「初瀬」「八島」、旅順沖で触雷、沈没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/05/19　　<a href\"..=\"\" 19.html\"=\"\">\n独立第10師団（のちの第四軍）、大狐山に上陸</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/05/25　　<a href=\"../1904/05nanza.html\">\n第二軍、南山攻撃開始</a>　（05/26 占領）"
       }
      ]
     },
@@ -322,7 +514,17 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1904/05/31　　<a href\"..=\"\" 19.html\"=\"\">\n大本営、旅順攻略のため、第三軍の編成を決定</a>"
+       "html": "1904/05/31　　<a href\"..=\"\" 19.html\"=\"\">\n大本営、旅順攻略のため、第三軍の編成を決定</a>　（司令官：<a href=\"../p/nmaresuk.html\">乃木希典</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/06/06　　<a href=\"../1904/06nogij.html\">\n第三軍乃木司令官、遼東半島に上陸</a>"
       }
      ]
     },
@@ -342,11 +544,15 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1904/06/20　　<a href\"..=\"\" 19.html\"=\"\">\n満州軍総司令部設置　（総司令官：</a><a href=\"../p/oiwao.html\">大山巌</a>）"
+       "html": "1904/06/20　　<a href=\"../1904/06sirei.html\">\n満州軍総司令部設置</a>　（総司令官：<a href=\"../p/oiwao.html\">大山巌</a>／総参謀長：<a href=\"../p/kgentaro.html\">児玉源太郎</a>）"
       }
      ]
     }
    ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
   },
   {
    "type": "raw",
@@ -395,7 +601,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1904/07/28　　<a href\"..=\"\" 19.html\"=\"\">\nロシアのプレーヴェ内相暗殺</a>"
+       "html": "1904/07/28　　<a href=\"../1904/07pleve.html\">\nロシアのプレーヴェ内相暗殺</a>"
       }
      ]
     },
@@ -415,7 +621,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1904/08/14　　<a href\"..=\"\" 19.html\"=\"\">\n蔚山沖海戦</a>"
+       "html": "1904/08/14　　<a href=\"../1904/08urusa.html\">\n蔚山沖海戦</a>"
       }
      ]
     },
@@ -455,7 +661,17 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1904/08/24　　<a href\"..=\"\" 19.html\"=\"\">\nロシア、バルチック艦隊の太平洋派遣を決定</a>"
+       "html": "1904/08/24　　<a href=\"../1904/08balti.html\">\nロシア、バルチック艦隊の太平洋派遣を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/08/28　　<a href=\"../1904/08ryoy1.html\">\n遼陽会戦</a>　（～09/04）"
       }
      ]
     },
@@ -475,7 +691,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1904/09/04　　<a href\"..=\"\" 19.html\"=\"\">\n日本軍、遼陽占領</a>"
+       "html": "1904/09/04　　<a href=\"../1904/09ryoy2.html\">\n日本軍、遼陽占領</a>"
       }
      ]
     },
@@ -512,6 +728,10 @@
    ]
   },
   {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
    "type": "raw",
    "tag": "div",
    "attrs": {
@@ -528,7 +748,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1904/10/10　　<a href\"..=\"\" 19.html\"=\"\">\n沙河会戦　（～10/20）</a>"
+       "html": "1904/10/09　　<a href=\"../1904/10saka1.html\">\n沙河会戦</a>　（～10/17）"
       }
      ]
     },
@@ -538,7 +758,27 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1904/10/21　　<a href\"..=\"\" 19.html\"=\"\">\nドッガー・バンク事件　（～10/22／英・露）</a>"
+       "html": "1904/10/15　　<a href=\"../1904/10balti.html\">\nバルチック艦隊、リバウ軍港を出航</a>　（司令長官：<a href=\"../p/rozhes_z.html\">ロジェストウェンスキー</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/10/17　　<a href=\"../1904/10saka2.html\">\n沙河会戦終結</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/10/21　　<a href=\"../1904/10dogge.html\">\nドッガー・バンク事件</a>　（～10/22／英・露）"
       }
      ]
     },
@@ -568,7 +808,47 @@
       {
        "id": "l",
        "cls": null,
+       "html": "1904/11/08　　<a href\"..=\"\" 19.html\"=\"\">\nＴ・ルーズベルト（米大統領）再選</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/11/10　　<a href\"..=\"\" 19.html\"=\"\">\nロンドン・ニューヨークで外債募集②</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
        "html": "1904/11/26　　<a href=\"../1904/11ryojy.html\">\n旅順総攻撃③開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/11/30　　<a href=\"../1904/11203ko.html\">\n第三軍、二〇三高地を一時占拠</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/12/01　　<a href=\"../1904/12kodam.html\">\n児玉総参謀長、第三軍司令部に到着</a>"
       }
      ]
     },
@@ -591,6 +871,16 @@
        "html": "1904/12/06　　<a href=\"../1904/12mituk.html\">\n㈱三越呉服店設立</a>　（三井呉服店の営業を継承）"
       }
      ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/12/29　　<a href\"..=\"\" 19.html\"=\"\">\nバルチック艦隊本隊、マダガスカル到着</a>"
+      }
+     ]
     }
    ]
   },
@@ -603,8 +893,22 @@
    "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1901/katu1_1.html\">桂内閣①</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">花電車　　兵隊勘定　　露探　　軍神</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「藤村詩集」　「労働問題」　「西蔵旅行記」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">「日露戦争活動大写真」</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">―</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">ラッパ節　　日本陸軍</td></tr>\n</tbody>"
   },
   {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
    "type": "fnavi",
-   "html": "<a name=\"f\"></a>\n<a href=\"../index.html\">目次</a>\n ＞ <a href=\"#h\">１９０４年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"#h\">１９０４年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
   }
  ]
 }

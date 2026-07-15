@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -219,7 +220,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div><span class=\"m_b\">引用</span>副総統ヘスは、【中略】　近所に住む副官Ｋ・ピンチ大尉に電話した。</div>\n<div>「お早う、大尉。良い天気だ。きょう決行するつもりだ。気象情報を用意して・・・・・・そう、午後二時に来てもらいたい。\n離陸は午後六時にしよう」</div>\n<div>「わかりました。閣下」</div>\n<div>電話線の彼方で簡潔な大尉の返事がひびき、会話はそれだけで終わった。</div>\n<div>決行<span class=\"bar\">―</span>―とは、副総統ヘスが英独和平工作のために自身で英国に飛行する計画の実施である。</div>\n<div>副総統ヘスの「独断」であり、その意味では違法行為でもある。</div>\n<div>だが、副官ピンチ大尉は、あっさりと副総統ヘスの指示に承服した。</div>\n<div>【中略】　副官ピンチ大尉はすでに計画を承知し、それが「<a href=\"../p/hitler_a.html\">ヒトラー</a>の意を体して」のものであると理解していたからである。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kn3hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（３）」</a>\n　Ｐ．５２２</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>副総統ヘスは、【中略】　近所に住む副官Ｋ・ピンチ大尉に電話した。</div>\n<div>「お早う、大尉。良い天気だ。きょう決行するつもりだ。気象情報を用意して・・・・・・そう、午後二時に来てもらいたい。\n離陸は午後六時にしよう」</div>\n<div>「わかりました。閣下」</div>\n<div>電話線の彼方で簡潔な大尉の返事がひびき、会話はそれだけで終わった。</div>\n<div>決行<span class=\"bar\">―</span>―とは、副総統ヘスが英独和平工作のために自身で英国に飛行する計画の実施である。</div>\n<div>副総統ヘスの「独断」であり、その意味では違法行為でもある。</div>\n<div>だが、副官ピンチ大尉は、あっさりと副総統ヘスの指示に承服した。</div>\n<div>【中略】　副官ピンチ大尉はすでに計画を承知し、それが「<a href=\"../p/hitler_a.html\">ヒトラー</a>の意を体して」のものであると理解していたからである。</div>\n<div class=\"txr\"><a href=\"../text/kn3hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（３）」</a>\n　Ｐ．５２２<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167141388%2Fqid%3D1147087396%2Fsr%3D1-17%2Fref%3Dsr_1_2_17\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -227,7 +228,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div><span class=\"m_b\">引用</span>かつて一月の飛行失敗のあと、副官ピンチ大尉に英国行計画をうちあけたとき、副総統ヘスは、\n次のように公爵ハミルトンとの対面の情景を想像してみせていた。</div>\n<div>「いいかね、大尉、公爵の居城を私が訪ねる。\n取次ぎの執事にハウスホーファの名刺をわたす。\n名刺を見た公爵は、むろん、友人のハウスホーファが手紙で通告したとおりに会いに来たと思うだろう。</div>\n<div>そして、公爵はどうするか？　それは公爵の自由だが、\nかりに警察か軍にひき渡そうと考えたにしても、とにかく私をなかに入れるだろう。</div>\n<div>ところが、公爵の前に立ったのは、ハウスホーファではない。私だ。副総統ヘスだ！</div>\n<div>そのあと、なにが起こるかは推察できない。\nが、最悪の場合でも、私は彼に来訪の目的を語り、然るべき政府代表と国王との会見を申し入れることができるにちがいない・・・・・・」</div>\n<div>どうだ、大尉、それだけでもすばらしいじゃないか<span class=\"bar\">―</span>―と、\n副総統ヘスは、うっとりと視線を宙にすえて語ったものである。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kn3hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（３）」</a>\n　Ｐ．５４３</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>かつて一月の飛行失敗のあと、副官ピンチ大尉に英国行計画をうちあけたとき、副総統ヘスは、\n次のように公爵ハミルトンとの対面の情景を想像してみせていた。</div>\n<div>「いいかね、大尉、公爵の居城を私が訪ねる。\n取次ぎの執事にハウスホーファの名刺をわたす。\n名刺を見た公爵は、むろん、友人のハウスホーファが手紙で通告したとおりに会いに来たと思うだろう。</div>\n<div>そして、公爵はどうするか？　それは公爵の自由だが、\nかりに警察か軍にひき渡そうと考えたにしても、とにかく私をなかに入れるだろう。</div>\n<div>ところが、公爵の前に立ったのは、ハウスホーファではない。私だ。副総統ヘスだ！</div>\n<div>そのあと、なにが起こるかは推察できない。\nが、最悪の場合でも、私は彼に来訪の目的を語り、然るべき政府代表と国王との会見を申し入れることができるにちがいない・・・・・・」</div>\n<div>どうだ、大尉、それだけでもすばらしいじゃないか<span class=\"bar\">―</span>―と、\n副総統ヘスは、うっとりと視線を宙にすえて語ったものである。</div>\n<div class=\"txr\"><a href=\"../text/kn3hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（３）」</a>\n　Ｐ．５４３<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167141388%2Fqid%3D1147087396%2Fsr%3D1-17%2Fref%3Dsr_1_2_17\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -235,7 +236,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">おたよりはこちら</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

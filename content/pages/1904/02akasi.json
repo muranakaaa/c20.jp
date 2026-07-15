@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1904.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1904.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -63,7 +72,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1904/02/08　　<a href=\"../1904/02jinse.html\">\n仁川沖海戦</a>"
+       "html": "1904/02/08　　<a href=\"../1904/02yasyu.html\">\n連合艦隊の駆逐艦隊、旅順口のロシア艦隊を夜襲攻撃</a>"
       }
      ]
     },
@@ -73,7 +82,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1904/02/08　　<a href=\"../1904/02yasyu.html\">\n連合艦隊の駆逐艦隊、旅順口のロシア艦隊を夜襲攻撃</a>"
+       "html": "1904/02/09　　<a href=\"../1904/02jinse.html\">\n仁川沖海戦</a>"
       }
      ]
     },
@@ -223,25 +232,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -255,17 +248,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>ロシアの衛星圏には不平党、独立党が精力的な地下工作をつづけており、\nロシア本土にも、帝政の矛盾と圧政のなかから革命運動家が年々続出している。</div>\n<div>日本の大本営は、この戦争をはじめるにあたって、\nこれらロシア内外の不平分子を煽動して帝政を倒さしめるべく大諜報をおこなうことを決定し、\nその任務を公使館付武官を歴任（フランスおよびロシア駐在）してヨーロッパにあかるい<a href=\"../p/amotojir.html\">明石元二郎大佐</a>にあたえた。</div>\n<div><a href=\"../p/amotojir.html\">明石</a>は福岡藩出身で、士官学校は<a href=\"../p/ayosifur.html\">好古</a>よりやや下の六期であった。\n服装に無頓着ないわば東洋的豪傑風の男だったが、かれのやったしごととその効果は驚嘆すべきものであった。\nしかも資金はふんだんにつかった。\n参謀本部がかれ個人にあたえたこの工作費が、日本の歳入がわずか二億五千万円のころに百万円という巨額であったことをおもえば、\nその活動量をほぼ想像できるであろう。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/sr4sakan.html\">司馬遼太郎 「坂の上の雲（４）」</a>\n　Ｐ．１７５</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>ロシアの衛星圏には不平党、独立党が精力的な地下工作をつづけており、\nロシア本土にも、帝政の矛盾と圧政のなかから革命運動家が年々続出している。</div>\n<div>日本の大本営は、この戦争をはじめるにあたって、\nこれらロシア内外の不平分子を煽動して帝政を倒さしめるべく大諜報をおこなうことを決定し、\nその任務を公使館付武官を歴任（フランスおよびロシア駐在）してヨーロッパにあかるい<a href=\"../p/amotojir.html\">明石元二郎大佐</a>にあたえた。</div>\n<div><a href=\"../p/amotojir.html\">明石</a>は福岡藩出身で、士官学校は<a href=\"../p/ayosifur.html\">好古</a>よりやや下の六期であった。\n服装に無頓着ないわば東洋的豪傑風の男だったが、かれのやったしごととその効果は驚嘆すべきものであった。\nしかも資金はふんだんにつかった。\n参謀本部がかれ個人にあたえたこの工作費が、日本の歳入がわずか二億五千万円のころに百万円という巨額であったことをおもえば、\nその活動量をほぼ想像できるであろう。</div>\n<div class=\"txr\"><a href=\"../text/sr4sakan.html\">司馬遼太郎 「坂の上の雲（４）」</a>\n　Ｐ．１７５<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%259D%2582%25E3%2581%25AE%25E4%25B8%258A%25E3%2581%25AE%25E9%259B%25B2%25E3%2580%25884%25E3%2580%2589%2520%2520%2520%2520%25E6%2596%2587%25E6%2598%25A5%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -273,7 +258,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

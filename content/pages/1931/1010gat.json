@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1931.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1931.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -33,7 +42,7 @@
   {
    "type": "headline",
    "cells": [
-    "<a href=\"../1931/033gatu.html\">あれ</a>から７ヵ月。　今度も未然に発覚し、やっぱり「おとがめなし」だった。 "
+    "<a href=\"../1931/033gatu.html\">あれ</a>から７ヵ月。　今度も未然に発覚し、やっぱりほとんど「おとがめなし」だった。 "
    ]
   },
   {
@@ -93,7 +102,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1931/03/17　　<a href=\"../1931/033gatu.html\">\n三月事件</a>　（桜会によるクーデター未遂）"
+       "html": "1931/03/17　　<a href=\"../1931/033gatu.html\">\n三月事件</a>　（陸軍によるクーデター未遂）"
       }
      ]
     },
@@ -176,16 +185,18 @@
        "html": "1932/05/15　　<a href=\"../1932/05515ji.html\">\n五・一五事件</a>　（<a href=\"../p/ituyosi.html\">犬養首相</a>暗殺）"
       }
      ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/07/11　　<a href=\"../1935/07ikens.html\">\n「粛軍に関する意見書」配布</a>"
+      }
+     ]
     }
    ]
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
   },
   {
    "type": "raw",
@@ -199,14 +210,6 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx_sw"
    },
    "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
@@ -215,17 +218,25 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>十月十七日、今度は陸軍のクーデター未発事件、「十月事件」が発覚した。</div>\n<div>主謀者はまたしても桜会のメンバーで、参謀本部ロシア班長・<a href=\"../p/hkingoro.html\">橋本欣五郎</a>、北京駐在武官・長勇少佐らである。</div>\n<div>まず桜会の将校百余人を動員し、これに歩兵十個中隊、機関銃一個中隊、爆撃機十三機をつけ、\n首相官邸、陸軍省、参謀本部を襲撃する。\n剣道の達人である長少佐が<a href=\"../p/wreijiro.html\">若槻首相</a>、<a href=\"../p/skijuro.html\">幣原外相</a>ら満州事変拡大に反対する閣僚を軍刀で斬殺する。\nこのあと<a href=\"../p/theihaci.html\">東郷元帥</a>と<a href=\"../p/kkotohit.html\">閑院宮</a>の応援を求めて、新国策推進の為の強力なる内閣を樹立する。\nその主な予定メンバーは次の通りである。</div>\n<div>首相兼陸相＝<a href=\"../p/asadao.html\">荒木貞夫中将</a>、内相＝<a href=\"../p/hkingoro.html\">橋本欣五郎</a>、外相＝建川美次少将、蔵相＝<a href=\"../p/osyumei.html\">大川周明</a>、警視総監＝長勇少佐、\n海相＝小林省三郎少将（霞ヶ浦航空隊司令）。</div>\n<div>中佐や少佐が国政の枢機を握ろうというところに、彼らの明治維新の志士を模倣した“昭和維新”の意気込みがうかがえる。</div>\n<div>この計画は簡単に暴露し、<a href=\"../p/asadao.html\">荒木中将</a>も反対で、説得する側に回り、<a href=\"../p/hkingoro.html\">橋本</a>、長らは逮捕され、\nやがて満州勤務などにとばされるのである。</div>\n<div>十月事件は<a href=\"../p/stenno.html\">天皇</a>の耳にも入り、金谷参謀総長はまたしても叱られた。</div>\n<div class=\"txr\"><a href=\"../text/tm2saion.html\">豊田穣 「西園寺公望（下）」</a>\n　Ｐ．２３４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E5%259C%2592%25E5%25AF%25BA%25E5%2585%25AC%25E6%259C%259B%25E2%2580%2595%25E6%259C%2580%25E5%25BE%258C%25E3%2581%25AE%25E5%2585%2583%25E8%2580%2581%2520%2528%25E4%25B8%258B%25E5%25B7%25BB%2529%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>十月事件なるものは、再び軍部政権の樹立をねらい、例によって、参謀本部の<a href=\"../p/hkingoro.html\">橋本欣五郎</a>、ロシア班長建川美次、\n長勇少佐たちが企てたものであった。\n外部から<a href=\"../p/osyumei.html\">大川周明</a>とその門下、<a href=\"../p/kikki.html\">北一輝</a>、<a href=\"../p/nmitugi.html\">西田税</a>の一派が加わっていた。\n陸軍の将校二十名、近衛の十中隊、機関銃中隊、海軍将校、航空機十数機を動員し、六年（一九三一）十月二十一日を期して、\n首相官邸の閣議の席を襲い、<a href=\"../p/wreijiro.html\">若槻首相</a>以下閣僚を斬殺し、警視庁その他を占拠する計画であった。</div>\n<div>このテロを決行したあと、彼らは宮中に<a href=\"../p/theihaci.html\">東郷平八郎</a>元帥を参内させると同時に、\n<a href=\"../p/kkotohit.html\">閑院宮殿下</a>、<a href=\"../p/skinmoci.html\">西園寺公</a>に急使を派し、<a href=\"../p/asadao.html\">荒木貞夫陸軍大将</a>に大命を降下させ、荒木首班の軍部政権をつくるのが、究極の目的であった。</div>\n<div>さいわいに、この情報が事前に、重臣筋に洩れたので、ことなきを得た。\nしかし、陸軍の幹部たちは、この陰謀の首謀者たちを、料亭に軟禁しただけで、処罰しようとはしなかった。\nこのことが、いっそう、軍部や右翼の間に、</div>\n<div><span class=\"bar\">―</span>―下剋上。</div>\n<div><span class=\"bar\">―</span>―テロによる力ずくの政権奪取。</div>\n<div>という気運をみなぎらせた。</div>\n<div class=\"txr\"><a href=\"../text/ti_yosid.html\">戸川猪佐武 「小説 吉田茂」</a>\n　Ｐ．３６<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%25B0%258F%25E8%25AA%25AC%25E5%2590%2589%25E7%2594%25B0%25E8%258C%2582%2520%2520%2520%2520%25E8%25A7%2592%25E5%25B7%259D%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>九月<a href=\"../1931/09ryujo.html\">満州事変が勃発</a>した際、\n彼らは関東軍の行動を掣肘する政府およびそれにおさえられていると思われた軍中央部に対し、\nさまざまなかたちでおどしをかけた。\n関東軍独立説を流して不拡大方針を牽制したりしたが、\nまた事変遂行の妨害者である<a href=\"../1931/waka2_1.html\">第二次若槻内閣</a>を倒して\n事変遂行のための軍政府を樹立しようという第二のクーデター計画を練りはじめた。</div>\n<div>彼らの計画では、一〇月二一日を決行の日とし、将校約一二〇名、歩兵一〇個中隊、機関銃隊二個中隊のほか、\n<a href=\"../p/osyumei.html\">大川周明</a>、<a href=\"../p/nmitugi.html\">西田税</a>、<a href=\"../p/kikki.html\">北一輝</a>ら民間人、海軍の抜刀隊一〇名、海軍爆撃機一三機、陸軍機三～四機が参加するはずであった。\nこの人員をもって、閣議中を襲い<a href=\"../p/wreijiro.html\">首相</a>以下を斬殺し、警視庁や報道・通信機関を占領、\nまた陸軍省、参謀本部を包囲して軍幹部を同調させ、不良人物や将校を制裁するつもりであった。\nこうした上で、<a href=\"../p/theihaci.html\">東郷平八郎元帥</a>が参内し、\n<a href=\"../p/asadao.html\">荒木貞夫中将</a>に大命降下を奏請、<a href=\"../p/asadao.html\">荒木</a>が首相兼陸相、建川が外相、<a href=\"../p/hkingoro.html\">橋本</a>が内相、<a href=\"../p/osyumei.html\">大川</a>が蔵相に親任され、\nそれに<a href=\"../p/hkingoro.html\">橋本</a>の第一の配下長勇少佐が警視総監に任命される、これが彼らの計画の概要であった。</div>\n<div>【中略】</div>\n<div>一〇月一二日に、<a href=\"../p/hkingoro.html\">橋本</a>を中心とした会合で計画を聞いた田中清大尉が中止を勧告するよう上級者に伝えたことや、\n<a href=\"../p/hkingoro.html\">橋本</a>自身が<a href=\"../p/shajime.html\">杉山元次官</a>に同調を要求したことなどから計画が上層部の知るところとなり、\n一六日、建川参謀本部第一部長が<a href=\"../p/hkingoro.html\">橋本</a>をよんで中止を命じた。\n一旦中止に同意した<a href=\"../p/hkingoro.html\">橋本</a>はその後も<a href=\"../p/asadao.html\">荒木貞夫教育総監部本部長</a>に決起を要請したりして、\n<a href=\"../p/asadao.html\">荒木</a>からも中止を勧告されている。\nこの夜金龍亭で最後の打合せが行なわれているという情報で、軍中央部は<a href=\"../p/asadao.html\">荒木</a>を説得に行かせるが、不得要領に終り、\n結局<a href=\"../p/mjiro.html\">南陸相</a>は全員検束を命じた。\nこの事件も公表されず、その処罰は軽微なものに終った。</div>\n<div>このいわゆる一〇月事件は、実際に実行する気があったのか、\n単なるおどしであったのかやや疑問が残る。</div>\n<div class=\"txr\"><a href=\"../text/it_konoe.html\">伊藤隆 「近衛新体制」</a>\n　Ｐ．４１<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25BF%2591%25E8%25A1%259B%25E6%2596%25B0%25E4%25BD%2593%25E5%2588%25B6%25E2%2580%2595%25E5%25A4%25A7%25E6%2594%25BF%25E7%25BF%25BC%25E8%25B3%259B%25E4%25BC%259A%25E3%2581%25B8%25E3%2581%25AE%25E9%2581%2593%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -233,7 +244,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

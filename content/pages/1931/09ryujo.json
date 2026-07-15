@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1931.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1931.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -93,7 +102,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1931/03/17　　<a href=\"../1931/033gatu.html\">\n三月事件</a>　（桜会によるクーデター未遂）"
+       "html": "1931/03/17　　<a href=\"../1931/033gatu.html\">\n三月事件</a>　（陸軍によるクーデター未遂）"
       }
      ]
     },
@@ -313,25 +322,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "pt"
    },
    "html": "\n<div class=\"pt_h\">～　関東軍（<a href=\"../p/iseisiro.html\">板垣大佐</a>・<a href=\"../p/ikanji.html\">石原中佐</a>）の目的　～</div>\n<div class=\"c\">満州領有　（資源獲得／対ソ戦基地確保／朝鮮統治の安定／人口問題解決）</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -345,9 +338,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>一九三一年（昭和六年）九月十八日夜、満州（中国東北部）の奉天（瀋陽）郊外にある柳条溝で起きた南満州鉄道の線路爆破事件をきっかけに、\n日本の関東軍が軍事行動を開始したのである。満州事変の勃発であった。\nこの事件は、関東軍が満州での権益拡大をねらって行動を起こす口実を作るために、謀略的に仕掛けたものであった。\nそして関東軍は、<a href=\"../1931/09fukak.html\">日本政府の事変不拡大方針</a>にもかかわらず、戦線を拡大して行った。</div>\n<div>満州での日本の軍事行動は、世界の耳目を集めた。\n中国の「門戸開放」と「領土保全」を基本的な外交方針にしていたアメリカにとっても、満州事変は重大な関心事だった。\n対満貿易という直接的な利害関係もあった。</div>\n<div class=\"txr\"><a href=\"../text/yk_marik.html\">柳田邦男 「マリコ」</a>\n　Ｐ．２２<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4101249024%2Fqid%3D1146491819%2Fsr%3D1-1%2Fref%3Dsr_1_2_1\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -355,15 +348,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>一九三一年（昭和六年）九月十八日夜、満州（中国東北部）の奉天（瀋陽）郊外にある柳条溝で起きた南満州鉄道の線路爆破事件をきっかけに、\n日本の関東軍が軍事行動を開始したのである。満州事変の勃発であった。\nこの事件は、関東軍が満州での権益拡大をねらって行動を起こす口実を作るために、謀略的に仕掛けたものであった。\nそして関東軍は、<a href=\"../1931/09fukak.html\">日本政府の事変不拡大方針</a>にもかかわらず、戦線を拡大して行った。</div>\n<div>満州での日本の軍事行動は、世界の耳目を集めた。\n中国の「門戸開放」と「領土保全」を基本的な外交方針にしていたアメリカにとっても、満州事変は重大な関心事だった。\n対満貿易という直接的な利害関係もあった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/yk_marik.html\">柳田邦男 「マリコ」</a>\n　Ｐ．２２</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s4\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>９月18日午後10時20分、満州奉天北約８キロの柳条溝（湖）の満鉄線路で爆発が起こった。\n関東軍は中国軍が満鉄を爆破したと発表、一斉に行動を起こし、翌19日、奉天をはじめ周辺諸都市を占領した。\n満州事変の端緒であり、日中15年戦争の幕明けでもあった。</div>\n<div>実際は、爆弾を仕掛けたのは関東軍独立守備歩兵第２大隊第３中隊の河本末守中尉らだった。\n爆破といっても列車の運行には支障のないほど軽微なもので、関東軍が計画した謀略実行の合図であった。</div>\n<div>満州における日本の最大の権益である満鉄は営業不振に陥っていた。\n不況で日本の対満貿易が不振のうえ、中国が競合線を建設し、貨物を奪われていた。\n日本として放置できない問題だったが、<a href=\"../p/skijuro.html\">幣原外相</a>は対話路線を取り、中国との外交交渉で解決を図ろうとした。</div>\n<div>これは軍部には「弱腰外交」としか映らなかった。\n陸軍、中でも関東軍は一挙に武力で満蒙を奪い取る構想を練りあげていた。\n米国との決戦を不可避と見、満州を完全に支配して戦争に備えるとともに、満州占領で軍の発言力を高め、\n日本の政治を刷新しようという狙いである。\n陸軍はこの構想を取り入れ、６月、「満蒙問題解決方策大綱」をまとめ、一年間の準備期間を置くことを決める。</div>\n<div>７月２日、満州万宝山で、入植者の朝鮮人が中国官憲の中止命令を無視して用水路工事を進め、\n日中が武力衝突（<a href=\"../1931/07manpo.html\">万宝山事件</a>）、日本人立ち入り禁止地区にはいった<a href=\"../1931/06nakam.html\">中村震太郎大尉が現地中国軍に殺された</a>ことが\n同月中旬確認され、関東軍は軍事行動を実行に移すことを決める。</div>\n<div><a href=\"../1931/09fukak.html\">政府は満州事変の不拡大方針を取る</a>。\n軍中央は不明確な態度。\nしかし、関東軍は吉林省に出兵し、奉天の守備を薄くする。\nこれに呼応して<a href=\"../1931/09ekkyo.html\">在朝鮮軍が独断で国境を越える</a>。</div>\n<div>政府はこうした軍の独走を止めることができず、事後承認を繰り返す。\n折からの<a href=\"../1931/1010gat.html\">10月事件</a>で、クーデターにおびえ、強い姿勢に出られなかったのである。</div>\n<div>国民政府の<a href=\"../p/syokaise.html\">蒋介石</a>は共産党と戦闘中だったため、日本軍との戦いを避け、国際連盟への提訴にとどめる。\n<a href=\"../p/cyogakur.html\">張学良</a>も抵抗らしい抵抗はせず、地方軍閥もほとんどが日本軍と手を結んで地方政権固めする途を選んだ。</div>\n<div>国際連盟理事会は10月24日、撤兵勧告案を決議、日本への圧力が高まるが、\n日本の中立的調査団派遣案が容れられ、<a href=\"../1931/12lytto.html\">リットン調査団が組織される</a>。</div>\n<div>こうして翌年５月には日本軍は満州のほぼ全域を掌中に収める。\nその一方で、宣統帝<a href=\"../p/fugi.html\">溥儀</a>を天津から脱出させ（11月10日）、満州国建国に乗り出す。</div>\n<div class=\"txr\"><a href=\"../text/ys_20sei.html\">読売新聞社 「読む年表・20世紀と昭和天皇」</a>\n　Ｐ．４４</div>\n"
   },
   {
    "type": "raw",
@@ -371,7 +356,31 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>９月18日午後10時20分、満州奉天北約８キロの柳条溝（湖）の満鉄線路で爆発が起こった。\n関東軍は中国軍が満鉄を爆破したと発表、一斉に行動を起こし、翌19日、奉天をはじめ周辺諸都市を占領した。\n満州事変の端緒であり、日中15年戦争の幕明けでもあった。</div>\n<div>実際は、爆弾を仕掛けたのは関東軍独立守備歩兵第２大隊第３中隊の河本末守中尉らだった。\n爆破といっても列車の運行には支障のないほど軽微なもので、関東軍が計画した謀略実行の合図であった。</div>\n<div>満州における日本の最大の権益である満鉄は営業不振に陥っていた。\n不況で日本の対満貿易が不振のうえ、中国が競合線を建設し、貨物を奪われていた。\n日本として放置できない問題だったが、<a href=\"../p/skijuro.html\">幣原外相</a>は対話路線を取り、中国との外交交渉で解決を図ろうとした。</div>\n<div>これは軍部には「弱腰外交」としか映らなかった。\n陸軍、中でも関東軍は一挙に武力で満蒙を奪い取る構想を練りあげていた。\n米国との決戦を不可避と見、満州を完全に支配して戦争に備えるとともに、満州占領で軍の発言力を高め、\n日本の政治を刷新しようという狙いである。\n陸軍はこの構想を取り入れ、６月、「満蒙問題解決方策大綱」をまとめ、一年間の準備期間を置くことを決める。</div>\n<div>７月２日、満州万宝山で、入植者の朝鮮人が中国官憲の中止命令を無視して用水路工事を進め、\n日中が武力衝突（<a href=\"../1931/07manpo.html\">万宝山事件</a>）、日本人立ち入り禁止地区にはいった<a href=\"../1931/06nakam.html\">中村震太郎大尉が現地中国軍に殺された</a>ことが\n同月中旬確認され、関東軍は軍事行動を実行に移すことを決める。</div>\n<div><a href=\"../1931/09fukak.html\">政府は満州事変の不拡大方針を取る</a>。\n軍中央は不明確な態度。\nしかし、関東軍は吉林省に出兵し、奉天の守備を薄くする。\nこれに呼応して<a href=\"../1931/09ekkyo.html\">在朝鮮軍が独断で国境を越える</a>。</div>\n<div>政府はこうした軍の独走を止めることができず、事後承認を繰り返す。\n折からの<a href=\"../1931/1010gat.html\">10月事件</a>で、クーデターにおびえ、強い姿勢に出られなかったのである。</div>\n<div>国民政府の<a href=\"../p/syokaise.html\">蒋介石</a>は共産党と戦闘中だったため、日本軍との戦いを避け、国際連盟への提訴にとどめる。\n<a href=\"../p/cyogakur.html\">張学良</a>も抵抗らしい抵抗はせず、地方軍閥もほとんどが日本軍と手を結んで地方政権固めする途を選んだ。</div>\n<div>国際連盟理事会は10月24日、撤兵勧告案を決議、日本への圧力が高まるが、\n日本の中立的調査団派遣案が容れられ、<a href=\"../1931/12lytto.html\">リットン調査団が組織される</a>。</div>\n<div>こうして翌年５月には日本軍は満州のほぼ全域を掌中に収める。\nその一方で、宣統帝<a href=\"../p/fugi.html\">溥儀</a>を天津から脱出させ（11月10日）、満州国建国に乗り出す。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ys_20sei.html\">読売新聞社 「読む年表・20世紀と昭和天皇」</a>\n　Ｐ．４４</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/iseisiro.html\">板垣征四郎</a>は、満鉄線爆破に始まった満州事変の発端について、\n極東国際軍事裁判所の宣誓供述書の中で、「奉天北方北大営西側に於いて、支那軍隊が午後十時頃、満鉄線を爆破し、\n偶々（わが軍の）虎石台中隊の巡察斥候が射撃を受けた」と述べ、中国軍の方から仕掛けた攻撃であるとしている。</div>\n<div><a href=\"../p/ikanji.html\">石原莞爾</a>にしても、終生、その詳細を明確にしていない。</div>\n<div>だが、今日、その真相はほぼ明らかになっている。</div>\n<div>それによると、<a href=\"../p/iseisiro.html\">板垣</a>と<a href=\"../p/ikanji.html\">石原</a>が中心となり、陸軍中央部の一部中堅将校や朝鮮軍の参謀らと連絡を取りながら\n準備を密かに進め、好機をうかがっていたとされる。</div>\n<div>アメリカやソ連の出方を分析検討する一方で、反<a href=\"../p/cyogakur.html\">張学良</a>の軍閥首領たちの動向を探り、\n気脈を通ずる者とは連携も取って、この年春頃までには、作戦計画がほぼ完了していた。</div>\n<div>作戦行動開始についての計画立案は、<a href=\"../p/ikanji.html\">石原</a>が当たり、奉天特務機関の花谷正少佐が謀略の部分を主として計画した。</div>\n<div>後年、花谷自身が述べるところによれば、奉天付近の線路を爆破して、\n戦闘開始のきっかけとするために、<a href=\"../p/cyogakur.html\">張学良</a>の軍事顧問補佐官今田新太郎大尉を指揮官とし、\n独立守備第二大隊第三中隊の中隊長川島大尉と中隊付河本末守中尉が実行を担当した。</div>\n<div>九月十八日夜、部下数名を率いた河本中尉が、線路に爆薬を装置して点火した爆発音を合図に、\n付近で演習しながら待機していた川島大尉指揮する中隊が攻撃を開始した。</div>\n<div>と同時に、奉天市内で待機していた<a href=\"../p/iseisiro.html\">板垣</a>が、独立守備隊に攻撃開始を命ずると共に、\n第二十九聯隊の出動を命じた。</div>\n<div>行動開始の日を九月十八日と定めた根拠については、諸説あって特定し難いが、参謀本部から派遣されてきた建川が、\n陸軍中央部の自重の方針を正式に伝達する前を狙ったという説が有力である。\n二十八日に予定していた行動開始を早めたという説もある。</div>\n<div>建川を出迎えた<a href=\"../p/iseisiro.html\">板垣</a>が奉天市内の料亭「菊水」に案内して酒で酔いつぶし、その間に、\n事を運んだという俗説めいた伝聞もある。</div>\n<div class=\"txr\"><a href=\"../text/mk_gunji.html\">升本喜年 「軍人の最期」</a>\n　Ｐ．２８７<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25BB%258D%25E4%25BA%25BA%25E3%2581%25AE%25E6%259C%2580%25E6%259C%259F%25E2%2580%2595%25E6%2594%25BF%25E6%25B2%25BB%25E7%259A%2584%25E5%25B0%2586%25E8%25BB%258D%25E3%2581%25AE%25E7%2594%259F%25E3%2581%258D%25E3%2581%2596%25E3%2581%25BE%25E3%2581%25A8%25E3%2581%259D%25E3%2581%25AE%25E6%25AD%25BB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>振り返ってみれば、満洲事変は、国際連盟をはじめ現状維持のために設けられた外交構造全体、つまり<a href=\"../1919/06versa.html\">ヴェルサイユ条約</a>や\n<a href=\"../1921/11washi.html\">ワシントン会議</a>や<a href=\"../1928/08paris.html\">不戦条約</a>、に対する最初の痛撃であった。\nそして、日本が広大で資源に富む満洲をやすやす獲得したという事実自体が、イタリアやドイツの食指を動かさずにはおかなかった。\n満洲事変は、究極は第二次世界大戦をもたらす侵略政策の鎖の第一環となったのである。</div>\n<div class=\"txr\"><a href=\"../text/ia_gaise.html\">今津晃 「概説現代史」</a>\n　Ｐ．１７５<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%25A6%2582%25E8%25AA%25AC%25E7%258F%25BE%25E4%25BB%25A3%25E5%258F%25B2%2520%2520%2520%2520%25E5%2589%25B5%25E5%2585%2583%25E9%2581%25B8%25E6%259B%25B8\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>満州及び内蒙古の地域に独占的な支配権を確立することは、\n日露戦争以来日本の一貫した国策であった。\nそのために<a href=\"../1905/09portm.html\">ポーツマス条約</a>、<a href=\"../1915/0121kaj.html\">「二十一ヵ条」要求</a>、<a href=\"../1917/01nisih.html\">西原借款</a>などで多くの権益を獲得してきたし、\n奉天派軍閥を育成してその保障としてきたのである。\nしかし日本の満蒙支配は、二八年<a href=\"../p/cyogakur.html\">張学良</a>が青年白日旗をかかげて国民政府に参加を表明してから、\n明らかにゆらぎはじめた。\n<a href=\"../p/cyogakur.html\">張学良</a>は日本の南満州鉄道（満鉄）に対抗するための新しい幹線鉄道を計画し、\n国民政府も新鉱業法を発布して外国人の鉱業権取得に制限を加えた。\nしかも満州支配の根幹であった満鉄が、中国側の並行鉄道の競争と世界恐慌のあおりを受けて、\n三〇年から極度の営業不振に陥った。</div>\n<div>【中略】</div>\n<div>三一年に入って<a href=\"../1931/06nakam.html\">中村震太郎大尉殺害事件</a>、<a href=\"../1931/07manpo.html\">万宝山事件</a>（長春近郊に入植した朝鮮人農民と中国人農民の衝突事件）が起こると、\n軍部や右翼は「満蒙は軍事上、経済上日本の生命線」であると宣伝し、\n武力により解決を主張しはじめた。\n関東軍参謀<a href=\"../p/ikanji.html\">石原莞爾中佐</a>は、すでに二九年から「国内の不安を除くためには対外進出によるを要す」\n「満蒙問題の解決は日本が同地方を領有することによりてはじめて完全達成せられる」と主張しており、\n三一年五月には、たとい政府が動かずとも「関東軍の主動的行動により回天の偉業をなしうる」として、\n関東軍の独断的謀略による武力解決を唱えていた。</div>\n<div>一九三一年九月十八日夜、奉天の北部八キロの柳条湖付近で満鉄線が爆破された（上下線あわせて一メートルたらずで\n被害はほとんどなかった）。\n実行したのは関東軍の中尉ら三人だったという。\n関東軍はこれを「暴戻なる支那軍隊」によるものだとして一斉に軍事行動を開始し、\n翌日中に奉天、長春、営口を占領、二十一日には吉林まで進出した（満州事変。中国では九・一八事変と呼ぶ）。</div>\n<div>当時北平で病気療養中だった<a href=\"../p/cyogakur.html\">張学良</a>は、電報で全軍に不抵抗・撤退を命じ、\n戦火の拡大を避けようとした。\n<a href=\"../p/syokaise.html\">蒋介石</a>は対共産軍作戦に追われていて軍隊を北上させる余裕がなかった。\n中国の提訴を受けた国際連盟も有効な措置をとることができなかった。\nソ連もまた第一次五ヵ年計画に忙しく、満州事変に不干渉の態度をとった。</div>\n<div>これらの諸条件に助けられて、関東軍の軍事行動は拡大の一途をたどり、\n当初<a href=\"../1931/09fukak.html\">「不拡大」方針</a>をとっていた日本政府を引きずっていった。\n十月には<a href=\"../p/cyogakur.html\">張学良</a>が本拠を移した<a href=\"../1931/10kinsy.html\">錦州を爆撃し</a>、翌三二年ハルビンを占領して、\nわずか五ヵ月で満州の全域を軍事占領下においたのである。\nこれ以後、日本と中国は十五年にわたる長い戦争をつづけることになった。</div>\n<div class=\"txr\"><a href=\"../text/ks_cyugo.html\">小島晋治・丸山松幸 「中国近現代史」</a>\n　Ｐ．１３７<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E4%25B8%25AD%25E5%259B%25BD%25E8%25BF%2591%25E7%258F%25BE%25E4%25BB%25A3%25E5%258F%25B2%2520%2520%2520%2520%25E5%25B2%25A9%25E6%25B3%25A2%25E6%2596%25B0%25E6%259B%25B8\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../1931/09ryujo.html\">満州事変が起こると</a>、日本の武力侵略と国民政府の不抵抗方針に対して、\n激しい抗議の声があがり、空前の抗日運動が展開された。\n上海では九月二十四日、学生十万、港湾労働者三万五千がストライキに入り、\n二十六日には市民二十万人が参加して抗日救国大会を開き、対日経済断交を決議した。\n北平でも二十八日に抗日救国大会が二十余万人を集めて開かれ、\n政府に対日宣戦を要求し、市民による抗日義勇軍の編成が決議された。</div>\n<div>この抗日救国運動はたちまち全国に拡がり、「停止内争、一致対外」をスローガンとして政府に徹底抗戦を要求するとともに、\n排日ボイコットを推進していった。\n九月以降、満州を除く全国の日本商品輸入は前年の約三分の一に激減し、\n十二月には実に五分の一にまで低下した。\nなかでも上海では対日貿易がほとんど杜絶し、日本商船を利用する中国人の積荷は皆無となった。\n学生たちは全国からぞくぞくと南京に押し寄せ、<a href=\"../p/syokaise.html\">蒋介石</a>の北上抗日を迫った。</div>\n<div>十一月に入ると運動は一層激しさを加えた。\n日本軍の軍事行動は、<a href=\"../1931/10kinsy.html\">錦州無差別爆撃</a>、黒龍江省進撃と拡大の一途をたどり、\nしかも<a href=\"../p/syokaise.html\">蒋介石</a>が期待した国際連盟の「有効な制裁措置」は実現せず、\n国際的な「公理の裁決を待つ」という不抵抗方針は説得力を失ってしまったのである。\nこうしたことから、抗日救国の運動は、しだいに国民党の独裁に反対して民主を求める反政府運動の性格を帯びはじめた。\n十二月十七日、南京に結集した学生三万余の大デモが、\nついに軍警と衝突して死者三十余人、負傷者百余人を出すまでになった。</div>\n<div>「一致抗日」の世論に押されて、<a href=\"../p/syokaise.html\">蒋介石</a>は<a href=\"../p/ocyomei.html\">汪精衛</a>らの広東臨時国民政府との統一交渉を進め、\n<a href=\"../p/syokaise.html\">蒋介石</a>が下野することを条件として統一政府を組織することになった。\n新政権は政府主席林森、行政院長孫科、外交部長陳友仁ら広東派が要職を占めたが、\n行政・軍事の組織は<a href=\"../p/syokaise.html\">蒋介石</a>派が抑えたままであり、\n<a href=\"../p/syokaise.html\">蒋</a>の下野は世論の高まりを一時的にそらす以外のものではなかった。\n事実、<a href=\"../1932/01syan1.html\">上海事変が起こると</a>、孫科内閣は１ヵ月たらずで崩壊し、<a href=\"../p/syokaise.html\">蒋</a>は最高軍事指導者に復帰した。</div>\n<div class=\"txr\"><a href=\"../text/ks_cyugo.html\">小島晋治・丸山松幸 「中国近現代史」</a>\n　Ｐ．１３９<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E4%25B8%25AD%25E5%259B%25BD%25E8%25BF%2591%25E7%258F%25BE%25E4%25BB%25A3%25E5%258F%25B2%2520%2520%2520%2520%25E5%25B2%25A9%25E6%25B3%25A2%25E6%2596%25B0%25E6%259B%25B8\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -379,7 +388,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

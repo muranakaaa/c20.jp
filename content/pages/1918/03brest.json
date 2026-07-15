@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -249,7 +250,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div><span class=\"m_b\">引用</span>同盟諸国とロシアとの休戦協定が結ばれたあと、ドイツはブレスト=リトフスクでの講和交渉には応じたが、\n「平和の布告」にもりこまれた無併合・無賠償の原則は認めず、領土に関しても厳しい条件をつけた。\n一月中旬、<a href=\"../p/lenin_n.html\">レーニン</a>は単独講和の即時締結を提案したが、ボリシェヴィキ指導部にはヨーロッパでの社会主義革命を期待する傾向が強く、\n受けいれられなかった。\n<a href=\"../p/lenin_n.html\">レーニン</a>は講和交渉引き延ばしの方針で党内の合意をはかった。</div>\n<div>しかし、二月に入るとドイツ軍は攻撃を再開し、十二月末の講和提案より厳しい、\nウクライナとバルト地方の独立や巨額の賠償金支払いを内容とするあらたな講和提案を打ち出した。\nボリシェヴィキ指導部の対立は、このドイツ案を受けいれるか否かをめぐり再燃したが、\n<a href=\"../p/lenin_n.html\">レーニン</a>が党中央委員会で強く受諾を迫り、受けいれが決められた。\nこの結果、三月三日、講和条約がブレスト=リトフスク市で締結された。\nこれに抗議して、ブハーリンは党や政府の職を辞任し、左派社会革命党の人民委員は政府から離脱した。</div>\n<div>ソヴィエト政権にとって、ブレスト=リトフスク講和条約は過酷なものであったが、\nこれによって完全に戦争状態から脱することができた。\n国内の混乱はなお続いていたにせよ、第一次世界大戦という戦争のさなかに生じたロシア革命は大きな転機を迎えたのである。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ks_nse26.html\">木村靖二・柴宜弘・長沼秀世 「世界の歴史（26）」</a>\n　Ｐ．１１６</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>同盟諸国とロシアとの休戦協定が結ばれたあと、ドイツはブレスト=リトフスクでの講和交渉には応じたが、\n「平和の布告」にもりこまれた無併合・無賠償の原則は認めず、領土に関しても厳しい条件をつけた。\n一月中旬、<a href=\"../p/lenin_n.html\">レーニン</a>は単独講和の即時締結を提案したが、ボリシェヴィキ指導部にはヨーロッパでの社会主義革命を期待する傾向が強く、\n受けいれられなかった。\n<a href=\"../p/lenin_n.html\">レーニン</a>は講和交渉引き延ばしの方針で党内の合意をはかった。</div>\n<div>しかし、二月に入るとドイツ軍は攻撃を再開し、十二月末の講和提案より厳しい、\nウクライナとバルト地方の独立や巨額の賠償金支払いを内容とするあらたな講和提案を打ち出した。\nボリシェヴィキ指導部の対立は、このドイツ案を受けいれるか否かをめぐり再燃したが、\n<a href=\"../p/lenin_n.html\">レーニン</a>が党中央委員会で強く受諾を迫り、受けいれが決められた。\nこの結果、三月三日、講和条約がブレスト=リトフスク市で締結された。\nこれに抗議して、ブハーリンは党や政府の職を辞任し、左派社会革命党の人民委員は政府から離脱した。</div>\n<div>ソヴィエト政権にとって、ブレスト=リトフスク講和条約は過酷なものであったが、\nこれによって完全に戦争状態から脱することができた。\n国内の混乱はなお続いていたにせよ、第一次世界大戦という戦争のさなかに生じたロシア革命は大きな転機を迎えたのである。</div>\n<div class=\"txr\"><a href=\"../text/ks_nse26.html\">木村靖二・柴宜弘・長沼秀世 「世界の歴史（26）」</a>\n　Ｐ．１１６<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E4%25B8%2596%25E7%2595%258C%25E5%25A4%25A7%25E6%2588%25A6%25E3%2581%25A8%25E7%258F%25BE%25E4%25BB%25A3%25E6%2596%2587%25E5%258C%2596%25E3%2581%25AE%25E9%2596%258B%25E5%25B9%2595%2520%2520%2520%2520%25E4%25B8%2596%25E7%2595%258C%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -257,7 +258,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">おたよりはこちら</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

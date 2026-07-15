@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1910.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1910.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -63,25 +72,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -95,17 +88,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>一一月二九日、日本初の南極探検隊が開南丸で東京・芝浦港から出発した。</div>\n<div>一行は<a href=\"../p/snobu.html\">白瀬陸軍中尉</a>を隊長とする二七名。\n<a href=\"../p/snobu.html\">白瀬</a>は、北極探検を志し、千島探検などに加わっていたが、この前年、ピアリーの北極点到達の知らせを聞き、\n南極探検に方向転換したもの。</div>\n<div>探検隊は一九一一年一月一六日、南極に上陸を果たし、二八日、南緯八〇度〇五分、西経一五六度三七分の地点に到達、\n「大和雪原」と命名し、日本の領地であることを宣言した。\nしかし、食糧不足などのために、南極点到達を断念、ペンギンの剥製などを土産に、翌年六月二〇日に帰国した。</div>\n<div>第二次世界大戦の敗戦により、一九五一年に締結されたサンフランシスコ条約で、「大和雪原」の権利を放棄することが要請され、\n日本はやむなく放棄に応じた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ok_bkyun.html\">おもしろニュース研究会 「20世紀Ｂ級ニュース」</a>\n　Ｐ．２４</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>一一月二九日、日本初の南極探検隊が開南丸で東京・芝浦港から出発した。</div>\n<div>一行は<a href=\"../p/snobu.html\">白瀬陸軍中尉</a>を隊長とする二七名。\n<a href=\"../p/snobu.html\">白瀬</a>は、北極探検を志し、千島探検などに加わっていたが、この前年、ピアリーの北極点到達の知らせを聞き、\n南極探検に方向転換したもの。</div>\n<div>探検隊は一九一一年一月一六日、南極に上陸を果たし、二八日、南緯八〇度〇五分、西経一五六度三七分の地点に到達、\n「大和雪原」と命名し、日本の領地であることを宣言した。\nしかし、食糧不足などのために、南極点到達を断念、ペンギンの剥製などを土産に、翌年六月二〇日に帰国した。</div>\n<div>第二次世界大戦の<a href=\"../1945/08gyoku.html\">敗戦</a>により、一九五一年に締結されたサンフランシスコ条約で、「大和雪原」の権利を放棄することが要請され、\n日本はやむなく放棄に応じた。</div>\n<div class=\"txr\"><a href=\"../text/ok_bkyun.html\">おもしろニュース研究会 「20世紀Ｂ級ニュース」</a>\n　Ｐ．２４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=20%25E4%25B8%2596%25E7%25B4%2580B%25E7%25B4%259A%25E3%2583%258B%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%25B9%2520%2520%2520%2520%25E8%25A7%2592%25E5%25B7%259Done%25E3%2583%2586%25E3%2583%25BC%25E3%2583%259E\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -113,7 +98,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

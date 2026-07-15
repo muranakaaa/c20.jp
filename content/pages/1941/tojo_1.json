@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1941.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href=\"tojo_1~.html\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1941.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href=\"tojo_1~.html\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -273,25 +282,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -305,17 +298,33 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "<span class=\"m_y\">語録</span>\n万人が納得するほどの手段を尽くしてアメリカに受け入れられなかったら戦争になるかもしれない。\nでもそのときは国民は奮起してついてきてくれるでしょう。\n一方、<a href=\"../1941/04ja_ko.html\">日米交渉</a>が成功して<a href=\"../1937/07rokok.html\">支那事変</a>解決となったら国民からは感謝されます。\n<div class=\"r\"><a href=\"../p/makira.html\">武藤章</a>　（軍務局長）</div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "<span class=\"m_y\">語録</span>\n<a href=\"../p/thideki.html\">東條</a>の能力はせいぜい大佐どまりだ。とうてい国を治める人物ではない。\n今に日本はひどいことになる。覚悟しておいた方がよい。\n<div class=\"r\"><a href=\"../p/otosisir.html\">小畑敏四郎</a>　（予備役陸軍中将）</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/hull_c.html\">ハル</a>は、その回顧録に「<a href=\"../p/thideki.html\">東條</a>は典型的な日本軍人で、\n見識の狭い直進的な、一本気の人物であった。\n彼は頑固で我意が強く、賢明とはいえないが勤勉でいくらか迫力のある人物」と書いている。\nもっとも、駐日大使<a href=\"../p/grew_j.html\">グルー</a>の報告によって、<a href=\"../1941/tojo_1.html\">この内閣</a>は<a href=\"../p/kfumimar.html\">近衛</a>路線を継ぎ、<a href=\"../1941/04ja_ko.html\">日米交渉</a>に尽力すると知るや、\n<a href=\"../p/hull_c.html\">ハル</a>は警戒を解いている。\nだが、政治的に、<a href=\"../1941/tojo_1.html\">この内閣</a>を利用することだけは忘れなかった。</div>\n<div class=\"txr\"><a href=\"../text/hm1tojoh.html\">保阪正康 「東條英機と天皇の時代（上）」</a>\n　Ｐ．２８０<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%259D%25B1%25E6%25A2%259D%25E8%258B%25B1%25E6%25A9%259F%25E3%2581%25A8%25E5%25A4%25A9%25E7%259A%2587%25E3%2581%25AE%25E6%2599%2582%25E4%25BB%25A3\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>陸軍省の中枢である<a href=\"../p/thideki.html\">東條</a>と<a href=\"../p/makira.html\">武藤</a>が<a href=\"../1941/04ja_ko.html\">日米交渉</a>に本気で取り組んでいるという噂が\n陸軍内部に広がると、公然とテロがささやかれだした。\n「天誅を加えると公言する者がいる」と憲兵隊は情報をもってきたので、\n軍務局長室には終日護衛の憲兵がついた。\n<a href=\"../p/thideki.html\">東條</a>もまた数人の護衛が身辺を守った。</div>\n<div><a href=\"../p/thideki.html\">東條</a>に<a href=\"../1941/10hakus.html\">白紙還元</a>の枠をつけて推挙したのが内大臣<a href=\"../p/kkoici.html\">木戸幸一</a>だという事実は、\n広く政策集団や民間右翼にも知れわたった。\n<a href=\"../p/kkoici.html\">木戸</a>襲撃という噂も流れ、二十名に近い護衛が彼の周囲を警戒する事態になった。\n<a href=\"../p/kkoici.html\">木戸</a>も<a href=\"../p/thideki.html\">東條</a>も、一面では自らのこれまでの幻影に脅えているともいえた。</div>\n<div class=\"txr\"><a href=\"../text/hm1tojoh.html\">保阪正康 「東條英機と天皇の時代（上）」</a>\n　Ｐ．２８８<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%259D%25B1%25E6%25A2%259D%25E8%258B%25B1%25E6%25A9%259F%25E3%2581%25A8%25E5%25A4%25A9%25E7%259A%2587%25E3%2581%25AE%25E6%2599%2582%25E4%25BB%25A3\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -323,7 +332,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

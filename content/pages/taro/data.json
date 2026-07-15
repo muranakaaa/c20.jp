@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../other.css"
+  "../other.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ <span class=\"now\">他</span>"
   },
   {
    "type": "title",
@@ -32,7 +41,7 @@
    "attrs": {
     "class": "d_tx"
    },
-   "html": "\n最新の更新は２００４年０１月２５日です。<br>\n次回の更新は２００４年０２月２５日を予定しています。<br>\n⇒ <a href=\"#new\">最新更新レポート</a>"
+   "html": "\n最新の更新は２００６年０４月２５日です。<br>\n次回の更新は未定です。<br>\n⇒ <a href=\"#new\">最新更新レポート</a>"
   },
   {
    "type": "raw",
@@ -48,7 +57,13 @@
    "attrs": {
     "class": "d_tx"
    },
-   "html": "○ 公開日 ：　２００３年１１月０７日<br>\n○ 総ファイルサイズ ：　４．６２ＭＢ<br>\n○ 総ファイル数 ：　１１８８ファイル　（ＣＳＳファイルを含む）<br>\n○ おすすめファイル ：\n<table class=\"y1\"><tbody><tr>\n<td class=\"lt\"><a href=\"../1949/09indir.html\">インド象インディラ来日</a></td>\n<td class=\"lt\"><a href=\"../1901/10je_do.html\">日英同盟交渉開始</a></td>\n<td class=\"lt\"><a href=\"../1928/03syone.html\">少年店員たちの争議</a></td>\n</tr><tr>\n<td class=\"lt\"><a href=\"../1917/11balfo.html\">バルフォア宣言</a></td>\n<td class=\"lt\"><a href=\"../1921/05baisy.html\">賠償金1320億金マルクを要求</a></td>\n<td class=\"lt\"><a href=\"../1941/11syuma.html\">「戦争終末促進案」決定</a></td>\n</tr></tbody></table>\n○ 経過 ：\n<table class=\"line\">\n<tbody><tr class=\"n\"><td id=\"l\">2003/11/07　　<a href.html\"=\"\">\n「クリック２０世紀」初公開</a></td></tr>\n<tr class=\"b\"><td id=\"l\">2003/11/12　　<a href=\"http://dir.yahoo.co.jp/Arts/Humanities/History/By_Time_Period/20th_Century/\" target=\"_blank\">\nYahoo! JAPAN に登録される</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2003/11/15　　<a href.html\"=\"\">\n閲覧総ページ数１万ページ突破</a></td></tr>\n<tr class=\"b\"><td id=\"l\">2003/11/17　　<a href=\"http://www.google.co.jp/\" target=\"_blank\">\ngoogle での検索が可能に</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2003/11/17　　<a href.html\"=\"\">\n訪問者総数１万人突破</a></td></tr>\n<tr class=\"b\"><td id=\"l\">2003/11/20　　<a href=\"http://dir.yahoo.co.jp/new/20031120.html\">\nYahoo! JAPAN 「サーファーが選ぶ 日替わりサイト」で紹介される</a></td></tr>\n<tr class=\"b\"><td id=\"l\">2003/11/20　　<a href=\"http://dnavi.ndl.go.jp/\" target=\"_blank\">\n国立国会図書館データベース・ナビゲーション・サービスに登録される</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2003/11/20　　<a href.html\"=\"\">\n閲覧20ページ以上の訪問者総数100人突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2003/11/23　　<a href.html\"=\"\">\n閲覧総ページ数５万ページ突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2003/11/26　　<a href.html\"=\"\">\n閲覧30分以上の訪問者総数100人突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2003/12/05　　<a href.html\"=\"\">\n閲覧総ページ数10万ページ突破</a></td></tr>\n</tbody></table>\n○ taro's コメント ：<br>\n公開早々Yahoo! のプロネットサーファーその他、多くの方に高く評価されたこと、望外の喜びです。\n好評価の背後に、今後への期待があることは十分に理解できているつもりなので、\nこれからも高い理想に向かって、こつこつ頑張っていきたいと思っています。\nまずは、紹介してくださった方々、閲覧してくださったみなさんに感謝！　です。<br>\n○ ダウンロード：　<a href=\"c20_1188.lzh\">1188 ファイル版</a>　（1.75MB／ＬＺＨファイル）<br>\n"
+   "html": "○ 公開日 ：　２００３年１１月０７日<br>\n○ 総ファイルサイズ ：　４．６２ＭＢ<br>\n○ 総ファイル数 ：　１１８８ファイル　（ＣＳＳファイルを含む）<br>\n○ おすすめファイル ：\n<table class=\"y1\"><tbody><tr>\n<td class=\"lt\"><a href=\"../1949/09indir.html\">インド象インディラ来日</a></td>\n<td class=\"lt\"><a href=\"../1901/10je_do.html\">日英同盟交渉開始</a></td>\n<td class=\"lt\"><a href=\"../1928/03syone.html\">少年店員たちの争議</a></td>\n</tr><tr>\n<td class=\"lt\"><a href=\"../1917/11balfo.html\">バルフォア宣言</a></td>\n<td class=\"lt\"><a href=\"../1921/05baisy.html\">賠償金1320億金マルクを要求</a></td>\n<td class=\"lt\"><a href=\"../1941/11syuma.html\">「戦争終末促進案」決定</a></td>\n</tr></tbody></table>\n○ 経過 ：\n<table class=\"line\">\n<tbody><tr class=\"n\"><td id=\"l\">2003/11/07　　<a href.html\"=\"\">\n「クリック２０世紀」初公開</a></td></tr>\n<tr class=\"b\"><td id=\"l\">2003/11/12　　<a href=\"http://dir.yahoo.co.jp/Arts/Humanities/History/By_Time_Period/20th_Century/\" target=\"_blank\">\nYahoo! JAPAN に登録される</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2003/11/15　　<a href.html\"=\"\">\n閲覧総ページ数１万ページ突破</a></td></tr>\n<tr class=\"b\"><td id=\"l\">2003/11/17　　<a href=\"http://www.google.co.jp/\" target=\"_blank\">\ngoogle での検索が可能に</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2003/11/17　　<a href.html\"=\"\">\n訪問者総数１万人突破</a></td></tr>\n<tr class=\"b\"><td id=\"l\">2003/11/20　　<a href=\"http://dir.yahoo.co.jp/new/20031120.html\">\nYahoo! JAPAN 「サーファーが選ぶ 日替わりサイト」で紹介される</a></td></tr>\n<tr class=\"b\"><td id=\"l\">2003/11/20　　<a href=\"http://dnavi.ndl.go.jp/\" target=\"_blank\">\n国立国会図書館データベース・ナビゲーション・サービスに登録される</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2003/11/20　　<a href.html\"=\"\">\n閲覧20ページ以上の訪問者総数100人突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2003/11/23　　<a href.html\"=\"\">\n閲覧総ページ数５万ページ突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2003/11/26　　<a href.html\"=\"\">\n閲覧30分以上の訪問者総数100人突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2003/12/05　　<a href.html\"=\"\">\n閲覧総ページ数10万ページ突破</a></td></tr>\n</tbody></table>\n○ taro's コメント ：<br>\n公開早々Yahoo! のプロネットサーファーその他、多くの方に高く評価されたこと、望外の喜びです。\n好評価の背後に、今後への期待があることは十分に理解できているつもりなので、\nこれからも高い理想に向かって、こつこつ頑張っていきたいと思っています。\nまずは、紹介してくださった方々、閲覧してくださったみなさんに感謝！　です。<br>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
   },
   {
    "type": "raw",
@@ -64,7 +79,13 @@
    "attrs": {
     "class": "d_tx"
    },
-   "html": "○ 公開日 ：　２００３年１２月０７日<br>\n○ 総ファイルサイズ ：　６．３２ＭＢ　（ＬＺＨファイルを除く）<br>\n○ 総ファイル数 ：　１２８６ファイル　（ＣＳＳファイルを含む）<br>\n○ おすすめファイル ：\n<table class=\"y1\"><tbody><tr>\n<td class=\"lt\"><a href=\"../1943/07sicil.html\">連合軍、シシリー島上陸</a></td>\n<td class=\"lt\"><a href=\"../1927/07akuta.html\">芥川龍之介自殺</a></td>\n<td class=\"lt\"><a href=\"../1934/04hacik.html\">渋谷駅前にハチ公の銅像建立</a></td>\n</tr><tr>\n<td class=\"lt\"><a href=\"../1933/02kobay.html\">小林多喜二、拷問死</a></td>\n<td class=\"lt\"><a href=\"../1905/05nihon.html\">日本海海戦</a></td>\n<td class=\"lt\"><a href=\"../1905/01cinon.html\">血の日曜日事件</a></td>\n</tr></tbody></table>\n○ 更新の主なポイント ：<br>\n１．「書籍ファイル」を新設。<br>\n２．関連各ファイルに「書籍ファイル」内の引用を配置。<br>\n３．人物ファイルを新規作成。<br>\n４．<a href=\"taro.html\">「ｔａｒｏ について」</a>、<a href=\"opi.html\">「ｔａｒｏ の意見」</a>、「更新レポート」を作成。<br>\n５．事項ファイルに「taro's トーク」を、人物ファイルに「エピソード」を追加掲載。　など。<br>\n○ 経過 ：\n<table class=\"line\">\n<tbody><tr class=\"n\"><td id=\"l\">2003/12/07　　<a href.html\"=\"\">\n「クリック２０世紀」更新</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2003/12/09　　<a href.html\"=\"\">\n閲覧20ページ以上の訪問者総数500人突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2003/12/12　　<a href.html\"=\"\">\n訪問者総数５万人突破</a></td></tr>\n<tr class=\"b\"><td id=\"l\">2003/12/16　　<a href=\"opi.html\">\n「ｔａｒｏ の意見」に「小泉氏がペテン師だというよりも」を追加</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2003/12/22　　<a href.html\"=\"\">\n閲覧総ページ数20万ページ突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2003/12/26　　<a href.html\"=\"\">\n「クリック２０世紀」公開50日　（訪問者：76689／閲覧ページ：221331）</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2003/12/29　　<a href.html\"=\"\">\n閲覧20ページ以上の訪問者総数1000人突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2003/12/30　　<a href.html\"=\"\">\n閲覧30分以上の訪問者総数500人突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2004/01/04　　<a href.html\"=\"\">\n閲覧総ページ数30万ページ突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2004/01/06　　<a href.html\"=\"\">\n訪問者総数10万人突破</a></td></tr>\n</tbody></table>\n○ taro's コメント ：<br>\n年末の忙しい時期も含め、多くの方に見に来てもらいました。\nありがとうございます。<br>\n事項ファイルのうち、多くの方に見ていただいたものは、順に<a href=\"../1944/06norma.html\">「連合軍、ノルマンディー上陸作戦開始」</a>、\n<a href=\"../1948/12senpa.html\">「東條英機・広田弘毅ら７人、絞首刑執行」</a>、\n<a href=\"../1905/05nihon.html\">「日本海海戦」</a>、\n人物ファイルでは、順に<a href=\"../p/hitler_a.html\">「アドルフ・ヒトラー」</a>、\n<a href=\"../p/kjutaro.html\">「小村寿太郎」</a>、<a href=\"../p/theihaci.html\">「東郷平八郎」</a>です。\nこれらのファイルをあらためて見るにつけ、いったいどれほど満足していただけたことやら、背筋のぞっとする思いです。<br>\n自信を持ってお目にかけられるものが１枚でも多くなるよう今年も頑張りますので、どうぞよろしくお願いします。<br>\n○ ダウンロード：　<a href=\"c20_1286.lzh\">1286 ファイル版</a>　（2.69MB／ＬＺＨファイル）<br>\n"
+   "html": "○ 公開日 ：　２００３年１２月０７日<br>\n○ 総ファイルサイズ ：　６．３２ＭＢ　（ＬＺＨファイルを除く）<br>\n○ 総ファイル数 ：　１２８６ファイル　（ＣＳＳファイルを含む）<br>\n○ おすすめファイル ：\n<table class=\"y1\"><tbody><tr>\n<td class=\"lt\"><a href=\"../1943/07sicil.html\">連合軍、シシリー島上陸</a></td>\n<td class=\"lt\"><a href=\"../1927/07akuta.html\">芥川龍之介自殺</a></td>\n<td class=\"lt\"><a href=\"../1934/04hacik.html\">渋谷駅前にハチ公の銅像建立</a></td>\n</tr><tr>\n<td class=\"lt\"><a href=\"../1933/02kobay.html\">小林多喜二、拷問死</a></td>\n<td class=\"lt\"><a href=\"../1905/05nihon.html\">日本海海戦</a></td>\n<td class=\"lt\"><a href=\"../1905/01cinon.html\">血の日曜日事件</a></td>\n</tr></tbody></table>\n○ 更新の主なポイント ：<br>\n１．「書籍ファイル」を新設。<br>\n２．関連各ファイルに「書籍ファイル」内の引用を配置。<br>\n３．人物ファイルを新規作成。<br>\n４．<a href=\"taro.html\">「ｔａｒｏ について」</a>、<a href=\"opi.html\">「ｔａｒｏ の意見」</a>、「更新レポート」を作成。<br>\n５．事項ファイルに「taro's トーク」を、人物ファイルに「エピソード」を追加掲載。　など。<br>\n○ 経過 ：\n<table class=\"line\">\n<tbody><tr class=\"n\"><td id=\"l\">2003/12/07　　<a href.html\"=\"\">\n「クリック２０世紀」更新</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2003/12/09　　<a href.html\"=\"\">\n閲覧20ページ以上の訪問者総数500人突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2003/12/12　　<a href.html\"=\"\">\n訪問者総数５万人突破</a></td></tr>\n<tr class=\"b\"><td id=\"l\">2003/12/16　　<a href=\"opi.html\">\n「ｔａｒｏ の意見」に「小泉氏がペテン師だというよりも」を追加</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2003/12/22　　<a href.html\"=\"\">\n閲覧総ページ数20万ページ突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2003/12/26　　<a href.html\"=\"\">\n「クリック２０世紀」公開50日　（訪問者：76689／閲覧ページ：221331）</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2003/12/29　　<a href.html\"=\"\">\n閲覧20ページ以上の訪問者総数1000人突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2003/12/30　　<a href.html\"=\"\">\n閲覧30分以上の訪問者総数500人突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2004/01/04　　<a href.html\"=\"\">\n閲覧総ページ数30万ページ突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2004/01/06　　<a href.html\"=\"\">\n訪問者総数10万人突破</a></td></tr>\n</tbody></table>\n○ taro's コメント ：<br>\n年末の忙しい時期も含め、多くの方に見に来てもらいました。\nありがとうございます。<br>\n事項ファイルのうち、多くの方に見ていただいたものは、順に<a href=\"../1944/06norma.html\">「連合軍、ノルマンディー上陸作戦開始」</a>、\n<a href=\"../1948/12senpa.html\">「東條英機・広田弘毅ら７人、絞首刑執行」</a>、\n<a href=\"../1905/05nihon.html\">「日本海海戦」</a>、\n人物ファイルでは、順に<a href=\"../p/hitler_a.html\">「アドルフ・ヒトラー」</a>、\n<a href=\"../p/kjutaro.html\">「小村寿太郎」</a>、<a href=\"../p/theihaci.html\">「東郷平八郎」</a>です。\nこれらのファイルをあらためて見るにつけ、いったいどれほど満足していただけたことやら、背筋のぞっとする思いです。<br>\n自信を持ってお目にかけられるものが１枚でも多くなるよう今年も頑張りますので、どうぞよろしくお願いします。<br>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
   },
   {
    "type": "raw",
@@ -80,15 +101,13 @@
    "attrs": {
     "class": "d_tx"
    },
-   "html": "○ 公開日 ：　２００４年０１月０９日<br>\n○ 総ファイルサイズ ：　８．２２ＭＢ　（ＬＺＨファイルを除く）<br>\n○ 総ファイル数 ：　１４０３ファイル　（ＣＳＳファイルを含む）<br>\n○ おすすめファイル ：\n<table class=\"y1\"><tbody><tr>\n<td class=\"lt\"><a href=\"../1938/09sudet.html\">ミュンヘン協定</a></td>\n<td class=\"lt\"><a href=\"../1910/08k_heg.html\">韓国併合</a></td>\n<td class=\"lt\"><a href=\"../1945/suzua_0.html\">鈴木貫太郎に組閣命令</a></td>\n</tr></tbody></table>\n○ 更新の主なポイント ：<br>\n１．「テーマ史ファイル」を新設。<br>\n<div class=\"i2\"><a href=\"../them/j_gov.html\">【内閣成立史】</a>、<a href=\"../them/jr_war.html\">【日露戦争史】</a></div>\n２．詳細ファイルとして各内閣の閣僚名簿を作成。<br>\n<div class=\"i2\"><a href=\"../1945/suzua_1~.html\">「[詳細] 鈴木（貫）内閣成立」</a>など。　閣僚名簿一覧は<a href=\"../them/j_gov.html\">【内閣成立史】</a>に。</div>\n３．人物ファイルを新規作成。<br>\n<div class=\"i2\"><a href=\"../p/htakeo.html\">「広瀬武夫」</a>、<a href=\"../p/ayosifur.html\">「秋山好古」</a>、<a href=\"../p/rozhes_z.html\">「ロジェストウェンスキー」</a>、<a href=\"../p/bose_c.html\">「チャンドラ・ボース」</a>など。</div>\n４．事項ファイルを新規作成。<br>\n<div class=\"i2\"><a href=\"../1904/11203ko.html\">「第三軍、二〇三高地を一時占拠」</a>、<a href=\"../1900/ito4_1.html\">「伊藤内閣④成立」</a>、<a href=\"../1904/10dogge.html\">「ドッガー・バンク事件」</a>など。</div>\n５．書籍ファイルを新規作成。<br>\n<div class=\"i2\"><a href=\"../text/ks_ig101.html\">「イギリス史重要人物１０１」</a>、<a href=\"../text/ks_nse26.html\">「世界の歴史（26）」</a>、<a href=\"../text/ft_nicir.html\">「日露戦争」</a>など。</div>\n６．人物ファイルに関連年表を設置。<br>\n<div class=\"i2\"><a href=\"../p/kfumimar.html\">「近衛文麿」</a>、<a href=\"../p/truman_h.html\">「トルーマン」</a>、<a href=\"../p/motakuto.html\">「毛沢東」</a>、<a href=\"../p/tsigenor.html\">「東郷茂徳」</a>、<a href=\"../p/gandhi_m.html\">「ガンジー」</a>、<a href=\"../p/stenno.html\">「昭和天皇」</a>など。</div>\n７．事項ファイルに「taro's トーク」を、人物ファイルに「エピソード」を追加掲載。<br>\n<div class=\"i2\"><a href=\"../p/nosami.html\">「永野修身」</a>、<a href=\"../1908/03suehi.html\">「末弘ヒロ子、「ヘラルド・トリビューン」主催の世界美人投票に選出」</a>など。</div>\n○ 経過 ：\n<table class=\"line\">\n<tbody><tr class=\"n\"><td id=\"l\">2004/01/09　　<a href.html\"=\"\">\n「クリック２０世紀」更新</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2004/01/11　　<a href.html\"=\"\">\n閲覧総ページ数40万ページ突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2004/01/12　　<a href.html\"=\"\">\n閲覧20ページ以上の訪問者総数2000人突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2004/01/13　　<a href.html\"=\"\">\n閲覧30分以上の訪問者総数1000人突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2004/01/16　　<a href.html\"=\"\">\n閲覧総ページ数50万ページ突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2004/01/21　　<a href.html\"=\"\">\n閲覧総ページ数60万ページ突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2004/01/21　　<a href.html\"=\"\">\n閲覧20ページ以上の訪問者総数3000人突破</a></td></tr>\n</tbody></table>\n○ taro's コメント ：<br>\n各ページに<a href=\"mailto:uh@usleaf2001.com\">「お便り ドシドシ」</a>を配置しましたので\nこの効果でしょうか、励ましや励みになるお便りがたくさん届くようになりました。\nメールをくださった方に、ここであらためて御礼申し上げます。<br>\n批判や反論のメールはまだ一通も届きません。どうぞ遠慮なくメールをお送りください。\n誠実に対処させていただきますし、できれば、そのようなご意見を出発点に、さらに進化していきたいと思っています。<br>\n2004年１月（20日まで）の人気ファイルは、<a href=\"../p/hitler_a.html\">「アドルフ・ヒトラー」</a>、\n<a href=\"../1931/09ryujo.html\">「柳条湖事件」</a>、<a href=\"../p/thideki.html\">「東條英機」</a>、\n<a href=\"../p/theihaci.html\">「東郷平八郎」</a>、<a href=\"../1905/05nihon.html\">「日本海海戦」</a>、\n<a href=\"../1948/11tokyo.html\">「東京裁判、Ａ級戦犯25被告に有罪判決」</a>、<a href=\"../p/stenno.html\">「昭和天皇」</a>、\n<a href=\"../1950/06cyose.html\">「朝鮮戦争勃発」</a>、<a href=\"../1932/03mansy.html\">「満州国建国宣言」</a>、\n<a href=\"../p/asaneyuk.html\">「秋山真之」</a>でした。<br>\n○ ダウンロード：　<a href=\"c20_1403.lzh\">1403 ファイル版</a>　（3.43MB／ＬＺＨファイル）<br>\n"
+   "html": "○ 公開日 ：　２００４年０１月０９日<br>\n○ 総ファイルサイズ ：　８．２２ＭＢ　（ＬＺＨファイルを除く）<br>\n○ 総ファイル数 ：　１４０３ファイル　（ＣＳＳファイルを含む）<br>\n○ おすすめファイル ：\n<table class=\"y1\"><tbody><tr>\n<td class=\"lt\"><a href=\"../1938/09sudet.html\">ミュンヘン協定</a></td>\n<td class=\"lt\"><a href=\"../1910/08k_heg.html\">韓国併合</a></td>\n<td class=\"lt\"><a href=\"../1945/suzua_0.html\">鈴木貫太郎に組閣命令</a></td>\n</tr></tbody></table>\n○ 更新の主なポイント ：<br>\n１．「テーマ史ファイル」を新設。<br>\n<div class=\"i2\"><a href=\"../them/j_gov.html\">【内閣成立史】</a>、<a href=\"../them/jr_war.html\">【日露戦争史】</a></div>\n２．詳細ファイルとして各内閣の閣僚名簿を作成。<br>\n<div class=\"i2\"><a href=\"../1945/suzua_1~.html\">「[詳細] 鈴木（貫）内閣成立」</a>など。　閣僚名簿一覧は<a href=\"../them/j_gov.html\">【内閣成立史】</a>に。</div>\n３．人物ファイルを新規作成。<br>\n<div class=\"i2\"><a href=\"../p/htakeo.html\">「広瀬武夫」</a>、<a href=\"../p/ayosifur.html\">「秋山好古」</a>、<a href=\"../p/rozhes_z.html\">「ロジェストウェンスキー」</a>、<a href=\"../p/bose_c.html\">「チャンドラ・ボース」</a>など。</div>\n４．事項ファイルを新規作成。<br>\n<div class=\"i2\"><a href=\"../1904/11203ko.html\">「第三軍、二〇三高地を一時占拠」</a>、<a href=\"../1900/ito4_1.html\">「伊藤内閣④成立」</a>、<a href=\"../1904/10dogge.html\">「ドッガー・バンク事件」</a>など。</div>\n５．書籍ファイルを新規作成。<br>\n<div class=\"i2\"><a href=\"../text/ks_ig101.html\">「イギリス史重要人物１０１」</a>、<a href=\"../text/ks_nse26.html\">「世界の歴史（26）」</a>、<a href=\"../text/ft_nicir.html\">「日露戦争」</a>など。</div>\n６．人物ファイルに関連年表を設置。<br>\n<div class=\"i2\"><a href=\"../p/kfumimar.html\">「近衛文麿」</a>、<a href=\"../p/truman_h.html\">「トルーマン」</a>、<a href=\"../p/motakuto.html\">「毛沢東」</a>、<a href=\"../p/tsigenor.html\">「東郷茂徳」</a>、<a href=\"../p/gandhi_m.html\">「ガンジー」</a>、<a href=\"../p/stenno.html\">「昭和天皇」</a>など。</div>\n７．事項ファイルに「taro's トーク」を、人物ファイルに「エピソード」を追加掲載。<br>\n<div class=\"i2\"><a href=\"../p/nosami.html\">「永野修身」</a>、<a href=\"../1908/03suehi.html\">「末弘ヒロ子、「ヘラルド・トリビューン」主催の世界美人投票に選出」</a>など。</div>\n○ 経過 ：\n<table class=\"line\">\n<tbody><tr class=\"n\"><td id=\"l\">2004/01/09　　<a href.html\"=\"\">\n「クリック２０世紀」更新</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2004/01/11　　<a href.html\"=\"\">\n閲覧総ページ数40万ページ突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2004/01/12　　<a href.html\"=\"\">\n閲覧20ページ以上の訪問者総数2000人突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2004/01/13　　<a href.html\"=\"\">\n閲覧30分以上の訪問者総数1000人突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2004/01/16　　<a href.html\"=\"\">\n閲覧総ページ数50万ページ突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2004/01/21　　<a href.html\"=\"\">\n閲覧総ページ数60万ページ突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2004/01/21　　<a href.html\"=\"\">\n閲覧20ページ以上の訪問者総数3000人突破</a></td></tr>\n</tbody></table>\n○ taro's コメント ：<br>\n各ページに<a href=\"mailto:taro@c20.jp\">「おたよりはこちら」</a>を配置しましたので\nこの効果でしょうか、励ましや励みになるお便りがたくさん届くようになりました。\nメールをくださった方に、ここであらためて御礼申し上げます。<br>\n批判や反論のメールはまだ一通も届きません。どうぞ遠慮なくメールをお送りください。\n誠実に対処させていただきますし、できれば、そのようなご意見を出発点に、さらに進化していきたいと思っています。<br>\n2004年１月（20日まで）の人気ファイルは、<a href=\"../p/hitler_a.html\">「アドルフ・ヒトラー」</a>、\n<a href=\"../1931/09ryujo.html\">「柳条湖事件」</a>、<a href=\"../p/thideki.html\">「東條英機」</a>、\n<a href=\"../p/theihaci.html\">「東郷平八郎」</a>、<a href=\"../1905/05nihon.html\">「日本海海戦」</a>、\n<a href=\"../1948/11tokyo.html\">「東京裁判、Ａ級戦犯25被告に有罪判決」</a>、<a href=\"../p/stenno.html\">「昭和天皇」</a>、\n<a href=\"../1950/06cyose.html\">「朝鮮戦争勃発」</a>、<a href=\"../1932/03mansy.html\">「満州国建国宣言」</a>、\n<a href=\"../p/asaneyuk.html\">「秋山真之」</a>でした。<br>\n"
   },
   {
    "type": "raw",
-   "tag": "a",
-   "attrs": {
-    "name": "new"
-   },
-   "html": "　"
+   "tag": "br",
+   "attrs": {},
+   "html": ""
   },
   {
    "type": "raw",
@@ -104,7 +123,73 @@
    "attrs": {
     "class": "d_tx"
    },
-   "html": "○ 公開日 ：　２００４年０１月２５日<br>\n○ 総ファイルサイズ ：　８．４５ＭＢ　（ＬＺＨファイルを除く）<br>\n○ 総ファイル数 ：　１４２６ファイル　（ＣＳＳファイルを含む）<br>\n○ おすすめファイル ：\n<table class=\"y1\"><tbody><tr>\n<td class=\"lt\"><a href=\"../1948/05drape.html\">ドレーパー報告</a></td>\n<td class=\"lt\"><a href=\"../1905/01kokk1.html\">黒溝台会戦</a></td>\n<td class=\"lt\"><a href=\"../1918/01wil14.html\">ウイルソン １４か条宣言</a></td>\n</tr></tbody></table>\n○ 更新の主なポイント ：<br>\n１．テーマ史ファイルを新規作成。<br>\n<div class=\"i2\"><a href=\"../them/j_gov03.html\">【内閣成立史 03】</a>、<a href=\"../them/jr_war02.html\">【日露戦争史 02】</a></div>\n２．人物ファイルを新規作成。<br>\n<div class=\"i2\"><a href=\"../p/seitaigo.html\">「西太后」</a>、<a href=\"../p/stugumic.html\">「西郷従道」</a>、<a href=\"../p/ihayato.html\">「池田勇人」</a>、<a href=\"../p/mrenya.html\">「牟田口廉也」</a>、<a href=\"../p/ytomoyuk.html\">「山下奉文」</a>、<a href=\"../p/msiki.html\">「正岡子規」</a>など。</div>\n３．書籍ファイルを新規作成。<br>\n<div class=\"i2\"><a href=\"../text/ir_cy101.html\">「中国史重要人物１０１」</a>、<a href=\"../text/it_syaka.html\">「「社会」に出てくる人物Ⅴ」</a>、<a href=\"../text/tm_saion.html\">「西園寺公望」</a>など。</div>\n４．事項ファイルに「taro's トーク」を、人物ファイルに「エピソード」を追加掲載。<br>\n<div class=\"i2\"><a href=\"../p/nehru_j.html\">「ネール」</a>、<a href=\"../p/oyukio.html\">「尾崎行雄」</a>、<a href=\"../1904/11203ko.html\">「第三軍、二〇三高地を一時占拠」</a>、<a href=\"../1905/07taftk.html\">「桂・タフト協定」</a>など。</div>\n○ 経過 ：\n<table class=\"line\">\n<tbody><tr class=\"n\"><td id=\"l\">2004/01/25　　<a href.html\"=\"\">\n「クリック２０世紀」更新</a></td></tr>\n</tbody></table>\n\n\n\n\n"
+   "html": "○ 公開日 ：　２００４年０１月２５日<br>\n○ 総ファイルサイズ ：　８．４５ＭＢ<br>\n○ 総ファイル数 ：　１４２６ファイル　（ＣＳＳファイルを含む）<br>\n○ おすすめファイル ：\n<table class=\"y1\"><tbody><tr>\n<td class=\"lt\"><a href=\"../1948/05drape.html\">ドレーパー報告</a></td>\n<td class=\"lt\"><a href=\"../1905/01kokk1.html\">黒溝台会戦</a></td>\n<td class=\"lt\"><a href=\"../1918/01wil14.html\">ウイルソン １４ヵ条宣言</a></td>\n</tr></tbody></table>\n○ 更新の主なポイント ：<br>\n１．テーマ史ファイルを新規作成。<br>\n<div class=\"i2\"><a href=\"../them/j_gov03.html\">【内閣成立史 03】</a>、<a href=\"../them/jr_war02.html\">【日露戦争史 02】</a></div>\n２．人物ファイルを新規作成。<br>\n<div class=\"i2\"><a href=\"../p/seitaigo.html\">「西太后」</a>、<a href=\"../p/stugumic.html\">「西郷従道」</a>、<a href=\"../p/ihayato.html\">「池田勇人」</a>、<a href=\"../p/mrenya.html\">「牟田口廉也」</a>、<a href=\"../p/ytomoyuk.html\">「山下奉文」</a>、<a href=\"../p/msiki.html\">「正岡子規」</a>など。</div>\n３．書籍ファイルを新規作成。<br>\n<div class=\"i2\"><a href=\"../text/ir_cy101.html\">「中国史重要人物１０１」</a>、<a href=\"../text/it_syaka.html\">「「社会」に出てくる人物Ⅴ」</a>、<a href=\"../text/tm_saion.html\">「西園寺公望」</a>など。</div>\n４．事項ファイルに「taro's トーク」を、人物ファイルに「エピソード」を追加掲載。<br>\n<div class=\"i2\"><a href=\"../p/nehru_j.html\">「ネール」</a>、<a href=\"../p/oyukio.html\">「尾崎行雄」</a>、<a href=\"../1904/11203ko.html\">「第三軍、二〇三高地を一時占拠」</a>、<a href=\"../1905/07taftk.html\">「桂・タフト協定」</a>など。</div>\n○ 経過 ：\n<table class=\"line\">\n<tbody><tr class=\"n\"><td id=\"l\">2004/01/25　　<a href.html\"=\"\">\n「クリック２０世紀」更新</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2004/01/26　　<a href.html\"=\"\">\n閲覧総ページ数70万ページ突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2004/01/28　　<a href.html\"=\"\">\n閲覧30分以上の訪問者総数2000人突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2004/01/29　　<a href.html\"=\"\">\n閲覧20ページ以上の訪問者総数4000人突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2004/01/31　　<a href.html\"=\"\">\n閲覧総ページ数80万ページ突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2004/02/05　　<a href.html\"=\"\">\n訪問者総数20万人突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2004/02/05　　<a href.html\"=\"\">\n閲覧総ページ数90万ページ突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2004/02/07　　<a href.html\"=\"\">\n閲覧20ページ以上の訪問者総数5000人突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2004/02/10　　<a href.html\"=\"\">\n閲覧総ページ数100万ページ突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2004/02/12　　<a href.html\"=\"\">\n閲覧30分以上の訪問者総数3000人突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2004/02/14　　<a href.html\"=\"\">\n「クリック２０世紀」公開100日　（訪問者：227804／閲覧ページ：1085717）</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2004/02/15　　<a href.html\"=\"\">\n閲覧20ページ以上の訪問者総数6000人突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2004/02/22　　<a href.html\"=\"\">\n閲覧20ページ以上の訪問者総数7000人突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2004/02/27　　<a href.html\"=\"\">\n閲覧30分以上の訪問者総数4000人突破</a></td></tr>\n</tbody></table>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "d_head"
+   },
+   "html": "<b>∇</b> 1431 ファイル版"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "d_tx"
+   },
+   "html": "○ 公開日 ：　２００４年０３月０２日<br>\n○ 総ファイルサイズ ：　８．６５ＭＢ<br>\n○ 総ファイル数 ：　１４３１ファイル　（ＣＳＳファイルを含む）<br>\n○ おすすめファイル ：\n<table class=\"y1\"><tbody><tr>\n<td class=\"lt\"><a href=\"../1904/02kanek.html\">金子特使渡米</a></td>\n<td class=\"lt\"><a href=\"../p/kuropa_a.html\">クロパトキン</a></td>\n<td class=\"lt\"><a href=\"../1904/02jk_gi.html\">日韓議定書調印</a></td>\n</tr></tbody></table>\n○ 更新の主なポイント ：<br>\n１．テーマ史ファイルを新規作成。<br>\n<div class=\"i2\"><a href=\"../them/j_gov04.html\">【内閣成立史 04】</a>、<a href=\"../them/jr_war03.html\">【日露戦争史 03】</a></div>\n２．事項ファイルを新規作成。<br>\n<div class=\"i2\"><a href=\"../1904/02kanek.html\">「金子特使渡米」</a>、<a href=\"../1904/02takah.html\">「高橋日銀副総裁渡米」</a></div>\n３．書籍ファイルを新規作成。<br>\n<div class=\"i2\"><a href=\"../text/ro_soren.html\">「ソ連から見た日露戦争」</a></div>\n４．事項ファイルに「taro's トーク」を、人物ファイルに「エピソード」を追加掲載。<br>\n<div class=\"i2\"><a href=\"../p/tgiici.html\">「田中義一」</a>、<a href=\"../p/ttakejir.html\">「床次竹二郎」</a>、<a href=\"../1944/06maria.html\">「マリアナ沖海戦」</a>、<a href=\"../1936/hiro_1.html\">「広田内閣成立」</a>、<a href=\"../1934/04teiji.html\">「帝人事件発覚」</a>など。</div>\n○ 経過 ：\n<table class=\"line\">\n<tbody><tr class=\"n\"><td id=\"l\">2004/03/02　　<a href.html\"=\"\">\n「クリック２０世紀」更新</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2004/03/03　　<a href.html\"=\"\">\n閲覧20ページ以上の訪問者総数8000人突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2004/03/10　　<a href.html\"=\"\">\n訪問者総数30万人突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2004/03/12　　<a href.html\"=\"\">\n閲覧20ページ以上の訪問者総数9000人突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2004/03/15　　<a href.html\"=\"\">\n閲覧30分以上の訪問者総数5000人突破</a></td></tr>\n<tr class=\"n\"><td id=\"l\">2004/03/25　　<a href.html\"=\"\">\n閲覧20ページ以上の訪問者総数１万人突破</a></td></tr>\n</tbody></table>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "d_head"
+   },
+   "html": "<b>∇</b> 1455 ファイル版"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "d_tx"
+   },
+   "html": "○ 公開日 ：　２００４年０４月０３日<br>\n○ 総ファイルサイズ ：　９．６５ＭＢ<br>\n○ 総ファイル数 ：　１４５５ファイル　（ＣＳＳファイルを含む）<br>\n○ おすすめファイル ：\n<table class=\"y1\"><tbody><tr>\n<td class=\"lt\"><a href=\"../them/ysenji01.html\">【テーマ・山本宣治／１９２５】</a></td>\n<td class=\"lt\"><a href=\"../p/ysenji.html\">山本宣治</a></td>\n<td class=\"lt\"><a href=\"../1929/02danat.html\">山本宣治、弾圧政策を追及</a></td>\n</tr></tbody></table>\n○ 更新の主なポイント ：<br>\n１．テーマ史ファイルに<a href=\"../them/1mensi.html\">【人物一面史】</a>を新設。<br>\n<div class=\"i2\"><a href=\"../them/ysenji01.html\">【山本宣治：京都労働学校校長／１９２５】</a>、<a href=\"../them/myosuk01.html\">【松岡洋右：近衛内閣②外相／１９４１】</a></div>\n２．テーマ史ファイルを新規作成。<br>\n<div class=\"i2\"><a href=\"../them/j_gov05.html\">【内閣成立史 05】</a>、<a href=\"../them/jr_war04.html\">【日露戦争史 04】</a></div>\n３．事項ファイルを新規作成。<br>\n<div class=\"i2\"><a href=\"../1922/03sange.html\">「サンガー夫人来日」</a>、<a href=\"../1926/01gakur.html\">「京都学連事件」</a>、<a href=\"../1928/03315ji.html\">「三・一五事件」</a>など。\n</div>\n４．人物ファイルを新規作成。<br>\n<div class=\"i2\"><a href=\"../p/omineo.html\">「大角岑生」</a>、<a href=\"../p/kheitaro.html\">「木村兵太郎」</a>\n</div>\n５．書籍ファイルを新規作成。<br>\n<div class=\"i2\"><a href=\"../text/st_yamas.html\">「山本宣治」</a>、<a href=\"../text/ti_yosid.html\">「小説 吉田茂」</a>、<a href=\"../text/nn_hitle.html\">「ヒトラーの時代」</a>、<a href=\"../text/ah_20nih.html\">「二十世紀　日本の戦争」</a></div>\n６．「taro の意見」に<a href=\"../taro/opi.html\">「taro的「天皇の戦争責任」論」</a>を追加。<br>\n７．<a href=\"../taro/zakk.html\">「taro の雑記帳」</a>を新設。<a href=\"../taro/zakk0001.html\">「クロパトキンの歌」</a>を作成。<br>\n８．事項ファイルに「taro's トーク」を、人物ファイルに「エピソード」を追加掲載。<br>\n<div class=\"i2\"><a href=\"../p/ysigeru.html\">「吉田茂」</a>、<a href=\"../p/skinmoci.html\">「西園寺公望」</a>、<a href=\"../1928/06ciani.html\">「治安維持法改正①」</a>、<a href=\"../1944/06norma.html\">「ノルマンディー上陸作戦開始」</a>など。</div>\n○ 経過 ：\n<table class=\"line\">\n<tbody><tr class=\"n\"><td id=\"l\">2004/04/03　　<a href.html\"=\"\">\n「クリック２０世紀」更新</a></td></tr>\n</tbody></table>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "d_head"
+   },
+   "html": "<b>∇</b> 1593 ファイル版"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "d_tx"
+   },
+   "html": "○ 公開日 ：　２００５年１２月０５日<br>\n○ 総ファイルサイズ ：　１０．１ＭＢ<br>\n○ 総ファイル数 ：　１５９３ファイル　（ＣＳＳファイルを含む）<br>\n○ おすすめファイル ：\n<table class=\"y1\"><tbody><tr>\n<td class=\"lt\"><a href=\"../1943/04katyn.html\">カチン虐殺事件</a></td>\n<td class=\"lt\"><a href=\"../1934/11sikan.html\">士官学校事件</a></td>\n<td class=\"lt\"><a href=\"../1944/10romme.html\">ロンメル服毒死</a></td>\n</tr></tbody></table>\n○ 更新の主なポイント ：<br>\n１．事項ファイルを新規作成。<br>\n<div class=\"i2\"><a href=\"../1902/09sikix.html\">「正岡子規病死」</a>、<a href=\"../1916/02verdu.html\">「ヴェルダン要塞攻防戦」</a>、<a href=\"../1933/11teisi.html\">「埼玉挺身隊事件」</a>、<a href=\"../1942/01wanns.html\">「バンゼー会議」</a>など。</div>\n２．人物ファイルを新規作成。<br>\n<div class=\"i2\"><a href=\"../p/pakuretu.html\">「朴烈」</a>、<a href=\"../p/hkumao.html\">「原田熊雄」</a>、<a href=\"../p/iasaici.html\">「磯部浅一」</a>、<a href=\"../p/mtakaji.html\">「村中孝次」</a>、<a href=\"../p/asaburo.html\">「相沢三郎」</a>、<a href=\"../p/tkyuici.html\">「徳田球一」</a>など。</div>\n３．書籍ファイルを新規作成。<br>\n<div class=\"i2\"><a href=\"../text/ms_syowa.html\">「昭和史発掘」</a>、<a href=\"../text/sh_tujim.html\">「参謀・辻政信」</a>、<a href=\"../text/im_musum.html\">「ある歴史の娘」</a>、<a href=\"../text/tr_sippa.html\">「失敗の本質」</a>、<a href=\"../text/yk_reisi.html\">「零式戦闘機」</a>など。\n</div>\n４．「taro の意見」に<a href=\"../taro/opi.html\">「『皇道派』？『統制派』？」</a>を追加。<br>\n\n○ 経過 ：\n<table class=\"line\">\n<tbody><tr class=\"n\"><td id=\"l\">2005/12/05　　<a href.html\"=\"\">\n「クリック２０世紀」更新</a></td></tr>\n</tbody></table>\n\n<br>\n<a name=\"new\">　</a>\n\n<div class=\"d_head\"><b>∇</b> 1609 ファイル版</div>\n\n<div class=\"d_tx\">○ 公開日 ：　２００６年０４月２５日<br>\n○ 総ファイルサイズ ：　１０．５ＭＢ<br>\n○ 総ファイル数 ：　１６０９ファイル　（ＣＳＳファイルを含む）<br>\n○ おすすめファイル ：\n<table class=\"y1\"><tbody><tr>\n<td class=\"lt\"><a href=\"../p/sonbun.html\">孫文</a></td>\n<td class=\"lt\"><a href=\"../p/soukeire.html\">宋慶齢</a></td>\n<td class=\"lt\"><a href=\"../p/motakuto.html\">毛沢東</a></td>\n</tr></tbody></table>\n○ 更新の主なポイント ：<br>\n１．事項ファイルを新規作成。<br>\n<div class=\"i2\"><a href=\"../1935/12129un.html\">「一二・九運動」</a>、<a href=\"../1935/11kitob.html\">「冀東防共自治委員会成立」</a>、<a href=\"../1925/03sonbu.html\">「孫文病死」</a>、<a href=\"../1917/07fukuh.html\">「復辟事件」</a>など。</div>\n２．書籍ファイルを新規作成。<br>\n<div class=\"i2\"><a href=\"../text/ks_cyugo.html\">「中国近現代史」</a>、<a href=\"../text/os_jinmi.html\">「人民中国への道」</a>、<a href=\"../text/ft_niccy.html\">「日中戦争」</a>、<a href=\"../text/ie_souke.html\">「宋慶齢」</a>、<a href=\"../text/os_cyosa.html\">「張作霖爆殺」</a>\n</div>\n３．「taro の意見」に<a href=\"../taro/opi.html\">「明るく元気な「戦争」観」</a>を追加。<br>\n４．「taro の雑記帳」に<a href=\"../taro/zakk0002.html\">「taro の「戦争」観　2006年4月版」</a>を追加。<br>\n</div>\n\n○ 経過 ：\n<table class=\"line\">\n<tbody><tr class=\"n\"><td id=\"l\">2006/04/25　　<a href.html\"=\"\">\n「クリック２０世紀」更新</a></td></tr>\n</tbody></table>\n\n\n\n\n"
   },
   {
    "type": "cyu",
@@ -112,7 +197,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

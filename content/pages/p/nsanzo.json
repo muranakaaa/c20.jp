@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -46,9 +55,9 @@
    "type": "raw",
    "tag": "table",
    "attrs": {
-    "class": "off"
+    "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"05n.html\">一覧　（ナ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=books-jp%26keyword=%25E9%2587%258E%25E5%259D%2582%2520%25E5%258F%2582%25E4%25B8%2589\" target=\"_blank\">本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
   },
   {
    "type": "raw",
@@ -57,14 +66,6 @@
     "class": "off"
    },
    "html": "<span class=\"m_r\">エピソード 1</span>調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
   },
   {
    "type": "timeline",
@@ -105,7 +106,7 @@
       {
        "id": null,
        "cls": "hist",
-       "html": "\n・　共産党事件①で検挙、三･一五事件で検挙･投獄され、のち病気のため仮釈放。党中央委員。"
+       "html": "\n・　共産党事件で検挙、三･一五事件で検挙･投獄され、のち病気のため仮釈放。党中央委員。"
       }
      ]
     },
@@ -162,14 +163,6 @@
    ]
   },
   {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
-  },
-  {
    "type": "timeline",
    "rows": [
     {
@@ -178,7 +171,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1922/07/15　　<a href\"..=\"\" 19.html\"=\"\">\n日本共産党結成　（委員長：</a><a href=\"../p/stosihik.html\">堺利彦</a>／秘密結社）"
+       "html": "1922/07/15　　<a href=\"../1922/07kyosa.html\">\n日本共産党結成</a>　（委員長：<a href=\"../p/stosihik.html\">堺利彦</a>／秘密結社）"
       }
      ]
     },
@@ -188,7 +181,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1923/06/05　　<a href\"..=\"\" 19.html\"=\"\">\n共産党事件①</a>　（<a href=\"../p/stosihik.html\">堺利彦</a>ら検挙）"
+       "html": "1923/06/05　　<a href\"..=\"\" 19.html\"=\"\">\n共産党事件</a>　（<a href=\"../p/stosihik.html\">堺利彦</a>ら検挙）"
       }
      ]
     },
@@ -208,7 +201,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1928/03/15　　<a href\"..=\"\" 19.html\"=\"\">\n三・一五事件　（共産党関係者一斉検挙）</a>"
+       "html": "1928/03/15　　<a href=\"../1928/03315ji.html\">\n三・一五事件</a>　（共産党関係者一斉検挙）"
       }
      ]
     },
@@ -368,49 +361,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>組織的な和平運動は、亡命した共産主義者によって海外においてのみおこなわれていた。\n中国の戦線で日本の兵士によびかけ、捕虜の組織化をくわだてていた岡野進（野坂参三）や鹿地亘の活動は、\nその代表的なものであり、とりわけ岡野進の活動は、彼が提示した和平と改革の綱領のゆえにきわだっていた。</div>\n<div>野坂参三は、一九一七年に慶応大学を卒業して友愛会の書記となり、一九年にイギリスに留学、\n二〇年にイギリス共産党に入党し、二一年にイギリス官憲から国外追放の命をうけ、\n二二年に帰国して日本共産党の党員となり、二八年に三・一五事件に連座して検挙され、\n三〇年に眼病をわずらって神戸で入院し、三一年に日本をずらかってモスクワに入り、\n岡野進の名をもってコミンテルンで活躍し、そして一九四〇年の春、延安に潜入した。\n彼は、華北の日本軍にたいする心理戦争を指導し、一九四〇年一〇月に日本工農学校を設立して捕虜を教育し、\n鹿地亘が一九三九年にはじめて組織してから各地に結成されていた反戦同盟に卒業生をおくりこみ、\nその反戦活動を次第に日本再建のための活動と統合させていった。\n反戦同盟は、一九四四年一月、その任務と活動の拡大に応じて名称を日本人民解放同盟とあらためた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ss1sengo.html\">信夫清三郎 「戦後日本政治史Ⅰ」</a>\n　Ｐ．７４</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span>組織的な和平運動は、亡命した共産主義者によって海外においてのみおこなわれていた。\n中国の戦線で日本の兵士によびかけ、捕虜の組織化をくわだてていた岡野進（野坂参三）や鹿地亘の活動は、\nその代表的なものであり、とりわけ岡野進の活動は、彼が提示した和平と改革の綱領のゆえにきわだっていた。</div>\n<div>野坂参三は、一九一七年に慶応大学を卒業して友愛会の書記となり、一九年にイギリスに留学、\n二〇年にイギリス共産党に入党し、二一年にイギリス官憲から国外追放の命をうけ、\n二二年に帰国して日本共産党の党員となり、二八年に<a href=\"../1928/03315ji.html\">三・一五事件</a>に連座して検挙され、\n三〇年に眼病をわずらって神戸で入院し、三一年に日本をずらかってモスクワに入り、\n岡野進の名をもってコミンテルンで活躍し、そして一九四〇年の春、延安に潜入した。\n彼は、華北の日本軍にたいする心理戦争を指導し、一九四〇年一〇月に日本工農学校を設立して捕虜を教育し、\n鹿地亘が一九三九年にはじめて組織してから各地に結成されていた反戦同盟に卒業生をおくりこみ、\nその反戦活動を次第に日本再建のための活動と統合させていった。\n反戦同盟は、一九四四年一月、その任務と活動の拡大に応じて名称を日本人民解放同盟とあらためた。</div>\n<div class=\"txr\"><a href=\"../text/ss1sengo.html\">信夫清三郎 「戦後日本政治史Ⅰ」</a>\n　Ｐ．７４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4326398167%2Fqid%3D1147087145%2Fsr%3D1-1%2Fref%3Dsr_1_8_1\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -418,7 +371,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

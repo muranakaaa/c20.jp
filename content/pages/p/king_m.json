@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -40,7 +49,7 @@
    "attrs": {
     "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href=\"02k.html\">一覧　（カ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"02k.html\">一覧　（カ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E3%2583%25AB%25E3%2583%25BC%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%25BB%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0\" target=\"_blank\">本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
   },
   {
    "type": "raw",
@@ -52,27 +61,11 @@
   },
   {
    "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
    "tag": "table",
    "attrs": {
     "class": "off"
    },
    "html": "<tbody><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr></tbody>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "timeline",
@@ -113,49 +106,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>一九五四年、アメリカ連邦最高裁判所が、\n公立学校における法律による白人と黒人の人種分離教育を憲法違反とする画期的な「ブラウン判決」（Brown Decision）をくだしたその同じ年、\nキングはアラバマ州都モントゴメリー（Montgomery）にある黒人教会、\n「デックスター通りバプティスト教会」（Dexter Avenue Baptist Church）で、牧師としての生活を開始する。</div>\n<div>一九五五年十二年、モントゴメリー市営バスにおける人種分離制度の撤廃をめざして、\n同市の黒人が大規模なボイコット運動（Montgomery Bus Boycott）を展開するようになると、\n牧師生活二年目を迎えていたキングは、その運動の指揮をとるようになる。\n約一年にもわたるバス・ボイコット運動を率いたキングは、当時弱冠二十六歳の若さであったが、\nこの事件をきっかけとして、彼は南部の無名の一黒人牧師から、全国的な知名度を持った黒人公民権運動指導者への階段をのぼり始めることとなる。\nこのボイコット運動は、キングがその後の公民権運動を推進するにあたりそのエッセンスとすることとなる、\n「非暴力・直接行動」（Nonviolent Direct Action＝草の根の黒人大衆による運動への参加を呼び掛けるという意味における「直接」行動）の考えを貫いた、\n最初のケースとなった。</div>\n<div>一九五九年、故郷アトランタへ戻ったキングは、「南部キリスト教指導者会議」（Southern Christian Leadership Conference、略してＳＣＬＣ）を結成し、\n後に「五大公民権運動団体」と呼ばれるようになる諸団体の一つとなるこの「指導者会議」の議長を務めた。</div>\n<div>公民権運動指導者としてのわずか十二年の間に、キングは多くの著作、説教、そして演説を残している。\nその中でも、一九六三年八月二十八日に十七万人の黒人と三万人の白人参加者を集めて首都ワシントンで行われた「ワシントン大行進」\n（March on Washington）でのキングによる基調演説は、おそらく最も有名なものの一つであろう。\n「私には夢がある」（“I Have a Dream”）と題されたこの演説において彼は、いつの日かすべてのアメリカ人が肌の色ではなく、\n人格によって判断される時が来ることを夢見、信じたのである。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/sk_am101.html\">猿谷要 「アメリカ史重要人物１０１」</a>\n　Ｐ．１９８</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span>一九五四年、アメリカ連邦最高裁判所が、\n公立学校における法律による白人と黒人の人種分離教育を憲法違反とする画期的な「ブラウン判決」（Brown Decision）をくだしたその同じ年、\nキングはアラバマ州都モントゴメリー（Montgomery）にある黒人教会、\n「デックスター通りバプティスト教会」（Dexter Avenue Baptist Church）で、牧師としての生活を開始する。</div>\n<div>一九五五年十二年、モントゴメリー市営バスにおける人種分離制度の撤廃をめざして、\n同市の黒人が大規模なボイコット運動（Montgomery Bus Boycott）を展開するようになると、\n牧師生活二年目を迎えていたキングは、その運動の指揮をとるようになる。\n約一年にもわたるバス・ボイコット運動を率いたキングは、当時弱冠二十六歳の若さであったが、\nこの事件をきっかけとして、彼は南部の無名の一黒人牧師から、全国的な知名度を持った黒人公民権運動指導者への階段をのぼり始めることとなる。\nこのボイコット運動は、キングがその後の公民権運動を推進するにあたりそのエッセンスとすることとなる、\n「非暴力・直接行動」（Nonviolent Direct Action＝草の根の黒人大衆による運動への参加を呼び掛けるという意味における「直接」行動）の考えを貫いた、\n最初のケースとなった。</div>\n<div>一九五九年、故郷アトランタへ戻ったキングは、「南部キリスト教指導者会議」（Southern Christian Leadership Conference、略してＳＣＬＣ）を結成し、\n後に「五大公民権運動団体」と呼ばれるようになる諸団体の一つとなるこの「指導者会議」の議長を務めた。</div>\n<div>公民権運動指導者としてのわずか十二年の間に、キングは多くの著作、説教、そして演説を残している。\nその中でも、一九六三年八月二十八日に十七万人の黒人と三万人の白人参加者を集めて首都ワシントンで行われた「ワシントン大行進」\n（March on Washington）でのキングによる基調演説は、おそらく最も有名なものの一つであろう。\n「私には夢がある」（“I Have a Dream”）と題されたこの演説において彼は、いつの日かすべてのアメリカ人が肌の色ではなく、\n人格によって判断される時が来ることを夢見、信じたのである。</div>\n<div class=\"txr\"><a href=\"../text/sk_am101.html\">猿谷要 「アメリカ史重要人物１０１」</a>\n　Ｐ．１９８<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E3%2582%25A2%25E3%2583%25A1%25E3%2583%25AA%25E3%2582%25AB%25E5%258F%25B2%25E9%2587%258D%25E8%25A6%2581%25E4%25BA%25BA%25E7%2589%25A9101%2520%2520%2520%2520History%2520handbook\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -163,7 +116,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

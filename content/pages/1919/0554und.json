@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1919.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1919.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -33,7 +42,7 @@
   {
    "type": "headline",
    "cells": [
-    "怒りに震える北京の学生たちが、<a href=\"../1915/0121kaj.html\">対華２１か条</a>の廃棄を求めてデモを開始。"
+    "怒りに震える北京の学生たちが、<a href=\"../1915/0121kaj.html\">対華２１ヵ条</a>の廃棄を求めてデモを開始。"
    ]
   },
   {
@@ -93,7 +102,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1915/01/18　　<a href=\"../1915/0121kaj.html\">\n対華２１か条要求</a>　（外相：<a href=\"../p/ktakaaki.html\">加藤高明</a>）"
+       "html": "1915/01/18　　<a href=\"../1915/0121kaj.html\">\n対華２１ヵ条要求</a>　（外相：<a href=\"../p/ktakaaki.html\">加藤高明</a>）"
       }
      ]
     },
@@ -103,7 +112,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1915/05/09　　<a href\"..=\"\" 19.html\"=\"\">\n中国政府、対華２１か条要求を受諾　（中国で国辱記念日となる）</a>"
+       "html": "1915/05/09　　<a href\"..=\"\" 19.html\"=\"\">\n中国政府、対華２１ヵ条要求を受諾　（中国で国辱記念日となる）</a>"
       }
      ]
     },
@@ -113,7 +122,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1918/01/08　　<a href=\"../1918/01wil14.html\">\nウイルソン（米）大統領、１４か条宣言</a>"
+       "html": "1918/01/08　　<a href=\"../1918/01wil14.html\">\nウイルソン（米）大統領、１４ヵ条宣言</a>"
       }
      ]
     },
@@ -166,16 +175,18 @@
        "html": "1922/02/06　　<a href=\"../1922/029koku.html\">\n九ヵ国条約調印</a>"
       }
      ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/05/30　　<a href=\"../1925/05530ji.html\">\n五・三〇事件</a>　（上海）"
+      }
+     ]
     }
    ]
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
   },
   {
    "type": "raw",
@@ -189,14 +200,6 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx_sw"
    },
    "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
@@ -205,17 +208,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../1919/01paris.html\">会議</a>の実態は英・米・仏・日・伊五大国が\n血眼で勝利の獲物を奪いあう贓物分配の場でしかなかった。\n中国代表団が提出した<a href=\"../1915/0121kaj.html\">二一ヵ条条約</a>の廃棄、各国の在華特権＝不平等条約の廃止の要求は、\n会議の権限外として却下され、戦勝国として当然の要求であるドイツ権益の直接返還すらも認められなかった。</div>\n<div>失望は怒りにかわった。\n一九一九年五月四日午後、パリからの悲報を受けて、北京天安門前に北京大学など一〇余校の学生三〇〇〇余人が集合し、\n緊急に山東問題抗議集会を開いた。\n「外　国権を争い、内　国賊を除け」と宣言した学生たちはデモ行進をおこない、\n親日派の閣僚・交通総長曹汝霖の私邸を襲って火を放ち、居あわせた駐日公使章宗祥を殴打した。\n逮捕された学生は三二名にのぼった。\n「曹汝霖邸焼打ち」のニュースは、北京はもちろん、全中国を震撼させた。\nだが、人びとは学生の「暴力」行為を非難したのではなく、これに快哉を叫び、みずからも奮起したのである。</div>\n<div>二〇余の省、一〇〇余の都市で北京の学生に呼応する運動がおこり、\n日貨排斥は野火のように拡がった。\n孤立した軍閥政府は兇暴な弾圧に乗り出し、六月三日から北京で街頭宣伝中の学生をかたっぱしから逮捕し、\n三日間で一〇〇〇人をこえた。\nだが、弾圧も火に油をそそぐ効果しかなく、六月五日、上海を中心に大規模な罷課（学生スト）・罷市（商店の閉店スト）・\n罷工（労働者のスト）の三罷闘争が、学生逮捕に抗議して開始された。\nとくに労働者のストライキは参加者一〇万に達し、一〇日には上海―南京間の鉄道も停止した。</div>\n<div>罷市が他の都市にも波及し、ついに北京にまでおよぼうとする勢いに、\n北京政府も屈服せざるをえなかった。\n学生を（六月七日）釈放し、曹汝霖ら親日三要人を解任し（一〇日）、\n内閣総理銭能訓が辞職し、二八日には、パリの中国代表団が講和条約に調印を拒んだ。\n東アジアの民衆闘争の第三波＝五四運動は大きな勝利をかちとったのである。</div>\n<div class=\"txr\"><a href=\"../text/os_jinmi.html\">小野信爾 「人民中国への道」</a>\n　Ｐ．１０７<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E4%25BA%25BA%25E6%25B0%2591%25E4%25B8%25AD%25E5%259B%25BD%25E3%2581%25B8%25E3%2581%25AE%25E9%2581%2593%2520%2520%2520%2520%25E8%25AC%259B%25E8%25AB%2587%25E7%25A4%25BE%25E7%258F%25BE%25E4%25BB%25A3%25E6%2596%25B0%25E6%259B%25B8%2520455%2520%25E6%2596%25B0%25E6%259B%25B8%25E6%259D%25B1%25E6%25B4%258B%25E5%258F%25B2%25205%2520%25E4%25B8%25AD%25E5%259B%25BD%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2%25205\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -223,7 +218,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

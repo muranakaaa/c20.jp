@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1905.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1905.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -103,6 +112,16 @@
       {
        "id": "l",
        "cls": null,
+       "html": "1905/07/21　　<a href=\"../1905/07sisat.html\">\n山県参謀総長、満州軍を視察</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
        "html": "1905/08/10　　<a href=\"../1905/08portm.html\">\n日露講和会議開催</a>　（アメリカ・ポーツマス／首席全権：<a href=\"../p/kjutaro.html\">小村寿太郎</a>）"
       }
      ]
@@ -173,25 +192,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "pt"
    },
    "html": "\n<div class=\"pt_h\">～　講和成立方針決定の理由　～</div>\n<div class=\"c\">戦費がない／戦力がない／勝算がない　⇒　無賠償・不割譲でもとにかく講和</div>\n<div class=\"c\"></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -205,17 +208,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div><a href=\"../p/kjutaro.html\">小村</a>からポーツマス引揚の電報を受けた<a href=\"../p/ktaro.html\">桂</a>は、二十四時間の会議延長を<a href=\"../p/kjutaro.html\">小村</a>に指示すると同時に元老、閣僚の合同会議を招集した。</div>\n<div>八月二十八日午前七時、首相官邸で会議が開催された。\n出席者は<a href=\"../p/ihirobum.html\">伊藤</a>、<a href=\"../p/yaritomo.html\">山県</a>、<a href=\"../p/ikaoru.html\">井上</a>、の三元老（<a href=\"../p/mmasayos.html\">松方正義</a>は病気欠席）と<a href=\"../p/ktaro.html\">桂首相</a>をはじめ<a href=\"../p/tmasatak.html\">寺内陸軍</a>、<a href=\"../p/ygonnohy.html\">山本海軍</a>、芳川内務、<a href=\"../p/kkeigo.html\">清浦農商務</a>、\n<a href=\"../p/sarasuke.html\">曾禰大蔵</a>、波多野司法、<a href=\"../p/okanetak.html\">大浦逓信</a>、久保田文部の各大臣であった。</div>\n<div><a href=\"../p/ktaro.html\">桂</a>は、それまでの<a href=\"../p/kjutaro.html\">小村全権</a>からの会議経過の概要を報告、まず会議決裂を回避させるかどうかについて意見をもとめた。\nそれは戦争の継続を覚悟するか否かという質問と同じであった。</div>\n<div>戦場視察をした<a href=\"../p/yaritomo.html\">山県</a>が、あらためて現地軍の情勢について発言した。\n戦場では、一応戦争継続も予想して戦闘準備をととのえてはいるが、\n有利に戦闘を展開しリネウィッチ軍を撃破してハルピンに進攻することができたとしても、その攻略は本年末になり、\nさらに兵を進めてウラジオストックを占領することに成功したとしても、それ以上の進撃は不可能で、\nロシア軍を再起不能にさせることは望めない、と説明した。\nまた、軍事費は一年に十七、八億円にも達するにちがいなく、それが調達できなければ、弾薬も糧食もつき、\n全軍が大陸の原野に立ち往生しなければならなくなるだろう、と述べた。</div>\n<div>現在でも軍事費をひねり出すのは困難な情態で、<a href=\"../p/ihirobum.html\">伊藤</a>、<a href=\"../p/ikaoru.html\">井上</a>をはじめ<a href=\"../p/sarasuke.html\">曾禰蔵相</a>も、そのような支出は無理で、\n財政的に完全に破綻する、と断言した。</div>\n<div>結局、戦争を継続することは到底不可能だということに意見が一致し、講和を成立にみちびくための協議に入った。\nむろん議題は樺太割譲と償金支払いの二条件の扱いがすべてで、それらをどの程度譲歩するかが論議の焦点になった。</div>\n<div>償金問題については、財政の建直しのためぜひとも要求したかったが、ロシア側も極度に貧窮していて、\nそれに応ずることはできそうにもなく、十二億円を六億円まで減額したら、という意見もあった。が、<a href=\"../p/ygonnohy.html\">山本海相</a>は、</div>\n<div>「償金問題は放棄すべきである。吾々は、金銭を得るために戦争をしたのではない」</div>\n<div>と言い、それに<a href=\"../p/yaritomo.html\">山県</a>、<a href=\"../p/tmasatak.html\">寺内</a>も同調し、結局、償金要求は一切放棄することに決定した。</div>\n<div>ついで、樺太問題に移ったが、議論は白熱化した。</div>\n<div>樺太は日本軍が完全に占領した地であり、戦勝国としてその割譲を要求するのは当然であるという主張が大勢を占めた。\nしかも、その地は歴史的にも日本領であり、ロシアに返還する理由は全くないと強調する声も多く、\n代償金問題の放棄を口にした<a href=\"../p/ygonnohy.html\">山本</a>も、樺太領有をあくまで貫くべきだと主張した。</div>\n<div>しかし、そうした声も、<a href=\"../p/yaritomo.html\">山県</a>の発言によって打消された。</div>\n<div>「<a href=\"../p/nikolai2.html\">ロシア皇帝</a>は、ひと握りの土も日本に渡してはならぬと厳命している。\n私としてもまことに憤慨に堪えぬが、樺太割譲を要求することは戦争継続に直接つながる。\n講和の成立を実現させるためには、大譲歩する以外にない」</div>\n<div>と、説いた。</div>\n<div>会議の席に悲痛な空気が流れ、一部の者から<a href=\"../p/vitte_s.html\">ウイッテ</a>の提案した樺太北部のみをロシアに返還する案を推しすすめてはどうかという意見もあったが、\n情勢を綜合判断した結果、それも拒否されることは確実なので、樺太すべてを放棄する以外にあるまいという空気が濃厚になった。</div>\n<div>かれらの顔には、苦渋の色がにじみ出ていた。\n国内では講和会議に対する不満が日増しにつのり、即日会議中止、戦争継続の声がたかまっていて、\n新聞もロシア側の強い姿勢を突きくずせぬ<a href=\"../p/kjutaro.html\">小村全権</a>をはじめ元老、閣僚に激しい非難を浴びせている。\nもしも、条件中の最も重要な償金支払いと樺太割譲要求の放棄を決定すれば、国内に大騒乱が起ることはあきらかだった。</div>\n<div>しかし、講和成立を期するかぎり償金、樺太両問題の一切の放棄は絶対に必要であり、結局、全員一致で放棄を決議した。\n会議の終了は、午後二時十分であった。</div>\n<div>その後、かれらは、ただちに車をつらねて皇居におもむき、<a href=\"../p/mtenno.html\">天皇</a>出席のもとに御前会議を開いた。</div>\n<div><a href=\"../p/ktaro.html\">桂首相兼臨時外相</a>が、元老・閣僚合同会議の決議を報告すると、<a href=\"../p/mtenno.html\">天皇</a>はそれを期待していたらしく即座に裁可をあたえた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ya_portm.html\">吉村昭 「ポーツマスの旗」</a>\n　Ｐ．２７０</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/kjutaro.html\">小村</a>からポーツマス引揚の電報を受けた<a href=\"../p/ktaro.html\">桂</a>は、二十四時間の会議延長を<a href=\"../p/kjutaro.html\">小村</a>に指示すると同時に元老、閣僚の合同会議を招集した。</div>\n<div>八月二十八日午前七時、首相官邸で会議が開催された。\n出席者は<a href=\"../p/ihirobum.html\">伊藤</a>、<a href=\"../p/yaritomo.html\">山県</a>、<a href=\"../p/ikaoru.html\">井上</a>、の三元老（<a href=\"../p/mmasayos.html\">松方正義</a>は病気欠席）と<a href=\"../p/ktaro.html\">桂首相</a>をはじめ<a href=\"../p/tmasatak.html\">寺内陸軍</a>、<a href=\"../p/ygonnohy.html\">山本海軍</a>、芳川内務、<a href=\"../p/kkeigo.html\">清浦農商務</a>、\n<a href=\"../p/sarasuke.html\">曾禰大蔵</a>、波多野司法、<a href=\"../p/okanetak.html\">大浦逓信</a>、久保田文部の各大臣であった。</div>\n<div><a href=\"../p/ktaro.html\">桂</a>は、それまでの<a href=\"../p/kjutaro.html\">小村全権</a>からの会議経過の概要を報告、まず会議決裂を回避させるかどうかについて意見をもとめた。\nそれは戦争の継続を覚悟するか否かという質問と同じであった。</div>\n<div>戦場視察をした<a href=\"../p/yaritomo.html\">山県</a>が、あらためて現地軍の情勢について発言した。\n戦場では、一応戦争継続も予想して戦闘準備をととのえてはいるが、\n有利に戦闘を展開しリネウィッチ軍を撃破してハルピンに進攻することができたとしても、その攻略は本年末になり、\nさらに兵を進めてウラジオストックを占領することに成功したとしても、それ以上の進撃は不可能で、\nロシア軍を再起不能にさせることは望めない、と説明した。\nまた、軍事費は一年に十七、八億円にも達するにちがいなく、それが調達できなければ、弾薬も糧食もつき、\n全軍が大陸の原野に立ち往生しなければならなくなるだろう、と述べた。</div>\n<div>現在でも軍事費をひねり出すのは困難な情態で、<a href=\"../p/ihirobum.html\">伊藤</a>、<a href=\"../p/ikaoru.html\">井上</a>をはじめ<a href=\"../p/sarasuke.html\">曾禰蔵相</a>も、そのような支出は無理で、\n財政的に完全に破綻する、と断言した。</div>\n<div>結局、戦争を継続することは到底不可能だということに意見が一致し、講和を成立にみちびくための協議に入った。\nむろん議題は樺太割譲と償金支払いの二条件の扱いがすべてで、それらをどの程度譲歩するかが論議の焦点になった。</div>\n<div>償金問題については、財政の建直しのためぜひとも要求したかったが、ロシア側も極度に貧窮していて、\nそれに応ずることはできそうにもなく、十二億円を六億円まで減額したら、という意見もあった。が、<a href=\"../p/ygonnohy.html\">山本海相</a>は、</div>\n<div>「償金問題は放棄すべきである。吾々は、金銭を得るために戦争をしたのではない」</div>\n<div>と言い、それに<a href=\"../p/yaritomo.html\">山県</a>、<a href=\"../p/tmasatak.html\">寺内</a>も同調し、結局、償金要求は一切放棄することに決定した。</div>\n<div>ついで、樺太問題に移ったが、議論は白熱化した。</div>\n<div>樺太は日本軍が完全に占領した地であり、戦勝国としてその割譲を要求するのは当然であるという主張が大勢を占めた。\nしかも、その地は歴史的にも日本領であり、ロシアに返還する理由は全くないと強調する声も多く、\n代償金問題の放棄を口にした<a href=\"../p/ygonnohy.html\">山本</a>も、樺太領有をあくまで貫くべきだと主張した。</div>\n<div>しかし、そうした声も、<a href=\"../p/yaritomo.html\">山県</a>の発言によって打消された。</div>\n<div>「<a href=\"../p/nikolai2.html\">ロシア皇帝</a>は、ひと握りの土も日本に渡してはならぬと厳命している。\n私としてもまことに憤慨に堪えぬが、樺太割譲を要求することは戦争継続に直接つながる。\n講和の成立を実現させるためには、大譲歩する以外にない」</div>\n<div>と、説いた。</div>\n<div>会議の席に悲痛な空気が流れ、一部の者から<a href=\"../p/vitte_s.html\">ウイッテ</a>の提案した樺太北部のみをロシアに返還する案を推しすすめてはどうかという意見もあったが、\n情勢を綜合判断した結果、それも拒否されることは確実なので、樺太すべてを放棄する以外にあるまいという空気が濃厚になった。</div>\n<div>かれらの顔には、苦渋の色がにじみ出ていた。\n国内では講和会議に対する不満が日増しにつのり、即日会議中止、戦争継続の声がたかまっていて、\n新聞もロシア側の強い姿勢を突きくずせぬ<a href=\"../p/kjutaro.html\">小村全権</a>をはじめ元老、閣僚に激しい非難を浴びせている。\nもしも、条件中の最も重要な償金支払いと樺太割譲要求の放棄を決定すれば、国内に大騒乱が起ることはあきらかだった。</div>\n<div>しかし、講和成立を期するかぎり償金、樺太両問題の一切の放棄は絶対に必要であり、結局、全員一致で放棄を決議した。\n会議の終了は、午後二時十分であった。</div>\n<div>その後、かれらは、ただちに車をつらねて皇居におもむき、<a href=\"../p/mtenno.html\">天皇</a>出席のもとに御前会議を開いた。</div>\n<div><a href=\"../p/ktaro.html\">桂首相兼臨時外相</a>が、元老・閣僚合同会議の決議を報告すると、<a href=\"../p/mtenno.html\">天皇</a>はそれを期待していたらしく即座に裁可をあたえた。</div>\n<div class=\"txr\"><a href=\"../text/ya_portm.html\">吉村昭 「ポーツマスの旗」</a>\n　Ｐ．２７０<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2584%25E3%2583%259E%25E3%2582%25B9%25E3%2581%25AE%25E6%2597%2597%2520%2520%2520%2520%25E6%2596%25B0%25E6%25BD%25AE%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -223,7 +218,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

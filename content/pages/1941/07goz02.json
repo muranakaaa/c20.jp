@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1941.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1941.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -213,25 +222,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -245,9 +238,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>作戦部長の論と軍務局長の論とをすり合わせて、六月十四日の陸軍案が生まれた。\nそれは、好機を捉えて南方に、さらに<a href=\"../1941/06ds_ka.html\">独ソ戦</a>が「極めて有利なら」北方にも武力行使する、というものであった。\nさすがに、田中の好機「作為」論は抑えられたが、二ヵ月前の「好機武力行使の否定」という路線は、あっけなく吹き飛ばされた。\n優先順序はつけたものの、南進と北進の両方を作戦計画に組み入れる方針で、陸軍内は合意したのである。</div>\n<div>これに対する海軍案が、二十日に示された。\nそれは、南進第一、北進第二、の陸軍提案に同意するかたちをとりつつ、第一と第二のあいだに本質的相違を設定するものであった。\nすなわち、無条件に「南方要域進出の歩を進め」るとし、そのためには「対英米戦を賭するも辞せず」との、\n驚くべき修辞をはじめて日本の公文書に登場させたのである。\nその真意は、英米戦にのめり込みたいということではなかった。\n陸軍と<a href=\"../p/myosuke.html\">松岡外相</a>が本気でやりたがっているようにみえる北進を、\n海軍としては何としても阻みたいあまりに噴出した言葉と考えた方が正しいであろう。\nどうせ戦う決意もなく、戦備と予算ばかり欲しがる海軍、と難じられないためにも、これぐらいの決意を記したかったのであろうか。\nこの政府内の駆け引き上の必要から派生した言葉が、しかし日本の運命を導くことになるのである。\n言葉は言霊であり、人や集団を時として呪縛する。</div>\n<div class=\"txr\"><a href=\"../text/im_kin06.html\">五百旗頭真 「日本の近代（６）」</a>\n　Ｐ．５７<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25AE%25E8%25BF%2591%25E4%25BB%25A3%25206%2520%25E6%2588%25A6%25E4%25BA%2589%25E3%2583%25BB%25E5%258D%25A0%25E9%25A0%2598%25E3%2583%25BB%25E8%25AC%259B%25E5%2592%258C%25E2%2580%25951941%25EF%25BD%259E1955\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -255,23 +248,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>作戦部長の論と軍務局長の論とをすり合わせて、六月十四日の陸軍案が生まれた。\nそれは、好機を捉えて南方に、さらに<a href=\"../1941/06ds_ka.html\">独ソ戦</a>が「極めて有利なら」北方にも武力行使する、というものであった。\nさすがに、田中の好機「作為」論は抑えられたが、二ヵ月前の「好機武力行使の否定」という路線は、あっけなく吹き飛ばされた。\n優先順序はつけたものの、南進と北進の両方を作戦計画に組み入れる方針で、陸軍内は合意したのである。</div>\n<div>これに対する海軍案が、二十日に示された。\nそれは、南進第一、北進第二、の陸軍提案に同意するかたちをとりつつ、第一と第二のあいだに本質的相違を設定するものであった。\nすなわち、無条件に「南方要域進出の歩を進め」るとし、そのためには「対英米戦を賭するも辞せず」との、\n驚くべき修辞をはじめて日本の公文書に登場させたのである。\nその真意は、英米戦にのめり込みたいということではなかった。\n陸軍と<a href=\"../p/myosuke.html\">松岡外相</a>が本気でやりたがっているようにみえる北進を、\n海軍としては何としても阻みたいあまりに噴出した言葉と考えた方が正しいであろう。\nどうせ戦う決意もなく、戦備と予算ばかり欲しがる海軍、と難じられないためにも、これぐらいの決意を記したかったのであろうか。\nこの政府内の駆け引き上の必要から派生した言葉が、しかし日本の運命を導くことになるのである。\n言葉は言霊であり、人や集団を時として呪縛する。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/im_kin06.html\">五百旗頭真 「日本の近代（６）」</a>\n　Ｐ．５７</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "tx"
-   },
-   "html": "\n<div>七月二日、<a href=\"../1941/06ds_ka.html\">独ソ戦</a>という情勢の変化に対処するための国策である「情勢ノ推移ニ伴フ帝国国策要綱」が、御前会議で可決された。</div>\n<div>その内容は、すでに決定した<a href=\"../1941/07futu2.html\">南部仏印進駐</a>による南方進出策に、<a href=\"../1941/06ds_ka.html\">独ソ戦</a>に応ずる対ソ攻撃準備をつけ加えたものだが、\n南方進出については「対英米戦ヲ辞セズ」と規定されながらも、北進についての姿勢は消極的になっていた。</div>\n<div><a href=\"../1941/06ds_ka.html\">独ソ戦</a>には「介入スルコトナク」、「密カニ対『ソ』戦力的準備」をととのえ、\n<a href=\"../1941/06ds_ka.html\">独ソ戦</a>の推移が「有利ニ進展」すれば武力を行使する、という。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kn4hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（４）」</a>\n　Ｐ．１３９</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>七月二日、<a href=\"../1941/06ds_ka.html\">独ソ戦</a>という情勢の変化に対処するための国策である「情勢ノ推移ニ伴フ帝国国策要綱」が、御前会議で可決された。</div>\n<div>その内容は、すでに決定した<a href=\"../1941/07futu2.html\">南部仏印進駐</a>による南方進出策に、<a href=\"../1941/06ds_ka.html\">独ソ戦</a>に応ずる対ソ攻撃準備をつけ加えたものだが、\n南方進出については「対英米戦ヲ辞セズ」と規定されながらも、北進についての姿勢は消極的になっていた。</div>\n<div><a href=\"../1941/06ds_ka.html\">独ソ戦</a>には「介入スルコトナク」、「密カニ対『ソ』戦力的準備」をととのえ、\n<a href=\"../1941/06ds_ka.html\">独ソ戦</a>の推移が「有利ニ進展」すれば武力を行使する、という。</div>\n<div class=\"txr\"><a href=\"../text/kn4hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（４）」</a>\n　Ｐ．１３９<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167141396%2Fqid%3D1147087396%2Fsr%3D1-18%2Fref%3Dsr_1_2_18\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -279,7 +256,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

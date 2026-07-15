@@ -2,21 +2,30 @@
  "path": "1917/11balfo.html",
  "type": "article",
  "title": "バルフォア宣言　／ クリック ２０世紀",
- "description": null,
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a href=\"#f\">▽▽▽</a><a name=\"h\"></a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1917.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1917.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -143,25 +152,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "pt"
    },
-   "html": "\n<div class=\"pt_h\">～　イギリスの思惑　～</div>\n<div class=\"i2\">・ ロスチャイルドなど、金持ちのユダヤ人たちが味方してくれたら有利に戦える</div>\n<div class=\"i2\">・ ユダヤ人たちがドイツやトルコを応援すれば大変なことになる</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+   "html": "\n<div class=\"pt_h\">～　イギリスの思惑　～</div>\n<div class=\"i3\">・ ロスチャイルドなど、金持ちのユダヤ人たちが味方してくれたら有利に戦える</div>\n<div class=\"i3\">・ ユダヤ人たちがドイツやトルコを応援すれば大変なことになる</div>\n"
   },
   {
    "type": "raw",
@@ -169,27 +162,33 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div><span class=\"m_v\">taro's トーク</span>\nクリスマスまでには終わると思っていた戦争が、４度目のクリスマスを迎えようとする頃には、\nもうなりふりかまってなどいられるものではなく、ドイツの方はすでに無制限潜水艦作戦をはじめていたが、\n一方イギリスも、<a href=\"../1915/10husay.html\">アラブとの約束</a>などなかったかのように、ユダヤ資本から戦費を得るため、\n彼らにパレスチナの地を売り渡した。\nここにパレスチナ問題は端を発する。\nその後、この問題は短期間に歴史を重ねすぎて、今や<a href=\"../p/lloyd_g.html\">ロイド・ジョージ</a>やバルフォアをなじる声など聞こえてもこない。\n実際、なじってみてもしかたがないのかもしれない。\n彼らとしては、勝利のために最善を尽くしたにすぎないのだから。\nそれが戦争なのだ。\ntaroはここに戦争の本質をみる。\nさまざまな不幸のタネをまき散らしながら、にもかかわらず、戦争はいまだになくならない。</div>\n"
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nクリスマスまでには終わると思っていた戦争が、４度目のクリスマスを迎えようとする頃には、\nもうなりふりかまってなどいられるものではなく、ドイツの方はすでに無制限潜水艦作戦をはじめていたが、\n一方イギリスも、<a href=\"../1915/10husay.html\">アラブとの約束</a>などなかったかのように、ユダヤ資本から戦費を得るため、\n彼らにパレスチナの地を売り渡した。\nここにパレスチナ問題は端を発する。\nその後、この問題は短期間に歴史を重ねすぎて、今や<a href=\"../p/lloyd_g.html\">ロイド・ジョージ</a>やバルフォアをなじる声など聞こえてもこない。\n実際、なじってみてもしかたがないのかもしれない。\n彼らとしては、勝利のために最善を尽くしたにすぎないのだから。\nそれが戦争なのだ。\ntaroはここに戦争の本質をみる。\nさまざまな不幸のタネをまき散らしながら、にもかかわらず、戦争はいまだになくならない。\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>トルコが第一次世界大戦にまきこまれたとき、イギリスおよびアメリカのシオニスト指導者たちは、\nこの機会をとらえて、オットマン帝国崩壊後はパレスティナにユダヤ人共和国をつくるよう、協商諸国に働きかけ、\n財力を利用して種々の政治的圧力をくわえた。\nイギリスの政治指導者たちは、次第にシオニストの立場を支持するようになった。\n一つの理由は、アメリカおよびロシアにかず多いシオニスト諸団体を協商国支持に踏みきらせ、\n財政上の援助を得ようとした点にあるが、これに関連していま一つには、ドイツおよびトルコに対する危惧の念に由来していた。\nつまり、ドイツとトルコが世界シオニストの支持を得るため、なんらかの譲歩を準備しているのではないかという点であった。\nここにおいて一七年十一月二日、ときのイギリス外相アーサー・バルフォアは、\nロスチャイルドにあててつぎのように書いている。\nイギリス政府は、パレスティナに「ユダヤ人の国家」を建てることに同意であり、しかも、\n「パレスティナに現在ある非ユダヤ人社会の市民的かつ宗教的権利を損うようなことは、何ひとつなされないであろう」と。\nこの<a href=\"../1917/11balfo.html\">バルフォア宣言</a>が、サイクス=ピコー協定および<a href=\"../1915/10husay.html\">フサイン=マックマオン協定</a>に矛盾したことは明白である。</div>\n<div class=\"txr\"><a href=\"../text/ia_gaise.html\">今津晃 「概説現代史」</a>\n　Ｐ．３６<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%25A6%2582%25E8%25AA%25AC%25E7%258F%25BE%25E4%25BB%25A3%25E5%258F%25B2%2520%2520%2520%2520%25E5%2589%25B5%25E5%2585%2583%25E9%2581%25B8%25E6%259B%25B8\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
   },
   {
    "type": "raw",
    "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",
-   "html": "<a name=\"f\"></a>\n<a href=\"../index.html\">目次</a>\n ＞ <a href=\"../20c/1917.html\">１９１７年</a>\n ＞ <a href=\"#h\">バルフォア宣言</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1917.html\">１９１７年</a>\n ＞ <a href=\"#h\">バルフォア宣言</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
   }
  ]
 }

@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1950.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1950.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -103,25 +112,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -135,9 +128,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>日本の多くの新聞は、なぜ中ソ両国が日本を目標とした同盟条約を締結したか、\nあるいは締結しなければならなかったかを反省しようとしなかった。\n多くの新聞は、日本の戦力放棄と民主化を事実として示して中ソ条約が目標を誤っていると指摘したが、\nアメリカが日本と沖縄を恒久的な基地と使用としているという事実こそ、\n中ソ両国を同盟条約に走らせた根本の要因であった。\nアメリカの断片的講和政策がいかに日本の将来にたいするアジア・大洋州諸国の警戒を深めさせているかを注視するならば、\n日本国民は、中ソ友好同盟条約を偏見なく読むことによって自己のすすみつつある方向を真剣に反省すべきであった。\nしかし、多くの新聞は、逆に中ソ両国に非難をあびせることにより、\nアメリカに和して日本国民の反ソ感情をあおり、全面講和を促進しようとする中ソ両国の主張を黙殺しつつ、\nひたすらに単独講和の道に日本国民をみちびくことになった。</div>\n<div class=\"txr\"><a href=\"../text/ss3sengo.html\">信夫清三郎 「戦後日本政治史Ⅲ」</a>\n　Ｐ．１０８５<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4326398183%2Fqid%3D1147087145%2Fsr%3D1-3%2Fref%3Dsr_1_8_3\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -145,7 +138,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>日本の多くの新聞は、なぜ中ソ両国が日本を目標とした同盟条約を締結したか、\nあるいは締結しなければならなかったかを反省しようとしなかった。\n多くの新聞は、日本の戦力放棄と民主化を事実として示して中ソ条約が目標を誤っていると指摘したが、\nアメリカが日本と沖縄を恒久的な基地と使用としているという事実こそ、\n中ソ両国を同盟条約に走らせた根本の要因であった。\nアメリカの断片的講和政策がいかに日本の将来にたいするアジア・大洋州諸国の警戒を深めさせているかを注視するならば、\n日本国民は、中ソ友好同盟条約を偏見なく読むことによって自己のすすみつつある方向を真剣に反省すべきであった。\nしかし、多くの新聞は、逆に中ソ両国に非難をあびせることにより、\nアメリカに和して日本国民の反ソ感情をあおり、全面講和を促進しようとする中ソ両国の主張を黙殺しつつ、\nひたすらに単独講和の道に日本国民をみちびくことになった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ss3sengo.html\">信夫清三郎 「戦後日本政治史Ⅲ」</a>\n　Ｐ．１０８５</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>冷戦構造の中で、一九四九年十二月、<a href=\"../p/motakuto.html\">毛沢東</a>ははじめて外国に旅立ち、\n翌年二月までモスクワに滞在した。\n彼は<a href=\"../p/stalin.html\">スターリン</a>その他と会談を重ね、中ソ友好同盟相互援助条約に調印し、\n朝鮮戦争下の九月末に批准に至った。\n<a href=\"../p/stalin.html\">スターリン</a>は新政府の成立前夜まで中共の勝利の可能性に懐疑的だった。\nいわばその指導に抗して自力で革命を成功させた<a href=\"../p/motakuto.html\">毛沢東</a>に、彼はユーゴの<a href=\"../p/tito.html\">チトー</a>に対すると同様な不信感をもち、\n両者の関係には微妙なものがあった。\nだが<a href=\"../1949/10c_sei.html\">中華人民共和国の成立</a>はアメリカの対ソ封じ込め政策を突き破る画期的事態であり、\nこれとの友好関係の強化は、ソ連の国際的立場を飛躍的に強めるものであった。\n他方中国にとって、アメリカを主とする西方資本主義国との友好関係や経済援助を期待できない当時の状況の下では、\nソ連との友好、それからの経済的・技術的援助の獲得は不可欠であった。\nこうして調印された同条約は、アメリカのアジア政策に対する抵抗、とくに日本からの攻撃に備える三十年間の共同防衛、\nそして三億ドルの借款協定などの中国に対する経済援助を規定していた。\n他方、同時に調印された協定によって、ソ連は一九四五年国民政府との友好同盟条約によって獲得した\n長春・旅順港・大連に関する在華権益を新政府に保証させた。</div>\n<div class=\"txr\"><a href=\"../text/ks_cyugo.html\">小島晋治・丸山松幸 「中国近現代史」</a>\n　Ｐ．２０１<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E4%25B8%25AD%25E5%259B%25BD%25E8%25BF%2591%25E7%258F%25BE%25E4%25BB%25A3%25E5%258F%25B2%2520%2520%2520%2520%25E5%25B2%25A9%25E6%25B3%25A2%25E6%2596%25B0%25E6%259B%25B8\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -153,7 +146,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

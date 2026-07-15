@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -219,7 +220,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div><span class=\"m_b\">引用</span>一九四三年四月十三日午後三時十五分<span class=\"bar\">―</span>―。</div>\n<div>ベルリン放送が、はじめて事件を全世界に一報した。</div>\n<div>【中略】</div>\n<div>「ドイツ陸軍当局は、数日前、現地住民の示唆により、殺害されたポーランド軍将校の集団墓地を発見した。\n現場は、スモレンスク市の西方二十キロ、スモレンスク－ビテブスク街道に沿ったカチン森の通称『山羊ガ丘』であり、\n『ＮＫＶＤ』（ソ連内務省秘密警察）休養所から約五百メートル離れた地点である・・・・・・」</div>\n<div>ベルリン放送は、さらに、埋葬されているポーランド軍将校の死体の推定数は「一万体以上」であること、\n死体のほとんどは後ろ手に縛られて後頭部に銃弾をうちこまれていること、などをつたえた。\nニュースは、ポーランド国民のみならず、欧米諸国にも衝撃をあたえた。</div>\n<div>というのも、一九三九年九月、ソ連軍がポーランド東部に進入したさい、多数のポーランド軍人、市民が捕虜となり、\nその後、ロンドンのポーランド亡命政府が、一部の行方不明者、とくに将校群の所在をたしかめるべく、\nしきりにソ連政府と交渉していたことは、よく知られていたからである。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kn5hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（５）」</a>\n　Ｐ．３１２</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>一九四三年四月十三日午後三時十五分<span class=\"bar\">―</span>―。</div>\n<div>ベルリン放送が、はじめて事件を全世界に一報した。</div>\n<div>【中略】</div>\n<div>「ドイツ陸軍当局は、数日前、現地住民の示唆により、殺害されたポーランド軍将校の集団墓地を発見した。\n現場は、スモレンスク市の西方二十キロ、スモレンスク－ビテブスク街道に沿ったカチン森の通称『山羊ガ丘』であり、\n『ＮＫＶＤ』（ソ連内務省秘密警察）休養所から約五百メートル離れた地点である・・・・・・」</div>\n<div>ベルリン放送は、さらに、埋葬されているポーランド軍将校の死体の推定数は「一万体以上」であること、\n死体のほとんどは後ろ手に縛られて後頭部に銃弾をうちこまれていること、などをつたえた。\nニュースは、ポーランド国民のみならず、欧米諸国にも衝撃をあたえた。</div>\n<div>というのも、一九三九年九月、ソ連軍がポーランド東部に進入したさい、多数のポーランド軍人、市民が捕虜となり、\nその後、ロンドンのポーランド亡命政府が、一部の行方不明者、とくに将校群の所在をたしかめるべく、\nしきりにソ連政府と交渉していたことは、よく知られていたからである。</div>\n<div class=\"txr\"><a href=\"../text/kn5hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（５）」</a>\n　Ｐ．３１２<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F416714140X%2Fqid%3D1147087396%2Fsr%3D1-19%2Fref%3Dsr_1_2_19\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -227,7 +228,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div><span class=\"m_b\">引用</span>一メートルほど掘ると、むっと屍臭がたちのぼり、掘れば掘るほどその臭いは強烈になり、村民三人のうち二人は、もう駄目だ、\n病気になる、といって、シャベルをほうりだした。</div>\n<div>「どうした、貴様ら、しっかりやれ」</div>\n<div>軍曹たちが叱咤したが、二人は、いち早く現場から避難している。</div>\n<div>臭気に強いらしい一人の村民だけが作業をつづけ、やがて長い外套を着た死体にぶつかった。\n服のボタンをちぎりとって泥をこすり落とすと、ワシ印がうきあがった。ポーランド軍の制章である。</div>\n<div>とにかく報告だ、と軍曹たちがわめき、一行はボタン一個をもって憲兵隊にひき返した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kn5hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（５）」</a>\n　Ｐ．３１９</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>一メートルほど掘ると、むっと屍臭がたちのぼり、掘れば掘るほどその臭いは強烈になり、村民三人のうち二人は、もう駄目だ、\n病気になる、といって、シャベルをほうりだした。</div>\n<div>「どうした、貴様ら、しっかりやれ」</div>\n<div>軍曹たちが叱咤したが、二人は、いち早く現場から避難している。</div>\n<div>臭気に強いらしい一人の村民だけが作業をつづけ、やがて長い外套を着た死体にぶつかった。\n服のボタンをちぎりとって泥をこすり落とすと、ワシ印がうきあがった。ポーランド軍の制章である。</div>\n<div>とにかく報告だ、と軍曹たちがわめき、一行はボタン一個をもって憲兵隊にひき返した。</div>\n<div class=\"txr\"><a href=\"../text/kn5hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（５）」</a>\n　Ｐ．３１９<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F416714140X%2Fqid%3D1147087396%2Fsr%3D1-19%2Fref%3Dsr_1_2_19\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -235,7 +236,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">おたよりはこちら</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

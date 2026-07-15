@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -40,7 +49,7 @@
    "attrs": {
     "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href=\"03s.html\">一覧　（サ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"03s.html\">一覧　（サ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E3%2582%25B9%25E3%2583%2586%25E3%2583%2583%25E3%2582%25BB%25E3%2583%25AB\" target=\"_blank\">本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
   },
   {
    "type": "raw",
@@ -52,27 +61,11 @@
   },
   {
    "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
    "tag": "table",
    "attrs": {
     "class": "off"
    },
    "html": "<tbody><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr></tbody>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "timeline",
@@ -183,49 +176,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>旅順の下級将校をふくめ兵士たちの大半が、自分たちの運命の握り手であるステッセルの能力について、</div>\n<div>「あの将軍では、戦争はうまくゆかない」</div>\n<div>ということを感じていた。\nしかもステッセルの官僚臭を鋭敏に嗅ぎとり、ステッセルの関心が祖国よりも、彼一個の栄達にあるということを見ぬいており、\nそういう見方がほとんど常識のようになっていた。</div>\n<div>ステッセルは、たしかに有能とは言いがたかった。</div>\n<div>無能な指揮官が、その無能を隠蔽するために、みずから風紀係になったように軍規風紀のことばかりをやかましくいう例は\n軍隊社会にふんだんに見られるが、ステッセルもそうであった。\nかれはまるで儀杖兵の指揮官のように行儀をやかましく言い、砲台にチリ一つ落ちていても兵士をどなりつけ、\nなによりも軍隊における荘重美を好んだ。\nこのあたり、バルチック艦隊の<a href=\"../p/rozhes_z.html\">ロジェストウェンスキー</a>に酷似しているであろう。</div>\n<div>が、<a href=\"../p/rozhes_z.html\">ロジェストウェンスキー</a>は、その点にあまりやかましいために孤独であった。\nしかも孤独をおそれぬ強さがあった。\n<a href=\"../p/rozhes_z.html\">ロジェストウェンスキー</a>は幕僚のたれをも愛さなかった。\n側近を愛さずとも平気でいられる神経をもっていた。</div>\n<div>それにくらべてステッセルは、より女性的であったといっていい。\n戦前から旅順の社交界の中心人物であったかれは、社交の友を欲し、幕僚のうちでも自分におべっかする者を偏愛し、\nその献言をつねに採用した。\nこのためステッセルのまわりはそういうふんいきが充満し、愚者のサロンというほどでないにしても、\n智者や勇者の意見が素直に通るような空気ではなかった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/sr5sakan.html\">司馬遼太郎 「坂の上の雲（５）」</a>\n　Ｐ．２５３</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span>旅順の下級将校をふくめ兵士たちの大半が、自分たちの運命の握り手であるステッセルの能力について、</div>\n<div>「あの将軍では、戦争はうまくゆかない」</div>\n<div>ということを感じていた。\nしかもステッセルの官僚臭を鋭敏に嗅ぎとり、ステッセルの関心が祖国よりも、彼一個の栄達にあるということを見ぬいており、\nそういう見方がほとんど常識のようになっていた。</div>\n<div>ステッセルは、たしかに有能とは言いがたかった。</div>\n<div>無能な指揮官が、その無能を隠蔽するために、みずから風紀係になったように軍規風紀のことばかりをやかましくいう例は\n軍隊社会にふんだんに見られるが、ステッセルもそうであった。\nかれはまるで儀杖兵の指揮官のように行儀をやかましく言い、砲台にチリ一つ落ちていても兵士をどなりつけ、\nなによりも軍隊における荘重美を好んだ。\nこのあたり、バルチック艦隊の<a href=\"../p/rozhes_z.html\">ロジェストウェンスキー</a>に酷似しているであろう。</div>\n<div>が、<a href=\"../p/rozhes_z.html\">ロジェストウェンスキー</a>は、その点にあまりやかましいために孤独であった。\nしかも孤独をおそれぬ強さがあった。\n<a href=\"../p/rozhes_z.html\">ロジェストウェンスキー</a>は幕僚のたれをも愛さなかった。\n側近を愛さずとも平気でいられる神経をもっていた。</div>\n<div>それにくらべてステッセルは、より女性的であったといっていい。\n戦前から旅順の社交界の中心人物であったかれは、社交の友を欲し、幕僚のうちでも自分におべっかする者を偏愛し、\nその献言をつねに採用した。\nこのためステッセルのまわりはそういうふんいきが充満し、愚者のサロンというほどでないにしても、\n智者や勇者の意見が素直に通るような空気ではなかった。</div>\n<div class=\"txr\"><a href=\"../text/sr5sakan.html\">司馬遼太郎 「坂の上の雲（５）」</a>\n　Ｐ．２５３<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%259D%2582%25E3%2581%25AE%25E4%25B8%258A%25E3%2581%25AE%25E9%259B%25B2%25E3%2580%25885%25E3%2580%2589%2520%2520%2520%2520%25E6%2596%2587%25E6%2598%25A5%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -233,7 +186,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

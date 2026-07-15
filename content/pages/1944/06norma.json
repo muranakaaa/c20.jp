@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1944.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1944.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -148,12 +157,12 @@
      ]
     },
     {
-     "cls": "n",
+     "cls": "d",
      "cells": [
       {
        "id": "l",
        "cls": null,
-       "html": "1944/10/14　　<a href\"..=\"\" 19.html\"=\"\">\nロンメル、服毒自殺</a>"
+       "html": "1944/10/14　　<a href=\"../1944/10romme.html\">\nロンメル服毒死</a>"
       }
      ]
     },
@@ -213,14 +222,6 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
@@ -229,33 +230,33 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "tx"
    },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nのち「史上最大」と形容されたこの作戦で、勝利の女神は明らかに連合国側に味方していた。\n奇しくもこの日は<a href=\"../p/rommel_e.html\">ロンメル</a>の愛妻の誕生日。\n悪天候もあって、「砂漠の狐」の勇名を馳せた名将がノルマンディーを離れたその隙を突いて、\nここに大軍団が襲う形になった。\nこれは女神の仕業とばかりは言えないが、<a href=\"../p/hitler_a.html\">ヒトラー</a>が宵っ張りだったことも、上陸部隊に幸いした。\n西部戦線からの急報は、「総統をお起こしするほどの事態か」という逆襲にもろくも粉砕された。\n<a href=\"../p/hitler_a.html\">ヒトラー</a>が傾国の眠りを堪能し、遅い目覚めを迎えるまで、西部戦線のドイツ軍は機能不全に陥った。\nダンケルクから４年、連合軍はこうして失った地をわずかばかり回復し、拡大を開始する拠点を得た。\n実はtaroも<a href=\"../p/hitler_a.html\">ヒトラー</a>並みの宵っ張り。早起きは時には三文以上の得と肝に銘じようと思うがなかなかね。\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "tx_sw"
+    "class": "tx"
    },
-   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>一九四四年六月六日の黎明。北フランスのノルマンディの沖合に五一三四隻からなる史上最大の艦隊がすがたをあらわした。\n<a href=\"../p/stalin.html\">スターリン</a>が待ちに待っていた、いや、全世界がかたずをのんでいまかと注視していた西側連合軍の北フランス上陸作戦が、\nついに開始されたのだ。\nダンケルクからイギリス軍が追いおとされてから、ちょうど四年がたっていた。</div>\n<div>北フランス上陸作戦の計画は、あらゆる戦略的・戦術的条件を考慮にいれて慎重に立案された。\nまず上陸の場所に関しては、米英の軍首脳は、はやくからノルマンディが最適の地であるという点で意見の一致をみていた。\nこの地域は、イギリス本土から発進する戦闘機の行動半径のなかにあった。\nそれに、空挺部隊が降下するに十分なひろがりをもった海岸地帯もあったし、\nさらに、いったん橋頭堡をきずいた上陸軍がつぎの作戦にうつるに必要な後背地もひらけていた。\nそのほか、シェルブール港を奪取することによって、以後の補給を確保できるという利点もあった。</div>\n<div>一方、上陸作戦実施の時期は、六月五日から七日までのあいだにしぼられた。\n月齢、潮の干満、日の出など、作戦に好適な条件がすべてそろうのは、この時期をおいてほかにはなかったからである。</div>\n<div>一九四四年五月はじめ、連合軍総司令官<a href=\"../p/eizenh_d.html\">アイゼンハワー</a>は、きたる六月五日を作戦実施の日ときめる。\nしかし、実際にこの日がちかづいてみると、悪天候のために、作戦は延期されねばならなかった。\n連合軍の気象係は、翌六日も天候は一時的に回復するにすぎないだろうと予報するが、\n<a href=\"../p/eizenh_d.html\">アイゼンハワー</a>は、その一時的な天候の回復を利用することに決心した。</div>\n<div>六月六日の午前一時すぎ、まず空挺部隊の降下が開始された。\nついで黎明の到来とともに、オルヌ河口からコタンタン半島東部にわたる沿岸一帯に、爆弾と艦砲射撃のはげしい砲火をあびせた。\nこの砲火の掩護のもと、午前六時三十分、連合軍は五つの地点にわたって上陸を開始する。\nそしてその日の夕方までに、アメリカ軍は二つのたがいに孤立した小さな橋頭堡を、\nまたイギリス軍は、幅三〇キロ、深さ一〇キロにわたる、ひとつながりの大きな橋頭堡を樹立することに成功した。</div>\n<div>もちろんドイツ側も、はやくから連合軍の上陸作戦を予想して、防備をいそいでいた。\n一九四二年秋以来、<a href=\"../p/hitler_a.html\">ヒトラー</a>は、港湾の防禦を中心に、大西洋沿岸一帯にいわゆる「大西洋の壁」の建設をすすめさせていた。</div>\n<div>だが、ドイツ側は、結局連合軍の上陸の時期と場所とを事前に正確にキャッチすることはできなかった。\n六月四日、ドイツ軍の気象班は、むこう二週間にわたって険悪な天候のために連合軍の行動は予想されないと報告する。\nそしてこの報告が、ドイツ軍首脳によってそのまま信じこまれた。\nまた上陸の場所に関しても、ドイツ側は、イギリス本土から至近距離にあるカレー付近をもっとも可能性が大きいとみなし、\nノルマンディよりもこの方面に防備の重点をおいていた。</div>\n<div class=\"txr\"><a href=\"../text/nn2hitle.html\">野田宣雄 「ヒトラーの時代（下）」</a>\n　Ｐ．１５５<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E3%2583%2592%25E3%2583%2588%25E3%2583%25A9%25E3%2583%25BC%25E3%2581%25AE%25E6%2599%2582%25E4%25BB%25A3%2520%25E4%25B8%258B%25E3%2580%2580%2520%25E8%25AC%259B%25E8%25AB%2587%25E7%25A4%25BE%25E5%25AD%25A6%25E8%25A1%2593%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>ドイツ南部の自宅にいるＢ方面軍司令官<a href=\"../p/rommel_e.html\">Ｅ・ロンメル元帥</a>は、絶え間なく微笑しながら、居間を歩きまわっていた。</div>\n<div>この日、六月六日、夫人ルシーの第五十回誕生記念日である。</div>\n<div>居間は花と贈り物にかざられ、<a href=\"../p/rommel_e.html\">元帥</a>は、アフリカでの部下・第五軽師団長Ｈ・キルヒハイム少将の夫人ヒルデガルトが、\nこの日の祝いを手伝いにかけつけてくれたのを感謝しながら、自身がパリで買いもとめた夫人の靴の包みを、贈り物の中央に置くか、\n目立つように離すかと、思案していた。</div>\n<div>若い女中カロリーナが、<a href=\"../p/rommel_e.html\">元帥</a>に電話だと告げた。</div>\n<div><a href=\"../p/rommel_e.html\">元帥</a>は、総統高級副官Ｒ・シュムント少将が、この日に予定されている<a href=\"../p/hitler_a.html\">ヒトラー</a>との会見を通告してきたものと思い、\n気軽に受話器をとった。\nこの時刻まで、Ｂ方面軍司令部からはなんの連絡もなく、午前七時のラジオ・ニュースも、異変は報道しなかった。</div>\n<div><span class=\"bar\">―</span>―だが、</div>\n<div>受話器にひびいたのはＢ方面軍参謀長スパイデル中将の声であり、報告は、連合軍のノルマンディ上陸であった。</div>\n<div>参謀長スパイデル中将も、さすがにこの頃にはノルマンディ上陸が連合軍の進攻主作戦であることを確認していた。</div>\n<div><a href=\"../p/rommel_e.html\">元帥</a>は、その旨を告げる中将の言葉に、顔面を蒼白化させ絶句する様子であったが、すぐ司令部に帰る、と叫んで、電話をきった。</div>\n<div>次の瞬間、<a href=\"../p/rommel_e.html\">元帥</a>はガチャガチャとせわしなく受話器をたたき、交換手にオーバーザルツブルクの<a href=\"../p/hitler_a.html\">ヒトラー</a>山荘につなぐよう、指示した。</div>\n<div>総統のお宅にですか・・・・・・と、交換手が躊躇する風情をみせると、<a href=\"../p/rommel_e.html\">元帥</a>は、大喝した。</div>\n<div>「私は<a href=\"../p/rommel_e.html\">ロンメル</a>だッ。すぐつなげッ」</div>\n<div><a href=\"../p/rommel_e.html\">元帥</a>は、高級副官シュムント少将を呼びだすと、事情を語って、<a href=\"../p/hitler_a.html\">ヒトラー</a>との会見を中止する、直ちに司令部に帰還する、\nよろしいな、と、早口にまくしたてた。</div>\n<div>少将の返事も聞かずに電話をきった<a href=\"../p/rommel_e.html\">元帥</a>は、ガウンを脱ぎすて軍服に着がえながら、従兵Ｒ・ロイストルに、\nスツットガルトにいる副官Ｈ・ランケ大尉に連絡せよ、途中で落ちあえといえ、と、背中ごしに指令した。</div>\n<div>第五軽師団長キルヒハイム少将夫人ヒルデガルトによれば、午前十時三十分すぎ、<a href=\"../p/rommel_e.html\">元帥</a>夫人ルシーがあらわれ、\n<a href=\"../p/rommel_e.html\">元帥</a>は急用でフランスに出発した、と告げた。</div>\n<div>どんな急用か、と質問すると、夫人ルシーは肩をすくめ、軍人の急用といえば貴女にもわかるでしょう、と答えた。</div>\n<div class=\"txr\"><a href=\"../text/kn6hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（６）」</a>\n　Ｐ．３８３<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167141418%2Fqid%3D1147087396%2Fsr%3D1-20%2Fref%3Dsr_1_2_20\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>Ｂ方面軍参謀長Ｈ・スパイデル中将は、司令官Ｅ・<a href=\"../p/rommel_e.html\">ロンメル元帥</a>の電話をうけた。</div>\n<div>あと五時間ほどで司令部に帰れる、状況はどうか、と<a href=\"../p/rommel_e.html\">元帥</a>は質問し、中将はこたえた。</div>\n<div><span class=\"bar\">―</span>―敵の上陸正面は、コタンタン半島からオルヌ川口に至るノルマンディ海岸の約二十一マイルにわたる地域である。</div>\n<div><span class=\"bar\">―</span>―コタンタン半島には、敵の空挺部隊が降下しているが、上陸はまだおこなわれていない。</div>\n<div><span class=\"bar\">―</span>―総統は第十二ＳＳ、「レール」戦車師団の出撃を許可した。</div>\n<div>この参謀長スパイデル中将の報告は、この時刻になっても、独軍側がコタンタン半島東側の「ユタ」海岸への米軍上陸に気づいていない、\nという、異常な事情をもの語っている。</div>\n<div>しかも、参謀長スパイデル中将は、次のような情勢判断も強調した。</div>\n<div>「ここ（ノルマンディ）が敵の主作戦地だと思います。\nしかし、別の場所により大規模な作戦が実施される可能性は失われておりません」</div>\n<div>「そんなことはどうでもよいッ」</div>\n<div><a href=\"../p/rommel_e.html\">ロンメル元帥</a>は大喝して、中将の発言を阻止した。</div>\n<div>「それよりも反撃だ。われわれの攻撃はどうなっているのか」</div>\n<div>「フォイヒティンガー（第二十一戦車師団長）が援軍をもとめています」</div>\n<div>「援軍だとッ。そんなことを考えるより攻撃しろといえッ。攻撃だ。直ちに攻撃せよッ」</div>\n<div>中将の鼓膜は<a href=\"../p/rommel_e.html\">元帥</a>の怒声で激動し、思わず受話器をはなしたとたんに、電話はきれた。</div>\n<div class=\"txr\"><a href=\"../text/kn6hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（６）」</a>\n　Ｐ．３９３<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167141418%2Fqid%3D1147087396%2Fsr%3D1-20%2Fref%3Dsr_1_2_20\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -263,7 +264,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

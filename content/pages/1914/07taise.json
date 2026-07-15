@@ -2,21 +2,30 @@
  "path": "1914/07taise.html",
  "type": "article",
  "title": "オーストリア、セルビアに宣戦布告　／ クリック ２０世紀",
- "description": null,
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a href=\"#f\">▽▽▽</a><a name=\"h\"></a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1914.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1914.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -47,6 +56,36 @@
   {
    "type": "timeline",
    "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1908/10/06　　<a href\"..=\"\" 19.html\"=\"\">\nオーストリア、ボスニア・ヘルツェゴビナ併合を宣言　（ボスニア危機）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/10/17　　<a href=\"../1912/10balk1.html\">\nバルカン戦争①勃発</a>　（～13/05/30）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/06/29　　<a href=\"../1913/06balk2.html\">\nバルカン戦争②勃発</a>　（～13/07/30）"
+      }
+     ]
+    },
     {
      "cls": "b",
      "cells": [
@@ -113,7 +152,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1914/08/26　　<a href\"..=\"\" 19.html\"=\"\">\nタンネンベルクの戦い　（～08/30）</a>"
+       "html": "1914/08/26　　<a href=\"../1914/08tanne.html\">\nタンネンベルクの戦い</a>　（～08/30）"
       }
      ]
     },
@@ -133,7 +172,17 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1914/09/05　　<a href\"..=\"\" 19.html\"=\"\">\nマルヌの戦い　（～09/12／西部戦線膠着）</a>"
+       "html": "1914/09/05　　<a href=\"../1914/09marne.html\">\nマルヌの戦い</a>　（～09/12／西部戦線膠着）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/02/21　　<a href=\"../1916/02verdu.html\">\nヴェルダン要塞攻防戦</a>　（～07/11）"
       }
      ]
     },
@@ -153,7 +202,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1917/04/06　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ、対独参戦</a>"
+       "html": "1917/04/06　　<a href=\"../1917/04a_san.html\">\nアメリカ、対独参戦</a>"
       }
      ]
     },
@@ -173,7 +222,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1918/03/03　　<a href\"..=\"\" 19.html\"=\"\">\nブレストリトフスク条約調印　（ソビエト政府、独墺と講和）</a>"
+       "html": "1918/03/03　　<a href=\"../1918/03brest.html\">\nブレスト・リトフスク条約調印</a>　（ソビエト政府、独墺と講和）"
       }
      ]
     },
@@ -203,25 +252,17 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "pt"
    },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+   "html": "\n<div class=\"pt_h\">～　１９１４年のヨーロッパ　～</div>\n<div class=\"c\">ドイツ　　＝　　オーストリア　ｖｓ　セルビア　　＝　　ロシア　　＝　　英・仏</div>\n<div class=\"i10\">三国(?)同盟　　　　サラエボ事件　　　汎スラブ主義　　三国協商</div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "pt"
    },
-   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+   "html": "\n<div class=\"pt_h\">～　第一次世界大戦の主な戦場　～</div>\n<div class=\"c\">西部戦線 ／ 東部戦線 ／ バルカン半島 ／ 海上・植民地</div>\n"
   },
   {
    "type": "raw",
@@ -229,27 +270,33 @@
    "attrs": {
     "class": "tx_sw"
    },
-   "html": "\n<div><span class=\"m_v\">taro's トーク</span>\nああああああああああああああああ</div>\n"
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../1914/06saraj.html\">サライェヴォでのフランツ・フェルディナント夫妻の暗殺</a>は、オーストリアを憤慨させた。\nだがそれは皇位継承者の不慮の死を悼むというより、暗殺の背後にいると思われたセルビアに対する敵意からであった。\nフェルディナントはオーストリア=ハンガリー帝国、とくにその支配層のあいだでは、あまり人気がなかった。\n気むずかしい性格で、厳格なカトリックのフェルディナントは、チェコ人を軽蔑し、\nハンガリー旅行中は列車のブラインドを下ろすほど、ハンガリー人を嫌っていた。\nかれは身分違いの結婚のため、自身は皇位継承者でも子供に皇位継承権はなく、子供たちは皇帝との謁見すら許されなかった。\n夫妻の棺はだれも出迎えられないように、真夜中にウィーンに到着するよう仕組まれたし、\n寺院に納められた妻の棺は、最後まで身分違いを示すかのように、夫より一段低く置かれていた。</div>\n<div>もちろん、オーストリアの外交姿勢はこうした感情とは別であった。\nスラヴ系民族の自立運動に動揺していたオーストリア支配層は、これを機会にセルビアとの戦争に勝利し、\n多民族帝国のたがを引き締め、列強としての体面を守ろうとする強硬論が優位に立った。\nとくに陸軍参謀総長コンラート・ヘッツェンドルフはセルビア一撃論者で、\n一九〇八年のボスニア併合でセルビアとの戦争の機会を逸したことに不満であったから、強硬論の先頭に立った。</div>\n<div>とはいっても、セルビアの守護者を自認するロシアの存在を考えれば、\nオーストリア単独では戦争はできない。\n同盟国ドイツの支持の保証が必要であった。\n七月はじめ、ドイツの意向を確認する使者がベルリンに派遣された。\n<a href=\"../p/wilhelm2.html\">ヴィルヘルム二世</a>とベートマン-ホルヴェーク宰相は、オーストリアを無条件で支持するという重大な確約を与えた。\nドイツの「白紙小切手」を得て、オーストリアはセルビアとの戦争も辞さない政策をとることができた。</div>\n<div>ドイツは、戦争がオーストリア・セルビア間に局地化されれば、オーストリアの勝利は確実であり、\n当てになる唯一の同盟国オーストリアは安定し、三国協商側は打撃を受けるだろうし、\nロシアが参戦しても、ドイツはロシア、フランスとの戦争のリスクを引き受けられると考えた。\n列強介入前に既成事実をつくるため、ドイツはオーストリアに行動を急ぐよう圧力をかけた。</div>\n<div>七月二十三日、オーストリアの最後通告がセルビアに手渡された。\nオーストリア側がドイツに説明したところによれば、「少しでも自負心があり、体面を重んじる国なら、\nどうあっても受け入れられない条件を入れてある」のだから、条件がきびしいのも当然であった。\nセルビアは大部分の条件を受け入れたが、主権抵触条項は拒否した。</div>\n<div>オーストリアにはそれで十分であった。\n二十五日、オーストリアはセルビアに国交断絶を通告し、二十八日宣戦した。\nオーストリア陸軍の公式戦時日記が、すでに二十三日から記述を開始していることからも、\n開戦が既定方針になっていたことが確かめられる。</div>\n<div class=\"txr\"><a href=\"../text/ks_nse26.html\">木村靖二・柴宜弘・長沼秀世 「世界の歴史（26）」</a>\n　Ｐ．３０<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E4%25B8%2596%25E7%2595%258C%25E5%25A4%25A7%25E6%2588%25A6%25E3%2581%25A8%25E7%258F%25BE%25E4%25BB%25A3%25E6%2596%2587%25E5%258C%2596%25E3%2581%25AE%25E9%2596%258B%25E5%25B9%2595%2520%2520%2520%2520%25E4%25B8%2596%25E7%2595%258C%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
   },
   {
    "type": "raw",
    "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",
-   "html": "<a name=\"f\"></a>\n<a href=\"../index.html\">目次</a>\n ＞ <a href=\"../20c/1914.html\">１９１４年</a>\n ＞ <a href=\"#h\">オーストリア、セルビアに宣戦布告</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1914.html\">１９１４年</a>\n ＞ <a href=\"#h\">オーストリア、セルビアに宣戦布告</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
   }
  ]
 }

@@ -15,8 +15,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1940.html\">年表</a> ＞ <a href=\"kono2_1.html\">事項</a> ＞ <span class=\"now\">詳細</span>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1940.html\">年表</a> ＞ <a href=\"kono2_1.html\">事項</a> ＞ <span class=\"now\">詳細</span> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -51,14 +59,6 @@
     "class": "cl"
    },
    "html": "\n<tbody><tr><td class=\"cl\">内閣総理大臣</td><td class=\"cl\"><a href=\"../p/kfumimar.html\">近衛文麿</a></td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">外務大臣</td><td class=\"cl\"><a href=\"../p/myosuke.html\">松岡洋右</a></td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">内務大臣</td><td class=\"cl\">安井英二</td><td class=\"cl\"><a href=\"../p/hkiiciro.html\">平沼騏一郎</a></td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1940.12.21</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">大蔵大臣</td><td class=\"cl\">河田烈</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">陸軍大臣</td><td class=\"cl\"><a href=\"../p/thideki.html\">東條英機</a></td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">海軍大臣</td><td class=\"cl\"><a href=\"../p/yzengo.html\">吉田善吾</a></td><td class=\"cl\"><a href=\"../p/okosiro.html\">及川古志郎</a></td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1940.09.05</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">司法大臣</td><td class=\"cl\"><a href=\"../p/kakira2.html\">風見章</a></td><td class=\"cl\">柳川平助</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1940.12.21</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">文部大臣</td><td class=\"cl\">橋田邦彦</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">農林大臣</td><td class=\"cl\"><a href=\"../p/kfumimar.html\">（近衛文麿）</a></td><td class=\"cl\">石黒忠篤</td><td class=\"cl\">井野碩哉</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1940.07.24</td><td class=\"cl\">～1941.06.11</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">商工大臣</td><td class=\"cl\"><a href=\"../p/kicizo.html\">小林一三</a></td><td class=\"cl\"><a href=\"../p/tteijiro.html\">豊田貞次郎</a></td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1941.04.04</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">逓信大臣</td><td class=\"cl\">村田省蔵</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">鉄道大臣</td><td class=\"cl\">（村田省蔵）</td><td class=\"cl\">小川郷太郎</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1940.09.28</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">拓務大臣</td><td class=\"cl\"><a href=\"../p/myosuke.html\">（松岡洋右）</a></td><td class=\"cl\">秋田清</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1940.09.28</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">厚生大臣</td><td class=\"cl\">（安井英二）</td><td class=\"cl\">金光庸夫</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1940.09.28</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">国務大臣</td><td class=\"cl\"><a href=\"../p/hnaoki.html\">星野直樹</a></td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">国務大臣</td><td class=\"cl\"><a href=\"../p/steiici.html\">鈴木貞一</a></td><td class=\"cl\">1941.04.04～</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">国務大臣</td><td class=\"cl\"><a href=\"../p/hkiiciro.html\">平沼騏一郎</a></td><td class=\"cl\" colspan=\"2\"><div class=\"l\">　1940.12.06～12.21</div></td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">国務大臣</td><td class=\"cl\">小倉正恒</td><td class=\"cl\">1941.04.02～</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">内閣書記官長</td><td class=\"cl\">富田健治</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">法制局長官</td><td class=\"cl\">村瀬直養</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n</tbody>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
   },
   {
    "type": "timeline",
@@ -236,28 +236,18 @@
    ]
   },
   {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s2\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
-  },
-  {
    "type": "cyu",
    "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n<br>「近衛内閣②」は「第２次近衛内閣」「第二次近衛文麿内閣」と同じ意味です。\n"
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

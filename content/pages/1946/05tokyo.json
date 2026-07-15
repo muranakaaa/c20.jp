@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1946.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1946.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -233,25 +242,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -265,17 +258,17 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>東京裁判についても、極東委員会の干渉が<a href=\"../p/macart_d.html\">連合国軍最高司令官</a>に及ぶ以前の一月十九日に、\n<a href=\"../p/macart_d.html\">マッカーサー</a>による極東軍事裁判所条例が公布されていて、\n裁判の性格づくりや進め方など基本的条項がすでに定められていた。</div>\n<div>その条例を作成したのはキーナン検事を中心とするアメリカ・スタッフだけの国際検事局であり、\nもはや東京裁判の主導権を完全にアメリカが握っていた。</div>\n<div>ナチス・ドイツを裁いたニュールンベルク裁判に倣った条例だが、決定的に違うのは、\n主席検事を各国から派遣の復名にするのではなく、アメリカ代表キーナン検事ただ一人にしたことである。</div>\n<div>東京裁判は、その出発時点から、アメリカ主導の裁判であり、端的にいえばマッカーサー裁判であった。</div>\n<div class=\"txr\"><a href=\"../text/mk_gunji.html\">升本喜年 「軍人の最期」</a>\n　Ｐ．１６<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25BB%258D%25E4%25BA%25BA%25E3%2581%25AE%25E6%259C%2580%25E6%259C%259F%25E2%2580%2595%25E6%2594%25BF%25E6%25B2%25BB%25E7%259A%2584%25E5%25B0%2586%25E8%25BB%258D%25E3%2581%25AE%25E7%2594%259F%25E3%2581%258D%25E3%2581%2596%25E3%2581%25BE%25E3%2581%25A8%25E3%2581%259D%25E3%2581%25AE%25E6%25AD%25BB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>日本側の要請によって、\n各被告にはアメリカ人弁護人も付いたが、ジョージ・Ａ・ファネス（<a href=\"../p/smamoru.html\">重光葵</a>担当）弁護人、\nベンブルース・ブレークニー（<a href=\"../p/tsigenor.html\">東郷茂徳</a>担当）弁護人らも次々に補足動議に立つ。</div>\n<div>戦火の後遺症がまだ生々しいこの時期、敵国の戦犯被告の弁護に当たるというのは、\n日本人の感覚と常識では考えられないことだが、彼らは公正であり勇敢であった。</div>\n<div>判事団に向かって、彼らは言う<span class=\"bar\">―</span>―。</div>\n<div>戦争での殺人は罪に当たらない。\n国際法的には、「戦争」は合法であり、まして個人がその責任を問われて裁かれるのは不当である。\nそれでも裁くというのであれば、公正を期すために、中立国の判断に委ねて裁判にかけるべきである。</div>\n<div>ブレークニー弁護人の反論は、原爆を投下したアメリカ側の問題にまで及ぶ。</div>\n<div>彼は国際法に精通する学究だが、アメリカ陸軍の少佐である。\nその軍服を着ているが、「我々は広島に原爆を投下した者の名を挙げることが出来る。\n投下を計画した参謀総長の名も承知している。その国の元首の名も知っている」と皮肉る。</div>\n<div>この原爆の件りは、ウェッブ裁判長によって速記停止が命ぜられた。\n同時通訳の声も止まった。</div>\n<div class=\"txr\"><a href=\"../text/mk_gunji.html\">升本喜年 「軍人の最期」</a>\n　Ｐ．３９<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25BB%258D%25E4%25BA%25BA%25E3%2581%25AE%25E6%259C%2580%25E6%259C%259F%25E2%2580%2595%25E6%2594%25BF%25E6%25B2%25BB%25E7%259A%2584%25E5%25B0%2586%25E8%25BB%258D%25E3%2581%25AE%25E7%2594%259F%25E3%2581%258D%25E3%2581%2596%25E3%2581%25BE%25E3%2581%25A8%25E3%2581%259D%25E3%2581%25AE%25E6%25AD%25BB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -283,7 +276,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

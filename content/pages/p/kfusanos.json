@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -46,9 +55,9 @@
    "type": "raw",
    "tag": "table",
    "attrs": {
-    "class": "off"
+    "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"02k.html\">一覧　（カ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E4%25B9%2585%25E5%258E%259F%2520%25E6%2588%25BF%25E4%25B9%258B%25E5%258A%25A9\" target=\"_blank\">本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
   },
   {
    "type": "raw",
@@ -57,14 +66,6 @@
     "class": "off"
    },
    "html": "<span class=\"m_r\">エピソード 1</span>調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
   },
   {
    "type": "timeline",
@@ -150,14 +151,6 @@
      ]
     }
    ]
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "timeline",
@@ -358,49 +351,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_b\">エピソード</span>\n調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span>久原房之助は山口県の資産家に生れた。\nその親戚には大阪藤田組の藤田伝三郎がいた。\n久原の妻の兄は日産の鮎川義介である。\n三菱の木村久寿弥太も親戚筋の一人だという。めぐまれた環境である。</div>\n<div>久原は若いとき、親戚の藤田組に入り、小坂銅山にやらされた。\nよく働き、相当な出来で同僚を圧していた。\n藤田組をやめ、当時下火だった日立銅山を買ったのが出世のはじまりで、\n日露戦争につづく欧州戦争で、銅で儲ける大当りをした久原商事をつくったまではよかったが、\nそこに欧州戦争後の恐慌が訪れ、たださえ杜撰な経理の彼の会社はあえなく崩壊した。\nそれが大正十二年の<a href=\"../1923/09sinsa.html\">震災</a>で決定的となった。</div>\n<div>財界を「食いつめた」久原は、成金時代に得意になって貢いでいた同郷の<a href=\"../p/tgiici.html\">田中義一</a>を頼って政界入りした。\n「財界からの夜逃げ同然」とは和田日出吉の表現である。</div>\n<div>同郷でもあり、旧恩を忘れない<a href=\"../p/tgiici.html\">田中</a>は久原を身ぐるみ引きうけ、\nいきなり<a href=\"../1927/tanaa_1.html\">田中内閣</a>の逓信大臣のイスにつけた。\n久原は外務大臣を熱望していたが、さすがに党内幹部が反対したのである。</div>\n<div>支柱の<a href=\"../p/tgiici.html\">田中</a>が死ぬと、久原の人気は下落した。\n人気が落ちた理由の一つに、彼は数千万円の借財を震災手形にして政府の肩替りにしたことがあげられている。\nつまり自分の借金を国民の血税に肩替りした上、一文も払わなかったのだ。</div>\n<div>久原は政界入りと同時に日立鉱山と久原鉱業とを義兄の鮎川義介に譲った。\nそれが鮎川の日産財閥の中に日立製作所と日本鉱業となって残る。\n久原の手には資本金一千万円の久原商店と同じく一千万円の久原地所部とがあるが、\nこの全財産二千万円も資産だが負債だかわからなかったという。</div>\n<div>「彼はそれが負債であろが無かろうが問題ではない。\nいか程の負債も一時にして資産にする力をもっている彼。株をやる彼。\n政治と株を結託することによって金をつくり出す彼」（和田日出吉「二・二六以後」昭和十二年刊）</div>\n<div>株をやる以外に久原の金儲けの道はない。\n相場は世間が安定しているとウマ味がない。\n物情騒然としたほうが変動を大きくさせ儲けの機会が多い。\n久原はわずかな手兵で乱をつくってゆく。「乱世の人物」といわれる所以である。</div>\n<div>かつて久原商事には一癖も二癖もある社員ばかりを集めて、\n結局彼らが会社を食い倒したと同じように、政治家久原の周囲には奇態な子分ばかりが集った。\n代議士としては津雲国利、西方利馬な七、八名がいる。\n<a href=\"../p/mkaku.html\">森恪</a>に死なれて行きどころのなくなった岡本一巳という放浪代議士もくる。</div>\n<div>久原は岡本を使い、反対派の<a href=\"../p/skisabur.html\">鈴木総裁</a>の片腕<a href=\"../p/hiciro.html\">鳩山一郎</a>が樺太工業から五万円もらった一件を議会で暴露させ、\n<a href=\"../p/hiciro.html\">鳩山</a>を追い落した。</div>\n<div>乱を好む久原が、政治に介入してきた軍部に近づくのは当然の行動だった。\n彼は、「ファッショ排撃」の声をあげる政界とは逆に軍に結合して行った。\n久原が得意になってぶっていた「皇道経済」とは神武天皇以来の精神を経済に生かすという神がかったもので、\nいかにも軍部に気にいられそうな題目だった。</div>\n<div class=\"txr\"><a href=\"../text/ms8syowa.html\">松本清張 「昭和史発掘（８）」</a>\n　Ｐ．３１５<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167106388%2Fqid%3D1147086646%2Fsr%3D1-22%2Fref%3Dsr_1_0_22\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -408,7 +361,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

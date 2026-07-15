@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1933.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1933.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -63,7 +72,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1928/03/15　　<a href\"..=\"\" 19.html\"=\"\">\n三・一五事件　（共産党関係者一斉検挙）</a>"
+       "html": "1928/03/15　　<a href=\"../1928/03315ji.html\">\n三・一五事件</a>　（共産党関係者一斉検挙）"
       }
      ]
     },
@@ -123,25 +132,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -155,17 +148,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div><a href=\"../p/ktakiji.html\">小林多喜二</a>が特高の手に捕らえられ、築地警察で虐殺されたのは、二月二十日のことだったが、\nそれをありのままに報道した新聞は一社もなかった。\n毛利特高課長の「決して拷問した事実はない。\n心臓に急変をきたしたものだ」という談話をれいれいしくのせた。\nわずかに、友人の江口渙の「顔面の打撲裂傷、首の縄の跡、腰下の出血がひどく、たんなる心臓マヒとは思えません」\nという談話（都新聞）や、家族や友人が「むごくも変わりはてた姿に死の対面をした」（読売新聞）といった表現で、\n真相をそれとなく匂わせるのがやっとであった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/mt_yuhit.html\">三好徹 「夕陽と怒濤」</a>\n　Ｐ．２０２</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/ktakiji.html\">小林多喜二</a>が特高の手に捕らえられ、築地警察で虐殺されたのは、二月二十日のことだったが、\nそれをありのままに報道した新聞は一社もなかった。\n毛利特高課長の「決して拷問した事実はない。\n心臓に急変をきたしたものだ」という談話をれいれいしくのせた。\nわずかに、友人の江口渙の「顔面の打撲裂傷、首の縄の跡、腰下の出血がひどく、たんなる心臓マヒとは思えません」\nという談話（都新聞）や、家族や友人が「むごくも変わりはてた姿に死の対面をした」（読売新聞）といった表現で、\n真相をそれとなく匂わせるのがやっとであった。</div>\n<div class=\"txr\"><a href=\"../text/mt_yuhit.html\">三好徹 「夕陽と怒濤」</a>\n　Ｐ．２０２<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%259D%25BE%25E5%25B2%25A1%25E6%25B4%258B%25E5%258F%25B3%25E2%2580%2595%25E5%25A4%2595%25E9%2599%25BD%25E3%2581%25A8%25E6%2580%2592%25E6%25BF%25A4%2520%2520%2520%2520%25E4%25BA%25BA%25E7%2589%25A9%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -173,7 +158,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

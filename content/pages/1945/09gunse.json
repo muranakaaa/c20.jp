@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1945.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1945.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -133,25 +142,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -165,9 +158,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>それは、<a href=\"../1945/09kofuk.html\">ミズーリ号艦上の式典</a>が終わって数時間しか経ていない午後四時過ぎのことであった。\nＧＨＱのマーシャル副参謀長から呼び出された鈴木公使が、そこで「翌三日に告示する予定」と言って提示されたのが、\n有名な「三布告」である。</div>\n<div>「連合国最高司令官総司令部」の「布告第一号」は、\n「行政、司法及立法ノ三権ヲ含ム日本帝国政府ノ一切ノ権能ハ爾今本官ノ権限下ニ行使セラルルモノトス」と宣言し、\n英語を公用語とするとした。\nどうやら、日本政府が最も恐れていたものが来たようであった。\n「布告第二号」は、ＳＣＡＰ命令への違反者を「占領軍裁判所」が死刑以下の刑に処するとした。\n治外法権という明治の悪夢どころの話ではなくなるわけである。\nそして「布告第三号」が、占領軍の発行するＢ軍票を「日本銀行ノ発行スル法定通貨」と同等の「日本法貨」とすることを命じた。</div>\n<div>鈴木公使は、その場でこの措置が「<a href=\"../p/stenno.html\">天皇</a>および日本政府を通して統治する」公的な方針にもとるうえ、\n天皇の詔書に従って日本国民が懸命に協力しようとしている最中にそれを覆すことが政治的に賢明でないことを説き、再考を求めた。</div>\n<div>この報を受けて日本政府は、ただちに動いた。\n二日深夜、政府の命で横浜に急行した終戦連絡中央事務局の岡崎勝男局長は、サザランド参謀長と会見した。\n参謀長は岡崎の要請を容れて、とりあえず三布告の公布差し止めに同意した。\n翌三日、<a href=\"../p/smamoru.html\">重光外相</a>が決着すべく、焼け野原の中を、あわただしく連日の横浜行きとなった。\n午前十時半からのマッカーサーとの会見で、<a href=\"../p/smamoru.html\">重光</a>は説得に成功した。\nマッカーサーは、「要スルニ政府及国民ノ出方一ツニテ之ノ問題ハ如何トモナル」と語って、\n<a href=\"../p/smamoru.html\">重光</a>の言う日本側の誠意を持っての協力姿勢を認めた。\n布告を「日本政府に対する命令」に変え、日本政府が自らの手で執り行うことは差し支えないと答えた。\n勝者の側で、日本国民を直接統治する意図は、必ずしも断固たるものではなかった。</div>\n<div class=\"txr\"><a href=\"../text/im_senry.html\">五百旗頭真 「占領期」</a>\n　Ｐ．５４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%258D%25A0%25E9%25A0%2598%25E6%259C%259F%25E2%2580%2595%25E9%25A6%2596%25E7%259B%25B8%25E3%2581%259F%25E3%2581%25A1%25E3%2581%25AE%25E6%2596%25B0%25E6%2597%25A5%25E6%259C%25AC\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -175,23 +168,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>それは、<a href=\"../1945/09kofuk.html\">ミズーリ号艦上の式典</a>が終わって数時間しか経ていない午後四時過ぎのことであった。\nＧＨＱのマーシャル副参謀長から呼び出された鈴木公使が、そこで「翌三日に告示する予定」と言って提示されたのが、\n有名な「三布告」である。</div>\n<div>「連合国最高司令官総司令部」の「布告第一号」は、\n「行政、司法及立法ノ三権ヲ含ム日本帝国政府ノ一切ノ権能ハ爾今本官ノ権限下ニ行使セラルルモノトス」と宣言し、\n英語を公用語とするとした。\nどうやら、日本政府が最も恐れていたものが来たようであった。\n「布告第二号」は、ＳＣＡＰ命令への違反者を「占領軍裁判所」が死刑以下の刑に処するとした。\n治外法権という明治の悪夢どころの話ではなくなるわけである。\nそして「布告第三号」が、占領軍の発行するＢ軍票を「日本銀行ノ発行スル法定通貨」と同等の「日本法貨」とすることを命じた。</div>\n<div>鈴木公使は、その場でこの措置が「<a href=\"../p/stenno.html\">天皇</a>および日本政府を通して統治する」公的な方針にもとるうえ、\n天皇の詔書に従って日本国民が懸命に協力しようとしている最中にそれを覆すことが政治的に賢明でないことを説き、再考を求めた。</div>\n<div>この報を受けて日本政府は、ただちに動いた。\n二日深夜、政府の命で横浜に急行した終戦連絡中央事務局の岡崎勝男局長は、サザランド参謀長と会見した。\n参謀長は岡崎の要請を容れて、とりあえず三布告の公布差し止めに同意した。\n翌三日、<a href=\"../p/smamoru.html\">重光外相</a>が決着すべく、焼け野原の中を、あわただしく連日の横浜行きとなった。\n午前十時半からのマッカーサーとの会見で、<a href=\"../p/smamoru.html\">重光</a>は説得に成功した。\nマッカーサーは、「要スルニ政府及国民ノ出方一ツニテ之ノ問題ハ如何トモナル」と語って、\n<a href=\"../p/smamoru.html\">重光</a>の言う日本側の誠意を持っての協力姿勢を認めた。\n布告を「日本政府に対する命令」に変え、日本政府が自らの手で執り行うことは差し支えないと答えた。\n勝者の側で、日本国民を直接統治する意図は、必ずしも断固たるものではなかった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/im_senry.html\">五百旗頭真 「占領期」</a>\n　Ｐ．５４</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "tx"
-   },
-   "html": "\n<div><a href=\"../p/macart_d.html\">マ元帥</a>の総司令部が成立するや、<a href=\"../1945/higa_1.html\">この内閣</a>にとって最大の課題は、占領軍の直接統治、すなわち軍政をくいとめることであった。\n九月三日、<a href=\"../p/macart_d.html\">マ元帥</a>の日本国民への布告文を非公式に内示された<a href=\"../p/smamoru.html\">重光外相</a>はおおいに驚いた。\nその内容は占領軍が日本全土に軍政を布くというのである。そのほかに、</div>\n<div>（１）米軍の軍事裁判所が日本国内の裁判権を行使する</div>\n<div>（２）総司令部は日本において軍票を行使する</div>\n<div>とあった。<a href=\"../p/smamoru.html\">重光外相</a>は、占領軍は<a href=\"../1945/07potsd.html\">ポツダム宣言</a>の実行を要求し、かつまたその実行をもって満足されるものと了解し、\nそれならば日本政府を通じて占領政策を行なうことがもっとも実際的であるという立場から、<a href=\"../p/macart_d.html\">マ元帥</a>とつよく交渉した。\nその結果、ドイツのばあいとちがって、直接軍政ではなく間接統治ということになった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/rm_nih26.html\">蝋山政道 「日本の歴史（26）」</a>\n　Ｐ．４５</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/macart_d.html\">マ元帥</a>の総司令部が成立するや、<a href=\"../1945/higa_1.html\">この内閣</a>にとって最大の課題は、占領軍の直接統治、すなわち軍政をくいとめることであった。\n九月三日、<a href=\"../p/macart_d.html\">マ元帥</a>の日本国民への布告文を非公式に内示された<a href=\"../p/smamoru.html\">重光外相</a>はおおいに驚いた。\nその内容は占領軍が日本全土に軍政を布くというのである。そのほかに、</div>\n<div>（１）米軍の軍事裁判所が日本国内の裁判権を行使する</div>\n<div>（２）総司令部は日本において軍票を行使する</div>\n<div>とあった。<a href=\"../p/smamoru.html\">重光外相</a>は、占領軍は<a href=\"../1945/07potsd.html\">ポツダム宣言</a>の実行を要求し、かつまたその実行をもって満足されるものと了解し、\nそれならば日本政府を通じて占領政策を行なうことがもっとも実際的であるという立場から、<a href=\"../p/macart_d.html\">マ元帥</a>とつよく交渉した。\nその結果、ドイツのばあいとちがって、直接軍政ではなく間接統治ということになった。</div>\n<div class=\"txr\"><a href=\"../text/rm_nih26.html\">蝋山政道 「日本の歴史（26）」</a>\n　Ｐ．４５<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2%2520%252826%2529%2520%25E3%2582%2588%25E3%2581%25BF%25E3%2581%258C%25E3%2581%2588%25E3%2582%258B%25E6%2597%25A5%25E6%259C%25AC%2520%25E4%25B8%25AD%25E5%2585%25AC%25E6%2596%2587%25E5%25BA%25AB%25E7%2589%2588\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -199,7 +176,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

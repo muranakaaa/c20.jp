@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -46,9 +55,9 @@
    "type": "raw",
    "tag": "table",
    "attrs": {
-    "class": "off"
+    "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"04t.html\">一覧　（タ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E9%25AB%2598%25E6%25A9%258B%2520%25E6%2598%25AF%25E6%25B8%2585\" target=\"_blank\">本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></td><td class=\"lt\"><a href=\"../them/j_gov03.html#s1\">【テーマ・内閣成立史】</a></td></tr></tbody>"
   },
   {
    "type": "raw",
@@ -57,14 +66,6 @@
     "class": "off"
    },
    "html": "<span class=\"m_r\">エピソード 1</span>調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
   },
   {
    "type": "timeline",
@@ -132,14 +133,6 @@
    ]
   },
   {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
-  },
-  {
    "type": "timeline",
    "rows": [
     {
@@ -159,6 +152,16 @@
        "id": "l",
        "cls": null,
        "html": "1904/02/17　　<a href\"..=\"\" 19.html\"=\"\">\n閣議、外債募集方針を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/24　　<a href=\"../1904/02takah.html\">\n高橋日銀副総裁渡米</a>"
       }
      ]
     },
@@ -638,49 +641,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>「語学なんざ、ばかでもできるのだ」</div>\n<div>と、壇上の教師はいった。</div>\n<div>「にわとりがときをつくる。そっくりまねてみろ。馬鹿ほどうまいはずだ」</div>\n<div>といった。<a href=\"../p/asaneyuk.html\">真之</a>は苦笑して「ノボルさんよりもあしのほうがばかか」とささやいた。</div>\n<div>教師は、おもしろい男だった。\nこの当時の日本人は英語という学科を畏敬し、ひどく高度なものにおもいがちであったのを、\nそのようなかたちで水をかけ、生徒に語学をなめさせることによって語学への恐怖感をとりのぞこうとした。</div>\n<div>教材は、パーレーの「万国史」だった。\nこの教師は、一ページをつづけさまに読み、しかるのちに訳し、そのあとそのページを生徒に読ませ、もう一度生徒に訳させる。\n後年の語学教授法からみれば単純すぎるほどの教えかたであった。</div>\n<div>教師は、まるい顔をしていた。</div>\n<div>「まるでだるまさんじゃな」</div>\n<div>と<a href=\"../p/msiki.html\">子規</a>がいったことが、たまたまこの教師の生涯のあだ名になった。\n教師は、高橋是清といった。</div>\n<div>高橋是清は明治、大正、昭和の三代を通じての財政家であり、\n大正十年には<a href=\"../1921/taka_1.html\">総理大臣に信任された</a>ことがあるが、その生涯の特徴は大蔵大臣としての業績であり、\nとくに危機財政のきりぬけに腕をふるい、昭和九年八十一歳で何度目かの大蔵大臣になり、\n同十一年八十三歳でいわゆる<a href=\"../1936/02226ji.html\">二・二六事件</a>の兇弾にたおれた。</div>\n<div>かれは日露戦争前後のころは日銀副総裁であったが、英国に駐在して戦費調達に奔走し、苦心のすえ八億二千万円の外債募集に成功したことが\nその生涯を通じての功績になった。</div>\n<div>それが、このころは共立学校の教師として<a href=\"../p/asaneyuk.html\">真之</a>らに英語をおしえていた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/sr1sakan.html\">司馬遼太郎 「坂の上の雲（１）」</a>\n　Ｐ．１４４</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span>「語学なんざ、ばかでもできるのだ」</div>\n<div>と、壇上の教師はいった。</div>\n<div>「にわとりがときをつくる。そっくりまねてみろ。馬鹿ほどうまいはずだ」</div>\n<div>といった。<a href=\"../p/asaneyuk.html\">真之</a>は苦笑して「ノボルさんよりもあしのほうがばかか」とささやいた。</div>\n<div>教師は、おもしろい男だった。\nこの当時の日本人は英語という学科を畏敬し、ひどく高度なものにおもいがちであったのを、\nそのようなかたちで水をかけ、生徒に語学をなめさせることによって語学への恐怖感をとりのぞこうとした。</div>\n<div>教材は、パーレーの「万国史」だった。\nこの教師は、一ページをつづけさまに読み、しかるのちに訳し、そのあとそのページを生徒に読ませ、もう一度生徒に訳させる。\n後年の語学教授法からみれば単純すぎるほどの教えかたであった。</div>\n<div>教師は、まるい顔をしていた。</div>\n<div>「まるでだるまさんじゃな」</div>\n<div>と<a href=\"../p/msiki.html\">子規</a>がいったことが、たまたまこの教師の生涯のあだ名になった。\n教師は、高橋是清といった。</div>\n<div>高橋是清は明治、大正、昭和の三代を通じての財政家であり、\n大正十年には<a href=\"../1921/taka_1.html\">総理大臣に信任された</a>ことがあるが、その生涯の特徴は大蔵大臣としての業績であり、\nとくに危機財政のきりぬけに腕をふるい、昭和九年八十一歳で何度目かの大蔵大臣になり、\n同十一年八十三歳でいわゆる<a href=\"../1936/02226ji.html\">二・二六事件</a>の兇弾にたおれた。</div>\n<div>かれは日露戦争前後のころは日銀副総裁であったが、英国に駐在して戦費調達に奔走し、苦心のすえ八億二千万円の外債募集に成功したことが\nその生涯を通じての功績になった。</div>\n<div>それが、このころは共立学校の教師として<a href=\"../p/asaneyuk.html\">真之</a>らに英語をおしえていた。</div>\n<div class=\"txr\"><a href=\"../text/sr1sakan.html\">司馬遼太郎 「坂の上の雲（１）」</a>\n　Ｐ．１４４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%259D%2582%25E3%2581%25AE%25E4%25B8%258A%25E3%2581%25AE%25E9%259B%25B2%25E3%2580%25881%25E3%2580%2589%2520%2520%2520%2520%25E6%2596%2587%25E6%2598%25A5%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -688,7 +651,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1912.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1912.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -123,25 +132,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -155,17 +148,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>大正元年九月十三日、御大喪が青山の葬場殿で行われた。\nこれより先八月二十三日第二十九臨時議会が召集され、三日間で百五十四万円の御大喪予算を可決した。</div>\n<div>御大喪は伏見宮貞愛親王を総裁に、宮相渡辺千秋を副総裁として行われた。</div>\n<div>この夜、<a href=\"../p/nmaresuk.html\">乃木大将</a>が夫人静子と共に殉死したことは有名である。\n<a href=\"../p/nmaresuk.html\">乃木</a>は西南戦争のとき連隊長として軍旗を奪われたときに自殺を計って、親友の<a href=\"../p/kgentaro.html\">児玉源太郎</a>に止められて以来、\n死への志向を抱いていた。\n二〇三高地の戦いで多くの戦死者を出してから、その志向は念願と変っていた。\n第三軍司令官更迭の議がもち上がったとき、天皇は、「今代えてはいかん。\n今代えると<a href=\"../p/nmaresuk.html\">乃木</a>は生きてはいまい」と言ってこれを遮った。\nこれを聞いて<a href=\"../p/nmaresuk.html\">乃木</a>の死は確実なものとなった。\n勝典保典の二児を旅順で失ったことが天皇への（国民よりも）せめてもの申し訳であった。</div>\n<div>【中略】</div>\n<div><a href=\"../p/nmaresuk.html\">乃木</a>は藩閥が権力争いに終始する時代に絶望して憤死したとする説も一方にはある。</div>\n<div>判沢弘氏（早大講師）の『自殺の理由』（「プレジデント」昭五六・二、特集・乃木希典）は憤死の根拠を維新の元勲とくに長州閥の乱行、\n勢力争い、口には忠義を言いながら実際には勢力争いに明けくれる<a href=\"../p/yaritomo.html\">山県</a>、<a href=\"../p/ktaro.html\">桂</a>、<a href=\"../p/tmasatak.html\">寺内</a>らの流しつつある害毒に<a href=\"../p/nmaresuk.html\">乃木</a>が憤激したものだとしている。\n<a href=\"../p/nmaresuk.html\">乃木</a>はそのような遺言書を残しており、殉死の二日前に<a href=\"../p/yaritomo.html\">山県</a>を訪問して「軍隊を私兵化せざること」等の厳しい意見書を手交し、\nこの文書の内容を天皇に上奏してもらいたい、と迫っている。\n吉田松陰によって純忠を教えられた<a href=\"../p/nmaresuk.html\">乃木</a>の精神主義が示した最後の抵抗である。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm_saion.html\">豊田穣 「西園寺公望」</a>\n　上巻　Ｐ．４２６</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>大正元年九月十三日、御大喪が青山の葬場殿で行われた。\nこれより先八月二十三日第二十九臨時議会が召集され、三日間で百五十四万円の御大喪予算を可決した。</div>\n<div>御大喪は伏見宮貞愛親王を総裁に、宮相渡辺千秋を副総裁として行われた。</div>\n<div>この夜、<a href=\"../p/nmaresuk.html\">乃木大将</a>が夫人静子と共に殉死したことは有名である。\n<a href=\"../p/nmaresuk.html\">乃木</a>は西南戦争のとき連隊長として軍旗を奪われたときに自殺を計って、親友の<a href=\"../p/kgentaro.html\">児玉源太郎</a>に止められて以来、\n死への志向を抱いていた。\n二〇三高地の戦いで多くの戦死者を出してから、その志向は念願と変っていた。\n第三軍司令官更迭の議がもち上がったとき、<a href=\"../p/mtenno.html\">天皇</a>は、「今代えてはいかん。\n今代えると<a href=\"../p/nmaresuk.html\">乃木</a>は生きてはいまい」と言ってこれを遮った。\nこれを聞いて<a href=\"../p/nmaresuk.html\">乃木</a>の死は確実なものとなった。\n勝典保典の二児を旅順で失ったことが<a href=\"../p/mtenno.html\">天皇</a>への（国民よりも）せめてもの申し訳であった。</div>\n<div>【中略】</div>\n<div><a href=\"../p/nmaresuk.html\">乃木</a>は藩閥が権力争いに終始する時代に絶望して憤死したとする説も一方にはある。</div>\n<div>判沢弘氏（早大講師）の『自殺の理由』（「プレジデント」昭五六・二、特集・乃木希典）は憤死の根拠を維新の元勲とくに長州閥の乱行、\n勢力争い、口には忠義を言いながら実際には勢力争いに明けくれる<a href=\"../p/yaritomo.html\">山県</a>、<a href=\"../p/ktaro.html\">桂</a>、<a href=\"../p/tmasatak.html\">寺内</a>らの流しつつある害毒に<a href=\"../p/nmaresuk.html\">乃木</a>が憤激したものだとしている。\n<a href=\"../p/nmaresuk.html\">乃木</a>はそのような遺言書を残しており、殉死の二日前に<a href=\"../p/yaritomo.html\">山県</a>を訪問して「軍隊を私兵化せざること」等の厳しい意見書を手交し、\nこの文書の内容を<a href=\"../p/ttenno.html\">天皇</a>に上奏してもらいたい、と迫っている。\n吉田松陰によって純忠を教えられた<a href=\"../p/nmaresuk.html\">乃木</a>の精神主義が示した最後の抵抗である。</div>\n<div class=\"txr\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．４２６<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E5%259C%2592%25E5%25AF%25BA%25E5%2585%25AC%25E6%259C%259B%25E2%2580%2595%25E6%259C%2580%25E5%25BE%258C%25E3%2581%25AE%25E5%2585%2583%25E8%2580%2581%2520%2528%25E4%25B8%258A%25E5%25B7%25BB%2529%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -173,7 +158,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

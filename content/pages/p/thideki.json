@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -48,7 +57,7 @@
    "attrs": {
     "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href=\"04t.html\">一覧　（タ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"04t.html\">一覧　（タ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=books-jp%26keyword=%25E6%259D%25B1%25E6%25A2%259D%2520%25E8%258B%25B1%25E6%25A9%259F\" target=\"_blank\">本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
   },
   {
    "type": "raw",
@@ -57,14 +66,6 @@
     "class": "ep1"
    },
    "html": "<span class=\"m_r\">エピソード 1</span>東條の甥っ子が、あるとき東條の妹を尋ねた。\nところが折悪しく不在。そこで勝手知ったる叔母の家に上がりこみ帰宅を待った。\nビールを飲みながら、彼は退屈しのぎに女中に「いやぁ、だんだんきれいになるなぁ」などと言い、彼女の手をにぎった。\nこれが東條に知れた。この日の深夜、彼は東條に呼び出され、さんざんなお叱りをうけた。\nこのバカものぉ、何が陸軍少佐だ、このアホウめ、帝国軍人の風上にもおけぬわ、というわけだ。\n東條は堅物で、メモ魔で、「努力即権威」が座右の銘で、こんなに独裁者のイメージから遠いキャラはそうは見つからない。\n彼は独裁者ではなかった。独裁者が総辞職させられるわけがない。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
   },
   {
    "type": "timeline",
@@ -85,7 +86,7 @@
       {
        "id": null,
        "cls": "hist",
-       "html": "\n・　バーデンバーデンで、<a href=\"../p/ntetuzan.html\">永田</a>、<a href=\"../p/otosisir.html\">小畑</a>、岡村と陸軍刷新、総動員体制構築の盟約を結ぶ。"
+       "html": "\n・　バーデン・バーデンで、<a href=\"../p/ntetuzan.html\">永田</a>、<a href=\"../p/otosisir.html\">小畑</a>、岡村と陸軍刷新、総動員体制構築の<a href=\"../1921/10baden.html\">盟約を結ぶ</a>。"
       }
      ]
     },
@@ -142,16 +143,48 @@
    ]
   },
   {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
-  },
-  {
    "type": "timeline",
    "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/07/28　　<a href=\"../1914/07taise.html\">\nオーストリア、セルビアに宣戦布告</a>　（第一次世界大戦勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/10/27　　<a href=\"../1921/10baden.html\">\nバーデン・バーデンの密約</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1928/06/04　　<a href=\"../1928/06cyoxx.html\">\n満州某重大事件</a>　（<a href=\"../p/cyosakur.html\">張作霖</a>爆殺）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1929/05/19　　<a href=\"../1929/05issek.html\">\n一夕会結成</a>"
+      }
+     ]
+    },
     {
      "cls": "b",
      "cells": [
@@ -178,7 +211,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1936/11/24　　<a href\"..=\"\" 19.html\"=\"\">\n綏遠事件</a>　（関東軍参謀長：<a href=\"../p/thideki.html\">東條英機</a>）"
+       "html": "1936/11/24　　<a href\"..=\"\" 19.html\"=\"\">\n綏遠事件</a>"
       }
      ]
     },
@@ -403,6 +436,16 @@
      ]
     },
     {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1942/04/19　　<a href=\"../1942/04mutok.html\">\n武藤軍務局長更迭</a>"
+      }
+     ]
+    },
+    {
      "cls": "b",
      "cells": [
       {
@@ -578,49 +621,65 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "cm"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "<span class=\"m_y\">語録</span>\n幼年学校時代に、いちど習ったところを徹底的に暗記してみた。\nすると成績はあがった。努力とはそういうものだと思った。\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "<span class=\"m_b\">エピソード</span>\n調査中。"
+   "html": "<span class=\"m_y\">語録</span>\n誤解してはいかん。乙案は開戦の口実ではない。この案でなんとか妥結をはかりたいと神かけて祈っているのだ。\nそれがわからんのか。\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "cm"
    },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
+   "html": "<span class=\"m_y\">語録</span>\n治療を受けるあいだつき添ってくれたアメリカのＭＰは立派だった。\n社会の動きにもそれなりの見識をもっていた。\n教育程度が高いからだろうが、国民に知らせ、自覚をもたせ、これを掌握すれば力となる。\nアメリカのデモクラシーはこの点にあったのだ。\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
+   "html": "<span class=\"m_y\">語録</span>\n日本人の犯した犯罪は裁かれるのは当然だが、文明と人道、\n法と正義は同時に同じ罪を犯した連合国の人への裁判を要求するものである。\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
+   "html": "<span class=\"m_y\">語録</span>\n死ぬ時期はいい時期だと思います。一には国民に対する謝罪。\n二には日本の再建の礎石となって平和の捨て石となり得るということ。\n三には<a href=\"../p/stenno.html\">陛下</a>に累を及ぼさず、安心して死ぬること。四には絞首刑で死ぬことです。\n自殺でもしたら意味をなさんです。五には私の身体は子供の時から病弱であったのだが、少し生き過ぎました。\n歯も二、三本しかないし、目もよく見えない。頭も悪くなった。これでは長生きもできません。\nちょうどよい時期です。六には金銭上に関する不名誉のこともなくなって、安心して死ねます。\n七には病苦より一瞬間の死は余程幸福です。終身にでもなったら永久に煩悩につきまとわれて、たまったものでない。\n一番大事なことは、弥陀の浄土に（信仰によって）往生させて下さって喜んで死んで行けることです。\n今こそ死時だと思ったのです。昨夜宣告の時、心が朗らかになりました。\n大無量寿経の中の、法蔵菩薩が決定して無上正覚を得るといわれる、あのような気持になりました。\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "<span class=\"m_y\">語録</span>\nわれ往くもまたこの土地にかへりこむ国に報ゆることの足らねば\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "cm"
+   },
+   "html": "<span class=\"m_o\">評</span>\n東條英機は、歴史的には<a href=\"../p/yaritomo.html\">山県有朋</a>や<a href=\"../p/ihirobum.html\">伊藤博文</a>がつくりだした大日本帝国の〈拡大された矛盾の清算人〉であったと思う。\n誰かがどこかの地点で、清算人になる宿命をもっていたのだ。\n<div class=\"r\"><a href=\"../text/hm_tojoh.html\">保阪正康</a>　（作家）</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "cm"
+   },
+   "html": "<span class=\"m_o\">評</span>\nまったく自己反省のない男だからね、東條という男は。\n<div class=\"r\"><a href=\"../p/okeisuke.html\">岡田啓介</a>　（元首相）</div>\n"
   },
   {
    "type": "cyu",
@@ -628,7 +687,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

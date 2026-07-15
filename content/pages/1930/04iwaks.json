@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1930.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1930.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -63,25 +72,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -95,17 +88,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>４月、東京郊外の板橋町岩ノ坂で、41人ものもらい子殺しが発覚した。\n同月13日、この地区に住む作業員の内縁の妻が、もらい子を誤って乳房で窒息死させたと医師のところを訪ねた。\n死因に疑いを持った医師が板橋署に届け出たのがきっかけだった。</div>\n<div>同署が調べてみると、岩ノ坂では１年間に30人の乳児の変死があった。\n同署は同地区の大勢の人を取り調べ、おそるべき事件が明るみに出た。</div>\n<div>同地区は貧しい人たちが集まっていたところで、多くの乳児がもらわれてきた。\nこの子たちの多くは、裕福な家庭の夫人・令嬢の不義の子だった。\n当時は中絶が認められておらず、生まれてきた子は里子に出されるか産院などを通じ、養育費付きで他人に譲られた。\nそうした乳児たちの行き先の１つが岩ノ坂だった。</div>\n<div>赤子をもらった者は数日間は育てるが、食べ物を与えず殺してしまった。\n育ったときは、男は鉱山に、女は遊郭に売っていた。</div>\n<div>この事件の結末ははっきりしないが、罪を問われたのは１人だけだったという。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ys_20sei.html\">読売新聞社 「読む年表・20世紀と昭和天皇」</a>\n　Ｐ．４３</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>４月、東京郊外の板橋町岩ノ坂で、41人ものもらい子殺しが発覚した。\n同月13日、この地区に住む作業員の内縁の妻が、もらい子を誤って乳房で窒息死させたと医師のところを訪ねた。\n死因に疑いを持った医師が板橋署に届け出たのがきっかけだった。</div>\n<div>同署が調べてみると、岩ノ坂では１年間に30人の乳児の変死があった。\n同署は同地区の大勢の人を取り調べ、おそるべき事件が明るみに出た。</div>\n<div>同地区は貧しい人たちが集まっていたところで、多くの乳児がもらわれてきた。\nこの子たちの多くは、裕福な家庭の夫人・令嬢の不義の子だった。\n当時は中絶が認められておらず、生まれてきた子は里子に出されるか産院などを通じ、養育費付きで他人に譲られた。\nそうした乳児たちの行き先の１つが岩ノ坂だった。</div>\n<div>赤子をもらった者は数日間は育てるが、食べ物を与えず殺してしまった。\n育ったときは、男は鉱山に、女は遊郭に売っていた。</div>\n<div>この事件の結末ははっきりしないが、罪を問われたのは１人だけだったという。</div>\n<div class=\"txr\"><a href=\"../text/ys_20sei.html\">読売新聞社 「読む年表・20世紀と昭和天皇」</a>\n　Ｐ．４３</div>\n"
   },
   {
    "type": "cyu",
@@ -113,7 +98,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

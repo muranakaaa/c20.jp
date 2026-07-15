@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1942.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1942.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -183,25 +192,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -215,17 +208,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div><span class=\"bar\">―</span>―十一月十九日。</div>\n<div>夜が明けても吹雪はおさまらず、視界はゼロと記録された。</div>\n<div>だが、ドン、南西両方面軍司令部は、計画どおりの攻撃を実施することにして、午前七時二十分、砲兵部隊に合図の隠語を下達した。</div>\n<div><span class=\"bar\">―</span>―「サイレン」</div>\n<div>砲撃用意の指示であり、その十分間後、午前七時三十分、砲撃開始が命令された。</div>\n<div>まず、ロケット砲『カチューシャ』が発射をはじめ、壁のように四囲をおおう吹雪の中を火矢がたばになって駆けぬけた。</div>\n<div>次いで砲撃が開始されたが、吹雪と砲煙で視界がとざされ、おまけに大地の積雪が反射する薄光のためにも砲手は視野をせばめられ、\n照準確定に難儀した。</div>\n<div>しかし、目標は、事前に測定してあるので、ソ連砲兵は砲撃をつづけた。</div>\n<div>攻撃の主向は、【中略】　第六軍の北翼に位置するルーマニヤ第三軍に定められている。</div>\n<div>ソ連軍歩兵部隊は、砲撃の合い間に雪中を這って進み、ルーマニヤ軍陣地の前、約三百メートルにせまった。</div>\n<div>午前八時四十八分、砲兵が最後の斉射を終えると、二分間後、午前八時五十分、戦車に援護されて歩兵部隊は前進した。</div>\n<div>南西方面軍の第二十一軍（Ａ・チスチャコフ少将）の場合、クレットスカヤ付近から行動を起こし、\n中央に第九十六、第六十三、第二百九十三、第六十五師団を並列して進んだ。</div>\n<div>いずれも、戦車に乗ったり、その横を歩いての前進であったが、左翼の第七十六師団は、風変わりな進撃ぶりを示した。</div>\n<div>師団長Ｍ・タバルテラツ少将の命令で、九十人の軍楽隊がソ連国家を演奏しながら、行進したのである。</div>\n<div>攻撃されたルーマニヤ第三軍は、錯乱状態になった。\nいきなり吹雪の中からロケット砲、砲弾が八十分間も降りそそぎ、それが終わったかと思えば、戦車のエンジン音、軍靴の地響き、\nおまけに音楽まで聞こえてきたのである。</div>\n<div>吹雪にとじこめられている環境では、なにがどこからくるのか、見当がつかない。</div>\n<div>ルーマニヤ第三軍は、一人が、あっちだ、と叫ぶ方角にむかい、雪と泥にまみれて潰走した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kn5hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（５）」</a>\n　Ｐ．１５８</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span><span class=\"bar\">―</span>―十一月十九日。</div>\n<div>夜が明けても吹雪はおさまらず、視界はゼロと記録された。</div>\n<div>だが、ドン、南西両方面軍司令部は、計画どおりの攻撃を実施することにして、午前七時二十分、砲兵部隊に合図の隠語を下達した。</div>\n<div><span class=\"bar\">―</span>―「サイレン」</div>\n<div>砲撃用意の指示であり、その十分間後、午前七時三十分、砲撃開始が命令された。</div>\n<div>まず、ロケット砲『カチューシャ』が発射をはじめ、壁のように四囲をおおう吹雪の中を火矢がたばになって駆けぬけた。</div>\n<div>次いで砲撃が開始されたが、吹雪と砲煙で視界がとざされ、おまけに大地の積雪が反射する薄光のためにも砲手は視野をせばめられ、\n照準確定に難儀した。</div>\n<div>しかし、目標は、事前に測定してあるので、ソ連砲兵は砲撃をつづけた。</div>\n<div>攻撃の主向は、【中略】　第六軍の北翼に位置するルーマニヤ第三軍に定められている。</div>\n<div>ソ連軍歩兵部隊は、砲撃の合い間に雪中を這って進み、ルーマニヤ軍陣地の前、約三百メートルにせまった。</div>\n<div>午前八時四十八分、砲兵が最後の斉射を終えると、二分間後、午前八時五十分、戦車に援護されて歩兵部隊は前進した。</div>\n<div>南西方面軍の第二十一軍（Ａ・チスチャコフ少将）の場合、クレットスカヤ付近から行動を起こし、\n中央に第九十六、第六十三、第二百九十三、第六十五師団を並列して進んだ。</div>\n<div>いずれも、戦車に乗ったり、その横を歩いての前進であったが、左翼の第七十六師団は、風変わりな進撃ぶりを示した。</div>\n<div>師団長Ｍ・タバルテラツ少将の命令で、九十人の軍楽隊がソ連国家を演奏しながら、行進したのである。</div>\n<div>攻撃されたルーマニヤ第三軍は、錯乱状態になった。\nいきなり吹雪の中からロケット砲、砲弾が八十分間も降りそそぎ、それが終わったかと思えば、戦車のエンジン音、軍靴の地響き、\nおまけに音楽まで聞こえてきたのである。</div>\n<div>吹雪にとじこめられている環境では、なにがどこからくるのか、見当がつかない。</div>\n<div>ルーマニヤ第三軍は、一人が、あっちだ、と叫ぶ方角にむかい、雪と泥にまみれて潰走した。</div>\n<div class=\"txr\"><a href=\"../text/kn5hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（５）」</a>\n　Ｐ．１５８<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F416714140X%2Fqid%3D1147087396%2Fsr%3D1-19%2Fref%3Dsr_1_2_19\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -233,7 +218,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

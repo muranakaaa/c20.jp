@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -46,9 +55,9 @@
    "type": "raw",
    "tag": "table",
    "attrs": {
-    "class": "off"
+    "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"08y.html\">一覧　（ヤ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%25B1%25B1%25E6%259C%25AC%2520%25E6%25A8%25A9%25E5%2585%25B5%25E8%25A1%259B\" target=\"_blank\">本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></td><td class=\"lt\"><a href=\"../them/j_gov03.html#s3\">【テーマ・内閣成立史】</a></td></tr></tbody>"
   },
   {
    "type": "raw",
@@ -56,15 +65,7 @@
    "attrs": {
     "class": "ep1"
    },
-   "html": "<span class=\"m_r\">エピソード 1</span>1913年２月10日は決戦の日。\n帝国議会が再開され、ついに閥族の巨頭、<a href=\"../p/ktaro.html\">桂首相</a>と<a href=\"../1912/12goke1.html\">護憲運動①</a>が激突する。\nその朝、桂邸前で馬車からさっそうと降り立ったのが海軍の重鎮、山本権兵衛。 \n単身乗り込んで<a href=\"../p/ktaro.html\">桂首相</a>に辞職を勧告すると、その足で、政友会本部に<a href=\"../p/skinmoci.html\">西園寺</a>を訪ね、激励。\nおかげで、決戦を前に政友会は大いに盛りあがったという。 "
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+   "html": "<span class=\"m_r\">エピソード 1</span>1913年２月10日は決戦の日。\n帝国議会が再開され、ついに閥族の巨頭、<a href=\"../p/ktaro.html\">桂首相</a>と<a href=\"../1912/12goke1.html\">護憲運動①</a>が激突する。\nその朝、<a href=\"../p/ktaro.html\">桂</a>邸前で馬車からさっそうと降り立ったのが海軍の重鎮、山本権兵衛。 \n単身乗り込んで<a href=\"../p/ktaro.html\">桂首相</a>に辞職を勧告すると、その足で、政友会本部に<a href=\"../p/skinmoci.html\">西園寺</a>を訪ね、激励。\nおかげで、決戦を前に政友会は大いに盛りあがったという。 "
   },
   {
    "type": "timeline",
@@ -180,14 +181,6 @@
      ]
     }
    ]
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "timeline",
@@ -538,49 +531,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>山本権兵衛について、【中略】　かれは戊辰戦争のころは薩摩の陸兵として従軍し、北越から東北へ転戦した。</div>\n<div>戦乱がおわったあと、東京へ出てきたが、やることがないため相撲とりになろうとし、\n当時の横綱陣幕久五郎のもとに入門をたのみに行った。\nもっとも、これはことわられた。\n権兵衛は鹿児島城下でくらしていた少年のころから相撲が得意で、「花車」というシコ名までもっていたのである。</div>\n<div>そのあと、郷党の総帥である西郷隆盛に説諭され、西郷の紹介で勝海舟のもとに行って、\n海軍の話をきいたりして、当時築地にできたばかりの海軍兵学寮に入ったが、どちらかといえば海軍というものをあまり好きではなかったらしい。</div>\n<div>海軍兵学寮では、この当時の薩摩の若者の風で、けんかばかりをした。\n学科は数学が得意で、実科はとくにマストのぼりが得意だった。</div>\n<div>少尉補になってから、ドイツ軍艦ヴィネタ号にあずけられ、ついでおなじくドイツ軍艦ライプチッヒ号にあずけられ、\n乗組期間中に任官した。</div>\n<div>戊辰戦争の生き残りだから、多少齢をくっていて、任官は明治十年、すでに二十六歳になっていた。</div>\n<div>山本権兵衛が、ドイツの軍艦ライプチッヒ号に乗りこんで海軍修業をしていたころつまり明治十年ごろのドイツ海軍というのは、\nたいしたものではなかった。</div>\n<div>「船の運用は大したものだったが、戦術とか用兵とかいう方面はひどく遅れていた」</div>\n<div>と、権兵衛はのちに語っている。</div>\n<div>艦内で、戦術講義がある。\nその講義内容は貧弱で、陸軍戦術をまね、それの翻訳調であったり、\n海軍独特の行動を説明するにしても陸軍の例をひいて説明した。\nドイツはあくまでも陸軍国であり、この国が大海軍建設にのりだすのは、明治三十年代になってからである。</div>\n<div>「そいつは、こうじゃありませんか」</div>\n<div>と、権兵衛は質問ずきで、一つ問題をつきつめ、しばしば教官と議論になってしまうことがあったが、\n戦術教官は決して不快がらず、むしろ権兵衛の頭脳を畏敬するところがあった。\n他の士官たちも、権兵衛に一目おいた。\nその理由のひとつは権兵衛は少年兵として戊辰戦争に参加したという、いわば実弾のなかをくぐっただけに、\n戦場の諸問題を実感とともに語ることができる。</div>\n<div>「権兵衛は、勇士である」</div>\n<div>と、ドイツ人たちのたれもがいった。</div>\n<div>【中略】</div>\n<div>その後十年ほどのあいだでの権兵衛の経歴は、他の海軍士官とかわりはない。\n軍艦の分隊長をしたり、副長をつとめたり、輸入軍艦の回航委員をつとめたり、艦長に任じられたりしたが、\nかれの運命と日本海軍の運命がかわるのは、明治二十年、三十六歳で海軍大臣の伝令使（副官）になってからである。\n当時、海軍少佐であった。</div>\n<div>このあたりから、軍政を担当した。\nもっとも担当中も、高雄や高千穂の艦長として海に出たりしていたが、いよいよそういう彼が陸に腰をすえるのは、\n明治二十四年、四十歳、海軍大佐のとき、海軍大臣の「官房主事」というものになってからである。</div>\n<div>通称、</div>\n<div>「海軍主事」</div>\n<div>といわれた。日本海軍の作り直しともいうべき大仕事の辣腕をふるうのは、このときからである。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/sr3sakan.html\">司馬遼太郎 「坂の上の雲（３）」</a>\n　Ｐ．４６</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span>山本権兵衛について、【中略】　かれは戊辰戦争のころは薩摩の陸兵として従軍し、北越から東北へ転戦した。</div>\n<div>戦乱がおわったあと、東京へ出てきたが、やることがないため相撲とりになろうとし、\n当時の横綱陣幕久五郎のもとに入門をたのみに行った。\nもっとも、これはことわられた。\n権兵衛は鹿児島城下でくらしていた少年のころから相撲が得意で、「花車」というシコ名までもっていたのである。</div>\n<div>そのあと、郷党の総帥である西郷隆盛に説諭され、西郷の紹介で勝海舟のもとに行って、\n海軍の話をきいたりして、当時築地にできたばかりの海軍兵学寮に入ったが、どちらかといえば海軍というものをあまり好きではなかったらしい。</div>\n<div>海軍兵学寮では、この当時の薩摩の若者の風で、けんかばかりをした。\n学科は数学が得意で、実科はとくにマストのぼりが得意だった。</div>\n<div>少尉補になってから、ドイツ軍艦ヴィネタ号にあずけられ、ついでおなじくドイツ軍艦ライプチッヒ号にあずけられ、\n乗組期間中に任官した。</div>\n<div>戊辰戦争の生き残りだから、多少齢をくっていて、任官は明治十年、すでに二十六歳になっていた。</div>\n<div>山本権兵衛が、ドイツの軍艦ライプチッヒ号に乗りこんで海軍修業をしていたころつまり明治十年ごろのドイツ海軍というのは、\nたいしたものではなかった。</div>\n<div>「船の運用は大したものだったが、戦術とか用兵とかいう方面はひどく遅れていた」</div>\n<div>と、権兵衛はのちに語っている。</div>\n<div>艦内で、戦術講義がある。\nその講義内容は貧弱で、陸軍戦術をまね、それの翻訳調であったり、\n海軍独特の行動を説明するにしても陸軍の例をひいて説明した。\nドイツはあくまでも陸軍国であり、この国が大海軍建設にのりだすのは、明治三十年代になってからである。</div>\n<div>「そいつは、こうじゃありませんか」</div>\n<div>と、権兵衛は質問ずきで、一つ問題をつきつめ、しばしば教官と議論になってしまうことがあったが、\n戦術教官は決して不快がらず、むしろ権兵衛の頭脳を畏敬するところがあった。\n他の士官たちも、権兵衛に一目おいた。\nその理由のひとつは権兵衛は少年兵として戊辰戦争に参加したという、いわば実弾のなかをくぐっただけに、\n戦場の諸問題を実感とともに語ることができる。</div>\n<div>「権兵衛は、勇士である」</div>\n<div>と、ドイツ人たちのたれもがいった。</div>\n<div>【中略】</div>\n<div>その後十年ほどのあいだでの権兵衛の経歴は、他の海軍士官とかわりはない。\n軍艦の分隊長をしたり、副長をつとめたり、輸入軍艦の回航委員をつとめたり、艦長に任じられたりしたが、\nかれの運命と日本海軍の運命がかわるのは、明治二十年、三十六歳で海軍大臣の伝令使（副官）になってからである。\n当時、海軍少佐であった。</div>\n<div>このあたりから、軍政を担当した。\nもっとも担当中も、高雄や高千穂の艦長として海に出たりしていたが、いよいよそういう彼が陸に腰をすえるのは、\n明治二十四年、四十歳、海軍大佐のとき、海軍大臣の「官房主事」というものになってからである。</div>\n<div>通称、</div>\n<div>「海軍主事」</div>\n<div>といわれた。日本海軍の作り直しともいうべき大仕事の辣腕をふるうのは、このときからである。</div>\n<div class=\"txr\"><a href=\"../text/sr3sakan.html\">司馬遼太郎 「坂の上の雲（３）」</a>\n　Ｐ．４６<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%259D%2582%25E3%2581%25AE%25E4%25B8%258A%25E3%2581%25AE%25E9%259B%25B2%25E3%2580%25883%25E3%2580%2589%2520%2520%2520%2520%25E6%2596%2587%25E6%2598%25A5%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -588,7 +541,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

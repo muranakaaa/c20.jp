@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -38,9 +47,9 @@
    "type": "raw",
    "tag": "table",
    "attrs": {
-    "class": "off"
+    "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"06h.html\">一覧　（ハ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
   },
   {
    "type": "raw",
@@ -52,27 +61,11 @@
   },
   {
    "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
    "tag": "table",
    "attrs": {
     "class": "off"
    },
    "html": "<tbody><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr></tbody>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "timeline",
@@ -243,9 +236,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>ＧＳの局長コートニー・ホィットニー代将は、一八九七年にうまれ、はじめ軍籍に入ったが、まもなく退官し、\n一九二七年から四〇年までをマニラで弁護士としてすごした。\nよく切れるので名があり、マニラで活躍中に<a href=\"../p/macart_d.html\">マッカーサー</a>の知遇を得た。\n開戦当時はアメリカに帰っていたが、やがて空軍将校としてふたたび軍隊に入り、一九四三年、\n<a href=\"../p/macart_d.html\">マッカーサー</a>によってオーストラリアによびよせられた。\nフィリピン奪回をめざす<a href=\"../p/macart_d.html\">マッカーサー</a>がまず日本軍へのフィリピン人の抵抗を組織しようとしたとき、\nその指導にあたったのはホィットニーであった。\n日本占領後、彼は<a href=\"../p/macart_d.html\">マッカーサー</a>側近の第一人者となり、「どこで<a href=\"../p/macart_d.html\">マッカーサー</a>が終り、\nどこでホィットニーがはじまるかわからない」ほどの信頼を得ていた。\nあらかじめの打合せなしに<a href=\"../p/macart_d.html\">マッカーサー</a>の室にノックだけで出入できたのは、彼ひとりであった。\nホィットニーは、いわば<a href=\"../p/macart_d.html\">マッカーサー</a>の「国務長官」であった。\n彼は、その配下に<a href=\"../p/roosev_f.html\">故ルーズベルト大統領</a>のニュー・ディール政策に参画したニュー・ディーラーをはじめ、\nＩＰＲ（太平洋問題調査会）系統の左派の日本研究家ビッソンからミネソタ大学のクィグリー教授や\nノースウェスタン大学のコールグローブ教授のような日本研究の政治学者にいたる多数の専門家をかかえこみ、\n日本の民主化政策の中心としてたっていた。</div>\n<div class=\"txr\"><a href=\"../text/ss1sengo.html\">信夫清三郎 「戦後日本政治史Ⅰ」</a>\n　Ｐ．１５４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4326398167%2Fqid%3D1147087145%2Fsr%3D1-1%2Fref%3Dsr_1_8_1\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -253,39 +246,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>ＧＳの局長コートニー・ホィットニー代将は、一八九七年にうまれ、はじめ軍籍に入ったが、まもなく退官し、\n一九二七年から四〇年までをマニラで弁護士としてすごした。\nよく切れるので名があり、マニラで活躍中に<a href=\"../p/macart_d.html\">マッカーサー</a>の知遇を得た。\n開戦当時はアメリカに帰っていたが、やがて空軍将校としてふたたび軍隊に入り、一九四三年、\n<a href=\"../p/macart_d.html\">マッカーサー</a>によってオーストラリアによびよせられた。\nフィリピン奪回をめざす<a href=\"../p/macart_d.html\">マッカーサー</a>がまず日本軍へのフィリピン人の抵抗を組織しようとしたとき、\nその指導にあたったのはホィットニーであった。\n日本占領後、彼は<a href=\"../p/macart_d.html\">マッカーサー</a>側近の第一人者となり、「どこで<a href=\"../p/macart_d.html\">マッカーサー</a>が終り、\nどこでホィットニーがはじまるかわからない」ほどの信頼を得ていた。\nあらかじめの打合せなしに<a href=\"../p/macart_d.html\">マッカーサー</a>の室にノックだけで出入できたのは、彼ひとりであった。\nホィットニーは、いわば<a href=\"../p/macart_d.html\">マッカーサー</a>の「国務長官」であった。\n彼は、その配下に故<a href=\"../p/roosev_f.html\">ルーズベルト大統領</a>のニュー・ディール政策に参画したニュー・ディーラーをはじめ、\nＩＰＲ（太平洋問題調査会）系統の左派の日本研究家ビッソンからミネソタ大学のクィグリー教授や\nノースウェスタン大学のコールグローブ教授のような日本研究の政治学者にいたる多数の専門家をかかえこみ、\n日本の民主化政策の中心としてたっていた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ss1sengo.html\">信夫清三郎 「戦後日本政治史Ⅰ」</a>\n　Ｐ．１５４</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "tx"
-   },
-   "html": "\n<div>一言でいえばホイットニーは<a href=\"../p/macart_d.html\">マッカーサー</a>の「アルター・エゴ」、つまり分身であった。\nホイットニーの<a href=\"../p/macart_d.html\">マッカーサー</a>に対する献身ぶりは完璧であり、それはものの考えから書体までほとんど見分けがつかないほどである。\n<a href=\"../p/macart_d.html\">マッカーサー</a>の名による『山下裁判判決再審理決定書』の原稿は、太い大きな字のペン書きで彼の書体を思わせるが、\nそれが実はホイットニーの書き下したものであることを告げることができる人は、きわめて少い（マッカーサー記念館の司書、\nアレキサンダー大尉はその一人である）。\nまた<a href=\"../p/macart_d.html\">マッカーサー</a>の『回想録』は、ホイットニーの『マッカーサー<span class=\"bar\">―</span>―歴史とのランデブー』からの引きうつし\n（もちろん断りなしの）がやたらに多いが、それは<a href=\"../p/kades_c.html\">ケーディス元民政局次長</a>の言によれば「二人は全く同じような考え方をしていたのだから、\n<a href=\"../p/macart_d.html\">マッカーサー</a>はホイットニーの本を引用したというよりは、自分自身を引用していたのだといっていい」ということなのである。\nもちろんホイットニーは<a href=\"../p/macart_d.html\">マッカーサー</a>にないもの、つまり法律家としての訓練と経験をそなえていたが、\nその素養は<a href=\"../p/macart_d.html\">マッカーサー</a>の考え方を補強しこそすれ、あらためさせることは決してなかったことは確かであろう。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/sr_mac2k.html\">袖井林二郎 「マッカーサーの二千日」</a>\n　Ｐ．１３２</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span>一言でいえばホイットニーは<a href=\"../p/macart_d.html\">マッカーサー</a>の「アルター・エゴ」、つまり分身であった。\nホイットニーの<a href=\"../p/macart_d.html\">マッカーサー</a>に対する献身ぶりは完璧であり、それはものの考えから書体までほとんど見分けがつかないほどである。\n<a href=\"../p/macart_d.html\">マッカーサー</a>の名による『山下裁判判決再審理決定書』の原稿は、太い大きな字のペン書きで彼の書体を思わせるが、\nそれが実はホイットニーの書き下したものであることを告げることができる人は、きわめて少い（マッカーサー記念館の司書、\nアレキサンダー大尉はその一人である）。\nまた<a href=\"../p/macart_d.html\">マッカーサー</a>の『回想録』は、ホイットニーの『マッカーサー<span class=\"bar\">―</span>―歴史とのランデブー』からの引きうつし\n（もちろん断りなしの）がやたらに多いが、それは<a href=\"../p/kades_c.html\">ケーディス元民政局次長</a>の言によれば「二人は全く同じような考え方をしていたのだから、\n<a href=\"../p/macart_d.html\">マッカーサー</a>はホイットニーの本を引用したというよりは、自分自身を引用していたのだといっていい」ということなのである。\nもちろんホイットニーは<a href=\"../p/macart_d.html\">マッカーサー</a>にないもの、つまり法律家としての訓練と経験をそなえていたが、\nその素養は<a href=\"../p/macart_d.html\">マッカーサー</a>の考え方を補強しこそすれ、あらためさせることは決してなかったことは確かであろう。</div>\n<div class=\"txr\"><a href=\"../text/sr_mac2k.html\">袖井林二郎 「マッカーサーの二千日」</a>\n　Ｐ．１３２<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E3%2583%259E%25E3%2583%2583%25E3%2582%25AB%25E3%2583%25BC%25E3%2582%25B5%25E3%2583%25BC%25E3%2581%25AE%25E4%25BA%258C%25E5%258D%2583%25E6%2597%25A5%2520%2520%2520%2520%25E4%25B8%25AD%25E5%2585%25AC%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -293,7 +254,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

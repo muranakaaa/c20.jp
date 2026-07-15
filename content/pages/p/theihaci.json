@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -46,9 +55,9 @@
    "type": "raw",
    "tag": "table",
    "attrs": {
-    "class": "off"
+    "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"04t.html\">一覧　（タ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=books-jp%26keyword=%25E6%259D%25B1%25E9%2583%25B7%2520%25E5%25B9%25B3%25E5%2585%25AB%25E9%2583%258E\" target=\"_blank\">本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
   },
   {
    "type": "raw",
@@ -57,14 +66,6 @@
     "class": "ep1"
    },
    "html": "<span class=\"m_r\">エピソード 1</span><a href=\"../1905/05nihon.html\">日本海海戦</a>のＺ旗が上がったあと、旗艦「三笠」の艦橋にいた東郷は、\n危険だからと参謀たちを司令塔に下がらせた。<a href=\"../p/ktomosab.html\">加藤</a>と<a href=\"../p/asaneyuk.html\">秋山</a>だけが傍らに残った。\n戦いの間じゅう、彼はずっと同じ場所に立ち続けた。至近弾が水柱をつくるたびに、しぶきで艦橋はびしょぬれになる。\n５時間を越える戦闘が終わったとき、「三笠」の艦橋は水びたしで、だが、東郷の二つの足が置かれていたところだけが乾いていたという。\n真偽を確かめるすべはない。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
   },
   {
    "type": "timeline",
@@ -130,14 +131,6 @@
      ]
     }
    ]
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "timeline",
@@ -208,17 +201,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1904/02/08　　<a href=\"../1904/02jorik.html\">\n陸軍先遣隊、仁川上陸</a>"
-      }
-     ]
-    },
-    {
-     "cls": "n",
-     "cells": [
-      {
-       "id": "l",
-       "cls": null,
-       "html": "1904/02/08　　<a href=\"../1904/02jinse.html\">\n仁川沖海戦</a>"
+       "html": "1904/02/08　　<a href=\"../1904/02jorik.html\">\n陸軍先遣隊、仁川上陸開始</a>"
       }
      ]
     },
@@ -229,6 +212,16 @@
        "id": "l",
        "cls": null,
        "html": "1904/02/08　　<a href=\"../1904/02yasyu.html\">\n連合艦隊の駆逐艦隊、旅順口のロシア艦隊を夜襲攻撃</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/09　　<a href=\"../1904/02jinse.html\">\n仁川沖海戦</a>"
       }
      ]
     },
@@ -478,49 +471,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>東郷の履歴は風変りであった。\nかれは薩摩藩士として最初藩の海軍に属し、「春日」乗組の三等士官として戊辰戦争に出征し、阿波沖海戦、宮古湾海戦に参加した。\n宮古湾海戦では旧幕艦「回天」をもって斬りこんできた旧新撰組副長土方歳三らの海上突撃隊とたたかい、\n終始艦尾の機関銃をあやつってこれを撃退した。</div>\n<div>戦後、東京に出て英語をまなんだ。\nかれは海軍をやめて工学関係の技師になりたいというのが志望だったらしい。\nその旨を薩摩の先輩に相談すると、</div>\n<div><span class=\"bar\">―</span>―やはり海軍がよかろう。</div>\n<div>と説得され、やがて英国留学を命ぜられた。\n日本政府としてはこの青年をダートマスの海軍兵学校に留学させるつもりであったが、英国側がことわった。</div>\n<div>そのかわり、テームズ河畔の商船学校に入り、水夫待遇で商船教育をうけた。\nこの学校は優秀な卒業生数人にかぎって海軍士官になれる道がひらかれており、多少の海軍教育もしていたから、\nまったく無縁の学校でもなかった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/sr1sakan.html\">司馬遼太郎 「坂の上の雲（１）」</a>\n　Ｐ．２１８</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span>東郷の履歴は風変りであった。\nかれは薩摩藩士として最初藩の海軍に属し、「春日」乗組の三等士官として戊辰戦争に出征し、阿波沖海戦、宮古湾海戦に参加した。\n宮古湾海戦では旧幕艦「回天」をもって斬りこんできた旧新撰組副長土方歳三らの海上突撃隊とたたかい、\n終始艦尾の機関銃をあやつってこれを撃退した。</div>\n<div>戦後、東京に出て英語をまなんだ。\nかれは海軍をやめて工学関係の技師になりたいというのが志望だったらしい。\nその旨を薩摩の先輩に相談すると、</div>\n<div><span class=\"bar\">―</span>―やはり海軍がよかろう。</div>\n<div>と説得され、やがて英国留学を命ぜられた。\n日本政府としてはこの青年をダートマスの海軍兵学校に留学させるつもりであったが、英国側がことわった。</div>\n<div>そのかわり、テームズ河畔の商船学校に入り、水夫待遇で商船教育をうけた。\nこの学校は優秀な卒業生数人にかぎって海軍士官になれる道がひらかれており、多少の海軍教育もしていたから、\nまったく無縁の学校でもなかった。</div>\n<div class=\"txr\"><a href=\"../text/sr1sakan.html\">司馬遼太郎 「坂の上の雲（１）」</a>\n　Ｐ．２１８<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%259D%2582%25E3%2581%25AE%25E4%25B8%258A%25E3%2581%25AE%25E9%259B%25B2%25E3%2580%25881%25E3%2580%2589%2520%2520%2520%2520%25E6%2596%2587%25E6%2598%25A5%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -528,7 +481,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

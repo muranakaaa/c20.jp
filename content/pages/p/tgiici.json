@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -46,9 +55,9 @@
    "type": "raw",
    "tag": "table",
    "attrs": {
-    "class": "off"
+    "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"04t.html\">一覧　（タ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E7%2594%25B0%25E4%25B8%25AD%2520%25E7%25BE%25A9%25E4%25B8%2580\" target=\"_blank\">本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></td><td class=\"lt\"><a href=\"../them/j_gov04.html#s3\">【テーマ・内閣成立史】</a></td></tr></tbody>"
   },
   {
    "type": "raw",
@@ -57,14 +66,6 @@
     "class": "ep1"
    },
    "html": "<span class=\"m_r\">エピソード 1</span>\n<a href=\"../1923/09sinsa.html\">関東大震災</a>の年、<a href=\"../1923/12toran.html\">虎の門で摂政宮暗殺を謀り</a>、\n結果的に<a href=\"../1923/yamm2_9.html\">山本内閣②を一撃で倒した</a>テロリスト難波大助が社会主義に傾倒するきっかけをつくったのがなんと田中義一。\n田中が陸相時代、故郷山口に錦を飾るとき、その沿道には小中学生が整列させられた。\n当時中学五年生の難波はこれに憤慨し、社会主義に傾き、ついには皇太子襲撃にまで及んだという。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
   },
   {
    "type": "timeline",
@@ -160,14 +161,6 @@
      ]
     }
    ]
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "timeline",
@@ -378,7 +371,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1926/03/04　　<a href=\"../1926/03kimit.html\">\n中野正剛、陸軍機密費横領問題で田中総裁（政友会）を追及</a>"
+       "html": "1926/03/04　　<a href=\"../1926/03kimit.html\">\n中野正剛、陸軍機密費問題で田中総裁（政友会）を追及</a>"
       }
      ]
     },
@@ -388,7 +381,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1926/03/05　　<a href\"..=\"\" 19.html\"=\"\">\n三瓶俊治（元陸相官房付二等主計）、田中義一を機密費横領で告発</a>"
+       "html": "1926/03/05　　<a href=\"../1926/03kokuh.html\">\n元二等主計、田中総裁（政友会）を機密費横領で告発</a>"
       }
      ]
     },
@@ -428,7 +421,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1928/03/15　　<a href\"..=\"\" 19.html\"=\"\">\n三・一五事件　（共産党関係者一斉検挙）</a>"
+       "html": "1928/03/15　　<a href=\"../1928/03315ji.html\">\n三・一五事件</a>　（共産党関係者一斉検挙）"
       }
      ]
     },
@@ -548,14 +541,6 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "ep"
    },
    "html": "<span class=\"m_b\">エピソード</span>\nおちゃめな「おらが大将」も、末路は長州閥だった。 \n<a href=\"../p/stenno.html\">天皇</a>に、ああもはっきり辞表を出せと言われたのは、後にも先にも彼一人。\n３か月後に亡くなったときには、自殺では？　と邪推されたということだ。"
@@ -564,33 +549,17 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "cm"
    },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
+   "html": "<span class=\"m_o\">評</span>\nあれはいつも児玉（源太郎）の下で働いていた者で、一度もおれの下に使ったことはないが、\nたしかに才も有るし、可愛い奴だ。だが、奴は一度も鉄砲玉の中を潜ったことがないから肝が小さい。\n<div class=\"r\"><a href=\"../p/tmasatak.html\">寺内正毅</a>　（首相）</div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span>田中義一は文久三年（一八六三）に長州萩に生れた。\n萩といえば、明治維新元勲のメッカだ。\n<a href=\"../p/ihirobum.html\">伊藤博文</a>も、<a href=\"../p/yaritomo.html\">山県有朋</a>も、<a href=\"../p/ikaoru.html\">井上馨</a>も、その少年時代をこの町で送っている。</div>\n<div>田中は明治十六年に陸軍士官学校に入学して以来、陸軍の出世街道を驀進し、\n日露戦争には満州軍参謀として中佐で従軍、同じ長州出身の<a href=\"../p/kgentaro.html\">児玉源太郎総参謀長</a>の許に仕えた。\n爾来、陸軍省軍事課長、同軍務局長、参謀次長となって、原内閣のときには陸軍大臣となり、\nシベリア出兵を敢行し、大正十年に陸軍大将になっている。\nその後も山本権兵衛内閣で二度目の陸軍大臣をつとめた。</div>\n<div>【中略】</div>\n<div>田中は生来が単純な男で、しかも、あけすけな性格だった。\nこの点、<a href=\"../p/yaritomo.html\">山県</a>とは対照的である。\n<a href=\"../p/yaritomo.html\">山県</a>は深沈重厚の策謀家だが、その性格の相違がかえって田中を愛する理由だったかもしれない。</div>\n<div class=\"txr\"><a href=\"../text/ms1syowa.html\">松本清張 「昭和史発掘（１）」</a>\n　Ｐ．７<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F416710699X%2Fqid%3D1147086156%2Fsr%3D1-2%2Fref%3Dsr_1_2_2\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -598,7 +567,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -48,23 +57,15 @@
    "attrs": {
     "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href=\"01a.html\">一覧　（ア）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"01a.html\">一覧　（ア）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E7%259F%25B3%25E5%258E%259F%2520%25E8%258E%259E%25E7%2588%25BE\" target=\"_blank\">本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "ep1"
    },
-   "html": "<span class=\"m_r\">エピソード 1</span>調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+   "html": "<span class=\"m_r\">エピソード 1</span>\n便所ニ於イテ我ガ宝ヲ写ス、十月一日<br>\n仙台陸軍地方幼年学校３年のときというから、今でいう中３のときの石原のクラスの図画の教官というのが、写生に力を入れる人で、\n毎週２枚という課題を生徒たちの課した。題材は自由。で、石原少年が「十月一日」に描いた作品の傍らのコメントがこれ。\n用紙いっぱいに描かれた石原の「我ガ宝」を見て教官は怒った。この「問題」を職員会議にかけて処分を要求した。\nこのとき、厳しい処分が行われていたら、その後の日本の歴史はよほど違ったものになっていたはずだが、\n「大胆でよろしい」が職員会議の出した結論だった。図画の教官はこれを不服として辞職したという。\n石原莞爾自筆のおちんちんにはオークションがきっと高値を付けるはずだが、戦争で焼けちゃったんだろうか。\n消息を知りたい。"
   },
   {
    "type": "timeline",
@@ -150,14 +151,6 @@
      ]
     }
    ]
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "timeline",
@@ -368,49 +361,33 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "cm"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "<span class=\"m_o\">評</span>\n彼は真面目で行儀のいい生徒ではなく、いたずら屋で皮肉屋で、無頓着で不精者、口が悪くて茶目的行為が多かったから、\nいろいろな話題を残している。\n<div class=\"r\">横山臣平　（仙台陸軍地方幼年学校同期）</div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "<span class=\"m_b\">エピソード</span>\n調査中。"
+   "html": "<span class=\"m_o\">評</span>\n石原大佐も単なる幕僚ではなかった。\nいや典型的な立派な幕僚でしたが、彼は戦勝のための作戦行動には、まず幕僚の心を掴むことが先決であることを意識しなかった。\nこの点<a href=\"../p/ntetuzan.html\">永田</a>が新軍閥を作った才智には及ばなかった。\n一人よがりの英雄気取りではだめです。\n<div class=\"r\"><a href=\"../p/asaburo.html\">相沢三郎</a>　（陸軍中佐）</div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "cm"
    },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
+   "html": "<span class=\"m_o\">評</span>\n石原君は、一言にしていえば天才肌の男である。そして純である。\n天才が働き、したがって転換が早い。自分は石原君を評して稲妻のようだという。\n今右かと思うと、一たんこうと考えればたちまち左に閃く。\n天才の然らしむるところである。それに物の表現の仕方が普通ではない。\n特殊の表現を用いる。裏をいうんだ。それを断定的に鋭くいうから、きくものは面食らう。\n怒っているようで怒らず、からかうかと思うと、からかってない。\n実に端倪すべからざるものがある。石原君のことを書いた本があるが、あれは却って石原君を傷つけている。\n石原君はもっと大きい。彼にはけちな考えはない。\n<div class=\"r\"><a href=\"../p/asadao.html\">荒木貞夫</a>　（元陸相）</div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../1932/05515ji.html\">祖父犬養木堂暗殺</a>の重要要素をなした満洲問題は、\nその発生から<a href=\"../1932/03mansy.html\">満州国建立</a>までの筋書一切を、極端に単純化して言うなら、たったひとりの、\n右翼的神がかりの天才とも称すべき人間に負うていた。\n「満洲問題解決のために<a href=\"../p/ituyosi.html\">犬養</a>のよこす使者はぶッた斬ってやる！」と叫んだ（『花々と星々と』晴れた暗い日の章）あの、\n石原莞爾（昭和十三年当時少将、北満作戦部長）その人である。\n読者の忍耐をもうしばらく乞うことにして、太平洋戦争への確実な第一歩であったあの石原構想\nつまり満洲大問題について触れてみよう。\n忘れてはならないのは、石原莞爾が国学者の家に生まれ、東北出身者であったと言うことである。\n「神ながらの道」「すめらみことによる四海平和と五族同等」の「王道」を謳う国学に幼くして胸おどらせ、\n長じては草の根すら食用にするほどに荒れはてて貧しい日本の農村の悲惨に胸ふるわせた。\n財閥は肥え政治家は資本家と結託する・・・・・・「すめらみことの王道を実現し、\n広き天地に農民を救い」・・・・・・と石原青年は大夢をえがいた。\nその大夢の地を彼は、日露戦争の結果ロシアから鉄道と炭鉱の権益をもらいうけ従業の日本人も守護の兵をも\n多く送りこむことになった、あの満洲に見出したのである。\n単純極まりなく、彼は「そこに王道政治をつくれば」満洲地元の民、つまり満人も支那人も「共によろこぶ」と考えた。\n迷惑なのはそう勝手に信じこまれ見込まれた地元側であった。\n大夢を抱く神がかり的青年は、身を軍籍に置くや、夢抱く人にしてはめずらしい、\n理論的な明晰な軍法家であることを示し出した。\n彼の兵の用い方や作戦法はそれこそ天才的だった。日本の不幸はそこに始まったと言ってもよい。</div>\n<div>彼が在満日本軍つまり音に聞こえたあの関東軍の中心人物となったころ、\n支那の方では、満洲鉄道や炭鉱やその他、条約に明記される権限以上に<span class=\"bar\">―</span>―はるか以上に\n<span class=\"bar\">―</span>―投資はするわ人間は送りこむわの日本に、\nようやく強い反撥を示し出していた。\n「なんてったってお客じゃないか、土地はこっちのもので、土地までやった覚えはない」と言う気持である、\n「図々しいじゃないか」</div>\n<div>しかし、石原の頭の中には、貧苦にあえぐ東北農村を救い、「立ちおくれた支那民衆」にも「光明を与える」\n理想国家の青写真がもう出来上っていた。\nその青写真が現実のものとなる上に邪魔するヤツは、日本の総理<a href=\"../p/ituyosi.html\">犬養</a>であろうと、支那の総統<a href=\"../p/syokaise.html\">蒋介石</a>であろうと、\n満洲の王者のごとくふるまう小僧らしい若僧<a href=\"../p/cyogakur.html\">張学良</a>であろうと、容赦はしない。\n天才的軍略家の彼は綿密に計画をたてた。昭和六年秋九月のことである。\n彼の計画と手際がどれほどみごとであったかは、のちに国際連盟から調査を依頼されて満洲事変をしらべに行った\n英国の<a href=\"../p/lytton_v.html\">リットン卿</a>の次の言葉によって証される\n・・・・・・「九月十九日の朝、奉天市民がいつものように平穏に起き出てみたら」\n「支配者がなんと、一夜で変っていた」！</div>\n<div class=\"txr\"><a href=\"../text/im_musum.html\">犬養道子 「ある歴史の娘」</a>\n　Ｐ．２７７<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E3%2581%2582%25E3%2582%258B%25E6%25AD%25B4%25E5%258F%25B2%25E3%2581%25AE%25E5%25A8%2598\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -418,7 +395,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

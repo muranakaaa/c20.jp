@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1937.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1937.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -173,25 +182,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "pt"
    },
    "html": "\n<div class=\"pt_h\">～　名目は邦人保護、ホンネは　～</div>\n<div class=\"c\">限定戦争で一撃を加え、一方で裏面工作を行い、中国側に頭を下げさせよう</div>\n<div class=\"c\">⇒中国側の態度硬化 ⇒ 全面戦争（～1945/08/15） </div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -205,17 +198,17 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "<span class=\"m_y\">語録</span>\n日本はなぜ満州だけで満足しなかったのか、満州をかためておけば十分やっていけたはずなのに、\n支那に手を出したのがまずかった。君はそう思わないか。\n<div class=\"r\">ジョセフ・キーナン　（東京裁判主席検事、アメリカ）</div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>七月十日、中国中央軍が北上を開始したという南京方面からの未確認情報が入った。</div>\n<div><a href=\"../p/ikanji.html\">石原</a>は主張を一転させた。</div>\n<div>五師団の派兵を決断した。\n兵力約五千の支那駐屯軍（天津軍）だけでは、在留邦人の安全を守り切れないというのが、\n彼の大義名分であったが、さすがの<a href=\"../p/ikanji.html\">石原</a>も混乱して弱気にもなっていたのだ。</div>\n<div>未確認情報であり、<a href=\"../p/ikanji.html\">石原</a>の幻影に過ぎないという河邊大佐の反対を押し切って、\n<a href=\"../p/makira.html\">武藤</a>の差し出す作戦課の派兵案に署名した。</div>\n<div><a href=\"../p/ikanji.html\">石原</a>の主張変更は得意とするところだが、相手に屈服して変更したのは初めてである。\n最大の屈辱であった。\n同時に、彼が心血を注ぎ続けて来た中国構想も満州に描いた夢も音を立てて崩れる瞬間でもあった。</div>\n<div>翌十一日、閣議はその陸軍派兵案を決定し、政府声明として発表した。</div>\n<div>ところが、それがまだ現地に伝達されない数時間後、何と現地の停戦協定が成立したのである。\n河邊が言った通り、中国軍北上は幻影だったとしか言いようがない。</div>\n<div>すぐに内地師団の動員中止の手続きをとったが、いったん政府の公式声明があったとなると、\n矢は放たれてしまったも同然である。\n中国側には日本の陰謀としか写らない。\n日中両軍の衝突は激しさを増すばかりであった。</div>\n<div>わずか数時間の差が、<a href=\"../p/ikanji.html\">石原</a>には耐えがたい悔恨となった。\n天才的戦略家の面目は、一瞬にして地に落ちた。</div>\n<div class=\"txr\"><a href=\"../text/mk_gunji.html\">升本喜年 「軍人の最期」</a>\n　Ｐ．３１５<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25BB%258D%25E4%25BA%25BA%25E3%2581%25AE%25E6%259C%2580%25E6%259C%259F%25E2%2580%2595%25E6%2594%25BF%25E6%25B2%25BB%25E7%259A%2584%25E5%25B0%2586%25E8%25BB%258D%25E3%2581%25AE%25E7%2594%259F%25E3%2581%258D%25E3%2581%2596%25E3%2581%25BE%25E3%2581%25A8%25E3%2581%259D%25E3%2581%25AE%25E6%25AD%25BB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -223,7 +216,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

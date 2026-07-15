@@ -2,21 +2,30 @@
  "path": "20c/1913.html",
  "type": "year",
  "title": "１９１３年　／ クリック ２０世紀",
- "description": null,
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../a.css"
+  "../a.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a href=\"#f\">▽▽▽</a><a name=\"h\"></a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -33,14 +42,13 @@
   {
    "type": "headline",
    "cells": [
-    "ニコポン　　新しい女　　若い燕",
+    "<a href=\"#s4\">ニコポン　　新しい女　　若い燕</a>",
     "<a href=\"../1912/katu3_1.html\">桂③</a> → <a href=\"../1913/yamm1_1.html\">山本内閣①</a>"
    ]
   },
   {
-   "type": "edit_bar",
-   "kind": "e_data",
-   "html": "リンク情報（2003/00/00）＝削除：０件（.html）"
+   "type": "base_break",
+   "cls": "base"
   },
   {
    "type": "raw",
@@ -176,6 +184,10 @@
    ]
   },
   {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
    "type": "raw",
    "tag": "div",
    "attrs": {
@@ -232,11 +244,15 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1913/06/29　　<a href\"..=\"\" 19.html\"=\"\">\nバルカン戦争②勃発　（～13/07/30）</a>"
+       "html": "1913/06/29　　<a href=\"../1913/06balk2.html\">\nバルカン戦争②勃発</a>　（～13/07/30）"
       }
      ]
     }
    ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
   },
   {
    "type": "raw",
@@ -332,6 +348,10 @@
    ]
   },
   {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
    "type": "raw",
    "tag": "div",
    "attrs": {
@@ -423,8 +443,22 @@
    "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1912/katu3_1.html\">桂③</a> → <a href=\"../1913/yamm1_1.html\">山本内閣①</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">ニコポン　　新しい女　　若い燕</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「阿部一族」　「赤光」　「みみずのたはごと」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">「里見八犬伝」</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">―</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">奈良丸くずし</td></tr>\n</tbody>"
   },
   {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
    "type": "fnavi",
-   "html": "<a name=\"f\"></a>\n<a href=\"../index.html\">目次</a>\n ＞ <a href=\"#h\">１９１３年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"#h\">１９１３年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
   }
  ]
 }

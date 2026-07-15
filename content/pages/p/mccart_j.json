@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -38,9 +47,9 @@
    "type": "raw",
    "tag": "table",
    "attrs": {
-    "class": "off"
+    "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"07m.html\">一覧　（マ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E3%2582%25B8%25E3%2583%25A7%25E3%2582%25BC%25E3%2583%2595%25E3%2580%2580%25E3%2583%259E%25E3%2583%2583%25E3%2582%25AB%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25BC\" target=\"_blank\">本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
   },
   {
    "type": "raw",
@@ -52,27 +61,11 @@
   },
   {
    "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
    "tag": "table",
    "attrs": {
     "class": "off"
    },
    "html": "<tbody><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr></tbody>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "timeline",
@@ -173,49 +166,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>一九三六年、地方検事選挙で民主党候補として出馬したが落選。\n一九三九年、巡回裁判所判事の選挙に出馬、支持を求めて地域を精力的に回ったが、\n対立候補の年齢や資産を実際よりも多く歪曲して攻撃するなどして当選を果たした。\n野心的、活動的で人心をつかむ才に長けていながら、誠実さには欠如しているマッカーシーの姿がすでにあった。</div>\n<div>第二次世界大戦が始まると、マッカーシーは海兵隊に入隊、一九四四年、海兵隊在籍のまま、\n共和党から上院議員に立候補したが落選。\n一九四六年、再び上院に立候補し、自らの「戦功」を強調するなど激しい選挙戦の末に当選した。\n上院議員としてのマッカーシーは凡庸で、一九五〇年に至るまで、二年後の再選につながる程の業績はなかった。</div>\n<div>一九五〇年二月九日ウェストヴァジニア州ホイーリングにおいて、マッカーシーは、国務省で働いている共産党員二〇五名の名簿を入手したと発言し、\n一躍世間の注目を浴びることになった。\n二月二十日、マッカーシーは、上院においても、この発言を繰り返した。</div>\n<div>彼の挙げた証拠は不確かで人数も曖昧であり、国務省内の共産党員の存在を証明するに足るものではなかった。\nしかし、アルジャー・ヒスのスパイ容疑、中国の共産主義化、ソ連の原爆保有、さらには、<a href=\"../1950/06cyose.html\">朝鮮戦争の勃発</a>へと続いていく内外の一連の出来事で、\n人々はアメリカの未来についての不安や疑念をかきたてられていた時であった。</div>\n<div>これ以降、マッカーシーは、無任所大使フィリップ・Ｃ・ジェサップ、中国研究家でジョンズ・ホプキンズ大学教授オーウェン・ラティモアなどを、\n共産主義者、ソ連側スパイとして次々に名指ししてセンセーションを巻き起こした。\n一九五一年にはマッカーシーの批判の鉾先は<a href=\"../p/marsha_g.html\">ジョージ・Ｃ・マーシャル前国務長官</a>にまで及んだ。</div>\n<div>一九五二年の共和党全国大会や<a href=\"../p/eizenh_d.html\">アイゼンハワー</a>の大統領戦でも、マッカーシーは、共産主義に対して弱腰であると民主党批判を展開した。\n自分の再選後も、政府機能審査小委員会の議長として、国務省の海外情報活動などを調査するなど、\n共産主義者による非米活動の摘発、批判を続けた。\n<a href=\"../p/eizenh_d.html\">アイゼンハワー大統領</a>によるチャールズ・ボーレンソ連大使任命にも異議を唱えた。</div>\n<div>ついにマッカーシーの批判が、軍隊内に向けられるに及んで、\n一九五四年、マッカーシーと陸軍との間で三十六日にわたって公聴会が行なわれることになった。\nこの模様はテレビで放映され、数百万の人たちが見守った。\nマッカーシーと弁護士ロイ・コーンの虚偽と中傷に基づく軍隊批判は人々の反感を招き、マッカーシーの影響力は失われた。\n十二月、上院議会はマッカーシーに対し譴責決議を下した。\n三年後、一九五七年五月二日、失意のうちに世を去った。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/sk_am101.html\">猿谷要 「アメリカ史重要人物１０１」</a>\n　Ｐ．１７４</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span>一九三六年、地方検事選挙で民主党候補として出馬したが落選。\n一九三九年、巡回裁判所判事の選挙に出馬、支持を求めて地域を精力的に回ったが、\n対立候補の年齢や資産を実際よりも多く歪曲して攻撃するなどして当選を果たした。\n野心的、活動的で人心をつかむ才に長けていながら、誠実さには欠如しているマッカーシーの姿がすでにあった。</div>\n<div>第二次世界大戦が始まると、マッカーシーは海兵隊に入隊、一九四四年、海兵隊在籍のまま、\n共和党から上院議員に立候補したが落選。\n一九四六年、再び上院に立候補し、自らの「戦功」を強調するなど激しい選挙戦の末に当選した。\n上院議員としてのマッカーシーは凡庸で、一九五〇年に至るまで、二年後の再選につながる程の業績はなかった。</div>\n<div>一九五〇年二月九日ウェストヴァジニア州ホイーリングにおいて、マッカーシーは、国務省で働いている共産党員二〇五名の名簿を入手したと発言し、\n一躍世間の注目を浴びることになった。\n二月二十日、マッカーシーは、上院においても、この発言を繰り返した。</div>\n<div>彼の挙げた証拠は不確かで人数も曖昧であり、国務省内の共産党員の存在を証明するに足るものではなかった。\nしかし、アルジャー・ヒスのスパイ容疑、中国の共産主義化、ソ連の原爆保有、さらには、<a href=\"../1950/06cyose.html\">朝鮮戦争の勃発</a>へと続いていく内外の一連の出来事で、\n人々はアメリカの未来についての不安や疑念をかきたてられていた時であった。</div>\n<div>これ以降、マッカーシーは、無任所大使フィリップ・Ｃ・ジェサップ、中国研究家でジョンズ・ホプキンズ大学教授オーウェン・ラティモアなどを、\n共産主義者、ソ連側スパイとして次々に名指ししてセンセーションを巻き起こした。\n一九五一年にはマッカーシーの批判の鉾先は<a href=\"../p/marsha_g.html\">ジョージ・Ｃ・マーシャル前国務長官</a>にまで及んだ。</div>\n<div>一九五二年の共和党全国大会や<a href=\"../p/eizenh_d.html\">アイゼンハワー</a>の大統領戦でも、マッカーシーは、共産主義に対して弱腰であると民主党批判を展開した。\n自分の再選後も、政府機能審査小委員会の議長として、国務省の海外情報活動などを調査するなど、\n共産主義者による非米活動の摘発、批判を続けた。\n<a href=\"../p/eizenh_d.html\">アイゼンハワー大統領</a>によるチャールズ・ボーレンソ連大使任命にも異議を唱えた。</div>\n<div>ついにマッカーシーの批判が、軍隊内に向けられるに及んで、\n一九五四年、マッカーシーと陸軍との間で三十六日にわたって公聴会が行なわれることになった。\nこの模様はテレビで放映され、数百万の人たちが見守った。\nマッカーシーと弁護士ロイ・コーンの虚偽と中傷に基づく軍隊批判は人々の反感を招き、マッカーシーの影響力は失われた。\n十二月、上院議会はマッカーシーに対し譴責決議を下した。\n三年後、一九五七年五月二日、失意のうちに世を去った。</div>\n<div class=\"txr\"><a href=\"../text/sk_am101.html\">猿谷要 「アメリカ史重要人物１０１」</a>\n　Ｐ．１７４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E3%2582%25A2%25E3%2583%25A1%25E3%2583%25AA%25E3%2582%25AB%25E5%258F%25B2%25E9%2587%258D%25E8%25A6%2581%25E4%25BA%25BA%25E7%2589%25A9101%2520%2520%2520%2520History%2520handbook\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -223,7 +176,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

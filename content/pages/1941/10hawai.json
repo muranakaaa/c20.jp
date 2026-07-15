@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1941.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1941.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -193,14 +202,6 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
@@ -209,33 +210,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<span class=\"m_v\">taro's トーク</span>\n戦争のいちばん最初に、奇襲でハワイを攻撃するってのは、いきなり目をつりあげてガンガンガンとおっぱじめることで、\nそれをしないで、兵力をまず東南アジアだけに展開するってことなら、ゆっくりじわじわっと戦争をはじめるってことで、\nだから、ハワイを攻撃するかしないかで、戦争のしかたがぜんぜんちがってくるとtaroは思うんだよね。\nで、もともと軍令部はじわじわっ、の方で考えてて、だからハワイ攻撃には大反対で。\nところが、ギリギリにきて<a href=\"../p/nosami.html\">永野軍令部総長</a>が、<a href=\"../p/yisoroku.html\">山本長官</a>の顔を立てようなんて言い出しちゃって。\n困るよな、こういうの。\nしかも、後のフォローがなかったから、のちにこの戦略上の矛盾が露呈することになる、それがミッドウェー海戦だ、\nというのがtaro史観。\n<a href=\"../p/yisoroku.html\">山本長官</a>ひとりがガンガンガンで考えてて、実際に戦う人たちは、ガンガンガンでやらなきゃいけない作戦をじわじわっとやってしまって、\nそれでまさかの大敗北。\n<a href=\"../p/ncyuici.html\">南雲忠一</a>ひとりを責めるわけにはいかんと思うんだがどう？\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\n戦争のいちばん最初に、奇襲でハワイを攻撃するってのは、いきなり目をつりあげてガンガンガンとおっぱじめることで、\nそれをしないで、兵力をまず東南アジアだけに展開するってことなら、ゆっくりじわじわっと戦争をはじめるってことで、\nだから、ハワイを攻撃するかしないかで、戦争のしかたがぜんぜんちがってくるとtaroは思うんだよね。\nで、もともと軍令部はじわじわっ、の方で考えてて、だからハワイ攻撃には大反対で。\nところが、ギリギリにきて<a href=\"../p/nosami.html\">永野軍令部総長</a>が、<a href=\"../p/yisoroku.html\">山本長官</a>の顔を立てようなんて言い出しちゃって。\n困るよな、こういうの。\nしかも、後のフォローがなかったから、のちにこの戦略上の矛盾が露呈することになる、それが<a href=\"../1942/06midwa.html\">ミッドウェー海戦</a>だ、\nというのがtaro史観。\n<a href=\"../p/yisoroku.html\">山本長官</a>ひとりがガンガンガンで考えてて、実際に戦う人たちは、ガンガンガンでやらなきゃいけない作戦をじわじわっとやってしまって、\nそれでまさかの大敗北。\n<a href=\"../p/ncyuici.html\">南雲忠一</a>ひとりを責めるわけにはいかんと思うんだがどう？\n"
   },
   {
    "type": "cyu",
@@ -243,7 +220,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

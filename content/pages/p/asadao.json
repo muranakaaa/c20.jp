@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -46,9 +55,9 @@
    "type": "raw",
    "tag": "table",
    "attrs": {
-    "class": "off"
+    "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"01a.html\">一覧　（ア）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
   },
   {
    "type": "raw",
@@ -57,14 +66,6 @@
     "class": "off"
    },
    "html": "<span class=\"m_r\">エピソード 1</span>調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
   },
   {
    "type": "timeline",
@@ -110,14 +111,6 @@
      ]
     }
    ]
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "timeline",
@@ -243,22 +236,12 @@
      ]
     },
     {
-     "cls": "b",
-     "cells": [
-      {
-       "id": "l",
-       "cls": null,
-       "html": "1934/03/01　　<a href=\"../1934/03teise.html\">\n満州国帝政実施</a>　（皇帝：<a href=\"../p/fugi.html\">溥儀</a>）"
-      }
-     ]
-    },
-    {
      "cls": "n",
      "cells": [
       {
        "id": "l",
        "cls": null,
-       "html": "1934/07/03　　<a href=\"../1934/saito_9.html\">\n斉藤内閣総辞職</a>"
+       "html": "1934/01/23　　<a href=\"../1934/01araki.html\">\n荒木陸相辞任</a>　（後任：<a href=\"../p/hsenjuro.html\">林銑十郎</a>）"
       }
      ]
     },
@@ -278,7 +261,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1935/07/16　　<a href=\"../1935/07masak.html\">\n真崎教育総監罷免</a>　（後任：「統制派」<a href=\"../p/wjotaro.html\">渡辺錠太郎</a>）"
+       "html": "1935/07/15　　<a href=\"../1935/07masak.html\">\n真崎教育総監更迭</a>　（後任：「統制派」<a href=\"../p/wjotaro.html\">渡辺錠太郎</a>）"
       }
      ]
     },
@@ -288,7 +271,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1935/08/12　　<a href=\"../1935/08aizaw.html\">\n相沢事件　（永田軍務局長斬殺）</a>"
+       "html": "1935/08/12　　<a href=\"../1935/08aizaw.html\">\n相沢事件</a>　（<a href=\"../p/ntetuzan.html\">永田軍務局長</a>斬殺）"
       }
      ]
     },
@@ -468,49 +451,49 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "cm"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "<span class=\"m_y\">語録</span>\nばかを言え！　一升や二升のはした酒で酔っぱらう荒木貞夫だと思うか。\n今日は貴様とのみくらべだ。\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "<span class=\"m_b\">エピソード</span>\n調査中。"
+   "html": "<span class=\"m_y\">語録</span>\nシベリア事変のだらしなさに憤慨した私は、意見を具申したことが原因で、現地からよびもどされた。\nそして熊本の連隊長として転任した。\n三年間欧州の戦場でむこうの兵隊ばかりを見てきた私の眼には「これが祖国の兵隊か」とおもうと、泣きたいくらい。\n新兵器らしいものはなにもない。\n板を叩いて機関銃攻撃に模し、竹トンボをとばして飛行機が飛んできたと、その竹トンボ目標に小銃の射撃をやっている。\n戦車となると大きな竹籠のようなものに新聞紙を貼り、これに迷彩を施して、\n二本の竹捧で兵隊が二人でかついで来て「戦車来襲」と叫ぶ。\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "cm"
    },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
+   "html": "<span class=\"m_o\">評</span>\n荒木貞夫という将軍は、明治以来の軍人のなかで全く異色の人であった。\n頭脳明晰、博識多才、能弁で説得力があったから人を惹きつけた。\nしかも誰にでも胸襟を開いて赤心を吐露したから、その門を訪れる人が多かった。\n昭和六年の内外多事の秋、この人をこそと青年将校たちに崇拝され、期待されたのである。\n<div class=\"r\">菅波三郎　（元陸軍大尉）</div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span>荒木は皇道派の先頭に立っている人物であり、\n生来の陽気な性格から国粋主義を吹聴していたので、青年将校たちの人気を集めるようになった。</div>\n<div>荒木が陸相になったとき、青年将校たちの期待は非常なもので、すぐにも荒木が劃期的な革新を断行すると思っていた。\nまた、一方、政党や財界は、荒木なら部内の急進分子を抑えることができると期待した。\nここに荒木の人気の矛盾があった。\n荒木の没落は、こうした矛盾のためである。\n結局、彼は両方とも満足させることができなかったのである。</div>\n<div class=\"txr\"><a href=\"../text/ms6syowa.html\">松本清張 「昭和史発掘（６）」</a>\n　Ｐ．２３５<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167106361%2Fqid%3D1147086434%2Fsr%3D1-12%2Fref%3Dsr_1_0_12\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>荒木はただの士族ではない。\n御三卿の一つである一橋家の士族である。\n超然として武士道精神を貫く文武両道の環境に育っている。自ら備わる気品もある。\n頭もいい。剣道の達人でもある。</div>\n<div>【中略】　こちこちの軍人精神の塊で、一直線の荒木という男は、単純であり子供っぽい。\n愚直の若殿といった感じである。\n今日の言葉でいえば、少々アナクロで漫画チックである。\n真っ正直の世間知らずでもある。\n一歩引いて見つめれば、優越感と親近感をくすぐることにもなる。</div>\n<div class=\"txr\"><a href=\"../text/mk_gunji.html\">升本喜年 「軍人の最期」</a>\n　Ｐ．１５４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25BB%258D%25E4%25BA%25BA%25E3%2581%25AE%25E6%259C%2580%25E6%259C%259F%25E2%2580%2595%25E6%2594%25BF%25E6%25B2%25BB%25E7%259A%2584%25E5%25B0%2586%25E8%25BB%258D%25E3%2581%25AE%25E7%2594%259F%25E3%2581%258D%25E3%2581%2596%25E3%2581%25BE%25E3%2581%25A8%25E3%2581%259D%25E3%2581%25AE%25E6%25AD%25BB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span>荒木は演説が得意で、国体精神の昂揚を説き、満州事変の意義を強調し、\n国政の改革を論ずる。\n盛んに新聞、雑誌にも取り上げられ、荒木の古武士的日本主義の雰囲気と演説は、満州事変後のこの時期、\n軍国的気分と軍国主義昂揚の波に乗って、爆発的喝采を浴びた。</div>\n<div>荒木の外人記者相手の「日本は竹槍千万本あれば、列強恐れるに足らず」という「竹槍論」や\n雑誌社（改造社）の招聘で来日したイギリスの文豪バーナード・ショーとの対談で度胆を抜いたと伝えられる\n「古来、日本人は地震によって、強靭な国民性を養われて来た」という「地震論」などの派手な国防論は、\n尾鰭をつけて広がり伝説とさえなった。</div>\n<div>荒木の精神主義強調と野党的言動、それに上下の枠を越えた青年将校らとの接し方は、\n彼らに抜群の人気があった。</div>\n<div class=\"txr\"><a href=\"../text/mk_gunji.html\">升本喜年 「軍人の最期」</a>\n　Ｐ．１６１<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25BB%258D%25E4%25BA%25BA%25E3%2581%25AE%25E6%259C%2580%25E6%259C%259F%25E2%2580%2595%25E6%2594%25BF%25E6%25B2%25BB%25E7%259A%2584%25E5%25B0%2586%25E8%25BB%258D%25E3%2581%25AE%25E7%2594%259F%25E3%2581%258D%25E3%2581%2596%25E3%2581%25BE%25E3%2581%25A8%25E3%2581%259D%25E3%2581%25AE%25E6%25AD%25BB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -518,7 +501,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

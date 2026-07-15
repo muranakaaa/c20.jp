@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1947.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1947.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -133,25 +142,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -165,17 +158,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>冷戦によって、国連を中心とする国際安全保障に日本を委ねてはおけなくなることを最初に提起したのは、\nどうやら<a href=\"../p/stenno.html\">天皇</a>だったようである。\n一九四七年五月六日、<a href=\"../p/stenno.html\">天皇</a>は四回目の<a href=\"../p/macart_d.html\">マッカーサー</a>との会談において、\n「日本が完全に軍備を撤廃する以上、その安全保障は国連に期待せねばなりませぬ」が、\n「国連が極東委員会の如きものであることは困ると思います」と直言した。\n<a href=\"../p/macart_d.html\">マッカーサー</a>はそれに対し、滔々と世界平和論と憲法九条の偉大さを演説した。\n<a href=\"../p/stenno.html\">天皇</a>はそれに同調せず「日本の安全保障を図る為には・・・・・・米国が其のイニシアチブを執ることを要する」と直截に語り、\nそのために「元帥の御支援を期待して居ります」と真正面から要請した。\n<a href=\"../p/macart_d.html\">マッカーサー</a>ももはや抽象的理念に逃げず、\n「米国の根本観念は日本の安全保障を確保することである。\n此の点については十分御安心ありたい」と応じた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/im_kin06.html\">五百旗頭真 「日本の近代（６）」</a>\n　Ｐ．３４６</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>冷戦によって、国連を中心とする国際安全保障に日本を委ねてはおけなくなることを最初に提起したのは、\nどうやら<a href=\"../p/stenno.html\">天皇</a>だったようである。\n一九四七年五月六日、<a href=\"../p/stenno.html\">天皇</a>は四回目の<a href=\"../p/macart_d.html\">マッカーサー</a>との会談において、\n「日本が完全に軍備を撤廃する以上、その安全保障は国連に期待せねばなりませぬ」が、\n「国連が極東委員会の如きものであることは困ると思います」と直言した。\n<a href=\"../p/macart_d.html\">マッカーサー</a>はそれに対し、滔々と世界平和論と憲法九条の偉大さを演説した。\n<a href=\"../p/stenno.html\">天皇</a>はそれに同調せず「日本の安全保障を図る為には・・・・・・米国が其のイニシアチブを執ることを要する」と直截に語り、\nそのために「元帥の御支援を期待して居ります」と真正面から要請した。\n<a href=\"../p/macart_d.html\">マッカーサー</a>ももはや抽象的理念に逃げず、\n「米国の根本観念は日本の安全保障を確保することである。\n此の点については十分御安心ありたい」と応じた。</div>\n<div class=\"txr\"><a href=\"../text/im_kin06.html\">五百旗頭真 「日本の近代（６）」</a>\n　Ｐ．３４６<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25AE%25E8%25BF%2591%25E4%25BB%25A3%25206%2520%25E6%2588%25A6%25E4%25BA%2589%25E3%2583%25BB%25E5%258D%25A0%25E9%25A0%2598%25E3%2583%25BB%25E8%25AC%259B%25E5%2592%258C%25E2%2580%25951941%25EF%25BD%259E1955\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -183,7 +168,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

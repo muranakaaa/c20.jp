@@ -1,11 +1,12 @@
 {
  "path": "1926/03kimit.html",
  "type": "article",
- "title": "中野正剛、陸軍機密費横領問題で田中総裁（政友会）を追及　／ クリック ２０世紀",
+ "title": "中野正剛、陸軍機密費問題で田中総裁（政友会）を追及　／ クリック ２０世紀",
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,12 +16,20 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1926.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1926.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
-   "html": "中野正剛、陸軍機密費横領問題で田中総裁（政友会）を追及"
+   "html": "中野正剛、陸軍機密費問題で田中総裁（政友会）を追及"
   },
   {
    "type": "title2",
@@ -93,7 +102,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1926/02/28　　<a href=\"../1926/02matus.html\">\n松嶋遊郭疑獄事件発覚</a>"
+       "html": "1926/02/28　　<a href=\"../1926/02matus.html\">\n松島遊郭疑獄事件発覚</a>"
       }
      ]
     },
@@ -103,7 +112,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1926/03/04　　<a 1926=\"\" href\"..=\"\" 03kimit.html\"=\"\">\n中野正剛、陸軍機密費横領問題で田中総裁（政友会）を追及</a>"
+       "html": "1926/03/04　　<a 1926=\"\" href\"..=\"\" 03kimit.html\"=\"\">\n中野正剛、陸軍機密費問題で田中総裁（政友会）を追及</a>"
       }
      ]
     },
@@ -113,7 +122,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1926/03/05　　<a href\"..=\"\" 19.html\"=\"\">\n三瓶俊治（元陸相官房付二等主計）、田中義一を機密費横領で告発</a>"
+       "html": "1926/03/05　　<a href=\"../1926/03kokuh.html\">\n元二等主計、田中総裁（政友会）を機密費横領で告発</a>"
       }
      ]
     },
@@ -193,25 +202,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -225,9 +218,25 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "<span class=\"m_y\">語録</span>\n後輩が不始末をして先輩がその尻拭いをしたということは聞くが、\n後輩のわれわれが<a href=\"../p/tgiici.html\">先輩</a>の不始末の尻拭いをしてゆかなければならぬような事態が頻発するのはすこぶる遺憾である。\n<div class=\"r\"><a href=\"../p/ukazusig.html\">宇垣一成</a>　（陸相）</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "cm"
+   },
+   "html": "<span class=\"m_y\">語録</span>\n材料はすでにそろっているし、君（三瓶俊治）も告発も取下げていることだから、君は表面に立たないほうが結局都合がよかろう。\n<div class=\"r\">石田基　（主任検事）</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "cm"
+   },
+   "html": "<span class=\"m_y\">語録</span>\nわたしが告訴状を提出後、一ヵ月して面会したとき、石田検事は、大判の洋罫紙に鉛筆で書き入れた、\n付箋をつけた表を見ながら、「君のいうように八百万円という数字は出ないが、\n<a href=\"../p/tgiici.html\">田中</a>、<a href=\"../p/yhanzo.html\">山梨</a>、菅野、松木個人名で三百八十万円の定期預金が各銀行にしてあったことが明らかになった。\nしかし、田中興業銀行が焼けて、取引関係がわからないのでたいへん困った。\n連中はその預金の大部分で公債を買いこんでいるが、その公債の行方がわかれば事件は大丈夫間違いない。\n君はその行方について知っていないか」ときかれました。\n<div class=\"r\">三瓶俊治　（元陸相官房付二等主計／告発人）</div>\n"
   },
   {
    "type": "raw",
@@ -235,15 +244,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>３月４日の衆議院で、憲政会の<a href=\"../p/nseigo.html\">中野正剛</a>が、\n<a href=\"../p/tgiici.html\">田中義一政友会総裁</a>がシベリア出兵当時の陸軍機密費の一部を横領して政界入りの資金にしたと追及した。</div>\n<div>同日、元陸軍二等主計の三瓶俊治が、当時陸相の<a href=\"../p/tgiici.html\">田中</a>と次官の<a href=\"../p/yhanzo.html\">山梨半造</a>が大臣官房主計室の金庫に眠っていた\n無記名公債を横領したと告発していた。\n１月には<a href=\"../p/tgiici.html\">田中</a>が神戸の高利貸しから多額の借金をしていたことも明らかになっており、\n問題の公債が借金の担保になったのではないかという疑惑が浮かんだ。\nまた、ハバロフスクなどで日本軍が捕獲した金塊の一部も行方不明となり、<a href=\"../p/tgiici.html\">田中</a>が疑われた。</div>\n<div>政友会は、<a href=\"../p/nseigo.html\">中野</a>がソ連の手先となって軍民離間を図っていると攻撃した。\n告発した三瓶は一時身を隠していたが２か月後、「懺悔録」を書き、告訴の内容はうそだったといい出した。\n政友会や軍部の圧力が噂された。</div>\n<div>この事件を捜査していた東京地方検事局の担当者は、敏腕で名の通っていた石田基次席検事だった。</div>\n<div>ところが10月30日朝、石田検事は大森と蒲田のあいだの鉄橋の下の小川で変死体となって発見された。\n死因は下あご付近の打撲とみられた。\n石田検事は前夜、日比谷の料亭で検事の集まりに出席していたが、\n死体で見つかった場所は市ヶ谷の自宅とは逆方向だった。\n多くの疑問が残ったが、検事局は過失死と片付け、解剖もせずに火葬にしてしまう。</div>\n<div>石田検事の死で陸軍機密費事件は不起訴に終わる。\n石田検事は朴烈事件、<a href=\"../1926/02matus.html\">松島遊郭移転疑獄</a>も手がけていただけに、\nその死と事件の結末には大きな疑惑が残った。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ys_20sei.html\">読売新聞社 「読む年表・20世紀と昭和天皇」</a>\n　Ｐ．３６</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s4\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>３月４日の衆議院で、憲政会の<a href=\"../p/nseigo.html\">中野正剛</a>が、\n<a href=\"../p/tgiici.html\">田中義一政友会総裁</a>がシベリア出兵当時の陸軍機密費の一部を横領して政界入りの資金にしたと追及した。</div>\n<div>同日、元陸軍二等主計の三瓶俊治が、当時陸相の<a href=\"../p/tgiici.html\">田中</a>と次官の<a href=\"../p/yhanzo.html\">山梨半造</a>が大臣官房主計室の金庫に眠っていた\n無記名公債を横領したと告発していた。\n１月には<a href=\"../p/tgiici.html\">田中</a>が神戸の高利貸しから多額の借金をしていたことも明らかになっており、\n問題の公債が借金の担保になったのではないかという疑惑が浮かんだ。\nまた、ハバロフスクなどで日本軍が捕獲した金塊の一部も行方不明となり、<a href=\"../p/tgiici.html\">田中</a>が疑われた。</div>\n<div>政友会は、<a href=\"../p/nseigo.html\">中野</a>がソ連の手先となって軍民離間を図っていると攻撃した。\n告発した三瓶は一時身を隠していたが２か月後、「懺悔録」を書き、告訴の内容はうそだったといい出した。\n政友会や軍部の圧力が噂された。</div>\n<div>この事件を捜査していた東京地方検事局の担当者は、敏腕で名の通っていた石田基次席検事だった。</div>\n<div>ところが10月30日朝、石田検事は大森と蒲田のあいだの鉄橋の下の小川で変死体となって発見された。\n死因は下あご付近の打撲とみられた。\n石田検事は前夜、日比谷の料亭で検事の集まりに出席していたが、\n死体で見つかった場所は市ヶ谷の自宅とは逆方向だった。\n多くの疑問が残ったが、検事局は過失死と片付け、解剖もせずに火葬にしてしまう。</div>\n<div>石田検事の死で陸軍機密費事件は不起訴に終わる。\n石田検事は朴烈事件、<a href=\"../1926/02matus.html\">松島遊郭移転疑獄</a>も手がけていただけに、\nその死と事件の結末には大きな疑惑が残った。</div>\n<div class=\"txr\"><a href=\"../text/ys_20sei.html\">読売新聞社 「読む年表・20世紀と昭和天皇」</a>\n　Ｐ．３６</div>\n"
   },
   {
    "type": "raw",
@@ -251,7 +252,15 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>三月五日の新聞は<a href=\"../p/tgiici.html\">田中総裁</a>のとんでもない旧悪を暴露する企図を報道していた。</div>\n<div>告発したのは憲政会代議士<a href=\"../p/nseigo.html\">中野正剛</a>（後<a href=\"../p/thideki.html\">東条首相</a>を批判して自決）である。\n<a href=\"../p/nseigo.html\">中野</a>は四日の議会で元陸軍三等主計三瓶俊治に告発書を朗読せしめた。\nそれによると大正九年（シベリア出兵中）三瓶が陸軍大臣官房付であった時、\n官房主計の金庫に<a href=\"../p/tgiici.html\">田中陸相</a>、<a href=\"../p/yhanzo.html\">山梨次官</a>らの個人名義の預金証書（シベリア出兵の機密費？）があり、\n総額は二千四百万円に上っていたが、これが無記名公債となりその後行方不明になったというのである。\nとくに<a href=\"../p/tgiici.html\">田中陸相</a>は四百万円を要領したのではないか、として新聞でも叩かれた。\n<a href=\"../p/tgiici.html\">田中</a>は政友会に入る前、乾新兵衛という金貸しから三百万円を借りたが、\nその時の担保が例の無記名公債ではないかという推理もなされた。\n<a href=\"../p/nseigo.html\">中野</a>の追及が厳しくなると政友会では<a href=\"../p/nseigo.html\">中野</a>を露探だと切り返した。\n五日になると宇垣陸相が登壇した。</div>\n<div>「昨日来、憲政会は陸軍に不正ありとして攻撃しているようであるが、\nこれらの質問が陸相たる私に対する不信任ということであるなら進退を考えねばならない」</div>\n<div>と述べて<a href=\"../p/wreijiro.html\">若槻</a>を脅かした。\n陸相が辞めれば恐らく後任陸相は得られず内閣は総辞職しなければならない。</div>\n<div>三瓶は<a href=\"../p/tgiici.html\">田中</a>と<a href=\"../p/yhanzo.html\">山梨</a>を告発したが、この男も並の“正義漢”ではなかった。\n在職中一万三千円の公債を着服して有罪となっているし、この材料を政友会に持ちこんで高く買ってもらおうとした事実もわかって来た。</div>\n<div>かくして泥仕合が続いたが、事件担当の石田検事の変死で一切はうやむやに終り<a href=\"../p/tgiici.html\">田中</a>らは不起訴に終った。\nもみ消しの元兇は司法官僚の<a href=\"../p/skisabur.html\">鈴木喜三郎</a>（<a href=\"../1924/kiyo_1.html\">清浦内閣</a>の法相、後に<a href=\"../1927/tanaa_1.html\">田中内閣</a>の内相、政友会総裁となりながら選挙で落選する）\nであるとの噂が高かった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm2saion.html\">豊田穣 「西園寺公望（下）」</a>\n　Ｐ．２１２</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>三月五日の新聞は<a href=\"../p/tgiici.html\">田中総裁</a>のとんでもない旧悪を暴露する企図を報道していた。</div>\n<div>告発したのは憲政会代議士<a href=\"../p/nseigo.html\">中野正剛</a>（後<a href=\"../p/thideki.html\">東条首相</a>を批判して自決）である。\n<a href=\"../p/nseigo.html\">中野</a>は四日の議会で元陸軍三等主計三瓶俊治に告発書を朗読せしめた。\nそれによると大正九年（シベリア出兵中）三瓶が陸軍大臣官房付であった時、\n官房主計の金庫に<a href=\"../p/tgiici.html\">田中陸相</a>、<a href=\"../p/yhanzo.html\">山梨次官</a>らの個人名義の預金証書（シベリア出兵の機密費？）があり、\n総額は二千四百万円に上っていたが、これが無記名公債となりその後行方不明になったというのである。\nとくに<a href=\"../p/tgiici.html\">田中陸相</a>は四百万円を要領したのではないか、として新聞でも叩かれた。\n<a href=\"../p/tgiici.html\">田中</a>は政友会に入る前、乾新兵衛という金貸しから三百万円を借りたが、\nその時の担保が例の無記名公債ではないかという推理もなされた。\n<a href=\"../p/nseigo.html\">中野</a>の追及が厳しくなると政友会では<a href=\"../p/nseigo.html\">中野</a>を露探だと切り返した。\n五日になると宇垣陸相が登壇した。</div>\n<div>「昨日来、憲政会は陸軍に不正ありとして攻撃しているようであるが、\nこれらの質問が陸相たる私に対する不信任ということであるなら進退を考えねばならない」</div>\n<div>と述べて<a href=\"../p/wreijiro.html\">若槻</a>を脅かした。\n陸相が辞めれば恐らく後任陸相は得られず内閣は総辞職しなければならない。</div>\n<div>三瓶は<a href=\"../p/tgiici.html\">田中</a>と<a href=\"../p/yhanzo.html\">山梨</a>を告発したが、この男も並の“正義漢”ではなかった。\n在職中一万三千円の公債を着服して有罪となっているし、この材料を政友会に持ちこんで高く買ってもらおうとした事実もわかって来た。</div>\n<div>かくして泥仕合が続いたが、事件担当の石田検事の変死で一切はうやむやに終り<a href=\"../p/tgiici.html\">田中</a>らは不起訴に終った。\nもみ消しの元兇は司法官僚の<a href=\"../p/skisabur.html\">鈴木喜三郎</a>（<a href=\"../1924/kiyo_1.html\">清浦内閣</a>の法相、後に<a href=\"../1927/tanaa_1.html\">田中内閣</a>の内相、政友会総裁となりながら選挙で落選する）\nであるとの噂が高かった。</div>\n<div class=\"txr\"><a href=\"../text/tm2saion.html\">豊田穣 「西園寺公望（下）」</a>\n　Ｐ．２１２<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E5%259C%2592%25E5%25AF%25BA%25E5%2585%25AC%25E6%259C%259B%25E2%2580%2595%25E6%259C%2580%25E5%25BE%258C%25E3%2581%25AE%25E5%2585%2583%25E8%2580%2581%2520%2528%25E4%25B8%258B%25E5%25B7%25BB%2529%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>一体、この事件の実体はどうなのか。その謎を解く鍵は次の四つとなろう。</div>\n<div>①三瓶は懺悔録は発表したが、告発状は取下げていない。</div>\n<div>②もし、告発状に書かれたような不正がなければ、<a href=\"../p/tgiici.html\">田中大将</a>も<a href=\"../p/yhanzo.html\">山梨大将</a>も三瓶を誣告罪で訴えなければならないところだが、\nそのことは全然しない。</div>\n<div>③<a href=\"../p/tgiici.html\">田中大将</a>は「三瓶というのはどんな男かよく知らない」というようなことを当時新聞記者に話していたし、\nまた「公債を盗んだ奴で、人格の劣った放蕩児である」と罵倒していたが、\n三瓶が懺悔文を発表した翌日、新聞記者が訪ねて行くと、\n<a href=\"../p/tgiici.html\">田中</a>は「あの男は卒業のとき恩賜の時計の光栄にも浴した男である」というようなことを言って、\n前とは反対に称讃的な言葉をもらした。</div>\n<div>④<a href=\"../p/tgiici.html\">田中</a>が三瓶をよく知らないというのは言訳にもならないことで、\n<a href=\"../p/tgiici.html\">田中</a>は三瓶に「百事誠」という扁額を揮毫して写えている。\nまた遠藤主計にも書を与えている。そのほか、珍しいものが他からくると、遠藤や三瓶にくれてやっていた事実がある。</div>\n<div>こういうことを綜合してみると、<a href=\"../p/tgiici.html\">田中義一</a>が政友会入りについて持参した三百万円は、\nやはり陸軍機密費から出たと断じないわけにはいかない。\nそして、その出所の秘密は、【中略】　シベリヤ出兵前後の大正七年と十一年の経常費にあろう。\nつまり、結局のところ、<a href=\"../p/tgiici.html\">田中陸相</a>は<a href=\"../p/yhanzo.html\">山梨次官</a>と諮って機密費のうちからピンハネして横領したということになるのだ。</div>\n<div>これについて、三瓶に寝返りを打たれた相馬由也が次のように述べているのは、\n案外、実相に迫っているように思われる。</div>\n<div>「問題の金を世間では機密費といっているが、実は機密費ではなく、\n秘密の金とでもいうべきもので、その金額は銀行預金千二、三百万円、無記名公債五、六百万円と推定される。</div>\n<div>問題の金が秘密の性質のものでないとなれば、\nその金は堂々と陸軍大臣の官房の金庫に公蔵しておくはずなのに、\n大臣官邸の一室に秘蔵して、<a href=\"../p/tgiici.html\">田中</a>、<a href=\"../p/yhanzo.html\">山梨</a>、菅野などという数人のほかは一切知らせず、\nときどき時の高級副官松木直亮大佐が金庫の内容を調べ、遠藤主計がかたわらにあって、\n極めて無造作にメモを記入し、三瓶主計はソロバンをおく役目をおおせつかった事実などがあるというのは\n誰しも深い疑念を挿まないわけにはいかない」</div>\n<div>要するに、機密費は議会の協賛をえただけの金額を一時にとりまとめて受取るものではなく、\n随時必要額だけを大蔵省から貰ってくるものであるから、これを長時日にわたって利殖をはかるなどということはできないわけだ。</div>\n<div>したがって、問題の金は機密費ではなく、なにか別の特殊なものでなければならない。\nそれがシベリヤ出兵費の使い残りだとは、はっきりしているが、例のロシヤ軍の金塊や、\n青島で阿片販売を許可することによって、中国人からもらった賄賂などの説になると、多少の疑いがある。</div>\n<div class=\"txr\"><a href=\"../text/ms1syowa.html\">松本清張 「昭和史発掘（１）」</a>\n　Ｐ．５１<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F416710699X%2Fqid%3D1147086156%2Fsr%3D1-2%2Fref%3Dsr_1_2_2\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -259,11 +268,17 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",
-   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1926.html\">１９２６年</a>\n ＞ <a href=\"#h\">中野正剛、陸軍機密費横領問題で田中総裁（政友会）を追及</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1926.html\">１９２６年</a>\n ＞ <a href=\"#h\">中野正剛、陸軍機密費問題で田中総裁（政友会）を追及</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
   }
  ]
 }

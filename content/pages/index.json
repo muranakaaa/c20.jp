@@ -2,101 +2,34 @@
  "path": "index.html",
  "type": "top",
  "title": "クリック ２０世紀",
- "description": null,
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "all.css",
-  "top.css"
+  "top.css",
+  "/include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
-   "type": "edit_bar",
-   "kind": "e_bar",
-   "html": "<a href=\"#f\">▽▽▽</a><a name=\"h\"></a>"
-  },
-  {
-   "type": "navi",
-   "html": "\n<span class=\"now\">目次</span> ＞ 年表 ＞ 事項 ＞ 詳細　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
-  },
-  {
-   "type": "title",
-   "html": "クリ<span class=\"t1\">ッ</span><span class=\"t2\">ク</span><span class=\"t3\">２</span><span class=\"t4\">０</span><span class=\"t5\">世紀</span><span class=\"t_e\">1188ファイル版</span>"
-  },
-  {
-   "type": "title2",
-   "html": "Lastupdate：2003/11/01"
-  },
-  {
    "type": "raw",
-   "tag": "div",
+   "tag": "table",
    "attrs": {
-    "class": "subtitle"
+    "width": "530",
+    "border": "0",
+    "align": "center",
+    "cellpadding": "2",
+    "cellspacing": "0"
    },
-   "html": "年表をクリック　すると２０世紀がみえてくる"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "l_head"
-   },
-   "html": "<b>∇</b> おすすめファイル"
+   "html": "\n<tbody><tr>\n    <td align=\"left\" valign=\"middle\" class=\"tr-bgcolor\"><a href=\"http://www.europawatch.jp/index.html\" target=\"_blank\">[PR]オリジナル腕時計制作　12個から製造可能　卒業記念などに[PR]</a></td>\n<td>\n<style type=\"text/css\">\n@import url(http://www.google.com/cse/api/branding.css);\n</style>\n<div class=\"cse-branding-bottom\" style=\"background-color:#FFFFFF;color:#000000\">\n  <div class=\"cse-branding-form\">\n    <form action=\"http://www.google.co.jp/cse\" id=\"cse-search-box\" target=\"_blank\">\n      <div>\n        <input type=\"hidden\" name=\"cx\" value=\"partner-pub-3232598861909913:jqt0zsxpg8n\">\n        <input type=\"hidden\" name=\"ie\" value=\"Shift_JIS\">\n        <input type=\"text\" name=\"q\" size=\"20\">\n        <input type=\"submit\" name=\"sa\" value=\"検索\">\n      </div>\n    </form>\n  </div>\n  <div class=\"cse-branding-logo\">\n    <img src=\"http://www.google.com/images/poweredby_transparent/poweredby_FFFFFF.gif\" alt=\"Google\">\n  </div>\n  <div class=\"cse-branding-text\">\n    カスタム検索\n  </div>\n</div>\n</td>\n    \n  </tr></tbody>"
   },
   {
    "type": "raw",
    "tag": "table",
    "attrs": {
-    "class": "y1"
+    "align": "center",
+    "class": "base"
    },
-   "html": "<tbody><tr>\n<td class=\"lt\"><a href=\"1949/09indir.html\">インド象インディラ来日</a></td>\n<td class=\"lt\"><a href=\"1901/10je_do.html\">日英同盟交渉開始</a></td>\n<td class=\"lt\"><a href=\"1928/03syone.html\">少年店員たちの争議</a></td>\n</tr><tr>\n<td class=\"lt\"><a href=\"1917/11balfo.html\">バルフォア宣言</a></td>\n<td class=\"lt\"><a href=\"1921/05baisy.html\">賠償金1320億金マルクを要求</a></td>\n<td class=\"lt\"><a href=\"1941/11syuma.html\">「戦争終末促進案」決定</a></td>\n</tr></tbody>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "l_head"
-   },
-   "html": "<b>∇</b> 年表ファイル"
-  },
-  {
-   "type": "raw",
-   "tag": "table",
-   "attrs": {
-    "class": "y2"
-   },
-   "html": "<tbody><tr>\n<td class=\"lt\"><a href=\"20c/1901.html\">１９０１</a></td>\n<td class=\"lt\"><a href=\"20c/1902.html\">１９０２</a></td>\n<td class=\"lt\"><a href=\"20c/1903.html\">１９０３</a></td>\n<td class=\"lt\"><a href=\"20c/1904.html\">１９０４</a></td>\n<td class=\"lt\"><a href=\"20c/1905.html\">１９０５</a></td>\n<td class=\"lt\"><a href=\"20c/1906.html\">１９０６</a></td>\n<td class=\"lt\"><a href=\"20c/1907.html\">１９０７</a></td>\n<td class=\"lt\"><a href=\"20c/1908.html\">１９０８</a></td>\n<td class=\"lt\"><a href=\"20c/1909.html\">１９０９</a></td>\n<td class=\"lt\"><a href=\"20c/1910.html\">１９１０</a></td>\n</tr><tr>\n<td class=\"lt\"><a href=\"20c/1911.html\">１９１１</a></td>\n<td class=\"lt\"><a href=\"20c/1912.html\">１９１２</a></td>\n<td class=\"lt\"><a href=\"20c/1913.html\">１９１３</a></td>\n<td class=\"lt\"><a href=\"20c/1914.html\">１９１４</a></td>\n<td class=\"lt\"><a href=\"20c/1915.html\">１９１５</a></td>\n<td class=\"lt\"><a href=\"20c/1916.html\">１９１６</a></td>\n<td class=\"lt\"><a href=\"20c/1917.html\">１９１７</a></td>\n<td class=\"lt\"><a href=\"20c/1918.html\">１９１８</a></td>\n<td class=\"lt\"><a href=\"20c/1919.html\">１９１９</a></td>\n<td class=\"lt\"><a href=\"20c/1920.html\">１９２０</a></td>\n</tr><tr>\n<td class=\"lt\"><a href=\"20c/1921.html\">１９２１</a></td>\n<td class=\"lt\"><a href=\"20c/1922.html\">１９２２</a></td>\n<td class=\"lt\"><a href=\"20c/1923.html\">１９２３</a></td>\n<td class=\"lt\"><a href=\"20c/1924.html\">１９２４</a></td>\n<td class=\"lt\"><a href=\"20c/1925.html\">１９２５</a></td>\n<td class=\"lt\"><a href=\"20c/1926.html\">１９２６</a></td>\n<td class=\"lt\"><a href=\"20c/1927.html\">１９２７</a></td>\n<td class=\"lt\"><a href=\"20c/1928.html\">１９２８</a></td>\n<td class=\"lt\"><a href=\"20c/1929.html\">１９２９</a></td>\n<td class=\"lt\"><a href=\"20c/1930.html\">１９３０</a></td>\n</tr><tr>\n<td class=\"lt\"><a href=\"20c/1931.html\">１９３１</a></td>\n<td class=\"lt\"><a href=\"20c/1932.html\">１９３２</a></td>\n<td class=\"lt\"><a href=\"20c/1933.html\">１９３３</a></td>\n<td class=\"lt\"><a href=\"20c/1934.html\">１９３４</a></td>\n<td class=\"lt\"><a href=\"20c/1935.html\">１９３５</a></td>\n<td class=\"lt\"><a href=\"20c/1936.html\">１９３６</a></td>\n<td class=\"lt\"><a href=\"20c/1937.html\">１９３７</a></td>\n<td class=\"lt\"><a href=\"20c/1938.html\">１９３８</a></td>\n<td class=\"lt\"><a href=\"20c/1939.html\">１９３９</a></td>\n<td class=\"lt\"><a href=\"20c/1940.html\">１９４０</a></td>\n</tr><tr>\n<td class=\"lt\"><a href=\"20c/1941.html\">１９４１</a></td>\n<td class=\"lt\"><a href=\"20c/1942.html\">１９４２</a></td>\n<td class=\"lt\"><a href=\"20c/1943.html\">１９４３</a></td>\n<td class=\"lt\"><a href=\"20c/1944.html\">１９４４</a></td>\n<td class=\"lt\"><a href=\"20c/1945.html\">１９４５</a></td>\n<td class=\"lt\"><a href=\"20c/1946.html\">１９４６</a></td>\n<td class=\"lt\"><a href=\"20c/1947.html\">１９４７</a></td>\n<td class=\"lt\"><a href=\"20c/1948.html\">１９４８</a></td>\n<td class=\"lt\"><a href=\"20c/1949.html\">１９４９</a></td>\n<td class=\"lt\"><a href=\"20c/1950.html\">１９５０</a></td>\n</tr></tbody>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "l_head"
-   },
-   "html": "<b>∇</b> 人物ファイル"
-  },
-  {
-   "type": "raw",
-   "tag": "table",
-   "attrs": {
-    "class": "y3"
-   },
-   "html": "<tbody><tr>\n<td class=\"lt\"><a href=\"p/01a.html\">ア</a></td>\n<td class=\"lt\"><a href=\"p/02k.html\">カ</a></td>\n<td class=\"lt\"><a href=\"p/03s.html\">サ</a></td>\n<td class=\"lt\"><a href=\"p/04t.html\">タ</a></td>\n<td class=\"lt\"><a href=\"p/05n.html\">ナ</a></td>\n<td class=\"lt\"><a href=\"p/06h.html\">ハ</a></td>\n<td class=\"lt\"><a href=\"p/07m.html\">マ</a></td>\n<td class=\"lt\"><a href=\"p/08y.html\">ヤ</a></td>\n<td class=\"lt\"><a href=\"p/09r.html\">ラ</a></td>\n<td class=\"lt\"><a href=\"p/10w.html\">ワ</a></td>\n</tr></tbody>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "cm"
-   },
-   "html": "■ＨＴＭＬで２０世紀の年表がつくりたかった。<br>\nクリックするたびに、どんどん詳しい世界に入っていける年表。\n時とともに縦横に広がってゆく年表。\n２０世紀のすべてを抱えこむような年表をつくりたかった。<br>\n■年表をつくった。<br>\n２０世紀を抱えこむなんておぼつかないけど、まだ半分だけだけど、ＨＴＭＬの年表ができた。\n多くの人にみてもらいたいと思い、みてもらえるだろうかと思い、\n楽しんでもらえればいいがと思う。<br>\n■いつかこの年表を老若男女の知性が憩う場にしたい。<br>\n森のように２０世紀の喜怒哀楽を散策し、立ちどまり、もの想える場に育てたい。未来に、そういうものを残せればぼくはうれしい。\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "end"
-   },
-   "html": "<a name=\"f\"></a><b>クリック ２０世紀</b>　　　ｂｙ　<a href=\"mailto:uh@usleaf2001.com\">ｔａｒｏ</a>"
+   "html": "<tbody><tr><td>\n<div class=\"navi\">\n<span class=\"now\">目次</span> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"p/01a.html\">人物</a> ／ <a href=\"text/01a.html\">書籍</a> ／ 他</div>\n\n<div class=\"title\">クリ<span class=\"t1\">ッ</span><span class=\"t2\">ク</span><span class=\"t3\">２</span><span class=\"t4\">０</span><span class=\"t5\">世紀</span><span class=\"t_e\">1609ファイル版</span></div>\n<div class=\"title2\">Lastupdate：2006/04/25</div>\n\n<div class=\"subtitle\">パパもイチローも２０世紀生まれなんだよね？</div>\n\n<div class=\"l_head\"><b>∇</b> おすすめファイル</div>\n<table class=\"y1\"><tbody><tr>\n<td class=\"lt\"><a href=\"p/sonbun.html\">孫文</a></td>\n<td class=\"lt\"><a href=\"p/soukeire.html\">宋慶齢</a></td>\n<td class=\"lt\"><a href=\"p/motakuto.html\">毛沢東</a></td>\n</tr></tbody></table>\n\n<div class=\"l_head\"><b>∇</b> 年表ファイル</div>\n<table class=\"y2\"><tbody><tr>\n<td class=\"lt\"><a href=\"20c/1901.html\">１９０１</a></td>\n<td class=\"lt\"><a href=\"20c/1902.html\">１９０２</a></td>\n<td class=\"lt\"><a href=\"20c/1903.html\">１９０３</a></td>\n<td class=\"lt\"><a href=\"20c/1904.html\">１９０４</a></td>\n<td class=\"lt\"><a href=\"20c/1905.html\">１９０５</a></td>\n<td class=\"lt\"><a href=\"20c/1906.html\">１９０６</a></td>\n<td class=\"lt\"><a href=\"20c/1907.html\">１９０７</a></td>\n<td class=\"lt\"><a href=\"20c/1908.html\">１９０８</a></td>\n<td class=\"lt\"><a href=\"20c/1909.html\">１９０９</a></td>\n<td class=\"lt\"><a href=\"20c/1910.html\">１９１０</a></td>\n</tr><tr>\n<td class=\"lt\"><a href=\"20c/1911.html\">１９１１</a></td>\n<td class=\"lt\"><a href=\"20c/1912.html\">１９１２</a></td>\n<td class=\"lt\"><a href=\"20c/1913.html\">１９１３</a></td>\n<td class=\"lt\"><a href=\"20c/1914.html\">１９１４</a></td>\n<td class=\"lt\"><a href=\"20c/1915.html\">１９１５</a></td>\n<td class=\"lt\"><a href=\"20c/1916.html\">１９１６</a></td>\n<td class=\"lt\"><a href=\"20c/1917.html\">１９１７</a></td>\n<td class=\"lt\"><a href=\"20c/1918.html\">１９１８</a></td>\n<td class=\"lt\"><a href=\"20c/1919.html\">１９１９</a></td>\n<td class=\"lt\"><a href=\"20c/1920.html\">１９２０</a></td>\n</tr><tr>\n<td class=\"lt\"><a href=\"20c/1921.html\">１９２１</a></td>\n<td class=\"lt\"><a href=\"20c/1922.html\">１９２２</a></td>\n<td class=\"lt\"><a href=\"20c/1923.html\">１９２３</a></td>\n<td class=\"lt\"><a href=\"20c/1924.html\">１９２４</a></td>\n<td class=\"lt\"><a href=\"20c/1925.html\">１９２５</a></td>\n<td class=\"lt\"><a href=\"20c/1926.html\">１９２６</a></td>\n<td class=\"lt\"><a href=\"20c/1927.html\">１９２７</a></td>\n<td class=\"lt\"><a href=\"20c/1928.html\">１９２８</a></td>\n<td class=\"lt\"><a href=\"20c/1929.html\">１９２９</a></td>\n<td class=\"lt\"><a href=\"20c/1930.html\">１９３０</a></td>\n</tr><tr>\n<td class=\"lt\"><a href=\"20c/1931.html\">１９３１</a></td>\n<td class=\"lt\"><a href=\"20c/1932.html\">１９３２</a></td>\n<td class=\"lt\"><a href=\"20c/1933.html\">１９３３</a></td>\n<td class=\"lt\"><a href=\"20c/1934.html\">１９３４</a></td>\n<td class=\"lt\"><a href=\"20c/1935.html\">１９３５</a></td>\n<td class=\"lt\"><a href=\"20c/1936.html\">１９３６</a></td>\n<td class=\"lt\"><a href=\"20c/1937.html\">１９３７</a></td>\n<td class=\"lt\"><a href=\"20c/1938.html\">１９３８</a></td>\n<td class=\"lt\"><a href=\"20c/1939.html\">１９３９</a></td>\n<td class=\"lt\"><a href=\"20c/1940.html\">１９４０</a></td>\n</tr><tr>\n<td class=\"lt\"><a href=\"20c/1941.html\">１９４１</a></td>\n<td class=\"lt\"><a href=\"20c/1942.html\">１９４２</a></td>\n<td class=\"lt\"><a href=\"20c/1943.html\">１９４３</a></td>\n<td class=\"lt\"><a href=\"20c/1944.html\">１９４４</a></td>\n<td class=\"lt\"><a href=\"20c/1945.html\">１９４５</a></td>\n<td class=\"lt\"><a href=\"20c/1946.html\">１９４６</a></td>\n<td class=\"lt\"><a href=\"20c/1947.html\">１９４７</a></td>\n<td class=\"lt\"><a href=\"20c/1948.html\">１９４８</a></td>\n<td class=\"lt\"><a href=\"20c/1949.html\">１９４９</a></td>\n<td class=\"lt\"><a href=\"20c/1950.html\">１９５０</a></td>\n</tr></tbody></table>\n\n<div class=\"l_head\"><b>∇</b> 人物ファイル</div>\n<table class=\"y3\"><tbody><tr>\n<td class=\"lt\"><a href=\"p/01a.html\">ア</a></td>\n<td class=\"lt\"><a href=\"p/02k.html\">カ</a></td>\n<td class=\"lt\"><a href=\"p/03s.html\">サ</a></td>\n<td class=\"lt\"><a href=\"p/04t.html\">タ</a></td>\n<td class=\"lt\"><a href=\"p/05n.html\">ナ</a></td>\n<td class=\"lt\"><a href=\"p/06h.html\">ハ</a></td>\n<td class=\"lt\"><a href=\"p/07m.html\">マ</a></td>\n<td class=\"lt\"><a href=\"p/08y.html\">ヤ</a></td>\n<td class=\"lt\"><a href=\"p/09r.html\">ラ</a></td>\n<td class=\"lt\"><a href=\"p/10w.html\">ワ</a></td>\n</tr></tbody></table>\n\n<div class=\"l_head\"><b>∇</b> 書籍ファイル</div>\n<table class=\"y4\"><tbody><tr>\n<td class=\"lt\"><a href=\"text/01a.html\">ア</a></td>\n<td class=\"lt\"><a href=\"text/02k.html\">カ</a></td>\n<td class=\"lt\"><a href=\"text/03s.html\">サ</a></td>\n<td class=\"lt\"><a href=\"text/04t.html\">タ</a></td>\n<td class=\"lt\"><a href=\"text/05n.html\">ナ</a></td>\n<td class=\"lt\"><a href=\"text/06h.html\">ハ</a></td>\n<td class=\"lt\"><a href=\"text/07m.html\">マ</a></td>\n<td class=\"lt\"><a href=\"text/08y.html\">ヤ</a></td>\n<td class=\"lt\"><a href=\"text/09r.html\">ラ</a></td>\n<td class=\"lt\"><a href=\"text/10w.html\">ワ</a></td>\n</tr></tbody></table>\n\n<div class=\"l_head\"><b>∇</b> テーマ史ファイル</div>\n<table class=\"y5\"><tbody><tr>\n<td class=\"lt\"><a href=\"them/j_gov.html\">【内閣成立史】</a></td>\n<td class=\"lt\"><a href=\"them/jr_war.html\">【日露戦争史】</a></td>\n<td class=\"lt\"><a href=\"them/1mensi.html\">【人物一面史】</a></td>\n</tr></tbody></table>\n\n<div class=\"l_head\"><b>∇</b> ｔａｒｏ のファイル</div>\n<table class=\"y6\"><tbody><tr>\n<td class=\"lt\"><a href=\"taro/taro.html\">ｔａｒｏ について</a></td>\n<td class=\"lt\"><a href=\"taro/data.html\">更新レポート</a></td>\n<td class=\"lt\"><a href=\"taro/opi.html\">ｔａｒｏ の意見</a></td>\n<td class=\"lt\"><a href=\"taro/zakk.html\">ｔａｒｏ の雑記帳</a></td>\n</tr></tbody></table>\n\n<div class=\"cm\">■ＨＴＭＬで２０世紀の年表がつくりたかった。<br>\nクリックするたびに、どんどん詳しい世界に入っていける年表。\n時とともに縦横に広がってゆく年表。\n２０世紀のすべてを抱えこむような年表をつくりたかった。<br>\n■年表をつくった。<br>\n２０世紀を抱えこむなんておぼつかないけど、まだ半分だけだけど、ＨＴＭＬの年表ができた。\n多くの人にみてもらいたいと思い、みてもらえるだろうかと思い、\n楽しんでもらえればいいがと思う。<br>\n■いつかこの年表を老若男女の知性が憩う場にしたい。<br>\n森のように２０世紀の喜怒哀楽を散策し、立ちどまり、もの想える場に育てたい。未来に、そういうものを残せればぼくはうれしい。\n</div>\n<div>\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n</div>\n<div class=\"end\">クリック ２０世紀　　ｂｙ　<a href=\"mailto:taro@c20.jp\">ｔａｒｏ</a>　（ taro@c20.jp ）\n<a href=\"http://www.colorchips.co.jp/index.php\" target=\"_blank\"><img src=\"/img/asica.jpg\" alt=\"インターネットビジネスのことなら株式会社カラーチップス\" width=\"135\" height=\"18\" border=\"0\"></a></div>\n\n</td></tr></tbody>"
   }
  ]
 }

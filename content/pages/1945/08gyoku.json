@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1945.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1945.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -58,22 +67,22 @@
      ]
     },
     {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/02/14　　<a href=\"../1945/02konoe.html\">\n近衛文麿、天皇に上奏文を奉呈</a>"
+      }
+     ]
+    },
+    {
      "cls": "b",
      "cells": [
       {
        "id": "l",
        "cls": null,
        "html": "1945/07/26　　<a href=\"../1945/07potsd.html\">\n連合国、ポツダム宣言発表</a>"
-      }
-     ]
-    },
-    {
-     "cls": "n",
-     "cells": [
-      {
-       "id": "l",
-       "cls": null,
-       "html": "1945/07/28　　<a href\"..=\"\" 19.html\"=\"\">\n鈴木首相記者会見「ポツダム宣言黙殺」</a>"
       }
      ]
     },
@@ -243,25 +252,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "pt"
    },
    "html": "\n<div class=\"pt_h\">～　聖断の理由　（抜粋／口語訳）　～</div>\n<div>なお戦争を継続するならば、最後には我が民族の滅亡を招くのみならず、\n全人類の文明を破壊することになりかねない。\nそのようなことになったなら、私は国民にどう申し開きをし、先祖たちにどう謝ればよいだろう。\nこのようなわけで、私は帝国政府を通じ共同宣言に応じるに至った。</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -275,17 +268,17 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/otosisir.html\">小畑</a>は、晩年めったに軍人については息子たちには話さなかったが、\n話が敗戦とそれに伴う<a href=\"../p/stenno.html\">天皇</a>の御心痛にふれると、顔を曇らせ絞り出すような声で、\n戦争の元凶と目される人物の名をあげた。</div>\n<div>まず<a href=\"../p/kkoici.html\">木戸幸一</a>（内大臣）の名を第一にあげ、軍人では<a href=\"../p/ntetuzan.html\">永田</a>と<a href=\"../p/thideki.html\">東條</a>、それに<a href=\"../p/uyosijir.html\">梅津美治郎</a>、<a href=\"../p/makira.html\">武藤章</a>、富永恭次、\n四方諒二、<a href=\"../p/steiici.html\">鈴木貞一</a>、<a href=\"../p/isumihis.html\">池田純久</a>、それに頭が悪い将軍として<a href=\"../p/thisaici.html\">寺内寿一</a>、\nこれらの人物が御国を誤ったのだと語るのが常であった（小畑又雄談）。</div>\n<div>殊に<a href=\"../p/isumihis.html\">池田</a>の思想については、深く考察して「奴は共産主義者だ、\n軍の中にも赤化思想に蝕まれた者がゐる」と慨歎していたという。\n<a href=\"../p/otosisir.html\">小畑</a>は軍の赤化については平素から分析を怠らず、かなり綿密な調査をし分析や観察を欠かさなかった。</div>\n<div class=\"txr\"><a href=\"../text/sy_obata.html\">須山幸雄 「作戦の鬼 小畑敏四郎」</a>\n　Ｐ．７０<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4829500638%2Fqid%3D1146488939%2Fsr%3D1-1%2Fref%3Dsr_1_0_1\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span><b>中西</b>　敗戦後のことになりますが、<a href=\"../p/stenno.html\">昭和天皇</a>が当時の皇太子、つまり今上天皇に手紙を書き、\nそのなかで、日本が戦争に負けた理由を四つ挙げています。\n敵をよく知らなかったこと、科学精神が欠如していたこと、そして陸海軍の不仲と、明治時代のような元老がいなくなったということです。</div>\n<div class=\"txr\"><a href=\"../text/ah_20nih.html\">阿川弘之・猪瀬直樹・中西輝政・秦郁彦・福田和也 「二十世紀　日本の戦争」</a>\n　Ｐ．１４６<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E4%25BA%258C%25E5%258D%2581%25E4%25B8%2596%25E7%25B4%2580%25E3%2580%2580%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25AE%25E6%2588%25A6%25E4%25BA%2589\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -293,7 +286,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

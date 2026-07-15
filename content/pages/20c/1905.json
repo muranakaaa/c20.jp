@@ -2,21 +2,30 @@
  "path": "20c/1905.html",
  "type": "year",
  "title": "１９０５年　／ クリック ２０世紀",
- "description": null,
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../a.css"
+  "../a.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a href=\"#f\">▽▽▽</a><a name=\"h\"></a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -33,14 +42,13 @@
   {
    "type": "headline",
    "cells": [
-    "ジンタ　　戦友　　二〇三高地",
+    "<a href=\"#s4\">ジンタ　　戦友　　二〇三高地</a>",
     "<a href=\"../1901/katu1_1.html\">桂内閣①</a>"
    ]
   },
   {
-   "type": "edit_bar",
-   "kind": "e_data",
-   "html": "リンク情報（2003/00/00）＝削除：０件（.html）"
+   "type": "base_break",
+   "cls": "base"
   },
   {
    "type": "raw",
@@ -69,7 +77,27 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1905/01/02　　<a href=\"../1905/01suisi.html\">\n陸軍省、旅順開城を発表</a>　（二〇三高地の激戦、水師営の会見など）"
+       "html": "1905/01/02　　<a href=\"../1905/01203ko.html\">\n陸軍省、旅順開城を発表</a>　（二〇三高地の激戦など）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/01/05　　<a href=\"../1905/01suisi.html\">\n水師営の会見</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/01/12　　<a href\"..=\"\" 19.html\"=\"\">\n鴨緑江軍編成</a>　（司令官：川村景明）"
       }
      ]
     },
@@ -80,6 +108,36 @@
        "id": "l",
        "cls": null,
        "html": "1905/01/22　　<a href=\"../1905/01cinon.html\">\n血の日曜日事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/01/25　　<a href=\"../1905/01kokk1.html\">\n黒溝台会戦</a>　（～01/29）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/01/28　　<a href=\"../1905/01kokk2.html\">\nクロパトキン（露）総司令官、作戦中止・退却を命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/01/29　　<a href=\"../1905/01hemin.html\">\n「平民新聞」廃刊</a>"
       }
      ]
     },
@@ -99,7 +157,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1905/03/01　　<a href\"..=\"\" 19.html\"=\"\">\n奉天会戦　（～03/10）</a>"
+       "html": "1905/02/22　　<a href\"..=\"\" 19.html\"=\"\">\n鴨緑江軍、前進開始</a>　（奉天攻略作戦）"
       }
      ]
     },
@@ -109,7 +167,37 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1905/03/10　　<a href\"..=\"\" 19.html\"=\"\">\n日本軍、奉天占領</a>"
+       "html": "1905/03/01　　<a href=\"../1905/03hote1.html\">\n奉天会戦</a>　（～03/10）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/03/09　　<a href=\"../1905/03kurop.html\">\nクロパトキン（露）総司令官、全軍に退却命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/03/10　　<a href=\"../1905/03hote2.html\">\n日本軍、奉天占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/03/16　　<a href=\"../1905/03madag.html\">\nバルチック艦隊、マダガスカルを出航</a>"
       }
      ]
     },
@@ -126,6 +214,10 @@
    ]
   },
   {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
    "type": "raw",
    "tag": "div",
    "attrs": {
@@ -136,6 +228,16 @@
   {
    "type": "timeline",
    "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/04/08　　<a href\"..=\"\" 19.html\"=\"\">\nバルチック艦隊、シンガポール沖を通過</a>"
+      }
+     ]
+    },
     {
      "cls": "s",
      "cells": [
@@ -162,7 +264,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1905/05/26　　<a href=\"../1905/05nihon.html\">\n日本海海戦</a>　（～05/28／連合艦隊司令長官：<a href=\"../p/theihaci.html\">東郷平八郎</a>）"
+       "html": "1905/05/27　　<a href=\"../1905/05nihon.html\">\n日本海海戦</a>　（～05/28／連合艦隊司令長官：<a href=\"../p/theihaci.html\">東郷平八郎</a>）"
       }
      ]
     },
@@ -182,6 +284,16 @@
       {
        "id": "l",
        "cls": null,
+       "html": "1905/06/01　　<a href=\"../1905/06assen.html\">\n高平駐米公使、Ｔ・ルーズベルト（米）大統領に講和斡旋を要望</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
        "html": "1905/06/09　　<a href=\"../1905/06roosv.html\">\nＴ・ルーズベルト（米）大統領、日露両国に公式に講和を勧告</a>"
       }
      ]
@@ -192,11 +304,15 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1905/06/27　　<a href\"..=\"\" 19.html\"=\"\">\n戦艦ポチョムキンの反乱</a>"
+       "html": "1905/06/27　　<a href=\"../1905/06potem.html\">\n戦艦「ポチョムキン」の反乱</a>"
       }
      ]
     }
    ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
   },
   {
    "type": "raw",
@@ -215,7 +331,37 @@
       {
        "id": "l",
        "cls": null,
+       "html": "1905/07/03　　<a href=\"../1905/07zenke.html\">\n小村寿太郎、高平小五郎を日露講和会議全権に任命</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
        "html": "1905/07/07　　<a href=\"../1905/07karaf.html\">\n第13師団、南樺太上陸</a>　（07/31 樺太占領）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/07/19　　<a href\"..=\"\" 19.html\"=\"\">\n講和問題同志連合結成</a>　（対露同志会など）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/07/21　　<a href=\"../1905/07sisat.html\">\n山県参謀総長、満州軍を視察</a>"
       }
      ]
     },
@@ -245,7 +391,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1905/08/12　　<a href\"..=\"\" 19.html\"=\"\">\n日英同盟②調印</a>"
+       "html": "1905/08/12　　<a href=\"../1905/08je_d2.html\">\n日英同盟②調印</a>"
       }
      ]
     },
@@ -270,6 +416,16 @@
      ]
     },
     {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/08/17　　<a href\"..=\"\" 19.html\"=\"\">\n講和問題同志連合大会、講和条件譲歩反対を決議</a>　（東京・明治座）"
+      }
+     ]
+    },
+    {
      "cls": "s",
      "cells": [
       {
@@ -285,7 +441,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1905/08/20　　<a href\"..=\"\" 19.html\"=\"\">\n孫文ら、中国革命同盟会結成　（東京）</a>"
+       "html": "1905/08/20　　<a href=\"../1905/08c_dom.html\">\n孫文ら、中国同盟会結成</a>　（東京）"
       }
      ]
     },
@@ -295,7 +451,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1905/08/22　　<a href\"..=\"\" 19.html\"=\"\">\nＴ・ルーズベルト（米）大統領、金子特使に金銭的要求の放棄を勧告</a>"
+       "html": "1905/08/22　　<a href=\"../1905/08roose.html\">\nＴ・ルーズベルト（米）大統領、金子特使に金銭的要求の放棄を勧告</a>"
       }
      ]
     },
@@ -325,7 +481,17 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1905/09/05　　<a href=\"../1905/09portm.html\">\nポーツマス条約調印</a>　（首席全権：<a href=\"../p/kjutaro.html\">小村寿太郎</a>／日露戦争終結）"
+       "html": "1905/09/05　　<a href=\"../1905/09portm.html\">\nポーツマス条約調印</a>　（首席全権：<a href=\"../p/kjutaro.html\">小村寿太郎</a>／<a href=\"../them/jr_war.html\">日露戦争</a>終結）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/09/05　　<a href\"..=\"\" 19.html\"=\"\">\n講和反対国民大会開催</a>　（東京・日比谷）"
       }
      ]
     },
@@ -345,7 +511,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1905/09/06　　<a href\"..=\"\" 19.html\"=\"\">\n東京に戒厳令</a>"
+       "html": "1905/09/06　　<a href=\"../1905/09kaige.html\">\n東京に戒厳令</a>"
       }
      ]
     },
@@ -355,11 +521,25 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1905/09/11　　<a href\"..=\"\" 19.html\"=\"\">\n戦艦「三笠」、火災により沈没　（佐世保）</a>"
+       "html": "1905/09/11　　<a href=\"../1905/09mikas.html\">\n戦艦「三笠」、火災により沈没</a>　（佐世保）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/09/27　　<a href\"..=\"\" 19.html\"=\"\">\nノルウェー、スウェーデンから分離独立</a>"
       }
      ]
     }
    ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
   },
   {
    "type": "raw",
@@ -388,6 +568,16 @@
       {
        "id": "l",
        "cls": null,
+       "html": "1905/10/16　　<a href\"..=\"\" 19.html\"=\"\">\nベンガル分割令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
        "html": "1905/10/23　　<a href\"..=\"\" 19.html\"=\"\">\n海軍凱旋式　（東京湾）</a>"
       }
      ]
@@ -398,7 +588,27 @@
       {
        "id": "l",
        "cls": null,
+       "html": "1905/10/28　　<a href\"..=\"\" 19.html\"=\"\">\nロシア領ポーランドでゼネスト、戒厳令施行</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
        "html": "1905/10/30　　<a href\"..=\"\" 19.html\"=\"\">\nロシア皇帝ニコライ２世、議会召集を宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/10/31　　<a href\"..=\"\" 19.html\"=\"\">\nロシア皇帝ニコライ２世、ウィッテを首相に任命</a>"
       }
      ]
     },
@@ -428,7 +638,17 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1905/12/20　　<a href\"..=\"\" 19.html\"=\"\">\n韓国統監府設置　（12/21 伊藤博文を韓国統監に任命）</a>"
+       "html": "1905/11/28　　<a href\"..=\"\" 19.html\"=\"\">\nシン・フェイン党結成</a>　（ダブリン）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/12/20　　<a href\"..=\"\" 19.html\"=\"\">\n韓国統監府設置　（12/21 </a><a href=\"../p/ihirobum.html\">伊藤博文</a>を韓国統監に任命）"
       }
      ]
     },
@@ -439,6 +659,16 @@
        "id": "l",
        "cls": null,
        "html": "1905/12/21　　<a href=\"../1905/katu1_9.html\">\n桂内閣①総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/12/28　　<a href\"..=\"\" 19.html\"=\"\">\n明石大佐帰国</a>"
       }
      ]
     }
@@ -453,8 +683,22 @@
    "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1901/katu1_1.html\">桂内閣①</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">ジンタ　　戦友　　二〇三高地</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「東京パック」　「吾輩は猫である」　「海潮音」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">「アリババと４０人の盗賊」</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">―</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">戦友　　美しき天然</td></tr>\n</tbody>"
   },
   {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
    "type": "fnavi",
-   "html": "<a name=\"f\"></a>\n<a href=\"../index.html\">目次</a>\n ＞ <a href=\"#h\">１９０５年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"#h\">１９０５年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
   }
  ]
 }

@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -57,14 +66,6 @@
     "class": "off"
    },
    "html": "<span class=\"m_r\">エピソード 1</span>調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
   },
   {
    "type": "timeline",
@@ -150,14 +151,6 @@
      ]
     }
    ]
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "timeline",
@@ -358,7 +351,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1933/11/13　　<a href\"..=\"\" 19.html\"=\"\">\n</a><a href=\"../p/skisabur.html\">鈴木喜三郎</a>（政友会総裁）暗殺計画発覚"
+       "html": "1933/11/13　　<a href=\"../1933/11teisi.html\">\n</a><a href=\"../p/skisabur.html\">鈴木喜三郎</a>（政友会総裁）暗殺計画発覚"
       }
      ]
     },
@@ -408,49 +401,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_b\">エピソード</span>\n調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span>鈴木は慶応三年神奈川県に生れ、二十四年東大法科卒業と同時に司法省に入り、\n爾来、ずっと司法畑を歩いてきた官僚である。\nその在官中は政党関係にはあまり色がなかったが、清浦内閣が倒れて下野してからは急に<a href=\"../p/tgiici.html\">田中義一</a>に近づいている。</div>\n<div>「鈴木喜三郎伝」によると、</div>\n<div>「ここに疑問となっていることは、鈴木氏がいつごろから政友会に心をよせるようになったか、\nまたどの時分入党を決意するにいたったかという点である」といい、鈴木は元来政党がきらいで、\n常に政党の悪口をいい、かつて<a href=\"../p/htakasi.html\">原敬</a>から政友会入りをすすめられたときも拒絶していたという。\nそれがどうして政友会に近づいたかといえば、<a href=\"../p/tgiici.html\">田中大将</a>の政友会入りを策した小泉策太郎、<a href=\"../p/ysennosu.html\">横田千之助</a>、<a href=\"../p/hiciro.html\">鳩山一郎</a>、\n<a href=\"../p/mkaku.html\">森恪</a>などに加わって<a href=\"../p/tgiici.html\">田中</a>を支援したあたりから心境の変化を来したのだという。\nこれは<a href=\"../p/kfusanos.html\">久原房之助</a>の見方ということになっている。</div>\n<div><a href=\"../p/kfusanos.html\">久原</a>によれば「<a href=\"../p/tgiici.html\">田中氏</a>は鈴木氏の決意に報うべく、<a href=\"../1927/tanaa_1.html\">田中内閣</a>のとき内相の椅子に氏を迎えたのである。\nこれと共に鈴木氏の胸中に大きい変化がおこり、\n従来政党ぎらいだった氏が政党によって雄志を伸ばそうとするにいたったのだ」とある。（前掲書二百十九ページ）</div>\n<div>のち、鈴木喜三郎が<a href=\"../1927/tanaa_1.html\">田中内閣</a>の内相になってからは、\n治安維持法改正その他の立法をおこなって、左翼運動弾圧に縦横の腕をふるったのは有名だ。\n昔の侠客と名前が同じところから、世間では彼を「腕の喜三郎」とよんだ。</div>\n<div class=\"txr\"><a href=\"../text/ms1syowa.html\">松本清張 「昭和史発掘（１）」</a>\n　Ｐ．９７<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F416710699X%2Fqid%3D1147086156%2Fsr%3D1-2%2Fref%3Dsr_1_2_2\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -458,7 +411,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

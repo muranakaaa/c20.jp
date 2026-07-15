@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p_list.css"
+  "p_list.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -252,6 +261,16 @@
       {
        "id": "ll",
        "cls": null,
+       "html": "<span class=\"p0\">み</span><span class=\"p1\"><a href=\"mmuneki.html\">蓑田　胸喜</a></span><span class=\"p2\">\n熊本県</span><span class=\"p3\">国家主義者、慶大予科講師、原理日本社主宰</span>1946年没"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
        "html": "<span class=\"p0\">み</span><span class=\"p1\"><a href=\"mtatukic.html\">美濃部　達吉</a></span><span class=\"p2\">\n兵庫県</span><span class=\"p3\">憲法学者、東大教授、憲法問題調査会顧問</span>1948年没"
       }
      ]
@@ -319,7 +338,17 @@
       {
        "id": "ll",
        "cls": null,
-       "html": "<span class=\"p0\">む</span><span class=\"p1\"><a href=\"makira.html\">武藤　章</a></span><span class=\"p2\">\n熊本県</span><span class=\"p3\">陸軍省軍務局長、陸軍中将、Ａ級戦犯</span>1948年没"
+       "html": "<span class=\"p0\">む</span><span class=\"p1\"><a href=\"makira.html\">武藤　章</a></span><span class=\"p2\">\n熊本県</span><span class=\"p3\">陸軍軍務局長、陸軍中将、Ａ級戦犯</span>1948年没"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">む</span><span class=\"p1\"><a href=\"mtakaji.html\">村中　孝次</a></span><span class=\"p2\">\n北海道</span><span class=\"p3\">「皇道派」青年将校、陸軍大尉</span>1936年没"
       }
      ]
     }
@@ -423,7 +452,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

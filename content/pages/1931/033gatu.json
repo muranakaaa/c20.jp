@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1931.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1931.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -33,7 +42,7 @@
   {
    "type": "headline",
    "cells": [
-    "テロの次はこれか。　桜会のクーデターは未遂に終わったが、要人の心胆を寒からしめた。"
+    "<a href=\"../1930/11hamax.html\">テロ</a>の次はこれか。　陸軍のクーデターは未遂に終わったが、要人の心胆を寒からしめた。"
    ]
   },
   {
@@ -113,7 +122,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1931/03/17　　<a 1931=\"\" href\"..=\"\" 033gatu.html\"=\"\">\n三月事件</a>　（桜会によるクーデター未遂）"
+       "html": "1931/03/17　　<a 1931=\"\" href\"..=\"\" 033gatu.html\"=\"\">\n三月事件</a>　（陸軍によるクーデター未遂）"
       }
      ]
     },
@@ -166,6 +175,16 @@
        "html": "1931/10/17　　<a href=\"../1931/1010gat.html\">\n十月事件</a>　（桜会によるクーデター未遂）"
       }
      ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/07/11　　<a href=\"../1935/07ikens.html\">\n「粛軍に関する意見書」配布</a>"
+      }
+     ]
     }
    ]
   },
@@ -173,25 +192,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "pt"
    },
-   "html": "\n<div class=\"pt_h\">～　首謀者たち（桜会の<a href=\"../p/hkingoro.html\">橋本欣五郎</a>ら陸軍有志＋<a href=\"../p/osyumei.html\">大川周明</a>）の計画　～</div>\n<div class=\"c\">徳川義親が20万円の資金提供 ／ ３月19日決行 ／ 宇垣内閣と国家改造の実現 </div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+   "html": "\n<div class=\"pt_h\">～　首謀者たち（<a href=\"../p/ukazusig.html\">宇垣</a>派＋<a href=\"../p/hkingoro.html\">橋本欣五郎</a>ら桜会＋<a href=\"../p/osyumei.html\">大川周明</a>）の計画　～</div>\n<div class=\"c\">徳川義親が20万円の資金提供 ／ ３月19日決行 ／ 宇垣内閣と国家改造の実現 </div>\n"
   },
   {
    "type": "raw",
@@ -205,17 +208,33 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "<span class=\"m_y\">語録</span>\nいわゆる三月事件は、闇から闇に葬られて現実の問題にならなかったが、\n消息通の間には大きな衝撃をあたえた事件であって、\nいわゆる軍の推進力が国内改革をめざして動き出した第一歩であり、その後もっとも我が国を悩まし、\nついに今日のこの悲惨な状態にまでもち来らしめたる下剋上の顕著なるあらわれであるという意味において、\nもっとも注目すべき事件である。\n<div class=\"r\"><a href=\"../p/kkoici.html\">木戸幸一</a>　（内大臣）</div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>あけて六年、【中略】　「三月事件」がひそかに進行しつつあった。\n陸軍の<a href=\"../p/hkingoro.html\">橋本欣五郎中佐</a>、根本博中佐たち「桜会」が、右翼の<a href=\"../p/osyumei.html\">大川周明</a>、国家社会主義者の赤松克麿などと組んで、\nクーデターを計画した事件がこれである。\n三月下旬に陸軍将校と右翼とで議会を包囲し、議場に入って内閣の総辞職を求め、\n陸軍大将<a href=\"../p/ukazusig.html\">宇垣一成</a>を首相とする軍部政権をつくるというのがそのねらいであった。</div>\n<div>当初これには<a href=\"../p/kkuniaki.html\">小磯国昭軍務局長</a>（のち首相）、二宮治重参謀次長、建川美次第二部長（のちソ連大使）なども参画していた。\nことが事前にあらわれたために、この計画は潰え去ったものの、陸軍自体は計画の参画者を不問のままに放置した。\nこれがさらに、あとあと幾つかのテロ計画を助長することになる。</div>\n<div class=\"txr\"><a href=\"../text/ti_yosid.html\">戸川猪佐武 「小説 吉田茂」</a>\n　Ｐ．３４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%25B0%258F%25E8%25AA%25AC%25E5%2590%2589%25E7%2594%25B0%25E8%258C%2582%2520%2520%2520%2520%25E8%25A7%2592%25E5%25B7%259D%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/ukazusig.html\">宇垣</a>の変心について、司法省刑事局の「思想研究資料」（特輯五十三号、昭和十四年）は\n次のように記録している。</div>\n<div>「<a href=\"../p/ukazusig.html\">宇垣陸相</a>は始め<a href=\"../p/osyumei.html\">大川</a>に対して天下の形勢を論じ、一生一度の御奉公がしたい旨の事を言い、\n政党の腐敗から国民が自暴自棄になって行くから、この際起とうと思う、\n君もその時は一緒に死んでくれ、と言って改造運動に乗り出す意志をほのめかし、\n<a href=\"../p/kkuniaki.html\">小磯</a>、建川等にも同様の意志を示しながら、その後、政界の有力なる方面から\n<a href=\"../p/ukazusig.html\">宇垣陸相</a>を首班とする内閣樹立の政治的陰謀が持ちかけられ、これによって憂国の至情よりする改造運動より変心し、\n政権獲得の後に改造を図る考えとなって、<a href=\"../p/kkuniaki.html\">小磯</a>、建川との接触を避け、計画より脱退したといわれる」</div>\n<div><a href=\"../p/ukazusig.html\">宇垣</a>のこの行為は、伝統の軍人精神から見れば、唾棄すべき、邪な野望ということになるだろう。\nだが、国家のために、自ら政治のトップに立ち、その構想と手腕を発揮しようとする<a href=\"../p/ukazusig.html\">宇垣</a>の凄まじさは、\n我欲のエネルギーとはいえ、一個の人間として評価できる。</div>\n<div>そのエネルギーが中途で消失してしまったのは、知性派<a href=\"../p/ukazusig.html\">宇垣一成</a>の弱点であり限界といえるが、\nそれは同時に天皇制の下の政治軍人の限界でもある。</div>\n<div class=\"txr\"><a href=\"../text/mk_gunji.html\">升本喜年 「軍人の最期」</a>\n　Ｐ．１２６<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25BB%258D%25E4%25BA%25BA%25E3%2581%25AE%25E6%259C%2580%25E6%259C%259F%25E2%2580%2595%25E6%2594%25BF%25E6%25B2%25BB%25E7%259A%2584%25E5%25B0%2586%25E8%25BB%258D%25E3%2581%25AE%25E7%2594%259F%25E3%2581%258D%25E3%2581%2596%25E3%2581%25BE%25E3%2581%25A8%25E3%2581%259D%25E3%2581%25AE%25E6%25AD%25BB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>昭和六年の三月事件といわれるクーデター未遂事件が\nこの桜会の最初の行動であった。\n<a href=\"../p/osyumei.html\">大川周明</a>らがデモ等で議会を混乱に陥れ、それをきっかけに軍部の力で戒厳令をしき、\n<a href=\"../1929/hama_1.html\">浜口内閣</a>を倒して軍政府として陸軍大臣であった<a href=\"../p/ukazusig.html\">宇垣一成</a>の内閣を樹立するという計画であった。\n<a href=\"../p/ukazusig.html\">宇垣</a>が関与していたのか、仮に関与していたとしてどの程度であったのか、当時から疑問とされていたが、\n今日もなおはっきりとした結論が得られていない。\nとにかく三月初旬にこの計画の実行予定を聞いた<a href=\"../p/ukazusig.html\">宇垣</a>が桜会に同調的な軍上層部を通じてその中止を命じ、\n<a href=\"../p/osyumei.html\">大川</a>、橋本らも中止するに至った。\n軍上層部も関与したこの事件は闇に葬られたが、<a href=\"../p/hkingoro.html\">橋本</a>や<a href=\"../p/osyumei.html\">大川</a>ら急進分子は初志をすてず、\nあらたな計画の準備にとりかかったのであった。</div>\n<div class=\"txr\"><a href=\"../text/it_konoe.html\">伊藤隆 「近衛新体制」</a>\n　Ｐ．４０<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25BF%2591%25E8%25A1%259B%25E6%2596%25B0%25E4%25BD%2593%25E5%2588%25B6%25E2%2580%2595%25E5%25A4%25A7%25E6%2594%25BF%25E7%25BF%25BC%25E8%25B3%259B%25E4%25BC%259A%25E3%2581%25B8%25E3%2581%25AE%25E9%2581%2593%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -223,7 +242,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

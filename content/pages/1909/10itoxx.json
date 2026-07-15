@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1909.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1909.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -153,7 +162,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1909/11/04　　<a href\"..=\"\" 19.html\"=\"\">\n伊藤博文国葬</a>"
+       "html": "1909/11/04　　<a href=\"../1909/11itoko.html\">\n伊藤博文国葬</a>"
       }
      ]
     },
@@ -193,25 +202,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "pt"
    },
    "html": "\n<div class=\"pt_h\">～　<a href=\"../p/anjukon.html\">安重根</a>の動機　～</div>\n<div class=\"c\">「祖国の独立と東洋和平」のため、<a href=\"../1905/11jk_k2.html\">「乙巳保護条約」締結</a>を強制した<a href=\"../p/ihirobum.html\">伊藤</a>を暗殺</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -225,9 +218,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>七月六日、<a href=\"../p/ktaro.html\">桂</a>は韓国の併合案を閣議にはかり、その決定により参内して<a href=\"../p/mtenno.html\">天皇</a>の裁可を得た。</div>\n<div>韓国内の反日感情は激しく、不穏な空気が各地にひろがっていた。</div>\n<div>十月二十六日、<a href=\"../p/ihirobum.html\">伊藤</a>はハルピンにおもむいて車中でロシア蔵相ココフツェフと車中会談後、\n駅頭で各国領事と握手をかわし歓談した。\nその折、一人の男が走り寄り、突然、短銃を発射した。\n加害者は、統監をはじめ日韓協約に調印した韓国大臣の暗殺を同志と誓い合っていた韓国人<a href=\"../p/anjukon.html\">安重根</a>で、\nかれの発射した三発の弾丸は、第一弾が<a href=\"../p/ihirobum.html\">伊藤</a>の肺臓、第二弾が胸腹、第三弾が上腹部に命中した。</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>は車中に運びこまれ応急手当をうけたが、第一弾が致命傷となり三十分後に絶命した。六十九歳であった。\n<a href=\"../p/anjukon.html\">安</a>は、ロシア官憲に捕えられて日本側に引き渡され、翌年六月、旅順で処刑された。</div>\n<div class=\"txr\"><a href=\"../text/ya_portm.html\">吉村昭 「ポーツマスの旗」</a>\n　Ｐ．３５１<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2584%25E3%2583%259E%25E3%2582%25B9%25E3%2581%25AE%25E6%2597%2597%2520%2520%2520%2520%25E6%2596%25B0%25E6%25BD%25AE%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -235,7 +228,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>七月六日、<a href=\"../p/ktaro.html\">桂</a>は韓国の併合案を閣議にはかり、その決定により参内して<a href=\"../p/mtenno.html\">天皇</a>の裁可を得た。</div>\n<div>韓国内の反日感情は激しく、不穏な空気が各地にひろがっていた。</div>\n<div>十月二十六日、<a href=\"../p/ihirobum.html\">伊藤</a>はハルピンにおもむいて車中でロシア蔵相ココフツェフと車中会談後、\n駅頭で各国領事と握手をかわし歓談した。\nその折、一人の男が走り寄り、突然、短銃を発射した。\n加害者は、統監をはじめ日韓協約に調印した韓国大臣の暗殺を同志と誓い合っていた韓国人<a href=\"../p/anjukon.html\">安重根</a>で、\nかれの発射した三発の弾丸は、第一弾が<a href=\"../p/ihirobum.html\">伊藤</a>の肺臓、第二弾が胸腹、第三弾が上腹部に命中した。</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>は車中に運びこまれ応急手当をうけたが、第一弾が致命傷となり三十分後に絶命した。六十九歳であった。\n安は、ロシア官憲に捕えられて日本側に引き渡され、翌年六月、旅順で処刑された。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ya_portm.html\">吉村昭 「ポーツマスの旗」</a>\n　Ｐ．３５１</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/ihirobum.html\">伊藤</a>は四十二年十月十六日満州開発の可能性視察の為、大磯の自宅を出て下関に向い、\n鉄嶺丸で大連に向った。</div>\n<div>同月二十五日、北上し、ロシア蔵相ココウツォフと東清鉄道等に関し協議する為、\n二十六日午前九時ハルピン駅に着き出迎えたココウツォフと車内で二十分間懇談した後、プラットホームに降り、\n川上領事の先導で、露清両国軍隊、各国外交団、露清文武大官、日本人歓迎団体が整列している中を進み、\n用意された馬車の方に進もうとしたところ突然とび出して来た男の為に狙撃され、\n腹部に三発の弾丸をうけて中村（是公）満鉄総裁の腕の中に倒れかかった。\n直ちに車内にかつぎこんで手当をしたが、間もなく意識不明となり午前十時死亡した。\n犯人は<a href=\"../p/anjukon.html\">安重根</a>という朝鮮人の独立党員で彼は旅順の日本法廷で裁判にかけられ次の十五ヶ条を<a href=\"../p/ihirobum.html\">伊藤博文</a>暗殺の理由としてあげ、\n翌四十三年三月二十六日、同地で死刑に処せられた。</div>\n<div>一、朝鮮王妃の殺害、二、韓国保護条約五ヶ条、三、日韓新協約七ヶ条、四、韓国皇帝の廃立、五、陸軍の解散、\n六、良民殺戮、七、利権剥奪、八、教科書廃棄、九、新聞購読禁止、十、銀行券の発行、十一、三百万円国債の募集、\n十二、東洋平和の攪乱、十三、保護政策の名実伴わざること、十四、日本先帝孝明天皇を殺害したること、\n十五、日本及び世界を瞞着したること。</div>\n<div>いずれも日本の植民地主義者にとって耳の痛いことであるが、\n孝明天皇（慶応二年十二月二十五日没）の死まで<a href=\"../p/ihirobum.html\">伊藤</a>の責任とするのはいかがなものであろうか。</div>\n<div class=\"txr\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．４０２<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E5%259C%2592%25E5%25AF%25BA%25E5%2585%25AC%25E6%259C%259B%25E2%2580%2595%25E6%259C%2580%25E5%25BE%258C%25E3%2581%25AE%25E5%2585%2583%25E8%2580%2581%2520%2528%25E4%25B8%258A%25E5%25B7%25BB%2529%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -243,7 +236,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

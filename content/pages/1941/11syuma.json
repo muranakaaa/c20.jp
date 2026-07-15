@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1941.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1941.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -223,25 +232,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "pt"
    },
    "html": "\n<div class=\"pt_h\">～　日本の終戦プラン　～</div>\n<div class=\"c\">ドイツがイギリスを降伏させる → アメリカ国民が戦意を失う → 枢軸国の勝利</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -255,9 +248,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\n戦争は、始めるよりも終わらせる方がずっとむずかしい。\nそれは、けんかの経験などから子供にでもわかることだろう。\n国力10倍の大きな国を相手に戦争を始めようというとき、\n国には戦争終結プランがなければならぬと思うのだが、あのときの日本はどうだったのだろうか。\n実はこの「対米英蘭戦争終末促進に関する腹案」がその唯一のもの。\nしかも、この文書は開戦決定のわずか半月前に作成された。\nこの事実を知ったとき、taroは背筋には冷たいものが走った。\nちなみに、この「対米英蘭戦争終末促進に関する腹案」で頼みとしたドイツがモスクワ攻略を断念したのは12月８日、\nつまり、時差はあるが<a href=\"../1941/12hawai.html\">日米開戦</a>当日の出来事だ。\n開戦と同時に唯一の戦争終結プランが崩壊。ああ。\n"
   },
   {
    "type": "raw",
@@ -265,7 +258,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<span class=\"m_v\">taro's トーク</span>\n戦争は、始めるよりも終わらせる方がずっとむずかしい。\nそれは、けんかの経験などから子供にでもわかることだろう。\n国力10倍の大きな国を相手に戦争を始めようというとき、\n国には戦争終結プランがなければならぬと思うのだが、あのときの日本はどうだったのだろうか。\n実はこの「対米英蘭戦争終末促進に関する腹案」がその唯一のもの。\nしかも、この文書は開戦決定のわずか半月前に作成された。\nこの事実を知ったとき、taroは背筋には冷たいものが走った。\nちなみに、この「対米英蘭戦争終末促進に関する腹案」で頼みとしたドイツがモスクワ攻略を断念したのは12月８日、\nつまり、時差はあるが日米開戦当日の出来事だ。\n開戦と同時に唯一の戦争終結プランが崩壊。ああ。\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>十一月十五日、連絡会議は「対米英蘭戦争終末促進ニ関スル腹案」を決定した。\nここに並ぶ字句には、不確かな世界に逃げこんだ指導者の曖昧な姿勢が露骨にあらわれていた。\n二つの方針と七つの要領があり、方針には、極東の米英蘭の根拠を覆滅して自存自衛を確立するとともに、\n蒋介石政権の屈服を促進し、ドイツ、イタリアと提携してイギリスの屈服をはかる、\nそのうえでアメリカの継戦意思を喪失せしむるとあった。\nこの方針を補完するために、七つの要領が書き加えられていた。\nそこにはイギリスの軍事力を過小評価し、ドイツに全幅の信頼を置き、アメリカ国民の抗戦意欲を軽視し、\n中国の抗日運動は政戦略の手段をもって屈服を促すという、根拠のない字句の羅列があった。\n願望と期待だけが現実の政策の根拠となっていたのである。</div>\n<div class=\"txr\"><a href=\"../text/hm1tojoh.html\">保阪正康 「東條英機と天皇の時代（上）」</a>\n　Ｐ．３０８<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%259D%25B1%25E6%25A2%259D%25E8%258B%25B1%25E6%25A9%259F%25E3%2581%25A8%25E5%25A4%25A9%25E7%259A%2587%25E3%2581%25AE%25E6%2599%2582%25E4%25BB%25A3\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -273,7 +266,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1938.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1938.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -233,25 +242,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -265,9 +258,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>一九三八年二月十二日、<a href=\"../p/hitler_a.html\">ヒットラー</a>はオーストリア首相<a href=\"../p/schusc_k.html\">クルト・フォン・シュシュニック</a>を、\nバイエルンのベルヒテスガーデンにある山荘によびよせ、長時間にわたって毒説をぶった。\n<a href=\"../p/schusc_k.html\">シュシュニック</a>が第二次世界大戦後の一九四七年に公刊した著書『オーストリア鎮魂曲』の中から、当時の模様を拾ってみよう。\n<a href=\"../p/hitler_a.html\">ヒットラー</a>はいう。</div>\n<div>わたしはただ命令を下すだけのことだ。そしてたった一晩で、貴下の滑稽な防衛機構全体がこなごなに砕かれてしまうのだ。\n貴下は、三十分間わたしを停止させるとか、または遅延させることができるなどと、真剣に信じますまいね。\n地上の何ひとつとして、わたしの決定を妨げているものがあるなどと、金輪際考えてはならない。\nイタリアはどうだって？　わたしは<a href=\"../p/mussol_b.html\">ムッソリーニ</a>とは目と目を合わす仲だ。\n・・・・・・そして、イギリスはどうだって？　イギリスはオーストリアのために一指も動かさないだろう。\n・・・・・・そしてフランスはどうだって？　そうだ、三年まえ、われわれはひとにぎりの部隊でラインラントに行進したが、\nそのときは、わたしが万事につけ冒険をやっていたときだった。\n当時もしフランスがわれわれを制止したら、われわれは退却したことだろう。\n・・・・・・しかし、いまはもうフランスはおそすぎるのだ。</div>\n<div class=\"txr\"><a href=\"../text/ia_gaise.html\">今津晃 「概説現代史」</a>\n　Ｐ．１９３<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%25A6%2582%25E8%25AA%25AC%25E7%258F%25BE%25E4%25BB%25A3%25E5%258F%25B2%2520%2520%2520%2520%25E5%2589%25B5%25E5%2585%2583%25E9%2581%25B8%25E6%259B%25B8\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -275,7 +268,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>一九三八年二月十二日、<a href=\"../p/hitler_a.html\">ヒットラー</a>はオーストリア首相<a href=\"../p/schusc_k.html\">クルト・フォン・シュシュニック</a>を、\nバイエルンのベルヒテスガーデンにある山荘によびよせ、長時間にわたって毒説をぶった。\n<a href=\"../p/schusc_k.html\">シュシュニック</a>が第二次世界大戦後の一九四七年に公刊した著書『オーストリア鎮魂曲』の中から、当時の模様を拾ってみよう。\n<a href=\"../p/hitler_a.html\">ヒットラー</a>はいう。</div>\n<div>わたしはただ命令を下すだけのことだ。そしてたった一晩で、貴下の滑稽な防衛機構全体がこなごなに砕かれてしまうのだ。\n貴下は、三十分間わたしを停止させるとか、または遅延させることができるなどと、真剣に信じますまいね。\n地上の何ひとつとして、わたしの決定を妨げているものがあるなどと、金輪際考えてはならない。\nイタリアはどうだって？　わたしは<a href=\"../p/mussol_b.html\">ムッソリーニ</a>とは目と目を合わす仲だ。\n・・・・・・そして、イギリスはどうだって？　イギリスはオーストリアのために一指も動かさないだろう。\n・・・・・・そしてフランスはどうだって？　そうだ、三年まえ、われわれはひとにぎりの部隊でラインラントに行進したが、\nそのときは、わたしが万事につけ冒険をやっていたときだった。\n当時もしフランスがわれわれを制止したら、われわれは退却したことだろう。\n・・・・・・しかし、いまはもうフランスはおそすぎるのだ。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ia_gaise.html\">今津晃 「概説現代史」</a>\n　Ｐ．１９３</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/hitler_a.html\">ヒトラー</a>は、一九三六年夏にオーストリアと協定をむすんで以来、\nこれを手だてとしてこの国への圧力をつよめていた。\nこれに対し、オーストリア首相の<a href=\"../p/schusc_k.html\">シューシュニク</a>は、できるだけ回避的な態度をとっていたが、\n一九三八年はじめになると、両国間の緊張は、もはやそうしたやりかたを許さぬほど高まった。\nそこで二月十二日に、<a href=\"../p/schusc_k.html\">シューシュニク</a>はみずから南ドイツのベルヒテスガーデンの山荘に<a href=\"../p/hitler_a.html\">ヒトラー</a>をたずね、\nなんとか彼とのあいだに諒解をとりつけようとする。</div>\n<div>しかし、これは逆効果だった。\n<a href=\"../p/hitler_a.html\">ヒトラー</a>の威嚇のまえに、<a href=\"../p/schusc_k.html\">シューシュニク</a>は、ベルヒテスガーデンでかえって重大な譲歩をさせられてしまった。\nすなわち、オーストリア・ナチスの指導者ザイス=インクヴァルトをただちにオーストリア政府の内相に任命することや、\nオーストリア・ナチスを合法化し、とらえられているすべてのナチス党員を釈放することなどを約束させられたのだ。</div>\n<div>こうして、オーストリアの独立は、風前のともしびとなった。\nしかし、<a href=\"../p/schusc_k.html\">シューシュニク</a>は最後の努力をあきらめない。\n三月九日、彼はつぎのような計画を発表した。\nすなわち、きたる十三日にオーストリアの独立を支持するかどうかを、国民投票にかけて問おうというのである。\nこれは、あきらかに<a href=\"../p/hitler_a.html\">ヒトラー</a>の合邦政策に対する<a href=\"../p/schusc_k.html\">シューシュニク</a>の挑戦であった。</div>\n<div>この報をうけとった<a href=\"../p/hitler_a.html\">ヒトラー</a>が激怒したことは、いうまでもなかろう。\n彼は、国防軍にむかってオーストリア進駐の準備を命令した。\nそしてオーストリア政府に対しては、最後通牒のかたちで国民投票の延期をもとめ、\nさらに<a href=\"../p/schusc_k.html\">シューシュニク</a>にかえてザイス=インクヴァルトを首相に任命することを要求した。</div>\n<div>いったんは抵抗の姿勢をしめしたオーストリア政府であったが、\nこのような<a href=\"../p/hitler_a.html\">ヒトラー</a>の強硬な態度に直面しては、もはや戦うすべを知らない。\nついに十一日の夜半にいたって、オーストリア大統領のミクラスは、ザイス=インクヴァルトを首相に任命した。\nそして翌十二日早暁、ドイツ軍隊は、この新首相の要請によると称して、オーストリア領土に無血のうちに進駐したのである。</div>\n<div class=\"txr\"><a href=\"../text/nn2hitle.html\">野田宣雄 「ヒトラーの時代（下）」</a>\n　Ｐ．１６<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E3%2583%2592%25E3%2583%2588%25E3%2583%25A9%25E3%2583%25BC%25E3%2581%25AE%25E6%2599%2582%25E4%25BB%25A3%2520%25E4%25B8%258B%25E3%2580%2580%2520%25E8%25AC%259B%25E8%25AB%2587%25E7%25A4%25BE%25E5%25AD%25A6%25E8%25A1%2593%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -283,7 +276,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

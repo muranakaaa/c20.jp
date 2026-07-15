@@ -1,11 +1,12 @@
 {
  "path": "1937/07rokok.html",
  "type": "article",
- "title": "盧溝橋事件　／ クリック ２０世紀",
+ "title": "盧溝橋事件　（日中戦争勃発）　／ クリック ２０世紀",
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,12 +16,20 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1937.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1937.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
-   "html": "盧溝橋事件"
+   "html": "盧溝橋事件　（日中戦争勃発）"
   },
   {
    "type": "title2",
@@ -74,6 +83,36 @@
        "id": "l",
        "cls": null,
        "html": "1933/05/31　　<a href=\"../1933/05tanku.html\">\n塘沽停戦協定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/11/25　　<a href=\"../1935/11kitob.html\">\n冀東防共自治委員会成立</a>　（主席：殷汝耕／12/25 冀東防共自治政府と改称）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/12/09　　<a href=\"../1935/12129un.html\">\n一二・九運動</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/12/12　　<a href=\"../1936/12sianj.html\">\n西安事件</a>　（<a href=\"../p/cyogakur.html\">張学良</a>・楊虎城、<a href=\"../p/syokaise.html\">蒋介石</a>を監禁）"
       }
      ]
     },
@@ -243,26 +282,6 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1938/05/12　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ、満州国を承認</a>"
-      }
-     ]
-    },
-    {
-     "cls": "b",
-     "cells": [
-      {
-       "id": "l",
-       "cls": null,
-       "html": "1938/07/30　　<a href=\"../1938/07cyoko.html\">\n張鼓峰事件</a>　（第19師団独断でソ連軍と戦闘）"
-      }
-     ]
-    },
-    {
-     "cls": "n",
-     "cells": [
-      {
-       "id": "l",
-       "cls": null,
        "html": "1938/10/27　　<a href\"..=\"\" 19.html\"=\"\">\n日本軍、武漢占領</a>"
       }
      ]
@@ -284,16 +303,6 @@
        "id": "l",
        "cls": null,
        "html": "1938/12/22　　<a href=\"../1938/12kono3.html\">\n近衛声明③　（近衛三原則）</a>"
-      }
-     ]
-    },
-    {
-     "cls": "b",
-     "cells": [
-      {
-       "id": "l",
-       "cls": null,
-       "html": "1939/05/12　　<a href=\"../1939/05nomon.html\">\nノモンハン事件</a>　（第23師団独断でソ連軍と戦闘）"
       }
      ]
     },
@@ -333,49 +342,11 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1940/09/27　　<a href=\"../1940/09jdi_d.html\">\n日独伊三国軍事同盟調印</a>"
-      }
-     ]
-    },
-    {
-     "cls": "b",
-     "cells": [
-      {
-       "id": "l",
-       "cls": null,
-       "html": "1941/04/13　　<a href=\"../1941/04js_cy.html\">\n日ソ中立条約調印</a>"
-      }
-     ]
-    },
-    {
-     "cls": "b",
-     "cells": [
-      {
-       "id": "l",
-       "cls": null,
-       "html": "1941/04/16　　<a href=\"../1941/04ja_ko.html\">\n日米交渉開始</a>"
-      }
-     ]
-    },
-    {
-     "cls": "b",
-     "cells": [
-      {
-       "id": "l",
-       "cls": null,
        "html": "1941/12/08　　<a href=\"../1941/12hawai.html\">\nハワイ奇襲攻撃</a>　（AM03：25／太平洋戦争勃発）"
       }
      ]
     }
    ]
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
   },
   {
    "type": "raw",
@@ -389,14 +360,6 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx_sw"
    },
    "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
@@ -405,17 +368,17 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>三七年二月、国民党中央委員会総会（五期三中全会）は、\n<a href=\"../p/ocyomei.html\">汪精衛</a>ら親日派の抵抗を押しきり、実質的に抗日民主の中共側提案を容れ、\n中国共産党は土地革命を停止し、ソヴェト政府を特区政府、労農紅軍を国民革命軍と改称し、\nそれぞれ国民政府および国民党軍事委員会の指導下におくことを約束した。\n国共両党の再接近を軸に、抗日運動は全国的にさらに盛りあがった。</div>\n<div>この動きに日本は焦った。\nそれまでの高圧的姿勢を再検討し、経済提携を前面に押し出して国民政府を懐柔し、\n国・共間にくさびを打ちこもうという「微笑外交」の試みもあったが、\n抗日体制の整う前に先制の一撃を加えようという主張の方が、軍部を中心に優勢であった。\nそして一九三七年七月七日夜、「支那」駐屯軍は、北京郊外の盧溝橋で夜間演習中の日本軍に中国側から発砲があった、\nという口実で中国軍に攻撃をしかけ、全面的な中国侵略戦争の幕を切って落したのである。\n<a href=\"../1931/09ryujo.html\">「満州」事変</a>にはじまった日中戦争は新しい段階に突入した。</div>\n<div>だが、それが泥沼のような大戦争に発展しようとは、\n日本政府・軍部・財界のだれも予想していなかった。\n<a href=\"../p/shajime.html\">陸軍大臣</a>は<a href=\"../p/stenno.html\">天皇</a>に「二ヵ月ぐらいで片付く」と見通しを報告した。\nかれらはこれまでの経験から、軍事的一撃さえ加えれば国民政府はすぐに屈服するだろう、\nと信じていたのである。</div>\n<div class=\"txr\"><a href=\"../text/os_jinmi.html\">小野信爾 「人民中国への道」</a>\n　Ｐ．１５９<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E4%25BA%25BA%25E6%25B0%2591%25E4%25B8%25AD%25E5%259B%25BD%25E3%2581%25B8%25E3%2581%25AE%25E9%2581%2593%2520%2520%2520%2520%25E8%25AC%259B%25E8%25AB%2587%25E7%25A4%25BE%25E7%258F%25BE%25E4%25BB%25A3%25E6%2596%25B0%25E6%259B%25B8%2520455%2520%25E6%2596%25B0%25E6%259B%25B8%25E6%259D%25B1%25E6%25B4%258B%25E5%258F%25B2%25205%2520%25E4%25B8%25AD%25E5%259B%25BD%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2%25205\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>野上弥生子はすでに一九三七年九月の日記に次のように書いている。\n「戦争はますます規模と深刻さを増していった。・・・・・・もっとも不快なのは新聞紙にあらはれた日本人の独りよがりと\n相手を馬鹿にしきった態度である。\n読んでいるとなんと野卑の田舎者かと云ふかんじで恥かしくなる。\nしかしこんな厚かましい口が云へる人間でなければ戦なんぞ始められないだろう」。</div>\n<div class=\"txr\"><a href=\"../text/kh_20sek.html\">木村英亮 「二〇世紀の世界史」</a>\n　Ｐ．１２３<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=20%25E4%25B8%2596%25E7%25B4%2580%25E3%2581%25AE%25E4%25B8%2596%25E7%2595%258C%25E5%258F%25B2%25E2%2580%2595%25E6%25B0%2591%25E6%2597%258F%25E8%25A7%25A3%25E6%2594%25BE%25E9%2581%258B%25E5%258B%2595%25E3%2581%25A8%25E7%25A4%25BE%25E4%25BC%259A%25E4%25B8%25BB%25E7%25BE%25A9\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -423,11 +386,17 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",
-   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1937.html\">１９３７年</a>\n ＞ <a href=\"#h\">盧溝橋事件</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1937.html\">１９３７年</a>\n ＞ <a href=\"#h\">盧溝橋事件　（日中戦争勃発）</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
   }
  ]
 }

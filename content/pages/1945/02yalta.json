@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1945.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1945.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -213,25 +222,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -245,9 +238,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>二月二日</div>\n<div>マルタ島の米大統領<a href=\"../p/roosev_f.html\">Ｆ・ルーズベルト</a>は、相次ぐ訪問者と会議がつづく過密な日程に身をひたしていたが、\n会う者の多くに不安感を与えていた。</div>\n<div>大統領<a href=\"../p/roosev_f.html\">ルーズベルト</a>は、朝食後、乗艦・巡洋艦「クインシー」の上甲板に出て地中海の暖かい陽差しをあびていた。</div>\n<div>午前十時二十分、国務長官Ｅ・ステチニアス、駐ソ大使Ｗ・ハリマン、大統領顧問Ｈ・ホプキンスが訪れた。</div>\n<div>国務長官ステチニアスは、大統領は元気そうに見えた、と記述するが、駐ソ大使ハリマンは別の印象を記録している。</div>\n<div>「昨年の選挙のころから、大統領の健康が衰えているとの噂は耳にしていたが、久しぶり会う大統領は、\nひどく衰弱した病人としか思えなかった」</div>\n<div>大使ハリマンは、大統領主治医Ｒ・マッキンタイヤー海軍少将に大統領の「病状」を質問したが、少将は「心配無用」だと一蹴し、\nむしろ顧問ホプキンスに「精密診断」を勧告した。</div>\n<div>【中略】</div>\n<div>実際には、顧問ホプキンスも重病人ではあったが、【中略】　大統領<a href=\"../p/roosev_f.html\">ルーズベルト</a>よりも約九ヵ月長生きする・・・・・・。</div>\n<div>【中略】</div>\n<div>キング元帥は、上甲板でひなたぼっこする大統領に会った第一印象を、次のように記述している。</div>\n<div>「私と<a href=\"../p/marsha_g.html\">マーシャル</a>は、ワシントン出発前に会見したときとは別人のような大統領の姿に衝撃をうけた。\n明らかに重病人である」</div>\n<div class=\"txr\"><a href=\"../text/kn8hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（８）」</a>\n　Ｐ．４３８<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167141434%2Fqid%3D1147087760%2Fsr%3D1-22%2Fref%3Dsr_1_2_22\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -255,23 +248,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>二月二日</div>\n<div>マルタ島の米大統領<a href=\"../p/roosev_f.html\">Ｆ・ルーズベルト</a>は、相次ぐ訪問者と会議がつづく過密な日程に身をひたしていたが、\n会う者の多くに不安感を与えていた。</div>\n<div>大統領<a href=\"../p/roosev_f.html\">ルーズベルト</a>は、朝食後、乗艦・巡洋艦「クインシー」の上甲板に出て地中海の暖かい陽差しをあびていた。</div>\n<div>午前十時二十分、国務長官Ｅ・ステチニアス、駐ソ大使Ｗ・ハリマン、大統領顧問Ｈ・ホプキンスが訪れた。</div>\n<div>国務長官ステチニアスは、大統領は元気そうに見えた、と記述するが、駐ソ大使ハリマンは別の印象を記録している。</div>\n<div>「昨年の選挙のころから、大統領の健康が衰えているとの噂は耳にしていたが、久しぶり会う大統領は、\nひどく衰弱した病人としか思えなかった」</div>\n<div>大使ハリマンは、大統領主治医Ｒ・マッキンタイヤー海軍少将に大統領の「病状」を質問したが、少将は「心配無用」だと一蹴し、\nむしろ顧問ホプキンスに「精密診断」を勧告した。</div>\n<div>【中略】</div>\n<div>実際には、顧問ホプキンスも重病人ではあったが、【中略】　大統領<a href=\"../p/roosev_f.html\">ルーズベルト</a>よりも約九ヵ月長生きする・・・・・・。</div>\n<div>【中略】</div>\n<div>キング元帥は、上甲板でひなたぼっこする大統領に会った第一印象を、次のように記述している。</div>\n<div>「私と<a href=\"../p/marsha_g.html\">マーシャル</a>は、ワシントン出発前に会見したときとは別人のような大統領の姿に衝撃をうけた。\n明らかに重病人である」</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kn8hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（８）」</a>\n　Ｐ．４３８</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "tx"
-   },
-   "html": "\n<div>「二人の会談は、まさしく地球を掌中でこねまわしている感じであった。\n驕慢さよりは、気楽さが感得された」</div>\n<div>とは、大使ハリマンの感想である。</div>\n<div>戦争は惨禍をもたらす。\nだが、一時の戦火とは別に、直接に関係のない力で民族の命運と将来が作図される恐ろしさも戦争の産物だ\n<span class=\"bar\">―</span>―との含意がうかがえる。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kn9hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（９）」</a>\n　Ｐ．６３</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>「二人の会談は、まさしく地球を掌中でこねまわしている感じであった。\n驕慢さよりは、気楽さが感得された」</div>\n<div>とは、大使ハリマンの感想である。</div>\n<div>戦争は惨禍をもたらす。\nだが、一時の戦火とは別に、直接に関係のない力で民族の命運と将来が作図される恐ろしさも戦争の産物だ\n<span class=\"bar\">―</span>―との含意がうかがえる。</div>\n<div class=\"txr\"><a href=\"../text/kn9hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（９）」</a>\n　Ｐ．６３<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167141442%2Fqid%3D1147087760%2Fsr%3D1-23%2Fref%3Dsr_1_2_23\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -279,7 +256,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1934.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1934.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -223,25 +232,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -255,9 +248,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>彼は<a href=\"../p/geobbe_j.html\">ゲッベルス</a>以下の側近とともに、自動車をつらねて、バアト・ヴィースゼエに乗り込み、\n手に鞭を持って<a href=\"../p/rohm_e.html\">レーム</a>の寝室に侵入した。\n「貴様を逮捕する！」と<a href=\"../p/hitler_a.html\">ヒトラー</a>が叫ぶと、<a href=\"../p/rohm_e.html\">レーム</a>はベッドのなかで寝ぼけまなこをあげ、「ハイル・ヒトラー」と答えた。\n「貴様を逮捕する！」ふたたび叫ぶと、<a href=\"../p/hitler_a.html\">ヒトラー</a>はくるりと向きをかえて、靴音も荒々しく、立ち去った。\nこれは彼の忠実な運転手ケムプカの目撃談である。</div>\n<div>翌七月一日、日曜日、午後六時、二人のＳＳ将校が、シュターデルハイム監獄の独房につながれている<a href=\"../p/rohm_e.html\">レーム</a>を襲った。\n彼らは前日の事件<span class=\"bar\">―</span>―ＳＡ大粛正<span class=\"bar\">―</span>―を大見出しで報道している「ベオバハター」紙とともに、\nピストルを小卓の上に置き、十分間の余裕を与えた。\nだが、発射音がしないので看守がピストルを取りもどしにいった。\nその直後、くだんのＳＳ将校が拳銃を乱射しながら独房に突入すると、<a href=\"../p/rohm_e.html\">レーム</a>は胸のシャツをはだけて、\n傲然と中央に立っていた。</div>\n<div><a href=\"../p/hitler_a.html\">ヒトラー</a>もこの古き盟友を処刑するのは、頗る気が重かったらしく、なんとかして最悪の局面を回避しようと腐心した。\n<a href=\"../p/rohm_e.html\">レーム</a>にしても、まさか上意討ちにされようとは思っていなかったらしい。\n三島由紀夫の劇「わが友ヒトラー」は、シュトラッサーが<a href=\"../p/rohm_e.html\">レーム</a>に<a href=\"../p/hitler_a.html\">ヒトラー</a>を排除するため協力を求めると、\n<a href=\"../p/rohm_e.html\">レーム</a>が峻拒する情景を描写し、シュトラッサーに、「太陽を見た人の瞳が何を見ても黄色い残像を結ぶように、\n君は<a href=\"../p/hitler_a.html\">ヒトラー</a>の残像なしにはこの世界を見ることのできない男だ」と語らせているが、\n<a href=\"../p/rohm_e.html\">レーム</a>は最後まで<a href=\"../p/hitler_a.html\">ヒトラー</a>の友情を信じていたのである。</div>\n<div>みじめなのはハイネスであって、寵童と同衾しているところを襲われて抵抗し、その場で射殺された。\nもとはピアノ運送人夫で、殺人歴を持つ乱暴者である。\nミュンヘンに集まっていた他のＳＡ幹部は、みな簡単に逮捕された。</div>\n<div class=\"txr\"><a href=\"../text/ks_weima.html\">加瀬俊一 「ワイマールの落日」</a>\n　Ｐ．２６０<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E3%2583%25AF%25E3%2582%25A4%25E3%2583%259E%25E3%2583%25BC%25E3%2583%25AB%25E3%2581%25AE%25E8%2590%25BD%25E6%2597%25A5%25E2%2580%2595%25E3%2583%2592%25E3%2583%2588%25E3%2583%25A9%25E3%2583%25BC%25E3%2581%258C%25E7%2599%25BB%25E5%25A0%25B4%25E3%2581%2599%25E3%2582%258B%25E3%2581%25BE%25E3%2581%25A7\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -265,23 +258,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>彼は<a href=\"../p/geobbe_j.html\">ゲッベルス</a>以下の側近とともに、自動車をつらねて、バアト・ヴィースゼエに乗り込み、\n手に鞭を持って<a href=\"../p/rohm_e.html\">レーム</a>の寝室に侵入した。\n「貴様を逮捕する！」と<a href=\"../p/hitler_a.html\">ヒトラー</a>が叫ぶと、<a href=\"../p/rohm_e.html\">レーム</a>はベッドのなかで寝ぼけまなこをあげ、「ハイル・ヒトラー」と答えた。\n「貴様を逮捕する！」ふたたび叫ぶと、<a href=\"../p/hitler_a.html\">ヒトラー</a>はくるりと向きをかえて、靴音も荒々しく、立ち去った。\nこれは彼の忠実な運転手ケムプカの目撃談である。</div>\n<div>翌七月一日、日曜日、午後六時、二人のＳＳ将校が、シュターデルハイム監獄の独房につながれている<a href=\"../p/rohm_e.html\">レーム</a>を襲った。\n彼らは前日の事件<span class=\"bar\">―</span>―ＳＡ大粛正<span class=\"bar\">―</span>―を大見出しで報道している「ベオバハター」紙とともに、\nピストルを小卓の上に置き、十分間の余裕を与えた。\nだが、発射音がしないので看守がピストルを取りもどしにいった。\nその直後、くだんのＳＳ将校が拳銃を乱射しながら独房に突入すると、<a href=\"../p/rohm_e.html\">レーム</a>は胸のシャツをはだけて、\n傲然と中央に立っていた。</div>\n<div><a href=\"../p/hitler_a.html\">ヒトラー</a>もこの古き盟友を処刑するのは、頗る気が重かったらしく、なんとかして最悪の局面を回避しようと腐心した。\n<a href=\"../p/rohm_e.html\">レーム</a>にしても、まさか上意討ちにされようとは思っていなかったらしい。\n三島由紀夫の劇「わが友ヒトラー」は、シュトラッサーが<a href=\"../p/rohm_e.html\">レーム</a>に<a href=\"../p/hitler_a.html\">ヒトラー</a>を排除するため協力を求めると、\n<a href=\"../p/rohm_e.html\">レーム</a>が峻拒する情景を描写し、シュトラッサーに、「太陽を見た人の瞳が何を見ても黄色い残像を結ぶように、\n君は<a href=\"../p/hitler_a.html\">ヒトラー</a>の残像なしにはこの世界を見ることのできない男だ」と語らせているが、\n<a href=\"../p/rohm_e.html\">レーム</a>は最後まで<a href=\"../p/hitler_a.html\">ヒトラー</a>の友情を信じていたのである。</div>\n<div>みじめなのはハイネスであって、寵童と同衾しているところを襲われて抵抗し、その場で射殺された。\nもとはピアノ運送人夫で、殺人歴を持つ乱暴者である。\nミュンヘンに集まっていた他のＳＡ幹部は、みな簡単に逮捕された。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ks_weima.html\">加瀬俊一 「ワイマールの落日」</a>\n　Ｐ．２６０</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "tx"
-   },
-   "html": "\n<div>暴力やテロの先頭につねに立ったのは、突撃隊と呼ばれる組織だった。\nこの組織は初期のころは、演説会場の整理などにあたるもので、ときには、反ナチの聴衆と乱闘をしたりして実力を認められ、\n一九二一年には、突撃隊（ＳＡ）となった。\nＳＡの指導者は、バイエルン国防軍の大尉だった<a href=\"../p/lenin_n.html\">エルンスト・レーム</a>だった。\n<a href=\"../p/rohm_e.html\">レーム</a>はその地位を利用して、ＳＡの隊員たちに武器をあたえ、あるいは訓練をほどこした。</div>\n<div>一方、ドイツには、国防軍というれっきとした軍事組織が存在している。\nしたがって<a href=\"../p/rohm_e.html\">レーム</a>としては、ＳＡと国防軍を一体化して、自分がその総司令官になることが望みだった。\n軍を握れば、事実上、国家を握ることになるのである。</div>\n<div><a href=\"../p/hitler_a.html\">ヒットラー</a>は、国防軍をＳＡに渡せという<a href=\"../p/rohm_e.html\">レーム</a>の要求を、自分の地位を危うくするものとみた。\n<a href=\"../p/rohm_e.html\">レーム</a>に国防軍を渡すことは、強力なライバルを作り出すことでもあった。</div>\n<div>こうした状況を背景にして起こされたのが「六月三十日事件」だった。\n<a href=\"../p/rohm_e.html\">レーム</a>をはじめとするＳＡの幹部は、<a href=\"../p/himmle_h.html\">ヒムラー</a>の指揮する親衛隊（ＳＳ）によって殺害され、ついでに好ましからぬ政治家も殺された。\nその数は合計少なくとも二百名といわれている。\nＳＡが党の軍事組織であるのに対して、このころのＳＳは、<a href=\"../p/hitler_a.html\">ヒットラー</a>の個人的な警護組織にすぎなかった。\nしかし、この結果、ＳＳは<a href=\"../p/hitler_a.html\">ヒットラー</a>の私設警察として恐るべき力をもつことになった。\n<a href=\"../p/hitler_a.html\">ヒットラー</a>やその権力機構を守るためには、公然たる殺人も暴力も認められたにひとしいからである。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/mt_yuhit.html\">三好徹 「夕陽と怒濤」</a>\n　Ｐ．３１２</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>暴力やテロの先頭につねに立ったのは、突撃隊と呼ばれる組織だった。\nこの組織は初期のころは、演説会場の整理などにあたるもので、ときには、反ナチの聴衆と乱闘をしたりして実力を認められ、\n一九二一年には、突撃隊（ＳＡ）となった。\nＳＡの指導者は、バイエルン国防軍の大尉だった<a href=\"../p/lenin_n.html\">エルンスト・レーム</a>だった。\n<a href=\"../p/rohm_e.html\">レーム</a>はその地位を利用して、ＳＡの隊員たちに武器をあたえ、あるいは訓練をほどこした。</div>\n<div>一方、ドイツには、国防軍というれっきとした軍事組織が存在している。\nしたがって<a href=\"../p/rohm_e.html\">レーム</a>としては、ＳＡと国防軍を一体化して、自分がその総司令官になることが望みだった。\n軍を握れば、事実上、国家を握ることになるのである。</div>\n<div><a href=\"../p/hitler_a.html\">ヒットラー</a>は、国防軍をＳＡに渡せという<a href=\"../p/rohm_e.html\">レーム</a>の要求を、自分の地位を危うくするものとみた。\n<a href=\"../p/rohm_e.html\">レーム</a>に国防軍を渡すことは、強力なライバルを作り出すことでもあった。</div>\n<div>こうした状況を背景にして起こされたのが「六月三十日事件」だった。\n<a href=\"../p/rohm_e.html\">レーム</a>をはじめとするＳＡの幹部は、<a href=\"../p/himmle_h.html\">ヒムラー</a>の指揮する親衛隊（ＳＳ）によって殺害され、ついでに好ましからぬ政治家も殺された。\nその数は合計少なくとも二百名といわれている。\nＳＡが党の軍事組織であるのに対して、このころのＳＳは、<a href=\"../p/hitler_a.html\">ヒットラー</a>の個人的な警護組織にすぎなかった。\nしかし、この結果、ＳＳは<a href=\"../p/hitler_a.html\">ヒットラー</a>の私設警察として恐るべき力をもつことになった。\n<a href=\"../p/hitler_a.html\">ヒットラー</a>やその権力機構を守るためには、公然たる殺人も暴力も認められたにひとしいからである。</div>\n<div class=\"txr\"><a href=\"../text/mt_yuhit.html\">三好徹 「夕陽と怒濤」</a>\n　Ｐ．３１２<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%259D%25BE%25E5%25B2%25A1%25E6%25B4%258B%25E5%258F%25B3%25E2%2580%2595%25E5%25A4%2595%25E9%2599%25BD%25E3%2581%25A8%25E6%2580%2592%25E6%25BF%25A4%2520%2520%2520%2520%25E4%25BA%25BA%25E7%2589%25A9%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -289,7 +266,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

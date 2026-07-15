@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1918.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href=\"hara_1~.html\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1918.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href=\"hara_1~.html\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -173,7 +182,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1920/03/15　　<a href\"..=\"\" 19.html\"=\"\">\n株価暴落で株式市場大混乱　（→戦後恐慌）</a>"
+       "html": "1920/03/15　　<a href=\"../1920/03borak.html\">\n株価暴落で株式市場大混乱</a>　（→戦後恐慌）"
       }
      ]
     },
@@ -243,25 +252,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -275,17 +268,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div><a href=\"../p/skinmoci.html\">西園寺</a>は二十四日<a href=\"../p/yaritomo.html\">山県</a>を再訪。次のような問答を行った。</div>\n<div>「明日参内して拝辞して来ます」</div>\n<div>「ふむ、しかして後任をどうされる？　伊東は到底物にならず、平田、<a href=\"../p/kkeigo.html\">清浦</a>も不可なり」</div>\n<div>「<a href=\"../p/htakasi.html\">原</a>にては如何？」</div>\n<div>「それも一案なり、<a href=\"../p/htakasi.html\">原</a>はお受けすべきや」</div>\n<div>「<a href=\"../p/htakasi.html\">原</a>には話してないが、<a href=\"../p/htakasi.html\">原</a>は自分と異って政党を統御しておる故、党員の意向もあってお受けすべしと思う」</div>\n<div>「憲政会と一緒になることはなきや」</div>\n<div>「早く内閣を組織すれば心配はないが、長びくと党員の末流同志が提携し、幹部を動かすようになるやも知れず」</div>\n<div>「<a href=\"../p/htakasi.html\">原</a>は自分をどう思っているか」</div>\n<div>「特に隔意なからん。内閣に立つようになれば常に教えを受けることとなる故、閣下より時々注意ありたし」</div>\n<div>「そうであろう。<a href=\"../p/htakasi.html\">原</a>と自分は何ら意見の異るものはない。\n只、<a href=\"../p/htakasi.html\">原</a>は政党を大多数となして、政党の改良を計るというも予は反対なり。\nほかに異見はなし。<a href=\"../p/htakasi.html\">原</a>の推薦については兄より推薦のこととしたし。<a href=\"../p/mmasayos.html\">松方</a>も一応話してもらいたい」</div>\n<div>「ではこれから<a href=\"../p/mmasayos.html\">松方</a>を訪問すべし」</div>\n<div>「その前に予より<a href=\"../p/mmasayos.html\">松方</a>に話しおくべし」</div>\n<div>こういうわけで、<a href=\"../p/skinmoci.html\">西園寺</a>は徹底的に<a href=\"../p/yaritomo.html\">山県</a>を突き放し、自分で<a href=\"../p/htakasi.html\">原</a>を推薦するところまで<a href=\"../p/yaritomo.html\">山県</a>を追いこんだ。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm_saion.html\">豊田穣 「西園寺公望」</a>\n　下巻　Ｐ．１００</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/skinmoci.html\">西園寺</a>は二十四日<a href=\"../p/yaritomo.html\">山県</a>を再訪。次のような問答を行った。</div>\n<div>「明日参内して拝辞して来ます」</div>\n<div>「ふむ、しかして後任をどうされる？　伊東は到底物にならず、平田、<a href=\"../p/kkeigo.html\">清浦</a>も不可なり」</div>\n<div>「<a href=\"../p/htakasi.html\">原</a>にては如何？」</div>\n<div>「それも一案なり、<a href=\"../p/htakasi.html\">原</a>はお受けすべきや」</div>\n<div>「<a href=\"../p/htakasi.html\">原</a>には話してないが、<a href=\"../p/htakasi.html\">原</a>は自分と異って政党を統御しておる故、党員の意向もあってお受けすべしと思う」</div>\n<div>「憲政会と一緒になることはなきや」</div>\n<div>「早く内閣を組織すれば心配はないが、長びくと党員の末流同志が提携し、幹部を動かすようになるやも知れず」</div>\n<div>「<a href=\"../p/htakasi.html\">原</a>は自分をどう思っているか」</div>\n<div>「特に隔意なからん。内閣に立つようになれば常に教えを受けることとなる故、閣下より時々注意ありたし」</div>\n<div>「そうであろう。<a href=\"../p/htakasi.html\">原</a>と自分は何ら意見の異るものはない。\n只、<a href=\"../p/htakasi.html\">原</a>は政党を大多数となして、政党の改良を計るというも予は反対なり。\nほかに異見はなし。<a href=\"../p/htakasi.html\">原</a>の推薦については兄より推薦のこととしたし。<a href=\"../p/mmasayos.html\">松方</a>も一応話してもらいたい」</div>\n<div>「ではこれから<a href=\"../p/mmasayos.html\">松方</a>を訪問すべし」</div>\n<div>「その前に予より<a href=\"../p/mmasayos.html\">松方</a>に話しおくべし」</div>\n<div>こういうわけで、<a href=\"../p/skinmoci.html\">西園寺</a>は徹底的に<a href=\"../p/yaritomo.html\">山県</a>を突き放し、自分で<a href=\"../p/htakasi.html\">原</a>を推薦するところまで<a href=\"../p/yaritomo.html\">山県</a>を追いこんだ。</div>\n<div class=\"txr\"><a href=\"../text/tm2saion.html\">豊田穣 「西園寺公望（下）」</a>\n　Ｐ．１００<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E5%259C%2592%25E5%25AF%25BA%25E5%2585%25AC%25E6%259C%259B%25E2%2580%2595%25E6%259C%2580%25E5%25BE%258C%25E3%2581%25AE%25E5%2585%2583%25E8%2580%2581%2520%2528%25E4%25B8%258B%25E5%25B7%25BB%2529%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -293,7 +278,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

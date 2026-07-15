@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1934.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1934.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -93,25 +102,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "pt"
    },
    "html": "\n<div class=\"pt_h\">～　だれの陰謀か　～</div>\n<div class=\"c\">疑惑の目は ・・・ 政友会久原派、<a href=\"../p/hkiiciro.html\">平沼騏一郎</a>、軍部、右翼</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -125,9 +118,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>１月17日から「時事新報」紙に「番町会を暴く」という暴露・告発記事か掲載され始め、\n帝国人絹の持株売買をめぐる疑惑が取りざたされた。</div>\n<div>帝国人絹は鈴木商店系の人絹会社で金融恐慌の際、その22万株が担保として台湾銀行に入っていた。</div>\n<div>おりからの人絹ブームで、帝人株の値上がりが見込まれ、\n鈴木商店の番頭格の金子直吉らが財界グループ「番町会」の河合良成、永野譲らに買い戻しのあっせんを依頼した。\nそこで河合、永野らは<a href=\"../p/hiciro.html\">鳩山一郎文相</a>・黒田英雄大蔵次官に働きかけて島田茂台銀頭取を動かし１株125円で10万株の払い下げに成功。\nこれと同時に帝人が増資を決めたため株価は150円にはね上がり、河合らは大儲けした。\nこの際、関与した中島久万吉商相、黒田次官に帝人株や現金が渡ったというのが疑惑の内容。</div>\n<div>さっそく検事局が捜査に乗り出し、中島商相・黒田次官ら６人が収賄、<a href=\"../p/mcyuzo.html\">三土忠造鉄道相</a>は偽証罪、\n島田台銀頭取、高木復亨帝人社長ら９人が背任・贈賄で計16人が起訴された。</div>\n<div><a href=\"../1932/saito_1.html\">斎藤内閣</a>にも大打撃であった。\n起訴は免れたものの<a href=\"../p/hiciro.html\">鳩山文相</a>は他の汚職の疑惑が持たれて３月辞職。\n中島商相は“逆賊”足利尊氏を礼賛したと追及されて辞職（２月）。\nさらに<a href=\"../p/asadao.html\">荒木陸相</a>も病気を理由にやはり辞職していた。\n７月、<a href=\"../1934/saito_9.html\">斎藤内閣は崩壊</a>した。</div>\n<div>ところが３年後の判決では全員無罪となった。証拠不十分ではなく、事件そのものが存在せず、\n単なる商取引と商習慣による謝礼と認定された。</div>\n<div>確かに検察の取り調べは過酷であり、「検察ファッショ」という言葉も生まれた。\n検察を動かしたのは<a href=\"../p/hkiiciro.html\">平沼騏一郎枢密院副議長</a>で、<a href=\"../p/hkiiciro.html\">平沼</a>の枢密院議長就任を阻んだ<a href=\"../p/smakoto.html\">斎藤</a>をうらみ、\n倒閣のため検察に圧力をかけたともいわれる。</div>\n<div>帝人事件は財界人の金儲けの実態とそれに結託する政界の醜さを暴露したが、\n政財界の浄化にはつながらず、むしろ軍部の発言力の強化を招いた。</div>\n<div class=\"txr\"><a href=\"../text/ys_20sei.html\">読売新聞社 「読む年表・20世紀と昭和天皇」</a>\n　Ｐ．４８</div>\n"
   },
   {
    "type": "raw",
@@ -135,23 +128,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>１月17日から「時事新報」紙に「番町会を暴く」という暴露・告発記事か掲載され始め、\n帝国人絹の持株売買をめぐる疑惑が取りざたされた。</div>\n<div>帝国人絹は鈴木商店系の人絹会社で金融恐慌の際、その22万株が担保として台湾銀行に入っていた。</div>\n<div>おりからの人絹ブームで、帝人株の値上がりが見込まれ、\n鈴木商店の番頭格の金子直吉らが財界グループ「番町会」の河合良成、永野譲らに買い戻しのあっせんを依頼した。\nそこで河合、永野らは<a href=\"../p/hiciro.html\">鳩山一郎文相</a>・黒田英雄大蔵次官に働きかけて島田茂台銀頭取を動かし１株125円で10万株の払い下げに成功。\nこれと同時に帝人が増資を決めたため株価は150円にはね上がり、河合らは大儲けした。\nこの際、関与した中島久万吉商相、黒田次官に帝人株や現金が渡ったというのが疑惑の内容。</div>\n<div>さっそく検事局が捜査に乗り出し、中島商相・黒田次官ら６人が収賄、<a href=\"../p/mcyuzo.html\">三土忠造鉄道相</a>は偽証罪、\n島田台銀頭取、高木復亨帝人社長ら９人が背任・贈賄で計16人が起訴された。</div>\n<div><a href=\"../1932/saito_1.html\">斎藤内閣</a>にも大打撃であった。\n起訴は免れたものの<a href=\"../p/hiciro.html\">鳩山文相</a>は他の汚職の疑惑が持たれて３月辞職。\n中島商相は“逆賊”足利尊氏を礼賛したと追及されて辞職（２月）。\nさらに<a href=\"../p/asadao.html\">荒木陸相</a>も病気を理由にやはり辞職していた。\n７月、<a href=\"../1934/saito_9.html\">斎藤内閣は崩壊</a>した。</div>\n<div>ところが３年後の判決では全員無罪となった。証拠不十分ではなく、事件そのものが存在せず、\n単なる商取引と商習慣による謝礼と認定された。</div>\n<div>確かに検察の取り調べは過酷であり、「検察ファッショ」という言葉も生まれた。\n検察を動かしたのは<a href=\"../p/hkiiciro.html\">平沼騏一郎枢密院副議長</a>で、<a href=\"../p/hkiiciro.html\">平沼</a>の枢密院議長就任を阻んだ<a href=\"../p/smakoto.html\">斎藤</a>をうらみ、\n倒閣のため検察に圧力をかけたともいわれる。</div>\n<div>帝人事件は財界人の金儲けの実態とそれに結託する政界の醜さを暴露したが、\n政財界の浄化にはつながらず、むしろ軍部の発言力の強化を招いた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ys_20sei.html\">読売新聞社 「読む年表・20世紀と昭和天皇」</a>\n　Ｐ．４８</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "tx"
-   },
-   "html": "\n<div>斎藤内閣退陣の直接の引き金となったのは帝人事件であるが、\nそれにはこの事件をでっちあげたといわれる検察官僚の親玉<a href=\"../p/hkiiciro.html\">平沼騏一郎</a>（枢府副議長）の陰謀にふれなければならない。</div>\n<div>この年五月三日、枢密院議長倉富勇三郎が辞職した。\nこれまでは代々副議長が昇任していたので、副議長の<a href=\"../p/hkiiciro.html\">平沼</a>は大いに期待していたが、<a href=\"../p/skinmoci.html\">西園寺</a>は天皇が右傾化を案じておられることから\n<a href=\"../p/hkiiciro.html\">平沼</a>を忌避して、前宮相の<a href=\"../p/ikitokur.html\">一木喜徳郎</a>を推した。\n<a href=\"../p/hkiiciro.html\">平沼</a>は薩閥系の右翼と関係があり、<a href=\"../p/mnobuaki.html\">牧野</a>も<a href=\"../p/hkiiciro.html\">平沼</a>寄りであったが、このとき<a href=\"../p/skinmoci.html\">西園寺</a>はリベラリストの本質を発揮して<a href=\"../p/hkiiciro.html\">平沼</a>をボイコットし、\n憲法に明るいという理由で<a href=\"../p/ikitokur.html\">一木</a>を推した。\n結局、<a href=\"../p/ikitokur.html\">一木</a>が枢相に任じられ、<a href=\"../p/hkiiciro.html\">平沼</a>は副議長にとどまった。\n右翼による独裁の野望を挫かれた<a href=\"../p/hkiiciro.html\">平沼</a>はその報復として斎藤内閣の打倒を企み、\n自分の子分である検事局の塩野季彦（国本社理事、林内閣、第一次近衛内閣、<a href=\"../1939/hira_1.html\">平沼内閣</a>の法相）らに働きかけた。</div>\n<div>九年一月、武藤山治が社長をしている時事新報が「番町会を暴く」という記事によって斎藤内閣のバックである財界グループの不正を暴露し始めた。\nその一つが帝人問題である。帝国人絹会社は、鈴木商店系の会社で、業績が向上しつつあった。\n当時、この会社の株式二十二万株が台湾銀行の担保に入っていたのを、\n鈴木の大番頭金子直吉がこの買い戻しを計り、<a href=\"../p/hiciro.html\">鳩山一郎</a>、黒田英雄大蔵次官らを動かし、\nそのあっせんを番町会の永野譲、正力松太郎らに頼んだ。\nこの為十一万余株の払い下げが実現したが、間もなく増資決定の為、同株は一株二、三十円の値上がりを見せた。</div>\n<div>これが贈収賄の容疑を招いたとして、高木帝人社長、島田台銀頭取、永野、そして黒田次官、銀行局長大久保偵次らが検事局に召還され起訴された。\nこの為、新聞は大蔵省と斎藤内閣を攻撃し、<a href=\"../1934/saito_9.html\">内閣は七月三日ついに総辞職した</a>。\nしかし、十二年十月結審した帝人事件裁判の結果は全員無罪であった。\n現在ではこの事件は枢府就任を阻止された<a href=\"../p/hkiiciro.html\">平沼</a>の怨念を示す、でっちあげのデッドボールであったということが明確になっている。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm_saion.html\">豊田穣 「西園寺公望」</a>\n　下巻　Ｐ．２６１</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>斎藤内閣退陣の直接の引き金となったのは帝人事件であるが、\nそれにはこの事件をでっちあげたといわれる検察官僚の親玉<a href=\"../p/hkiiciro.html\">平沼騏一郎</a>（枢府副議長）の陰謀にふれなければならない。</div>\n<div>この年五月三日、枢密院議長倉富勇三郎が辞職した。\nこれまでは代々副議長が昇任していたので、副議長の<a href=\"../p/hkiiciro.html\">平沼</a>は大いに期待していたが、<a href=\"../p/skinmoci.html\">西園寺</a>は<a href=\"../p/stenno.html\">天皇</a>が右傾化を案じておられることから\n<a href=\"../p/hkiiciro.html\">平沼</a>を忌避して、前宮相の<a href=\"../p/ikitokur.html\">一木喜徳郎</a>を推した。\n<a href=\"../p/hkiiciro.html\">平沼</a>は薩閥系の右翼と関係があり、<a href=\"../p/mnobuaki.html\">牧野</a>も<a href=\"../p/hkiiciro.html\">平沼</a>寄りであったが、このとき<a href=\"../p/skinmoci.html\">西園寺</a>はリベラリストの本質を発揮して<a href=\"../p/hkiiciro.html\">平沼</a>をボイコットし、\n憲法に明るいという理由で<a href=\"../p/ikitokur.html\">一木</a>を推した。\n結局、<a href=\"../p/ikitokur.html\">一木</a>が枢相に任じられ、<a href=\"../p/hkiiciro.html\">平沼</a>は副議長にとどまった。\n右翼による独裁の野望を挫かれた<a href=\"../p/hkiiciro.html\">平沼</a>はその報復として斎藤内閣の打倒を企み、\n自分の子分である検事局の塩野季彦（国本社理事、<a href=\"../1937/haya_1.html\">林内閣</a>、<a href=\"../1937/kono1_1.html\">第一次近衛内閣</a>、<a href=\"../1939/hira_1.html\">平沼内閣</a>の法相）らに働きかけた。</div>\n<div>九年一月、武藤山治が社長をしている時事新報が「番町会を暴く」という記事によって斎藤内閣のバックである財界グループの不正を暴露し始めた。\nその一つが帝人問題である。帝国人絹会社は、鈴木商店系の会社で、業績が向上しつつあった。\n当時、この会社の株式二十二万株が台湾銀行の担保に入っていたのを、\n鈴木の大番頭金子直吉がこの買い戻しを計り、<a href=\"../p/hiciro.html\">鳩山一郎</a>、黒田英雄大蔵次官らを動かし、\nそのあっせんを番町会の永野譲、正力松太郎らに頼んだ。\nこの為十一万余株の払い下げが実現したが、間もなく増資決定の為、同株は一株二、三十円の値上がりを見せた。</div>\n<div>これが贈収賄の容疑を招いたとして、高木帝人社長、島田台銀頭取、永野、そして黒田次官、銀行局長大久保偵次らが検事局に召還され起訴された。\nこの為、新聞は大蔵省と斎藤内閣を攻撃し、<a href=\"../1934/saito_9.html\">内閣は七月三日ついに総辞職した</a>。\nしかし、十二年十月結審した帝人事件裁判の結果は全員無罪であった。\n現在ではこの事件は枢府就任を阻止された<a href=\"../p/hkiiciro.html\">平沼</a>の怨念を示す、でっちあげのデッドボールであったということが明確になっている。</div>\n<div class=\"txr\"><a href=\"../text/tm2saion.html\">豊田穣 「西園寺公望（下）」</a>\n　Ｐ．２６１<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E5%259C%2592%25E5%25AF%25BA%25E5%2585%25AC%25E6%259C%259B%25E2%2580%2595%25E6%259C%2580%25E5%25BE%258C%25E3%2581%25AE%25E5%2585%2583%25E8%2580%2581%2520%2528%25E4%25B8%258B%25E5%25B7%25BB%2529%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -159,7 +136,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

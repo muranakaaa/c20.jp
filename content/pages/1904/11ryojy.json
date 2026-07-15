@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1904.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1904.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -203,25 +212,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -235,9 +228,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>白襷隊三千人は、旅順大要塞の正面を突破して、その背後の旅順市街に突入しようというのである。\nなんの現実性もない作戦であった。\nかれらのすべては大要塞がそなえる殺人兵器によって死ぬにちがいなかったが、\nかりにこの夢想作戦の夢が実現するとして、\nつまり三千人が一人のこらず旅順市街に突入できたとして、そこでかれらはどうするのだろう。\n日本刀と小銃だけをもったわずか三千人の部隊が、市街戦を演じたところで、やがて鎮圧されるにちがいなかった。</div>\n<div class=\"txr\"><a href=\"../text/sr4sakan.html\">司馬遼太郎 「坂の上の雲（４）」</a>\n　Ｐ．３９４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%259D%2582%25E3%2581%25AE%25E4%25B8%258A%25E3%2581%25AE%25E9%259B%25B2%25E3%2580%25884%25E3%2580%2589%2520%2520%2520%2520%25E6%2596%2587%25E6%2598%25A5%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -245,23 +238,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>白襷隊三千人は、旅順大要塞の正面を突破して、その背後の旅順市街に突入しようというのである。\nなんの現実性もない作戦であった。\nかれらのすべては大要塞がそなえる殺人兵器によって死ぬにちがいなかったが、\nかりにこの夢想作戦の夢が実現するとして、\nつまり三千人が一人のこらず旅順市街に突入できたとして、そこでかれらはどうするのだろう。\n日本刀と小銃だけをもったわずか三千人の部隊が、市街戦を演じたところで、やがて鎮圧されるにちがいなかった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/sr4sakan.html\">司馬遼太郎 「坂の上の雲（４）」</a>\n　Ｐ．３９４</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>夜半、日本軍はもう一度決定的な打撃をあたえようとした。\nそのため中村将軍に率いられた二六〇〇名からなる特別義勇隊［特別支隊いわゆる白だすき隊］が編成された。\n白だすき隊は要塞深く進入し、東部戦線の防衛線に突破口を開くはずであった。\n中村隊には次の任務がかせられた。\n<span class=\"bar\">―</span>―夜にまぎれてひそかにルン（竜）河の谷間を前進し、\n東部戦線の左翼を占領し、コザック練兵所からクルガン（松樹山第四）砲台を急襲する、\nクルガン（松樹山第四）砲台を占領したら、部隊は第３号仮設堡（松樹山）を襲い、\n東部戦線の各堡塁の背後の拠点を次々に占領せよというのであった。\nこの頃、第三軍の主力が再び東部戦線を突撃するはずであった。</div>\n<div>出発を前に中村は次のような命令を出した。\n「われわれはだれも戻ってこれないであろう。・・・・・・どの士官も、いかなる階級にあろうとも、予め自分の代理をきめておくこと。\n敵にたいしては銃剣で打撃をあたえること。敵の砲火がいかに強かろうとも、\nわれわれが敵の位置を確認するまで、だれも射ってはならない。\n士官にたいし、理由なしに隠れたり、自分の位置を放棄したり、後退するものにたいしては、即時射殺してよいと命令する。」</div>\n<div class=\"txr\"><a href=\"../text/ro_soren.html\">ロストーノフ 「ソ連から見た日露戦争」</a>\n　Ｐ．２３８</div>\n"
   },
   {
    "type": "cyu",
@@ -269,7 +246,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

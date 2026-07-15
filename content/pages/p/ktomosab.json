@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -46,9 +55,9 @@
    "type": "raw",
    "tag": "table",
    "attrs": {
-    "class": "off"
+    "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"02k.html\">一覧　（カ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%258A%25A0%25E8%2597%25A4%2520%25E5%258F%258B%25E4%25B8%2589%25E9%2583%258E\" target=\"_blank\">本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></td><td class=\"lt\"><a href=\"../them/j_gov03.html#s2\">【テーマ・内閣成立史】</a></td></tr></tbody>"
   },
   {
    "type": "raw",
@@ -57,14 +66,6 @@
     "class": "ep1"
    },
    "html": "<span class=\"m_r\">エピソード 1</span>佳人薄命というが、\n首相就任１年あまりで病に倒れた加藤もなかなかの人物だったようだ。\n彼の不戦海軍論の流れを汲む「条約派」は<a href=\"../p/ymitumas.html\">米内光政</a>、<a href=\"../p/yisoroku.html\">山本五十六</a>、<a href=\"../p/isigeyos.html\">井上成美</a>などの優れた人材を輩出している。 "
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
   },
   {
    "type": "timeline",
@@ -140,14 +141,6 @@
      ]
     }
    ]
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "timeline",
@@ -268,7 +261,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1915/01/18　　<a href=\"../1915/0121kaj.html\">\n対華２１か条要求</a>　（外相：<a href=\"../p/ktakaaki.html\">加藤高明</a>）"
+       "html": "1915/01/18　　<a href=\"../1915/0121kaj.html\">\n対華２１ヵ条要求</a>　（外相：<a href=\"../p/ktakaaki.html\">加藤高明</a>）"
       }
      ]
     },
@@ -498,7 +491,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1923/08/25　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/ktomosab.html\">\n加藤友三郎</a>没　（首相）"
+       "html": "1923/08/25　　<a href=\"../1923/08katot.html\">\n加藤友三郎病死</a>　（首相）"
       }
      ]
     },
@@ -528,9 +521,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>加藤友三郎少将は、どのような場合にも冷静さをうしなったことがないという人物だった。</div>\n<div>かれは芸州藩士の子で、兄の種之助は上野の彰義隊討伐のときは、藩兵の小隊長をつとめた。</div>\n<div>加藤は明治六年十月二十七日に東京築地の海軍兵学寮に入学した。満十二歳であった。\nついでながら十月二十五日に勝海舟が海軍卿になっている。\n当時兵学寮には予科と本科があり、卒業して海軍少尉補になったのは満十九歳である。\n在学中の成績はさほどよくなく、めだたない存在であったが、卒業のときには二番になった。</div>\n<div>大酒が飲めるというほか、無口で表情にとぼしく、面白味のある男ではなかったが、\n物事の分析能力においてすぐれているうえに、あわせて物事を総合的にとらえる能力をもち、\n一個の結論をひきだす上においては非常な度胸があった。</div>\n<div>健康のほうは虚弱といっていいほどだったが、気力がつよく、無理がきいた。</div>\n<div>かれが冷静で寡黙であるということから冷血の人ではないかという印象があったが、\nしかし内実はそうではないという異常な情景を、かれの身辺のひとびとで目撃している人がいた。</div>\n<div>たとえば日露戦争の初期の段階においてかれは第二艦隊である上村艦隊の参謀長をつとめ、\n旗艦出雲において艦長の伊知地季珍大佐とおなじ艦内で起居していた。\nこのとき有名な旅順口閉塞隊員の募集があった。</div>\n<div>ある機関兵が応募したが、選に洩れた。\nこの機関兵が艦長室にやってきてさらに嘆願した。\n伊地知艦長はこれに対し、選に洩れた以上はどうしようもないと慰諭してついにあきらめさせた。\nその間、加藤は同室にいてその対話を無表情にきいていたが、機関兵が去ったあと、顔をおおい、声を放って号泣した。</div>\n<div>「その哭き方のすさまじさは、尋常でなかった」</div>\n<div>と、加藤とは同期生で加藤のことはよく知っているこの伊知地が、\nひとつ話のようにして加藤の死後に語っている。</div>\n<div class=\"txr\"><a href=\"../text/sr8sakan.html\">司馬遼太郎 「坂の上の雲（８）」</a>\n　Ｐ．３０<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%259D%2582%25E3%2581%25AE%25E4%25B8%258A%25E3%2581%25AE%25E9%259B%25B2%25E3%2580%25888%25E3%2580%2589%2520%2520%2520%2520%25E6%2596%2587%25E6%2598%25A5%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -538,39 +531,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>加藤友三郎少将は、どのような場合にも冷静さをうしなったことがないという人物だった。</div>\n<div>かれは芸州藩士の子で、兄の種之助は上野の彰義隊討伐のときは、藩兵の小隊長をつとめた。</div>\n<div>加藤は明治六年十月二十七日に東京築地の海軍兵学寮に入学した。満十二歳であった。\nついでながら十月二十五日に勝海舟が海軍卿になっている。\n当時兵学寮には予科と本科があり、卒業して海軍少尉補になったのは満十九歳である。\n在学中の成績はさほどよくなく、めだたない存在であったが、卒業のときには二番になった。</div>\n<div>大酒が飲めるというほか、無口で表情にとぼしく、面白味のある男ではなかったが、\n物事の分析能力においてすぐれているうえに、あわせて物事を総合的にとらえる能力をもち、\n一個の結論をひきだす上においては非常な度胸があった。</div>\n<div>健康のほうは虚弱といっていいほどだったが、気力がつよく、無理がきいた。</div>\n<div>かれが冷静で寡黙であるということから冷血の人ではないかという印象があったが、\nしかし内実はそうではないという異常な情景を、かれの身辺のひとびとで目撃している人がいた。</div>\n<div>たとえば日露戦争の初期の段階においてかれは第二艦隊である上村艦隊の参謀長をつとめ、\n旗艦出雲において艦長の伊知地季珍大佐とおなじ艦内で起居していた。\nこのとき有名な旅順口閉塞隊員の募集があった。</div>\n<div>ある機関兵が応募したが、選に洩れた。\nこの機関兵が艦長室にやってきてさらに嘆願した。\n伊地知艦長はこれに対し、選に洩れた以上はどうしようもないと慰諭してついにあきらめさせた。\nその間、加藤は同室にいてその対話を無表情にきいていたが、機関兵が去ったあと、顔をおおい、声を放って号泣した。</div>\n<div>「その哭き方のすさまじさは、尋常でなかった」</div>\n<div>と、加藤とは同期生で加藤のことはよく知っているこの伊知地が、\nひとつ話のようにして加藤の死後に語っている。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/sr8sakan.html\">司馬遼太郎 「坂の上の雲（８）」</a>\n　Ｐ．３０</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "tx"
-   },
-   "html": "\n<div>加藤は人も知る<a href=\"../1905/05nihon.html\">日本海海戦</a>のとき<a href=\"../p/theihaci.html\">東郷司令長官</a>の帷幕にあった参謀長であるが、\nそのやせた風貌から“燃え残りのローソク”と評された。\n広島藩士出身、風貌に似ず芯が強く、<a href=\"../p/skinmoci.html\">西園寺</a>などと違ってやる気のある人物であった。\nすでに大隈内閣以来四代にわたって海相であり、<a href=\"../p/htakasi.html\">原</a>は閣僚の中でも最も加藤に期待をかけていた。\n原内閣の末期にはシベリア出兵等で歳出がかさんで財政は破綻寸前であり、軍備縮小が必然とされていたが、\n八・八艦隊を唱える海軍を抑えて軍縮を実行出来得る才幹のある人物は、加藤のほかに見当たらなかった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm_saion.html\">豊田穣 「西園寺公望」</a>\n　下巻　Ｐ．１６４</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span>加藤は人も知る<a href=\"../1905/05nihon.html\">日本海海戦</a>のとき<a href=\"../p/theihaci.html\">東郷司令長官</a>の帷幕にあった参謀長であるが、\nそのやせた風貌から“燃え残りのローソク”と評された。\n広島藩士出身、風貌に似ず芯が強く、<a href=\"../p/skinmoci.html\">西園寺</a>などと違ってやる気のある人物であった。\nすでに大隈内閣以来四代にわたって海相であり、<a href=\"../p/htakasi.html\">原</a>は閣僚の中でも最も加藤に期待をかけていた。\n原内閣の末期にはシベリア出兵等で歳出がかさんで財政は破綻寸前であり、軍備縮小が必然とされていたが、\n八・八艦隊を唱える海軍を抑えて軍縮を実行出来得る才幹のある人物は、加藤のほかに見当たらなかった。</div>\n<div class=\"txr\"><a href=\"../text/tm2saion.html\">豊田穣 「西園寺公望（下）」</a>\n　Ｐ．１６４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E5%259C%2592%25E5%25AF%25BA%25E5%2585%25AC%25E6%259C%259B%25E2%2580%2595%25E6%259C%2580%25E5%25BE%258C%25E3%2581%25AE%25E5%2585%2583%25E8%2580%2581%2520%2528%25E4%25B8%258B%25E5%25B7%25BB%2529%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -578,7 +539,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

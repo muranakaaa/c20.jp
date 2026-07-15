@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -46,9 +55,9 @@
    "type": "raw",
    "tag": "table",
    "attrs": {
-    "class": "off"
+    "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"05n.html\">一覧　（ナ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
   },
   {
    "type": "raw",
@@ -57,14 +66,6 @@
     "class": "off"
    },
    "html": "<span class=\"m_r\">エピソード 1</span>調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
   },
   {
    "type": "timeline",
@@ -115,7 +116,7 @@
       {
        "id": null,
        "cls": "hist",
-       "html": "\n・　<a href=\"../1932/05515ji.html\">五・一五事件</a>計画中、陸軍青年将校の参加を拒んでスパイ視され、撃たれ瀕死の重傷を負う。"
+       "html": "\n・　<a href=\"../1932/05515ji.html\">五・一五事件</a>計画中、陸軍青年将校の参加を拒んでスパイ視され、<a href=\"../1932/05nisid.html\">撃たれ瀕死の重傷を負う</a>。"
       }
      ]
     },
@@ -130,14 +131,6 @@
      ]
     }
    ]
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "timeline",
@@ -168,7 +161,17 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1935/07/16　　<a href=\"../1935/07masak.html\">\n真崎教育総監罷免</a>　（後任：「統制派」<a href=\"../p/wjotaro.html\">渡辺錠太郎</a>）"
+       "html": "1932/05/15　　<a href=\"../1932/05nisid.html\">\n西田税暗殺未遂事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/07/15　　<a href=\"../1935/07masak.html\">\n真崎教育総監更迭</a>　（後任：「統制派」<a href=\"../p/wjotaro.html\">渡辺錠太郎</a>）"
       }
      ]
     },
@@ -178,7 +181,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1935/08/12　　<a href=\"../1935/08aizaw.html\">\n相沢事件　（永田軍務局長斬殺）</a>"
+       "html": "1935/08/12　　<a href=\"../1935/08aizaw.html\">\n相沢事件</a>　（<a href=\"../p/ntetuzan.html\">永田軍務局長</a>斬殺）"
       }
      ]
     },
@@ -218,49 +221,17 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "cm"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "<span class=\"m_o\">評</span>\n私は激越な文調や内容はともかくとして「全国の同志左の如し」と名簿をつけて全国の連隊に配った西田税の軽薄さに失望した。\nたとえその同志というのが、大した意味のないものにしても、\n隠密であるべき連判状まがいのものをガリ版ずりにしてくばる馬鹿があってよいものではない。\n<div class=\"r\">末松太平　（元陸軍大尉）</div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<span class=\"m_b\">エピソード</span>\n調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span>西田税は大正四年に広島地方幼年学校に入学して陸軍騎兵少尉となったのだが、\n<a href=\"../p/kikki.html\">北一輝</a>と交わるようになり、<a href=\"../p/kikki.html\">北</a>の「日本改造法案大綱」をよんで、これに深く共鳴した。\n大正十四年ごろ軍職を退き、革新運動に従事するため上京し、<a href=\"../p/osyumei.html\">大川</a>の行地社に入り、\n国家革新運動に専念した。\n西田は士官学校在校当時優秀な頭脳をもって校内に鳴り、信望を集めていたといわれる。\n彼が隊付将校に深くむすんでいたのは、そうした前歴からである。</div>\n<div><a href=\"../p/osyumei.html\">大川</a>と<a href=\"../p/kikki.html\">北一輝</a>とが行地社の内紛によって絶縁すると、【中略】　西田も<a href=\"../p/osyumei.html\">大川</a>と縁をきって<a href=\"../p/kikki.html\">北</a>のもとに走っている。</div>\n<div class=\"txr\"><a href=\"../text/ms4syowa.html\">松本清張 「昭和史発掘（４）」</a>\n　Ｐ．１７３<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167106345%2Fqid%3D1147086434%2Fsr%3D1-13%2Fref%3Dsr_1_0_13\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -268,7 +239,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

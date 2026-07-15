@@ -1,11 +1,12 @@
 {
  "path": "1926/02matus.html",
  "type": "article",
- "title": "松嶋遊郭疑獄事件発覚　／ クリック ２０世紀",
+ "title": "松島遊郭疑獄事件発覚　／ クリック ２０世紀",
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,12 +16,20 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1926.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1926.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
-   "html": "松嶋遊郭疑獄事件発覚"
+   "html": "松島遊郭疑獄事件発覚"
   },
   {
    "type": "title2",
@@ -33,7 +42,7 @@
   {
    "type": "headline",
    "cells": [
-    "飢えた政友会のスキャンダル攻撃　第１弾。　松嶋遊郭の移転をめぐる贈収賄事件発覚。"
+    "飢えた政友会のスキャンダル攻撃　第１弾。　松島遊郭の移転をめぐる贈収賄事件発覚。"
    ]
   },
   {
@@ -83,7 +92,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1926/02/28　　<a 1926=\"\" href\"..=\"\" 02matus.html\"=\"\">\n松嶋遊郭疑獄事件発覚</a>"
+       "html": "1926/02/28　　<a 1926=\"\" href\"..=\"\" 02matus.html\"=\"\">\n松島遊郭疑獄事件発覚</a>"
       }
      ]
     },
@@ -93,7 +102,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1926/03/04　　<a href=\"../1926/03kimit.html\">\n中野正剛、陸軍機密費横領問題で田中総裁（政友会）を追及</a>"
+       "html": "1926/03/04　　<a href=\"../1926/03kimit.html\">\n中野正剛、陸軍機密費問題で田中総裁（政友会）を追及</a>"
       }
      ]
     },
@@ -133,7 +142,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1926/11/07　　<a href\"..=\"\" 19.html\"=\"\">\n若槻首相、松嶋遊郭疑獄事件で証人として取調べを受ける</a>"
+       "html": "1926/11/07　　<a href\"..=\"\" 19.html\"=\"\">\n若槻首相、松島遊郭疑獄事件で証人として取調べを受ける</a>"
       }
      ]
     },
@@ -153,25 +162,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -185,9 +178,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>この年初頭、関西の土地会社が自社所有地内に松島遊郭を移転させるため\n政党に金をはらまいたという怪文書が飛びかった。\n大阪の中心部にある松島遊郭は風紀上の理由で移転が取りざたされていたのである。</div>\n<div>検察当局が動き出し、前政友会幹事長岩崎勲・憲政会総務箕浦勝人・政友本党党務委員長高見之通という大物政治家に\n疑惑の目が向けられた。\n岩崎は移転に際し、政友会は反対しないという党議をまとめるための運動費、\n箕浦は、<a href=\"../p/wreijiro.html\">若槻礼次郎内相</a>（当時）から松島遊郭移転を了解する言明を得るための資金、\n高見は、政友本党は移転を妨害しないという<a href=\"../p/ttakejir.html\">床次竹二郎総裁</a>の了解を得る運動費としてそれぞれ３～40万円を受け取ったというものだ。</div>\n<div>３人は起訴されたが、容疑は詐欺だった。\n検察当局は政府および大阪府には遊郭移転の計画はなかったとしたのである。\nこれに激怒した箕浦が「移転は知事が決定することで、自分が指示するはずがない」と証言した<a href=\"../p/wreijiro.html\">若槻礼次郎首相</a>（前内相）を\n偽証罪で告訴するという事件まで起こった。</div>\n<div>裁判では「犯罪の証拠なし」として箕浦、高見は無罪になった（岩崎は途中死亡）。\nしかし、実業家と政党幹部の醜い関係を国民に印象づけた。</div>\n<div class=\"txr\"><a href=\"../text/ys_20sei.html\">読売新聞社 「読む年表・20世紀と昭和天皇」</a>\n　Ｐ．３６</div>\n"
   },
   {
    "type": "raw",
@@ -195,7 +188,15 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>この年初頭、関西の土地会社が自社所有地内に松島遊郭を移転させるため\n政党に金をはらまいたという怪文書が飛びかった。\n大阪の中心部にある松島遊郭は風紀上の理由で移転が取りざたされていたのである。</div>\n<div>検察当局が動き出し、前政友会幹事長岩崎勲・憲政会総務箕浦勝人・政友本党党務委員長高見之通という大物政治家に\n疑惑の目が向けられた。\n岩崎は移転に際し、政友会は反対しないという党議をまとめるための運動費、\n箕浦は、<a href=\"../p/wreijiro.html\">若槻礼次郎内相</a>（当時）から松島遊郭移転を了解する言明を得るための資金、\n高見は、政友本党は移転を妨害しないという<a href=\"../p/ttakejir.html\">床次竹二郎総裁</a>の了解を得る運動費としてそれぞれ３～40万円を受け取ったというものだ。</div>\n<div>３人は起訴されたが、容疑は詐欺だった。\n検察当局は政府および大阪府には遊郭移転の計画はなかったとしたのである。\nこれに激怒した箕浦が「移転は知事が決定することで、自分が指示するはずがない」と証言した<a href=\"../p/wreijiro.html\">若槻礼次郎首相</a>（前内相）を\n偽証罪で告訴するという事件まで起こった。</div>\n<div>裁判では「犯罪の証拠なし」として箕浦、高見は無罪になった（岩崎は途中死亡）。\nしかし、実業家と政党幹部の醜い関係を国民に印象づけた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ys_20sei.html\">読売新聞社 「読む年表・20世紀と昭和天皇」</a>\n　Ｐ．３６</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>松島遊郭問題というのは簡単にいうと、\n当時大阪の松島遊郭が市内の発展とともに中心地になってきたので、\nそのような場所に遊郭があるのは風紀上おもしろくない。\nこれを他の場所に移転せしめるという議がおこり、その候補地として二、三の土地がえらばれた。\n遊郭が移転すれば、その土地が三業地として発展するので地価が暴騰する。\n遊郭の誘致をめぐって激烈な競争が演じられたが、ある土地会社が政党方面に運動を働きかけ、\n与党憲政会の総務箕浦勝人と野党政友会の幹事長岩崎勲に決定の斡旋を頼み金銭を贈った。\nこれが収賄罪に問われたのである。\nこれには<a href=\"../p/wreijiro.html\">若槻首相</a>の名前まで出て政友会の攻撃が集中されていた。</div>\n<div class=\"txr\"><a href=\"../text/ms1syowa.html\">松本清張 「昭和史発掘（１）」</a>\n　Ｐ．６９<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F416710699X%2Fqid%3D1147086156%2Fsr%3D1-2%2Fref%3Dsr_1_2_2\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>松島遊郭事件というのは、『日本政治裁判史録』によると、\n大阪市内にあった松島遊郭を市外に移転させるにあたって、政友会前幹事長岩崎勲、憲政会前総務箕浦勝人らが\n収賄容疑で起訴された事件をいう。一九二六年春のことである。\n土地会社の大東土地株式会社・柴谷土地建物会社・豊国土地株式会社の三者が入り乱れて、松島遊郭の移転誘致に動いた。\nその過程で大量の金がばらまかれ、何人もの政治家がつかまった。\nなかでも、憲政会の要職にあり、政界の長老（当時七二歳）として人望の厚かった箕浦の起訴は、世人を驚かせた。\n憲政会は、「事件は党に関係なく政府に関係なく単なる個人の私行にすぎない」として、\n政局に影響がおよばないよう懸命の打ち消しをおこなったが、政友会・政友本党は攻撃の手をゆるめなかった。\n大阪地方裁判所は、予審の過程で<a href=\"../p/wreijiro.html\">若槻首相</a>・中川望大阪府知事らを証人として喚問し、\n事件の背後関係を調査した。\n事件は政治問題化し、第五二議会の幕明けは波瀾ぶくみであった。</div>\n<div class=\"txr\"><a href=\"../text/nm_syo02.html\">中村政則 「昭和の歴史（２）」</a>\n　Ｐ．５０<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%2598%25AD%25E5%2592%258C%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2%25E3%2580%25882%25E3%2580%2589%25E6%2598%25AD%25E5%2592%258C%25E3%2581%25AE%25E6%2581%2590%25E6%2585%258C\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -203,11 +204,17 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",
-   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1926.html\">１９２６年</a>\n ＞ <a href=\"#h\">松嶋遊郭疑獄事件発覚</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1926.html\">１９２６年</a>\n ＞ <a href=\"#h\">松島遊郭疑獄事件発覚</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
   }
  ]
 }

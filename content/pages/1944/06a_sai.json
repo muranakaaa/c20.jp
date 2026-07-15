@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1944.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1944.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -173,7 +182,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1944/09/15　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ軍、ペリリュー島上陸</a>"
+       "html": "1944/09/15　　<a href=\"../1944/09pelel.html\">\nアメリカ軍、ペリリュー島上陸</a>"
       }
      ]
     },
@@ -203,25 +212,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -235,17 +228,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>第四十三師団の主力は五月九日、極秘裡に名古屋港を出発、\n五月十九日サイパン島に上陸したので、当時途中の米軍潜水艦の攻撃を心配していた大本営作戦課は思わず万歳をして\n喜んだと伝わっている。</div>\n<div>ところが、第二次の輸送船（一個連隊四千名）は次々に撃沈せられ、六月七日やっとサイパン島に辿りついたのは、\n海面に浮遊中を助けられた丸腰の千名だけだった。\n結局第四十三師団は一万六千名が一万三千名になって、そのうち千名は丸腰部隊となってしまった。</div>\n<div>第四十三師団は、それでも到着後直ちに陣地の構築にかかったが、\n米軍の主上陸正面と考えられる海岸は、珊瑚礁の脆い土質で崩れやすく、それに地下水がすぐ出て、\n軽度な壕を掘るのがせいぜいであった。\nましてセメントで陣地を作るとか、鉄条網を張るとか、対戦車用の深い壕を掘ることも出来ないため、\n近代戦にはほど遠いお粗末極まる陣地であった。</div>\n<div>大本営作戦課は、その後も一貫してそうであったが、任務は与えるが、\n対米戦闘に必要な陣地用の資材や糧食や弾薬を十分に与えることはなかった。\nそれにもう一つ、一番大事なものを与えることを失念していた。“時”である。\n絶対国防圏が決定されてから、第四十三師団を守備につかせるまでに、八ヶ月かかっている。\n防禦が攻撃に優るのは、地形の利用、資材の準備と時間である。そのどれもが、「ゼロ」であった。</div>\n<div class=\"txr\"><a href=\"../text/he_daiho.html\">堀栄三 「大本営参謀の情報戦記」</a>\n　Ｐ．１２９<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%25A4%25A7%25E6%259C%25AC%25E5%2596%25B6%25E5%258F%2582%25E8%25AC%2580%25E3%2581%25AE%25E6%2583%2585%25E5%25A0%25B1%25E6%2588%25A6%25E8%25A8%2598\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -253,7 +238,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

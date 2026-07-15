@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1946.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1946.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -233,25 +242,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "pt"
    },
-   "html": "\n<div class=\"pt_h\">～　<a href=\"../p/macart_d.html\">マッカーサー</a>メモ（全３項）の第２項　～</div>\n<div>国権の発動たる戦争は、廃止する。\n日本は、紛争解決の手段としての戦争、さらに自己の安全を保持するための戦争をも、放棄する。\n日本は、その防衛と保護を、今や成果を動かしつつある崇高な理想に委ねる。</div>\n<div>日本が陸海空軍を持つ機能は、将来も考えられることはなく、\n交戦権が日本に与えられることもない。</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+   "html": "\n<div class=\"pt_h\">～　マッカーサーメモ（全３項）の第２項　～</div>\n<div>国権の発動たる戦争は、廃止する。\n日本は、紛争解決の手段としての戦争、さらに自己の安全を保持するための戦争をも、放棄する。\n日本は、その防衛と保護を、今や成果を動かしつつある崇高な理想に委ねる。</div>\n<div>日本が陸海空軍を持つ機能は、将来も考えられることはなく、\n交戦権が日本に与えられることもない。</div>\n"
   },
   {
    "type": "raw",
@@ -265,17 +258,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>二月四日<a href=\"../p/whitne_c.html\">ホイットニー</a>は民政局の全員（朝鮮部担当を除く）を集め、次のように告示した。</div>\n<div>「これからの一週間は、民政局は憲法制定会議の役をすることになる。\n<a href=\"../p/macart_d.html\">マッカーサー将軍</a>は、日本国民のために新しい憲法を起草するという、歴史的意義のある仕事を民政局に委託された。\n民政局の草案の基本は、<a href=\"../p/macart_d.html\">マッカーサー将軍</a>の略述された三原則であるぺきである」</div>\n<div>「二月十二日までに、民政局の新憲法草案が完成し、<a href=\"../p/macart_d.html\">マッカーサー将軍</a>の承認をうけることを希望する。\n二月十二日に、自分は日本の<a href=\"../p/ysigeru.html\">外務大臣</a>その他の係官と、日本側の憲法草案についてオフ・ザ・レコードの会合をもつことになっている。\nこの日本側の草案は、右翼的［＝保守的］傾向の強いものだろうと思われる。\nしかし自分としては、<a href=\"../p/ysigeru.html\">外務大臣</a>とそのグループに、<a href=\"../p/stenno.html\">天皇</a>を護持し、\nかつ彼ら自身の権力として残っているものを維持するための唯一の可能な道は、\nはっきりと左よりの［＝進歩的な］道をとることを要請するような憲法を受け容れ、これを認めることだ、\nということを納得させるつもりである」</div>\n<div>この言明は占領軍の政策が既存の権力機構を弱体化しつつも、\nそれを利用しながら改革をおし進めることにあることをハッキリと示している。<a href=\"../p/whitne_c.html\">ホイットニー</a>はさらにいう。</div>\n<div>「自分は説得を通じてこういう結論に達したいと希望しているが、説得の道が不可能なときには、\n力を用いるといっておどかすことだけではなく、力を用いること自体の授権を、<a href=\"../p/macart_d.html\">マッカーサー将軍</a>からえている」</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/sr_mac2k.html\">袖井林二郎 「マッカーサーの二千日」</a>\n　Ｐ．１７６</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>二月四日<a href=\"../p/whitne_c.html\">ホイットニー</a>は民政局の全員（朝鮮部担当を除く）を集め、次のように告示した。</div>\n<div>「これからの一週間は、民政局は憲法制定会議の役をすることになる。\n<a href=\"../p/macart_d.html\">マッカーサー将軍</a>は、日本国民のために新しい憲法を起草するという、歴史的意義のある仕事を民政局に委託された。\n民政局の草案の基本は、<a href=\"../p/macart_d.html\">マッカーサー将軍</a>の略述された三原則であるぺきである」</div>\n<div>「二月十二日までに、民政局の新憲法草案が完成し、<a href=\"../p/macart_d.html\">マッカーサー将軍</a>の承認をうけることを希望する。\n二月十二日に、自分は日本の<a href=\"../p/ysigeru.html\">外務大臣</a>その他の係官と、日本側の憲法草案についてオフ・ザ・レコードの会合をもつことになっている。\nこの日本側の草案は、右翼的［＝保守的］傾向の強いものだろうと思われる。\nしかし自分としては、<a href=\"../p/ysigeru.html\">外務大臣</a>とそのグループに、<a href=\"../p/stenno.html\">天皇</a>を護持し、\nかつ彼ら自身の権力として残っているものを維持するための唯一の可能な道は、\nはっきりと左よりの［＝進歩的な］道をとることを要請するような憲法を受け容れ、これを認めることだ、\nということを納得させるつもりである」</div>\n<div>この言明は占領軍の政策が既存の権力機構を弱体化しつつも、\nそれを利用しながら改革をおし進めることにあることをハッキリと示している。<a href=\"../p/whitne_c.html\">ホイットニー</a>はさらにいう。</div>\n<div>「自分は説得を通じてこういう結論に達したいと希望しているが、説得の道が不可能なときには、\n力を用いるといっておどかすことだけではなく、力を用いること自体の授権を、<a href=\"../p/macart_d.html\">マッカーサー将軍</a>からえている」</div>\n<div class=\"txr\"><a href=\"../text/sr_mac2k.html\">袖井林二郎 「マッカーサーの二千日」</a>\n　Ｐ．１７６<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E3%2583%259E%25E3%2583%2583%25E3%2582%25AB%25E3%2583%25BC%25E3%2582%25B5%25E3%2583%25BC%25E3%2581%25AE%25E4%25BA%258C%25E5%258D%2583%25E6%2597%25A5%2520%2520%2520%2520%25E4%25B8%25AD%25E5%2585%25AC%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -283,7 +268,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

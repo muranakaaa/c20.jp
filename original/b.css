@@ -32,7 +32,7 @@ background-color:#fff;
 /*　リンクテーブルの設定　*/
 
 table.lt{
-margin:2px 4px 2px 4px;
+margin:3px 4px 3px 4px;
 border:none;
 }
 td.lt{
@@ -56,6 +56,7 @@ background-color:#fff;
 table.line{
 border-top:4px double #039;
 border-bottom:2px solid #039;
+margin:2px 0px 18px 0px;
 }
 td#l,td.l{
 border-bottom:1px solid #00c;
@@ -84,8 +85,8 @@ color:#009;
 font-size:10.5pt;
 line-height:160%;
 letter-spacing:1px;
-border:4px double #039;
-margin-bottom:2px;
+border:3px double #039;
+margin-bottom:18px;
 padding:9px 18px 12px 18px;
 }
 .pt_h{
@@ -112,6 +113,8 @@ background-color:#fff;
 /*　テキストスペースの設定　*/
 
 .tx{
-padding:15px 15px 8px 15px;
+padding:15px 15px 12px 18px;
 }
+
+
 

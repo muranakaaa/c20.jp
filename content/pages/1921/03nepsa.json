@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1921.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1921.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -88,12 +97,12 @@
      ]
     },
     {
-     "cls": "b",
+     "cls": "n",
      "cells": [
       {
        "id": "l",
        "cls": null,
-       "html": "1920/04/25　　<a href\"..=\"\" 19.html\"=\"\">\nソビエト・ポーランド戦争勃発　（～10/12）</a>"
+       "html": "1920/04/25　　<a href=\"../1920/04sp_wa.html\">\nソビエト・ポーランド戦争勃発</a>　（～10/12）"
       }
      ]
     },
@@ -163,25 +172,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -195,17 +188,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>戦時共産主義のもとで、極度の国家統制による経済政策がとられたが、これが軌道に乗らず穀物の収穫は激減し、\n二一年には数百万人が餓死している。\nそのため、二一年春には新経済政策（ネップ）への転換がおこなわれた。\n新経済政策の主要なものは、農民が嫌悪していた食糧割り当て徴発制度の廃止と現物税制度の導入である。\nこれは農民に好意的に受けいれられ、その結果、農民反乱は沈静化した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ks_nse26.html\">木村靖二・柴宜弘・長沼秀世 「世界の歴史（26）」</a>\n　Ｐ．１５６</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>戦時共産主義のもとで、極度の国家統制による経済政策がとられたが、これが軌道に乗らず穀物の収穫は激減し、\n二一年には数百万人が餓死している。\nそのため、二一年春には新経済政策（ネップ）への転換がおこなわれた。\n新経済政策の主要なものは、農民が嫌悪していた食糧割り当て徴発制度の廃止と現物税制度の導入である。\nこれは農民に好意的に受けいれられ、その結果、農民反乱は沈静化した。</div>\n<div class=\"txr\"><a href=\"../text/ks_nse26.html\">木村靖二・柴宜弘・長沼秀世 「世界の歴史（26）」</a>\n　Ｐ．１５６<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E4%25B8%2596%25E7%2595%258C%25E5%25A4%25A7%25E6%2588%25A6%25E3%2581%25A8%25E7%258F%25BE%25E4%25BB%25A3%25E6%2596%2587%25E5%258C%2596%25E3%2581%25AE%25E9%2596%258B%25E5%25B9%2595%2520%2520%2520%2520%25E4%25B8%2596%25E7%2595%258C%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -213,7 +198,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

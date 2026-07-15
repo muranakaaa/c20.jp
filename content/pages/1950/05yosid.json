@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1950.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1950.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -183,25 +192,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -215,17 +208,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>マッカーサーが共産党を攻撃すれば、<a href=\"../p/ysigeru.html\">吉田首相</a>は全面講和論を攻撃した。\n彼は、前年暮にアメリカで全面講和を主張した東大総長南原繁の言説をにくんでいた。\n南原総長は、三月の卒業式においても、社会にでてゆく学生にむかって平和と全面講和を説いていた。\n五月三日、自由党の両院議員秘密総会で演説した<a href=\"../p/ysigeru.html\">吉田首相</a>は、「永世中立とか全面講和などということは、\nいうべくしてとうていおこなわれないこと」であり、「それを南原総長などが政治家の領域にたちいってかれこれいうことは、\n曲学阿世の徒にほかならないといえよう」と強調した。</div>\n<div>南原総長は、五月六日、<a href=\"../p/ysigeru.html\">吉田首相</a>に反論し、曲学阿世の徒などという「極印は、満州事変以来、<a href=\"../p/mtatukic.html\">美濃部博士</a>をはじめわれわれ学者にたいし、\n軍部とその一派によって押しつけられてきたもの」であり、\n「学問の冒涜、学者にたいする権力的弾圧以外のものではない」と逆襲して<a href=\"../p/ysigeru.html\">吉田首相</a>の「官僚的態度」を非難し、\n「全面講和は国民の何人もが欲するところであって、それを理由づけ、国民の覚悟を論ずるは、\nことに私には政治学者としての責務である」と強調し、\n「複雑変移する国際情勢のなかにおいて、現実を理想に近接融合せしめるために、英知と努力をかたむけることにこそ、\n政治と政治家の任務がある」にもかかわらず、「それをはじめから曲学阿世の徒の空論として、\n全面講和や永世中立論を封じ去ろうとするところに、日本の民主政治の危機の問題がある」と声明した。\n<a href=\"../p/ysigeru.html\">吉田首相</a>は、八日、記者団と会見して「南原君が反論しようとしまいと、それは当人の勝手で、\n私の知ったことではない」とうそぶき、「日本としては事実上アメリカなどとの単独講和はすでにできている」のだから、\n「これを法的に講和にもってゆくべきだ」と主張した。\n<a href=\"../p/ysigeru.html\">吉田首相</a>の態度は、まさに官僚的であり、国民との対話をみずから拒否していた。</div>\n<div><a href=\"../p/ysigeru.html\">吉田首相</a>の官僚的態度は、幹事長<a href=\"../p/seisaku.html\">佐藤栄作</a>の官僚的態度によって倍化されていた。\n<a href=\"../p/seisaku.html\">佐藤</a>は、南原総長の声明にたいし「党は政治的観点から現実的な問題として講和問題をとりあげているのであって、\nこれは南原氏などにとやかくいわれるところではない」と反論し、\n「もとより学問の自由は尊重するが、この問題はすでに政治の問題になっているので、\nゾウゲの塔にある南原氏が政治的表現をするのは日本にとってむしろ有害である」と強調した。\n彼は、「政治の問題になっている」からこそ国民が政治にたいして発言するのだという民主主義の原理を知らなかった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ss4sengo.html\">信夫清三郎 「戦後日本政治史Ⅳ」</a>\n　Ｐ．１１１２</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>マッカーサーが共産党を攻撃すれば、<a href=\"../p/ysigeru.html\">吉田首相</a>は全面講和論を攻撃した。\n彼は、前年暮にアメリカで全面講和を主張した東大総長南原繁の言説をにくんでいた。\n南原総長は、三月の卒業式においても、社会にでてゆく学生にむかって平和と全面講和を説いていた。\n五月三日、自由党の両院議員秘密総会で演説した<a href=\"../p/ysigeru.html\">吉田首相</a>は、「永世中立とか全面講和などということは、\nいうべくしてとうていおこなわれないこと」であり、「それを南原総長などが政治家の領域にたちいってかれこれいうことは、\n曲学阿世の徒にほかならないといえよう」と強調した。</div>\n<div>南原総長は、五月六日、<a href=\"../p/ysigeru.html\">吉田首相</a>に反論し、曲学阿世の徒などという「極印は、満州事変以来、<a href=\"../p/mtatukic.html\">美濃部博士</a>をはじめわれわれ学者にたいし、\n軍部とその一派によって押しつけられてきたもの」であり、\n「学問の冒涜、学者にたいする権力的弾圧以外のものではない」と逆襲して<a href=\"../p/ysigeru.html\">吉田首相</a>の「官僚的態度」を非難し、\n「全面講和は国民の何人もが欲するところであって、それを理由づけ、国民の覚悟を論ずるは、\nことに私には政治学者としての責務である」と強調し、\n「複雑変移する国際情勢のなかにおいて、現実を理想に近接融合せしめるために、英知と努力をかたむけることにこそ、\n政治と政治家の任務がある」にもかかわらず、「それをはじめから曲学阿世の徒の空論として、\n全面講和や永世中立論を封じ去ろうとするところに、日本の民主政治の危機の問題がある」と声明した。\n<a href=\"../p/ysigeru.html\">吉田首相</a>は、八日、記者団と会見して「南原君が反論しようとしまいと、それは当人の勝手で、\n私の知ったことではない」とうそぶき、「日本としては事実上アメリカなどとの単独講和はすでにできている」のだから、\n「これを法的に講和にもってゆくべきだ」と主張した。\n<a href=\"../p/ysigeru.html\">吉田首相</a>の態度は、まさに官僚的であり、国民との対話をみずから拒否していた。</div>\n<div><a href=\"../p/ysigeru.html\">吉田首相</a>の官僚的態度は、幹事長<a href=\"../p/seisaku.html\">佐藤栄作</a>の官僚的態度によって倍化されていた。\n<a href=\"../p/seisaku.html\">佐藤</a>は、南原総長の声明にたいし「党は政治的観点から現実的な問題として講和問題をとりあげているのであって、\nこれは南原氏などにとやかくいわれるところではない」と反論し、\n「もとより学問の自由は尊重するが、この問題はすでに政治の問題になっているので、\nゾウゲの塔にある南原氏が政治的表現をするのは日本にとってむしろ有害である」と強調した。\n彼は、「政治の問題になっている」からこそ国民が政治にたいして発言するのだという民主主義の原理を知らなかった。</div>\n<div class=\"txr\"><a href=\"../text/ss4sengo.html\">信夫清三郎 「戦後日本政治史Ⅳ」</a>\n　Ｐ．１１１２<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4326398191%2Fqid%3D1147087145%2Fsr%3D1-4%2Fref%3Dsr_1_8_4\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -233,7 +218,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

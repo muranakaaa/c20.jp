@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1944.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1944.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -153,25 +162,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "pt"
    },
-   "html": "\n<div class=\"pt_h\">～　<a href=\"../p/mrenya.html\">牟田口司令官</a>いわくインパール作戦は　～</div>\n<div class=\"i2\">「ジンギスカン作戦」　：補給路をつくらず、わずかな食糧と、家畜を連れていく</div>\n<div class=\"i2\">「ひよどり越え作戦」　：インド・ビルマ国境の山岳地帯を一気に突進する</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+   "html": "\n<div class=\"pt_h\">～　<a href=\"../p/mrenya.html\">牟田口司令官</a>いわくインパール作戦は　～</div>\n<div class=\"i4\">「ジンギスカン作戦」　：補給路をつくらず、わずかな食糧と、家畜を連れていく</div>\n<div class=\"i4\">「ひよどり越え作戦」　：インド・ビルマ国境の山岳地帯を一気に突進する</div>\n"
   },
   {
    "type": "raw",
@@ -185,17 +178,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/mrenya.html\">牟田口</a>は、第一八師団長当時、\n作戦地域の困難を指摘して二一号作戦に反対した。\nしかし彼が第一五軍司令官に就任したとき、彼の判断は一八〇度の転換をとげていた。\nすなわち、連合軍の三正面からの総反抗準備が進んでいるとの情報を得、\nウィンゲート旅団の挺進作戦を見た彼は、従来の守勢的ビルマ防衛ではなく、\n攻勢防禦によるビルマ防衛論を唱えたのである。\n彼の判断によれば、ウィンゲート旅団の行動からしてジビュー山系に設定した現在の防衛第一線ではもはや安全ではないので、\nこれをチンドウィン河の線まで推進する必要があるが、\nチンドウィン河ですら乾季には敵の進攻に対する障害とはなりえず、かつ防衛正面も広くなるので、\nむしろこの際初めから攻勢に出、連合軍反抗の策源地インパールを攻略すべし、というのであった。</div>\n<div>しかし、彼の構想は攻勢防禦によるビルマ防衛という軍事的判断だけにとどまるものではなかった。\n彼の構想は単なるビルマ防衛を超え、インド進攻にまで飛躍した。\n彼は第一八師団長当時に二一号作戦に不同意を唱えたことを、「必勝の信念」に欠けた態度であり\n軍の威信を汚す結果となったと反省し、今後はけっして消極的な意見具申を行なわず積極的に上司の意図を体して\nその実現を図ろう、と決意していた。\n　【中略】　二一号作戦は明確に中止されたのではなく単に実施を保留されていただけであったから、\n<a href=\"../p/mrenya.html\">牟田口</a>としては、その実施に備えることは当然、上司の意図を体するものとみなされたのである。</div>\n<div>さらに、彼のインド進攻論には、個人的な心情もからんでいた。それは、\n<a href=\"../1937/07rokok.html\">盧溝橋事件</a>の当事者（連隊長）であった自責の念に基づき、次のような内容をもつものであった。</div>\n<div><br>私は<a href=\"../1937/07rokok.html\">盧溝橋事件</a>のきっかけを作ったが、事件は拡大して支那事変となり、遂には今次大東亜戦争にまで進展してしまった。\nもし今後自分の力によってインドに進攻し、大東亜戦争遂行に決定的な影響を与えることができれば、\n<a href=\"../1941/12hawai.html\">今次大戦勃発</a>の遠因を作った私としては、国家に対して申し訳が立つであろう。</div>\n<div><br><a href=\"../p/mrenya.html\">牟田口</a>がアラカン山系への防衛線推進構想からインド進攻論へと飛躍することを最も強く支えたものは、\nこのような彼の個人的心情であったかもしれない。</div>\n<div class=\"txr\"><a href=\"../text/tr_sippa.html\">戸部良一他 「失敗の本質」</a>\n　Ｐ．１４８<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%25A4%25B1%25E6%2595%2597%25E3%2581%25AE%25E6%259C%25AC%25E8%25B3%25AA%25E2%2580%2595%25E6%2597%25A5%25E6%259C%25AC%25E8%25BB%258D%25E3%2581%25AE%25E7%25B5%2584%25E7%25B9%2594%25E8%25AB%2596%25E7%259A%2584%25E7%25A0%2594%25E7%25A9%25B6%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -203,7 +188,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

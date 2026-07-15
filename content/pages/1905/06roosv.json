@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1905.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1905.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -54,6 +63,16 @@
        "id": "l",
        "cls": null,
        "html": "1904/02/10　　<a href=\"../1904/02jr_wa.html\">\n対露宣戦布告</a>　（<a href=\"../them/jr_war.html\">日露戦争</a>勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/24　　<a href=\"../1904/02kanek.html\">\n金子特使渡米</a>"
       }
      ]
     },
@@ -103,7 +122,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1905/06/01　　<a href\"..=\"\" 19.html\"=\"\">\n高平駐米公使、Ｔ・ルーズベルト（米）大統領に講和斡旋を要望</a>"
+       "html": "1905/06/01　　<a href=\"../1905/06assen.html\">\n高平駐米公使、Ｔ・ルーズベルト（米）大統領に講和斡旋を要望</a>"
       }
      ]
     },
@@ -134,6 +153,16 @@
        "id": "l",
        "cls": null,
        "html": "1905/07/07　　<a href=\"../1905/07karaf.html\">\n第13師団、南樺太上陸</a>　（07/31 樺太占領）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/07/21　　<a href=\"../1905/07sisat.html\">\n山県参謀総長、満州軍を視察</a>"
       }
      ]
     },
@@ -193,25 +222,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -225,17 +238,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>六月六日夜、駐日アメリカ公使グリスコムは<a href=\"../p/kjutaro.html\">小村外相</a>を外務省に訪れ、またロシアでもアメリカ大使メイヤーがロシア政府に対し、\n<a href=\"../p/roosev_t.html\">ルーズベルト</a>の公文書を手渡した。その内容は、</div>\n<div>「日露両国のみならず文明世界全体の利益のため、講和会議の開始を切望する」</div>\n<div>というもので、会合の日時、場所の決定に力をかしたいとも記されていた。</div>\n<div>日露両国は、公式に勧告に応ずると回答し、<a href=\"../p/roosev_t.html\">ルーズベルト</a>は、気持の変りやすい<a href=\"../p/nikolai2.html\">ロシア皇帝</a>が回答をひるがえすことを恐れ、\nその内容を新聞に公表した。</div>\n<div><a href=\"../p/kjutaro.html\">小村外相</a>は、<a href=\"../p/roosev_t.html\">ルーズベルト</a>の周到な配慮に謝意をしめすとともに、\n講和について支持の態度をとった<a href=\"../p/wilhelm2.html\">ドイツ皇帝</a>、フランス外相ルヴィエルにもそれぞれ感謝の電報を送った。\nかれは、列国の好意を日本にひきつけると同時に、米、独、仏三国の力で<a href=\"../p/nikolai2.html\">ロシア皇帝</a>の翻意を防ごうとしたのである。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ya_portm.html\">吉村昭 「ポーツマスの旗」</a>\n　Ｐ．３６</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>六月六日夜、駐日アメリカ公使グリスコムは<a href=\"../p/kjutaro.html\">小村外相</a>を外務省に訪れ、またロシアでもアメリカ大使メイヤーがロシア政府に対し、\n<a href=\"../p/roosev_t.html\">ルーズベルト</a>の公文書を手渡した。その内容は、</div>\n<div>「日露両国のみならず文明世界全体の利益のため、講和会議の開始を切望する」</div>\n<div>というもので、会合の日時、場所の決定に力をかしたいとも記されていた。</div>\n<div>日露両国は、公式に勧告に応ずると回答し、<a href=\"../p/roosev_t.html\">ルーズベルト</a>は、気持の変りやすい<a href=\"../p/nikolai2.html\">ロシア皇帝</a>が回答をひるがえすことを恐れ、\nその内容を新聞に公表した。</div>\n<div><a href=\"../p/kjutaro.html\">小村外相</a>は、<a href=\"../p/roosev_t.html\">ルーズベルト</a>の周到な配慮に謝意をしめすとともに、\n講和について支持の態度をとった<a href=\"../p/wilhelm2.html\">ドイツ皇帝</a>、フランス外相ルヴィエルにもそれぞれ感謝の電報を送った。\nかれは、列国の好意を日本にひきつけると同時に、米、独、仏三国の力で<a href=\"../p/nikolai2.html\">ロシア皇帝</a>の翻意を防ごうとしたのである。</div>\n<div class=\"txr\"><a href=\"../text/ya_portm.html\">吉村昭 「ポーツマスの旗」</a>\n　Ｐ．３６<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2584%25E3%2583%259E%25E3%2582%25B9%25E3%2581%25AE%25E6%2597%2597%2520%2520%2520%2520%25E6%2596%25B0%25E6%25BD%25AE%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -243,7 +248,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

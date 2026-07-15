@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -46,9 +55,9 @@
    "type": "raw",
    "tag": "table",
    "attrs": {
-    "class": "off"
+    "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"03s.html\">一覧　（サ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%2598%25AD%25E5%2592%258C%2520%25E5%25A4%25A9%25E7%259A%2587\" target=\"_blank\">本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
   },
   {
    "type": "raw",
@@ -56,15 +65,7 @@
    "attrs": {
     "class": "ep1"
    },
-   "html": "<span class=\"m_r\">エピソード 1</span>温和な平和主義者は、でも、ぶち切れるとすごい。\n１度は満州某重大事件の責任者処分に関して、話がちがう、辞表を出せ、とまで。\nこの件については戦後、若気の至り、と反省。２度目は二・二六事件。\nとりなす側近たちの言葉をすべて論駁し、「朕自ら<a href=\"../p/kfumimar.html\">近衛</a>を率い鎮定にあたらん」とまで言ってる。\nただ、たとえ話には弱く、<a href=\"../p/kkoici.html\">木戸</a>と<a href=\"../p/nosami.html\">永野</a>にははめられた感がある。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+   "html": "<span class=\"m_r\">エピソード 1</span>温和な平和主義者は、でも、ぶち切れるとすごい。\n１度は<a href=\"../1928/06cyoxx.html\">満州某重大事件</a>の責任者処分に関して、話がちがう、辞表を出せ、とまで。\nこの件については戦後、若気の至り、と反省。２度目は<a href=\"../1936/02226ji.html\">二・二六事件</a>。\nとりなす側近たちの言葉をすべて論駁し、「朕自ら近衛師団を率い鎮定にあたらん」とまで言ってる。\nただ、たとえ話には弱く、<a href=\"../p/kkoici.html\">木戸</a>と<a href=\"../p/nosami.html\">永野</a>にははめられた感がある。"
   },
   {
    "type": "timeline",
@@ -122,14 +123,6 @@
    ]
   },
   {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
-  },
-  {
    "type": "timeline",
    "rows": [
     {
@@ -178,7 +171,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1919/06/10　　<a href\"..=\"\" 19.html\"=\"\">\n皇太子婚約</a>"
+       "html": "1919/06/10　　<a href=\"../1919/06konya.html\">\n皇太子婚約</a>"
       }
      ]
     },
@@ -358,6 +351,16 @@
       {
        "id": "l",
        "cls": null,
+       "html": "1945/02/14　　<a href=\"../1945/02konoe.html\">\n近衛文麿、天皇に上奏文を奉呈</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
        "html": "1945/06/18　　<a href=\"../1945/06tenno.html\">\n天皇、和平交渉推進を決定</a>"
       }
      ]
@@ -468,49 +471,25 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "cm"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "<span class=\"m_y\">語録</span>\n秩父宮は私にはない帝王の性質をいろいろそなえておる。\nあれは生まれながらの指導者だ。\n自分の感じたことをためらわずに表わす。\n帝王の仕事はあれにはやさしいことだ。\n自分が大臣や国民に何を求めているか、あれは疑問に思ったことがない。\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "<span class=\"m_b\">エピソード</span>\n調査中。"
+   "html": "<span class=\"m_o\">評</span>\n私は、天皇という政治的立場からの視点にたつかぎり、\n昭和天皇はまれにみるすぐれた才略と手腕をもった政治家であったと考えている。\n天武天皇や<a href=\"../p/mtenno.html\">明治天皇</a>のような創業者型の天皇は別として、\n歴代天皇のなかに昭和天皇に匹敵する政治的力量を発揮した天皇をさがすとすれば、\n源頼朝が「大天狗」と呼んで舌をまいた後白河上皇あるのみ、と考える。\nそれだけに、昭和の戦争の時代における天皇の存在は大きく重いものがある。\n<div class=\"r\">大江志乃夫　（<a href=\"../text/os_cyosa.html\">歴史学者</a>）</div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "tx"
    },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/mtenno.html\">明治天皇</a>は、裕仁親王の学習院初等科入学（一九〇八年）にさきだち\n現役陸軍大将<a href=\"../p/nmaresuk.html\">乃木希典</a>を学習院長に任命し、裕仁親王の教育を託した。\n<a href=\"../p/nmaresuk.html\">乃木</a>は、裕仁親王が皇太子になった直後の一九一二年（大正元）九月、\n<a href=\"../p/mtenno.html\">明治天皇</a>の大喪の日に<a href=\"../1912/09jyuns.html\">自決した</a>。裕仁親王が初等科五年の年であった。\n後任「学習院長の人選に就いては小笠原子爵、徳川公爵等其候補者に擬せられ居たるが、\n今回愈々陸軍大将大迫尚敏氏を其後任たらしむることに決定」した（『東京朝日新聞』十一月八日）。\n皇太子は一九一四年（大正三）春に初等科を卒業した。</div>\n<div>学習院初等科卒業とともに、その年の五月、皇太子に帝王学をさずけることを目的とした東宮御学問所が設置され、\n元帥海軍大将<a href=\"../p/theihaci.html\">東郷平八郎</a>が御学問所総裁に任命された。\n皇太子は二十歳をむかえる一九二一年（大正一〇）二月に東宮御学問所を修了、\n御学問所は閉所された。\n御学問所修了のすぐあと、皇太子は三月に<a href=\"../1921/03houou.html\">ヨーロッパ訪問の旅にでた</a>。</div>\n<div class=\"txr\"><a href=\"../text/os_cyosa.html\">大江志乃夫 「張作霖爆殺」</a>\n　Ｐ．８９<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%25BC%25B5%25E4%25BD%259C%25E9%259C%2596%25E7%2588%2586%25E6%25AE%25BA%25E2%2580%2595%25E6%2598%25AD%25E5%2592%258C%25E5%25A4%25A9%25E7%259A%2587%25E3%2581%25AE%25E7%25B5%25B1%25E5%25B8%25A5\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -518,7 +497,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

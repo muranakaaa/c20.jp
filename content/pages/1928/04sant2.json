@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1928.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1928.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -53,7 +62,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1926/07/09　　<a href\"..=\"\" 19.html\"=\"\">\n蒋介石、北伐開始</a>"
+       "html": "1926/07/09　　<a href=\"../1926/07hokub.html\">\n蒋介石、北伐開始</a>"
       }
      ]
     },
@@ -203,25 +212,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -235,9 +228,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>政友会幹部は、前年四月の施政方針演説以来、七月の「対支政策綱領」、八月の撤兵声明、そして一九二八年一月の施政方針演説などにおいて、\nくりかえし主張してきた「対華積極方針」の手前、政友会の面子にかけても出兵をおこなわざるをえないと考えたのであった。\n「出兵せずに在留邦人が一人でも殺されたら内閣が危い！」これは政友会幹部たちの実感であった。\n圧倒的多数の出兵反対説をしりぞけて、けっきょく出兵に踏みきったのは<a href=\"../p/tgiici.html\">田中</a>と<a href=\"../p/mkaku.html\">森</a>、\nおよび<a href=\"../p/oheikici.html\">小川平吉</a>らごく少数の政友会の「有力者」たちであった。</div>\n<div>このひとつまみの人たちの決定によって、日本は華北駐屯軍から歩兵三個中隊を、内地からは第六師団を、\n済南に派遣することになったのである。</div>\n<div class=\"txr\"><a href=\"../text/mo_sek15.html\">村瀬興雄 「世界の歴史（15）」</a>\n　Ｐ．２５０<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4122002281%2Fqid%3D1146490541%2Fsr%3D1-3%2Fref%3Dsr_1_10_3\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -245,7 +238,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>政友会幹部は、前年四月の施政方針演説以来、七月の「対支政策綱領」、八月の撤兵声明、そして一九二八年一月の施政方針演説などにおいて、\nくりかえし主張してきた「対華積極方針」の手前、政友会の面子にかけても出兵をおこなわざるをえないと考えたのであった。\n「出兵せずに在留邦人が一人でも殺されたら内閣が危い！」これは政友会幹部たちの実感であった。\n圧倒的多数の出兵反対説をしりぞけて、けっきょく出兵に踏みきったのは<a href=\"../p/tgiici.html\">田中</a>と<a href=\"../p/mkaku.html\">森</a>、\nおよび<a href=\"../p/oheikici.html\">小川平吉</a>らごく少数の政友会の「有力者」たちであった。</div>\n<div>このひとつまみの人たちの決定によって、日本は華北駐屯軍から歩兵三個中隊を、内地からは第六師団を、\n済南に派遣することになったのである。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/mo_sek15.html\">村瀬興雄 「世界の歴史（15）」</a>\n　Ｐ．２５０</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>一九二八年（昭和三）二月、南京国民政府の主席<a href=\"../p/syokaise.html\">蒋介石</a>は、\n北洋軍閥の閻錫山・馮玉祥と連携し、共同で<a href=\"../p/cyosakur.html\">張作霖</a>軍閥を攻撃するとの協定をむすんだ。\n第一集団軍総司令<a href=\"../p/syokaise.html\">蒋介石</a>、第二集団軍総司令馮玉祥、第三集団軍総司令閻錫山、この三軍は、作戦協定にしたがって、\n三月末に北伐攻撃を再開した。<a href=\"../p/syokaise.html\">蒋介石</a>軍は、津浦線にそって北上を開始、\n馮玉祥の軍隊は、京漢線正面から北軍の中央線突破を準備し、\n閻錫山の軍隊は、山西の省境から京綏線にそって北京にむかった。\n四月一六日、三軍は北軍をじりじりと追いつめ、済南を半円形に包囲することになった。</div>\n<div>この情勢をみて、<a href=\"../1927/tanaa_1.html\">田中内閣</a>は、四月一九日、居留民の現地保護を理由に、ふたたび出兵を決定した（第二次山東出兵）。\n一九二七年末、山東省の在留邦人は、青島に一万三〇〇〇名、済南に二一〇〇名おり、\n事業投資は、青島に約六六〇〇万円、済南に五〇〇万円であった。\n出兵論の急先鋒は、またもや白川陸相と<a href=\"../p/mkaku.html\">森恪</a>であった。\n四月二五日の『朝日新聞』は、「外交抜きの出兵を無造作にやることは、無策を通り越した無謀である。\n<a href=\"../1927/tanaa_1.html\">現内閣</a>の行ふところは、出兵だけである。\n流石に出兵だけはきびきびしてゐる」と皮肉ったが、たしかに、<a href=\"../1927/tanaa_1.html\">田中内閣</a>のこのときの対応はすばやかった。\n政府は四月一九日、天津駐屯軍中より、歩兵三個中隊を済南に急派させ、同時に熊本第六師団に出動を命じた。\n第六師団五〇〇〇名の兵は、二三日門司を出発、二六日済南に到着した。</div>\n<div class=\"txr\"><a href=\"../text/nm_syo02.html\">中村政則 「昭和の歴史（２）」</a>\n　Ｐ．１１８<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%2598%25AD%25E5%2592%258C%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2%25E3%2580%25882%25E3%2580%2589%25E6%2598%25AD%25E5%2592%258C%25E3%2581%25AE%25E6%2581%2590%25E6%2585%258C\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -253,7 +246,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

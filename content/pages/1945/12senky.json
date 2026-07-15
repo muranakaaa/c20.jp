@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1945.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1945.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -243,25 +252,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -275,17 +268,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>男尊女卑の根強い社会にあって婦人参政権への反発はやはりあった。\n「枢密院が猛烈に反対」して、担当大臣が立往生する事態となった時、\n楢橋法制局長官が野人ならではの武勇を働いたことを自伝に記している。</div>\n<div><br>皇居の中にある枢密院に駆けつけ、ドアをパットあけて乗りこんだ。\n痩身鶴の如き<a href=\"../p/hkiiciro.html\">平沼議長</a>はチラリと底光りのする眼で私を見た。\n顧問官も一斉にこの異様な男を、好奇心よりもむしろ苦々しい顔をして眺めていた。・・・・・・</div>\n<div>私は手を後に組み大喝一声した。\n「枢密顧問官諸君は婦人参政権法案に挙げて反対しているようだが、あなた方は、\n<a href=\"../p/hkiiciro.html\">平沼議長</a>をはじめ皆戦争犯罪人ではないか！・・・・・・相手国の力も計らず、自己の力も知らず、\nやたらに戦線を拡げて遂にパンクして、三千年の歴史を泥土に帰せしめたのは、\n政治上の発言権を持った男性の世界の失敗ではないか。\n然らば今回の戦争によって一番苦しんだ者は誰であるか。\nそれは老いたる母親であり若き妻である。\nはえば立て、立てば歩めと、千辛万苦して愛育した子供が成人に達すると赤紙一枚を以って、大陸の荒野に、南海の孤島に、\n母や妻をしのびつつ、チリ、アクタの如く死んで行った。・・・・・・もしこれらの女性に今少し早く、\n男性と同様の政治上の発言権を与えていたら、母の子への愛情、妻の夫への平和への願いから、\nこの無謀な戦争は或いは喰い止められていたかも知れない。</div>\n<div><a href=\"../p/hkiiciro.html\">平沼議長</a>、あなたは男から生れたとは聞いていない。\n・・・・・・女を大事にして母親を偉大ならしめることが何か男性の損になるのか。\n・・・・・・枢密院の顧問官諸君に一言警告する。\n貴殿の坐っている椅子は日本の敗戦、<a href=\"../p/macart_d.html\">マッカーサー</a>の進駐によって既に転覆しているのである。\nそれに気付かず旧い制度を守り、呑気にしているのは時局を見る目を失った惰性と見る。\n<a href=\"../p/macart_d.html\">マ司令官</a>が貴殿等を戦争犯罪人として牢獄にぶち込む準備をしていることを私は知っている」（楢橋『激流に棹さして』）</div>\n<div><br>いやはや、たいへんな法制局長官があったものである。\n粗暴といってよい剛腕ぶりと、どこか胸をうつ本質をとらえた言動、\nその両方を持つのが楢橋という人物である。\n枢密院がふるえ上がって抵抗をやめたことは言うまでもない。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/im_senry.html\">五百旗頭真 「占領期」</a>\n　Ｐ．１６７</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>男尊女卑の根強い社会にあって婦人参政権への反発はやはりあった。\n「枢密院が猛烈に反対」して、担当大臣が立往生する事態となった時、\n楢橋法制局長官が野人ならではの武勇を働いたことを自伝に記している。</div>\n<div><br>皇居の中にある枢密院に駆けつけ、ドアをパットあけて乗りこんだ。\n痩身鶴の如き<a href=\"../p/hkiiciro.html\">平沼議長</a>はチラリと底光りのする眼で私を見た。\n顧問官も一斉にこの異様な男を、好奇心よりもむしろ苦々しい顔をして眺めていた。・・・・・・</div>\n<div>私は手を後に組み大喝一声した。\n「枢密顧問官諸君は婦人参政権法案に挙げて反対しているようだが、あなた方は、\n<a href=\"../p/hkiiciro.html\">平沼議長</a>をはじめ皆戦争犯罪人ではないか！・・・・・・相手国の力も計らず、自己の力も知らず、\nやたらに戦線を拡げて遂にパンクして、三千年の歴史を泥土に帰せしめたのは、\n政治上の発言権を持った男性の世界の失敗ではないか。\n然らば今回の戦争によって一番苦しんだ者は誰であるか。\nそれは老いたる母親であり若き妻である。\nはえば立て、立てば歩めと、千辛万苦して愛育した子供が成人に達すると赤紙一枚を以って、大陸の荒野に、南海の孤島に、\n母や妻をしのびつつ、チリ、アクタの如く死んで行った。・・・・・・もしこれらの女性に今少し早く、\n男性と同様の政治上の発言権を与えていたら、母の子への愛情、妻の夫への平和への願いから、\nこの無謀な戦争は或いは喰い止められていたかも知れない。</div>\n<div><a href=\"../p/hkiiciro.html\">平沼議長</a>、あなたは男から生れたとは聞いていない。\n・・・・・・女を大事にして母親を偉大ならしめることが何か男性の損になるのか。\n・・・・・・枢密院の顧問官諸君に一言警告する。\n貴殿の坐っている椅子は日本の<a href=\"../1945/08gyoku.html\">敗戦</a>、<a href=\"../p/macart_d.html\">マッカーサー</a>の進駐によって既に転覆しているのである。\nそれに気付かず旧い制度を守り、呑気にしているのは時局を見る目を失った惰性と見る。\n<a href=\"../p/macart_d.html\">マ司令官</a>が貴殿等を戦争犯罪人として牢獄にぶち込む準備をしていることを私は知っている」（楢橋『激流に棹さして』）</div>\n<div><br>いやはや、たいへんな法制局長官があったものである。\n粗暴といってよい剛腕ぶりと、どこか胸をうつ本質をとらえた言動、\nその両方を持つのが楢橋という人物である。\n枢密院がふるえ上がって抵抗をやめたことは言うまでもない。</div>\n<div class=\"txr\"><a href=\"../text/im_senry.html\">五百旗頭真 「占領期」</a>\n　Ｐ．１６７<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%258D%25A0%25E9%25A0%2598%25E6%259C%259F%25E2%2580%2595%25E9%25A6%2596%25E7%259B%25B8%25E3%2581%259F%25E3%2581%25A1%25E3%2581%25AE%25E6%2596%25B0%25E6%2597%25A5%25E6%259C%25AC\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -293,7 +278,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

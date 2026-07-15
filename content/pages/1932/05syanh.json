@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1932.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1932.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -133,7 +142,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1932/04/29　　<a href\"..=\"\" 19.html\"=\"\">\n上海爆弾テロ事件　（犯人：尹奉吉）</a>"
+       "html": "1932/04/29　　<a href=\"../1932/04terro.html\">\n上海爆弾テロ事件</a>　（犯人：尹奉吉）"
       }
      ]
     },
@@ -173,25 +182,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -205,17 +198,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/syokaise.html\">蒋</a>政権の妨害にあいながらも、第一九路軍が勇敢に日本軍に抵抗した上海防衛戦の後、\n<a href=\"../p/syokaise.html\">蒋介石</a>はおとなしく「上海停戦協定」に署名した。\n中国政府は、その中で、中国軍をこの中国最大の都市から撤退させること、\nおよび全国的に抗日運動を禁止することを侵略者に約束した。\n<a href=\"../p/syokaise.html\">蒋</a>政権は、このことを全国の激怒渦巻く抗議を無視して行なった（愛国的学生たちは、停戦会議の代表、\n郭泰祺を怒りのあまり殴ったほどである）。\nその後、この政府は態度を変えた。\n彼らにとって本当に関心のあることに対しては、どうもうさを増してきた。\n<span class=\"bar\">―</span>―大衆運動に対する警察の弾圧、中国紅軍に対する軍事的鎮圧、\nそれに密偵と刺客による新しい団体、\n「藍衣社」（<a href=\"../p/mussol_b.html\">ムッソリーニ</a>の黒シャツ隊や<a href=\"../p/hitler_a.html\">ヒトラー</a>の茶シャツ隊を意図的にまねたもの）の組織がそれらの現われであった。</div>\n<div class=\"txr\"><a href=\"../text/ie1souke.html\">イスラエル・エプシュタイン 「宋慶齢（上）」</a>\n　Ｐ．３７０</div>\n"
   },
   {
    "type": "cyu",
@@ -223,7 +208,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

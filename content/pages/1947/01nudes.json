@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1947.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1947.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -33,7 +42,7 @@
   {
    "type": "headline",
    "cells": [
-    "ステージ上の額縁の中でモデルがポーズ。　敗戦後２度目の正月、すけべオヤジたちが殺到。"
+    "ステージ上の額縁の中でモデルがポーズ。　<a href=\"../1945/08gyoku.html\">敗戦</a>後２度目の正月、すけべオヤジたちが殺到。"
    ]
   },
   {
@@ -103,25 +112,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -135,9 +128,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>一月一五日、新宿帝都座五階劇場で、甲斐三和が、初めてのストリップショーを行った。</div>\n<div>このショーは、名画をモデルにし、女性の上半身をあらわにして、額縁をかたどった中で立っているというもので、\n「額縁ショー」「名画ショー」などと呼ばれた。</div>\n<div>甲斐三和は一九歳のダンサーで、身長も高く、立派な体つきをしていた。\nショーは、黒いカーテンを開いてから閉じられるまで、わずか四、五分の間という短いものだったが、\n場内の観衆はかたずをのんで見守ったという。</div>\n<div>翌年になると、浅草の常盤座で本格的なストリップが上演され、以後は全国にストリップ専門劇場が続々誕生した。</div>\n<div class=\"txr\"><a href=\"../text/ok_bkyun.html\">おもしろニュース研究会 「20世紀Ｂ級ニュース」</a>\n　Ｐ．９８<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=20%25E4%25B8%2596%25E7%25B4%2580B%25E7%25B4%259A%25E3%2583%258B%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%25B9%2520%2520%2520%2520%25E8%25A7%2592%25E5%25B7%259Done%25E3%2583%2586%25E3%2583%25BC%25E3%2583%259E\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -145,23 +138,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>一月一五日、新宿帝都座五階劇場で、甲斐三和が、初めてのストリップショーを行った。</div>\n<div>このショーは、名画をモデルにし、女性の上半身をあらわにして、額縁をかたどった中で立っているというもので、\n「額縁ショー」「名画ショー」などと呼ばれた。</div>\n<div>甲斐三和は一九歳のダンサーで、身長も高く、立派な体つきをしていた。\nショーは、黒いカーテンを開いてから閉じられるまで、わずか四、五分の間という短いものだったが、\n場内の観衆はかたずをのんで見守ったという。</div>\n<div>翌年になると、浅草の常盤座で本格的なストリップが上演され、以後は全国にストリップ専門劇場が続々誕生した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ok_bkyun.html\">おもしろニュース研究会 「20世紀Ｂ級ニュース」</a>\n　Ｐ．９８</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "tx"
-   },
-   "html": "\n<div>一九四七年（昭22）一月から、東京新宿の帝都座で上演されたヌードショー。\n舞台上の額縁の中で、裸体の女性が数十秒間ポーズをとるだけだったが、\n戦前に禁じられていたヌードを見物する観客が殺到した。\nこのあと浅草のロック座などでストリップ・ショーの上演が始まり、四九年には日劇小劇場でもストリップを上演するようになって、\n五二年の日劇ミュージックホール開設へとつながった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/sr_syowa.html\">佐々木隆爾 「昭和史の事典」</a>\n　Ｐ．２２２</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>一九四七年（昭22）一月から、東京新宿の帝都座で上演されたヌードショー。\n舞台上の額縁の中で、裸体の女性が数十秒間ポーズをとるだけだったが、\n戦前に禁じられていたヌードを見物する観客が殺到した。\nこのあと浅草のロック座などでストリップ・ショーの上演が始まり、四九年には日劇小劇場でもストリップを上演するようになって、\n五二年の日劇ミュージックホール開設へとつながった。</div>\n<div class=\"txr\"><a href=\"../text/sr_syowa.html\">佐々木隆爾 「昭和史の事典」</a>\n　Ｐ．２２２<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4490103875%2Fqid%3D1146489204%2Fsr%3D1-9%2Fref%3Dsr_1_10_9\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -169,7 +146,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

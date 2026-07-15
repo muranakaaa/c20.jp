@@ -2,21 +2,30 @@
  "path": "1914/01simen.html",
  "type": "article",
  "title": "シーメンス事件発覚　／ クリック ２０世紀",
- "description": null,
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a href=\"#f\">▽▽▽</a><a name=\"h\"></a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1914.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1914.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -133,25 +142,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "pt"
    },
-   "html": "\n<div class=\"pt_h\">～　事件の発覚　～</div>\n<div>カール・リヒテル書類窃盗事件（ドイツ） →  [ロイター電]  → （日本）シーメンス事件 </div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+   "html": "\n<div class=\"pt_h\">～　事件の発覚　～</div>\n<div class=\"c\">カール・リヒテル書類窃盗事件（ドイツ） →  [ロイター電]  → （日本）シーメンス事件 </div>\n"
   },
   {
    "type": "raw",
@@ -159,27 +152,41 @@
    "attrs": {
     "class": "tx_sw"
    },
-   "html": "\n<div><span class=\"m_v\">taro's トーク</span>\nああああああああああああああああ</div>\n"
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>大正三年（一九一四年）二月、ドイツのシーメンス兵器会社その他への軍需品発注にからみ、\n海軍の高級将校数名がワイロを受け取っていたことがバクロされ、議会で責任を追及されて、\n三月二十四日、海軍大将の山本権兵衛内閣が総辞職した。</div>\n<div>松本和中将（兵学校第七期）がイギリスのアームストロング社から、\n沢崎寛猛大佐（兵学校第十七期）がシーメンス社から、\n藤井光五郎機関少将その他がイギリスのヴィッカース社、三井物産から収賄していたのである。</div>\n<div>四月十六日に<a href=\"../1914/okum2_1.html\">大隈重信内閣が成立</a>し、前海相<a href=\"../p/smakoto.html\">斎藤実大将</a>（兵学校第六期）に代わり、\n<a href=\"../p/osigenob.html\">大隈</a>のフトコロ刀の<a href=\"../p/ktakaaki.html\">加藤高明外相</a>のすいせんで、八代六郎中将が海相となった。</div>\n<div>八代は、<a href=\"../p/skantaro.html\">鈴木</a>、<a href=\"../p/asaneyuk.html\">秋山</a>と協議のうえ、<a href=\"../p/ygonnohy.html\">山本</a>と<a href=\"../p/smakoto.html\">斎藤</a>は、たとえ海軍育ての親であっても、\n監督上の責任で、予備役に退くべきであると判断し、そのような処置を取ろうとした。</div>\n<div class=\"txr\"><a href=\"../text/oh_cisyo.html\">生出寿 「知将　秋山真之」</a>\n　Ｐ．４４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E7%259F%25A5%25E5%25B0%2586%2520%25E7%25A7%258B%25E5%25B1%25B1%25E7%259C%259F%25E4%25B9%258B%2520%2520%2520%2520%25E5%25BE%25B3%25E9%2596%2593%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>一月二十三日、同志会の代議士<a href=\"../p/ssaburo.html\">島田三郎</a>（静岡県出身、横浜毎日新聞主筆、改進党創立委員、衆議院議員連続当選十四回、\n<a href=\"../p/htooru.html\">星亨</a>の弾劾、足尾銅山鉱毒事件、廃娼運動などで議会で雄弁をふるった）は予算委員会で日本海軍の汚職を痛撃した。\n受ける側に立った<a href=\"../p/ygonnohy.html\">山本首相</a>と<a href=\"../p/smakoto.html\">斎藤海相</a>は顔色蒼白となった。</div>\n<div>前日の各新聞はシーメンス・シュッケルト電気会社の元東京支社タイプライター係カール・リヒテルが、\n恐喝罪によってベルリン地方裁判所で懲役二年の判決を受けたことを報じていた。\nリヒテルは支社より日本海軍が同社から贈賄を受けていた事を示す書類を盗み出し、これを種に同社をゆすっていたのである。</div>\n<div>折柄開会中の第三十一議会には前述の海軍予算のほか、営業税、通行税、織物消費税なども提出されていたので、\n反対派は<a href=\"../p/oyukio.html\">尾崎行雄</a>、花井卓蔵（中正会代議士、名弁護士として知られ、普選運動に貢献）蔵原惟郭（同志会代議士、\n院内最左派として知られ、マルクス主義評論家蔵原惟人はその息子）らが次々に壇上に立って政府を攻撃した。</div>\n<div class=\"txr\"><a href=\"../text/tm2saion.html\">豊田穣 「西園寺公望（下）」</a>\n　Ｐ．６７<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E5%259C%2592%25E5%25AF%25BA%25E5%2585%25AC%25E6%259C%259B%25E2%2580%2595%25E6%259C%2580%25E5%25BE%258C%25E3%2581%25AE%25E5%2585%2583%25E8%2580%2581%2520%2528%25E4%25B8%258B%25E5%25B7%25BB%2529%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",
-   "html": "<a name=\"f\"></a>\n<a href=\"../index.html\">目次</a>\n ＞ <a href=\"../20c/1914.html\">１９１４年</a>\n ＞ <a href=\"#h\">シーメンス事件発覚</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1914.html\">１９１４年</a>\n ＞ <a href=\"#h\">シーメンス事件発覚</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
   }
  ]
 }

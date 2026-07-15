@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -32,7 +41,7 @@
    "attrs": {
     "class": "name"
    },
-   "html": "\n[ おばた・とししろう ]"
+   "html": "\n[ おばた・としろう ]"
   },
   {
    "type": "raw",
@@ -46,9 +55,9 @@
    "type": "raw",
    "tag": "table",
    "attrs": {
-    "class": "off"
+    "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"01a.html\">一覧　（ア）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%25B0%258F%25E7%2595%2591%2520%25E6%2595%258F%25E5%259B%259B%25E9%2583%258E\" target=\"_blank\">本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
   },
   {
    "type": "raw",
@@ -57,14 +66,6 @@
     "class": "off"
    },
    "html": "<span class=\"m_r\">エピソード 1</span>調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
   },
   {
    "type": "timeline",
@@ -86,6 +87,16 @@
        "id": null,
        "cls": "hist",
        "html": "\n・　第一次大戦中、ロシア軍に従軍。その後、ロシア大使館付武官。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　<a href=\"../p/ntetuzan.html\">永田</a>、岡村、<a href=\"../p/thideki.html\">東條</a>と<a href=\"../1921/10baden.html\">バーデン・バーデンの密約</a>を結ぶ。"
       }
      ]
     },
@@ -142,14 +153,6 @@
    ]
   },
   {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
-  },
-  {
    "type": "timeline",
    "rows": [
     {
@@ -173,6 +176,36 @@
      ]
     },
     {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/10/27　　<a href=\"../1921/10baden.html\">\nバーデン・バーデンの密約</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1928/06/04　　<a href=\"../1928/06cyoxx.html\">\n満州某重大事件</a>　（<a href=\"../p/cyosakur.html\">張作霖</a>爆殺）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1929/05/19　　<a href=\"../1929/05issek.html\">\n一夕会結成</a>"
+      }
+     ]
+    },
+    {
      "cls": "b",
      "cells": [
       {
@@ -188,7 +221,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1935/07/16　　<a href=\"../1935/07masak.html\">\n真崎教育総監罷免</a>　（後任：「統制派」<a href=\"../p/wjotaro.html\">渡辺錠太郎</a>）"
+       "html": "1935/07/15　　<a href=\"../1935/07masak.html\">\n真崎教育総監更迭</a>　（後任：「統制派」<a href=\"../p/wjotaro.html\">渡辺錠太郎</a>）"
       }
      ]
     },
@@ -198,7 +231,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1935/08/12　　<a href=\"../1935/08aizaw.html\">\n相沢事件　（永田軍務局長斬殺）</a>"
+       "html": "1935/08/12　　<a href=\"../1935/08aizaw.html\">\n相沢事件</a>　（<a href=\"../p/ntetuzan.html\">永田軍務局長</a>斬殺）"
       }
      ]
     },
@@ -338,49 +371,17 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "cm"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "<span class=\"m_o\">評</span>\n小畑君は敵の多い人だった。しかし<a href=\"../p/asadao.html\">自分</a>の見たものの中で、\nこれくらい用意周到で鋭い頭脳をもった男はいない。\nしかも、これぐらい名利を捨てて国事を思う人間はなかった。\n普通の人間ならかかり合いになるのを怖れて遠ざかるところを、彼は怖れず、それにぶつかってゆく。\n<a href=\"../1931/1010gat.html\">十月事件</a>に何ら関係もないのに大事と見て出て来て、\n進んで<a href=\"../p/mjiro.html\">南陸相</a>の上奏文を起草していた、などはそれである。\n正義派で、どこまでも強く、場合によっては寸毫も仮借しないが、また一面暖い面もあった。\n<a href=\"../p/kfumimar.html\">近衛公</a>がこの人柄をもって小畑君を信頼していた。\n小畑君も<a href=\"../p/stenno.html\">天子様</a>の身代りのように<a href=\"../p/kfumimar.html\">近衛公</a>を見ていたようである。\n高知の出身で、父は高級判事で男爵、貴族院議員小畑大太郎君の弟だ。\nあれくらい黒白を明らかにする男はない。\n彼は一方便乗派を非常に嫌った。そのため敵も多かった。作戦用兵が最も得意であった。\n<div class=\"r\"><a href=\"../p/asadao.html\">荒木貞夫</a>　（元陸相）</div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "<span class=\"m_b\">エピソード</span>\n調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "<span class=\"m_o\">評</span>\n小畑閣下が陸大での戦術論の冒頭、必ず口にされる有名な言葉があった。\n「百戦百勝は善の善なるものに非るなり、戦はずして而して人の兵を屈するは善の善なるものなり」という支那古代の兵書、\n孫子の謀略篇の中にある有名な言葉だ。\nこれが小畑閣下の最も好まれた格言であった。\n「三吉、これが作戦の要諦だよ」と、たしか二、三度将軍の口から、直に伺った。<br>\nこんな小畑閣下の作戦思想は、あくまで防衛が第一で、ソ連の出方によってはもちろん干戈を交えなくてはならないが、\n当方に厳たる備えがあれば、ソ連は恐らく手を出さないだろう、と閣下は観測しておられた。\n<div class=\"r\">三吉義隆　（元陸軍大佐）</div>\n"
   },
   {
    "type": "cyu",
@@ -388,7 +389,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1943.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1943.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -223,25 +232,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -255,17 +248,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>大東亜会議は、十一月五日、六日の二日間、帝国議会議事堂で開かれた。\n議長席に<a href=\"../p/thideki.html\">東條</a>が座り、式の一切は日本側の手で進んだ。\n<a href=\"../p/thideki.html\">東條</a>自身がもっとも得意の絶頂にあったのは、このときだったろう。\n<a href=\"../1944/tojo_9.html\">首相退陣</a>後、彼はこの<a href=\"../1943/11daito.html\">大東亜会議</a>をしきりに話したし、昭和二十年九月に<a href=\"../1945/09tojoj.html\">自殺未遂を起こした</a>とき、\n彼の応接間にとびこんだＭＰの眼を最初に射たのは、このときの会議の写真である。</div>\n<div>この会議の初めに、<a href=\"../p/thideki.html\">東條</a>は、いつものかん高い声で、「英米のいう世界平和とは、\nすなわちアジアにおいての植民地搾取の永続化、それによる利己的秩序にほかならない」と言い、\n日本はその解放者であり、独立を援助する救世主だと説いた。\nそこには<a href=\"../p/roosev_f.html\">ルーズベルト</a>や<a href=\"../p/church_w.html\">チャーチル</a>に向けての意味もあった。\nつづいて各国の指導者が演説した。\nラウレルは「中国が速やかに統一され、三億五千万のインド民衆が<a href=\"../p/bose_c.html\">ボース氏</a>指導のもとに完全に独立し、\n再びイギリスの支配に帰するがごときことのないよう希望する」といい、\nビルマのバーモも同意した。\nしかしラウレルの演説のなかに、日本の軍部の占領行政を批判した部分があったが、\nそれは、不思議なことに<a href=\"../p/thideki.html\">東條</a>には訳されなかった。</div>\n<div>翌六日、自由インド臨時政府を代表して<a href=\"../p/bose_c.html\">ボース</a>が発言した。\nインド民衆は、イギリス帝国主義に抗して自由を戦いとらねばならぬといったあと、\n「岡倉覚三（天心）および<a href=\"../p/sonbun.html\">孫逸仙（孫文）</a>の理想が\n実現に移されんことを希望する」と結んだ。\n雄弁に長けている彼は、この戦争を自国の独立運動、アジアの解放に結びつけ、\n日本の自存自衛の戦争だけではないぞと宣言したのである。</div>\n<div><a href=\"../p/bose_c.html\">ボース</a>の演説が終わると、<a href=\"../p/thideki.html\">東條</a>は発言を求め、\n彼にしては珍しく芝居気たっぷりにメモを読んだ。\n「帝国政府はインド独立の第一段階として、もっか帝国占領中のインド領アンダマン諸島およびニコバル諸島を、\n近く自由インド臨時政府に隷属せしむるの用意ある旨を、本席上において闡明する」<span class=\"bar\">―</span>―。\n<a href=\"../p/bose_c.html\">ボース</a>の表情が大仰に喜色にかわり、自由インド臨時政府の幹部たちと肩を抱きあった。\nそれは彼のスケジュールが成功したことを物語っていた。\n来日するや、<a href=\"../p/thideki.html\">東條</a>に、アンダマン、ニコバル諸島への自由インド臨時政府の進出を許可してほしいと訴えつづけ、\nそれを受けいれた<a href=\"../p/thideki.html\">東條</a>は、この日の午前中に連絡会議を開いて、\n急遽、<a href=\"../p/bose_c.html\">ボース</a>の申し出を受けいれることを決めたのである。\n国土をもたなかった自由インド臨時政府は、これによってはじめて自国の領土に足がかりをもつことになった。</div>\n<div class=\"txr\"><a href=\"../text/hm2tojoh.html\">保阪正康 「東條英機と天皇の時代（下）」</a>\n　Ｐ．１１７<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%259D%25B1%25E6%25A2%259D%25E8%258B%25B1%25E6%25A9%259F%25E3%2581%25A8%25E5%25A4%25A9%25E7%259A%2587%25E3%2581%25AE%25E6%2599%2582%25E4%25BB%25A3\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -273,7 +258,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

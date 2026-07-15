@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1935.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1935.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -33,7 +42,7 @@
   {
    "type": "headline",
    "cells": [
-    "<a href=\"../1934/10cyose.html\">長征</a>の中で、<a href=\"../p/motakuto.html\">毛沢東</a>が中国共産党のリーダーシップをとることに決まった。"
+    "<a href=\"../1934/10cyose.html\">長征</a>途上の貴州省遵義で、<a href=\"../p/motakuto.html\">毛沢東</a>が中国共産党のリーダーシップをとることに決まった。"
    ]
   },
   {
@@ -93,7 +102,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1931/11/27　　<a href\"..=\"\" 19.html\"=\"\">\n中華ソビエト共和国臨時政府（瑞金政府）樹立</a>　（主席：<a href=\"../p/motakuto.html\">毛沢東</a>）"
+       "html": "1931/11/07　　<a href=\"../1931/11zuiki.html\">\n中華ソビエト共和国臨時政府（瑞金政府）成立</a>　（主席：<a href=\"../p/motakuto.html\">毛沢東</a>）"
       }
      ]
     },
@@ -173,25 +182,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -205,17 +198,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../1934/10cyose.html\">長征</a>が中国革命史上に占める最大の意義は、\n<a href=\"../p/motakuto.html\">毛沢東</a>の指導権の確立、いいかえれば中国の大地に根ざす路線が、\n絶対的な権威をかざしてきたコミンテルンの指導をしのいだことにある。\nその転機となったのが、三五年一月十五日から貴州省遵義で開かれた中共政治局拡大会議であった（遵義会議）。\n出席者は秦邦憲、張聞天、王稼祥、<a href=\"../p/syuonrai.html\">周恩来</a>、陳雲、<a href=\"../p/syutoku.html\">朱徳</a>、<a href=\"../p/ryusyoki.html\">劉少奇</a>、凱豊、鄧発、<a href=\"../p/motakuto.html\">毛沢東</a>、李富春、劉伯承、<a href=\"../p/rinpyo.html\">林彪</a>、\n聶栄臻、彭徳懐、楊尚昆、李卓然、<a href=\"../p/tosyohei.html\">鄧小平</a>、それにリトロフとその通訳伍修権である。</div>\n<div>席上、<a href=\"../p/motakuto.html\">毛沢東</a>は第五次囲剿戦以来の党中央の「極左冒険主義」的軍事指導をきびしく批判して、その責任を追求した。\n秦邦憲とリトロフは頑固に誤りを認めようとしなかったが、\n一貫して党中央の路線を守ってきた<a href=\"../p/syuonrai.html\">周恩来</a>が自己批判して敗北の責任を認め、\n会議の大勢は<a href=\"../p/motakuto.html\">毛沢東</a>支持に傾いた。\nその結果、総責任者に秦邦憲に代わって同じくソ連留学派の張聞天が選ばれたが、\n<a href=\"../p/motakuto.html\">毛沢東</a>も政治局常務委員に復活して軍事を担当し、長征の過程をつうじて、\n軍事面でも政治面でもしだいに党の指導権を確立していった。</div>\n<div class=\"txr\"><a href=\"../text/ks_cyugo.html\">小島晋治・丸山松幸 「中国近現代史」</a>\n　Ｐ．１４８<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E4%25B8%25AD%25E5%259B%25BD%25E8%25BF%2591%25E7%258F%25BE%25E4%25BB%25A3%25E5%258F%25B2%2520%2520%2520%2520%25E5%25B2%25A9%25E6%25B3%25A2%25E6%2596%25B0%25E6%259B%25B8\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -223,7 +208,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

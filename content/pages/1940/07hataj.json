@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1940.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1940.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -133,25 +142,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "pt"
    },
    "html": "\n<div class=\"pt_h\">～　ドイツの快進撃にあせる陸軍の思惑　～</div>\n<div class=\"c\"><a href=\"../1940/yona_1.html\">米内内閣</a>を総辞職させて → <a href=\"../1940/kono2_1.html\">近衛内閣</a>をつくって → <a href=\"../1940/09jdi_d.html\">日独伊三国軍事同盟締結</a></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -165,17 +158,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>七月十二日、<a href=\"../p/hsyunrok.html\">畑</a>は<a href=\"../p/ymitumas.html\">米内</a>を訪問して次の三ヶ条の要望を手渡した。</div>\n<div>一、現情勢においては独伊と手を握り、大東亜を処理するの方針に出るの要あるべし。</div>\n<div>二、現内閣にては外交方針の大転換困難なるにつき、より善き内閣の出現を前提として辞職しては如何。</div>\n<div>三、自分は部下の統率上非常に困難なる立場にあり。\nまた益々困難を来す状況に立至るべきを憂慮す。</div>\n<div><a href=\"../p/hsyunrok.html\">畑</a>の表情は暗かった。\n彼は米内倒閣に賛成ではない。\nしかし今や青年将校たちは<a href=\"../p/kkotohit.html\">閑院宮</a>までも動かして倒閣、三国同盟締結に盲進しようとしている。\n謹直な<a href=\"../p/hsyunrok.html\">畑</a>にはそれを抑える政治力がなかった。\nかつては<a href=\"../p/ymitumas.html\">米内</a>の同郷の<a href=\"../p/iseisiro.html\">板垣</a>が青年将校に突き上げられて<a href=\"../p/ymitumas.html\">米内</a>に<a href=\"../1940/09jdi_d.html\">三国同盟</a>を迫ったが、\n今度は自分の番であった。\n<a href=\"../p/hsyunrok.html\">畑</a>の胸中には寂寥感が吹き抜けていた。</div>\n<div>十四日、<a href=\"../p/stenno.html\">天皇</a>は<a href=\"../p/kkoici.html\">木戸</a>に伝えた。</div>\n<div>「朕の<a href=\"../1940/yona_1.html\">米内内閣</a>に対する信頼は今も変ってはいない。\n国外の情勢によって内閣の更迭を見るのはやむを得ないと思うが、自分の気持は<a href=\"../p/ymitumas.html\">米内</a>に伝えてもらいたい」</div>\n<div>七月十六日午前九時、<a href=\"../p/hsyunrok.html\">畑陸相</a>は首相官邸に<a href=\"../p/ymitumas.html\">米内</a>を訪れて内閣総辞職について再度勧告した。\n暑い日であった。\n天井の扇風機の鈍い音が余計に首筋の汗を誘った。\n<a href=\"../p/ymitumas.html\">米内</a>は去る十二日<a href=\"../p/hsyunrok.html\">畑</a>が申し入れた三ヶ条について慰留して<a href=\"../p/hsyunrok.html\">畑</a>を返したのであるが、\n陸軍報道部がそれから間もなく、<a href=\"../p/hsyunrok.html\">畑</a>の懐中に入っていた筈の三ヶ条を内閣に何の相談もなく新聞に発表してしまった。\nここまで陸軍の傍若無人の振舞いを見ては<a href=\"../p/ymitumas.html\">米内</a>としても黙ってはいられない。\n<a href=\"../p/ymitumas.html\">米内</a>はいつもになく厳しい態度になって、（<a href=\"../p/hsyunrok.html\">畑</a>の回想による）</div>\n<div>「いやしくも大命を奉じて内閣を組織した以上は大義名分がなければ、<a href=\"../p/stenno.html\">陛下</a>の前に出て御暇を頂戴するとは言えない。\nしかし、陸軍大臣はもはや他に方法なしとして辞表を出すのならば、後任を推薦してもらわねばならぬ」</div>\n<div>と強い口調で言った。</div>\n<div>連日の苦悩に<a href=\"../p/hsyunrok.html\">畑</a>は憔悴していた。\n<a href=\"../p/hsyunrok.html\">畑</a>が自殺するのではないか、と<a href=\"../p/ymitumas.html\">米内</a>は心配していた。</div>\n<div>「後任については三長官に計りますが、極めて困難と思われます」</div>\n<div><a href=\"../p/hsyunrok.html\">畑</a>はそう言って官邸を出た。\n三長官といっても一人は陸相の<a href=\"../p/hsyunrok.html\">畑</a>、残りは張本人の<a href=\"../p/kkotohit.html\">閑院宮参謀総長</a>、\nいま一人の教育総監山田乙三（十四期で<a href=\"../1945/08gyoku.html\">終戦</a>時関東軍司令官としてソ連に抑留さる）はすでに了解ずみであった。</div>\n<div><a href=\"../p/ymitumas.html\">米内</a>は憮然とした表情で<a href=\"../p/hsyunrok.html\">畑</a>の後ろ姿を見送った。\n陸軍は最後の良心もその野望のもとに汚してしまったのである。</div>\n<div class=\"txr\"><a href=\"../text/tm2saion.html\">豊田穣 「西園寺公望（下）」</a>\n　Ｐ．３８１<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E5%259C%2592%25E5%25AF%25BA%25E5%2585%25AC%25E6%259C%259B%25E2%2580%2595%25E6%259C%2580%25E5%25BE%258C%25E3%2581%25AE%25E5%2585%2583%25E8%2580%2581%2520%2528%25E4%25B8%258B%25E5%25B7%25BB%2529%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -183,7 +168,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

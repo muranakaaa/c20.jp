@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1934.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href=\"okada_1~.html\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1934.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href=\"okada_1~.html\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -42,7 +51,7 @@
    "attrs": {
     "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href=\"okada_1~.html\">[詳細]</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"okada_1~.html\">[詳細]</a></td><td class=\"lt\"><a href=\"../them/j_gov05.html#s3\">【内閣成立史】</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
   },
   {
    "type": "timeline",
@@ -103,7 +112,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1934/10/01　　<a href\"..=\"\" 19.html\"=\"\">\n陸軍省「国防の本義とその強化の提唱（陸軍パンフレット）」発行</a>"
+       "html": "1934/10/01　　<a href=\"../1934/10rikup.html\">\n陸軍パンフレット「国防の本義と其強化の提唱」発行</a>"
       }
      ]
     },
@@ -133,7 +142,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1935/07/16　　<a href=\"../1935/07masak.html\">\n真崎教育総監罷免</a>　（後任：「統制派」<a href=\"../p/wjotaro.html\">渡辺錠太郎</a>）"
+       "html": "1935/07/15　　<a href=\"../1935/07masak.html\">\n真崎教育総監更迭</a>　（後任：「統制派」<a href=\"../p/wjotaro.html\">渡辺錠太郎</a>）"
       }
      ]
     },
@@ -163,7 +172,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1935/08/12　　<a href=\"../1935/08aizaw.html\">\n相沢事件　（永田軍務局長斬殺）</a>"
+       "html": "1935/08/12　　<a href=\"../1935/08aizaw.html\">\n相沢事件</a>　（<a href=\"../p/ntetuzan.html\">永田軍務局長</a>斬殺）"
       }
      ]
     },
@@ -233,25 +242,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -265,17 +258,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../1932/saito_1.html\">斎藤内閣</a>は、結局、<a href=\"../1934/04teiji.html\">「帝人事件」</a>で潰れたのだが、<a href=\"../p/smakoto.html\">斎藤</a>は、\nこの倒閣の陰謀が<a href=\"../p/hkiiciro.html\">平沼</a>と知って、彼に反感をもち、積極的に平沼内閣成立の企図を叩きこわす決意になった。\n<a href=\"../p/smakoto.html\">斎藤</a>は、その意図が<a href=\"../p/hkiiciro.html\">平沼</a>や軍部に察知されないように後継内閣の成立に慎重を期した。</div>\n<div>後継内閣を決める重臣会議は<a href=\"../p/skinmoci.html\">西園寺</a>の上京を得て開かれたが、その席上、\n<a href=\"../p/smakoto.html\">斎藤</a>は端的に<a href=\"../p/okeisuke.html\">岡田啓介</a>を推し、これに重臣が同意した。\n<a href=\"../p/skinmoci.html\">西園寺</a>がこの結果を<a href=\"../p/stenno.html\">天皇</a>に奏上して、ここに<a href=\"../p/okeisuke.html\">岡田</a>の組閣が決まったのである。\n世間は、<a href=\"../p/okeisuke.html\">岡田</a>が海軍の長老であるところから、当面の非常時局では、<a href=\"../1930/04londo.html\">ロンドン条約</a>以来海軍を押えるのは<a href=\"../p/okeisuke.html\">岡田</a>のほかはあるまいと、\n好感をもった。</div>\n<div class=\"txr\"><a href=\"../text/ms6syowa.html\">松本清張 「昭和史発掘（６）」</a>\n　Ｐ．１５７<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167106361%2Fqid%3D1147086434%2Fsr%3D1-12%2Fref%3Dsr_1_0_12\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -283,7 +268,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

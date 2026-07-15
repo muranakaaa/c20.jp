@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "them.css"
+  "them.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ <span class=\"now\">他</span>"
   },
   {
    "type": "title",
@@ -62,6 +71,22 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
+    "class": "tit"
+   },
+   "html": "\n<b><a href=\"j_gov04.html\">【04】</a></b>　　<a href=\"j_gov04.html#s1\">加藤（高）憲政会単独内閣</a>、<a href=\"j_gov04.html#s2\">若槻内閣①</a>、<a href=\"j_gov04.html#s3\">田中（義）内閣</a>、<a href=\"j_gov04.html#s4\">浜口内閣</a>、<a href=\"j_gov04.html#s5\">若槻内閣②</a><br>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tit"
+   },
+   "html": "\n<b><a href=\"j_gov05.html\">【05】</a></b>　　<a href=\"j_gov05.html#s1\">犬養内閣</a>、<a href=\"j_gov05.html#s2\">斉藤内閣</a>、<a href=\"j_gov05.html#s3\">岡田内閣</a>、<a href=\"j_gov05.html#s4\">広田内閣</a>、<a href=\"j_gov05.html#s5\">宇垣内閣（不成立）</a><br>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
     "class": "t_tx"
    },
    "html": "<br>[閣僚名簿]"
@@ -80,7 +105,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

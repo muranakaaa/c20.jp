@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../a.css"
+  "../a.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -58,7 +67,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1926/01/15　　<a href\"..=\"\" 19.html\"=\"\">\n京都学連事件</a>"
+       "html": "1926/01/15　　<a href=\"../1926/01gakur.html\">\n京都学連事件</a>"
       }
      ]
     },
@@ -128,7 +137,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1926/02/28　　<a href=\"../1926/02matus.html\">\n松嶋遊郭疑獄事件発覚</a>"
+       "html": "1926/02/28　　<a href=\"../1926/02matus.html\">\n松島遊郭疑獄事件発覚</a>"
       }
      ]
     },
@@ -138,7 +147,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1926/03/04　　<a href=\"../1926/03kimit.html\">\n中野正剛、陸軍機密費横領問題で田中総裁（政友会）を追及</a>"
+       "html": "1926/03/04　　<a href=\"../1926/03kimit.html\">\n中野正剛、陸軍機密費問題で田中総裁（政友会）を追及</a>"
       }
      ]
     },
@@ -158,7 +167,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1926/03/05　　<a href\"..=\"\" 19.html\"=\"\">\n三瓶俊治（元陸相官房付二等主計）、田中義一を機密費横領で告発</a>"
+       "html": "1926/03/05　　<a href=\"../1926/03kokuh.html\">\n元二等主計、田中総裁（政友会）を機密費横領で告発</a>"
       }
      ]
     },
@@ -282,7 +291,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1926/07/09　　<a href\"..=\"\" 19.html\"=\"\">\n蒋介石、北伐開始</a>"
+       "html": "1926/07/09　　<a href=\"../1926/07hokub.html\">\n蒋介石、北伐開始</a>"
       }
      ]
     },
@@ -409,7 +418,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1926/11/07　　<a href\"..=\"\" 19.html\"=\"\">\n若槻首相、松嶋遊郭疑獄事件で証人として取調べを受ける</a>"
+       "html": "1926/11/07　　<a href\"..=\"\" 19.html\"=\"\">\n若槻首相、松島遊郭疑獄事件で証人として取調べを受ける</a>"
       }
      ]
     },
@@ -420,6 +429,16 @@
        "id": "l",
        "cls": null,
        "html": "1926/11/09　　<a href\"..=\"\" 19.html\"=\"\">\n箕浦勝人、若槻首相を偽証罪で告発</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/11/12　　<a href=\"../1926/11fukuo.html\">\n福岡連隊事件</a>"
       }
      ]
     },
@@ -519,7 +538,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

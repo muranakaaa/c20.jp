@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1944.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1944.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -143,25 +152,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -175,17 +168,17 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>十月二十七日、堀は<a href=\"../p/ytomoyuk.html\">山下奉文大将</a>の部屋に方面軍参謀に発令された挨拶に行った。\nちょうど<a href=\"../p/makira.html\">武藤章参謀長</a>も同席していた。\nマッキンレーの木立の中の旧米軍将校の宿舎らしい、風通しのよい木造の二階だった。</div>\n<div>ここで堀は、生涯に一度ともいうべき任務を<a href=\"../p/ytomoyuk.html\">大将</a>から貰ってしまった。</div>\n<div>「レイテはこれから激戦になるだろう。今後の推移を十分見守らなければならないが、\nいずれは敵はルソン島に来る。いつ、どこに、どれぐらいの敵が来るか、君は冷静に、\nどこまでも冷静に専心考えて貰いたい。これが<a href=\"../p/ytomoyuk.html\">大将</a>の君への特命だ。口外厳禁！」</div>\n<div>実に簡潔な、だが凛とした<a href=\"../p/makira.html\">武藤参謀長</a>の声であった。</div>\n<div>レイテ決戦には、あくまで反対であった<a href=\"../p/ytomoyuk.html\">大将</a>も、</div>\n<div>「神機到来す。レイテにて決戦をせよ！」</div>\n<div>と、<a href=\"../p/thisaici.html\">寺内元帥</a>から叱るような命令を受けて、<a href=\"../p/makira.html\">参謀長</a>ともども、ついに立ち上らざるを得なかった。\nいまや<a href=\"../p/ytomoyuk.html\">山下</a>、<a href=\"../p/makira.html\">武藤</a>の両将軍は、方面軍の全神経をレイテに集中させようとしているとき、\n<a href=\"../p/ytomoyuk.html\">大将</a>はすでにレイテ以後のことを考えていた。\n堀はジーンとしたものを感じて、改めて<a href=\"../p/ytomoyuk.html\">山下</a>という将帥を見直した。</div>\n<div class=\"txr\"><a href=\"../text/he_daiho.html\">堀栄三 「大本営参謀の情報戦記」</a>\n　Ｐ．１９０<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%25A4%25A7%25E6%259C%25AC%25E5%2596%25B6%25E5%258F%2582%25E8%25AC%2580%25E3%2581%25AE%25E6%2583%2585%25E5%25A0%25B1%25E6%2588%25A6%25E8%25A8%2598\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>当時レイテ島への米軍の上陸可能正面は、実に四十キロ以上もあって、\nいかに精鋭とはいえ、一個師団では一列に並べても、至るところ穴だらけであることは、\n机の上で計算してもわかる。大本営作戦課の捷一号作戦を計画した瀬島龍三参謀が、八月十三日にレイテを視察しているが、\n本当にこれで大丈夫だと思ったのだろうか。</div>\n<div>十月二十日米軍は第十六師団の正面に、四個師団が並んで上陸してきた。\nそれも四十キロの全正面にではない、彼らは自分が必要とする正面にだけ兵力を差し向けてくるから、\n米軍の各師団の上陸担当正面は、せいぜい三キロぐらいのものであった。</div>\n<div>これをサイパン島のときの要領で計算すれば、戦艦四隻が支援していると仮定して、\n艦砲射撃だけですでに二十個師団、そこへ四個師団の上陸軍、第十六師団は二十四倍の敵の火力を受けたことになる。\nその上、航空爆撃である。精鋭という精神主義の空文句では戦力にならないのは明瞭である。</div>\n<div>日本軍は、もっと「鉄量」に目覚めない限り、堀たちの研究した情報の戦法的見地からは、\n艦砲射撃の効く海洋の戦場での防禦では問題にならない戦力であった。\nこれが満洲や中国大陸であったら、艦砲射撃がないからまだ戦い得たかもしれないが、\n大洋でも通用すると考えたところに大きな計算違いがあった。</div>\n<div class=\"txr\"><a href=\"../text/he_daiho.html\">堀栄三 「大本営参謀の情報戦記」</a>\n　Ｐ．１９５<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%25A4%25A7%25E6%259C%25AC%25E5%2596%25B6%25E5%258F%2582%25E8%25AC%2580%25E3%2581%25AE%25E6%2583%2585%25E5%25A0%25B1%25E6%2588%25A6%25E8%25A8%2598\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -193,7 +186,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1944.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1944.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -158,12 +167,12 @@
      ]
     },
     {
-     "cls": "n",
+     "cls": "d",
      "cells": [
       {
        "id": "l",
        "cls": null,
-       "html": "1944/10/14　　<a href\"..=\"\" 19.html\"=\"\">\nロンメル、服毒自殺</a>"
+       "html": "1944/10/14　　<a href=\"../1944/10romme.html\">\nロンメル服毒死</a>"
       }
      ]
     },
@@ -223,25 +232,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -255,9 +248,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>例によって、各部隊は歓迎市民の歓声とキスとプレゼントの渦にまきこまれて行進した。</div>\n<div>「約二十キロほどの沿道を埋めた何千という人々が、われわれに握手を求め、\nワインや食料を差し出そうとして、われわれの前でひしめきあった」</div>\n<div>米軍第二十連隊のＦ・バーグ少佐は、その市民の姿を「最大の幸福感の発露」と描写しているが、\n南から近づく市民たちの歓喜のどよめきは、むろん、市内の拠点で待機する独軍にも聞こえた。</div>\n<div>防衛司令官コルティッツ少将が、視察を終えて司令部のホテル『ムーリス』に帰着すると、その喚声は一段と近づき、\n司令部の電話にフランス語、英語がとびこんできた。</div>\n<div>ヘイ、または、アロー（ハロー）とよびかけ、こちらは<a href=\"../p/eizenh_d.html\">アイゼンハワー</a>あるいは<a href=\"../p/degaul_c.html\">ドゴール</a>だと名のり、部屋を予約したい、という。</div>\n<div>米兵、フランス兵のいたずら電話だが、やがて銃砲声がひびき、“解放部隊”と独軍守備隊の戦闘が開始された。</div>\n<div class=\"txr\"><a href=\"../text/kn7hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（７）」</a>\n　Ｐ．２８４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167141426%2Fqid%3D1147087760%2Fsr%3D1-21%2Fref%3Dsr_1_2_21\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -265,23 +258,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>例によって、各部隊は歓迎市民の歓声とキスとプレゼントの渦にまきこまれて行進した。</div>\n<div>「約二十キロほどの沿道を埋めた何千という人々が、われわれに握手を求め、\nワインや食料を差し出そうとして、われわれの前でひしめきあった」</div>\n<div>米軍第二十連隊のＦ・バーグ少佐は、その市民の姿を「最大の幸福感の発露」と描写しているが、\n南から近づく市民たちの歓喜のどよめきは、むろん、市内の拠点で待機する独軍にも聞こえた。</div>\n<div>防衛司令官コルティッツ少将が、視察を終えて司令部のホテル『ムーリス』に帰着すると、その喚声は一段と近づき、\n司令部の電話にフランス語、英語がとびこんできた。</div>\n<div>ヘイ、または、アロー（ハロー）とよびかけ、こちらは<a href=\"../p/eizenh_d.html\">アイゼンハワー</a>あるいは<a href=\"../p/degaul_c.html\">ドゴール</a>だと名のり、部屋を予約したい、という。</div>\n<div>米兵、フランス兵のいたずら電話だが、やがて銃砲声がひびき、“解放部隊”と独軍守備隊の戦闘が開始された。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kn7hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（７）」</a>\n　Ｐ．２８４</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "tx"
-   },
-   "html": "\n<div>パリ市民にとって、独軍からの解放は、同時に「報復への解放」でもあった。</div>\n<div>四年間の独軍支配下の刻苦、辛抱、怨念、恐怖などの思いは、そのまま捕虜になった独軍将兵にたいする憎悪にかわり、\n手をあげて出てくる独軍をみると、いっせいに男女はとびかかり、なぐりつけ、あるいは射殺、撲殺したりした。</div>\n<div>おかげで、そのような仕打ちを避けるべく、最後に残した拳銃弾で自決する独軍将兵もいた。</div>\n<div>憎しみは、しかし、外国人である独兵よりは、むしろ独軍に協力した同胞にたいするもののほうが激しかった。</div>\n<div>独軍将校と恋愛におちいり、あるいはガールフレンドになった女性たちは、頭髪を剃られ、まっ裸にされ、乳房に鉤十字を描かれ、\n「私はドイツ兵相手の娼婦でした」と書いたプラカードを首からぶら下げさせられて、街をひきまわされた。</div>\n<div>それと知った独軍将兵の“愛人”女性たちの中には、追及と“処刑”をまぬがれるべく、あるいは入城したフランス兵に抱きついて離れず、\nあるいは連行される元愛人にツバを吐きかけて「愛国心」を誇示する者も、少なくなかった。</div>\n<div>占領下の傀儡政権・ヴィシー政府の職員も、ねらわれた。</div>\n<div>フランス市民の中には、【中略】　自発的に独軍に参加した男女もいたが、この日に憎悪の対象になったのは、\nビルの屋上に配置された民警であった。</div>\n<div>治安維持のためであり、多くは独軍を狙撃さえしたが、傀儡政府に所属する者イコール利敵行為者イコール裏切り者、\nという論理にしたがい、次々に捕らえられ処刑された。</div>\n<div>「コラボ」（註、コラボレイターの略）と呼ばれる「対独協力者」には裁判も用意されたが、\nそれは誰かが「殺せ」とどなれば死刑が判決される式のもので、この日にそんな即決裁判で処刑された者は「数千人」におよぶ、という。</div>\n<div>時間がたつにつれて「復習の狂宴」の興奮度は高まり、街は銃声と喚声と悲鳴につつまれ、まきぞえをくう市民も増えた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kn7hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（７）」</a>\n　Ｐ．２９１</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>パリ市民にとって、独軍からの解放は、同時に「報復への解放」でもあった。</div>\n<div>四年間の独軍支配下の刻苦、辛抱、怨念、恐怖などの思いは、そのまま捕虜になった独軍将兵にたいする憎悪にかわり、\n手をあげて出てくる独軍をみると、いっせいに男女はとびかかり、なぐりつけ、あるいは射殺、撲殺したりした。</div>\n<div>おかげで、そのような仕打ちを避けるべく、最後に残した拳銃弾で自決する独軍将兵もいた。</div>\n<div>憎しみは、しかし、外国人である独兵よりは、むしろ独軍に協力した同胞にたいするもののほうが激しかった。</div>\n<div>独軍将校と恋愛におちいり、あるいはガールフレンドになった女性たちは、頭髪を剃られ、まっ裸にされ、乳房に鉤十字を描かれ、\n「私はドイツ兵相手の娼婦でした」と書いたプラカードを首からぶら下げさせられて、街をひきまわされた。</div>\n<div>それと知った独軍将兵の“愛人”女性たちの中には、追及と“処刑”をまぬがれるべく、あるいは入城したフランス兵に抱きついて離れず、\nあるいは連行される元愛人にツバを吐きかけて「愛国心」を誇示する者も、少なくなかった。</div>\n<div>占領下の傀儡政権・ヴィシー政府の職員も、ねらわれた。</div>\n<div>フランス市民の中には、【中略】　自発的に独軍に参加した男女もいたが、この日に憎悪の対象になったのは、\nビルの屋上に配置された民警であった。</div>\n<div>治安維持のためであり、多くは独軍を狙撃さえしたが、傀儡政府に所属する者イコール利敵行為者イコール裏切り者、\nという論理にしたがい、次々に捕らえられ処刑された。</div>\n<div>「コラボ」（註、コラボレイターの略）と呼ばれる「対独協力者」には裁判も用意されたが、\nそれは誰かが「殺せ」とどなれば死刑が判決される式のもので、この日にそんな即決裁判で処刑された者は「数千人」におよぶ、という。</div>\n<div>時間がたつにつれて「復習の狂宴」の興奮度は高まり、街は銃声と喚声と悲鳴につつまれ、まきぞえをくう市民も増えた。</div>\n<div class=\"txr\"><a href=\"../text/kn7hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（７）」</a>\n　Ｐ．２９１<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167141426%2Fqid%3D1147087760%2Fsr%3D1-21%2Fref%3Dsr_1_2_21\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -289,7 +266,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

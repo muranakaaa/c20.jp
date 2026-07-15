@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1904.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1904.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -53,7 +62,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1904/02/08　　<a href=\"../1904/02jorik.html\">\n陸軍先遣隊、仁川上陸</a>"
+       "html": "1904/02/08　　<a href=\"../1904/02jorik.html\">\n陸軍先遣隊、仁川上陸開始</a>"
       }
      ]
     },
@@ -63,7 +72,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1904/02/08　　<a href=\"../1904/02jinse.html\">\n仁川沖海戦</a>"
+       "html": "1904/02/09　　<a href=\"../1904/02jinse.html\">\n仁川沖海戦</a>"
       }
      ]
     },
@@ -163,25 +172,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -195,17 +188,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>二月十一日（二十四日）の夜半、敵は港内の出入口を閉塞する第一回の企図を実行した。\n閉塞船のために最適の地点を示すために、水雷艇「暁」がつけられた、同艦は老鉄山半島から南にある指定地点で合図をだすことになっていた。\n停泊地に出現した日本の水雷艇は、「レトヴィーザン」号を攻撃しようとしたが、この攻撃は撃退されてしまった。</div>\n<div>閉塞船が近づいてくるので、ロシア側の探照灯は、錨地に向って進んでくる汽船を照明した。\n沿岸の砲台、「レトヴィーザン」号やその他の艦船から火蓋がきられた。\n「レトヴィーザン」号の艦長で海軍大佐のエ・エヌ・シチェンスノヴィチは、この戦闘について、次のように報告している。</div>\n<div>一時三〇分頃要塞の探照灯の明りで、二本の煙があがるのが見えた。\n二時四五分に「レトヴィーザン」号の水兵たちは、損傷したロシア軍艦に向って真直ぐ進んでくる敵の大型水雷艇を見つけた。\n直ちに敵にむかって砲門が開かれた。\nそのすぐあと、戦艦ではさらに敵の水雷艇二隻を見つけた。\n発射後敵の水雷艇は停止し、同艦の上には水蒸気の雲が見えた。\n水雷艇の陰から、二隻の輸送船がでてきた。砲火は輸送船にあびせられた。</div>\n<div>右方を進んできた輸送船は、砲火を避けようともしないで、右に向きを変えだした。\n同船に火がつけられ、灯台の岬の石のあるところに座礁した。\nもう一隻の輸送船もまた、向きをかえようとしていたが、砲弾をうけて大破し、水中に沈みかけ、沈没してしまった。\nそのあと、砲火は、輸送船をすてて、海洋に立ち去ろうとしていた短艇にあびせられた。</div>\n<div>沿岸の砲台と艦隊の砲火、探照灯の明りのため、日本軍の旅順港口の水道閉塞計画は失敗に終った。</div>\n<div class=\"txr\"><a href=\"../text/ro_soren.html\">ロストーノフ 「ソ連から見た日露戦争」</a>\n　Ｐ．１２６</div>\n"
   },
   {
    "type": "cyu",
@@ -213,7 +198,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1948.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1948.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -153,25 +162,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -185,17 +178,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>第一国会の隠退蔵物資等に関する特別委員会についで第二国会が設けた不当財産取引調査特別委員会は、\n戦後の復興過程における財界と政界の腐敗面をつぎつぎに暴露していた。\n総司令部のＧＳは、二つの特別委員会にすくなからず声援をおくっていた。\nというのも、二つの特別委員会が民自党の前身たる自由党の旧悪を暴露し、中道政権を強化するとかんがえたからであった。\n民自党は、不当財産取引調査特別委員会において与党の旧悪を暴露しかえそうと血眼になっていた。</div>\n<div>あたかも五月二六日、委員会の喚問をうけた鉄道工業株式会社専務の飯田清太は、前年の四月選挙のさいに\n土建業者が自由・民主・社会の三党に献金し、社会党にたいしては<a href=\"../p/nsuehiro.html\">西尾書記長</a>に「党書記長<a href=\"../p/nsuehiro.html\">西尾</a>とかんがえて渡しました」と証言した。\n<a href=\"../p/nsuehiro.html\">西尾</a>は、しかし、勅令一〇一号によっても、政令第三二八号によっても、土建業者からうけとった五〇万円を届けでていなかった。\n民自党は小躍りした。\n六月一日、委員会は<a href=\"../p/nsuehiro.html\">西尾</a>を喚問した。\n<a href=\"../p/nsuehiro.html\">西尾</a>は、「党の書記長である<a href=\"../p/nsuehiro.html\">西尾</a>個人」としてうけとったのだと弁明した。\n<a href=\"../p/nsuehiro.html\">西尾</a>の証言は政令第三二八号に違反するとの疑惑が濃くなり、西尾問題は政治問題化した。</div>\n<div>最高検察庁は、六月九日、<a href=\"../p/nsuehiro.html\">西尾</a>の行動は政令違反に該当すると結論し、翌一〇日、福井検事総長は、\n<a href=\"../p/ahitosi.html\">芦田首相</a>にたいし<a href=\"../p/nsuehiro.html\">西尾</a>を起訴することについて同意をもとめた。\nしかし、社会党の中央執行委員会は、献金は<a href=\"../p/nsuehiro.html\">西尾</a>個人のものとすると結論した。\n一一日、社会党の左派は、<a href=\"../p/nsuehiro.html\">西尾</a>の責任を追及して閣僚辞任を勧告しつつ、粛党の運動を起した。\n運動の署名者は、一二月に六三名に達した。\n不当財委の民自党委員で弁護士出身の鍛冶良作は、委員一三名の名をつらねて<a href=\"../p/nsuehiro.html\">西尾</a>を偽証の罪で東京地検に告発した。\n一四日、<a href=\"../p/ktetu.html\">片山委員長</a>は、<a href=\"../p/nsuehiro.html\">西尾</a>に辞任を要求した。\nしかし、<a href=\"../p/nsuehiro.html\">西尾</a>は拒否した。\n二四日、野党は国会に西尾不信任案を提出した。\n<a href=\"../p/ktetu.html\">片山委員長</a>は、粛党派に「委員長の責任処理」を約束し、粛党派は、<a href=\"../p/ktetu.html\">片山委員長</a>の約束を「早急に辞任せしめることの確約」としてうけとり、\n不信任案に反対することとした。\n与党は、不信任案を一七八対二〇九で葬った。\n二八日、粛党派は<a href=\"../p/ktetu.html\">片山委員長</a>に確約の実行を要求した。\nいかな<a href=\"../p/nsuehiro.html\">西尾</a>も職にとどまっていることができなくなり、第二国会が七月五日に閉会した翌六日、<a href=\"../1948/asi_1.html\">芦田内閣</a>の国務相を辞任し、\nさらに翌七日、社会党の中央執行委員を辞任した。\nおなじ日、東京地検は<a href=\"../p/nsuehiro.html\">西尾</a>を政令違反と偽証で起訴した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ss3sengo.html\">信夫清三郎 「戦後日本政治史Ⅲ」</a>\n　Ｐ．８１０</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>第一国会の隠退蔵物資等に関する特別委員会についで第二国会が設けた不当財産取引調査特別委員会は、\n戦後の復興過程における財界と政界の腐敗面をつぎつぎに暴露していた。\n総司令部のＧＳは、二つの特別委員会にすくなからず声援をおくっていた。\nというのも、二つの特別委員会が民自党の前身たる自由党の旧悪を暴露し、中道政権を強化するとかんがえたからであった。\n民自党は、不当財産取引調査特別委員会において与党の旧悪を暴露しかえそうと血眼になっていた。</div>\n<div>あたかも五月二六日、委員会の喚問をうけた鉄道工業株式会社専務の飯田清太は、前年の四月選挙のさいに\n土建業者が自由・民主・社会の三党に献金し、社会党にたいしては<a href=\"../p/nsuehiro.html\">西尾書記長</a>に「党書記長<a href=\"../p/nsuehiro.html\">西尾</a>とかんがえて渡しました」と証言した。\n<a href=\"../p/nsuehiro.html\">西尾</a>は、しかし、勅令一〇一号によっても、政令第三二八号によっても、土建業者からうけとった五〇万円を届けでていなかった。\n民自党は小躍りした。\n六月一日、委員会は<a href=\"../p/nsuehiro.html\">西尾</a>を喚問した。\n<a href=\"../p/nsuehiro.html\">西尾</a>は、「党の書記長である<a href=\"../p/nsuehiro.html\">西尾</a>個人」としてうけとったのだと弁明した。\n<a href=\"../p/nsuehiro.html\">西尾</a>の証言は政令第三二八号に違反するとの疑惑が濃くなり、西尾問題は政治問題化した。</div>\n<div>最高検察庁は、六月九日、<a href=\"../p/nsuehiro.html\">西尾</a>の行動は政令違反に該当すると結論し、翌一〇日、福井検事総長は、\n<a href=\"../p/ahitosi.html\">芦田首相</a>にたいし<a href=\"../p/nsuehiro.html\">西尾</a>を起訴することについて同意をもとめた。\nしかし、社会党の中央執行委員会は、献金は<a href=\"../p/nsuehiro.html\">西尾</a>個人のものとすると結論した。\n一一日、社会党の左派は、<a href=\"../p/nsuehiro.html\">西尾</a>の責任を追及して閣僚辞任を勧告しつつ、粛党の運動を起した。\n運動の署名者は、一二月に六三名に達した。\n不当財委の民自党委員で弁護士出身の鍛冶良作は、委員一三名の名をつらねて<a href=\"../p/nsuehiro.html\">西尾</a>を偽証の罪で東京地検に告発した。\n一四日、<a href=\"../p/ktetu.html\">片山委員長</a>は、<a href=\"../p/nsuehiro.html\">西尾</a>に辞任を要求した。\nしかし、<a href=\"../p/nsuehiro.html\">西尾</a>は拒否した。\n二四日、野党は国会に西尾不信任案を提出した。\n<a href=\"../p/ktetu.html\">片山委員長</a>は、粛党派に「委員長の責任処理」を約束し、粛党派は、<a href=\"../p/ktetu.html\">片山委員長</a>の約束を「早急に辞任せしめることの確約」としてうけとり、\n不信任案に反対することとした。\n与党は、不信任案を一七八対二〇九で葬った。\n二八日、粛党派は<a href=\"../p/ktetu.html\">片山委員長</a>に確約の実行を要求した。\nいかな<a href=\"../p/nsuehiro.html\">西尾</a>も職にとどまっていることができなくなり、第二国会が七月五日に閉会した翌六日、<a href=\"../1948/asi_1.html\">芦田内閣</a>の国務相を辞任し、\nさらに翌七日、社会党の中央執行委員を辞任した。\nおなじ日、東京地検は<a href=\"../p/nsuehiro.html\">西尾</a>を政令違反と偽証で起訴した。</div>\n<div class=\"txr\"><a href=\"../text/ss3sengo.html\">信夫清三郎 「戦後日本政治史Ⅲ」</a>\n　Ｐ．８１０<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4326398183%2Fqid%3D1147087145%2Fsr%3D1-3%2Fref%3Dsr_1_8_3\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -203,7 +188,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

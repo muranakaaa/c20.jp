@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1921.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1921.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -123,25 +132,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "pt"
    },
    "html": "\n<div class=\"pt_h\">～　テロに斃れた首相たち　～</div>\n<div class=\"c\">１９２１年：<a href=\"../p/htakasi.html\">原敬</a> ／ １９３０年：<a href=\"../p/hosaci.html\">浜口雄幸</a> ／ １９３２年：<a href=\"../p/ituyosi.html\">犬養毅</a></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -155,17 +148,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>午後四時官邸から芝の自宅に帰り、夫人の浅子と頂戴の菊を眺め、夕食を共にした後、午後七時すぎ自動車で東京駅に向った。</div>\n<div>東京駅についた<a href=\"../p/htakasi.html\">原</a>が、発車までに十五分あるというので、見送りに来た各大臣と駅長室で雑談した後、\n改札口近くに進んだとき、群衆の中からとび出した書生風の青年が、叫び声をあげながら担当で<a href=\"../p/htakasi.html\">原</a>の右胸部を刺した。\n傷は深く<a href=\"../p/htakasi.html\">原</a>はその場に倒れ、駅長室に運ばれたが一語も発せず午後七時二十五分絶命した。\n遺体は午前八時二十分寝台車に移し、その後芝の自邸に運ばれた。\n<a href=\"../p/htakasi.html\">原</a>の被害は右胸部の一突きで短刀は右胸部肋骨の間を斜めに貫いて大動脈を切断し、入沢達吉博士が応急手当をした頃には瞳孔が散開しており、\n呼吸が止まり絶命していた。</div>\n<div>午前九時遺体が自邸に運ばれると<a href=\"../p/ukosai.html\">内田外相</a>、野田逓相、元田鉄相らが見舞いに馳けつけ、\n愛宕署から百余名の警官が騎馬提灯をさげて、警戒し物々しい雰囲気の中に、邸内は沈痛なものが重く垂れこめた。</div>\n<div><a href=\"../p/htakasi.html\">原</a>は平素浅子夫人に、「自分の身に異変があった場合には一切の処理は官邸でなく自邸で行うようにせよ」と申しつけてあったので、\n夫人は直ちに東京駅に馳けつけ少しも取乱すことなく、遺体を自邸にひきとったのである。\n私邸で処理せよということは、総理としてではなく、政党人個人として官の手を煩わすことなく死んでゆきたいという意味であろうか。</div>\n<div>犯人は中岡艮一といって大塚駅の転轍手で東京市外巣鴨に住む十九歳の青年であった。\n彼が懐ろにしていた「斬奸状」には次のように墨筆大書されてあった。</div>\n<div>内閣総理大臣<a href=\"../p/htakasi.html\">原敬</a>就任以来政道を掌どるに私欲をはさみ己の利す処に万民の愁苦を顧みず列国の笑侮を悟らず其の罪数奇（少なからず？）\n若し唾手以て之を誅鋤せずんば何時の日か天日を仰れん</div>\n<div>　　　　　　　　　　　　　　　　　　　　憂国の志士　中岡良一（斬奸状では良一になっていた）</div>\n<div>同日大塚駅の助役は、「中岡は高知県出身で早く父を失い母と二人暮らしで今春ポイントマン（転轍手）になった。\n性質は時によると変な事を言う男だが、頭脳は明晰で読書の範囲は広かった。\n勤勉家ではないが、相当仕事をしていた。\n三日は出番ではないが、四日は休んでいた」と語った。</div>\n<div>取調べの途中で中岡は坂本竜馬と共に王政復古に尽力した土佐の英傑中岡慎太郎の孫にあたるということがわかった。</div>\n<div>公判廷の調べに対し、彼は、</div>\n<div>「自分の身を犠牲にして<a href=\"../p/htakasi.html\">原総理</a>を倒せば、自然に自分の名も世に現われようし、\n内閣は倒壊するからそれによって革新しようという考えになった」</div>\n<div>と動機を語った。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm2saion.html\">豊田穣 「西園寺公望（下）」</a>\n　Ｐ．１５８</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>午後四時官邸から芝の自宅に帰り、夫人の浅子と頂戴の菊を眺め、夕食を共にした後、午後七時すぎ自動車で東京駅に向った。</div>\n<div>東京駅についた<a href=\"../p/htakasi.html\">原</a>が、発車までに十五分あるというので、見送りに来た各大臣と駅長室で雑談した後、\n改札口近くに進んだとき、群衆の中からとび出した書生風の青年が、叫び声をあげながら担当で<a href=\"../p/htakasi.html\">原</a>の右胸部を刺した。\n傷は深く<a href=\"../p/htakasi.html\">原</a>はその場に倒れ、駅長室に運ばれたが一語も発せず午後七時二十五分絶命した。\n遺体は午前八時二十分寝台車に移し、その後芝の自邸に運ばれた。\n<a href=\"../p/htakasi.html\">原</a>の被害は右胸部の一突きで短刀は右胸部肋骨の間を斜めに貫いて大動脈を切断し、入沢達吉博士が応急手当をした頃には瞳孔が散開しており、\n呼吸が止まり絶命していた。</div>\n<div>午前九時遺体が自邸に運ばれると<a href=\"../p/ukosai.html\">内田外相</a>、野田逓相、元田鉄相らが見舞いに馳けつけ、\n愛宕署から百余名の警官が騎馬提灯をさげて、警戒し物々しい雰囲気の中に、邸内は沈痛なものが重く垂れこめた。</div>\n<div><a href=\"../p/htakasi.html\">原</a>は平素浅子夫人に、「自分の身に異変があった場合には一切の処理は官邸でなく自邸で行うようにせよ」と申しつけてあったので、\n夫人は直ちに東京駅に馳けつけ少しも取乱すことなく、遺体を自邸にひきとったのである。\n私邸で処理せよということは、総理としてではなく、政党人個人として官の手を煩わすことなく死んでゆきたいという意味であろうか。</div>\n<div>犯人は中岡艮一といって大塚駅の転轍手で東京市外巣鴨に住む十九歳の青年であった。\n彼が懐ろにしていた「斬奸状」には次のように墨筆大書されてあった。</div>\n<div>内閣総理大臣<a href=\"../p/htakasi.html\">原敬</a>就任以来政道を掌どるに私欲をはさみ己の利す処に万民の愁苦を顧みず列国の笑侮を悟らず其の罪数奇（少なからず？）\n若し唾手以て之を誅鋤せずんば何時の日か天日を仰れん</div>\n<div>　　　　　　　　　　　　　　　　　　　　憂国の志士　中岡良一（斬奸状では良一になっていた）</div>\n<div>同日大塚駅の助役は、「中岡は高知県出身で早く父を失い母と二人暮らしで今春ポイントマン（転轍手）になった。\n性質は時によると変な事を言う男だが、頭脳は明晰で読書の範囲は広かった。\n勤勉家ではないが、相当仕事をしていた。\n三日は出番ではないが、四日は休んでいた」と語った。</div>\n<div>取調べの途中で中岡は坂本竜馬と共に王政復古に尽力した土佐の英傑中岡慎太郎の孫にあたるということがわかった。</div>\n<div>公判廷の調べに対し、彼は、</div>\n<div>「自分の身を犠牲にして<a href=\"../p/htakasi.html\">原総理</a>を倒せば、自然に自分の名も世に現われようし、\n内閣は倒壊するからそれによって革新しようという考えになった」</div>\n<div>と動機を語った。</div>\n<div class=\"txr\"><a href=\"../text/tm2saion.html\">豊田穣 「西園寺公望（下）」</a>\n　Ｐ．１５８<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E5%259C%2592%25E5%25AF%25BA%25E5%2585%25AC%25E6%259C%259B%25E2%2580%2595%25E6%259C%2580%25E5%25BE%258C%25E3%2581%25AE%25E5%2585%2583%25E8%2580%2581%2520%2528%25E4%25B8%258B%25E5%25B7%25BB%2529%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -173,7 +158,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

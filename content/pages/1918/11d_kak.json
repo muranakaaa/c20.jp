@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1918.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1918.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -58,12 +67,12 @@
      ]
     },
     {
-     "cls": "b",
+     "cls": "n",
      "cells": [
       {
        "id": "l",
        "cls": null,
-       "html": "1917/01/09　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ、無制限潜水艦作戦を決定　（01/31 対米通告）</a>"
+       "html": "1917/01/09　　<a href=\"../1917/01d_sub.html\">\nドイツ、無制限潜水艦作戦を決定</a>　（01/31 対米通告）"
       }
      ]
     },
@@ -73,7 +82,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1917/04/06　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ、対独参戦</a>"
+       "html": "1917/04/06　　<a href=\"../1917/04a_san.html\">\nアメリカ、対独参戦</a>"
       }
      ]
     },
@@ -103,7 +112,17 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1918/03/03　　<a href\"..=\"\" 19.html\"=\"\">\nブレストリトフスク条約調印　（ソビエト政府、独墺と講和）</a>"
+       "html": "1918/03/03　　<a href=\"../1918/03brest.html\">\nブレスト・リトフスク条約調印</a>　（ソビエト政府、独墺と講和）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/03/21　　<a href=\"../1918/03micha.html\">\nドイツ軍、西部戦線で大反攻開始</a>　（ミヒャエル作戦）"
       }
      ]
     },
@@ -183,25 +202,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -215,17 +218,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>十月末、海軍指導部は「海軍と将校団の名誉」のために、最後の大決戦を計画した。\n「われわれが全滅しても、イギリスに一泡吹かせる」というのが、その真意であった。\n「提督たちの反乱」といわれるこの作戦は、水兵ら乗組員が無益な死を拒否して蜂起したため、中止された。\nそしてこれがドイツ革命の始まりとなった。</div>\n<div>革命が首都ベルリンを制し、<a href=\"../p/wilhelm2.html\">ヴィルヘルム二世</a>がオランダへ亡命した翌日、十一月十一日、\nドイツ代表団はパリ近郊のコンピエーニュの森で休戦協定に署名した。\n大戦開始から一五六八日目であった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ks_nse26.html\">木村靖二・柴宜弘・長沼秀世 「世界の歴史（26）」</a>\n　Ｐ．１３８</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>十月末、海軍指導部は「海軍と将校団の名誉」のために、最後の大決戦を計画した。\n「われわれが全滅しても、イギリスに一泡吹かせる」というのが、その真意であった。\n「提督たちの反乱」といわれるこの作戦は、水兵ら乗組員が無益な死を拒否して蜂起したため、中止された。\nそしてこれがドイツ革命の始まりとなった。</div>\n<div>革命が首都ベルリンを制し、<a href=\"../p/wilhelm2.html\">ヴィルヘルム二世</a>がオランダへ亡命した翌日、十一月十一日、\nドイツ代表団はパリ近郊のコンピエーニュの森で休戦協定に署名した。\n大戦開始から一五六八日目であった。</div>\n<div class=\"txr\"><a href=\"../text/ks_nse26.html\">木村靖二・柴宜弘・長沼秀世 「世界の歴史（26）」</a>\n　Ｐ．１３８<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E4%25B8%2596%25E7%2595%258C%25E5%25A4%25A7%25E6%2588%25A6%25E3%2581%25A8%25E7%258F%25BE%25E4%25BB%25A3%25E6%2596%2587%25E5%258C%2596%25E3%2581%25AE%25E9%2596%258B%25E5%25B9%2595%2520%2520%2520%2520%25E4%25B8%2596%25E7%2595%258C%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -233,7 +228,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

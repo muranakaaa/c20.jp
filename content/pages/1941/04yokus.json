@@ -1,11 +1,12 @@
 {
  "path": "1941/04yokus.html",
  "type": "article",
- "title": "大政翼賛会改組　（有馬頼寧事務局長ら辞任）　／ クリック ２０世紀",
+ "title": "大政翼賛会改組　（有馬頼寧事務総長ら辞任）　／ クリック ２０世紀",
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,12 +16,20 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1941.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1941.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
-   "html": "大政翼賛会改組　（有馬頼寧事務局長ら辞任）"
+   "html": "大政翼賛会改組　（有馬頼寧事務総長ら辞任）"
   },
   {
    "type": "title2",
@@ -33,7 +42,7 @@
   {
    "type": "headline",
    "cells": [
-    "こんなはずでは・・・。　近衛ブレーン、革新官僚に押し切られ、大政翼賛会から全面撤退。"
+    "こんなはずでは・・・。　<a href=\"../p/kfumimar.html\">近衛</a>ブレーン、現状維持派に押し切られ、大政翼賛会から全面撤退。"
    ]
   },
   {
@@ -153,7 +162,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1941/04/02　　<a 1941=\"\" href\"..=\"\" 04yokus.html\"=\"\">\n大政翼賛会改組</a>　（<a href=\"../p/ayoriyas.html\">有馬頼寧事務局長</a>ら辞任）"
+       "html": "1941/04/02　　<a 1941=\"\" href\"..=\"\" 04yokus.html\"=\"\">\n大政翼賛会改組</a>　（<a href=\"../p/ayoriyas.html\">有馬頼寧事務総長</a>ら辞任）"
       }
      ]
     },
@@ -193,25 +202,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -225,17 +218,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "<span class=\"m_y\">語録</span>\n私は涙も出ぬほどの気持ちだ。\n<div class=\"r\"><a href=\"../p/ayoriyas.html\">有馬頼寧</a>　（大政翼賛会事務総長）</div>\n"
   },
   {
    "type": "cyu",
@@ -243,11 +228,17 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",
-   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1941.html\">１９４１年</a>\n ＞ <a href=\"#h\">大政翼賛会改組　（有馬頼寧事務局長ら辞任）</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1941.html\">１９４１年</a>\n ＞ <a href=\"#h\">大政翼賛会改組　（有馬頼寧事務総長ら辞任）</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
   }
  ]
 }

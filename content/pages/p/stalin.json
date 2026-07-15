@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -38,25 +47,17 @@
    "type": "raw",
    "tag": "table",
    "attrs": {
-    "class": "off"
+    "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"03s.html\">一覧　（サ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%25AA%25E3%2583%25B3\" target=\"_blank\">本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "ep1"
    },
-   "html": "<span class=\"m_r\">エピソード 1</span>調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+   "html": "<span class=\"m_r\">エピソード 1</span>１９５３年１月、ウイーン世界人民平和大会の帰途、\nモスクワに立ち寄った<a href=\"../p/soukeire.html\">宋慶齢</a>は、\n長年の友誼への感謝の気持ちから、女性らしい配慮で、\n絹の刺繍の入った軽くてあったかい綿入れをスターリンにプレゼントしたいと考えた。\nところが、これは実現しなかった。\nスターリンの衣服のサイズを、国家機密であるという理由で、教えてもらうことができなかったからである。"
   },
   {
    "type": "raw",
@@ -65,14 +66,6 @@
     "class": "off"
    },
    "html": "<tbody><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr></tbody>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "timeline",
@@ -123,7 +116,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1918/03/03　　<a href\"..=\"\" 19.html\"=\"\">\nブレストリトフスク条約調印　（ソビエト政府、独墺と講和）</a>"
+       "html": "1918/03/03　　<a href=\"../1918/03brest.html\">\nブレスト・リトフスク条約調印</a>　（ソビエト政府、独墺と講和）"
       }
      ]
     },
@@ -148,12 +141,12 @@
      ]
     },
     {
-     "cls": "b",
+     "cls": "n",
      "cells": [
       {
        "id": "l",
        "cls": null,
-       "html": "1920/04/25　　<a href\"..=\"\" 19.html\"=\"\">\nソビエト・ポーランド戦争勃発　（～10/12）</a>"
+       "html": "1920/04/25　　<a href=\"../1920/04sp_wa.html\">\nソビエト・ポーランド戦争勃発</a>　（～10/12）"
       }
      ]
     },
@@ -413,7 +406,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1943/04/13　　<a href\"..=\"\" 19.html\"=\"\">\nベルリン放送、カチン虐殺事件を発表</a>　（遺体4000以上発見）"
+       "html": "1943/04/13　　<a href=\"../1943/04katyn.html\">\nベルリン放送、カチン虐殺事件を発表</a>　（遺体4000以上発見）"
       }
      ]
     },
@@ -633,9 +626,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "cm"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "<span class=\"m_y\">語録</span>\nもしもアメリカの飛行機がなければ、戦争に敗れたであろう。"
   },
   {
    "type": "raw",
@@ -643,15 +636,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>スターリンは一八七九年十二月の生まれだから、<a href=\"../p/hitler_a.html\">ヒットラー</a>よりも、ちょうど十歳年上である。\nコーカサスの片田舎ゴーリという町の靴職人の子として彼は生まれ、<a href=\"../p/lenin_n.html\">レーニン</a>が死んだ一九二四年一月には、党書記長の地位にあった。</div>\n<div><a href=\"../p/lenin_n.html\">レーニン</a>は死ぬ一年ほど前に、口述で党へあてた事実上の遺書を作成していた。\nそのなかで、彼はスターリンがあまりにも粗暴であり、<a href=\"../p/trotsk_l.html\">トロツキー</a>は有能だが、うぬぼれが強すぎると指摘していた。\n<a href=\"../p/lenin_n.html\">レーニン</a>は、スターリンが書記長の職を退き、中央委員の数をふやして、集団指導制をとるように希望していた。\nしかし、スターリンは、<a href=\"../p/lenin_n.html\">レーニン</a>の注意を守って反省することを条件に、<a href=\"../p/lenin_n.html\">レーニン</a>の死後の党大会で書記長にとどまった。</div>\n<div>はじめ、彼はコミンテルンの議長ジノヴィエフ、モスクワ・ソビエト議長カーメネフらと集団指導の形をとったが、\nまず政敵<a href=\"../p/trotsk_l.html\">トロツキー</a>を追放し、ついで、ジノヴィエフ、カーメネフを蹴落とし、さらには、\nブハーリン、ルイコフ（<a href=\"../p/lenin_n.html\">レーニン</a>の死後、人民委員会の議長をつとめた人物）を一九二九年ごろまでに片付けた。</div>\n<div>一九三四年一月の党大会で、スターリンは完全な勝利者となった。\n壇上の報告者たちはスターリンの指導をたたえ、偉大な指導者とか天才的な思想家とか卓越した理論家とか、\nあらゆる時代をこえたあらゆる民衆のもっとも偉大な指導者、という形容を奉った。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/mt_yuhit.html\">三好徹 「夕陽と怒濤」</a>\n　Ｐ．３２３</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>スターリンは一八七九年十二月の生まれだから、<a href=\"../p/hitler_a.html\">ヒットラー</a>よりも、ちょうど十歳年上である。\nコーカサスの片田舎ゴーリという町の靴職人の子として彼は生まれ、<a href=\"../p/lenin_n.html\">レーニン</a>が死んだ一九二四年一月には、党書記長の地位にあった。</div>\n<div><a href=\"../p/lenin_n.html\">レーニン</a>は死ぬ一年ほど前に、口述で党へあてた事実上の遺書を作成していた。\nそのなかで、彼はスターリンがあまりにも粗暴であり、<a href=\"../p/trotsk_l.html\">トロツキー</a>は有能だが、うぬぼれが強すぎると指摘していた。\n<a href=\"../p/lenin_n.html\">レーニン</a>は、スターリンが書記長の職を退き、中央委員の数をふやして、集団指導制をとるように希望していた。\nしかし、スターリンは、<a href=\"../p/lenin_n.html\">レーニン</a>の注意を守って反省することを条件に、<a href=\"../p/lenin_n.html\">レーニン</a>の死後の党大会で書記長にとどまった。</div>\n<div>はじめ、彼はコミンテルンの議長ジノヴィエフ、モスクワ・ソビエト議長カーメネフらと集団指導の形をとったが、\nまず政敵<a href=\"../p/trotsk_l.html\">トロツキー</a>を追放し、ついで、ジノヴィエフ、カーメネフを蹴落とし、さらには、\nブハーリン、ルイコフ（<a href=\"../p/lenin_n.html\">レーニン</a>の死後、人民委員会の議長をつとめた人物）を一九二九年ごろまでに片付けた。</div>\n<div>一九三四年一月の党大会で、スターリンは完全な勝利者となった。\n壇上の報告者たちはスターリンの指導をたたえ、偉大な指導者とか天才的な思想家とか卓越した理論家とか、\nあらゆる時代をこえたあらゆる民衆のもっとも偉大な指導者、という形容を奉った。</div>\n<div class=\"txr\"><a href=\"../text/mt_yuhit.html\">三好徹 「夕陽と怒濤」</a>\n　Ｐ．３２３<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%259D%25BE%25E5%25B2%25A1%25E6%25B4%258B%25E5%258F%25B3%25E2%2580%2595%25E5%25A4%2595%25E9%2599%25BD%25E3%2581%25A8%25E6%2580%2592%25E6%25BF%25A4%2520%2520%2520%2520%25E4%25BA%25BA%25E7%2589%25A9%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -659,23 +644,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>スターリンはゴリの初等神学校を卒業して、トビリシ（グルジア共和国の首都）の高等神学校へ進みました。\n成績がよかったので、母親は牧師として立身出世ができるとよろこんでいました。</div>\n<div>しかし、スターリンは社会のしくみやはたらきに興味を持つようになって、\n神学校在学中に禁じられていたフランスの作家ビクトル・ユゴー（一八〇二～八五『レ・ミゼラブル』など）の作品を読んだりして、\nとうとう五年もいた高等新学校を退学させられてしまいました。</div>\n<div>神の世界を学ぶのをやめて、物質中心の考え“マルクス主義”に熱中したのです。\n<a href=\"../p/lenin_n.html\">レーニン</a>の書いたマルクス（一八一八～八三）主義の論文を愛読し、トビリシで政党に加わって活動家になっていきました。</div>\n<div><a href=\"../p/lenin_n.html\">レーニン</a>に初めて会ったのは一九〇五年、二十六歳のときです。\nこの年は日露戦争中でしたが、ロシアでは革命ののろしがあがっていました。\nやがて<a href=\"../p/lenin_n.html\">レーニン</a>に認められ、共産党の中で重要な地位につくようになったのです。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/it_syaka.html\">稲垣友美・鈴木喜代春 「「社会」に出てくる人物Ⅴ」</a>\n　Ｐ．７７</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span>スターリンはゴリの初等神学校を卒業して、トビリシ（グルジア共和国の首都）の高等神学校へ進みました。\n成績がよかったので、母親は牧師として立身出世ができるとよろこんでいました。</div>\n<div>しかし、スターリンは社会のしくみやはたらきに興味を持つようになって、\n神学校在学中に禁じられていたフランスの作家ビクトル・ユゴー（一八〇二～八五『レ・ミゼラブル』など）の作品を読んだりして、\nとうとう五年もいた高等新学校を退学させられてしまいました。</div>\n<div>神の世界を学ぶのをやめて、物質中心の考え“マルクス主義”に熱中したのです。\n<a href=\"../p/lenin_n.html\">レーニン</a>の書いたマルクス（一八一八～八三）主義の論文を愛読し、トビリシで政党に加わって活動家になっていきました。</div>\n<div><a href=\"../p/lenin_n.html\">レーニン</a>に初めて会ったのは一九〇五年、二十六歳のときです。\nこの年は日露戦争中でしたが、ロシアでは革命ののろしがあがっていました。\nやがて<a href=\"../p/lenin_n.html\">レーニン</a>に認められ、共産党の中で重要な地位につくようになったのです。</div>\n<div class=\"txr\"><a href=\"../text/it_syaka.html\">稲垣友美・鈴木喜代春 「「社会」に出てくる人物Ⅴ」</a>\n　Ｐ．７７<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%2595%2599%25E7%25A7%2591%25E5%2588%25A5%2520%25E6%2595%2599%25E7%25A7%2591%25E6%259B%25B8%25E3%2581%25AB%25E3%2581%25A7%25E3%2581%25A6%25E3%2581%258F%25E3%2582%258B%25E4%25BA%25BA%25E7%2589%25A9124%25E4%25BA%25BA\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -683,7 +652,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

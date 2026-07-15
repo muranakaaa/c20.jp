@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1940.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1940.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -253,25 +262,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -285,9 +278,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>四〇年五月十日、ドイツ軍はオランダとベルギーを攻撃し、二日後にはフランス攻撃を開始した。\nオランダは五日間で降伏し、五月末にはベルギーも降伏した。\nこの間、ドイツ軍はマジノ線の北端を疾駆してアルデンヌの森に進撃し、セダンでフランス軍の戦線を五十マイル突破、\n一隊はアミアンを西進して、五月二十一日にはイギリス海峡に到達した。</div>\n<div class=\"txr\"><a href=\"../text/ia_gaise.html\">今津晃 「概説現代史」</a>\n　Ｐ．２１２<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%25A6%2582%25E8%25AA%25AC%25E7%258F%25BE%25E4%25BB%25A3%25E5%258F%25B2%2520%2520%2520%2520%25E5%2589%25B5%25E5%2585%2583%25E9%2581%25B8%25E6%259B%25B8\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -295,15 +288,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>四〇年五月十日、ドイツ軍はオランダとベルギーを攻撃し、二日後にはフランス攻撃を開始した。\nオランダは五日間で降伏し、五月末にはベルギーも降伏した。\nこの間、ドイツ軍はマジノ線の北端を疾駆してアルデンヌの森に進撃し、セダンでフランス軍の戦線を五十マイル突破、\n一隊はアミアンを西進して、五月二十一日にはイギリス海峡に到達した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ia_gaise.html\">今津晃 「概説現代史」</a>\n　Ｐ．２１２</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>総司令官Ｍ・ガムラン大将は、パリ市東端バンサンヌの総司令部地下壕で、十日午前一時、\n第二部からの急報を受理した。</div>\n<div>ドイツ国内の諜者が、独軍は西進を開始した、と伝えてきた、というのである。</div>\n<div>大将は、副官がさしだす通信文を読み終わると、うつろな視線を宙にすえ、ぼんやりと寝室にもどっていった。</div>\n<div>副官は指示を期待して待機したが、一時間をすぎても大将からの音沙汰はないので、退出した。</div>\n<div>のちに、ガムラン大将は調査委員会で次のように証言する。</div>\n<div>「われわれは五月九日、独軍が、翌日に攻撃してくることは知らなかった。そのような兆候は無かった」</div>\n<div>この大将の証言は、仏軍将校の多くを驚かせ、大将の「偽証」を非難する声も起こった。</div>\n<div>だが、大将には「偽証」の意思も自覚もなく、その様子は不可思議に思われたが、現在ではその理由は明白になっている。</div>\n<div>じつは、仏軍総司令官Ｍ・ガムラン大将は、神経梅毒に脳をおかされていたのである。</div>\n<div>イタリヤ首相<a href=\"../p/mussol_b.html\">Ｂ・ムソリーニ</a>も同病者であり、当時の一般的医療法である水銀性抗梅毒剤「サルバルサン」の投薬で悪化をおさえていた。</div>\n<div>ガムラン大将の場合も、はじめは「サルバルサン療法」をうけていたが、\n一九三二年、同三三年に「マラリア療法」をうけて、快方にむかった。</div>\n<div>そのおかげで知性を回復して大将にも進み、総司令官兼参謀総長の要職にもついたが、実際には快癒も一時的で、\n年月の経過とともに大将の脳は荒廃していたのである。</div>\n<div>【中略】　第二次大戦の開幕前後にみられる大将の不決断、無気力、さらには支離滅裂な言動は、\n大将に接触した人々のほとんどが回想している点である。</div>\n<div>開戦になってからも、大将は、総司令部の地下の居室にとじこもって「瞑想」にふける姿勢をつづけ、\n<a href=\"../p/degaul_c.html\">Ｃ・ドゴール大佐</a>は、総司令部の雰囲気を「僧院」と描写した。</div>\n<div>現実には、大将は、神経梅毒によって「考えをまとめる能力」が低下して、呆然としていたのである。</div>\n<div class=\"txr\"><a href=\"../text/kn3hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（３）」</a>\n　Ｐ．２０２<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167141388%2Fqid%3D1147087396%2Fsr%3D1-17%2Fref%3Dsr_1_2_17\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -311,23 +296,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>総司令官Ｍ・ガムラン大将は、パリ市東端バンサンヌの総司令部地下壕で、十日午前一時、\n第二部からの急報を受理した。</div>\n<div>ドイツ国内の諜者が、独軍は西進を開始した、と伝えてきた、というのである。</div>\n<div>大将は、副官がさしだす通信文を読み終わると、うつろな視線を宙にすえ、ぼんやりと寝室にもどっていった。</div>\n<div>副官は指示を期待して待機したが、一時間をすぎても大将からの音沙汰はないので、退出した。</div>\n<div>のちに、ガムラン大将は調査委員会で次のように証言する。</div>\n<div>「われわれは五月九日、独軍が、翌日に攻撃してくることは知らなかった。そのような兆候は無かった」</div>\n<div>この大将の証言は、仏軍将校の多くを驚かせ、大将の「偽証」を非難する声も起こった。</div>\n<div>だが、大将には「偽証」の意思も自覚もなく、その様子は不可思議に思われたが、現在ではその理由は明白になっている。</div>\n<div>じつは、仏軍総司令官Ｍ・ガムラン大将は、神経梅毒に脳をおかされていたのである。</div>\n<div>イタリヤ首相<a href=\"../p/mussol_b.html\">Ｂ・ムソリーニ</a>も同病者であり、当時の一般的医療法である水銀性抗梅毒剤「サルバルサン」の投薬で悪化をおさえていた。</div>\n<div>ガムラン大将の場合も、はじめは「サルバルサン療法」をうけていたが、\n一九三二年、同三三年に「マラリア療法」をうけて、快方にむかった。</div>\n<div>そのおかげで知性を回復して大将にも進み、総司令官兼参謀総長の要職にもついたが、実際には快癒も一時的で、\n年月の経過とともに大将の脳は荒廃していたのである。</div>\n<div>【中略】　第二次大戦の開幕前後にみられる大将の不決断、無気力、さらには支離滅裂な言動は、\n大将に接触した人々のほとんどが回想している点である。</div>\n<div>開戦になってからも、大将は、総司令部の地下の居室にとじこもって「瞑想」にふける姿勢をつづけ、\n<a href=\"../p/degaul_c.html\">Ｃ・ドゴール大佐</a>は、総司令部の雰囲気を「僧院」と描写した。</div>\n<div>現実には、大将は、神経梅毒によって「考えをまとめる能力」が低下して、呆然としていたのである。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kn3hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（３）」</a>\n　Ｐ．２０２</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "tx"
-   },
-   "html": "\n<div>ノルウェー作戦の成功がほぼあきらかになった一九四〇年五月十日、<a href=\"../p/hitler_a.html\">ヒトラー</a>は、ついに西部でも攻撃にでた。</div>\n<div>西部攻撃の作戦計画に関しては、国防軍の首脳と<a href=\"../p/hitler_a.html\">ヒトラー</a>のあいだに、どこに攻撃の重点をおくかで意見の対立があった。\n陸軍最高司令官のブラウヒッチュや参謀総長のハルダーは、マジノ線のある独仏国境をさけ、\nオランダ、ベルギーの中立諸国を通過してフランスに攻めいるという、ほぼ第一次大戦のときとおなじ作戦計画を主張した。\nこれに対し<a href=\"../p/hitler_a.html\">ヒトラー</a>は、それでは短期間に敵を粉砕して勝敗を決することが不可能であるとみなし、\nマンシュタインという中将が進言した別の作戦計画を支持した。\nそれによると、攻撃の重点は、右翼（つまりオランダ、ベルギー方面）ではなくて、\n中央のベルギーからルクセンブルク付近にわたる部分におかれるべきものとされた。\nすなわち、困難な地形のゆえに敵側がドイツの進撃を予想していないアルデンヌ地方を通ってソンム下流の方向にすすみ、\nベルギー方面に進出している敵の勢力を背後からつくというのが、この作戦計画のねらいだった。\nいいかえると、ドイツ軍の中央部がせりだしてゆくことによって、敵をベルギー方面と南部とに二分しようというものであり、\n「三日月型鎌刈作戦」とよばれた。\n結局、ドイツの西部攻撃は、この「三日月型鎌刈作戦」にそって実施されることになる。</div>\n<div>五月十日の早朝、ドイツのＢ軍は、宣戦布告なしに、中立国であるオランダ、ベルギーに攻めいった。\nまず、空挺部隊によって要衝をおさえ、そこへむかって戦車団が急進撃し、そしてそこからさらに戦線が拡大されていった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/nn2hitle.html\">野田宣雄 「ヒトラーの時代（下）」</a>\n　Ｐ．７１</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>ノルウェー作戦の成功がほぼあきらかになった一九四〇年五月十日、<a href=\"../p/hitler_a.html\">ヒトラー</a>は、ついに西部でも攻撃にでた。</div>\n<div>西部攻撃の作戦計画に関しては、国防軍の首脳と<a href=\"../p/hitler_a.html\">ヒトラー</a>のあいだに、どこに攻撃の重点をおくかで意見の対立があった。\n陸軍最高司令官のブラウヒッチュや参謀総長のハルダーは、マジノ線のある独仏国境をさけ、\nオランダ、ベルギーの中立諸国を通過してフランスに攻めいるという、ほぼ第一次大戦のときとおなじ作戦計画を主張した。\nこれに対し<a href=\"../p/hitler_a.html\">ヒトラー</a>は、それでは短期間に敵を粉砕して勝敗を決することが不可能であるとみなし、\nマンシュタインという中将が進言した別の作戦計画を支持した。\nそれによると、攻撃の重点は、右翼（つまりオランダ、ベルギー方面）ではなくて、\n中央のベルギーからルクセンブルク付近にわたる部分におかれるべきものとされた。\nすなわち、困難な地形のゆえに敵側がドイツの進撃を予想していないアルデンヌ地方を通ってソンム下流の方向にすすみ、\nベルギー方面に進出している敵の勢力を背後からつくというのが、この作戦計画のねらいだった。\nいいかえると、ドイツ軍の中央部がせりだしてゆくことによって、敵をベルギー方面と南部とに二分しようというものであり、\n「三日月型鎌刈作戦」とよばれた。\n結局、ドイツの西部攻撃は、この「三日月型鎌刈作戦」にそって実施されることになる。</div>\n<div>五月十日の早朝、ドイツのＢ軍は、宣戦布告なしに、中立国であるオランダ、ベルギーに攻めいった。\nまず、空挺部隊によって要衝をおさえ、そこへむかって戦車団が急進撃し、そしてそこからさらに戦線が拡大されていった。</div>\n<div class=\"txr\"><a href=\"../text/nn2hitle.html\">野田宣雄 「ヒトラーの時代（下）」</a>\n　Ｐ．７１<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E3%2583%2592%25E3%2583%2588%25E3%2583%25A9%25E3%2583%25BC%25E3%2581%25AE%25E6%2599%2582%25E4%25BB%25A3%2520%25E4%25B8%258B%25E3%2580%2580%2520%25E8%25AC%259B%25E8%25AB%2587%25E7%25A4%25BE%25E5%25AD%25A6%25E8%25A1%2593%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -335,7 +304,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

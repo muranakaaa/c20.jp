@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "them.css"
+  "them.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ <span class=\"now\">他</span>"
   },
   {
    "type": "title",
@@ -32,7 +41,7 @@
    "attrs": {
     "class": "intro"
    },
-   "html": "\n日露戦争を、日本の側からだけ見た一方的なものにしたくなかったので、<br>\nこの歴史の起点を大津事件とした。<br>\n終点を満鉄設立としたが、この歴史が、韓国併合史と重なるものであること、<br>\nまた、太平洋戦争、敗戦、占領と続く日米関係史の大きな曲がり角の一つであることはもちろんである。\n"
+   "html": "\n日露戦争を、日本の側からだけ見た一方的なものにしたくなかったので、<br>\nこの歴史の起点を大津事件とした。<br>\n終点を<a href=\"../1906/11mante.html\">満鉄設立</a>としたが、この歴史が、韓国併合史と重なるものであること、<br>\nまた、太平洋戦争、敗戦、占領と続く日米関係史の大きな曲がり角の一つであることはもちろんである。\n"
   },
   {
    "type": "timeline",
@@ -413,17 +422,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1904/02/08　　<a href=\"../1904/02jorik.html\">\n陸軍先遣隊、仁川上陸</a>"
-      }
-     ]
-    },
-    {
-     "cls": "n",
-     "cells": [
-      {
-       "id": "l",
-       "cls": null,
-       "html": "1904/02/08　　<a href=\"../1904/02jinse.html\">\n仁川沖海戦</a>"
+       "html": "1904/02/08　　<a href=\"../1904/02jorik.html\">\n陸軍先遣隊、仁川上陸開始</a>"
       }
      ]
     },
@@ -434,6 +433,16 @@
        "id": "l",
        "cls": null,
        "html": "1904/02/08　　<a href=\"../1904/02yasyu.html\">\n連合艦隊の駆逐艦隊、旅順口のロシア艦隊を夜襲攻撃</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/09　　<a href=\"../1904/02jinse.html\">\n仁川沖海戦</a>"
       }
      ]
     },
@@ -1108,7 +1117,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1905/01/29　　<a href\"..=\"\" 19.html\"=\"\">\n「平民新聞」廃刊</a>"
+       "html": "1905/01/29　　<a href=\"../1905/01hemin.html\">\n「平民新聞」廃刊</a>"
       }
      ]
     },
@@ -1208,7 +1217,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1905/06/01　　<a href\"..=\"\" 19.html\"=\"\">\n高平駐米公使、Ｔ・ルーズベルト（米）大統領に講和斡旋を要望</a>"
+       "html": "1905/06/01　　<a href=\"../1905/06assen.html\">\n高平駐米公使、Ｔ・ルーズベルト（米）大統領に講和斡旋を要望</a>"
       }
      ]
     },
@@ -1259,6 +1268,16 @@
        "id": "l",
        "cls": null,
        "html": "1905/07/19　　<a href\"..=\"\" 19.html\"=\"\">\n講和問題同志連合結成</a>　（対露同志会など）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/07/21　　<a href=\"../1905/07sisat.html\">\n山県参謀総長、満州軍を視察</a>"
       }
      ]
     },
@@ -1378,7 +1397,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1905/09/06　　<a href\"..=\"\" 19.html\"=\"\">\n東京に戒厳令</a>"
+       "html": "1905/09/06　　<a href=\"../1905/09kaige.html\">\n東京に戒厳令</a>"
       }
      ]
     },
@@ -1543,6 +1562,16 @@
       {
        "id": "l",
        "cls": null,
+       "html": "1906/08/01　　<a href=\"../1906/08totok.html\">\n関東都督府設置</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
        "html": "1906/09/10　　<a href\"..=\"\" 19.html\"=\"\">\n満鉄、株式募集開始　（応募1078倍）</a>"
       }
      ]
@@ -1565,11 +1594,17 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",
-   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"jr_war.html\">【日露戦争史】</a>\n ＞ <a href=\"#h\">【日露戦争史 関連年表】</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"jr_war.html\">【テーマ・日露戦争史】</a>\n ＞ <a href=\"#h\">【日露戦争史 関連年表】</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
   }
  ]
 }

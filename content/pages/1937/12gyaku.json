@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1937.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1937.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -193,25 +202,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -225,17 +218,17 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>それから、あの南京事件について、\n師団長級の道徳的堕落を痛烈に指摘して、つぎのような感慨をもらされた。</div>\n<div>「南京事件ではお恥しい限りです。\n南京入城の後、慰霊祭の時に、シナ人の死者も一しょにと<a href=\"../p/miwane.html\">私</a>が申したところ、\n参謀長以下何も分らんから、日本軍の士気に関するでしょうといって、\n師団長はじめあんなことをしたのだ。\n<a href=\"../p/miwane.html\">私</a>は日露戦争の時、大尉として従軍したが、その当時の師団長と、今度の師団長などと比べてみると、\n問題にならんほど悪いですね。日露戦争の時は、シナ人に対してはもちろんだが、\nロシヤ人に対しても、俘虜の取扱い、その他よくいっていた。今度はそうはいかなかった。\n政府当局ではそう考えたわけではなかったろうが、武士道とか人道とかいう点では、当時とは全く変っておった。\n慰霊祭の直後、<a href=\"../p/miwane.html\">私</a>は皆を集めて軍総司令官として泣いて怒った。\nその時は朝香宮もおられ、柳川中将も方面軍司令官だったが。\n折角皇威を輝かしたのに、あの兵の暴行によって一挙にしてそれを落してしまった、と。\nところが、このことのあとで、みなが笑った。\n甚だしいのは、或る師団長の如きは「当り前ですよ」とさえいった。\n従って、<a href=\"../p/miwane.html\">私</a>だけでも<a href=\"../1948/12senpa.html\">こういう結果になる</a>ということは、\n当時の軍人達に一人でも多く、深い反省を与えるという意味で大変に嬉しい。\n折角こうなったのだから、このまま往生したいと思っている」</div>\n<div class=\"txr\"><a href=\"../text/hs_sugam.html\">花山信勝 「巣鴨の生と死」</a>\n　Ｐ．２８６<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%25B7%25A3%25E9%25B4%25A8%25E3%2581%25AE%25E7%2594%259F%25E3%2581%25A8%25E6%25AD%25BB%25E2%2580%2595%25E3%2581%2582%25E3%2582%258B%25E6%2595%2599%25E8%25AA%25A8%25E5%25B8%25AB%25E3%2581%25AE%25E8%25A8%2598%25E9%258C%25B2\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>上海戦線で総崩れとなって潰走する中国軍を追撃して、\n日本軍は急速度で首都南京に迫った。\nその間、補給はほとんどなく、物資はもっぱら現地調達＝掠奪に頼っており、\n抵抗する中国人に対する暴行・殺人がくりかえされていた。\n二ヵ月にわたる上海の悪戦苦闘で多くの戦友を失い、しかもここで勝てば故郷に帰れるという期待を裏切られて\n（南京攻略は軍の当初の方針にはなかった）、兵士たちの心は荒みきっていた。\nそしてなによりも兵士たちの心を占めていたのは、想像だにしなかった中国の軍民あげての抵抗に対する激しい恐怖であり、\nまた投降兵を捕虜にしないという軍の方針であった。</div>\n<div>こうして十二月十三日の南京制圧から十六日（入城式の前日）までの数日間に、\n投降兵、「便衣兵」（武器を棄てて私服で民衆にまぎれこんだ兵士と目されるもの）、無辜の市民を含めて、\nおびただしい中国人が虐殺された。\nいわゆる「南京大虐殺」である。\n当時第十六師団長であった中島今朝吾中将は、十二月十三日の日記に次のように記している。</div>\n<div>「大体捕虜ハセヌ方針ナレバ片端ヨリ之ヲ片付クルコトトナシタルトモ千五千一万ノ群集トナレバ\n之ガ武装ヲ解除スルコトスラ出来ズ・・・・・・後ニ到リテ知ル処ニ依リテ佐々木部隊丈ニテ処理セシモノ約一万五千、\n大平門ニ於ケル守備ノ一中隊長ガ処理セシモノ約一三〇〇其仙鶴門附近ニ集結シタルモノ約七八千人アリ尚続々投降シ来ル　\n此七八千之ヲ片付クルニハ相当大ナル濠ヲ要シ中々見当ラズ一案トシテハ百二百ニ分割シタル後\n適当ノ個所ニ誘キテ処理スル予定ナリ」</div>\n<div>※　虐殺された者の数は資料によって大きな違いがあり、\n中国側資料では三十九万人以上、極東国際軍事裁判の記録では二十万人以上、\n少ないものは元陸軍将校の親睦団体が発行する『偕行』の三千―一万三千（投降兵虐殺を含まない）である。</div>\n<div class=\"txr\"><a href=\"../text/ks_cyugo.html\">小島晋治・丸山松幸 「中国近現代史」</a>\n　Ｐ．１６６<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E4%25B8%25AD%25E5%259B%25BD%25E8%25BF%2591%25E7%258F%25BE%25E4%25BB%25A3%25E5%258F%25B2%2520%2520%2520%2520%25E5%25B2%25A9%25E6%25B3%25A2%25E6%2596%25B0%25E6%259B%25B8\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -243,7 +236,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

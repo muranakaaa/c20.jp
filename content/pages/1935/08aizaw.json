@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1935.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1935.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -33,7 +42,7 @@
   {
    "type": "headline",
    "cells": [
-    "<a href=\"../1935/07masak.html\">真崎大将の罷免</a>にキレた相沢中佐が、白昼の陸軍省で<a href=\"../p/ntetuzan.html\">永田軍務局長</a>をぶった斬った。"
+    "<a href=\"../p/mjinzabu.html\">真崎大将</a>の<a href=\"../1935/07masak.html\">罷免</a>にキレた<a href=\"../p/asaburo.html\">相沢中佐</a>が、白昼の陸軍省で<a href=\"../p/ntetuzan.html\">永田軍務局長</a>をぶった斬った。"
    ]
   },
   {
@@ -47,6 +56,46 @@
   {
    "type": "timeline",
    "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/05/15　　<a href=\"../1932/05515ji.html\">\n五・一五事件</a>　（<a href=\"../p/ituyosi.html\">犬養首相</a>暗殺）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/07/11　　<a href=\"../1933/07sinpe.html\">\n神兵隊事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/11/13　　<a href=\"../1933/11teisi.html\">\n埼玉挺身隊事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/11/20　　<a href=\"../1934/11sikan.html\">\n士官学校事件</a>"
+      }
+     ]
+    },
     {
      "cls": "b",
      "cells": [
@@ -73,7 +122,17 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1935/07/16　　<a href=\"../1935/07masak.html\">\n真崎教育総監罷免</a>　（後任：「統制派」<a href=\"../p/wjotaro.html\">渡辺錠太郎</a>）"
+       "html": "1935/07/11　　<a href=\"../1935/07ikens.html\">\n「粛軍に関する意見書」配布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/07/15　　<a href=\"../1935/07masak.html\">\n真崎教育総監更迭</a>　（後任：「統制派」<a href=\"../p/wjotaro.html\">渡辺錠太郎</a>）"
       }
      ]
     },
@@ -83,7 +142,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1935/08/12　　<a 1935=\"\" href\"..=\"\" 08aizaw.html\"=\"\">\n相沢事件　（永田軍務局長斬殺）</a>"
+       "html": "1935/08/12　　<a 1935=\"\" href\"..=\"\" 08aizaw.html\"=\"\">\n相沢事件</a>　（<a href=\"../p/ntetuzan.html\">永田軍務局長</a>斬殺）"
       }
      ]
     },
@@ -96,6 +155,16 @@
        "html": "1936/02/26　　<a href=\"../1936/02226ji.html\">\n二・二六事件</a>"
       }
      ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/07/03　　<a href=\"../1936/07aizaw.html\">\n相沢三郎刑死</a>　（<a href=\"../1935/08aizaw.html\">相沢事件</a>）"
+      }
+     ]
     }
    ]
   },
@@ -103,25 +172,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "pt"
    },
-   "html": "\n<div class=\"pt_h\">～　皇道派 相沢の目から見た<a href=\"../p/ntetuzan.html\">永田鉄山</a>　～</div>\n<div class=\"c\">「重臣、財閥、政党の手先となり皇軍を私兵化」している統制派の元凶 </div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+   "html": "\n<div class=\"pt_h\">～　皇道派 <a href=\"../p/asaburo.html\">相沢</a>の目から見た<a href=\"../p/ntetuzan.html\">永田鉄山</a>　～</div>\n<div class=\"c\">「重臣、財閥、政党の手先となり皇軍を私兵化」しようとしている統制派の元凶 </div>\n"
   },
   {
    "type": "raw",
@@ -135,17 +188,17 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>昭和十年八月十二日午前、東京三宅坂台上の陸軍省内の執務室で、\n軍務局長<a href=\"../p/ntetuzan.html\">永田鉄山少将</a>は、現役の陸軍中佐によって斬殺された。\n背部に二刀、こめかみに一刀、さらにとどめの一刀が咽喉部にくわえられ、\n軍服はおびただしい出血に黒々とぬれ、絨毯の血の海に、即死同然の凄惨な姿を横たえるまで、\nほとんど一瞬の出来事であった。</div>\n<div>兇行時間は午後九時四十五分頃、<a href=\"../p/ntetuzan.html\">永田少将</a>は五十一歳、加害者は剣道の達人として知られた<a href=\"../p/asaburo.html\">相沢三郎中佐</a>、\n四十六歳。<a href=\"../p/ntetuzan.html\">永田</a>は陸士十六期、<a href=\"../p/asaburo.html\">相沢</a>は二十二期、軍政の中枢と隊付とそれぞれにコースは異なっても、\n陸軍はえぬきの軍人であることにかわりはない。</div>\n<div>この日の夕刊は、<a href=\"../p/ntetuzan.html\">永田</a>を危篤であると報じ、犯人は某隊付中佐とふせた陸軍省発表をのせたが、\nこの夕刊の解説記事にもあるように、「現役将校が白昼公務執行中の上長官に対し危害を加え『危篤』に陥らせたという事実は、\n我が陸軍未曾有の重大事」であった。</div>\n<div class=\"txr\"><a href=\"../text/sh_kurai.html\">澤地久枝 「暗い暦」</a>\n　Ｐ．１１<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167239027%2Fqid%3D1146486782%2Fsr%3D1-1%2Fref%3Dsr_1_10_1\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>八月十二日<span class=\"bar\">―</span>―。</div>\n<div>午前五時半、久里浜の家を出た。\n途中、渋谷区松濤の自宅に立ち寄って身支度し、午前八時半、三宅坂の陸軍省に出勤した。</div>\n<div>その二階に、軍務局長室はあった。</div>\n<div>猛暑の月曜日である。入り口のドアは開け放されていた。\n入って左手に応接用の広い円形テーブルがあり、右手にある非常持出用の書棚の先に固定した木製衝立に並んで、\n簀の衝立が立っていて、内部の様子が見えていた。</div>\n<div>午前九時四十分過ぎ、<a href=\"../p/ntetuzan.html\">永田</a>は、南向きの窓を背に局長用テーブルに座って、\n前の椅子に座る東京憲兵隊長新見英夫大佐、兵務課長山田長三郎大佐と打ち合わせをしていた。</div>\n<div>その時、衝立の右側から、異様な形相の歩兵中佐が無言のままぬっと入って来た。\n軍刀を抜いている。</div>\n<div>殺気に気がついた<a href=\"../p/ntetuzan.html\">永田</a>は立ち上がった。</div>\n<div>山田大佐はすっと出ていった。とされる。</div>\n<div>右の方へ避けようとする<a href=\"../p/ntetuzan.html\">永田</a>の背後から、軍刀を握り上げて、白刃一閃、<a href=\"../p/asaburo.html\">相澤</a>が斬りつけた。\nだが、一刀両断ではなかった。右肩に受けた<a href=\"../p/ntetuzan.html\">永田</a>の傷は浅い。</div>\n<div><a href=\"../p/ntetuzan.html\">永田</a>はテーブルの前に廻って、隣の軍事課長室へ逃れようとした。\n追って迫って来る中佐の腰に、新見英夫大佐がとびついたが、中佐に斬りつけられ、左上膊部に重傷を負い、\n転倒して意識を失った。とされる。</div>\n<div>軍事課長室のドアはロックされていて開かない。\n<a href=\"../p/ntetuzan.html\">永田</a>のその左背部に向かって、<a href=\"../p/asaburo.html\">相澤</a>は刀身に左手を添え、渾身の力を込めて突き刺した。\n切尖は<a href=\"../p/ntetuzan.html\">永田</a>の心臓部に達した。</div>\n<div>倒れた<a href=\"../p/ntetuzan.html\">永田</a>は気丈にも、入り口の方へ這っていったが、応接用テーブル付近で力尽きた。</div>\n<div>仰向けになった<a href=\"../p/ntetuzan.html\">永田</a>の体の上から、そのこめかみに一刀を加えた中佐は、武士の作法通り、\n<a href=\"../p/ntetuzan.html\">永田</a>の首筋に、とどめを刺した。</div>\n<div>一瞬の出来事だった。</div>\n<div>軍事課室から、課員の<a href=\"../p/makira.html\">武藤章</a>（中佐）らが駆け込んだ時には、<a href=\"../p/ntetuzan.html\">永田</a>はすでに息絶えていた。</div>\n<div>この「相澤事件」は、半年後に勃発する<a href=\"../1936/02226ji.html\">二・二六事件</a>の導火線となり、時代を変えた。</div>\n<div class=\"txr\"><a href=\"../text/mk_gunji.html\">升本喜年 「軍人の最期」</a>\n　Ｐ．２４７<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25BB%258D%25E4%25BA%25BA%25E3%2581%25AE%25E6%259C%2580%25E6%259C%259F%25E2%2580%2595%25E6%2594%25BF%25E6%25B2%25BB%25E7%259A%2584%25E5%25B0%2586%25E8%25BB%258D%25E3%2581%25AE%25E7%2594%259F%25E3%2581%258D%25E3%2581%2596%25E3%2581%25BE%25E3%2581%25A8%25E3%2581%259D%25E3%2581%25AE%25E6%25AD%25BB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -153,7 +206,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1920.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1920.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -53,7 +62,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1919/06/10　　<a href\"..=\"\" 19.html\"=\"\">\n皇太子婚約</a>"
+       "html": "1919/06/10　　<a href=\"../1919/06konya.html\">\n皇太子婚約</a>"
       }
      ]
     },
@@ -123,25 +132,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "pt"
    },
-   "html": "\n<div class=\"pt_h\">～　<a href=\"../p/stenno.html\">皇太子</a>の婚約者、島津家の血を引く久邇宮良子をめぐって　～</div>\n<div class=\"c\"><a href=\"../p/yaritomo.html\">山県</a>ら長州閥、<a href=\"../p/htakasi.html\">原首相</a>　（純血論） → 対立 ← （人倫論）　久邇宮家、薩摩閥、右翼</div>\n<div class=\"c\">色盲の遺伝がある、婚約を辞退すべき　　　　　　　　婚約の解消は天皇の威信を傷つける</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+   "html": "\n<div class=\"pt_h\">～　<a href=\"../p/stenno.html\">皇太子</a>の婚約者、島津家の血を引く久邇宮良子をめぐって　～</div>\n<div class=\"c\"><a href=\"../p/yaritomo.html\">山県</a>ら長州閥、<a href=\"../p/htakasi.html\">原首相</a>　（純血論） → 対立 ← （人倫論）　久邇宮家、薩摩閥、右翼</div>\n<div class=\"c\">「色盲の遺伝がある、婚約を辞退すべき」　　　　　　　「婚約の解消は天皇の威信を傷つける」</div>\n"
   },
   {
    "type": "raw",
@@ -155,9 +148,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>この年（大正九年）五月七日、皇太子<a href=\"../p/stenno.html\">裕仁親王</a>は成年式を迎え、六月十日久邇宮邦彦王の第一王女良子女王と婚約を結んだ。</div>\n<div>これで宮中の高官、元老たちもほっとしたはずであるが、実はそう順調にはゆかなかった。\n主席元老の<a href=\"../p/yaritomo.html\">山県</a>がこれに反対したのである。</div>\n<div>この頃<a href=\"../p/yaritomo.html\">山県</a>は、嫌いなはずであった南部藩出身の<a href=\"../p/htakasi.html\">原敬</a>と、その手腕を認めることで友好関係を結びつつあった。\nそこで彼の憎悪は薩閥に向けられていた。\nところが良子女王の生母倶子は公爵島津忠義の第七女で、島津本家の血を濃くひいている。\n女王を推薦したのは内大臣<a href=\"../p/mmasayos.html\">松方正義</a>であった。\n<a href=\"../p/yaritomo.html\">山県</a>は生前、「わしの一番嫌いなのは社会主義と早稲田大学だ」と言っていたが、薩摩はもっと嫌いであったかも知れない。</div>\n<div>久邇宮は当然皇族会議のメンバーであったが、ある日の会議で宮は、</div>\n<div>「いつも皇族会議では吾々皇族は重臣たちの意見を傍聴するだけであるが、自分の意見を言ってもよいのか」</div>\n<div>と発言した。</div>\n<div>座長であった<a href=\"../p/yaritomo.html\">山県</a>は、</div>\n<div>「もちろん結構でございます」</div>\n<div>と応諾した。</div>\n<div>そこで久邇宮は堰を切ったように（主として皇室令改正に関して）発言したが、\nその中には<a href=\"../p/yaritomo.html\">山県</a>ら元老の専断を指摘する言葉が多く含まれていた。\n<a href=\"../p/yaritomo.html\">山県</a>は心中この宮と薩摩の<a href=\"../p/mmasayos.html\">松方</a>らが組むと長閥は危いと考えた。</div>\n<div>ここに石黒忠悳という茶坊主？（木村毅『西園寺公望』による）が登場する。\n石黒は軍医総監あがりの貴族院議員で日本赤十字社の社長を勤めていた。\n彼は<a href=\"../p/yaritomo.html\">山県</a>の子分で<a href=\"../p/yaritomo.html\">山県</a>の懊悩を知ると、</div>\n<div>「実は良子女王の母方の実家島津家に色盲の遺伝がありますぞ」</div>\n<div>と彼は<a href=\"../p/yaritomo.html\">山県</a>に智恵を授けた。</div>\n<div>【中略】</div>\n<div><a href=\"../p/yaritomo.html\">山県</a>は硬直した。「良子女王の皇子はいずれは皇統を継ぐ。\nその天子が桜花も松の葉も一色と見えるようでは誠に恐れ多い」と彼一流の勤王の老いの一徹で振い立った。\n五月十五日、<a href=\"../p/mmasayos.html\">松方</a>、<a href=\"../p/skinmoci.html\">西園寺</a>の両元老と会議したところ、二人とも<a href=\"../p/yaritomo.html\">山県</a>に同意した。\n六月十八日彼は波多野敬直の代わりに長閥の中村雄次郎（関東都督、陸軍中将）を宮相に送りこみ、\n内大臣の<a href=\"../p/mmasayos.html\">松方正義</a>と拮抗させ、久邇宮に迫って辞退せしめようと計った。\n<a href=\"../p/ttenno.html\">天皇</a>が病弱であるのに、劣性遺伝因子を持つ女性を未来の皇后とすることは大いに疑念があるというわけである。</div>\n<div class=\"txr\"><a href=\"../text/tm2saion.html\">豊田穣 「西園寺公望（下）」</a>\n　Ｐ．１４１<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E5%259C%2592%25E5%25AF%25BA%25E5%2585%25AC%25E6%259C%259B%25E2%2580%2595%25E6%259C%2580%25E5%25BE%258C%25E3%2581%25AE%25E5%2585%2583%25E8%2580%2581%2520%2528%25E4%25B8%258B%25E5%25B7%25BB%2529%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -165,23 +158,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>この年（大正九年）五月七日、皇太子<a href=\"../p/stenno.html\">裕仁親王</a>は成年式を迎え、六月十日久邇宮邦彦王の第一王女良子女王と婚約を結んだ。</div>\n<div>これで宮中の高官、元老たちもほっとしたはずであるが、実はそう順調にはゆかなかった。\n主席元老の<a href=\"../p/yaritomo.html\">山県</a>がこれに反対したのである。</div>\n<div>この頃<a href=\"../p/yaritomo.html\">山県</a>は、嫌いなはずであった南部藩出身の<a href=\"../p/htakasi.html\">原敬</a>と、その手腕を認めることで友好関係を結びつつあった。\nそこで彼の憎悪は薩閥に向けられていた。\nところが良子女王の生母倶子は公爵島津忠義の第七女で、島津本家の血を濃くひいている。\n女王を推薦したのは内大臣<a href=\"../p/mmasayos.html\">松方正義</a>であった。\n<a href=\"../p/yaritomo.html\">山県</a>は生前、「わしの一番嫌いなのは社会主義と早稲田大学だ」と言っていたが、薩摩はもっと嫌いであったかも知れない。</div>\n<div>久邇宮は当然皇族会議のメンバーであったが、ある日の会議で宮は、</div>\n<div>「いつも皇族会議では吾々皇族は重臣たちの意見を傍聴するだけであるが、自分の意見を言ってもよいのか」</div>\n<div>と発言した。</div>\n<div>座長であった<a href=\"../p/yaritomo.html\">山県</a>は、</div>\n<div>「もちろん結構でございます」</div>\n<div>と応諾した。</div>\n<div>そこで久邇宮は堰を切ったように（主として皇室令改正に関して）発言したが、\nその中には<a href=\"../p/yaritomo.html\">山県</a>ら元老の専断を指摘する言葉が多く含まれていた。\n<a href=\"../p/yaritomo.html\">山県</a>は心中この宮と薩摩の<a href=\"../p/mmasayos.html\">松方</a>らが組むと長閥は危いと考えた。</div>\n<div>ここに石黒忠悳という茶坊主？（木村毅『西園寺公望』による）が登場する。\n石黒は軍医総監あがりの貴族院議員で日本赤十字社の社長を勤めていた。\n彼は<a href=\"../p/yaritomo.html\">山県</a>の子分で<a href=\"../p/yaritomo.html\">山県</a>の懊悩を知ると、</div>\n<div>「実は良子女王の母方の実家島津家に色盲の遺伝がありますぞ」</div>\n<div>と彼は<a href=\"../p/yaritomo.html\">山県</a>に智恵を授けた。</div>\n<div>【中略】</div>\n<div><a href=\"../p/yaritomo.html\">山県</a>は硬直した。「良子女王の皇子はいずれは皇統を継ぐ。\nその天子が桜花も松の葉も一色と見えるようでは誠に恐れ多い」と彼一流の勤王の老いの一徹で振い立った。\n五月十五日、<a href=\"../p/mmasayos.html\">松方</a>、<a href=\"../p/skinmoci.html\">西園寺</a>の両元老と会議したところ、二人とも<a href=\"../p/yaritomo.html\">山県</a>に同意した。\n六月十八日彼は波多野敬直の代わりに長閥の中村雄次郎（関東都督、陸軍中将）を宮相に送りこみ、\n内大臣の<a href=\"../p/mmasayos.html\">松方正義</a>と拮抗させ、久邇宮に迫って辞退せしめようと計った。\n天皇が病弱であるのに、劣性遺伝因子を持つ女性を未来の皇后とすることは大いに疑念があるというわけである。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm_saion.html\">豊田穣 「西園寺公望」</a>\n　下巻　Ｐ．１４１</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "tx"
-   },
-   "html": "\n<div>その頃、中村宮相は警保局長川村竹治の報告を聞き緊張していた。</div>\n<div>「右翼の壮士たちは、皇太子の外遊を山県一派の陰謀だとして、<a href=\"../p/yaritomo.html\">山県</a>、中村らの暗殺を企んでいます」</div>\n<div>「うむ、私も宮中にお仕えする身だ。一死奉公の覚悟位は出来ている」</div>\n<div>中村は落着いて答えたが、次の一語を聞くと、膝をつかむ手がふるえた。</div>\n<div>「ところが今では久邇宮妃（倶子女王）までが山県策謀説を信用されて、良子女王付きの女官後閑菊野女史までが、\n宮家堂上の間を奔走して<a href=\"../p/yaritomo.html\">山県</a>の非を鳴らしておる状態です。\n壮士どもはこの際とばかり、<a href=\"../p/htakasi.html\">原首相</a>や（久邇宮家に反対する）一部の宮家に対して、実力行使を企んでいるという情報が入っております」</div>\n<div>中村は膝を掴んだまま体を震わせた。\n彼も<a href=\"../p/yaritomo.html\">山県</a>と同じく不純因子を入れないという“純血論”に賛成で、<a href=\"../p/yaritomo.html\">山県</a>の陰謀説は信じたくなかったが、\n事が皇室に波及するとなっては話が違って来る。中村は直ちに車をとばして小田原の古稀庵に走りこんだ。</div>\n<div>中村が逐一緊迫した東京の実状を報告するのを腕組みして聞いていた、八十四歳の元老の頭は自然に低く垂れて行った。</div>\n<div><span class=\"bar\">―</span>―最後に負けたのか、それも右翼の浪人風情如きに・・・・・・</div>\n<div>彼は無念であった。そして、彼は自らが不当の手段をとって、多くの人間に無念の思いを味わわせて来たことに思い至らなかった。</div>\n<div>「已むを得ぬ。事ここに至っては、純血論ばかりを押し通してもおれまい。\nおれや<a href=\"../p/htakasi.html\">原</a>はとも角、宮家に万一の事があっては、先帝に対して申し訳が立たぬ。\n直ちに熱海の<a href=\"../p/mmasayos.html\">松方</a>の所へおれの意を伝えて、内定変更なき旨を記者団に発表してくれ」</div>\n<div>そう言って中村を送り出すと、彼は自室で庭の梅をみつめながら泣いた。</div>\n<div>「俺は勤王に出て勤王に討死したんだ・・・・・・」</div>\n<div>情報係の松本剛吉（当時台湾総督秘書官）は、<a href=\"../p/yaritomo.html\">山県</a>でも泣くことがあるのか、と考えながら、\nその鶴のように細い首を眺めつつ記録の筆を走らせていた。</div>\n<div><a href=\"../p/mmasayos.html\">松方</a>を訪ねた中村は、翌二月十日午後二時帰京すると<a href=\"../p/htakasi.html\">原</a>に会って重大変更を伝えた。</div>\n<div><a href=\"../p/htakasi.html\">原</a>も事の意外に顔面を硬直させたが、中村が、この発表は政府からやってもらった方が議会、右翼に対しても効果があろう、というと、</div>\n<div>「本来この事は宮中のことなれば宮相の談にて公表するが至当なり」</div>\n<div>として、自分が<a href=\"../p/yaritomo.html\">山県</a>の尻について内定変更に同調したことを忘れたような顔をした。\n<a href=\"../p/htakasi.html\">原</a>は事が重大なので、政府と政友会に責任が来るのをおそれていたのである。</div>\n<div>中村は十日午後八時次のように発表した。</div>\n<div>「良子女王殿下東宮妃内定の事に関し、世上の様々の噂あるやに聞くも、右御決定は何等変更なし」</div>\n<div>翌十一日の各新聞は、この宮内省発表と共に、事件以来初めて記事解禁ということで、\n「宮中某重大事件」に関する記事をのせた。\nといっても、確実なことはわからないので、とりあえず、中村宮相、石原健三次官、仙石政敬、宗秩寮事務官、\n木村英俊久邇宮附事務官らの辞表提出と、<a href=\"../p/yaritomo.html\">山県</a>が枢府議長と元老等一切の職を辞するであろうという観測記事をのせたにとどまった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm_saion.html\">豊田穣 「西園寺公望」</a>\n　下巻　Ｐ．１４８</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>その頃、中村宮相は警保局長川村竹治の報告を聞き緊張していた。</div>\n<div>「右翼の壮士たちは、<a href=\"../p/stenno.html\">皇太子</a>の外遊を<a href=\"../p/yaritomo.html\">山県</a>一派の陰謀だとして、<a href=\"../p/yaritomo.html\">山県</a>、中村らの暗殺を企んでいます」</div>\n<div>「うむ、私も宮中にお仕えする身だ。一死奉公の覚悟位は出来ている」</div>\n<div>中村は落着いて答えたが、次の一語を聞くと、膝をつかむ手がふるえた。</div>\n<div>「ところが今では久邇宮妃（倶子女王）までが<a href=\"../p/yaritomo.html\">山県</a>策謀説を信用されて、良子女王付きの女官後閑菊野女史までが、\n宮家堂上の間を奔走して<a href=\"../p/yaritomo.html\">山県</a>の非を鳴らしておる状態です。\n壮士どもはこの際とばかり、<a href=\"../p/htakasi.html\">原首相</a>や（久邇宮家に反対する）一部の宮家に対して、実力行使を企んでいるという情報が入っております」</div>\n<div>中村は膝を掴んだまま体を震わせた。\n彼も<a href=\"../p/yaritomo.html\">山県</a>と同じく不純因子を入れないという“純血論”に賛成で、<a href=\"../p/yaritomo.html\">山県</a>の陰謀説は信じたくなかったが、\n事が皇室に波及するとなっては話が違って来る。中村は直ちに車をとばして小田原の古稀庵に走りこんだ。</div>\n<div>中村が逐一緊迫した東京の実状を報告するのを腕組みして聞いていた、八十四歳の元老の頭は自然に低く垂れて行った。</div>\n<div><span class=\"bar\">―</span>―最後に負けたのか、それも右翼の浪人風情如きに・・・・・・</div>\n<div>彼は無念であった。そして、彼は自らが不当の手段をとって、多くの人間に無念の思いを味わわせて来たことに思い至らなかった。</div>\n<div>「已むを得ぬ。事ここに至っては、純血論ばかりを押し通してもおれまい。\nおれや<a href=\"../p/htakasi.html\">原</a>はとも角、宮家に万一の事があっては、先帝に対して申し訳が立たぬ。\n直ちに熱海の<a href=\"../p/mmasayos.html\">松方</a>の所へおれの意を伝えて、内定変更なき旨を記者団に発表してくれ」</div>\n<div>そう言って中村を送り出すと、彼は自室で庭の梅をみつめながら泣いた。</div>\n<div>「俺は勤王に出て勤王に討死したんだ・・・・・・」</div>\n<div>情報係の松本剛吉（当時台湾総督秘書官）は、<a href=\"../p/yaritomo.html\">山県</a>でも泣くことがあるのか、と考えながら、\nその鶴のように細い首を眺めつつ記録の筆を走らせていた。</div>\n<div><a href=\"../p/mmasayos.html\">松方</a>を訪ねた中村は、翌二月十日午後二時帰京すると<a href=\"../p/htakasi.html\">原</a>に会って重大変更を伝えた。</div>\n<div><a href=\"../p/htakasi.html\">原</a>も事の意外に顔面を硬直させたが、中村が、この発表は政府からやってもらった方が議会、右翼に対しても効果があろう、というと、</div>\n<div>「本来この事は宮中のことなれば宮相の談にて公表するが至当なり」</div>\n<div>として、自分が<a href=\"../p/yaritomo.html\">山県</a>の尻について内定変更に同調したことを忘れたような顔をした。\n<a href=\"../p/htakasi.html\">原</a>は事が重大なので、政府と政友会に責任が来るのをおそれていたのである。</div>\n<div>中村は十日午後八時次のように発表した。</div>\n<div>「良子女王殿下東宮妃内定の事に関し、世上の様々の噂あるやに聞くも、右御決定は何等変更なし」</div>\n<div>翌十一日の各新聞は、この宮内省発表と共に、事件以来初めて記事解禁ということで、\n「宮中某重大事件」に関する記事をのせた。\nといっても、確実なことはわからないので、とりあえず、中村宮相、石原健三次官、仙石政敬、宗秩寮事務官、\n木村英俊久邇宮附事務官らの辞表提出と、<a href=\"../p/yaritomo.html\">山県</a>が枢府議長と元老等一切の職を辞するであろうという観測記事をのせたにとどまった。</div>\n<div class=\"txr\"><a href=\"../text/tm2saion.html\">豊田穣 「西園寺公望（下）」</a>\n　Ｐ．１４８<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E5%259C%2592%25E5%25AF%25BA%25E5%2585%25AC%25E6%259C%259B%25E2%2580%2595%25E6%259C%2580%25E5%25BE%258C%25E3%2581%25AE%25E5%2585%2583%25E8%2580%2581%2520%2528%25E4%25B8%258B%25E5%25B7%25BB%2529%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -189,7 +166,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

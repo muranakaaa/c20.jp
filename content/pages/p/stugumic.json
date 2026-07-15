@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -46,9 +55,9 @@
    "type": "raw",
    "tag": "table",
    "attrs": {
-    "class": "off"
+    "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"03s.html\">一覧　（サ）</a></td><td class=\"lt\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E9%2583%25B7%2520%25E5%25BE%2593%25E9%2581%2593\" target=\"_blank\">本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
   },
   {
    "type": "raw",
@@ -57,14 +66,6 @@
     "class": "ep1"
    },
    "html": "<span class=\"m_r\">エピソード 1</span>\n<a href=\"../1900/ito4_1.html\">伊藤内閣④</a>は、<a href=\"../p/ihirobum.html\">伊藤首相</a>と、倒閣をもくろむ元老<a href=\"../p/yaritomo.html\">山県有朋</a>に操られた貴族院の死闘の７ヵ月半だった。\nついにキレた<a href=\"../p/ihirobum.html\">伊藤</a>が京都の<a href=\"../p/yaritomo.html\">山県</a>に直談判に及ぼうとしたそのとき、西郷海相はこう言って引き止めた。\n「昨今、おはんたちの争いを見ていると二十年昔の大久保どんと兄貴のようになりはせぬかと心配でごわす。\n今、おはんが京へ行けば、正面衝突して仲違いはとり返しのつかぬごつなりもす。\nここはおいが行って、<a href=\"../p/yaritomo.html\">山県どん</a>と話をして来もそう」　彼にして言える言葉だ。キャッ、信吾どん、かっこイイ。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
   },
   {
    "type": "timeline",
@@ -105,7 +106,7 @@
       {
        "id": null,
        "cls": "hist",
-       "html": "\n・　陸軍卿など歴任後、伊藤内閣①で海相に就任。山本権兵衛らを登用、海軍の近代化を図る。"
+       "html": "\n・　陸軍卿など歴任後、伊藤内閣①で海相に就任。<a href=\"../p/ygonnohy.html\">山本権兵衛</a>らを登用、海軍の近代化を図る。"
       }
      ]
     },
@@ -120,14 +121,6 @@
      ]
     }
    ]
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "timeline",
@@ -258,49 +251,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>従道は、西郷隆盛の弟である。</div>\n<div>幕末にあっては西郷慎吾と言い、隆盛のそばで倒幕活動に従ったが、物事によく気がつくというほか、べつにめだたなかった。</div>\n<div>が、維新後に本領をあらわした。\n明治のジャーナリスト池辺三山は明治の三大政治家のひとりにかぞえているが、\n人物があまり大きすぎたのと、みずからは一見阿呆のようにかまえて自分の功績を晦ますといったいわば老荘的なふんいきがあったため、\n十分な評価が、同時代にも後世にもあたえられていない。</div>\n<div>人物が大きいというのは、いかにも東洋的な表現だが、明治もおわったあるとき、\nある外務大臣の私的な宴席で、明治の人物論が出た。</div>\n<div>「人間が大きいという点では、<a href=\"../p/oiwao.html\">大山巌</a>が最大だろう」</div>\n<div>と誰かがいうと、いやおなじ薩摩人ながら西郷従道のほうが、<a href=\"../p/oiwao.html\">大山</a>の五倍も大きかった、と別のひとが言ったところ、\n一座のどこからも異論がでなかったという。\nもっともその席で、西郷隆盛を知っているひとがいて、</div>\n<div>「その従道でも、兄の隆盛にくらべると月の前の星だった」</div>\n<div>といったから、一座のひとびとは西郷隆盛という人物の巨大さを想像するのに、気が遠くなる思いがしたという。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/sr3sakan.html\">司馬遼太郎 「坂の上の雲（３）」</a>\n　Ｐ．４９</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span>従道は、西郷隆盛の弟である。</div>\n<div>幕末にあっては西郷慎吾と言い、隆盛のそばで倒幕活動に従ったが、物事によく気がつくというほか、べつにめだたなかった。</div>\n<div>が、維新後に本領をあらわした。\n明治のジャーナリスト池辺三山は明治の三大政治家のひとりにかぞえているが、\n人物があまり大きすぎたのと、みずからは一見阿呆のようにかまえて自分の功績を晦ますといったいわば老荘的なふんいきがあったため、\n十分な評価が、同時代にも後世にもあたえられていない。</div>\n<div>人物が大きいというのは、いかにも東洋的な表現だが、明治もおわったあるとき、\nある外務大臣の私的な宴席で、明治の人物論が出た。</div>\n<div>「人間が大きいという点では、<a href=\"../p/oiwao.html\">大山巌</a>が最大だろう」</div>\n<div>と誰かがいうと、いやおなじ薩摩人ながら西郷従道のほうが、<a href=\"../p/oiwao.html\">大山</a>の五倍も大きかった、と別のひとが言ったところ、\n一座のどこからも異論がでなかったという。\nもっともその席で、西郷隆盛を知っているひとがいて、</div>\n<div>「その従道でも、兄の隆盛にくらべると月の前の星だった」</div>\n<div>といったから、一座のひとびとは西郷隆盛という人物の巨大さを想像するのに、気が遠くなる思いがしたという。</div>\n<div class=\"txr\"><a href=\"../text/sr3sakan.html\">司馬遼太郎 「坂の上の雲（３）」</a>\n　Ｐ．４９<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%259D%2582%25E3%2581%25AE%25E4%25B8%258A%25E3%2581%25AE%25E9%259B%25B2%25E3%2580%25883%25E3%2580%2589%2520%2520%2520%2520%25E6%2596%2587%25E6%2598%25A5%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -308,7 +261,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

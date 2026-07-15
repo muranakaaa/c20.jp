@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1929.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1929.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -143,7 +152,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1931/03/17　　<a href=\"../1931/033gatu.html\">\n三月事件</a>　（桜会によるクーデター未遂）"
+       "html": "1931/03/17　　<a href=\"../1931/033gatu.html\">\n三月事件</a>　（陸軍によるクーデター未遂）"
       }
      ]
     },
@@ -183,25 +192,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -215,17 +208,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>政府はみずから範を垂れるために、官吏の減俸を思いついたのであろうが、\nこれは予想外の反撃をうけることになる。\n<a href=\"../p/ijunnosu.html\">井上蔵相</a>は河田烈事務次官に命じて、極秘のうちに減俸案を作成させ、一〇月一五日、<a href=\"../p/hosaci.html\">浜口首相</a>名で声明書を発表した。\n高等文官および下級官吏の俸給について、高等文官は年額一二〇〇円をこえるもの、\n判任官は月額一〇〇円をこえるものにたいして、だいたい一割程度の減俸をおこなうというのである。\n一九三〇年（昭和五）一月一日より実施する予定であった。</div>\n<div>この声明が発表されると、各方面からごうごうたる非難の声が巻きおこった。</div>\n<div>翌一〇月一六日の『朝日新聞』朝刊は、この衝撃的な政府発表を、第二面全部を使って報道している。</div>\n<div>“<a href=\"../1929/hama_1.html\">浜口内閣</a>突如として　官吏の俸給一割減額”</div>\n<div>“官吏減俸反対の声　各方面に一せいに揚る”</div>\n<div>“人心ゐ縮し　不景気は深刻化”</div>\n<div>などの大見出しのもとに、政友会幹事長<a href=\"../p/mkaku.html\">森恪</a>は「俸給生活者への弾圧に過ぎず」、\n実業同志会武藤山治は「抱腹絶倒の愚策」、日本大衆党<a href=\"../p/stosihik.html\">堺利彦</a>は「資本家根性の標本」、\n社民党鈴木文治は「弱いものいじめだ。何にも一番抵抗力の弱い官吏を犠牲にしなくても、整理節約の余地は幾らでもある。</div>\n<div>先ず軍事費・行政費等の整理を断行し、官吏の減俸の如きは最後に行ふべきである」と、\nそれぞれ辛辣な談話を発表した。</div>\n<div>大蔵省事務局の計算によると、官吏減俸で節約できる経費は年額わずか七〇〇～八〇〇万円である。\nしかも、官吏減俸は、やがて民間企業にも波及することになる。\nそうすれば、勤労所得者の購買力は減少し、不景気はいっそう深刻化するという意見もあいついで出された。\nなかでも、政府を手こずらせたのは、司法省判事の反対運動であった。</div>\n<div>旧裁判所構成法第七三条には、</div>\n<div>第七四条乃至第七五条ノ場合ヲ除ク外判事ハ刑法ノ宣告又ハ懲戒ノ処分ニ由ルニ非サレハ\n其ノ意ニ反シテ転換転所停職免職又ハ減俸セラルルコトナシ　【中略】</div>\n<div>とある。</div>\n<div>司法省の判事たちは、この規定をたてに、減俸は法律に違反すると迫ったのである。\n与党の民政党内部からも、これでは総選挙に悪影響をあたえるという不満の声が高まっていった。\nこれらの猛反対に直面して、ついに<a href=\"../p/hosaci.html\">浜口首相</a>は閣議を開き、その撤回を決定した。\n<a href=\"../p/ijunnosu.html\">井上蔵相</a>は、最後まで撤回には反対であったが、<a href=\"../p/hosaci.html\">浜口</a>に説得されてついに折れた。</div>\n<div class=\"txr\"><a href=\"../text/nm_syo02.html\">中村政則 「昭和の歴史（２）」</a>\n　Ｐ．２４２<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%2598%25AD%25E5%2592%258C%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2%25E3%2580%25882%25E3%2580%2589%25E6%2598%25AD%25E5%2592%258C%25E3%2581%25AE%25E6%2581%2590%25E6%2585%258C\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -233,7 +218,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

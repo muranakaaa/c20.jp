@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1932.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1932.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -73,7 +82,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1931/03/17　　<a href=\"../1931/033gatu.html\">\n三月事件</a>　（桜会によるクーデター未遂）"
+       "html": "1931/03/17　　<a href=\"../1931/033gatu.html\">\n三月事件</a>　（陸軍によるクーデター未遂）"
       }
      ]
     },
@@ -156,16 +165,28 @@
        "html": "1932/05/15　　<a href=\"../1932/05515ji.html\">\n五・一五事件</a>　（<a href=\"../p/ituyosi.html\">犬養首相</a>暗殺）"
       }
      ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/05/15　　<a href=\"../1932/05nisid.html\">\n西田税暗殺未遂事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/07/11　　<a href=\"../1933/07sinpe.html\">\n神兵隊事件</a>"
+      }
+     ]
     }
    ]
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
   },
   {
    "type": "raw",
@@ -179,14 +200,6 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx_sw"
    },
    "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
@@ -195,17 +208,25 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>二月九日、昭和に入って第二の暗殺事件が発生した。</div>\n<div>本郷区駒込の小学校講堂へ選挙の応援演説に現れた前蔵相<a href=\"../p/ijunnosu.html\">井上準之助</a>が、小沼正の為に拳銃で射殺された。\n小沼は一人一殺を唱える<a href=\"../p/inissyo.html\">井上日召</a>の血盟団の会員で、<a href=\"../p/inissyo.html\">日召</a>は“国家革新”の為君側の奸である重臣を除いて、\n新しい天皇親政の日本を造ると主張していた。\n<a href=\"../p/ijunnosu.html\">井上</a>のほか<a href=\"../p/inissyo.html\">日召</a>のリストに上っていた者は<a href=\"../p/skinmoci.html\">西園寺</a>を筆頭に、<a href=\"../p/isigeaki.html\">池田成彬</a>、<a href=\"../p/skijuro.html\">幣原喜重郎</a>、<a href=\"../p/wreijiro.html\">若槻礼次郎</a>、徳川家達、<a href=\"../p/mnobuaki.html\">牧野伸顕</a>、伊東巳代治、\n<a href=\"../p/dtakuma.html\">団琢磨</a>、<a href=\"../p/ituyosi.html\">犬養毅</a>らで、それぞれ暗殺の担当者も決まっており、<a href=\"../p/skinmoci.html\">西園寺</a>の担当は池袋正釟郎という男であった。</div>\n<div class=\"txr\"><a href=\"../text/tm2saion.html\">豊田穣 「西園寺公望（下）」</a>\n　Ｐ．２４０<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E5%259C%2592%25E5%25AF%25BA%25E5%2585%25AC%25E6%259C%259B%25E2%2580%2595%25E6%259C%2580%25E5%25BE%258C%25E3%2581%25AE%25E5%2585%2583%25E8%2580%2581%2520%2528%25E4%25B8%258B%25E5%25B7%25BB%2529%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>昭和七年二月は、<a href=\"../1931/inu_1.html\">犬養政友会内閣</a>によって一月に解散が行われ、総選挙の最中だった。</div>\n<div>その九日夜、東京第二区民政党公認候補の駒井重次（東京駅で狙撃された<a href=\"../p/hosaci.html\">浜口首相</a>の親戚）の政見発表演説会が\n本郷駒込追分にある駒本小学校で行われた。\n午後八時すぎ、この駒井候補の応援演説のために、\n民政党の前大蔵大臣<a href=\"../p/ijunnosu.html\">井上準之助</a>が電車通りに面した裏門から自動車を乗りつけた。\n駒井候補は車からおりた<a href=\"../p/ijunnosu.html\">井上</a>を誘導するように二、三歩先を歩いていた。</div>\n<div>この二人を迎えるため裏門附近は人が集っていたが、その群衆の中から、\n突然一人の若い男が現れて<a href=\"../p/ijunnosu.html\">井上</a>の背中にぴたりとついた。\n集っている人も何のことか分らないまま見送っていると、歩いている駒井の耳に、突然、\nパチンという癇癪玉が破裂するような音がした。\n駒井がうしろをふりむくと、<a href=\"../p/ijunnosu.html\">井上</a>はステッキをもったまま小さくかがみこんでいる。\nつづいて二発、パチン、パチンと音がした。</div>\n<div><a href=\"../p/ijunnosu.html\">井上</a>のうしろに若い男が突立っていたから、駒井は瞬間変事を覚って、その男に近づくなり衿髪をとって\n大外刈で地上に投げとばした。駒井は柔道三段であった。</div>\n<div>そこへ会場の人もかけつけて、若い男をステッキなどで殴った。\n警官に引渡したときに見ると、<a href=\"../p/ijunnosu.html\">井上</a>を狙撃した犯人のピストルは手の中に入るような小さなものだった。</div>\n<div><a href=\"../p/ijunnosu.html\">井上</a>は自動車に乗せられ、すぐに帝大病院に向った。\n自動車がゆれると、痛い痛いといっていた。病院に運ばれたときはすでに意識を失っていた。</div>\n<div>手術室に運ばれたときは、手のほどこしようはなく、八時十五分に絶命した。</div>\n<div class=\"txr\"><a href=\"../text/ms4syowa.html\">松本清張 「昭和史発掘（４）」</a>\n　Ｐ．２１４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167106345%2Fqid%3D1147086434%2Fsr%3D1-13%2Fref%3Dsr_1_0_13\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>昭和七年二月九日の夜、<a href=\"../p/ijunnosu.html\">井上準之助民政党筆頭総務・選挙対策委員長</a>が一青年のピストルに撃たれて死んだ。\n<a href=\"../p/ijunnosu.html\">井上</a>は総選挙の応援演説のため駒込小学校におもむき、車から降り立ったところだった。\n犯人はその場でとらえられたが、当初この事件の背景は明らかでなかった。\nしかし１ヵ月足らずのち、三月五日の白昼、こんどは三井銀行から出たところを<a href=\"../p/dtakuma.html\">団琢磨三井合名理事長</a>がピストルで射殺された。\n<a href=\"../p/ijunnosu.html\">井上</a>を殺したのは小沼正、<a href=\"../p/dtakuma.html\">団</a>を殺したのは菱沼五郎という青年であった。</div>\n<div>警視庁はこの二人の背後に、<a href=\"../p/inissyo.html\">井上日召</a>を指導者とする一群のグループのあることを察知し、\nつぎつぎに検挙した。\n検挙されたのは、<a href=\"../p/inissyo.html\">井上日召</a>と一一人の信奉者であった。\n彼らは東京帝大、京都帝大、国学院の学生、小学校の訓導、農村青年であった。\n<a href=\"../p/inissyo.html\">日召</a>らは、<a href=\"../p/ijunnosu.html\">井上</a>、<a href=\"../p/dtakuma.html\">団</a>のほか、元老<a href=\"../p/skinmoci.html\">西園寺公望</a>、<a href=\"../p/mnobuaki.html\">牧野伸顕内大臣</a>、<a href=\"../p/ituyosi.html\">犬養毅総理大臣</a>、<a href=\"../p/ttakejir.html\">床次竹二郎鉄相</a>、<a href=\"../p/wreijiro.html\">若槻前首相</a>、\n<a href=\"../p/skijuro.html\">幣原前外相</a>、三井の<a href=\"../p/isigeaki.html\">池田成彬</a>らの政財界人をつぎつぎと暗殺する予定であった。</div>\n<div>【中略】　<a href=\"../p/inissyo.html\">井上日召</a>のグループは郷詩会に集ったグループの一つであった。\n<a href=\"../1931/1010gat.html\">一〇月事件</a>後、\n彼らはのちに<a href=\"../1932/05515ji.html\">五・一五事件</a>の中心となった海軍の青年将校とともに決起して一斉テロを計画していたが、\n海軍グループが<a href=\"../1932/01syan1.html\">上海事変</a>で出征することになったため、\n単独で決行するに至ったものである。</div>\n<div class=\"txr\"><a href=\"../text/it_konoe.html\">伊藤隆 「近衛新体制」</a>\n　Ｐ．４３<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25BF%2591%25E8%25A1%259B%25E6%2596%25B0%25E4%25BD%2593%25E5%2588%25B6%25E2%2580%2595%25E5%25A4%25A7%25E6%2594%25BF%25E7%25BF%25BC%25E8%25B3%259B%25E4%25BC%259A%25E3%2581%25B8%25E3%2581%25AE%25E9%2581%2593%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -213,7 +234,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

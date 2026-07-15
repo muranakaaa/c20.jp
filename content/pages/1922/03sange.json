@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1922.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1922.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -63,7 +72,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1922/03/03　　<a href\"..=\"\" 19.html\"=\"\">\n水平社結成　（全国水平社創立大会／京都）</a>"
+       "html": "1922/03/03　　<a href=\"../1922/03suihe.html\">\n水平社結成</a>　（全国水平社創立大会／京都）"
       }
      ]
     },
@@ -133,25 +142,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -165,17 +158,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>マーガレット・サンガー女史（米国産児制限会長）は、大正一一年八月ロンドンで開かれる「万国産児制限会議」に出席する途中、\n三月上旬から四月上旬にかけて日本を訪問することになった。\n　【中略】　この頃の<a href=\"../p/ysenji.html\">山宣</a>は安田と共同で「性学読書会」をはじめる計画をたて、\n性科学に関する欧米の雑誌や単行本を大量に手に入れて読みまくっていた時期であり、\nすでに外国の文献から産児制限法や、無産者が産児制限に関する知識を求めていること、などについては知っていた。\nサンガー来日にあたって<a href=\"../p/ysenji.html\">山宣</a>は改造社主催の演説会の通訳をたのまれていた。</div>\n<div>【中略】</div>\n<div>しかし内務省当局は、産児制限は「産めよふやせよ」の国策に反するという立場から、\n「サンガー夫人が横浜埠頭に上陸するとさっそく持参の宣伝パンフレット『家庭制限法』何万部を全部押収し、\nそれから夫人を内務省によびつけて、産児制限の宣伝演説を日本帝国領土内でやってはならぬと厳重に申しわたした。\nこういう事情で改造社主催の講演会は中止になり、せっかくの<a href=\"../p/ysenji.html\">山宣</a>の通訳もおじゃんになった。\nただ前約のあった京都市医師会主催の医師および薬剤士に限った特別講演会だけは当局から特に許可になったので、\n<a href=\"../p/ysenji.html\">山宣</a>はこわれるままにサンガー夫人の通訳をした」（『山本宣治選集第三巻』安田徳太郎、解説）。\n結局サンガーは、医師、薬剤士のみを対象とする講演会を八回したのみで日本を去っている。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/st1yamas.html\">佐々木敏二 「山本宣治（上）」</a>\n　Ｐ．２８０</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>マーガレット・サンガー女史（米国産児制限会長）は、大正一一年八月ロンドンで開かれる「万国産児制限会議」に出席する途中、\n三月上旬から四月上旬にかけて日本を訪問することになった。\n　【中略】　この頃の<a href=\"../p/ysenji.html\">山宣</a>は安田と共同で「性学読書会」をはじめる計画をたて、\n性科学に関する欧米の雑誌や単行本を大量に手に入れて読みまくっていた時期であり、\nすでに外国の文献から産児制限法や、無産者が産児制限に関する知識を求めていること、などについては知っていた。\nサンガー来日にあたって<a href=\"../p/ysenji.html\">山宣</a>は改造社主催の演説会の通訳をたのまれていた。</div>\n<div>【中略】</div>\n<div>しかし内務省当局は、産児制限は「産めよふやせよ」の国策に反するという立場から、\n「サンガー夫人が横浜埠頭に上陸するとさっそく持参の宣伝パンフレット『家庭制限法』何万部を全部押収し、\nそれから夫人を内務省によびつけて、産児制限の宣伝演説を日本帝国領土内でやってはならぬと厳重に申しわたした。\nこういう事情で改造社主催の講演会は中止になり、せっかくの<a href=\"../p/ysenji.html\">山宣</a>の通訳もおじゃんになった。\nただ前約のあった京都市医師会主催の医師および薬剤士に限った特別講演会だけは当局から特に許可になったので、\n<a href=\"../p/ysenji.html\">山宣</a>はこわれるままにサンガー夫人の通訳をした」（『山本宣治選集第三巻』安田徳太郎、解説）。\n結局サンガーは、医師、薬剤士のみを対象とする講演会を八回したのみで日本を去っている。</div>\n<div class=\"txr\"><a href=\"../text/st1yamas.html\">佐々木敏二 「山本宣治（上）」</a>\n　Ｐ．２８０<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4938303000%2Fqid%3D1147088125%2Fsr%3D1-1%2Fref%3Dsr_1_8_1\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -183,7 +168,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

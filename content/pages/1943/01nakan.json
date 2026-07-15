@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1943.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1943.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -33,7 +42,7 @@
   {
    "type": "headline",
    "cells": [
-    "<a href=\"../p/nseigo.html\">中野正剛</a>の「<a href=\"../p/thideki.html\">東條</a>じゃだめだ！」に、<a href=\"../p/thideki.html\">首相</a>がキレた。"
+    "<a href=\"../p/nseigo.html\">中野正剛</a>の「<a href=\"../p/thideki.html\">東條</a> しっかり！」に、ナイーブな<a href=\"../p/thideki.html\">首相</a>がキレた。"
    ]
   },
   {
@@ -113,25 +122,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -145,17 +138,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>元日付の朝日新聞に掲載された囲み記事、東方同志会の<a href=\"../p/nseigo.html\">中野正剛</a>が、\n「戦時宰相論」と題して原稿を寄せていた。\nビスマルク、<a href=\"../p/hinden_p.html\">ヒンデンブルグ</a>、<a href=\"../p/ludend_e.html\">ルーデンドルフ</a>を引用しながら、非常時宰相は強くなければならぬ、\n戦況が悪化したといって顔色憔悴してはならぬ、と説いていた。</div>\n<div>「・・・・・・非常時宰相は必ずしも蓋世の英雄足らずともその任務を果たし得るのである。\n否日本の非常時宰相はたとえ英雄の本質を有するも、英雄の盛名をほしいままにしてはならないのである」\n<span class=\"bar\">―</span>―。<a href=\"../p/ktaro.html\">桂太郎</a>は貫禄のない首相と見えたが、\n人材を活用してその目的を達したと賞め、「難局日本の名宰相は絶対に強くなければならぬ。\n強からんがためには、誠忠に謹慎に廉潔に、しこうして気宇広大でなければならぬ」と結んであった。</div>\n<div>新聞記者出身の<a href=\"../p/nseigo.html\">中野正剛</a>の文章だが、読みようによっては<a href=\"../p/thideki.html\">東條</a>を激励していると受けとめられる。\n彼の政治経歴はそのほうがふさわしい。\nが、<a href=\"../p/thideki.html\">東條</a>は、自分へのあてこすり、批判、中傷と読みとった。\n一語一句にこもっている意味は、戦局への対応を誹謗しているというのであった。</div>\n<div>すぐさま電話をとり、情報局検閲課を呼びだして「新聞紙法第二十三条により発売禁止にしろ」と命じた。\nすでに内相の椅子を離れている彼の行為は、この二十三条の〈内務大臣の権限で、安寧秩序を紊したと認めたとき発売、\n頒布を禁止できる〉という条項そのものに違反していたが、<a href=\"../p/thideki.html\">東條</a>は、\nこんな記事をパスさせるのは検閲課の官僚が寝ぼけまなこで仕事をしているからだと疑って、\nそんなことにはお構いなしだった。</div>\n<div class=\"txr\"><a href=\"../text/hm2tojoh.html\">保阪正康 「東條英機と天皇の時代（下）」</a>\n　Ｐ．７５<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%259D%25B1%25E6%25A2%259D%25E8%258B%25B1%25E6%25A9%259F%25E3%2581%25A8%25E5%25A4%25A9%25E7%259A%2587%25E3%2581%25AE%25E6%2599%2582%25E4%25BB%25A3\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -163,7 +148,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

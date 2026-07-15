@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1923.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1923.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -103,7 +112,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1923/09/04　　<a href\"..=\"\" 19.html\"=\"\">\n亀戸事件</a>"
+       "html": "1923/09/04　　<a href=\"../1923/09kamei.html\">\n亀戸事件</a>"
       }
      ]
     },
@@ -163,25 +172,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -195,9 +188,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>９月16日、社会主義者大杉栄（39）が妻の伊藤野枝（29）、おいの橘宗一（７）とともに行方不明となり、\n憲兵隊に殺されたという噂が広まった。</div>\n<div>20日、東京憲兵隊渋谷分隊長兼麹町分隊長の<a href=\"../p/amasahik.html\">甘粕正彦大尉</a>が「違法行為」を理由に軍法会議にかけられることになった。\n福田雅太郎戒厳司令官が更迭され、憲兵司令官の小泉五一少将は停職となった。</div>\n<div>24日、軍法会議予審が終わり、<a href=\"../p/amasahik.html\">甘粕</a>が大杉ら３人を殺したことが発表されて事件の全容が明らかになった。\nそれによると<a href=\"../p/amasahik.html\">甘粕</a>は、大杉が<a href=\"../1923/09sinsa.html\">震災</a>に乗じて混乱を起こすかも知れないので殺すことを決め、\n９月16日夕、自宅近くで大杉らを拉致、麹町憲兵分隊に連行し、同夜、取り調べを装いながら次々に絞め殺した。\n死体は構内の古井戸に投げ入れて埋めてしまった。</div>\n<div><a href=\"../p/amasahik.html\">甘粕</a>は一個人の判断で殺害したと主張した。\n上官の関与もしくは関知が疑われたが、軍法会議は背後関係を一切追及しなかった。\n12月８日の判決では<a href=\"../p/amasahik.html\">甘粕</a>が懲役10年、共犯の森慶次郎曹長は同３年が言い渡された。</div>\n<div><a href=\"../p/amasahik.html\">甘粕</a>は３年で仮出所し、満州にわたり、満州映画協会理事長などを務め、20年８月の<a href=\"../1945/08gyoku.html\">終戦</a>でピストル自殺するまで\n軍をバックに権力をふるった。</div>\n<div class=\"txr\"><a href=\"../text/ys_20sei.html\">読売新聞社 「読む年表・20世紀と昭和天皇」</a>\n　Ｐ．３３</div>\n"
   },
   {
    "type": "raw",
@@ -205,7 +198,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>９月16日、社会主義者大杉栄（39）が妻の伊藤野枝（29）、おいの橘宗一（７）とともに行方不明となり、\n憲兵隊に殺されたという噂が広まった。</div>\n<div>20日、東京憲兵隊渋谷分隊長兼麹町分隊長の<a href=\"../p/amasahik.html\">甘粕正彦大尉</a>が「違法行為」を理由に軍法会議にかけられることになった。\n福田雅太郎戒厳司令官が更迭され、憲兵司令官の小泉五一少将は停職となった。</div>\n<div>24日、軍法会議予審が終わり、<a href=\"../p/amasahik.html\">甘粕</a>が大杉ら３人を殺したことが発表されて事件の全容が明らかになった。\nそれによると<a href=\"../p/amasahik.html\">甘粕</a>は、大杉が<a href=\"../1923/09sinsa.html\">震災</a>に乗じて混乱を起こすかも知れないので殺すことを決め、\n９月16日夕、自宅近くで大杉らを拉致、麹町憲兵分隊に連行し、同夜、取り調べを装いながら次々に絞め殺した。\n死体は構内の古井戸に投げ入れて埋めてしまった。</div>\n<div><a href=\"../p/amasahik.html\">甘粕</a>は一個人の判断で殺害したと主張した。\n上官の関与もしくは関知が疑われたが、軍法会議は背後関係を一切追及しなかった。\n12月８日の判決では<a href=\"../p/amasahik.html\">甘粕</a>が懲役10年、共犯の森慶次郎曹長は同３年が言い渡された。</div>\n<div><a href=\"../p/amasahik.html\">甘粕</a>は３年で仮出所し、満州にわたり、満州映画協会理事長などを務め、20年８月の終戦でピストル自殺するまで\n軍をバックに権力をふるった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ys_20sei.html\">読売新聞社 「読む年表・20世紀と昭和天皇」</a>\n　Ｐ．３３</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>さらに大きな事件となったのが、無政府主義者として、\nまたベストセラーになったファーブルの『昆虫記』の翻訳者としても有名な大杉栄、伊藤野枝の夫妻をその六歳の甥ともども、\n麹町憲兵分隊長の<a href=\"../p/amasahik.html\">甘粕正彦憲兵大尉</a>らが拉致し、\n憲兵隊内で殺害した事件であった。\nこの事件は殺された幼児が米国籍であったということもあり、閣議の問題となった。</div>\n<div>結局、<a href=\"../p/amasahik.html\">甘粕</a>らは軍法会議にかけられ、\n福田戒厳司令官は更迭された。\n軍法会議で大杉殺害事件は<a href=\"../p/amasahik.html\">甘粕</a>の個人的犯行とされ、その上官への追及はおこなわれなかった。\nおなじ構内にある憲兵司令部勤務（憲兵司令官副官）の上砂勝七憲兵大尉は、\n自分も社会主義者の福田狂二の殺害を命じられたと、手記に書きのこしている。\nただ、上砂も殺害を命じた上官がだれであったか、書いていない。\n上砂は福田をおそったが、福田が家族ともども大阪に避難する準備をしていたので、見のがすことにしたという。</div>\n<div class=\"txr\"><a href=\"../text/os_cyosa.html\">大江志乃夫 「張作霖爆殺」</a>\n　Ｐ．５９<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%25BC%25B5%25E4%25BD%259C%25E9%259C%2596%25E7%2588%2586%25E6%25AE%25BA%25E2%2580%2595%25E6%2598%25AD%25E5%2592%258C%25E5%25A4%25A9%25E7%259A%2587%25E3%2581%25AE%25E7%25B5%25B1%25E5%25B8%25A5\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -213,7 +206,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -209,7 +210,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div><span class=\"m_b\">引用</span>ユダヤ人の組織的な抹殺について「最終的解決」をはかるという方針が確定したのは、\n<a href=\"../1941/06ds_ka.html\">独ソ戦</a>の開始後のことであった。\nこの点で忘れることができないのは、一九四二年一月にベルリン郊外にあるヴァンゼー湖のほとりでひらかれたいわゆる「ヴァンゼー会議」である。\nこの会議には、外務省、経済省、東部占領地域担当相など、ナチス政府の関係機関を代表する十五人の高官が出席した。\nこの会議で中心的役割を演じたのは、<a href=\"../p/goring_h.html\">ゲーリング</a>から「ユダヤ人問題の最終的解決」をまかされていた親衛隊の国家保安部長官ハイドリヒである。\n彼は、出席者をまえにしてつぎのような趣旨の計画を披露した。</div>\n<div>ヨーロッパは「西から東へむかってくまなくくしけずられ」なければならない。\nつまり、ヨーロッパにおけるすべてのユダヤ人は「自然に減少させる」ことを目的として、\n重労働に従事させるため、まず東方に移送すべきである。\nそして、このようにしてもなおユダヤ人に対しては「適当な措置」をとるべきである。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/nn2hitle.html\">野田宣雄 「ヒトラーの時代（下）」</a>\n　Ｐ．１１８</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>ユダヤ人の組織的な抹殺について「最終的解決」をはかるという方針が確定したのは、\n<a href=\"../1941/06ds_ka.html\">独ソ戦</a>の開始後のことであった。\nこの点で忘れることができないのは、一九四二年一月にベルリン郊外にあるヴァンゼー湖のほとりでひらかれたいわゆる「ヴァンゼー会議」である。\nこの会議には、外務省、経済省、東部占領地域担当相など、ナチス政府の関係機関を代表する十五人の高官が出席した。\nこの会議で中心的役割を演じたのは、<a href=\"../p/goring_h.html\">ゲーリング</a>から「ユダヤ人問題の最終的解決」をまかされていた親衛隊の国家保安部長官ハイドリヒである。\n彼は、出席者をまえにしてつぎのような趣旨の計画を披露した。</div>\n<div>ヨーロッパは「西から東へむかってくまなくくしけずられ」なければならない。\nつまり、ヨーロッパにおけるすべてのユダヤ人は「自然に減少させる」ことを目的として、\n重労働に従事させるため、まず東方に移送すべきである。\nそして、このようにしてもなおユダヤ人に対しては「適当な措置」をとるべきである。</div>\n<div class=\"txr\"><a href=\"../text/nn2hitle.html\">野田宣雄 「ヒトラーの時代（下）」</a>\n　Ｐ．１１８<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E3%2583%2592%25E3%2583%2588%25E3%2583%25A9%25E3%2583%25BC%25E3%2581%25AE%25E6%2599%2582%25E4%25BB%25A3%2520%25E4%25B8%258B%25E3%2580%2580%2520%25E8%25AC%259B%25E8%25AB%2587%25E7%25A4%25BE%25E5%25AD%25A6%25E8%25A1%2593%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -217,7 +218,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div><span class=\"m_b\">引用</span>一月二十日、ベルリンでＲＳＨＡ（国家保安本部）長官Ｒ・ハイトリヒＳＳ大将が主宰する特別会議がひらかれた。</div>\n<div>空軍総司令兼国防閣僚会議議長<a href=\"../p/goring_h.html\">Ｈ・ゲーリング元帥</a>の指令にもとづき、ユダヤ人問題の「最終解決」（ＥＮＤＬ：ＯＳＵＮＧ）の\n「組織的、実際的、物質的」計画を討議するためである。</div>\n<div>会議の結論は、ユダヤ人を「東部の労働配置」につかせること、「相当数の自然淘汰が期待」できるが、\n残存者は「反抗能力」の持ち主なので、「処置」すること、などを主意にしていた。</div>\n<div>死ぬまで働かせよ、しぶとい奴は殺せ<span class=\"bar\">―</span>―というのである。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kn8hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（８）」</a>\n　Ｐ．３８２</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>一月二十日、ベルリンでＲＳＨＡ（国家保安本部）長官Ｒ・ハイトリヒＳＳ大将が主宰する特別会議がひらかれた。</div>\n<div>空軍総司令兼国防閣僚会議議長<a href=\"../p/goring_h.html\">Ｈ・ゲーリング元帥</a>の指令にもとづき、ユダヤ人問題の「最終解決」（ＥＮＤＬ：ＯＳＵＮＧ）の\n「組織的、実際的、物質的」計画を討議するためである。</div>\n<div>会議の結論は、ユダヤ人を「東部の労働配置」につかせること、「相当数の自然淘汰が期待」できるが、\n残存者は「反抗能力」の持ち主なので、「処置」すること、などを主意にしていた。</div>\n<div>死ぬまで働かせよ、しぶとい奴は殺せ<span class=\"bar\">―</span>―というのである。</div>\n<div class=\"txr\"><a href=\"../text/kn8hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（８）」</a>\n　Ｐ．３８２<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167141434%2Fqid%3D1147087760%2Fsr%3D1-22%2Fref%3Dsr_1_2_22\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -225,7 +226,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">おたよりはこちら</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

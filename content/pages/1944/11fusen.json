@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1944.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1944.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -153,25 +162,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -185,17 +178,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>陸軍に「ふ」兵器と名づけられた秘密兵器があった。\n昭和一〇年頃から科学研究所で研究開発が着手され、いったんは立ち消えになったかと思われたが、\n戦局が悪化するなかで再び開発が進められた。\n一八年の一一月に実験第一号が完成し、翌年二、三月にテストが実施された。\nテストの結果は不明であったが、一九年一一月～二〇年四月までの間に、約九三〇〇個が実際に使用された。\nこの秘密兵器の目的は大本営によって次のように命じられている。</div>\n<div><br>米国内部擾乱の目的を以て、米国本土に対し特殊攻撃を実施せんとす（大陸指二二五三号）</div>\n<div><br>これが世にいう「風船爆弾」であった。\n風船（水素ガス注入、直径一〇メートル）の主な材料が和紙をコンニャク糊で貼り合わせたものであるため\nコンニャク爆弾などと呼ばれることもある。\n風船爆弾作戦のために参謀総長直属の気球連隊が新設され、太平洋に面した三ヵ所の放球陣地が設営された。\n気球一個につき二〇キログラムの焼夷弾が装備され、米国まで高度一万メートルの上空を平均六〇時間で飛ばす計画であった。\n実際の戦果は、米本土および周辺におよそ二八五個が到達し、爆発したもの二八、疑わしいもの八五、\n人的損害一件六人、物的損害小規模な山火事二件、配電線切断一件。\n到達率三パーセント、爆発を起こしたもの一パーセント未満。\nこの間日本国内では食用コンニャクが食卓にのぼらなくなった。</div>\n<div class=\"txr\"><a href=\"../text/tr_sippa.html\">戸部良一他 「失敗の本質」</a>\n　Ｐ．２９７<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%25A4%25B1%25E6%2595%2597%25E3%2581%25AE%25E6%259C%25AC%25E8%25B3%25AA%25E2%2580%2595%25E6%2597%25A5%25E6%259C%25AC%25E8%25BB%258D%25E3%2581%25AE%25E7%25B5%2584%25E7%25B9%2594%25E8%25AB%2596%25E7%259A%2584%25E7%25A0%2594%25E7%25A9%25B6%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -203,7 +188,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

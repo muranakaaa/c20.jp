@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1940.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1940.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -233,25 +242,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "pt"
    },
    "html": "\n<div class=\"pt_h\">～　ドイツのイメージ　（1940/09）　～</div>\n<div class=\"c\">強い／必ず勝つ／すぐに勝つ／親切／気前がいい </div>\n<div class=\"c\">→　“バスに乗り遅れるな”　（日独伊三国軍事同盟締結）</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -265,17 +258,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>一九四〇年夏のドイツは、イギリス本土へ連日の爆撃を加えて制空権を奪い、イギリスを屈服させようとした。\nしかし、レーダーの開発配備を世界でただ一国とげていたイギリスは空軍によるしぶとい効果的な守戦を展開した。\n軍需生産基地からロンドンへ中心目標を切り換える<a href=\"../p/hitler_a.html\">ヒトラー</a>自身の作戦上の誤りもあって、\n秋の声を聞くころには、ドイツがイギリス本土上空の戦に敗れたことは否定できない事実となっていた。\nドイツの輝ける時は一九四〇年六月、<a href=\"../1940/06f_kof.html\">フランスを屈服させた</a>ころに終わっており、\n夏を分水嶺として挫折と転落の局面がしのびよっていた。</div>\n<div>アメリカのルーズベルト政権は、陸軍戦争計画課長Ｇ・ストロングを長とするミッションをヨーロッパに派遣して現地調査を行い、\n九月はじめにその報告を受けてドイツの凋落の始まりを認識していた。</div>\n<div>ところが、日本陸軍は多くの軍人をヨーロッパに駐在させながら、\n親独主義に毒されてドイツの行き詰まりを把握できず、<a href=\"../p/myosuke.html\">松岡外相</a>も同じくドイツの電撃戦の成功という残像に支配されて、\n共同幻想に陥っていた。</div>\n<div><a href=\"../p/myosuke.html\">松岡外相</a>は、ドイツが第二次大戦の中で転落を開始した瞬間に、依然ドイツの対英勝利が近いと信じて、\n九月二十七日に三国同盟を結んだのである。\nそれは、いわば「滅びゆく者との抱擁」であり「死の接吻」ともいうべき悲劇的決断であった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/im_kin06.html\">五百旗頭真 「日本の近代（６）」</a>\n　Ｐ．４６</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>一九四〇年夏のドイツは、イギリス本土へ連日の爆撃を加えて制空権を奪い、イギリスを屈服させようとした。\nしかし、レーダーの開発配備を世界でただ一国とげていたイギリスは空軍によるしぶとい効果的な守戦を展開した。\n軍需生産基地からロンドンへ中心目標を切り換える<a href=\"../p/hitler_a.html\">ヒトラー</a>自身の作戦上の誤りもあって、\n秋の声を聞くころには、ドイツがイギリス本土上空の戦に敗れたことは否定できない事実となっていた。\nドイツの輝ける時は一九四〇年六月、<a href=\"../1940/06f_kof.html\">フランスを屈服させた</a>ころに終わっており、\n夏を分水嶺として挫折と転落の局面がしのびよっていた。</div>\n<div>アメリカのルーズベルト政権は、陸軍戦争計画課長Ｇ・ストロングを長とするミッションをヨーロッパに派遣して現地調査を行い、\n九月はじめにその報告を受けてドイツの凋落の始まりを認識していた。</div>\n<div>ところが、日本陸軍は多くの軍人をヨーロッパに駐在させながら、\n親独主義に毒されてドイツの行き詰まりを把握できず、<a href=\"../p/myosuke.html\">松岡外相</a>も同じくドイツの電撃戦の成功という残像に支配されて、\n共同幻想に陥っていた。</div>\n<div><a href=\"../p/myosuke.html\">松岡外相</a>は、ドイツが第二次大戦の中で転落を開始した瞬間に、依然ドイツの対英勝利が近いと信じて、\n九月二十七日に三国同盟を結んだのである。\nそれは、いわば「滅びゆく者との抱擁」であり「死の接吻」ともいうべき悲劇的決断であった。</div>\n<div class=\"txr\"><a href=\"../text/im_kin06.html\">五百旗頭真 「日本の近代（６）」</a>\n　Ｐ．４６<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25AE%25E8%25BF%2591%25E4%25BB%25A3%25206%2520%25E6%2588%25A6%25E4%25BA%2589%25E3%2583%25BB%25E5%258D%25A0%25E9%25A0%2598%25E3%2583%25BB%25E8%25AC%259B%25E5%2592%258C%25E2%2580%25951941%25EF%25BD%259E1955\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -283,7 +268,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

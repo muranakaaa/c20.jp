@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1941.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1941.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -93,7 +102,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1941/03/27　　<a href\"..=\"\" 19.html\"=\"\">\nユーゴ、反独クーデター</a>"
+       "html": "1941/03/27　　<a href=\"../1941/03yugos.html\">\nユーゴ、反独クーデター</a>"
       }
      ]
     },
@@ -153,25 +162,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -185,17 +178,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div><a href=\"../p/hitler_a.html\">ヒトラー</a>は、【中略】　ドイツの勝利が「確実」であること、日本はぜひシンガポールを攻撃してほしいことなどを述べ、\n<a href=\"../p/myosuke.html\">松岡外相</a>から応諾の言質を得られるものと期待した。</div>\n<div>ところが、<a href=\"../p/myosuke.html\">松岡外相</a>は、言葉少なく応答するだろうという<a href=\"../p/hitler_a.html\">ヒトラー</a>の予想に反し、\nなめらかな英語で滔々としゃべりだしたのである。</div>\n<div>外相は、日本には虎穴に入らずに虎児を得ようとする臆病なインテリ階層が支配階級に巣くっている、といい、</div>\n<div>「自分は、ヨーロッパ戦争が勃発していらい、個人としては、日本はシンガポールを攻撃して英勢力を駆逐し、\n然る後に三国同盟に参加すべきだとの意見を持っていた・・・・・・」</div>\n<div>しかし、四囲の情勢は「三国同盟」参加を先行させることになった。</div>\n<div>それでもシンガポール攻撃にたいする自分の考えは変わらず、問題は攻撃の時期だ、と外相は強調した。</div>\n<div>「自分の考えでは、攻撃は早ければ早いほどよい」</div>\n<div>通訳シュミットの伝える外相の言葉は、まさに<a href=\"../p/hitler_a.html\">ヒトラー</a>の主張に合致する。\n<a href=\"../p/hitler_a.html\">ヒトラー</a>は、ほんのりと会心の微笑をうかべ、次の言葉を待った。</div>\n<div>「不幸なことだが、自分は日本を支配していない。\nが、いずれ日本の支配的地位にいる人々を、自分の見解に同調させることができるはずだ」</div>\n<div>「・・・・・・？」</div>\n<div>「しかし、このような環境なので、現時点では、自分としては日本帝国を代表して行動に出る旨を約束することは、できない」</div>\n<div><a href=\"../p/hitler_a.html\">ヒトラー</a>が、軽く眉をよせて失望感を表明すると、<a href=\"../p/myosuke.html\">松岡外相</a>は、だが自分個人としてはなお全力をつくす、\nそして自分のこの発言は日本政府に洩れぬように願いたい、といった。</div>\n<div>よほどの決意と成算があるらしい、と<a href=\"../p/hitler_a.html\">ヒトラー</a>が再び表情を明るくすると、<a href=\"../p/myosuke.html\">松岡外相</a>は、\n「三国同盟」の理想はその前文に規定するように平和維持にある、と指摘した。</div>\n<div>「それは、『征服せず、圧迫せず、搾取せず』というスローガンに表現できる・・・・・・日本は、\n新秩序建設のために武力行使に迫られる場合でも、このスローガンを守る」</div>\n<div>「・・・・・・？」</div>\n<div>では、つまりシンガポールは攻撃しないのか、と<a href=\"../p/hitler_a.html\">ヒトラー</a>が再び疑惑を感得していると、外相は、\n話題を往路のモスクワでのソ連首脳との会談に転化した。</div>\n<div>【中略】　ソ連首相<a href=\"../p/stalin.html\">スターリン</a>も英国を「日独ソ共通の敵」とみなした、という。</div>\n<div>では、やはり対英戦にふみきるつもりか、と<a href=\"../p/hitler_a.html\">ヒトラー</a>がひそめた眉の間隔を押しひろげると、外相は、\n日本の天皇制を話題にした。</div>\n<div>「天皇が国家である。日本国民すべての生命と財産は天皇に帰一する。\nすなわち、天皇が国家であり、それが日本的な全体主義国家思想だ」</div>\n<div>なにをいいだすのか、と<a href=\"../p/hitler_a.html\">ヒトラー</a>が三度不審の想いにとらわれていると、外相は、\nしめくくりの形で述べた。</div>\n<div>「一国民が貴総統のような存在を見出すのは、千年に一度のことだろう。\n日本国民はまだ彼らの総統を発見していない。\nしかし、そのような人物は時代の要請に応じてあらわれ、決意をもって国民を統率するだろう」</div>\n<div>「・・・・・・？」</div>\n<div><a href=\"../p/myosuke.html\">松岡外相</a>自身がいずれ「日本の総統」になるつもりだ、との意味にもうけとれるが、その前に外相が指摘した天皇の存在と照合すれば、\n日本には「総統」は出現しそうにもない。</div>\n<div><a href=\"../p/hitler_a.html\">ヒトラー</a>は、<a href=\"../p/myosuke.html\">松岡外相</a>からシンガポール攻撃の言質が得られなかっただけではなく、\nなんとも奇怪な「松岡論法」の毒気を吹きつけられた想いで、会談後も、ひどく冴えない表情を維持した。</div>\n<div>なにがなんだか、よくわからなかったらしい。</div>\n<div>通訳シュミットも、<a href=\"../p/hitler_a.html\">ヒトラー</a>とこのように真向うから対談したのは、ソ連外相<a href=\"../p/moloto_v.html\">モロトフ</a>のほかには、\nただ一人、この<a href=\"../p/myosuke.html\">「東洋からの使者マツオカ」</a>だけであった、と記述している。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kn3hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（３）」</a>\n　Ｐ．４８１</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/hitler_a.html\">ヒトラー</a>は、【中略】　ドイツの勝利が「確実」であること、日本はぜひシンガポールを攻撃してほしいことなどを述べ、\n<a href=\"../p/myosuke.html\">松岡外相</a>から応諾の言質を得られるものと期待した。</div>\n<div>ところが、<a href=\"../p/myosuke.html\">松岡外相</a>は、言葉少なく応答するだろうという<a href=\"../p/hitler_a.html\">ヒトラー</a>の予想に反し、\nなめらかな英語で滔々としゃべりだしたのである。</div>\n<div>外相は、日本には虎穴に入らずに虎児を得ようとする臆病なインテリ階層が支配階級に巣くっている、といい、</div>\n<div>「自分は、ヨーロッパ戦争が勃発していらい、個人としては、日本はシンガポールを攻撃して英勢力を駆逐し、\n然る後に三国同盟に参加すべきだとの意見を持っていた・・・・・・」</div>\n<div>しかし、四囲の情勢は「三国同盟」参加を先行させることになった。</div>\n<div>それでもシンガポール攻撃にたいする自分の考えは変わらず、問題は攻撃の時期だ、と外相は強調した。</div>\n<div>「自分の考えでは、攻撃は早ければ早いほどよい」</div>\n<div>通訳シュミットの伝える外相の言葉は、まさに<a href=\"../p/hitler_a.html\">ヒトラー</a>の主張に合致する。\n<a href=\"../p/hitler_a.html\">ヒトラー</a>は、ほんのりと会心の微笑をうかべ、次の言葉を待った。</div>\n<div>「不幸なことだが、自分は日本を支配していない。\nが、いずれ日本の支配的地位にいる人々を、自分の見解に同調させることができるはずだ」</div>\n<div>「・・・・・・？」</div>\n<div>「しかし、このような環境なので、現時点では、自分としては日本帝国を代表して行動に出る旨を約束することは、できない」</div>\n<div><a href=\"../p/hitler_a.html\">ヒトラー</a>が、軽く眉をよせて失望感を表明すると、<a href=\"../p/myosuke.html\">松岡外相</a>は、だが自分個人としてはなお全力をつくす、\nそして自分のこの発言は日本政府に洩れぬように願いたい、といった。</div>\n<div>よほどの決意と成算があるらしい、と<a href=\"../p/hitler_a.html\">ヒトラー</a>が再び表情を明るくすると、<a href=\"../p/myosuke.html\">松岡外相</a>は、\n「<a href=\"../1940/09jdi_d.html\">三国同盟</a>」の理想はその前文に規定するように平和維持にある、と指摘した。</div>\n<div>「それは、『征服せず、圧迫せず、搾取せず』というスローガンに表現できる・・・・・・日本は、\n新秩序建設のために武力行使に迫られる場合でも、このスローガンを守る」</div>\n<div>「・・・・・・？」</div>\n<div>では、つまりシンガポールは攻撃しないのか、と<a href=\"../p/hitler_a.html\">ヒトラー</a>が再び疑惑を感得していると、外相は、\n話題を往路のモスクワでのソ連首脳との会談に転化した。</div>\n<div>【中略】　ソ連首相<a href=\"../p/stalin.html\">スターリン</a>も英国を「日独ソ共通の敵」とみなした、という。</div>\n<div>では、やはり対英戦にふみきるつもりか、と<a href=\"../p/hitler_a.html\">ヒトラー</a>がひそめた眉の間隔を押しひろげると、外相は、\n日本の天皇制を話題にした。</div>\n<div>「天皇が国家である。日本国民すべての生命と財産は天皇に帰一する。\nすなわち、天皇が国家であり、それが日本的な全体主義国家思想だ」</div>\n<div>なにをいいだすのか、と<a href=\"../p/hitler_a.html\">ヒトラー</a>が三度不審の想いにとらわれていると、外相は、\nしめくくりの形で述べた。</div>\n<div>「一国民が貴総統のような存在を見出すのは、千年に一度のことだろう。\n日本国民はまだ彼らの総統を発見していない。\nしかし、そのような人物は時代の要請に応じてあらわれ、決意をもって国民を統率するだろう」</div>\n<div>「・・・・・・？」</div>\n<div><a href=\"../p/myosuke.html\">松岡外相</a>自身がいずれ「日本の総統」になるつもりだ、との意味にもうけとれるが、その前に外相が指摘した天皇の存在と照合すれば、\n日本には「総統」は出現しそうにもない。</div>\n<div><a href=\"../p/hitler_a.html\">ヒトラー</a>は、<a href=\"../p/myosuke.html\">松岡外相</a>からシンガポール攻撃の言質が得られなかっただけではなく、\nなんとも奇怪な「<a href=\"../p/myosuke.html\">松岡</a>論法」の毒気を吹きつけられた想いで、会談後も、ひどく冴えない表情を維持した。</div>\n<div>なにがなんだか、よくわからなかったらしい。</div>\n<div>通訳シュミットも、<a href=\"../p/hitler_a.html\">ヒトラー</a>とこのように真向うから対談したのは、ソ連外相<a href=\"../p/moloto_v.html\">モロトフ</a>のほかには、\nただ一人、この<a href=\"../p/myosuke.html\">「東洋からの使者マツオカ」</a>だけであった、と記述している。</div>\n<div class=\"txr\"><a href=\"../text/kn3hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（３）」</a>\n　Ｐ．４８１<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167141388%2Fqid%3D1147087396%2Fsr%3D1-17%2Fref%3Dsr_1_2_17\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -203,7 +188,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

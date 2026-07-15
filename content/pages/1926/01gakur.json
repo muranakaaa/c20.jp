@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1926.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1926.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -33,7 +42,7 @@
   {
    "type": "headline",
    "cells": [
-    "<a href=\"../1925/katob_4.html\">加藤（高）内閣</a>最後の大仕事は、出来立て治安維持法での「学問の自由」大弾圧だった。"
+    "<a href=\"../1924/katob_1.html\">加藤（高）内閣</a>最後の大仕事は、出来立て治安維持法での「学問の自由」大弾圧だった。"
    ]
   },
   {
@@ -53,7 +62,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1925/04/13　　<a href\"..=\"\" 19.html\"=\"\">\n陸軍現役将校学校配属令公布</a>"
+       "html": "1925/04/13　　<a href=\"../1925/04gakko.html\">\n陸軍現役将校学校配属令公布</a>"
       }
      ]
     },
@@ -163,25 +172,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -195,17 +188,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>一五日午前三時、京都市内の全刑事が川端、中立売署に召集され、六時活動を開始した。\n七時半までに京大社研の淡徳三郎（大学院）、岩田義道（経三）、石田英一郎、熊谷孝雄（経二）、栗原佑、太田遼一郎、\n泉隆、白谷忠三、黒田久太（経一）、山崎雄次（法三）、橋本省三（法二）の一二名と同志社社研内海洋一（経一）、\n大浦梅夫（高商三）の合計一四名を検挙し、同時に京大教授河上肇、同志社大講師河野密、<a href=\"../p/ysenji.html\">山本宣治</a>の私宅、\n農民組合事務所、京都地方評議会事務所をはじめ評議会の国領伍一郎、辻井民之助、半谷玉三、奥村甚之助、谷口善太郎、\n農民組合の森英吉、京大助手（新人会員）杉野忠夫などの私宅が一斉に家宅捜索をうけた。\n兵庫県でも関西学院大教授河上丈太郎、松沢兼人、新明正道などの私宅など十数ヵ所が家宅捜索をうけた。\n同じ一五日東京では村尾薩男（東大文三）、清水平九郎（明治学院）、広谷賀真（慶応）が検挙され、\n一八日には京都で鈴木安蔵（京大経一）が追加された。\nそして不敬罪にもとわれている石田を除く一七名は一月二六日出版法違反ならびに<a href=\"../1925/04ciani.html\">治安維持法</a>違反で起訴、予審に付せられた。</div>\n<div>しかし検挙はこれで終らず一月二七日午後から第二次検挙が開始され、\n同日夕刻までに京大社研逸見重雄（経三）、鷲谷武二（文二）、古賀二雄（法一）、藤井米三（経卒）、\n同志社社研宮崎菊二、沢田政雄（経一）のほか小崎正潔（関西学院）、蓬台恒治（神戸高商）の八名、\n翌二八日には黒川健三、原田耕（大阪外語）の二名が検挙された。\nその後検挙は四月中旬まで続き、その間に京都社研では武藤丸楠（経一）、池田隆（医二）、大橋積（経卒）、\n東大新人会では是枝恭二（文二）、松本篤一（文二）、後藤寿夫（法三）、その他に実川清文（日本大）、\n秋笹政之輔（早稲田高等学院）、野呂栄太郎（慶応卒）、上村正夫（京都無産者教育協会書記）が検挙された。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/st2yamas.html\">佐々木敏二 「山本宣治（下）」</a>\n　Ｐ．８７</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>一五日午前三時、京都市内の全刑事が川端、中立売署に召集され、六時活動を開始した。\n七時半までに京大社研の淡徳三郎（大学院）、岩田義道（経三）、石田英一郎、熊谷孝雄（経二）、栗原佑、太田遼一郎、\n泉隆、白谷忠三、黒田久太（経一）、山崎雄次（法三）、橋本省三（法二）の一二名と同志社社研内海洋一（経一）、\n大浦梅夫（高商三）の合計一四名を検挙し、同時に京大教授河上肇、同志社大講師河野密、<a href=\"../p/ysenji.html\">山本宣治</a>の私宅、\n農民組合事務所、京都地方評議会事務所をはじめ評議会の国領伍一郎、辻井民之助、半谷玉三、奥村甚之助、谷口善太郎、\n農民組合の森英吉、京大助手（新人会員）杉野忠夫などの私宅が一斉に家宅捜索をうけた。\n兵庫県でも関西学院大教授河上丈太郎、松沢兼人、新明正道などの私宅など十数ヵ所が家宅捜索をうけた。\n同じ一五日東京では村尾薩男（東大文三）、清水平九郎（明治学院）、広谷賀真（慶応）が検挙され、\n一八日には京都で鈴木安蔵（京大経一）が追加された。\nそして不敬罪にもとわれている石田を除く一七名は一月二六日出版法違反ならびに<a href=\"../1925/04ciani.html\">治安維持法</a>違反で起訴、予審に付せられた。</div>\n<div>しかし検挙はこれで終らず一月二七日午後から第二次検挙が開始され、\n同日夕刻までに京大社研逸見重雄（経三）、鷲谷武二（文二）、古賀二雄（法一）、藤井米三（経卒）、\n同志社社研宮崎菊二、沢田政雄（経一）のほか小崎正潔（関西学院）、蓬台恒治（神戸高商）の八名、\n翌二八日には黒川健三、原田耕（大阪外語）の二名が検挙された。\nその後検挙は四月中旬まで続き、その間に京都社研では武藤丸楠（経一）、池田隆（医二）、大橋積（経卒）、\n東大新人会では是枝恭二（文二）、松本篤一（文二）、後藤寿夫（法三）、その他に実川清文（日本大）、\n秋笹政之輔（早稲田高等学院）、野呂栄太郎（慶応卒）、上村正夫（京都無産者教育協会書記）が検挙された。</div>\n<div class=\"txr\"><a href=\"../text/st2yamas.html\">佐々木敏二 「山本宣治（下）」</a>\n　Ｐ．８７<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4938303019%2Fqid%3D1147088125%2Fsr%3D1-5%2Fref%3Dsr_1_8_5\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -213,7 +198,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

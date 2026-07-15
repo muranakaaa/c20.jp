@@ -2,7 +2,7 @@
 
 div.title{
 font-size:29px;
-margin-top:3px;
+margin-top:1px;
 padding-bottom:1px;
 }
 .t1{
@@ -26,19 +26,25 @@ font-size:20pt;
 .t_e{
 color:#009;
 font-size:10.5pt;
-margin-left:30px;
+margin-left:25px;
 }
 div.title2{
 font-size:11pt;
+}
+
+/*　ナビゲーションの設定　*/
+
+div.navi{
+margin:8px 0px 0px 0px;
 }
 
 /*　サブタイトルの設定　*/
 
 div.subtitle{
 color:#669;
-font-size:10.5pt;
+font-size:10pt;
 letter-spacing:2px;
-margin:2px 0px 0px 190px;
+margin:2px 0px 0px 180px;
 }
 
 /*　リストヘッドの設定　*/
@@ -71,7 +77,7 @@ border-width:2px 4px 3px 2px;
 border-style:solid;
 }
 table.y1{
-border-color:#f90;
+border-color:#f96;
 }
 table.y2{
 border-color:#99c;
@@ -80,7 +86,7 @@ table.y3{
 border-color:#c6c;
 }
 table.y4{
-border-color:#6cc;
+border-color:#699;
 }
 table.y5{
 border-color:#996;

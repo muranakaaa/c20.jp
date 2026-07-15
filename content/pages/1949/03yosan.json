@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1949.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1949.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -233,25 +242,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -265,17 +258,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div><a href=\"../p/dodge_j.html\">ドッジ</a>は、元デトロイト銀行の頭取で、アメリカ占領下の、西ドイツに赴き、\n通貨改革を担当して成功させた国際金融の専門家であった。\n彼は、さきに総司令部が日本に命じた企業合理化三原則、経済安定九原則の上に<a href=\"../1949/03dodge.html\">ドッジ・ライン</a>を組み立てた。</div>\n<div>「日本経済は、アメリカの援助と、国家の補助金と、二本の足に支えられた竹馬経済だ。\nこの足を断ち切って、自分の足で立たなければならない。\nそのためには摩擦（フリクション）はあっても、経済安定九原則を実施して、まがいもの（フィクション）のない経済にしなければならない」と、\n指示しその方針で、二十四年度（一九四九）予算の編成を指導した。</div>\n<div>三月二十二日に、<a href=\"../p/dodge_j.html\">ドッジ</a>は、<a href=\"../p/ihayato.html\">池田蔵相</a>にプランを内示したときに、</div>\n<div>「この予算は、ヒマシ油のように飲みにくいが日本経済にとって必要である」といった。</div>\n<div>それは、歳入四千五百二十四億一千九十九円、歳出四千三百七十四億七千九百六十四円という規模で、\n<a href=\"../p/ihayato.html\">池田</a>たちが考えていた大蔵省原案にくらべると、歳出が、約千四百億円の節約ぶりであった。\nその節約は、補給金の削減と、行政整理とによるものであった。\n<a href=\"../p/ihayato.html\">池田</a>は思わず、この予算編成の難しさに唸り声を上げた。</div>\n<div>この<a href=\"../1949/03dodge.html\">ドッジ・ライン</a>の結果として、企業はその二本の足を切られることになって、\n合理化に向かわなければならなかった。\n操業度の引き下げ、支払いの遅延、賃金カット、首切りなどの経営操作となってあらわれた。\nまさしく、デフレである。\n行政整理は、国家、地方公務員の整理となって政策化され、吉田内閣はこの年の国会に、各省設置法改正案、\n行政機関定員法案とを成立に持ち込んだ。\nそれによって、約二十数万の国家および地方公務員が、整理させることになった。\nこのときすでに“公社”となっていた国鉄は、定員法にもとづいて、\n各官庁よりも最も多い十二万四百十三名の馘首を行なわなければならなかった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ti_yosid.html\">戸川猪佐武 「小説 吉田茂」</a>\n　Ｐ．３０１</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/dodge_j.html\">ドッジ</a>は、元デトロイト銀行の頭取で、アメリカ占領下の、西ドイツに赴き、\n通貨改革を担当して成功させた国際金融の専門家であった。\n彼は、さきに総司令部が日本に命じた企業合理化三原則、経済安定九原則の上に<a href=\"../1949/03dodge.html\">ドッジ・ライン</a>を組み立てた。</div>\n<div>「日本経済は、アメリカの援助と、国家の補助金と、二本の足に支えられた竹馬経済だ。\nこの足を断ち切って、自分の足で立たなければならない。\nそのためには摩擦（フリクション）はあっても、経済安定九原則を実施して、まがいもの（フィクション）のない経済にしなければならない」と、\n指示しその方針で、二十四年度（一九四九）予算の編成を指導した。</div>\n<div>三月二十二日に、<a href=\"../p/dodge_j.html\">ドッジ</a>は、<a href=\"../p/ihayato.html\">池田蔵相</a>にプランを内示したときに、</div>\n<div>「この予算は、ヒマシ油のように飲みにくいが日本経済にとって必要である」といった。</div>\n<div>それは、歳入四千五百二十四億一千九十九円、歳出四千三百七十四億七千九百六十四円という規模で、\n<a href=\"../p/ihayato.html\">池田</a>たちが考えていた大蔵省原案にくらべると、歳出が、約千四百億円の節約ぶりであった。\nその節約は、補給金の削減と、行政整理とによるものであった。\n<a href=\"../p/ihayato.html\">池田</a>は思わず、この予算編成の難しさに唸り声を上げた。</div>\n<div>この<a href=\"../1949/03dodge.html\">ドッジ・ライン</a>の結果として、企業はその二本の足を切られることになって、\n合理化に向かわなければならなかった。\n操業度の引き下げ、支払いの遅延、賃金カット、首切りなどの経営操作となってあらわれた。\nまさしく、デフレである。\n行政整理は、国家、地方公務員の整理となって政策化され、吉田内閣はこの年の国会に、各省設置法改正案、\n行政機関定員法案とを成立に持ち込んだ。\nそれによって、約二十数万の国家および地方公務員が、整理させることになった。\nこのときすでに“公社”となっていた国鉄は、定員法にもとづいて、\n各官庁よりも最も多い十二万四百十三名の馘首を行なわなければならなかった。</div>\n<div class=\"txr\"><a href=\"../text/ti_yosid.html\">戸川猪佐武 「小説 吉田茂」</a>\n　Ｐ．３０１<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%25B0%258F%25E8%25AA%25AC%25E5%2590%2589%25E7%2594%25B0%25E8%258C%2582%2520%2520%2520%2520%25E8%25A7%2592%25E5%25B7%259D%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -283,7 +268,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

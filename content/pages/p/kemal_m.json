@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -38,9 +47,9 @@
    "type": "raw",
    "tag": "table",
    "attrs": {
-    "class": "off"
+    "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"02k.html\">一覧　（カ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E3%2583%25A0%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25BB%25E3%2582%25B1%25E3%2583%259E%25E3%2583%25AB\" target=\"_blank\">本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
   },
   {
    "type": "raw",
@@ -52,27 +61,11 @@
   },
   {
    "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
    "tag": "table",
    "attrs": {
     "class": "off"
    },
    "html": "<tbody><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr></tbody>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "timeline",
@@ -93,7 +86,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1912/10/17　　<a href\"..=\"\" 19.html\"=\"\">\nバルカン戦争①勃発　（～13/05/30）</a>"
+       "html": "1912/10/17　　<a href=\"../1912/10balk1.html\">\nバルカン戦争①勃発</a>　（～13/05/30）"
       }
      ]
     },
@@ -103,7 +96,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1913/06/29　　<a href\"..=\"\" 19.html\"=\"\">\nバルカン戦争②勃発　（～13/07/30）</a>"
+       "html": "1913/06/29　　<a href=\"../1913/06balk2.html\">\nバルカン戦争②勃発</a>　（～13/07/30）"
       }
      ]
     },
@@ -213,9 +206,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>現代トルコ建国の父といえば、後にアタテュルク、すなわち「最高のトルコ人」として知られたムスタファ・ケマルだということに、\nだれも異論はなかろう。\n彼は第一次世界大戦中、ダーダネルス地方の防衛で有名をはせたが、トルコ参戦の責任者である青年トルコ党と不和であったため、\n戦時中は第一線の有名人にのし上がることがなかった。</div>\n<div>しかしケマルの機会は、大戦が終わって講和の段階がおとずれたときにやってきた。\n彼は、旧オットマン帝国内のアラブ諸地方を完全に放棄する意志はあったが、トルコ人居住地の東トラキア（バルカン半島東部）を割譲したり、\nコンスタンティノープルおよび両海峡に関する条項を呑むことには絶対反対であった。\nところが、戦勝国はこれらの諸条件を押しつけたほか、さらに、小アジアをいくつかの勢力範囲に分割してしまった。\n肝心な部分を失ってシリの肉だけ残った、いわゆる「臀部トルコ」の運命は、\nかつて「瀕死の鯨」として列強のえじきになった中国の運命にもちかかったのである。</div>\n<div>さて、休戦当時コンスタンティノープルにいたケマルは、強硬な民族主義主張のゆえに政府から危険人物視され、\n兵員解除の監督という名目で、中央から地方の小アジア東部方面にまわされた。\nこれを機会にトルコの奥地を旅行した彼は、各地で協商国軍、および首都にある協商国軍の傀儡スルタン政権に対する抵抗団体を組織し、\n一九一九年九月までには、民族派会議を召集できるほどの勢力にのし上がっていた。</div>\n<div>このような民族主義運動の高揚の中で、一九一九年十月の議会選挙ではケマルの一党が過半数を占め、\n翌年一月に開かれた議会では民族の自決、治外法権の撤廃、コンスタンティノープルの安全、海峡問題の新しい解決などをふくむ\n六原則の国民協定が採択された。\nしかし、協商国軍がこれを黙視するはずはなかった。\nかれらはトルコ民族主義の拡大阻止という建てまえから、二〇年三月十六日にはコンスタンティノープルを占領した。\nここにおいて、ケマルは小アジア中部のアンゴラに民族派の代表を召集し、\nこの地で、自己を大統領としてスルタン政権を否認する臨時政府を樹立した。</div>\n<div class=\"txr\"><a href=\"../text/ia_gaise.html\">今津晃 「概説現代史」</a>\n　Ｐ．３７<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%25A6%2582%25E8%25AA%25AC%25E7%258F%25BE%25E4%25BB%25A3%25E5%258F%25B2%2520%2520%2520%2520%25E5%2589%25B5%25E5%2585%2583%25E9%2581%25B8%25E6%259B%25B8\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -223,39 +216,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>現代トルコ建国の父といえば、後にアタテュルク、すなわち「最高のトルコ人」として知られたムスタファ・ケマルだということに、\nだれも異論はなかろう。\n彼は第一次世界大戦中、ダーダネルス地方の防衛で有名をはせたが、トルコ参戦の責任者である青年トルコ党と不和であったため、\n戦時中は第一線の有名人にのし上がることがなかった。</div>\n<div>しかしケマルの機会は、大戦が終わって講和の段階がおとずれたときにやってきた。\n彼は、旧オットマン帝国内のアラブ諸地方を完全に放棄する意志はあったが、トルコ人居住地の東トラキア（バルカン半島東部）を割譲したり、\nコンスタンティノープルおよび両海峡に関する条項を呑むことには絶対反対であった。\nところが、戦勝国はこれらの諸条件を押しつけたほか、さらに、小アジアをいくつかの勢力範囲に分割してしまった。\n肝心な部分を失ってシリの肉だけ残った、いわゆる「臀部トルコ」の運命は、\nかつて「瀕死の鯨」として列強のえじきになった中国の運命にもちかかったのである。</div>\n<div>さて、休戦当時コンスタンティノープルにいたケマルは、強硬な民族主義主張のゆえに政府から危険人物視され、\n兵員解除の監督という名目で、中央から地方の小アジア東部方面にまわされた。\nこれを機会にトルコの奥地を旅行した彼は、各地で協商国軍、および首都にある協商国軍の傀儡スルタン政権に対する抵抗団体を組織し、\n一九一九年九月までには、民族派会議を召集できるほどの勢力にのし上がっていた。</div>\n<div>このような民族主義運動の高揚の中で、一九一九年十月の議会選挙ではケマルの一党が過半数を占め、\n翌年一月に開かれた議会では民族の自決、治外法権の撤廃、コンスタンティノープルの安全、海峡問題の新しい解決などをふくむ\n六原則の国民協定が採択された。\nしかし、協商国軍がこれを黙視するはずはなかった。\nかれらはトルコ民族主義の拡大阻止という建てまえから、二〇年三月十六日にはコンスタンティノープルを占領した。\nここにおいて、ケマルは小アジア中部のアンゴラに民族派の代表を召集し、\nこの地で、自己を大統領としてスルタン政権を否認する臨時政府を樹立した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ia_gaise.html\">今津晃 「概説現代史」</a>\n　Ｐ．３７</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span>ケマール・パシャは一八八〇年ギリシャ生まれのトルコ人。\n青年期から職業軍人として教育を受けたが、\n第一次世界大戦にはダーダネルス海峡地帯に上陸した英仏連合軍を撃退して大佐となった。\n大戦の結果、トルコは連合軍によって屈辱条約を押しつけられ、さらにギリシャがイギリスのあと押しで小アジアに侵入すると、\n彼は農民や資本家の応援を受けて権利擁護団を組織し、時のトルコ政府を否認し、\nソビエトのあとおしでギリシャ軍を破った。\nローザンヌ条約でトルコ共和国が成立すると大統領に選ばれたが、\nそのときからアタチュルク（父なるトルコ人の意）の姓を議会から贈られた。</div>\n<div>彼は大統領、国民議会議長、最高軍司令官、国民党党首として独裁的権力をふるった。</div>\n<div class=\"txr\"><a href=\"../text/ms4syowa.html\">松本清張 「昭和史発掘（４）」</a>\n　Ｐ．９５<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167106345%2Fqid%3D1147086434%2Fsr%3D1-13%2Fref%3Dsr_1_0_13\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -263,7 +224,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

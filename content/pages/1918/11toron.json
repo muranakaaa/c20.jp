@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1918.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1918.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -73,25 +82,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -105,17 +98,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>きっかけは九月二十八日黒竜会会員池田弘寿が大阪朝日社長村山竜平に暴行を加えた事件に関連して、\n<a href=\"../p/ysakuzo.html\">吉野作造</a>が中央公論十一月号に「言論の自由の社会的圧迫を排す」という論文をのせたことによる。\nこの中で<a href=\"../p/ysakuzo.html\">吉野</a>は自由民権派には厳しい官憲が、このような暴力に対しては寛大に過ぎると批判した。\n浪人会のメンバーが抗議に押しかけると、<a href=\"../p/ysakuzo.html\">吉野</a>は立会演説で是非を決めようと言い、浪人会もこれを受けて、\n十一月二十三日夜浪人会主催の立会演説会が神田南明倶楽部で開かれた。\n会場には<a href=\"../p/ysakuzo.html\">吉野</a>を支持する大学弁論部の学生、友愛会会員、労働者など千余名がおしかけた。</div>\n<div>まず、黒竜会幹部内田良平が壇上に上がり、村山を襲った池田と自分の間には不明朗な関係はないことを“謙抑せる紳士的態度”で説明した。\n続いて浪人会から佐々木安五郎、伊藤松雄、田中弘之、小川運平が次々に立って、\n「大阪朝日」（九月二十五日）の不穏なる論説に対する<a href=\"../p/ysakuzo.html\">吉野</a>の賛否及び、忠君愛国思想に対する<a href=\"../p/ysakuzo.html\">吉野</a>の所見を訊いたが、\nその態度は“紳士的態度を失わざらんと努め”（報知）ていた。</div>\n<div>これに対し<a href=\"../p/ysakuzo.html\">吉野</a>はまず「思想に当るに暴力をもってすることは、すでに暴行者が思想的敗北者であることを示す」と述べ、\nついで国体及び民本主義について述べ浪人会の誤解を解き、\n「思想の過程はともあれ憂国の至誠において劣るものではない」ことを強調した。</div>\n<div>田中は<a href=\"../p/ysakuzo.html\">吉野</a>の同意を得て次の覚書をまとめ朗読した。</div>\n<div>一、池田某の行動に関し、内田良平の弁明を聞き、<a href=\"../p/ysakuzo.html\">吉野博士</a>は浪人会の趣旨は言論圧迫に出でたるものに非ずと認む。</div>\n<div>二、<a href=\"../p/ysakuzo.html\">吉野博士</a>並びに浪人会は、尊厳なる我国体崇尚のもとに益々君民一致の美徳を発揮する為、\n各所信に従って努力すべき事に一致せり。之によりて本会を散ず。</div>\n<div>この日<a href=\"../p/ysakuzo.html\">吉野</a>に対する危険への憂慮から会場に入れない群衆も数千人に達し、\n<a href=\"../p/ysakuzo.html\">吉野</a>が無事に出て来ると「<a href=\"../p/ysakuzo.html\">吉野先生</a>万歳」「民本主義万歳」を連呼して神保町角まで行進した。</div>\n<div>この日警戒の為（<a href=\"../p/ysakuzo.html\">吉野</a>の安全よりも大衆の暴発をおそれて）警視庁は二百余名の警官を会場の内外に張りこませた。\n会が終ると数名の警官が<a href=\"../p/ysakuzo.html\">吉野</a>をとりまいてボディガードの形となり、神保町から巣鴨行の電車にのせた。\n<a href=\"../p/ysakuzo.html\">吉野</a>は去ってゆく電車の後部運転台に立って群衆の喝采に応えた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm_saion.html\">豊田穣 「西園寺公望」</a>\n　下巻　Ｐ．１１０</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>きっかけは九月二十八日黒竜会会員池田弘寿が大阪朝日社長村山竜平に暴行を加えた事件に関連して、\n<a href=\"../p/ysakuzo.html\">吉野作造</a>が中央公論十一月号に「言論の自由の社会的圧迫を排す」という論文をのせたことによる。\nこの中で<a href=\"../p/ysakuzo.html\">吉野</a>は自由民権派には厳しい官憲が、このような暴力に対しては寛大に過ぎると批判した。\n浪人会のメンバーが抗議に押しかけると、<a href=\"../p/ysakuzo.html\">吉野</a>は立会演説で是非を決めようと言い、浪人会もこれを受けて、\n十一月二十三日夜浪人会主催の立会演説会が神田南明倶楽部で開かれた。\n会場には<a href=\"../p/ysakuzo.html\">吉野</a>を支持する大学弁論部の学生、友愛会会員、労働者など千余名がおしかけた。</div>\n<div>まず、黒竜会幹部内田良平が壇上に上がり、村山を襲った池田と自分の間には不明朗な関係はないことを“謙抑せる紳士的態度”で説明した。\n続いて浪人会から佐々木安五郎、伊藤松雄、田中弘之、小川運平が次々に立って、\n「大阪朝日」（九月二十五日）の不穏なる論説に対する<a href=\"../p/ysakuzo.html\">吉野</a>の賛否及び、忠君愛国思想に対する<a href=\"../p/ysakuzo.html\">吉野</a>の所見を訊いたが、\nその態度は“紳士的態度を失わざらんと努め”（報知）ていた。</div>\n<div>これに対し<a href=\"../p/ysakuzo.html\">吉野</a>はまず「思想に当るに暴力をもってすることは、すでに暴行者が思想的敗北者であることを示す」と述べ、\nついで国体及び民本主義について述べ浪人会の誤解を解き、\n「思想の過程はともあれ憂国の至誠において劣るものではない」ことを強調した。</div>\n<div>田中は<a href=\"../p/ysakuzo.html\">吉野</a>の同意を得て次の覚書をまとめ朗読した。</div>\n<div>一、池田某の行動に関し、内田良平の弁明を聞き、<a href=\"../p/ysakuzo.html\">吉野博士</a>は浪人会の趣旨は言論圧迫に出でたるものに非ずと認む。</div>\n<div>二、<a href=\"../p/ysakuzo.html\">吉野博士</a>並びに浪人会は、尊厳なる我国体崇尚のもとに益々君民一致の美徳を発揮する為、\n各所信に従って努力すべき事に一致せり。之によりて本会を散ず。</div>\n<div>この日<a href=\"../p/ysakuzo.html\">吉野</a>に対する危険への憂慮から会場に入れない群衆も数千人に達し、\n<a href=\"../p/ysakuzo.html\">吉野</a>が無事に出て来ると「<a href=\"../p/ysakuzo.html\">吉野先生</a>万歳」「民本主義万歳」を連呼して神保町角まで行進した。</div>\n<div>この日警戒の為（<a href=\"../p/ysakuzo.html\">吉野</a>の安全よりも大衆の暴発をおそれて）警視庁は二百余名の警官を会場の内外に張りこませた。\n会が終ると数名の警官が<a href=\"../p/ysakuzo.html\">吉野</a>をとりまいてボディガードの形となり、神保町から巣鴨行の電車にのせた。\n<a href=\"../p/ysakuzo.html\">吉野</a>は去ってゆく電車の後部運転台に立って群衆の喝采に応えた。</div>\n<div class=\"txr\"><a href=\"../text/tm2saion.html\">豊田穣 「西園寺公望（下）」</a>\n　Ｐ．１１０<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E5%259C%2592%25E5%25AF%25BA%25E5%2585%25AC%25E6%259C%259B%25E2%2580%2595%25E6%259C%2580%25E5%25BE%258C%25E3%2581%25AE%25E5%2585%2583%25E8%2580%2581%2520%2528%25E4%25B8%258B%25E5%25B7%25BB%2529%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -123,7 +108,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

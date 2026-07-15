@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -46,9 +55,9 @@
    "type": "raw",
    "tag": "table",
    "attrs": {
-    "class": "off"
+    "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"04t.html\">一覧　（タ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=books-jp%26keyword=%25E8%25BE%25BB%2520%25E6%2594%25BF%25E4%25BF%25A1\" target=\"_blank\">本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
   },
   {
    "type": "raw",
@@ -57,14 +66,6 @@
     "class": "off"
    },
    "html": "<span class=\"m_r\">エピソード 1</span>調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
   },
   {
    "type": "timeline",
@@ -105,7 +106,7 @@
       {
        "id": null,
        "cls": "hist",
-       "html": "\n・　第18方面軍参謀としてバンコクで敗戦を迎えたが、戦犯指名を恐れて逃走。"
+       "html": "\n・　第18方面軍参謀としてバンコクで<a href=\"../1945/08gyoku.html\">敗戦</a>を迎えたが、戦犯指名を恐れて逃走。"
       }
      ]
     },
@@ -140,14 +141,6 @@
      ]
     }
    ]
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "timeline",
@@ -298,49 +291,25 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "cm"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "<span class=\"m_y\">語録</span>\n一九六〇年に米ソ両国が原子爆弾戦争に飛び込むことになり、ドイツもイギリスもフランスも巻きこまれる。\nその結果、北半球の広い都市が廃墟となり、白色文明は終焉を告げ、生き残ったアジア、アフリカの指導者が集まって、\n黒んぼと黄色いのとで、ガラ空きになった北半球の広い土地を公平に分ける。\nそうすると日本はバイカル以東がもらえる・・・・・・。\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<span class=\"m_b\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span>遊び好きの先輩将校たちにとって、\n辻政信はいくら訓育指導に努めてみても、あまり伸びる素質のある後輩ではなかった。\n彼は酒は嫌いではない方で、酒量も相当だったが、料理屋に出入りすることを嫌い、\n芸者が酌をしようとしても、受けなかった。\nまして人が女遊びに誘っても、絶対に乗らなかった。\n隊内の下士官たちの間では、辻が女の所に泊ることがあるかどうかで、賭けが行なわれたが、\n結局泊る方に賭けた方が負けたという伝説が、今日も残っている。</div>\n<div>辻は同僚の遊蕩につきあわなかったばかりでなく、彼らの放縦、自堕落を、常に攻撃してやまなかった。\n演習に出かけて夜営しているとき、酒気を帯びている先輩にむかって、兵隊が寒さにふるえているのに、\n何事かと攻撃して、取っ組み合いの喧嘩になったという話も伝えられている。\n享楽や贅沢を罪悪とし、刻苦精励を最高の徳とする信念は、牢固として抜きがたいものがあった。</div>\n<div class=\"txr\"><a href=\"../text/sh_tujim.html\">杉森久英 「参謀・辻政信」</a>\n　Ｐ．３２</div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "tx"
    },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span>初年兵教育の教官として、彼が部下を特別に愛し、部下からも敬愛されたことは、\n伝説的になっている。　【中略】　陸大受験を目ざす青年将校が自分の時間を持つために回避したがった初年兵教育を、\n彼は進んで引き受けたばかりでなく、熱心にその事に当った。\n彼は自分が教育を担当する兵が決定すると、ただちにその身上調査表を熟読して、\n名前と顔をおぼえてしまい、一人一人にむかって、以前からよく知っている男であるかのように、\n親しく呼びかけたので、兵たちは感激した。\nもっとも、これは辻に限ったことではなく、少し隊務に熱心な将校はみなやったことである。\nただ、特に辻政信についてこういう伝説が作り上げられ、下士官や兵士の間に辻崇拝熱が起ったのは、\n彼のやり方が際立っていたからであろう。</div>\n<div>彼はまた、訓練は峻烈厳格をきわめたけれど、弱い兵隊に対してはいたわりが深く、\n行軍中に疲労して落伍しそうになる者があると、その銃をかついでやり、無理を強いなかった。\n身体が特別に頑健だったせいもあるが、彼は一時に何人もの銃をかついだ。</div>\n<div>また彼は、背嚢の中にいつも飴玉、キャラメルの類を入れていて、\n折に触れて兵隊に分けた。夜行軍の時は二本の水筒に酒を入れて携行し、さしつかえのない時は皆に一口ずつ飲ませてやった。</div>\n<div>あるときの行軍で、兵隊一同が水筒の水を飲み尽し、附近には飲用に適する水が見当らず、渇きに苦しんで、\n見るに耐えぬことがあった。その時辻少尉の水筒には、まだ充分の水が残っていたが、\nそれは百人の兵隊の渇きを医すに足るものではなかった。\n彼はいきなりその水を地面に捨てると、兵隊と共に渇きに耐える覚悟を示した。</div>\n<div>彼はいつも部下と同じ食物を食べ、部下と苦労を共にするように努めた。\n行軍中休憩するときも、ほかの将校や下士官は、まず腰をおろして休むのに、彼一人腰をおろさず、\n兵たちを見廻っていちいちねぎらいの声をかけ、特に疲労した者があると、ゲートルをはずしてゆっくり休めと勧めた。\n将校は兵に比べて軽装で、疲労度がすくないとはいえ、実際にはなかなかできることではなかった。\nまして辻少尉は背嚢に煉瓦を入れ、重い靴をはき、兵の銃まで持ってやっているのである。\n兵士たちの辻に対する尊敬は、信仰にまで高まった。</div>\n<div class=\"txr\"><a href=\"../text/sh_tujim.html\">杉森久英 「参謀・辻政信」</a>\n　Ｐ．４６</div>\n"
   },
   {
    "type": "cyu",
@@ -348,7 +317,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1941.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1941.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -243,25 +252,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -275,17 +268,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/roosev_f.html\">ルーズベルト</a>は四一年八月に<a href=\"../p/kfumimar.html\">近衛首相</a>から頂上会談の提案を受けたとき、結構乗り気であった。</div>\n<div>確実な理由は日本との戦争の準備が整うまでの一定期間は開戦を先に延ばしたかったことである。\nしばらくの間、日本が暴発しないよう「あやしておく」ことが望ましかった。\nそれに加えて、<a href=\"../p/roosev_f.html\">ルーズベルト</a>は危機の日米関係を自らの手で急転直下平和にもち込むことに意欲を感じなかったともいいきれないと思う。\nひとたび大胆な平和のイニシアティブに応じ、偉業達成を試みることは悪いことではない。\n<a href=\"../p/stenno.html\">天皇</a>・<a href=\"../p/kfumimar.html\">近衛</a>組が陸軍を本当に抑えられるかおぼつかなかったが、\nこのたびは<a href=\"../p/kfumimar.html\">近衛</a>が本気であることは<a href=\"../p/grew_j.html\">グルー</a>の電報からもマジック情報からも明らかであった。\nもし軍部がそこから逸脱するようなら、その時にたたけばよい。\nアメリカ政府は平和へのよい記録を作り、しかも準備時間を得たうえで、開戦を迎えることができる。\nそれは案外合理的な方策たりうる。</div>\n<div>ではなぜ、<a href=\"../p/roosev_f.html\">ルーズベルト</a>は最終的には、断ったのか。\nしばしば指摘される中国など連合国の意向よりも、この局面で決定的だったのは、<a href=\"../p/hull_c.html\">ハル国務長官</a>の怒りであった。\n<a href=\"../p/hull_c.html\">ハル</a>は日本への根深い不信感に動かされていたが、それ以上に<a href=\"../p/roosev_f.html\">ルーズベルト</a>の外交指導をめぐる国務長官の扱いに耐えがたい屈辱を覚えていた。\n八月の大西洋会談へは自分の了解も得ずに部下のウェルズ次官が同行し、<a href=\"../p/hull_c.html\">ハル</a>の一番得意な格調高い<a href=\"../1941/08kensy.html\">原則的「憲章」を発表</a>するに至った。\n大統領が女房役たるべき国務長官の眼を盗んで、ウェルズや私的補佐官であるホプキンズを伴って、\n国際会議に出かける悪癖に<a href=\"../p/hull_c.html\">ハル</a>は苦しんできたが、このたびはとりわけ傷ついた。\n<a href=\"../p/hull_c.html\">ハル</a>は普通の閣僚ではなく格別に偉大な国務長官とみなされていた。\n大統領はその心中をすぐさま感じとって、\n政治的影響力の大きい<a href=\"../p/hull_c.html\">ハル</a>が自分への不信から暴発して辞表をたたきつけたりしないよう心配りを開始した。\nやがてウェルズ次官を更迭するに至るが、とりあえず<a href=\"../p/hull_c.html\">ハル</a>の頂上会談への反対を尊重し、<a href=\"../p/kfumimar.html\">近衛</a>とのデートを断念したのである。\n対日関係は<a href=\"../p/hull_c.html\">ハル国務長官</a>の手許に残された数少ない外交領域であった。</div>\n<div class=\"txr\"><a href=\"../text/im_kin06.html\">五百旗頭真 「日本の近代（６）」</a>\n　Ｐ．１２７<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25AE%25E8%25BF%2591%25E4%25BB%25A3%25206%2520%25E6%2588%25A6%25E4%25BA%2589%25E3%2583%25BB%25E5%258D%25A0%25E9%25A0%2598%25E3%2583%25BB%25E8%25AC%259B%25E5%2592%258C%25E2%2580%25951941%25EF%25BD%259E1955\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -293,7 +278,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

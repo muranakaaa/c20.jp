@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1941.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1941.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -233,25 +242,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -265,17 +258,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>次期首班に誰が座るのか、<a href=\"../p/thideki.html\">東條</a>も<a href=\"../p/makira.html\">武藤</a>もそして佐藤も、\n軍務局の将校たちも落着かぬ様子で、午後からの重臣会議の終わるのを待っていた。\n陸相官邸の芝生に椅子をもちだして、彼らは雑談にふけりながら、まもなく発表されるであろう東久邇宮内閣か、\nそれに近い皇族内閣を想定し、誰を陸相に推挙するかを話し合った。\n<a href=\"../1936/02226ji.html\">二・二六事件</a>以後、陸軍の政治的意思を担うことになった陸軍省軍務局の将校たちは、\n陸相を推すだけでなく、希望する閣僚名簿まで用意するのが慣例であった。\nこの日午前中に、その名簿が<a href=\"../p/makira.html\">武藤</a>の机の上には用意されていた。\n<a href=\"../p/thideki.html\">東條</a>はこの名簿を見ていなかったが、それが自らにつきつけられる名簿になろうとは知る由もなかった。</div>\n<div>午後一時すぎから、宮中では、重臣会議が開かれていた。\n<a href=\"../p/kkoici.html\">木戸</a>が<a href=\"../1941/kono3_9.html\">倒閣</a>にいたる経緯を説明し、そのあと次期首班についての検討にはいった。\n<a href=\"../p/wreijiro.html\">若槻礼次郎</a>が<a href=\"../p/ukazusig.html\">宇垣一成</a>を推し、<a href=\"../p/hsenjuro.html\">林銑十郎</a>は皇族内閣とするなら海軍関係の皇族がいいと言った。\n発言が止まるのを見定めて、<a href=\"../p/kkoici.html\">木戸</a>が強力に<a href=\"../p/thideki.html\">東條</a>を推した。</div>\n<div>「この際必要なのは陸海軍の一致をはかることと<a href=\"../1941/09goz06.html\">九月六日の御前会議</a>の再検討を必要とするのだから、\n<a href=\"../p/thideki.html\">東條陸相</a>に大命を降下してはどうか。\nただしその場合でも<a href=\"../p/thideki.html\">東條陸相</a>は現役で陸相を兼任することとして、陸軍を押えてもらう」</div>\n<div>重臣会議は重苦しい空気になった。\n<a href=\"../p/kkoici.html\">木戸</a>ののこした『木戸幸一関係文書』によれば、かれの主張は、<a href=\"../p/thideki.html\">東條</a>なら九月六日以後の情勢を逐一知りぬいていること、\nそれに陸軍の動きを押えることが可能であるが、<a href=\"../p/wreijiro.html\">若槻</a>が推す<a href=\"../p/ukazusig.html\">宇垣</a>では陸軍を押さえることはできぬというのであった。</div>\n<div><a href=\"../p/thideki.html\">東條</a>の名前があがったとき、重臣のなかにも反撥する者はあった。\n<a href=\"../p/wreijiro.html\">若槻</a>は外国への影響が芳しくないといい、枢密院議長原嘉道は、<a href=\"../p/kkoici.html\">木戸</a>の考えている旨をよく<a href=\"../p/thideki.html\">東條</a>に伝えるならば\n・・・・・・と注文をつけた。\n<a href=\"../p/hkoki.html\">広田弘毅</a>、<a href=\"../p/anobuyuk.html\">阿部信行</a>、<a href=\"../p/hsenjuro.html\">林銑十郎</a>は賛成し、<a href=\"../p/kfumimar.html\">近衛</a>も<a href=\"../p/okeisuke.html\">岡田啓介</a>も強いて反対はしなかった。\n午後四時すぎ、<a href=\"../p/kkoici.html\">木戸</a>は<a href=\"../p/stenno.html\">天皇</a>に会い、<a href=\"../p/thideki.html\">東條</a>に大命降下するように決まったと告げた。\n午後四時半、宮内省の職員が陸相官邸の秘書官に電話して、<a href=\"../p/thideki.html\">東條陸相</a>の参内を要請した。</div>\n<div>赤松貞雄から参内の伝言を聞いた<a href=\"../p/thideki.html\">東條</a>は、顔をしかめ、<a href=\"../1941/04ja_ko.html\">日米交渉</a>の資料と支那撤兵に異議申し立てをする上奏文を\n鞄につめこみ、自動車に乗った。「相当厳しいお叱りがあるのだろう」、彼は不安気に赤松に洩らしている。\nしかし宮中で、<a href=\"../p/thideki.html\">東條</a>の予想は裏切られた。</div>\n<div>「卿に内閣組織を命ず。憲法の条規を遵守するよう。\n時局極めて重大なる事態に直面せるものと思う。\nこの際陸海軍はその協力を一層密にすることに留意せよ。\nなお後刻、海軍大臣を召しこの旨を話すつもりだ」</div>\n<div><a href=\"../p/stenno.html\">天皇</a>は、視線を伏せている<a href=\"../p/thideki.html\">東條</a>にそういって大命降下を告げた。\nこの瞬間、<a href=\"../p/thideki.html\">東條</a>は足がふるえて、なにがなんだかわからなくなったと赤松に述懐した。\nのちに<a href=\"../p/thideki.html\">東條</a>自身が綴った記録には、「然ルニ突然組閣ノ大命ヲ拝シ全ク予想セサリシ処ニシテ茫然タリ」とある。\n<a href=\"../p/stenno.html\">天皇</a>から大命を受けたあと、<a href=\"../p/kkoici.html\">木戸</a>の部屋で、改めて<a href=\"../p/thideki.html\">東條</a>と<a href=\"../p/okosiro.html\">及川</a>に聖旨が伝えられた。</div>\n<div>「・・・・・・尚、国策の大本を決定せられますに就ては、<a href=\"../1941/09goz06.html\">九月六日の御前会議</a>にとらわれることなく、\n内外の情勢をさらに広く検討し、慎重なる考究を加うることを要すとの<a href=\"../1941/10hakus.html\">思召し</a>であります」</div>\n<div>白紙還元で、改めて国策を練り直せというのである。\n控室に戻ってきた<a href=\"../p/thideki.html\">東條</a>は、興奮のため下を向いているだけだった。\nよほど衝撃的な叱責を浴びたにちがいないと、赤松は思った。\n自動車に乗っても無言だった。自動車が走りだすと、明治神宮に行くように言い、また口を結んだ。\n赤松は「どうかされましたか」とおそるおそるたずねた。\nすると<a href=\"../p/thideki.html\">東條</a>は震える声で大命降下を受けたことを告げた。\nこんどは赤松のほうがことばを失った。\n明治神宮、そして東郷神社、靖国神社と自動車を回しながら、<a href=\"../p/thideki.html\">東條</a>は「このうえは神様の御加護により\n組閣の準備をするほかなしと考えて、このように参拝している」といって長時間参拝した。</div>\n<div>このころ陸軍省にも、「<a href=\"../1941/tojo_0.html\">東條に大命降下</a>」の報がはいっていた。\n<a href=\"../p/makira.html\">武藤</a>、佐藤をはじめとする将校は、その意をはかりかね、<a href=\"../p/stenno.html\">天皇</a>は戦争の決意をしたのかと緊張した。\nそういう緊張とは別に、政策決定集団の中枢になっている陸軍に組閣の命が下ったことは、\n彼らにいくぶんの充足感を与えたことも否定できなかった。</div>\n<div class=\"txr\"><a href=\"../text/hm1tojoh.html\">保阪正康 「東條英機と天皇の時代（上）」</a>\n　Ｐ．２７２<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%259D%25B1%25E6%25A2%259D%25E8%258B%25B1%25E6%25A9%259F%25E3%2581%25A8%25E5%25A4%25A9%25E7%259A%2587%25E3%2581%25AE%25E6%2599%2582%25E4%25BB%25A3\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -283,7 +268,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

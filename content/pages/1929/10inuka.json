@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1929.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1929.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -203,25 +212,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -235,17 +228,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>七月二日<a href=\"../1929/tanaa_9.html\">田中内閣が総辞職した</a>とき、<a href=\"../p/oheikici.html\">小川鉄相</a>らは床次内閣を期待して<a href=\"../p/skinmoci.html\">西園寺</a>にもそれを依頼した。\nしかし、<a href=\"../p/skinmoci.html\">西園寺</a>は<a href=\"../p/hosaci.html\">浜口</a>を推薦した。</div>\n<div>九月十八日<a href=\"../p/ttakejir.html\">床次</a>は新党倶楽部を解散し、二十名の同志と共に政友会に復帰した。\n九月二十一日、<a href=\"../p/ttakejir.html\">床次</a>が<a href=\"../p/tgiici.html\">田中</a>を訪問すると、<a href=\"../p/tgiici.html\">田中</a>は<a href=\"../p/ttakejir.html\">床次</a>に総裁を譲りたいといって<a href=\"../p/ttakejir.html\">床次</a>を喜ばせた。\nしかし、その八日後の二十九日、<a href=\"../p/tgiici.html\">田中</a>は急死してしまった。</div>\n<div><a href=\"../p/ttakejir.html\">床次</a>は当然自分にお鉢が回ってくるものと考えていたが、百五十名の代議士を擁する鈴木喜三郎派が\nこれに対抗してまたもや内戦状態となった。</div>\n<div>そこで隠居の形になっていた<a href=\"../p/ituyosi.html\">犬養毅</a>をかつぎ出して暫定総裁にしようというので、小泉三申、岡崎邦輔、古島一雄（<a href=\"../p/ituyosi.html\">犬養</a>の参謀長）、\n内田信也らが動き始めた。</div>\n<div>天皇の怒りをかった<a href=\"../p/tgiici.html\">田中</a>が総裁では、次の内閣は回って来ない、というので、<a href=\"../p/ituyosi.html\">犬養</a>かつぎ出しは少し前から匂っていたのだが、\n<a href=\"../p/tgiici.html\">田中</a>の急逝で、内田は<a href=\"../p/ituyosi.html\">犬養</a>の代理として急遽京都の清風荘へ赴いた。</div>\n<div><a href=\"../p/skinmoci.html\">西園寺</a>も、<a href=\"../p/tgiici.html\">田中</a>では政友会に首班は来ないと考えていたが、<a href=\"../p/ituyosi.html\">犬養</a>の名前を聞くと、</div>\n<div>「<a href=\"../p/ituyosi.html\">犬養</a>とは何事ですか？　<a href=\"../p/ituyosi.html\">犬養</a>は常に元老制廃止を唱えていた男です。\n今更こちの意見を訊くのはおかしいではおへんか」</div>\n<div>と厳しい表情を示した。内田は、</div>\n<div>「<a href=\"../p/ituyosi.html\">犬養</a>は、元老の西園寺公ではなく、元政友会総裁の公爵に御意見を承って来い、という意味で申したのです」</div>\n<div>ととぼけて逃げた。</div>\n<div>結局、<a href=\"../p/skinmoci.html\">西園寺</a>の了解をとりつけたので、昭和四年十月<a href=\"../p/ituyosi.html\">犬養</a>が第六代政友会総裁となった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm_saion.html\">豊田穣 「西園寺公望」</a>\n　下巻　Ｐ．２２５</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>七月二日<a href=\"../1929/tanaa_9.html\">田中内閣が総辞職した</a>とき、<a href=\"../p/oheikici.html\">小川鉄相</a>らは床次内閣を期待して<a href=\"../p/skinmoci.html\">西園寺</a>にもそれを依頼した。\nしかし、<a href=\"../p/skinmoci.html\">西園寺</a>は<a href=\"../p/hosaci.html\">浜口</a>を推薦した。</div>\n<div>九月十八日<a href=\"../p/ttakejir.html\">床次</a>は新党倶楽部を解散し、二十名の同志と共に政友会に復帰した。\n九月二十一日、<a href=\"../p/ttakejir.html\">床次</a>が<a href=\"../p/tgiici.html\">田中</a>を訪問すると、<a href=\"../p/tgiici.html\">田中</a>は<a href=\"../p/ttakejir.html\">床次</a>に総裁を譲りたいといって<a href=\"../p/ttakejir.html\">床次</a>を喜ばせた。\nしかし、その八日後の二十九日、<a href=\"../p/tgiici.html\">田中</a>は急死してしまった。</div>\n<div><a href=\"../p/ttakejir.html\">床次</a>は当然自分にお鉢が回ってくるものと考えていたが、百五十名の代議士を擁する<a href=\"../p/skisabur.html\">鈴木喜三郎</a>派が\nこれに対抗してまたもや内戦状態となった。</div>\n<div>そこで隠居の形になっていた<a href=\"../p/ituyosi.html\">犬養毅</a>をかつぎ出して暫定総裁にしようというので、小泉三申、岡崎邦輔、古島一雄（<a href=\"../p/ituyosi.html\">犬養</a>の参謀長）、\n内田信也らが動き始めた。</div>\n<div><a href=\"../p/stenno.html\">天皇</a>の怒りをかった<a href=\"../p/tgiici.html\">田中</a>が総裁では、次の内閣は回って来ない、というので、<a href=\"../p/ituyosi.html\">犬養</a>かつぎ出しは少し前から匂っていたのだが、\n<a href=\"../p/tgiici.html\">田中</a>の急逝で、内田は<a href=\"../p/ituyosi.html\">犬養</a>の代理として急遽京都の清風荘へ赴いた。</div>\n<div><a href=\"../p/skinmoci.html\">西園寺</a>も、<a href=\"../p/tgiici.html\">田中</a>では政友会に首班は来ないと考えていたが、<a href=\"../p/ituyosi.html\">犬養</a>の名前を聞くと、</div>\n<div>「<a href=\"../p/ituyosi.html\">犬養</a>とは何事ですか？　<a href=\"../p/ituyosi.html\">犬養</a>は常に元老制廃止を唱えていた男です。\n今更こちの意見を訊くのはおかしいではおへんか」</div>\n<div>と厳しい表情を示した。内田は、</div>\n<div>「<a href=\"../p/ituyosi.html\">犬養</a>は、元老の<a href=\"../p/skinmoci.html\">西園寺公</a>ではなく、元政友会総裁の公爵に御意見を承って来い、という意味で申したのです」</div>\n<div>ととぼけて逃げた。</div>\n<div>結局、<a href=\"../p/skinmoci.html\">西園寺</a>の了解をとりつけたので、昭和四年十月<a href=\"../p/ituyosi.html\">犬養</a>が第六代政友会総裁となった。</div>\n<div class=\"txr\"><a href=\"../text/tm2saion.html\">豊田穣 「西園寺公望（下）」</a>\n　Ｐ．２２５<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E5%259C%2592%25E5%25AF%25BA%25E5%2585%25AC%25E6%259C%259B%25E2%2580%2595%25E6%259C%2580%25E5%25BE%258C%25E3%2581%25AE%25E5%2585%2583%25E8%2580%2581%2520%2528%25E4%25B8%258B%25E5%25B7%25BB%2529%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -253,7 +238,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

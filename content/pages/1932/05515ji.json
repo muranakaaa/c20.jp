@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1932.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1932.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -53,17 +62,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1930/11/14　　<a href=\"../1930/11hamax.html\">\n浜口首相狙撃事件</a>　（東京駅／犯人：佐郷屋留雄）"
-      }
-     ]
-    },
-    {
-     "cls": "b",
-     "cells": [
-      {
-       "id": "l",
-       "cls": null,
-       "html": "1931/03/17　　<a href=\"../1931/033gatu.html\">\n三月事件</a>　（桜会によるクーデター未遂）"
+       "html": "1931/03/17　　<a href=\"../1931/033gatu.html\">\n三月事件</a>　（陸軍によるクーデター未遂）"
       }
      ]
     },
@@ -153,6 +152,16 @@
       {
        "id": "l",
        "cls": null,
+       "html": "1932/05/15　　<a href=\"../1932/05nisid.html\">\n西田税暗殺未遂事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
        "html": "1932/05/16　　<a href=\"../1932/inu_9.html\">\n犬養内閣総辞職</a>"
       }
      ]
@@ -174,6 +183,16 @@
        "id": "l",
        "cls": null,
        "html": "1932/05/26　　<a href=\"../1932/saito_1.html\">\n斉藤内閣成立</a>　（首相：<a href=\"../p/smakoto.html\">斉藤実</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/07/11　　<a href=\"../1933/07sinpe.html\">\n神兵隊事件</a>"
       }
      ]
     },
@@ -213,29 +232,11 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1935/02/19　　<a href=\"../1935/02kikan.html\">\n天皇機関説問題</a>　（<a href=\"../p/ktakeo.html\">菊池武夫</a>、貴族院で天皇機関説を非難）"
-      }
-     ]
-    },
-    {
-     "cls": "b",
-     "cells": [
-      {
-       "id": "l",
-       "cls": null,
        "html": "1936/02/26　　<a href=\"../1936/02226ji.html\">\n二・二六事件</a>"
       }
      ]
     }
    ]
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
   },
   {
    "type": "raw",
@@ -249,14 +250,6 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx_sw"
    },
    "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
@@ -265,17 +258,25 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>この日午後五時二十七日、一台の自動車が永田町の首相官邸にすべり込んで来た。\n車から降りたのは、海軍の三上卓中尉、黒岩勇少尉、陸軍士官候補生三人である。</div>\n<div>彼らは警護の村田巡査部長らを拳銃で脅すと日本間にいた<a href=\"../p/ituyosi.html\">犬養総理</a>の前に現れた。\n抵抗する田中巡査の腹部に弾丸を撃ちこむと、三上が<a href=\"../p/ituyosi.html\">犬養</a>に拳銃を向けた。<a href=\"../p/ituyosi.html\">犬養</a>は、</div>\n<div>「あちらで話をしよう」</div>\n<div>と将校たちを食堂の隣りの十五畳の日本間に案内した。</div>\n<div>「話を聞こう」</div>\n<div>と煙草を手にした<a href=\"../p/ituyosi.html\">犬養</a>に、三上は、</div>\n<div>「かつて<a href=\"../p/cyogakur.html\">張学良</a>の倉庫の中から、<a href=\"../p/cyogakur.html\">学良</a>が日本に送った大金の領収書が出て来たが、\nその中には<a href=\"../p/ituyosi.html\">犬養総理</a>のものもまじっていたという。事実はどうか」</div>\n<div>と問うた。</div>\n<div>「ああ、そのことか、それならば話せばわかる」</div>\n<div><a href=\"../p/ituyosi.html\">犬養</a>がそう言ったとき、裏門から入っていた山岸宏中尉が、</div>\n<div>「問答無用、撃て！」</div>\n<div>と叫んだ。</div>\n<div>黒岩が発砲し、<a href=\"../p/ituyosi.html\">犬養</a>は左頬と右こめかみに二弾を受けて倒れた。\n<a href=\"../p/ituyosi.html\">犬養</a>は出血の為午後十一時二十六分死去した。</div>\n<div>三上ら青年将校十八名は、その日の内に憲兵隊に自首した。</div>\n<div>三上や山岸は<a href=\"../p/inissyo.html\">井上日召</a>の血盟団の同調者であるが、その大官暗殺の名目は“昭和維新”であり、\n君側の奸を屠り、国民の敵たる腐敗した既成政党と財閥を倒し、新しい日本を創ることであった。</div>\n<div class=\"txr\"><a href=\"../text/tm2saion.html\">豊田穣 「西園寺公望（下）」</a>\n　Ｐ．２４６<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E5%259C%2592%25E5%25AF%25BA%25E5%2585%25AC%25E6%259C%259B%25E2%2580%2595%25E6%259C%2580%25E5%25BE%258C%25E3%2581%25AE%25E5%2585%2583%25E8%2580%2581%2520%2528%25E4%25B8%258B%25E5%25B7%25BB%2529%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/mnobuaki.html\">牧野内府</a>官邸では、古賀海軍中尉が車から降り、\n手榴弾を紐ぐるみにぎって門を越し中に投げこんだ。\n轟然と爆発したが、それまで門の右側に立って警戒していた巡査が驚いて古賀中尉のほうにかけよってきた。\n古賀がピストルをさしむけると、巡査はおどろいて背中をむけ、門内にかけこんでゆく恰好をした。\nその間一髪に古賀はピストルを発射した。巡査は重症を負うている。</div>\n<div>池松武志は古賀につづいて手榴弾を門内に投げたが、これは不発だった。\nその間、西川武敏は運転手の眼の前に拳銃をつきつけて車が走り去らないように脅迫していた。\nこれらの襲撃に要した時間は四、五分間であった。\nそれから一同は、警視庁の巡査隊と対決するためにそっちに向った。</div>\n<div class=\"txr\"><a href=\"../text/ms4syowa.html\">松本清張 「昭和史発掘（４）」</a>\n　Ｐ．２６０<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167106345%2Fqid%3D1147086434%2Fsr%3D1-13%2Fref%3Dsr_1_0_13\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>狙い撃ちにされた当の犬養の家に限っては、事件ののち、\n一種不思議な<span class=\"bar\">―</span>―そう、安堵感と言ってしまっては些か語弊があるが、\nそれにも通じる静けさが訪れたのであった。</div>\n<div>無論、事件は一家全体に取って、めくるめくドラマであったし、\nめいめいの受け取り方には相違があろうとも、家族ひとりひとりのその後の人生に、\n永く尾を曳く強烈な個人的体験であった。とくにも、唯一の現場目撃者でありながら\n「むざむざと（舅<a href=\"../p/ituyosi.html\">木堂</a>を）撃たせてしまった」嫁である母の苦悩は深かった。</div>\n<div>しかし、その彼女すらも含めて、一家全員が、安らぎとも解放感ともつかぬ気持を味わうようになったことはたしかである。</div>\n<div>来るべきもの<span class=\"bar\">―</span>―のがれっこないもの<span class=\"bar\">―</span>―は、\n来て去って行った。月並な表現を借りれば、嵐のあとの静けさ。</div>\n<div>嵐はすさまじく、むごかった。破壊力に満ち溢れていた。\nしかも、もっと大きな嵐を早晩余波として送って来ることをはっきり示す嵐であった。\nとは言え、とにかく、去ったのである。</div>\n<div class=\"txr\"><a href=\"../text/im_musum.html\">犬養道子 「ある歴史の娘」</a>\n　Ｐ．９<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E3%2581%2582%25E3%2582%258B%25E6%25AD%25B4%25E5%258F%25B2%25E3%2581%25AE%25E5%25A8%2598\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -283,7 +284,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

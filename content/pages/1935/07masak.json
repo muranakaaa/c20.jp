@@ -1,30 +1,39 @@
 {
  "path": "1935/07masak.html",
  "type": "article",
- "title": "真崎教育総監罷免　／ クリック ２０世紀",
+ "title": "真崎教育総監更迭　／ クリック ２０世紀",
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1935.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1935.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
-   "html": "真崎教育総監罷免"
+   "html": "真崎教育総監更迭"
   },
   {
    "type": "title2",
-   "html": "1935/07/16"
+   "html": "1935/07/15"
   },
   {
    "type": "navi2",
@@ -33,7 +42,7 @@
   {
    "type": "headline",
    "cells": [
-    "陸軍の内部抗争に火がついた。　統制派、<a href=\"../p/mjinzabu.html\">真崎教育総監</a>を解任。"
+    "反皇道派、<a href=\"../p/mjinzabu.html\">真崎教育総監</a>解任を強行。　青年将校 いきり立つ。"
    ]
   },
   {
@@ -47,6 +56,26 @@
   {
    "type": "timeline",
    "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/01/23　　<a href=\"../1934/01araki.html\">\n荒木陸相辞任</a>　（後任：<a href=\"../p/hsenjuro.html\">林銑十郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/11/20　　<a href=\"../1934/11sikan.html\">\n士官学校事件</a>"
+      }
+     ]
+    },
     {
      "cls": "b",
      "cells": [
@@ -68,12 +97,22 @@
      ]
     },
     {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/07/11　　<a href=\"../1935/07ikens.html\">\n「粛軍に関する意見書」配布</a>"
+      }
+     ]
+    },
+    {
      "cls": "x",
      "cells": [
       {
        "id": "l",
        "cls": null,
-       "html": "1935/07/16　　<a 1935=\"\" href\"..=\"\" 07masak.html\"=\"\">\n真崎教育総監罷免</a>　（後任：「統制派」<a href=\"../p/wjotaro.html\">渡辺錠太郎</a>）"
+       "html": "1935/07/15　　<a 1935=\"\" href\"..=\"\" 07masak.html\"=\"\">\n真崎教育総監更迭</a>　（後任：「統制派」<a href=\"../p/wjotaro.html\">渡辺錠太郎</a>）"
       }
      ]
     },
@@ -93,7 +132,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1935/08/12　　<a href=\"../1935/08aizaw.html\">\n相沢事件　（永田軍務局長斬殺）</a>"
+       "html": "1935/08/12　　<a href=\"../1935/08aizaw.html\">\n相沢事件</a>　（<a href=\"../p/ntetuzan.html\">永田軍務局長</a>斬殺）"
       }
      ]
     },
@@ -123,25 +162,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -155,17 +178,41 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "<span class=\"m_y\">語録</span>\nここにおいて<a href=\"../p/kkotohit.html\">殿下</a>は仰せられたり（満面朱を注いで叱責せらる）<a href=\"../p/mjinzabu.html\">教育総監</a>は事務の進行を妨害するやと、\n小官これに謹みて奉答して曰く、小官卑賤なりといえどもかかる淋しき思想を有せず。\n小官は日本臣民として、皇族の長老にてあらせらるる<a href=\"../p/kkotohit.html\">殿下</a>の御意に副い奉ることをえざるは実に苦しく、\n只今ここに身の置き所を苦しみつつあり。\nいかでか<a href=\"../p/kkotohit.html\">殿下</a>に抗争する不都合なる精神を有せんや。\nしかれども小官は、天皇陛下の教育総監として、教育大権輔弼の責に任ずる者なり。\nしかるに今建軍の本義たる大綱が絶たれんとしつつあり。\n小官これに同意することはできがたし。もしこれを強行せらるるときは軍は思想的に混乱し、これが統一困難なるべし。\n只今ここにて即決せられずとも、二、三日互いに研究する余裕を与えられたしと。\n<a href=\"../p/kkotohit.html\">殿下</a>は最後に仰せられたり。このままにて行けば何事か起るやも知れざれども、その時には、\nこれに対応する処置も<a href=\"../p/hsenjuro.html\">大臣</a>にあるべし。このままにて行かんと。これにて三長官会議は終れり。\n<div class=\"r\"><a href=\"../p/mjinzabu.html\">真崎甚三郎</a>　（教育総監）</div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "cm"
    },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "<span class=\"m_y\">語録</span>\n<a href=\"../p/hsenjuro.html\">林陸相</a>ははじめ<a href=\"../p/mjinzabu.html\">真崎</a>、\n<a href=\"../p/asadao.html\">荒木</a>両将軍の推薦を受けて総監となり、ついで陸相に任ぜられたり。\nつねに<a href=\"../p/asadao.html\">荒木</a>、<a href=\"../p/mjinzabu.html\">真崎</a>と心中す、\n協力してことをなすと。しかるに今は裏切者たり。\n人事に対し別に定見あるにあらず、つねに輿論と噂とにて人事を行われあり。\n<div class=\"r\">松浦淳六郎　（元陸軍省人事局長）</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "cm"
+   },
+   "html": "<span class=\"m_y\">語録</span>\n十五日三長官会議の一時間くらい前、<a href=\"../p/hsenjuro.html\">大臣</a>より<a href=\"../p/mjinzabu.html\">総監</a>に\n会見を申込みしをもって会せしに、<a href=\"../p/hsenjuro.html\">大臣</a>より<a href=\"../p/mjinzabu.html\">君</a>が総監の職を退くことを納得しくるれば、\n他の八月異動は全部<a href=\"../p/mjinzabu.html\">君</a>の思うとおりにやるとのことなりしも、\n<a href=\"../p/mjinzabu.html\">総監</a>は断然拒絶せられたり。\n八月異動に対する<a href=\"../p/hsenjuro.html\">大臣</a>の信念いずこにありや、\nただ<a href=\"../p/mjinzabu.html\">総監</a>を退かしむことに重点を置くのみ。\n<div class=\"r\">松浦淳六郎　（元陸軍省人事局長）</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "cm"
+   },
+   "html": "<span class=\"m_y\">語録</span>\n<a href=\"../p/mjinzabu.html\">真崎</a>罷免劇の主役中の主役は、皇族という特権を全面的に回転させて、最後の最後まで流動的で及び腰であった<a href=\"../p/hsenjuro.html\">林陸相</a>や\nその幕僚どもを叱咤激励しつづけた<a href=\"../p/kkotohit.html\">閑院宮総長</a>であったということができる。<br>\n<a href=\"../p/mjinzabu.html\">真崎</a>罷免はこの<a href=\"../p/kkotohit.html\">閑院宮</a>の活躍によってはじめて実現したのである。\n<div class=\"r\">田崎末松　（作家）</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>昭和十年七月、軍中央では新たな権力闘争が起こっていた。\n<a href=\"../p/hsenjuro.html\">林陸相</a>と<a href=\"../p/mjinzabu.html\">真崎</a>が人事をめぐって応酬していた。</div>\n<div>「こんどの人事異動は、私の手で行ないたい。\nついてはこの際、君も現役を退いてもらえないか」</div>\n<div>顔色のかわった<a href=\"../p/mjinzabu.html\">真崎</a>を無視して、<a href=\"../p/hsenjuro.html\">林</a>はことばを足した。<a href=\"../p/hsenjuro.html\">林</a>も内心ではふるえていた。</div>\n<div>「部内の総意なのだ。君が派閥の中心となって統制を乱しているのが、その理由だ」</div>\n<div>「それはおかしいではないか。天皇のこの軍隊は部内の総意で動くのか」</div>\n<div><a href=\"../p/hsenjuro.html\">林</a>のもとには人事局長今井清、陸軍次官柳川平助の作成した案が届いている。\nそれとは別に<a href=\"../p/ntetuzan.html\">永田</a>や参謀次長<a href=\"../p/shajime.html\">杉山元</a>が加わっての人事構想もできあがっている。\nふたつの案とも山岡重厚、<a href=\"../p/otosisir.html\">小畑敏四郎</a>、<a href=\"../p/ytomoyuk.html\">山下奉文</a>、鈴木率道ら<a href=\"../p/asadao.html\">荒木</a>、<a href=\"../p/mjinzabu.html\">真崎</a>系の将校を省部から外すのを眼目としている。\nこの事情を知った<a href=\"../p/mjinzabu.html\">真崎</a>は激しく抵抗した。\n三回にわたる話し合いでも、<a href=\"../p/hsenjuro.html\">林</a>の決意は動かない。\nすると<a href=\"../p/mjinzabu.html\">真崎</a>は、「こんな筋のとおらない人事を強行すれば何が起こるかわからない」と脅した。\n軍の最高人事は陸軍大臣、参謀総長、教育総監の三長官で決めるという内規があるではないか。\nそれに陛下の教育総監として仕えている以上、私の意見を無視するのは統帥権干犯ではないか\n<span class=\"bar\">―</span>―<a href=\"../p/mjinzabu.html\">真崎</a>はくり返した。この意見を<a href=\"../p/hsenjuro.html\">林</a>は退けた。</div>\n<div>青年将校は<a href=\"../p/mjinzabu.html\">真崎</a>に加担した。\n彼らは「天皇の大権を侵すのは、<a href=\"../p/ntetuzan.html\">永田</a>と<a href=\"../p/hsenjuro.html\">林</a>だ」と軍内にふれ回り、<a href=\"../p/hsenjuro.html\">林</a>は<a href=\"../p/ntetuzan.html\">永田</a>のロボットだから、\n元兇は<a href=\"../p/ntetuzan.html\">永田</a>であると公言した。</div>\n<div>七月十五日、<a href=\"../p/mjinzabu.html\">真崎</a>の罷免が決まり、皇道派の重鎮は軍中央から消えた。\n青年将校の怒りは頂点に達し、<a href=\"../p/ntetuzan.html\">永田</a>の周囲では、テロの危険があるから外遊でもしたらどうかという声があがった。</div>\n<div class=\"txr\"><a href=\"../text/hm1tojoh.html\">保阪正康 「東條英機と天皇の時代（上）」</a>\n　Ｐ．１３２<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%259D%25B1%25E6%25A2%259D%25E8%258B%25B1%25E6%25A9%259F%25E3%2581%25A8%25E5%25A4%25A9%25E7%259A%2587%25E3%2581%25AE%25E6%2599%2582%25E4%25BB%25A3\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -173,11 +220,17 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",
-   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1935.html\">１９３５年</a>\n ＞ <a href=\"#h\">真崎教育総監罷免</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1935.html\">１９３５年</a>\n ＞ <a href=\"#h\">真崎教育総監更迭</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
   }
  ]
 }

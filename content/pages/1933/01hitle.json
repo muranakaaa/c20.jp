@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1933.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1933.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -253,25 +262,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -285,9 +278,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>七月末の選挙では、ナチ党は予想通り第一党になり、反共和国勢力は過半数を超えたが、政府を支持する党派は国会の五パーセントもなかった。</div>\n<div><a href=\"../p/papen_f.html\">パーペン</a>、大統領とも<a href=\"../p/hitler_a.html\">ヒトラー</a>を首相にする気はなく、一方、<a href=\"../p/hitler_a.html\">ヒトラー</a>は首相職を要求して譲らなかったから、\nナチ党は政府との対決路線に戻った。\n<a href=\"../p/papen_f.html\">パーペン</a>は開会したばかりの国会をすぐに解散するという暴挙に出て、三二年は全ドイツが選挙づけの年になった。\n選挙の結果、政府に何の展望ももたらさなかったが、ナチ党ははじめて二〇〇万票を失って後退した。\nすでにそれ以前から、ナチ党内部で<a href=\"../p/hitler_a.html\">ヒトラー</a>の「すべてか無か」の方針には危惧感が生まれていた。\n選挙後のナチ党内部文書も、支持基盤の流動性を指摘し、政権に参加して積極的な成果を示さなければ、\nまた二〇年代の中核党員だけの運動に逆戻りする、と警告した。</div>\n<div>一方、<a href=\"../p/papen_f.html\">パーペン</a>には、もはや軍を頼りにした大統領独裁の道しか残されていなかった。\n軍の黒幕で国防相の<a href=\"../p/schlei_k.html\">シュライヒャー</a>が協力を拒否すると、大統領もお気に入りの<a href=\"../p/papen_f.html\">パーペン</a>を辞任させるしかなく、\nついに黒幕がみずから表舞台に出てきた。\n<a href=\"../p/schlei_k.html\">シュライヒャー新首相</a>は、ナチ党内の動揺を見越してナチ党議員団長シュトラッサーを抱きこみ、\n社会民主党系の労働組合も引きいれて、大衆的軍事独裁路線を構想した。\nシュトラッサーは乗り気だったが、<a href=\"../p/hitler_a.html\">ヒトラー</a>は頑として譲らず、シュトラッサーは全役職を辞任して去った。\nこの事件で、ナチ党はやはり<a href=\"../p/hitler_a.html\">ヒトラー</a>の党であることが証明された。\nこうなっては、<a href=\"../p/schlei_k.html\">シュライヒャー</a>もなすすべがなかった。</div>\n<div><a href=\"../p/papen_f.html\">パーペン</a>はこの間<a href=\"../p/schlei_k.html\">シュライヒャー</a>に一泡吹かせる機会をうかがい、<a href=\"../p/hitler_a.html\">ヒトラー</a>とひそかに接触し、\nヒトラー政権に逡巡する大統領の説得の説得に成功した。\n一九三三年一月末、大統領内閣路線が破綻し、国会の出番がきたとき、第一党として待機していたのはナチ党であった。\n保守派の陰謀は皮肉にも国会への復帰をもたらしたが、それは議会主義そのものの終焉となったのである。</div>\n<div class=\"txr\"><a href=\"../text/ks_nse26.html\">木村靖二・柴宜弘・長沼秀世 「世界の歴史（26）」</a>\n　Ｐ．２４４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E4%25B8%2596%25E7%2595%258C%25E5%25A4%25A7%25E6%2588%25A6%25E3%2581%25A8%25E7%258F%25BE%25E4%25BB%25A3%25E6%2596%2587%25E5%258C%2596%25E3%2581%25AE%25E9%2596%258B%25E5%25B9%2595%2520%2520%2520%2520%25E4%25B8%2596%25E7%2595%258C%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -295,15 +288,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>七月末の選挙では、ナチ党は予想通り第一党になり、反共和国勢力は過半数を超えたが、政府を支持する党派は国会の五パーセントもなかった。</div>\n<div><a href=\"../p/papen_f.html\">パーペン</a>、大統領とも<a href=\"../p/hitler_a.html\">ヒトラー</a>を首相にする気はなく、一方、<a href=\"../p/hitler_a.html\">ヒトラー</a>は首相職を要求して譲らなかったから、\nナチ党は政府との対決路線に戻った。\n<a href=\"../p/papen_f.html\">パーペン</a>は開会したばかりの国会をすぐに解散するという暴挙に出て、三二年は全ドイツが選挙づけの年になった。\n選挙の結果、政府に何の展望ももたらさなかったが、ナチ党ははじめて二〇〇万票を失って後退した。\nすでにそれ以前から、ナチ党内部で<a href=\"../p/hitler_a.html\">ヒトラー</a>の「すべてか無か」の方針には危惧感が生まれていた。\n選挙後のナチ党内部文書も、支持基盤の流動性を指摘し、政権に参加して積極的な成果を示さなければ、\nまた二〇年代の中核党員だけの運動に逆戻りする、と警告した。</div>\n<div>一方、<a href=\"../p/papen_f.html\">パーペン</a>には、もはや軍を頼りにした大統領独裁の道しか残されていなかった。\n軍の黒幕で国防相の<a href=\"../p/schlei_k.html\">シュライヒャー</a>が協力を拒否すると、大統領もお気に入りの<a href=\"../p/papen_f.html\">パーペン</a>を辞任させるしかなく、\nついに黒幕がみずから表舞台に出てきた。\n<a href=\"../p/schlei_k.html\">シュライヒャー新首相</a>は、ナチ党内の動揺を見越してナチ党議員団長シュトラッサーを抱きこみ、\n社会民主党系の労働組合も引きいれて、大衆的軍事独裁路線を構想した。\nシュトラッサーは乗り気だったが、<a href=\"../p/hitler_a.html\">ヒトラー</a>は頑として譲らず、シュトラッサーは全役職を辞任して去った。\nこの事件で、ナチ党はやはり<a href=\"../p/hitler_a.html\">ヒトラー</a>の党であることが証明された。\nこうなっては、<a href=\"../p/schlei_k.html\">シュライヒャー</a>もなすすべがなかった。</div>\n<div><a href=\"../p/papen_f.html\">パーペン</a>はこの間<a href=\"../p/schlei_k.html\">シュライヒャー</a>に一泡吹かせる機会をうかがい、<a href=\"../p/hitler_a.html\">ヒトラー</a>とひそかに接触し、\nヒトラー政権に逡巡する大統領の説得の説得に成功した。\n一九三三年一月末、大統領内閣路線が破綻し、国会の出番がきたとき、第一党として待機していたのはナチ党であった。\n保守派の陰謀は皮肉にも国会への復帰をもたらしたが、それは議会主義そのものの終焉となったのである。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ks_nse26.html\">木村靖二・柴宜弘・長沼秀世 「世界の歴史（26）」</a>\n　Ｐ．２４４</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s4\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>一九三三年一月三十日、ヒトラー内閣が成立すると、首相・大統領官邸のあるヴィルヘルム通りは、\nナチス突撃隊や鉄かぶと団のたいまつ行列が夜遅くまで続いた。\nヒトラー内閣といっても、ナチ党員は首相の<a href=\"../p/hitler_a.html\">ヒトラー</a>と内相のフリック、無任所相兼プロイセン内務国家委員<a href=\"../p/goring_h.html\">ゲーリング</a>の三名にすぎず、\n他の閣僚ポストは副首相<a href=\"../p/papen_f.html\">パーペン</a>、経済相と農業食糧相を兼ね経済独裁者といわれたフーゲンベルクなど、\n反共和国的保守派か保守的専門家が占めた。</div>\n<div><a href=\"../p/papen_f.html\">パーペン</a>は<a href=\"../p/hitler_a.html\">ヒトラー首相</a>誕生に不安をみせる知人に、「われわれはナチスを政府に取りこんだ。\n私には大統領の信任があり、二ヵ月以内に<a href=\"../p/hitler_a.html\">ヒトラー</a>を追いつめぎゅっといわせてやる」と豪語した。\n保守派はナチスを「包囲し」、「飼い慣らせる」と信じていた。\n社会民主党も共産党も、内閣は短命に終わり、その後に自分たちの出番があると考えた。</div>\n<div class=\"txr\"><a href=\"../text/ks_nse26.html\">木村靖二・柴宜弘・長沼秀世 「世界の歴史（26）」</a>\n　Ｐ．３０９<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E4%25B8%2596%25E7%2595%258C%25E5%25A4%25A7%25E6%2588%25A6%25E3%2581%25A8%25E7%258F%25BE%25E4%25BB%25A3%25E6%2596%2587%25E5%258C%2596%25E3%2581%25AE%25E9%2596%258B%25E5%25B9%2595%2520%2520%2520%2520%25E4%25B8%2596%25E7%2595%258C%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -311,23 +296,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>一九三三年一月三十日、ヒトラー内閣が成立すると、首相・大統領官邸のあるヴィルヘルム通りは、\nナチス突撃隊や鉄かぶと団のたいまつ行列が夜遅くまで続いた。\nヒトラー内閣といっても、ナチ党員は首相の<a href=\"../p/hitler_a.html\">ヒトラー</a>と内相のフリック、無任所相兼プロイセン内務国家委員<a href=\"../p/goring_h.html\">ゲーリング</a>の三名にすぎず、\n他の閣僚ポストは副首相<a href=\"../p/papen_f.html\">パーペン</a>、経済相と農業食糧相を兼ね経済独裁者といわれたフーゲンベルクなど、\n反共和国的保守派か保守的専門家が占めた。</div>\n<div><a href=\"../p/papen_f.html\">パーペン</a>は<a href=\"../p/hitler_a.html\">ヒトラー首相</a>誕生に不安をみせる知人に、「われわれはナチスを政府に取りこんだ。\n私には大統領の信任があり、二ヵ月以内に<a href=\"../p/hitler_a.html\">ヒトラー</a>を追いつめぎゅっといわせてやる」と豪語した。\n保守派はナチスを「包囲し」、「飼い慣らせる」と信じていた。\n社会民主党も共産党も、内閣は短命に終わり、その後に自分たちの出番があると考えた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ks_nse26.html\">木村靖二・柴宜弘・長沼秀世 「世界の歴史（26）」</a>\n　Ｐ．３０９</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "tx"
-   },
-   "html": "\n<div>一九三三年一月三十日。その日、ベルリンの町並は雪にけむっていた。\n午前十一時ごろ首相官邸にはいった<a href=\"../p/hitler_a.html\">ヒトラー</a>は、最後の折衝にやや手間どったが、しかし正午ごろには、\nついにみずからを首班とする新政府の宣誓式にこぎつけることができた。</div>\n<div>「わたしはつぎのことを誓います。\nわたしはドイツ国民の福祉のために力をつくし、ドイツ国民の憲法と法律をまもり、わたしは課せられた義務を誠実に履行し・・・・・・」</div>\n<div>ワイマル時代の先例にならって、まず新首相の<a href=\"../p/hitler_a.html\">ヒトラー</a>が<a href=\"../p/hinden_p.html\">ヒンデンブルク大統領</a>のまえにすすみで、\n右手をあげてこのように宣誓した。\nつづいて、他の閣僚たちもそれにならった。\n当時すでに八十五歳の高齢に達していた<a href=\"../p/hinden_p.html\">ヒンデンブルク大統領</a>は、じっと閣僚たちの宣誓に耳をかたむけていたが、\n最後にただひとことこういった。「では諸君、神とともにすすまれんことを！」</div>\n<div>これで宣誓式はおわった。\nここに、<a href=\"../p/hitler_a.html\">ヒトラー</a>を首班とするドイツのあたらしい政府が正式に誕生したのである。</div>\n<div>その夜のベルリンは、ブランデンブルク門付近を中心に夜っぴて喧騒につつまれる。\n制服を着たナチスの突撃隊員、親衛隊員、ヒトラー青年団、それに老若男女をまじえた一般市民\n<span class=\"bar\">―</span>―これらのひとたちの織りなす松明行進の列が、\nつぎからつぎへとひきもきらずにブランデンブルク門をくぐりぬけ、首相官邸のあるヴィルヘルム通りにむかって行進した。\n歌い、叫び、鉤十字の旗をうちふりながら。\n午後七時ごろにはじまったこの光と興奮の列は、夜半をすぎてもなおたえなかった。</div>\n<div>あかりのついた首相官邸の窓ぎわでは、<a href=\"../p/hinden_p.html\">ヒンデンブルク大統領</a>も、ステッキを手にじっと外の光景をみいっていた。\nが、その夜官邸のまえを通りすぎる群衆の関心は、この老大統領のほうにはない。\nそこからすこしはなれた別の窓では、<a href=\"../p/hitler_a.html\">ヒトラー</a>が彼独特の大きな身ぶりで行進の列にむかって挨拶をおくっていた。\nいうまでもなく、彼こそは、この夜のベルリン子たちの陶酔のたねであった。</div>\n<div>ヒトラー政権誕生の報によって興奮につつまれたのは、なにも首都のベルリンばかりではなかった。\nベルリンの模様は、ラジオでドイツ全土に放送された。\nそして他の多くの都市でも、ベルリンにならった祝賀行進の列が、ナチスの党員や一般市民によって組まれた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/nn1hitle.html\">野田宣雄 「ヒトラーの時代（上）」</a>\n　Ｐ．１９</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>一九三三年一月三十日。その日、ベルリンの町並は雪にけむっていた。\n午前十一時ごろ首相官邸にはいった<a href=\"../p/hitler_a.html\">ヒトラー</a>は、最後の折衝にやや手間どったが、しかし正午ごろには、\nついにみずからを首班とする新政府の宣誓式にこぎつけることができた。</div>\n<div>「わたしはつぎのことを誓います。\nわたしはドイツ国民の福祉のために力をつくし、ドイツ国民の憲法と法律をまもり、わたしは課せられた義務を誠実に履行し・・・・・・」</div>\n<div>ワイマル時代の先例にならって、まず新首相の<a href=\"../p/hitler_a.html\">ヒトラー</a>が<a href=\"../p/hinden_p.html\">ヒンデンブルク大統領</a>のまえにすすみで、\n右手をあげてこのように宣誓した。\nつづいて、他の閣僚たちもそれにならった。\n当時すでに八十五歳の高齢に達していた<a href=\"../p/hinden_p.html\">ヒンデンブルク大統領</a>は、じっと閣僚たちの宣誓に耳をかたむけていたが、\n最後にただひとことこういった。「では諸君、神とともにすすまれんことを！」</div>\n<div>これで宣誓式はおわった。\nここに、<a href=\"../p/hitler_a.html\">ヒトラー</a>を首班とするドイツのあたらしい政府が正式に誕生したのである。</div>\n<div>その夜のベルリンは、ブランデンブルク門付近を中心に夜っぴて喧騒につつまれる。\n制服を着たナチスの突撃隊員、親衛隊員、ヒトラー青年団、それに老若男女をまじえた一般市民\n<span class=\"bar\">―</span>―これらのひとたちの織りなす松明行進の列が、\nつぎからつぎへとひきもきらずにブランデンブルク門をくぐりぬけ、首相官邸のあるヴィルヘルム通りにむかって行進した。\n歌い、叫び、鉤十字の旗をうちふりながら。\n午後七時ごろにはじまったこの光と興奮の列は、夜半をすぎてもなおたえなかった。</div>\n<div>あかりのついた首相官邸の窓ぎわでは、<a href=\"../p/hinden_p.html\">ヒンデンブルク大統領</a>も、ステッキを手にじっと外の光景をみいっていた。\nが、その夜官邸のまえを通りすぎる群衆の関心は、この老大統領のほうにはない。\nそこからすこしはなれた別の窓では、<a href=\"../p/hitler_a.html\">ヒトラー</a>が彼独特の大きな身ぶりで行進の列にむかって挨拶をおくっていた。\nいうまでもなく、彼こそは、この夜のベルリン子たちの陶酔のたねであった。</div>\n<div>ヒトラー政権誕生の報によって興奮につつまれたのは、なにも首都のベルリンばかりではなかった。\nベルリンの模様は、ラジオでドイツ全土に放送された。\nそして他の多くの都市でも、ベルリンにならった祝賀行進の列が、ナチスの党員や一般市民によって組まれた。</div>\n<div class=\"txr\"><a href=\"../text/nn1hitle.html\">野田宣雄 「ヒトラーの時代（上）」</a>\n　Ｐ．１９<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E3%2583%2592%25E3%2583%2588%25E3%2583%25A9%25E3%2583%25BC%25E3%2581%25AE%25E6%2599%2582%25E4%25BB%25A3%2520%25E4%25B8%258A%2520%25281%2529%2520%2520%2520%2520%25E8%25AC%259B%25E8%25AB%2587%25E7%25A4%25BE%25E5%25AD%25A6%25E8%25A1%2593%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -335,7 +304,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

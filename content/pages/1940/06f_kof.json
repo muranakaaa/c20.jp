@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1940.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1940.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -213,25 +222,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -245,9 +238,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>六月四日に<a href=\"../1940/05dunke.html\">ダンケルクからの撤兵</a>が完了すると、こんどはフランスの苦悶が始まった。\n翌五日、ドイツ軍は南方進撃を開始し、十三日にはパリを占領、さらに二日後には、一九一六年の戦闘でドイツ軍が敗北した因縁の地、\nヴェルダンに進撃した。\nドイツ軍のパリ入城とともにフランス政府はボルドーに移り、<a href=\"../p/daladi_e.html\">ダラディエ</a>に代わって三ヵ月まえから政権をとっていた\nポール・レイノーは辞職して、<a href=\"../p/petain_h.html\">アンリ・ペタン元帥</a>が後を継いだ。\nドイツ軍に和を求めたのは、皮肉にも、この「ヴェルダンの英雄」であった。\n六月二十二日、フランス側はきびしい休戦条項を呑んだ。\n場所はコンピエーニュ、これまた皮肉にも、前大戦でドイツが休戦条約を結んだ因縁の地であった。\nそして、休戦条約の結果成立したヴィシー政府は、第三共和国憲法を廃し、国会を無期停会とし、大統領制を廃して、\n<a href=\"../p/petain_h.html\">ペタン</a>みずからが国家の元首となった。\n敗戦フランスの政治変革はドイツやイタリア全体主義体制の採用を意味し、大革命以来のフランスの伝統を破るものであった。\n他方、このようなドイツの絶対優勢の戦況を目撃した<a href=\"../p/mussol_b.html\">ムッソリーニ</a>は、漁夫の利を望んで、\nフランス降伏の十二日まえに<a href=\"../1940/06i_san.html\">参戦</a>した。</div>\n<div class=\"txr\"><a href=\"../text/ia_gaise.html\">今津晃 「概説現代史」</a>\n　Ｐ．２１３<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%25A6%2582%25E8%25AA%25AC%25E7%258F%25BE%25E4%25BB%25A3%25E5%258F%25B2%2520%2520%2520%2520%25E5%2589%25B5%25E5%2585%2583%25E9%2581%25B8%25E6%259B%25B8\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -255,7 +248,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>六月四日に<a href=\"../1940/05dunke.html\">ダンケルクからの撤兵</a>が完了すると、こんどはフランスの苦悶が始まった。\n翌五日、ドイツ軍は南方進撃を開始し、十三日にはパリを占領、さらに二日後には、一九一六年の戦闘でドイツ軍が敗北した因縁の地、\nヴェルダンに進撃した。\nドイツ軍のパリ入城とともにフランス政府はボルドーに移り、<a href=\"../p/daladi_e.html\">ダラディエ</a>に代わって三ヵ月まえから政権をとっていた\nポール・レイノーは辞職して、<a href=\"../p/petain_h.html\">アンリ・ペタン元帥</a>が後を継いだ。\nドイツ軍に和を求めたのは、皮肉にも、この「ヴェルダンの英雄」であった。\n六月二十二日、フランス側はきびしい休戦条項を呑んだ。\n場所はコンピエーニュ、これまた皮肉にも、前大戦でドイツが休戦条約を結んだ因縁の地であった。\nそして、休戦条約の結果成立したヴィシー政府は、第三共和国憲法を廃し、国会を無期停会とし、大統領制を廃して、\n<a href=\"../p/petain_h.html\">ペタン</a>みずからが国家の元首となった。\n敗戦フランスの政治変革はドイツやイタリア全体主義体制の採用を意味し、大革命以来のフランスの伝統を破るものであった。\n他方、このようなドイツの絶対優勢の戦況を目撃した<a href=\"../p/mussol_b.html\">ムッソリーニ</a>は、漁夫の利を望んで、\nフランス降伏の十二日まえに<a href=\"../1940/06i_san.html\">参戦</a>した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ia_gaise.html\">今津晃 「概説現代史」</a>\n　Ｐ．２１３</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>ダンケルク陥落の翌日から、ドイツ軍はパリ方面への攻撃にうつった。\nこれとともに、フランスの興亡をかけた戦闘がはじまった。</div>\n<div>しかし、はやくも数日後には、この戦闘もフランス側にとって見込みのないことがあきらかとなる。\n六月十一日には、フランス政府は、パリを去ってツールに居をうつさねばならなかった。\nしかも、おなじ日イタリアの参戦がつたえられ、フランスの立場は、ますます不利となった。</div>\n<div>ドイツ軍がパリにはいってから二日後の十六日、<a href=\"../p/petain_h.html\">ペタン元帥</a>を首班とするフランスの新政府が組織され、\n翌日スペインを介してドイツに休戦を申しいれた。\n独仏間の休戦協定は、二十二日、<a href=\"../p/hitler_a.html\">ヒトラー</a>自身の出席のもとにコンピエーニュの森で調印された。\nコンピエーニュの森といえば、一九一八年十一月に第一次大戦の休戦協定が成立した場所である。\n二十年あまりの間隔をおいておなじ場所で、勝者と敗者がところをかえた休戦がむすばれたのだった。</div>\n<div>この休戦協定によれば、パリなどをふくむ北部フランス<span class=\"bar\">―</span>―およそフランス領土の五分の二\n<span class=\"bar\">―</span>―は、ドイツによって占領されることとなった。\nそして、ドイツに占領されないのこりの地域は、ヴィシーに居をおくペタン政権の統治にゆだねられることとなった。\nこの政権は権威主義的・保守的性格がつよく、八十歳をこえた老元帥<a href=\"../p/petain_h.html\">ペタン</a>は、「フランス国主席」として、\n大統領と首相の地位を兼ねる。</div>\n<div class=\"txr\"><a href=\"../text/nn2hitle.html\">野田宣雄 「ヒトラーの時代（下）」</a>\n　Ｐ．７４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E3%2583%2592%25E3%2583%2588%25E3%2583%25A9%25E3%2583%25BC%25E3%2581%25AE%25E6%2599%2582%25E4%25BB%25A3%2520%25E4%25B8%258B%25E3%2580%2580%2520%25E8%25AC%259B%25E8%25AB%2587%25E7%25A4%25BE%25E5%25AD%25A6%25E8%25A1%2593%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -263,7 +256,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

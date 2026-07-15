@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1935.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1935.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -93,7 +102,7 @@
       {
        "id": "l",
        "cls": null,
-       "html": "1935/08/12　　<a href=\"../1935/08aizaw.html\">\n相沢事件　（永田軍務局長斬殺）</a>"
+       "html": "1935/08/12　　<a href=\"../1935/08aizaw.html\">\n相沢事件</a>　（<a href=\"../p/ntetuzan.html\">永田軍務局長</a>斬殺）"
       }
      ]
     },
@@ -133,25 +142,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -165,17 +158,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>固い決意をもっていた<a href=\"../p/mtatukic.html\">美濃部</a>も、九月に入ってついに公職を辞退する決意を固めた。\nそれはもっぱら<a href=\"../p/mjoji.html\">松本烝治</a>の説得によるもので、それまで最後まで頑張るべきだといっていた<a href=\"../p/mjoji.html\">松本</a>も、\n司法省で友人の中島次官、大森洪太民事局長と会い<a href=\"../p/mtatukic.html\">美濃部</a>の起訴問題について懇談した結果だった。</div>\n<div>すなわち、<a href=\"../p/mjoji.html\">松本</a>は、詔勅批判の件で起訴せざるを得ないという司法省の強硬意見を聞き、かつ、\n次官と局長から、<a href=\"../p/mtatukic.html\">美濃部</a>が公職を辞退するなら起訴猶予とするから何とか辞職の方向にすすめてくれ、\nとたのまれたためであった。\nそこで<a href=\"../p/mjoji.html\">松本</a>は、<a href=\"../p/mtatukic.html\">美濃部</a>が起訴されると公判が開かれる、そうなると<a href=\"../1935/02kikan.html\">機関説問題</a>は彼に攻撃が集中し、また、\nその公判段階から<a href=\"../p/ikitokur.html\">一木</a>や金森に当然災いを及ぼすことになり、\nさらに<a href=\"../p/mtatukic.html\">美濃部</a>の身の上にどんなことが起るかもしれないと考えて説得したのだった。</div>\n<div>「九月九日の夜のことだったとおぼえている。\n<a href=\"../p/mjoji.html\">松本（烝治）博士</a>は父と懇談し、公職を辞退することをすすめられた。\n父は案外あっさりと<a href=\"../p/mjoji.html\">松本博士</a>のすすめに従った。\n全くあっけないようだった。\n隣りに住んでいた私も呼ばれ、『亮吉、貴族院をやめることにしたよ』と笑いながら言った。\n・・・・・・いろいろ考えた末、いくら反抗しても、こういう時勢ではどうにもならない。\nしかし、父はあくまで、辞職したから起訴猶予になったという形は取りたくない、起訴猶予になってから、\n世間を騒がして相すまなかったということで公職を辞退することにしたいと主張した。\nそして、父のいい分が通った」（美濃部亮吉「苦悶するデモクラシー」）</div>\n<div><a href=\"../p/mjoji.html\">松本烝治</a>は<a href=\"../p/mtatukic.html\">美濃部</a>の内意を司法省に伝えた。\n司法省は大いによろこび、九月十四日<a href=\"../p/mtatukic.html\">美濃部</a>に再度検事局への出頭を命じ、現在の心境を問うた。</div>\n<div><a href=\"../p/mtatukic.html\">美濃部</a>は、公職を辞退するつもりであると述べたので、九月十九日、<a href=\"../p/mtatukic.html\">美濃部</a>に起訴猶予の内定がなされた。\n起訴猶予といっても有罪は有罪である。\n<a href=\"../p/mtatukic.html\">美濃部</a>の著書が出版法に抵触しているので、これを有罪としたのだ。\n<a href=\"../p/mtatukic.html\">美濃部</a>は、その決定が公表される二十一日、貴族院議員辞職を公に声明した。</div>\n<div class=\"txr\"><a href=\"../text/ms6syowa.html\">松本清張 「昭和史発掘（６）」</a>\n　Ｐ．２１８<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167106361%2Fqid%3D1147086434%2Fsr%3D1-12%2Fref%3Dsr_1_0_12\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -183,7 +168,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

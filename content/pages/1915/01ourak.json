@@ -5,7 +5,8 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
@@ -15,8 +16,16 @@
    "html": "<a name=\"h\"></a>"
   },
   {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1915.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1915.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -123,25 +132,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -155,17 +148,17 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>この前年（大正三年）十二月七日召集の第三十五議会で、海軍の予算案は通ったが、\n岡市之助陸相と<a href=\"../p/ukazusig.html\">宇垣一成軍事課長</a>の苦心にも拘らず、陸軍の二個師団増設案は政友、国民二党の反対によって葬り去られ、\n<a href=\"../p/osigenob.html\">大隈</a>は議会を解散、翌四年三月二十五日総選挙ということになった。\n<a href=\"../p/osigenob.html\">大隈</a>は警察官僚で、第二回総選挙の干渉で悪名の高い<a href=\"../p/okanetak.html\">大浦兼武農商務相</a>を内相専任として選挙の取締りに当らせる一方、\n<a href=\"../p/ikaoru.html\">井上</a>を通じて三井三菱の金（『原敬日記』によると百六十万円）を放出せしめ買収に努めた。</div>\n<div>その甲斐あってか、総選挙の結果は与党の大勝利となった。\n同志会の百五十名を中心に三百八十一の議席の内与党は二百四十一名と過半数を制した。\n政友会は<a href=\"../p/osigenob.html\">大隈</a>側の恥を知らぬ買収（直前に一人五千円を贈ったという）や干渉（新聞の多くは政府側についた）の為に大敗を喫し、\n八十名を減じて百四名となってしまった。\n国民党も五名減じて二十七名となり、憲政擁護の旗印を掲げて国民の支持を得て来た両党はここに大きく後退し、\n大正デモクラシーの前途は楽観を許さぬものとなって来た。</div>\n<div class=\"txr\"><a href=\"../text/tm2saion.html\">豊田穣 「西園寺公望（下）」</a>\n　Ｐ．７４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E5%259C%2592%25E5%25AF%25BA%25E5%2585%25AC%25E6%259C%259B%25E2%2580%2595%25E6%259C%2580%25E5%25BE%258C%25E3%2581%25AE%25E5%2585%2583%25E8%2580%2581%2520%2528%25E4%25B8%258B%25E5%25B7%25BB%2529%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
+    "class": "tx"
    },
-   "html": "\n<div>ああああああああああああああああ</div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>青島攻略の戦勝気分に乗り、この年３月、総選挙が実施された。\n<a href=\"../p/osigenob.html\">大隈首相</a>は主要停車場に展望車を止めて車上から与党候補を応援、さらに演説録音のレコードを候補者に配る録音演説戦法を編み出した。\nさらに前例のなかった首相、閣僚大動員の応援態勢を敷き、大隈伯後援会を全国に広げた。</div>\n<div>財閥の資金を受け、与党候補者に公認料を出す先例をつくり、養嗣子信常が出馬した前橋では投票前日、\n全有権者に電報を打ち勝敗を決めた。</div>\n<div>一方で選挙干渉も大々的に行った。</div>\n<div>議会解散後、<a href=\"../p/osigenob.html\">首相</a>は警視総監経験者の<a href=\"../p/okanetak.html\">大浦兼武農商務相</a>を内相に回し選挙取り締まりに当たらせ、\n警察官の戸別訪問や威嚇がひんぱんに行われた。\n金沢市では記載内容が立会人に透けて見える軍用パンの包装用紙を投票用紙に使い、選挙はやり直し。\n県高等警察課長は拘引され、知事は辞職した。</div>\n<div class=\"txr\"><a href=\"../text/ys_20sei.html\">読売新聞社 「読む年表・20世紀と昭和天皇」</a>\n　Ｐ．２０</div>\n"
   },
   {
    "type": "cyu",
@@ -173,7 +166,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

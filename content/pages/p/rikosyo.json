@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "p.css"
+  "p.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -46,9 +55,9 @@
    "type": "raw",
    "tag": "table",
    "attrs": {
-    "class": "off"
+    "class": "lt"
    },
-   "html": "<tbody><tr><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"09r.html\">一覧　（ラ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%259D%258E%25E9%25B4%25BB%25E7%25AB%25A0\" target=\"_blank\">本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
   },
   {
    "type": "raw",
@@ -60,27 +69,11 @@
   },
   {
    "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
    "tag": "table",
    "attrs": {
     "class": "off"
    },
    "html": "<tbody><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr></tbody>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "timeline",
@@ -201,9 +194,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
+    "class": "tx"
    },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+   "html": "\n<div><span class=\"m_b\">引用</span>当時、北京の代表的政治家は李鴻章であった。\nたんに北京というだけでなく、この時代、世界を通じてみても李鴻章ほどの政治家は多くはない。</div>\n<div>李鴻章はわかいころ、文官の出身であったが、みずから投じて軍事にも従った。\n清国はあらゆる面で末期的現象を示していたが、とくに内乱が相次ぎ、長髪賊がはびこり、\n政府軍がはなはだふるわなかったとき、かれは郷里にかえって郷勇（志願兵）を組織し、それを訓練し、\nそれによって大いに賊をふせぎ、その後、英人ゴルドン将軍と連合して各地に賊をやぶり、\nいよいよその材幹をみとめられた。</div>\n<div>その後のかれの官歴は絢爛としている。\n五国通商大臣をふりだしにほどなく南洋通商大臣をかねた、というこの経歴は、かれを外交上の腕達者に仕あげてゆく。\nさらに欽差大臣になり、北洋通商大臣をかね、ついで海軍を建設し、わがくにの明治十九年、全権大臣になった。\n北京にいる列強外交団などは李鴻章をおだてて、</div>\n<div>「東洋のビスマルク」</div>\n<div>とほめたし、日本の外務省などでは、</div>\n<div>「夷人ころばしの名人」</div>\n<div>ともいった。</div>\n<div>あるいはビスマルクより李鴻章のほうがすぐれているであろう。\nかれの祖国である清国はドイツとは異なり、内乱相つぎ、政綱みだれ、兵弱く、しかも国土ひろく資源はゆたかであり、\nそれらにつけ入られて列強の利権欲のえじきにされつつある。\n李はそういう困難な状況下でこの国の宰相になり、老大国の体面をたもちつつ、\n多くの利権を列強にあたえながらもかれらを相互に牽制し合わせて北京外交の勢力均衡をたもたせようとした。\nこのあたりは名人芸といっていいだろう。</div>\n<div class=\"txr\"><a href=\"../text/sr2sakan.html\">司馬遼太郎 「坂の上の雲（２）」</a>\n　Ｐ．４５<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%259D%2582%25E3%2581%25AE%25E4%25B8%258A%25E3%2581%25AE%25E9%259B%25B2%25E3%2580%25882%25E3%2580%2589%2520%2520%2520%2520%25E6%2596%2587%25E6%2598%25A5%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "raw",
@@ -211,39 +204,7 @@
    "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>当時、北京の代表的政治家は李鴻章であった。\nたんに北京というだけでなく、この時代、世界を通じてみても李鴻章ほどの政治家は多くはない。</div>\n<div>李鴻章はわかいころ、文官の出身であったが、みずから投じて軍事にも従った。\n清国はあらゆる面で末期的現象を示していたが、とくに内乱が相次ぎ、長髪賊がはびこり、\n政府軍がはなはだふるわなかったとき、かれは郷里にかえって郷勇（志願兵）を組織し、それを訓練し、\nそれによって大いに賊をふせぎ、その後、英人ゴルドン将軍と連合して各地に賊をやぶり、\nいよいよその材幹をみとめられた。</div>\n<div>その後のかれの官歴は絢爛としている。\n五国通商大臣をふりだしにほどなく南洋通商大臣をかねた、というこの経歴は、かれを外交上の腕達者に仕あげてゆく。\nさらに欽差大臣になり、北洋通商大臣をかね、ついで海軍を建設し、わがくにの明治十九年、全権大臣になった。\n北京にいる列強外交団などは李鴻章をおだてて、</div>\n<div>「東洋のビスマルク」</div>\n<div>とほめたし、日本の外務省などでは、</div>\n<div>「夷人ころばしの名人」</div>\n<div>ともいった。</div>\n<div>あるいはビスマルクより李鴻章のほうがすぐれているであろう。\nかれの祖国である清国はドイツとは異なり、内乱相つぎ、政綱みだれ、兵弱く、しかも国土ひろく資源はゆたかであり、\nそれらにつけ入られて列強の利権欲のえじきにされつつある。\n李はそういう困難な状況下でこの国の宰相になり、老大国の体面をたもちつつ、\n多くの利権を列強にあたえながらもかれらを相互に牽制し合わせて北京外交の勢力均衡をたもたせようとした。\nこのあたりは名人芸といっていいだろう。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/sr2sakan.html\">司馬遼太郎 「坂の上の雲（２）」</a>\n　Ｐ．４５</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "tx"
-   },
-   "html": "\n<div>李鴻章は安徽省合肥の出身。道光二十七年（一八四七）に二十五歳で科挙に合格して進士となり、翰林院に入った。\n翰林院は皇帝の詔勅の作成を担当する官庁で、特に優秀な学者が勤務する部署であった。\n科挙の上位合格者がここに入るのである。\n咸豊元年（一八五一）に洪秀全の上帝会を中心として太平天国の乱が起こる。\n広西の金田村で蜂起した太平天国軍は、大衆の支持を得て連戦連勝。北上を続けた。\n咸豊三年（一八五三）、太平軍が安徽をおびやかすと、李鴻章は防衛のため郷里に帰り軍務についた。\n咸豊六年（一八五九）に当時江西にいた湘軍に合流し、曽国藩の幕僚となった。\n同治元年（一八六二）、太平軍が江蘇にむかうと、曽国藩の命により、李鴻章は故郷で義勇軍を募り、\n湘軍にならってこれを淮軍と名付けた。\n江蘇巡撫に任命されると、淮軍を率いて上海へ駐屯し、巧みに外国軍と交渉して、英国軍、仏国軍、さらには常勝軍の協力を得て、\n江蘇の太平軍に勝利した。\n後に李鴻章は外交官として活躍するが、この頃から外国人との交渉には長けていたようである。\nちなみに常勝軍とは、太平天国の乱の際に外国人が組織した義勇軍で、咸豊十年（一八六〇）に太平軍が上海に迫った時、\n米国人ウォードが外国人部隊を組織してこれを阻止したのが始まり。\n　【中略】　同治三年（一八六四）、淮軍などの活躍で天京が陥落し太平天国の乱が終わると、\n湘軍も常勝軍も解散したが、李鴻章は淮軍を解散させなかった。\n翌年に捻教徒による乱が起きると、李鴻章は再び淮軍を率いて制圧した。\nこれ以後李鴻章は、この淮軍という武力をバックボーンとして要職についていくのである。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ir_cy101.html\">井波律子 「中国史重要人物101」</a>\n　Ｐ．２０６</span></div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+   "html": "\n<div><span class=\"m_b\">引用</span>李鴻章は安徽省合肥の出身。道光二十七年（一八四七）に二十五歳で科挙に合格して進士となり、翰林院に入った。\n翰林院は皇帝の詔勅の作成を担当する官庁で、特に優秀な学者が勤務する部署であった。\n科挙の上位合格者がここに入るのである。\n咸豊元年（一八五一）に洪秀全の上帝会を中心として太平天国の乱が起こる。\n広西の金田村で蜂起した太平天国軍は、大衆の支持を得て連戦連勝。北上を続けた。\n咸豊三年（一八五三）、太平軍が安徽をおびやかすと、李鴻章は防衛のため郷里に帰り軍務についた。\n咸豊六年（一八五九）に当時江西にいた湘軍に合流し、曽国藩の幕僚となった。\n同治元年（一八六二）、太平軍が江蘇にむかうと、曽国藩の命により、李鴻章は故郷で義勇軍を募り、\n湘軍にならってこれを淮軍と名付けた。\n江蘇巡撫に任命されると、淮軍を率いて上海へ駐屯し、巧みに外国軍と交渉して、英国軍、仏国軍、さらには常勝軍の協力を得て、\n江蘇の太平軍に勝利した。\n後に李鴻章は外交官として活躍するが、この頃から外国人との交渉には長けていたようである。\nちなみに常勝軍とは、太平天国の乱の際に外国人が組織した義勇軍で、咸豊十年（一八六〇）に太平軍が上海に迫った時、\n米国人ウォードが外国人部隊を組織してこれを阻止したのが始まり。\n　【中略】　同治三年（一八六四）、淮軍などの活躍で天京が陥落し太平天国の乱が終わると、\n湘軍も常勝軍も解散したが、李鴻章は淮軍を解散させなかった。\n翌年に捻教徒による乱が起きると、李鴻章は再び淮軍を率いて制圧した。\nこれ以後李鴻章は、この淮軍という武力をバックボーンとして要職についていくのである。</div>\n<div class=\"txr\"><a href=\"../text/ir_cy101.html\">井波律子 「中国史重要人物101」</a>\n　Ｐ．２０６<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E4%25B8%25AD%25E5%259B%25BD%25E5%258F%25B2%25E9%2587%258D%25E8%25A6%2581%25E4%25BA%25BA%25E7%2589%25A9101\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -251,7 +212,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",

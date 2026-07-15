@@ -5,18 +5,27 @@
  "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
  "css": [
   "../all.css",
-  "../b.css"
+  "../b.css",
+  "../include/include.css"
  ],
  "baseClass": "base",
  "blocks": [
   {
    "type": "edit_bar",
    "kind": "e_bar",
-   "html": "<a name=\"h\">□□□</a>"
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
   },
   {
    "type": "navi",
-   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1901.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1901.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
   },
   {
    "type": "title",
@@ -54,6 +63,16 @@
        "id": "l",
        "cls": null,
        "html": "1901/09/07　　<a href=\"../1901/09giwad.html\">\n義和団事件最終議定書調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/09/18　　<a href=\"../1901/09itoto.html\">\n伊藤博文渡米</a>"
       }
      ]
     },
@@ -113,25 +132,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "hidden"
-   },
-   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "off"
    },
    "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
   },
   {
    "type": "raw",
@@ -145,17 +148,9 @@
    "type": "raw",
    "tag": "div",
    "attrs": {
-    "class": "off"
-   },
-   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
-  },
-  {
-   "type": "raw",
-   "tag": "div",
-   "attrs": {
     "class": "tx"
    },
-   "html": "\n<div>十一月二十日、【中略】　<a href=\"../p/htadasu.html\">林公使</a>と会談したランスダウン外相は、\n同盟交渉をできるだけ早く進めることが必要だと強調し、日本がロシアと別約を結ぶようなことがあれば、はなはだ遺憾だと述べた。</div>\n<div>しかし<a href=\"../p/ihirobum.html\">伊藤</a>はこうしたイギリス側の思惑を顧慮することなく、ロシアに入り、\n十一月二十八日<a href=\"../p/nikolai2.html\">ニコライ二世</a>に謁見、十二月二日ラムスドルフ外相、翌日<a href=\"../p/vitte_s.html\">ウィッテ蔵相</a>と会談、\n十二月四日にはふたたびラムスドルフを訪問して四ヵ条の覚え書を提出した。\nすなわち、（一）朝鮮の独立、（二）朝鮮領土を軍事的目的に使用しないこと、\n（三）朝鮮海峡の自由交通を阻害するような軍事的設備を朝鮮沿岸に建設しないこと、という三点を相互に保証すること、\n（四）政治上・工業上・商業上の関係については、日本は朝鮮で自由行動をとる権利があり、\nまた韓国の施政改革につき、軍事援助をもふくむ「助言及援助」を行なうのは、日本だけの「専権」であることをロシアが承認すること、\nというのであった。</div>\n<div>つまり、第一から第三の保証をして、第四項をみとめさせようというのである。</div>\n<div>これをみたラムスドルフは渋い顔をした。\n彼は、これでは日本の利益ばかり規定していて、ロシアにとっては譲歩だけではないか、\n朝鮮の独立を保証するといっても、政治的にも軍事的にも干渉することができる独立などというのは、はっきりいえば、\n有名無実ではないかと不満を述べたてた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ft_nicir.html\">古屋哲夫 「日露戦争」</a>\n　Ｐ．４５</span></div>\n"
+   "html": "\n<div><span class=\"m_b\">引用</span>十一月二十日、【中略】　<a href=\"../p/htadasu.html\">林公使</a>と会談したランスダウン外相は、\n同盟交渉をできるだけ早く進めることが必要だと強調し、日本がロシアと別約を結ぶようなことがあれば、はなはだ遺憾だと述べた。</div>\n<div>しかし<a href=\"../p/ihirobum.html\">伊藤</a>はこうしたイギリス側の思惑を顧慮することなく、ロシアに入り、\n十一月二十八日<a href=\"../p/nikolai2.html\">ニコライ二世</a>に謁見、十二月二日ラムスドルフ外相、翌日<a href=\"../p/vitte_s.html\">ウィッテ蔵相</a>と会談、\n十二月四日にはふたたびラムスドルフを訪問して四ヵ条の覚え書を提出した。\nすなわち、（一）朝鮮の独立、（二）朝鮮領土を軍事的目的に使用しないこと、\n（三）朝鮮海峡の自由交通を阻害するような軍事的設備を朝鮮沿岸に建設しないこと、という三点を相互に保証すること、\n（四）政治上・工業上・商業上の関係については、日本は朝鮮で自由行動をとる権利があり、\nまた韓国の施政改革につき、軍事援助をもふくむ「助言及援助」を行なうのは、日本だけの「専権」であることをロシアが承認すること、\nというのであった。</div>\n<div>つまり、第一から第三の保証をして、第四項をみとめさせようというのである。</div>\n<div>これをみたラムスドルフは渋い顔をした。\n彼は、これでは日本の利益ばかり規定していて、ロシアにとっては譲歩だけではないか、\n朝鮮の独立を保証するといっても、政治的にも軍事的にも干渉することができる独立などというのは、はっきりいえば、\n有名無実ではないかと不満を述べたてた。</div>\n<div class=\"txr\"><a href=\"../text/ft_nicir.html\">古屋哲夫 「日露戦争」</a>\n　Ｐ．４５<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4121001109%2Fqid%3D1146491161%2Fsr%3D1-1%2Fref%3Dsr_1_10_1\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
   },
   {
    "type": "cyu",
@@ -163,7 +158,13 @@
   },
   {
    "type": "taro",
-   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
   },
   {
    "type": "fnavi",
