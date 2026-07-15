@@ -1,0 +1,38 @@
+{
+  "name": "c20.jp",
+  "private": true,
+  "type": "module",
+  "description": "「クリック２０世紀」復元ミラー（Wayback Machine アーカイブから構造化データ + Hono SSG で再構築）",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muranakaaa/c20.jp.git"
+  },
+  "scripts": {
+    "download": "bun tools/download.ts",
+    "postprocess": "bun tools/postprocess.ts",
+    "extract": "bun tools/extract.ts",
+    "build": "bun tools/build.ts",
+    "verify": "bun tools/verify.ts",
+    "typecheck": "tsgo --noEmit",
+    "test": "bun test",
+    "check": "bun run --parallel 'check:*'",
+    "check:oxlint": "oxlint",
+    "check:oxfmt": "oxfmt --check src tools tests",
+    "fix:oxlint": "oxlint --fix",
+    "fix:oxfmt": "oxfmt src tools tests",
+    "ci": "bun run --parallel typecheck test check",
+    "deploy": "bun run deploy:guard && bun run build && wrangler deploy",
+    "deploy:guard": "bun -e \"if (!process.env.CLOUDFLARE_ACCOUNT_ID) { console.error('CLOUDFLARE_ACCOUNT_ID が未設定。mise.local.toml を確認（意図しないアカウントへの誤デプロイ防止）'); process.exit(1); }\"",
+    "prepare": "git config core.hooksPath .githooks"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.3.14",
+    "@types/node": "^24.0.0",
+    "@typescript/native-preview": "latest",
+    "cheerio": "^1.2.0",
+    "hono": "^4.11.9",
+    "oxfmt": "latest",
+    "oxlint": "latest",
+    "wrangler": "^4.110.0"
+  }
+}
