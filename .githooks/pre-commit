@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# コミット前に bun run ci（typecheck + test + lint/format チェック）を通す
+set -u
+cd "$(git rev-parse --show-toplevel)" || exit 1
+if ! bun run ci; then
+  echo "pre-commit: bun run ci が失敗。修正してからコミットする" >&2
+  exit 1
+fi
+exit 0
