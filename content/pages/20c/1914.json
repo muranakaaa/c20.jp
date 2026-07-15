@@ -1,0 +1,559 @@
+{
+ "path": "20c/1914.html",
+ "type": "year",
+ "title": "１９１４年　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９１４年"
+  },
+  {
+   "type": "title2",
+   "html": "大正３年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"1904.html\">１０年前</a> &gt;&gt;&gt; <a href=\"1913.html\">前年</a> &gt;&gt;&gt; <span class=\"now\">１９１４</span> &gt;&gt;&gt; <a href=\"1915.html\">翌年</a> &gt;&gt;&gt; <a href=\"1924.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"#s4\">今日は帝劇明日は三越　　流行歌</a>",
+    "<a href=\"../1913/yamm1_1.html\">山本①</a> → <a href=\"../1914/okum2_1.html\">大隈内閣②</a>"
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"1913.html#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/01/10　　<a href\"..=\"\" 19.html\"=\"\">\n袁世凱、国会議員の職務を停止</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/01/12　　<a href=\"../1914/01sakur.html\">\n桜島大噴火</a>　（溶岩流出で大隅半島と地続きに）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/01/23　　<a href=\"../1914/01simen.html\">\nシーメンス事件発覚</a>　（<a href=\"../p/ssaburo.html\">島田三郎</a>、国会で海軍高官の収賄を追及）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/02/04　　<a href=\"../1914/02viker.html\">\n東京地裁検事局、ヴィッカース社社員ウィンダーを召喚</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/02/15　　<a href\"..=\"\" 19.html\"=\"\">\n東京朝日記者襲撃事件</a>　（<a href=\"../p/htakasi.html\">原内相</a>私邸前）"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/03/05　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/mmasahis.html\">\n松田正久</a>没　（法相）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/03/23　　<a href=\"../1914/03yosan.html\">\n予算案不成立　（貴族院、両院協議会案を否決）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/03/24　　<a href=\"../1914/yamm1_9.html\">\n山本内閣①総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/03/28　　<a href\"..=\"\" 19.html\"=\"\">\n元老会議、後継首相に徳川家達（貴族院議長）を推薦　（03/30 辞退）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/03/31　　<a href\"..=\"\" 19.html\"=\"\">\n清浦圭吾に組閣命令　（04/07 辞退）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/04/11　　<a href\"..=\"\" 19.html\"=\"\">\n昭憲皇太后没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/04/13　　<a href\"..=\"\" 19.html\"=\"\">\n大隈重信に組閣命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/04/16　　<a href=\"../1914/okum2_1.html\">\n大隈内閣②成立</a>　（首相：<a href=\"../p/osigenob.html\">大隈重信</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/04/20　　<a href\"..=\"\" 19.html\"=\"\">\n</a><a href=\"../p/nsoseki.html\">夏目漱石</a>「心」連載開始　（朝日新聞）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/05/02　　<a href\"..=\"\" 19.html\"=\"\">\n読売新聞、「身の上相談」欄を開設</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/05/11　　<a href\"..=\"\" 19.html\"=\"\">\n海軍人事大異動発令</a>　（<a href=\"../p/ygonnohy.html\">山本前首相</a>・<a href=\"../p/smakoto.html\">斉藤前海相</a>を予備役に編入）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/05/29　　<a href\"..=\"\" 19.html\"=\"\">\n海軍軍法会議、シーメンス事件に有罪判決</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/06/18　　<a href\"..=\"\" 19.html\"=\"\">\n原敬、政友会総裁③就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/06/28　　<a href=\"../1914/06saraj.html\">\nサラエボ事件</a>　（オーストリア皇太子夫妻暗殺）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/07/05　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ、オーストリアの対セルビア強硬策支持を約束</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/07/08　　<a href=\"../1914/07kakum.html\">\n孫文、中華革命党結成</a>　（東京）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/07/28　　<a href=\"../1914/07taise.html\">\nオーストリア、セルビアに宣戦布告</a>　（第一次世界大戦勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/08/03　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ、ベルギーへの侵入開始　（対仏宣戦布告）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/08/04　　<a href\"..=\"\" 19.html\"=\"\">\nイギリス、ドイツに宣戦布告</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/08/08　　<a href\"..=\"\" 19.html\"=\"\">\n元老大臣会議、対独参戦を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/08/15　　<a href\"..=\"\" 19.html\"=\"\">\nパナマ運河開通</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/08/23　　<a href=\"../1914/08sanse.html\">\n対独参戦　（宣戦布告）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/08/26　　<a href\"..=\"\" 19.html\"=\"\">\nタンネンベルクの戦い　（～08/30）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/09/02　　<a href=\"../1914/09cinta.html\">\n青島出兵</a>　（日本軍、山東半島上陸開始）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/09/05　　<a href\"..=\"\" 19.html\"=\"\">\n海軍水上飛行機、青島戦に参加　（初の実戦使用）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/09/05　　<a href\"..=\"\" 19.html\"=\"\">\n英仏露３国、ロンドンで単独不講和を宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/09/05　　<a href\"..=\"\" 19.html\"=\"\">\nマルヌの戦い　（～09/12／西部戦線膠着）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/09/09　　<a href\"..=\"\" 19.html\"=\"\">\n片山潜、アメリカへ亡命</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/09/14　　<a href\"..=\"\" 19.html\"=\"\">\n生糸相場暴落</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/09/15　　<a href\"..=\"\" 19.html\"=\"\">\n政府、財界救済計画を発表</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"1915.html#s1\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/10/01　　<a href=\"../1914/10mituk.html\">\n三越呉服店新装開店</a>　（エスカレーターと青銅ライオン像）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/10/14　　<a href\"..=\"\" 19.html\"=\"\">\n日本海軍、ドイツ領南洋諸島占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/11/01　　<a href\"..=\"\" 19.html\"=\"\">\n「少年倶楽部」創刊　（講談社）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/11/07　　<a href\"..=\"\" 19.html\"=\"\">\n日本軍、青島占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/11/08　　<a href\"..=\"\" 19.html\"=\"\">\n青島陥落祝賀提灯行列</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/12/18　　<a href\"..=\"\" 19.html\"=\"\">\nイギリス、エジプト保護国化を宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/12/18　　<a href=\"../1914/12tokyo.html\">\n東京中央停車場開業式</a>　（東京駅と命名）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/12/25　　<a href\"..=\"\" 19.html\"=\"\">\n衆議院解散</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1913/yamm1_1.html\">山本①</a> → <a href=\"../1914/okum2_1.html\">大隈内閣②</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">今日は帝劇明日は三越　　流行歌</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「立川文庫」　「こゝろ（心）」　「道程」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">「義経千本桜」</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">―</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">カチューシャの唄</td></tr>\n</tbody>"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"#h\">１９１４年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

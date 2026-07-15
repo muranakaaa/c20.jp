@@ -1,0 +1,348 @@
+{
+ "path": "p/kkotohit.html",
+ "type": "person",
+ "title": "閑院宮 載仁　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "p.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "閑院宮 載仁"
+  },
+  {
+   "type": "title2",
+   "html": "1865 － 1945"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "name"
+   },
+   "html": "\n[ かんいんのみや・ことひと ]"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "prof"
+   },
+   "html": "\n参謀総長、近衛師団長、第１師団長、元帥陸軍大将"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_r\">エピソード 1</span>調査中。"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　京都府出身。伏見宮邦家親王の第16子。閑院宮家を継承、載仁の名を賜る。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　陸軍幼年学校入校後、フランスに留学、騎兵将校としての教育を受ける。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　日清、日露戦争に出征。その後、第１、近衛各師団長を歴任。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　軍事参議官を経て、<a href=\"../p/asadao.html\">荒木陸相</a>により<a href=\"../1931/12sanbo.html\">参謀総長に就任</a>。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　が、<a href=\"../p/asadao.html\">荒木</a>の期待を裏切り、皇道派を嫌って<a href=\"../1935/07masak.html\">真崎教育総監更迭</a>の原動力となる。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　日中戦争中も留任したが、実権はなかった。終戦の直前に病死。国葬。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1894/08/01　　<a href\"..=\"\" 19.html\"=\"\">\n清国に宣戦布告　（日清戦争勃発）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1895/04/14　　<a href\"..=\"\" 19.html\"=\"\">\n下関条約調印　（日清戦争終結）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/10　　<a href=\"../1904/02jr_wa.html\">\n対露宣戦布告</a>　（<a href=\"../them/jr_war.html\">日露戦争</a>勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/09/05　　<a href=\"../1905/09portm.html\">\nポーツマス条約調印</a>　（首席全権：<a href=\"../p/kjutaro.html\">小村寿太郎</a>／<a href=\"../them/jr_war.html\">日露戦争</a>終結）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/09/18　　<a href=\"../1931/09ryujo.html\">\n柳条湖事件</a>　（満州事変勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/12/23　　<a href=\"../1931/12sanbo.html\">\n閑院宮載仁親王、参謀総長就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/07/16　　<a href=\"../1935/07masak.html\">\n真崎教育総監罷免</a>　（後任：「統制派」<a href=\"../p/wjotaro.html\">渡辺錠太郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/08/12　　<a href=\"../1935/08aizaw.html\">\n相沢事件　（永田軍務局長斬殺）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/02/26　　<a href=\"../1936/02226ji.html\">\n二・二六事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/07/07　　<a href=\"../1937/07rokok.html\">\n盧溝橋事件</a>　（日中戦争勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/08/13　　<a href=\"../1937/08syan2.html\">\n上海事変②</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/04/01　　<a href=\"../1938/04sodoi.html\">\n国家総動員法公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/09/27　　<a href=\"../1940/09jdi_d.html\">\n日独伊三国軍事同盟調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/12/08　　<a href=\"../1941/12hawai.html\">\nハワイ奇襲攻撃</a>　（AM03：25／太平洋戦争勃発）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_b\">エピソード</span>\n調査中。"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"02k.html\">人物ファイル一覧　（カ）</a>\n ＞ <a href=\"#h\">閑院宮 載仁</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

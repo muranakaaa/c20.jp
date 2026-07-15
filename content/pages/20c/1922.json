@@ -1,0 +1,539 @@
+{
+ "path": "20c/1922.html",
+ "type": "year",
+ "title": "１９２２年　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９２２年"
+  },
+  {
+   "type": "title2",
+   "html": "大正１１年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"1912.html\">１０年前</a> &gt;&gt;&gt; <a href=\"1921.html\">前年</a> &gt;&gt;&gt; <span class=\"now\">１９２２</span> &gt;&gt;&gt; <a href=\"1923.html\">翌年</a> &gt;&gt;&gt; <a href=\"1932.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"#s4\">ロボット　　労働者</a>",
+    "<a href=\"../1921/taka_1.html\">高橋</a> → <a href=\"../1922/katoa_1.html\">加藤（友）内閣</a>"
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"1921.html#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/01/10　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/osigenob.html\">\n大隈重信</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/02/01　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/yaritomo.html\">\n山県有朋</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/02/06　　<a href=\"../1922/029koku.html\">\n九ヵ国条約調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/02/06　　<a href=\"../1922/02washi.html\">\nワシントン海軍軍縮条約調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/02/13　　<a href\"..=\"\" 19.html\"=\"\">\n</a><a href=\"../p/ysakuzo.html\">吉野作造</a>「所謂、帷幄上奏について」連載開始　（東京朝日新聞）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/02/25　　<a href\"..=\"\" 19.html\"=\"\">\n「旬刊朝日」創刊　（04/02 「週刊朝日」と改題）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/02/27　　<a href\"..=\"\" 19.html\"=\"\">\n孫文、北伐宣言①　（桂林）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/03/03　　<a href\"..=\"\" 19.html\"=\"\">\n水平社結成　（全国水平社創立大会／京都）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/03/11　　<a href\"..=\"\" 19.html\"=\"\">\n日本庭球協会設立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/03/25　　<a href=\"../1922/03bukan.html\">\n衆議院、軍部大臣武官制廃止を修正可決</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/03/30　　<a href\"..=\"\" 19.html\"=\"\">\n未成年者飲酒禁止法公布</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/04/02　　<a href\"..=\"\" 19.html\"=\"\">\n「サンデー毎日」創刊</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/04/12　　<a href\"..=\"\" 19.html\"=\"\">\nイギリス皇太子来日</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/04/16　　<a href=\"../1922/04rapal.html\">\nラッパロ条約調印</a>　（独ソ国交回復）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/04/20　　<a href=\"../1922/04ciank.html\">\n治安警察法改正</a>　（女性の集会参加などを許可）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/04/26　　<a href\"..=\"\" 19.html\"=\"\">\n奉直戦争①　（～06/17）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/06/06　　<a href=\"../1922/taka_9.html\">\n高橋内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/06/09　　<a href\"..=\"\" 19.html\"=\"\">\n元老、加藤友三郎を後継首相に推薦</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/06/12　　<a href=\"../1922/katoa_1.html\">\n加藤（友）内閣成立</a>　（首相：<a href=\"../p/ktomosab.html\">加藤友三郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/06/24　　<a href\"..=\"\" 19.html\"=\"\">\nシベリア撤兵声明</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/07/03　　<a href=\"../1922/07kguns.html\">\n海軍軍縮計画発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/07/04　　<a href=\"../1922/07rguns.html\">\n陸軍軍縮計画（山梨軍縮）発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/07/04　　<a href\"..=\"\" 19.html\"=\"\">\n内閣、官庁でサマータイムを実施　（夏休み廃止）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/07/09　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/mogai.html\">\n森鴎外</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/07/15　　<a href\"..=\"\" 19.html\"=\"\">\n日本共産党結成　（委員長：</a><a href=\"../p/stosihik.html\">堺利彦</a>／秘密結社）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/07/15　　<a href\"..=\"\" 19.html\"=\"\">\n赤ん坊展覧会開催　（大阪市民館）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/07/18　　<a href\"..=\"\" 19.html\"=\"\">\n有島武郎、北海道の狩太農場400町歩を小作人に無償提供</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/08/01　　<a href\"..=\"\" 19.html\"=\"\">\n日本経済連盟会設立　（</a><a href=\"../p/ijunnosu.html\">井上準之助</a>、<a href=\"../p/dtakuma.html\">団琢磨</a>ら）"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/08/02　　<a href\"..=\"\" 19.html\"=\"\">\nグラハム・ベル没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/08/08　　<a href\"..=\"\" 19.html\"=\"\">\n小学館創業</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/08/09　　<a href\"..=\"\" 19.html\"=\"\">\n孫文、北伐失敗</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"1923.html#s1\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/10/25　　<a href=\"../1922/10siber.html\">\nシベリア撤兵完了</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/10/28　　<a href=\"../1922/10romas.html\">\nファシスト党、ローマ進軍</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/10/31　　<a href=\"../1922/10musso.html\">\nムッソリーニ、イタリア首相就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/11/01　　<a href\"..=\"\" 19.html\"=\"\">\nオスマン・トルコ滅亡</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/11/08　　<a href=\"../1922/11kakus.html\">\n革新倶楽部結成</a>　（<a href=\"../p/ituyosi.html\">犬養毅</a>・<a href=\"../p/oyukio.html\">尾崎行雄</a>・<a href=\"../p/ssaburo.html\">島田三郎</a>ら）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/11/18　　<a href=\"../1922/11einst.html\">\nアインシュタイン来日</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/11/25　　<a href\"..=\"\" 19.html\"=\"\">\nムッソリーニ（伊）首相、独裁権獲得　（秩序回復のため）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/12/20　　<a href\"..=\"\" 19.html\"=\"\">\n大蔵省、財界救済方針を声明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/12/27　　<a href\"..=\"\" 19.html\"=\"\">\n世界初の空母「鳳翔」竣工　（横須賀海軍工廠）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/12/30　　<a href=\"../1922/12s_sei.html\">\nソ連邦成立</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1921/taka_1.html\">高橋</a> → <a href=\"../1922/katoa_1.html\">加藤（友）内閣</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">ロボット　　労働者</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「暗夜行路」　「破船」　「小学五年生」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">京屋襟店</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">―</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">雀の学校</td></tr>\n</tbody>"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"#h\">１９２２年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

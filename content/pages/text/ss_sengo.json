@@ -1,0 +1,58 @@
+{
+ "path": "text/ss_sengo.html",
+ "type": "text",
+ "title": "「戦後日本政治史」　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "text.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "「戦後日本政治史」"
+  },
+  {
+   "type": "title2",
+   "html": "参考書籍"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "list"
+   },
+   "html": "<tbody><tr>\n<td class=\"list\"><a href=\"03s.html\">一覧</a></td>\n<td class=\"list2\"><a href\"ss_sengo.html\"=\"\">データ</a></td>\n<td class=\"list\"><a href=\"ss1sengo.html\">１</a></td>     \n<td class=\"list\"><a href=\"ss2sengo.html\">２</a></td>\n<td class=\"list\"><a href=\"ss3sengo.html\">３</a></td>\n<td class=\"list\"><a href=\"ss4sengo.html\">４</a></td>\n</tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n著者：　信夫清三郎（しのぶ・せいざぶろう）<br>\n発行：　勁草書房（1965/08/20）<br>\n書籍：　全４巻／単行本<br>\n<div class=\"in\">\nⅠ　占領と民主主義　　１９４５年１月～１９４６年５月<br>\nⅡ　冷戦と占領政策の転換　　１９４６年６月～１９４８年２月<br>\nⅢ　アジアの革命と日本　　１９４８年１月～１９５０年３月<br>\nⅣ　朝鮮戦争と講和　　１９５０年３月～１９５２年４月</div>\n定価：　各1200円（？）<br>\n補足情報：<br>\n<div class=\"in\">\n本書は、戦後史のうち、一九四五年八月の敗戦から一九五二年四月の講和発効にいたる占領時代の歴史である。\n戦後史の叙述を占領時代に限定したのは、まさに占領時代が戦後二十年史の原型をうちだしているからであり、\nしたがってやや詳細に叙述する必要を感じたからである。　（序）</div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"03s.html\">書籍ファイル一覧　（サ）</a>\n ＞ <a href=\"#h\">「戦後日本政治史」</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

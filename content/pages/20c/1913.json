@@ -1,0 +1,430 @@
+{
+ "path": "20c/1913.html",
+ "type": "year",
+ "title": "１９１３年　／ クリック ２０世紀",
+ "description": null,
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a href=\"#f\">▽▽▽</a><a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９１３年"
+  },
+  {
+   "type": "title2",
+   "html": "大正２年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"1903.html\">１０年前</a> &gt;&gt;&gt; <a href=\"1912.html\">前年</a> &gt;&gt;&gt; <span class=\"now\">１９１３</span> &gt;&gt;&gt; <a href=\"1914.html\">翌年</a> &gt;&gt;&gt; <a href=\"1923.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "ニコポン　　新しい女　　若い燕",
+    "<a href=\"../1912/katu3_1.html\">桂③</a> → <a href=\"../1913/yamm1_1.html\">山本内閣①</a>"
+   ]
+  },
+  {
+   "type": "edit_bar",
+   "kind": "e_data",
+   "html": "リンク情報（2003/00/00）＝削除：０件（.html）"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"1912.html#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/01/20　　<a href=\"../1913/01sinto.html\">\n桂首相、新党結成計画発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/02/09　　<a href=\"../1913/02syocy.html\">\n西園寺（政友会総裁）に「内閣不信任案撤回」の詔勅</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/02/10　　<a href=\"../1913/02hoi10.html\">\n護憲派の民衆、議会を包囲</a>　（<a href=\"../p/ktaro.html\">桂首相</a>、総辞職を決意）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/02/11　　<a href=\"../1913/katu3_9.html\">\n桂内閣③総辞職　（大正政変）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/02/11　　<a href\"..=\"\" 19.html\"=\"\">\n元老会議、後継首相に山本権兵衛を推薦</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/02/12　　<a href\"..=\"\" 19.html\"=\"\">\n山本権兵衛に組閣命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/02/19　　<a href\"..=\"\" 19.html\"=\"\">\n政友会議員総会、山本内閣①支持を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/02/20　　<a href=\"../1913/yamm1_1.html\">\n山本内閣①成立</a>　（首相：<a href=\"../p/ygonnohy.html\">山本権兵衛</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/02/24　　<a href=\"../1913/02sclub.html\">\n政友倶楽部結成</a>　（<a href=\"../p/oyukio.html\">尾崎行雄</a>ら24名）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/02/25　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ政府、憲法修正第16条公布　（累進所得税制を採用）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/03/04　　<a href\"..=\"\" 19.html\"=\"\">\nウイルソン、アメリカ大統領就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/03/20　　<a href=\"../1913/03souxx.html\">\n宋教仁暗殺事件</a>　（03/22 没／中）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/04/20　　<a href\"..=\"\" 19.html\"=\"\">\n文部省、反良妻賢母主義的婦人論を取締　（「青鞜」２月号など発禁）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/06/10　　<a href=\"../1913/06morin.html\">\n森永ミルクキャラメル発売</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/06/13　　<a href=\"../1913/06bukan.html\">\n軍部大臣現役武官制廃止</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/06/13　　<a href=\"../1913/06gyose.html\">\n政府、行政整理案発表</a>　（官吏6428人を整理）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/06/29　　<a href\"..=\"\" 19.html\"=\"\">\nバルカン戦争②勃発　（～13/07/30）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/07/12　　<a href=\"../1913/072kaku.html\">\n中国・江西省で、第２革命勃発</a>　（～09/01）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/07/15　　<a href=\"../1913/07takar.html\">\n宝塚唱歌隊設立</a>　（→宝塚音楽歌劇学校）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/07/20　　<a href\"..=\"\" 19.html\"=\"\">\nトルコ、アドリアノープル占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/08/01　　<a href=\"../1913/08bunka.html\">\n文官任用令改正</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/08/05　　<a href\"..=\"\" 19.html\"=\"\">\n孫文、台湾へ亡命　（広東の独立失敗）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/08/16　　<a href\"..=\"\" 19.html\"=\"\">\n帝大に女子学生誕生　（黒田ちか、牧田らく、丹下むめ）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/09/01　　<a href\"..=\"\" 19.html\"=\"\">\n袁軍、南京占領　（第２革命失敗）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/09/04　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/tsyozo.html\">\n田中正造</a>没"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"1914.html#s1\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/10/10　　<a href=\"../1913/10ensyu.html\">\n袁世凱、中華民国大総統就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/10/10　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/ktaro.html\">\n桂太郎</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/10/22　　<a href\"..=\"\" 19.html\"=\"\">\n徳川慶喜没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/10/25　　<a href=\"../1913/10isiha.html\">\n石原修「女工と結核」講演</a>　（帰郷死亡者の７割が結核死）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/12/06　　<a href\"..=\"\" 19.html\"=\"\">\n大リーグ来日　（Ｎ・ジャイアンツとＣ・ホワイトソックス）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/12/08　　<a href\"..=\"\" 19.html\"=\"\">\n政府、東北地方に600万円の融資を決定　（凶作のため）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/12/23　　<a href=\"../1913/12dosik.html\">\n立憲同志会結成</a>　（総裁：<a href=\"../p/ktakaaki.html\">加藤高明</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1912/katu3_1.html\">桂③</a> → <a href=\"../1913/yamm1_1.html\">山本内閣①</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">ニコポン　　新しい女　　若い燕</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「阿部一族」　「赤光」　「みみずのたはごと」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">「里見八犬伝」</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">―</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">奈良丸くずし</td></tr>\n</tbody>"
+  },
+  {
+   "type": "fnavi",
+   "html": "<a name=\"f\"></a>\n<a href=\"../index.html\">目次</a>\n ＞ <a href=\"#h\">１９１３年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

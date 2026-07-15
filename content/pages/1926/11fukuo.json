@@ -1,0 +1,154 @@
+{
+ "path": "1926/11fukuo.html",
+ "type": "article",
+ "title": "福岡連隊事件　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1926.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "福岡連隊事件"
+  },
+  {
+   "type": "title2",
+   "html": "1926/11/12"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1916.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1925.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1926.html\">１９２６</a> &gt;&gt;&gt; <a href=\"../20c/1927.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1936.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "水平社幹部逮捕。　軍隊内の部落差別反対の叫びに、当局は陰謀で応えた。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/03/03　　<a href=\"../1922/03suihe.html\">\n水平社結成</a>　（全国水平社創立大会／京都）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/04/22　　<a href=\"../1925/04ciani.html\">\n治安維持法公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/03/05　　<a href\"..=\"\" 19.html\"=\"\">\n労働農民党結成</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/11/12　　<a 1926=\"\" href\"..=\"\" 11fukuo.html\"=\"\">\n福岡連隊事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/11/19　　<a href=\"../1927/11jikis.html\">\n水平社社員、軍隊内の差別撤廃を天皇に直訴</a>　（陸軍大演習観兵式）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>紛争は、福岡連隊内で部落出身の一兵士が差別待遇をうけたことからはじまった。\nこんなことでは、子弟を安心して軍隊にあずけられないとして、水平社九州連合会、とくに福岡県連合会が主体となって、\n連隊内において差別撤廃、融和促進講話と懇談会を実施するように約束させた。</div>\n<div>連隊長は、いったん承諾したが、のちになって久留米憲兵隊長とともに、「軍の威信」のため、\nこの約束を破棄すると宣言した。</div>\n<div>全国水平社九州連合会は、この対策について協議し、今後の糾弾方法を審議した。\nそして、この運動がいよいよもり上がってきたところに、突如として、中央委員会議長松本治一郎、\n全国本部常任理事木村京太郎、九州連合会本部藤岡正右衛門以下六人が検挙された。</div>\n<div>新聞は某重大事件とつたえたが、予審が終結すると、\nそれは「福岡連隊の爆破を企てた水平社の怖るべき陰謀事件である」との当局談を掲載した。</div>\n<div>発表文によれば、</div>\n<div>「被告らは、福岡連隊内における差別待遇問題が尋常一様の方法をもってしては目的を達することが困難とみて、\n非常手段として、十一月中旬、佐賀県下において行われる陸軍大演習に際し、\n歩兵第二十四連隊の大部分が演習地に参加せる留守に乗じ、約千人余の同人をあつめ、\n示威運動の名のもとに荊冠旗を立て、大衆をもって同連隊兵営の周囲に押しよせ、\n営内をダイナマイトを投じて爆破せしめ、大いに気勢をあげ、かつ、軍隊側に対し不安感をあたえ、\n現状のまま推移せば、勢いのおもむくところ、いかなる事象を来すべきやも測りがたきをおもわしめ、\nよって同問題の局面を転換し、解決を促進するにしかずとし、爆発物を使用することをともに謀議した」</div>\n<div>というのである。</div>\n<div>これは憲兵と警察とが水平社内部にスパイを入れてのでっち上げで、そのスパイの自白書には、\n松本治一郎の家に無煙火薬を持込んだと書かれている。\nスパイは警察に自首して陰謀事件の発覚者になりすましたのだった。</div>\n<div>福連事件は全国水平社の同人たちに異常な衝撃をあたえた。\nすでに、その前から、軍隊内の差別撤廃のために、\n各部落では大演習に際しての兵士の宿舎を拒絶するなどの運動を展開していた矢先であった。</div>\n<div class=\"txr\"><a href=\"../text/ms2syowa.html\">松本清張 「昭和史発掘（２）」</a>\n　Ｐ．１３８<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167697017%2Fqid%3D1147086156%2Fsr%3D1-6%2Fref%3Dsr_1_2_6\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1926.html\">１９２６年</a>\n ＞ <a href=\"#h\">福岡連隊事件</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

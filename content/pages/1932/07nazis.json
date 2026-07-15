@@ -1,0 +1,263 @@
+{
+ "path": "1932/07nazis.html",
+ "type": "article",
+ "title": "ナチス、第１党に躍進　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1932.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "ナチス、第１党に躍進"
+  },
+  {
+   "type": "title2",
+   "html": "1932/07/31"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1922.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1931.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1932.html\">１９３２</a> &gt;&gt;&gt; <a href=\"../20c/1933.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1942.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "大不況下の総選挙で、ナチス、脅威の大躍進。　ついに第１党に。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/01/05　　<a href=\"../1919/01natzi.html\">\nナチス結成</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/11/08　　<a href=\"../1923/11munch.html\">\nヒトラー、ミュンヘン一揆失敗</a>　（11/09 逮捕）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/10/16　　<a href=\"../1925/10locar.html\">\nロカルノ条約仮調印</a>　（12/01 正式調印）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1929/10/24　　<a href=\"../1929/10walls.html\">\n米・ウォール街、株価大暴落</a>　（→世界恐慌）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/06/20　　<a href=\"../1931/06hoove.html\">\nフーバー・モラトリアム</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/10/11　　<a href\"..=\"\" 19.html\"=\"\">\nハルツブルク戦線結成　（ドイツ右翼勢力の結集）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/06/16　　<a href=\"../1932/06lausa.html\">\nローザンヌ会議開催</a>　（～07/09／ドイツ賠償金支払い問題）"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/07/31　　<a 1932=\"\" href\"..=\"\" 07nazis.html\"=\"\">\nナチス、第１党に躍進</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/01/30　　<a href=\"../1933/01hitle.html\">\nヒトラー内閣成立</a>　（独）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/02/02　　<a href\"..=\"\" 19.html\"=\"\">\nジュネーブ軍縮会議再開</a>　（～10/14／国際連盟主催）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/02/27　　<a href=\"../1933/02gijid.html\">\n国会議事堂放火事件</a>　（ベルリン）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/03/09　　<a href=\"../1933/03kyosa.html\">\nドイツ、共産党を非合法化</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/03/23　　<a href=\"../1933/03zenke.html\">\nドイツ議会、全権委任法を可決</a>　（ヒトラー独裁体制確立）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/04/26　　<a href=\"../1933/04gesch.html\">\nゲジュタポ発足</a>　（長官：<a href=\"../p/goring_h.html\">ゲーリング</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/05/01　　<a href=\"../1933/05kinsi.html\">\nヒトラー、ナチス入党停止令を公布</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div>ああああああああああああああああ</div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1932.html\">１９３２年</a>\n ＞ <a href=\"#h\">ナチス、第１党に躍進</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

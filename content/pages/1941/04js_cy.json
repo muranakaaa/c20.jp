@@ -1,0 +1,283 @@
+{
+ "path": "1941/04js_cy.html",
+ "type": "article",
+ "title": "日ソ中立条約調印　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1941.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "日ソ中立条約調印"
+  },
+  {
+   "type": "title2",
+   "html": "1941/04/13"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1931.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1940.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1941.html\">１９４１</a> &gt;&gt;&gt; <a href=\"../20c/1942.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"../p/myosuke.html\">松岡外相</a>、得意満面。　ソ連を味方につけて、４国同盟体制で、さあ、日米交渉。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1939/08/23　　<a href=\"../1939/08ds_jy.html\">\n独ソ不可侵条約締結</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1939/09/01　　<a href=\"../1939/09taise.html\">\nドイツ軍、ポーランド侵攻開始</a>　（第二次世界大戦勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/05/10　　<a href=\"../1940/05seibu.html\">\nドイツ軍、西部戦線に総攻撃開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/06/22　　<a href=\"../1940/06f_kof.html\">\nフランス（ペタン政府）降伏</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/09/07　　<a href=\"../1940/09londo.html\">\nドイツ空軍、ロンドン爆撃開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/09/27　　<a href=\"../1940/09jdi_d.html\">\n日独伊三国軍事同盟調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/10/12　　<a href=\"../1940/10asika.html\">\nヒトラー、英本土上陸作戦（あしか作戦）中止を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/11/12　　<a href=\"../1940/11hitle.html\">\nヒトラー・モロトフ（ソ連外相）会談</a>　（ベルリン）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/12/18　　<a href=\"../1940/12barba.html\">\nヒトラー、ソ連侵攻作戦（バルバロッサ作戦）準備を指令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/03/05　　<a href=\"../1941/03d_kyo.html\">\nヒトラー、「対日協力」を指令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/04/13　　<a 1941=\"\" href\"..=\"\" 04js_cy.html\"=\"\">\n日ソ中立条約調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/06/22　　<a href=\"../1941/06ds_ka.html\">\n独ソ戦開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/07/02　　<a href=\"../1941/07kanto.html\">\n大本営、「関特演」発動</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/07/25　　<a href=\"../1941/07toket.html\">\nアメリカ、日本資産の凍結</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/07/28　　<a href=\"../1941/07futu2.html\">\n南部仏印進駐</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/08/01　　<a href=\"../1941/08kinyu.html\">\nアメリカ、対日石油輸出禁止</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/12/08　　<a href=\"../1941/12hawai.html\">\nハワイ奇襲攻撃</a>　（AM03：25／太平洋戦争勃発）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "pt"
+   },
+   "html": "\n<div class=\"pt_h\">～　<a href=\"../p/stalin.html\">スターリン</a>は　～</div>\n<div class=\"c\">後背（アジア方面）の安全を確保して、<a href=\"../1941/06ds_ka.html\">独ソ戦</a>に備えたかった。</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>ほかのものが皆シャンペンを飲むのに、<a href=\"../p/stalin.html\">スターリン</a>だけは初めのうちは小さなグラスに手酌で桃色の酒をついでいた。\nこの酒は一本しかなくて彼の専用らしかった。\n私はやや奇異に思ったことだったが、その後、英米政治家のいろいろな回想録などを読むと、\nどうやらこれが彼の習慣だったらしい。</div>\n<div>しかし、しばらくして<a href=\"../p/myosuke.html\">外相</a>が、天皇陛下のために乾盃を提議すると、<a href=\"../p/stalin.html\">スターリン</a>は、</div>\n<div>「それなら、シャムペンだ」</div>\n<div>といって、みごとに一杯をあおった。\nそれからは、カリニン首相、<a href=\"../p/kfumimar.html\">近衛首相</a>、<a href=\"../p/moloto_v.html\">モロトフ首相</a>と思いつくほどの人には皆もれなく乾盃した。\nその次は、日本陸軍のために、ソヴィエト陸軍のために、というようなことになって、両国の陸海空軍のために格別に乾盃する。\nそれも何回でも繰り返す。\nついに<a href=\"../p/stalin.html\">スターリン</a>はシャンペン・グラスを持ってテーブルを回って、随員のひとりひとりの健康を祝するくらい上機嫌になってしまった。\nしかし、正気であった証拠には、特に陸海軍随員に鄭重に敬意を表していた。\nどこまでも曲者である。</div>\n<div>御大将の<a href=\"../p/stalin.html\">スターリン</a>が、このように、率先して模範を示すのだから、酒豪ぞろいのソヴィエト側接伴員は、\nそれこそ浴びるように飲む。\nシャンペンでは駄目だ。ウォッカだ、ウォッカだ、という騒ぎ。</div>\n<div>見れば<a href=\"../p/myosuke.html\">外相</a>も大分苦戦らしい。\nそれに帰国の国際列車の出発もあと余すところいくらもない。\nいくど目かに私が腕時計を盗み見た時のことである。\n<a href=\"../p/stalin.html\">スターリン</a>は私にニヤリと笑顔をみせると、<a href=\"../p/moloto_v.html\">モロトフ</a>の机へいって、受話器をとった。\n二言三言早口になんやら命令したようだったが、テーブルにもどると、</div>\n<div>「列車は出発を一時間延期させました」</div>\n<div>といった。一同は歓声をあげる。\nではまだ飲める、というわけで、乾盃また乾盃。</div>\n<div><a href=\"../p/myosuke.html\">外相</a>はそれから大使館の在留邦人のレセプションに出席し、さらに盃を重ねたので、\n駅に向かう頃には、したたか酔っていた。\n同乗している私は少なからず心配である。\n自動車から降りようとすると、新聞やニュース映画のカメラが放列をしいている。\nこれはいけない、と思ったので、私は<a href=\"../p/myosuke.html\">外相</a>を抱くようにして肩を貸しながらゆっくりと歩いた。\n歩きながら、<a href=\"../p/myosuke.html\">外相</a>の耳もとに口を寄せて、</div>\n<div>「大臣、写真をとってますから、しっかり歩いて下さい」</div>\n<div>とささやくと、<a href=\"../p/myosuke.html\">外相</a>は酔っているから大声で、</div>\n<div>「<a href=\"../p/myosuke.html\">松岡洋右</a>、断じて酔ってはおらん！」</div>\n<div>と叫ぶ。これには弱った。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ks_daini.html\">加瀬俊一 「第二次世界大戦秘史」</a>\n　Ｐ．３１</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1941.html\">１９４１年</a>\n ＞ <a href=\"#h\">日ソ中立条約調印</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

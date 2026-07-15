@@ -1,0 +1,518 @@
+{
+ "path": "p/omineo.html",
+ "type": "person",
+ "title": "大角 岑生　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "p.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "大角 岑生"
+  },
+  {
+   "type": "title2",
+   "html": "1876 － 1941"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "name"
+   },
+   "html": "\n[ おおすみ・みねお ]"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "prof"
+   },
+   "html": "\n海相、海軍次官、海軍軍務局長、横須賀鎮守府司令長官、第２艦隊司令長官、海軍大将"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"01a.html\">一覧　（ア）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_r\">エピソード 1</span>調査中。"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　愛知県出身。海兵卒。海大卒。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　日露戦争では、閉塞隊員として<a href=\"../1904/05heso3.html\">旅順口閉塞作戦③</a>に参加。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　ドイツ駐在、フランス駐在などを経て、<a href=\"../1919/01paris.html\">パリ講和会議</a>に随員として出席。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　軍務局長など歴任後、<a href=\"../1924/katob_1.html\">加藤（高）内閣</a>に海軍次官となり、軍政面に手腕を発揮。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　第２艦隊司令長官、横須賀鎮守府司令長官などを歴任後、<a href=\"../1931/inu_1.html\">犬養内閣</a>で海相に就任。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　<a href=\"../1932/05515ji.html\">五・一五事件</a>で軍事参議官となるも、続く<a href=\"../1932/saito_1.html\">斉藤内閣</a>で<a href=\"../p/okeisuke.html\">岡田海相</a>が辞任すると再び海相に。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　海相としては、<a href=\"../1930/04tosui.html\">統帥権干犯問題</a>に人事、機構改革などで艦隊派寄りの政策をとる。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　<a href=\"../1934/okada_1.html\">岡田内閣</a>に留任。<a href=\"../1936/02226ji.html\">二・二六事件</a>で内閣が総辞職するまで海相を務める。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　靖国神社第１次合祀祭臨時大祭委員長のあと、<a href=\"../p/thisaici.html\">寺内寿一陸軍大将</a>とともに独伊に出張。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　帰国後、飛行機事故で死亡。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/10　　<a href=\"../1904/02jr_wa.html\">\n対露宣戦布告</a>　（<a href=\"../them/jr_war.html\">日露戦争</a>勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/05/03　　<a href=\"../1904/05heso3.html\">\n旅順口閉塞作戦③</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/05/27　　<a href=\"../1905/05nihon.html\">\n日本海海戦</a>　（～05/28／連合艦隊司令長官：<a href=\"../p/theihaci.html\">東郷平八郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/09/05　　<a href=\"../1905/09portm.html\">\nポーツマス条約調印</a>　（首席全権：<a href=\"../p/kjutaro.html\">小村寿太郎</a>／<a href=\"../them/jr_war.html\">日露戦争</a>終結）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/07/29　　<a href=\"../1912/07mhogy.html\">\n明治天皇崩御</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/07/28　　<a href=\"../1914/07taise.html\">\nオーストリア、セルビアに宣戦布告</a>　（第一次世界大戦勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/01/18　　<a href=\"../1919/01paris.html\">\nパリ講和会議開催</a>　（～06/28／首席全権：<a href=\"../p/skinmoci.html\">西園寺公望</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/06/28　　<a href=\"../1919/06versa.html\">\nベルサイユ条約調印</a>　（北京政府、調印拒否）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/01　　<a href=\"../1923/09sinsa.html\">\n関東大震災</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1930/04/22　　<a href=\"../1930/04londo.html\">\nロンドン海軍軍縮条約調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1930/04/25　　<a href=\"../1930/04tosui.html\">\n統帥権干犯問題</a>　（<a href=\"../p/ituyosi.html\">犬養毅</a>、<a href=\"../p/hiciro.html\">鳩山一郎</a>が追及）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1930/10/03　　<a href=\"../1930/10takar.html\">\n財部海相辞任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/09/18　　<a href=\"../1931/09ryujo.html\">\n柳条湖事件</a>　（満州事変勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/12/13　　<a href=\"../1931/inu_1.html\">\n犬養内閣成立</a>　（首相：<a href=\"../p/ituyosi.html\">犬養毅</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/01/28　　<a href=\"../1932/01syan1.html\">\n上海事変①勃発</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/05/15　　<a href=\"../1932/05515ji.html\">\n五・一五事件</a>　（<a href=\"../p/ituyosi.html\">犬養首相</a>暗殺）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/05/16　　<a href=\"../1932/inu_9.html\">\n犬養内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/05/26　　<a href=\"../1932/saito_1.html\">\n斉藤内閣成立</a>　（首相：<a href=\"../p/smakoto.html\">斉藤実</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/09/15　　<a href=\"../1932/09mansy.html\">\n満州国承認　（日満議定書調印）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/03/28　　<a href=\"../1933/03datta.html\">\n日本、国際連盟脱退</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/07/03　　<a href=\"../1934/saito_9.html\">\n斉藤内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/07/08　　<a href=\"../1934/okada_1.html\">\n岡田内閣成立</a>　（首相：<a href=\"../p/okeisuke.html\">岡田啓介</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/02/19　　<a href=\"../1935/02kikan.html\">\n天皇機関説問題</a>　（<a href=\"../p/ktakeo.html\">菊池武夫</a>、貴族院で天皇機関説を非難）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/02/26　　<a href=\"../1936/02226ji.html\">\n二・二六事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/02/28　　<a href=\"../1936/okada_9.html\">\n岡田内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/07/07　　<a href=\"../1937/07rokok.html\">\n盧溝橋事件</a>　（日中戦争勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/09/27　　<a href=\"../1940/09jdi_d.html\">\n日独伊三国軍事同盟調印</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_b\">エピソード</span>\n調査中。"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"01a.html\">人物ファイル一覧　（ア）</a>\n ＞ <a href=\"#h\">大角 岑生</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

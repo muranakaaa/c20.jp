@@ -1,0 +1,193 @@
+{
+ "path": "1933/05heiwa.html",
+ "type": "article",
+ "title": "ヒトラー、「大平和演説」　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1933.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "ヒトラー、「大平和演説」"
+  },
+  {
+   "type": "title2",
+   "html": "1933/05/17"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1923.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1932.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1933.html\">１９３３</a> &gt;&gt;&gt; <a href=\"../20c/1934.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1943.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"../p/hitler_a.html\">ドイツ首相</a>が、<a href=\"../p/roosev_f.html\">アメリカ大統領</a>の呼びかけに応えて、「平和」を訴え、全世界の喝采をあびた。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/01/30　　<a href=\"../1933/01hitle.html\">\nヒトラー内閣成立</a>　（独）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/02/02　　<a href\"..=\"\" 19.html\"=\"\">\nジュネーブ軍縮会議再開</a>　（～10/14／国際連盟主催）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/03/23　　<a href=\"../1933/03zenke.html\">\nドイツ議会、全権委任法を可決</a>　（ヒトラー独裁体制確立）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/05/16　　<a href=\"../1933/05roose.html\">\nＦ・ルーズベルト（米）大統領、軍縮会議継続を求める声明発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/05/17　　<a 1933=\"\" href\"..=\"\" 05heiwa.html\"=\"\">\nヒトラー、「大平和演説」</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/10/14　　<a href=\"../1933/10d_dat.html\">\nドイツ、ジュネーブ軍縮会議・国際連盟からの脱退を表明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/11/12　　<a href=\"../1933/11d_kok.html\">\n国際連盟脱退の可否を問う国民投票</a>　（独）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/10/21　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ、国際連盟脱退</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>五月十六日、米大統領<a href=\"../p/roosev_f.html\">Ｆ・ルーズベルト</a>は軍縮会議の継続を求めるアピールを、四十四ヵ国の元首に送った。</div>\n<div>爆撃機、戦車、移動式重砲などすべての攻撃兵器の撤廃を呼びかけ、\n米国も応諾する用意がある、という。</div>\n<div>「<a href=\"../p/roosev_f.html\">ルーズベルト大統領</a>の提案は、ドイツ政府の無常の感激を獲得した・・・・・・大統領の提案は、\n平和の維持に協力しようとするすべての者にとって慰めの光である・・・・・・」</div>\n<div><a href=\"../p/hitler_a.html\">ヒトラー</a>は、その翌日、五月十七日、さっそくにルーズベルト声明に呼応する演説を放送したが、\n世に「大平和演説」と呼ばれるようにその内容は平和感に満ち満ちていた。</div>\n<div><span class=\"bar\">―</span>―生存のために必要な経済資源を一国民から剥奪するのは、賢明なことではない。</div>\n<div><span class=\"bar\">―</span>―ポーランド人およびフランス人をドイツ人たらしめ得ると信じさせた前世紀の考え方は、\nわれわれには無縁のものである。</div>\n<div><span class=\"bar\">―</span>―ドイツは攻撃を考えず、ただ安全保障の確保のみを念ずるがゆえに、\nいかなる不可侵条約にも賛成する用意がある。</div>\n<div><span class=\"bar\">―</span>―ドイツは、たとえ完全に成功する場合でも、ヨーロッパにおける軍事行動は\nその犠牲が利益よりもはるかに甚大であることを、よく知っている。</div>\n<div><a href=\"../p/hitler_a.html\">ヒトラー</a>は、軍縮会議のＳＡ隊、ＳＳ隊にかんする決定にふれ、\nもしそれらを軍隊とみなすなら「消防隊、スポーツ団体、監守人」も兵士になるといい、\nルーズベルト提案についても「武装国家」「隣邦諸国」がそうするならドイツも攻撃兵器を棄てる、との条件を明らかにした。</div>\n<div>また、多数決による決定をおしつけ、制裁などをドイツにこころみるならば、\nドイツは「軍縮会議」と「国際連盟」にとどまり得ない、という、そのごの事態を暗示する予告も、\nさりげなく言明していた。</div>\n<div>つまりは、他国が軍備撤廃をしない限りドイツは再武装する、という決意の表明と理解できるはずである。</div>\n<div>だが、そのような底意は、演説にみなぎる平和ムードにおおわれて探知し難く、英国、フランス、米国の新聞は、\nいずれも<a href=\"../p/hitler_a.html\">ヒトラー</a>が<a href=\"../p/roosev_f.html\">ルーズベルト大統領</a>の提案を受諾した、と解釈して歓迎した。</div>\n<div><a href=\"../p/hitler_a.html\">ヒトラー</a>の著書『わが闘争』は、「生活圏」の獲得と「失地回復」を強調しているが、\nこの「大平和演説」は、そういう思想の転換を意味するものとさえ理解された。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kn1hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（１）」</a>\n　Ｐ．２７２</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1933.html\">１９３３年</a>\n ＞ <a href=\"#h\">ヒトラー、「大平和演説」</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

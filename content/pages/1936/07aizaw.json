@@ -1,0 +1,197 @@
+{
+ "path": "1936/07aizaw.html",
+ "type": "article",
+ "title": "相沢三郎刑死　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1936.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "相沢三郎刑死"
+  },
+  {
+   "type": "title2",
+   "html": "1936/07/03"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1926.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1935.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1936.html\">１９３６</a> &gt;&gt;&gt; <a href=\"../20c/1937.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1946.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "昭和の志士 <a href=\"../p/asaburo.html\">相沢三郎</a>、７月の代々木に散る。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/11/20　　<a href=\"../1934/11sikan.html\">\n士官学校事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/02/19　　<a href=\"../1935/02kikan.html\">\n天皇機関説問題</a>　（<a href=\"../p/ktakeo.html\">菊池武夫</a>、貴族院で天皇機関説を非難）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/07/11　　<a href=\"../1935/07ikens.html\">\n「粛軍に関する意見書」配布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/07/15　　<a href=\"../1935/07masak.html\">\n真崎教育総監更迭</a>　（後任：「統制派」<a href=\"../p/wjotaro.html\">渡辺錠太郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/08/12　　<a href=\"../1935/08aizaw.html\">\n相沢事件</a>　（<a href=\"../p/ntetuzan.html\">永田軍務局長</a>斬殺）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/02/26　　<a href=\"../1936/02226ji.html\">\n二・二六事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/07/03　　<a 1936=\"\" href\"..=\"\" 07aizaw.html\"=\"\">\n相沢三郎刑死</a>　（<a href=\"../1935/08aizaw.html\">相沢事件</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/07/05　　<a href\"..=\"\" 19.html\"=\"\">\n二・二六事件判決　（東京陸軍軍法会議）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/07/07　　<a href=\"../1937/07rokok.html\">\n盧溝橋事件</a>　（日中戦争勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/08/14　　<a href\"..=\"\" 19.html\"=\"\">\n東京陸軍軍法会議で、北一輝、西田税に死刑を宣告　（二・二六事件）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>「【中略】　執行前夜は零時頃就寝、朝三時に起床直に室内の清潔整頓を為し、朝食を終り、\n遺言其の他書きものを点検し、</div>\n<div>『これでよし』</div>\n<div>と整頓し、次で猪股定豊氏差入れの仏像に対し観音経を読誦し、なお、『尊皇絶対』と画仙紙に大書し、\nその左脇下に『昭和十一年七月三日午前四時三十五分於宇田川、相沢三郎絶筆』と認め、</div>\n<div>『私はいつでも宜しくあります。時間を与えて頂き有難う御座いました。\nお蔭で私のすることは一切片づきました。家内の編んだ腹巻を着けて行くことをお願いします』と、\n取りも直さず死刑執行の催促である。言語についても大層叮嚀で、入所当時とは別人のようであった」</div>\n<div>手塚手記は、次に<a href=\"../p/asaburo.html\">相沢</a>の死刑執行の段階を述べる。</div>\n<div>「七月三日午前四時四十八分、<a href=\"../p/asaburo.html\">相沢</a>を出房させたのだが、房前二十数メートルの廊下を言渡所に控えていた私を見かけ、\n付添の看守の指図も余所に、突然駈け出し速歩で嬉しそうな身振りで私の前に来り、\nにこにこ微笑を含んで叮嚀に謝辞を述べ、傍らの検察官に黙礼し、進んで執行を要求するような落ちつき払った態度であった。\nそれより医官の健康診断を行い、次で執行言渡をなしたのである。</div>\n<div>遺言の始末や領置物品の処置や、申し残すことの有無など訊ねたが、前夜より用意周到に、\n死後一切のことを処理してあることとて、</div>\n<div>『何もありません、色々お世話になりました。お蔭で健康でありました。\n皆様によろしく、刑場へ行く途中で、遥拝をさして頂きます」</div>\n<div>とのことで遥拝所へ護送した。\n大声で『天皇陛下万歳』を三唱した。この音声で、一般被告人、受刑者等は起床前なるも大半は起床したのであった。</div>\n<div>これより刑場への護送中、目隠しをするのであるが、武魂烈々などと常に言っていた<a href=\"../p/asaburo.html\">相沢</a>の気性から推し、\n屹度目隠しを拒むのではないかと考え、前に看守長に下記のような方法でやるよう命じて置いた。\n第一『断りたるときは規則だから』と、尚遠慮したら『射手が困る』と告げろと。</div>\n<div>果して<a href=\"../p/asaburo.html\">相沢</a>は『目隠しはやらないで下さい。武人の汚れだから』と拒絶する。\n規則だからと言えば私に限りその必要はありませんという。『射手が困ります』といえば、</div>\n<div>『射手が困る、それではやりましょう』</div>\n<div>と柔順に目隠しをなし、</div>\n<div>『私は外に出るのだと思っていましたが、この中でやるのですか』</div>\n<div>といって、悠々刑架に就き平然と少量の水を含み執行を受けたのである」</div>\n<div>刑架は、十字架で、これに処刑者を縛りつけた。\nただし、下は地面に膝を折って坐るようになっている。\n塚本メモは「銃殺、死体処置其他総て<a href=\"../1936/02226ji.html\">二・二六事件</a>執行者と同様であるから略す」と書いているので、\n<a href=\"../p/asaburo.html\">相沢</a>の処刑場が刑務所の煉瓦塀を前面にして壕を掘り、壕の奥深くに右の十字架が立てられてあったことが分る。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/msdsyowa.html\">松本清張 「昭和史発掘（13）」</a>\n　Ｐ．２５</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">おたよりはこちら</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1936.html\">１９３６年</a>\n ＞ <a href=\"#h\">相沢三郎刑死</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

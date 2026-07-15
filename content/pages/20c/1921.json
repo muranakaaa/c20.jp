@@ -1,0 +1,429 @@
+{
+ "path": "20c/1921.html",
+ "type": "year",
+ "title": "１９２１年　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９２１年"
+  },
+  {
+   "type": "title2",
+   "html": "大正１０年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"1911.html\">１０年前</a> &gt;&gt;&gt; <a href=\"1920.html\">前年</a> &gt;&gt;&gt; <span class=\"now\">１９２１</span> &gt;&gt;&gt; <a href=\"1922.html\">翌年</a> &gt;&gt;&gt; <a href=\"1931.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"#s4\">サボタージュ　　シベリア　　ホルモン</a>",
+    "<a href=\"../1918/hara_1.html\">原</a> → <a href=\"../1921/taka_1.html\">高橋内閣</a>"
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"1920.html#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/01/02　　<a href\"..=\"\" 19.html\"=\"\">\n大阪朝日新聞、グラビア写真の付録を添付</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/01/03　　<a href\"..=\"\" 19.html\"=\"\">\n幣原駐米大使、排日土地法に抗議</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/01/31　　<a href=\"../1921/01mante.html\">\n満鉄疑獄事件発覚</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/02/10　　<a href\"..=\"\" 19.html\"=\"\">\n宮内省、皇太子妃内定に変更なしと発表　（宮中某重大事件解決）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/02/11　　<a href=\"../1921/02glico.html\">\n栄養菓子グリコ発売</a>　（「１粒300ｍ」と宣伝）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/02/12　　<a href\"..=\"\" 19.html\"=\"\">\n大本教事件①　（幹部一斉検挙）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/02/16　　<a href\"..=\"\" 19.html\"=\"\">\n小川未明「赤い蝋燭と人魚」連載開始　（東京朝日新聞）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/03/03　　<a href=\"../1921/03houou.html\">\n皇太子、ヨーロッパ歴訪</a>　（09/03 帰国）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/03/08　　<a href=\"../1921/03nepsa.html\">\nソ連、新経済政策（ネップ）を採択</a>　（ロシア共産党大会⑩）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/03/15　　<a href\"..=\"\" 19.html\"=\"\">\n「珍品五個」事件発覚</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/03/21　　<a href\"..=\"\" 19.html\"=\"\">\n山県有朋、元老・枢密院議長などの辞表提出　（05/18 辞表却下）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/04/08　　<a href\"..=\"\" 19.html\"=\"\">\n「路上の霊魂」封切　（松竹キネマ研究所第１回作品）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/05/01　　<a href=\"../1921/05hanju.html\">\nパレスチナで反ユダヤ暴動</a>　（～05/06）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/05/05　　<a href=\"../1921/05baisy.html\">\n連合国、賠償金1320億金マルクの支払計画受諾をドイツに要求</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/06/28　　<a href\"..=\"\" 19.html\"=\"\">\n大審院、村八分された者に精神上の損害賠償請求を認める判決</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/07/01　　<a href\"..=\"\" 19.html\"=\"\">\n中国共産党創立大会　（上海）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/07/17　　<a href\"..=\"\" 19.html\"=\"\">\nバートランド・ラッセル来日</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/09/28　　<a href\"..=\"\" 19.html\"=\"\">\n安田善次郎刺殺事件　（大磯／犯人：朝日平吾）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"1922.html#s1\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/10/04　　<a href\"..=\"\" 19.html\"=\"\">\n株式・綿糸・米穀各相場下落　（天皇病状悪化の発表により）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/11/04　　<a href=\"../1921/11harax.html\">\n原首相刺殺事件</a>　（東京駅／犯人：中岡艮一）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/11/05　　<a href=\"../1921/hara_9.html\">\n原内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/11/11　　<a href\"..=\"\" 19.html\"=\"\">\nファシスト党結成</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/11/12　　<a href=\"../1921/taka_0.html\">\n西園寺公望、元老の意向として後継首相に高橋是清を推薦</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/11/12　　<a href=\"../1921/11washi.html\">\nワシントン軍縮会議開催</a>　（主席全権：<a href=\"../p/ktomosab.html\">加藤友三郎</a>／～22/02/06）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/11/13　　<a href\"..=\"\" 19.html\"=\"\">\n高橋是清に組閣命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/11/13　　<a href=\"../1921/taka_1.html\">\n高橋内閣成立</a>　（首相：<a href=\"../p/tkorekiy.html\">高橋是清</a>／全閣僚留任）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/11/25　　<a href=\"../1921/11sessy.html\">\n皇太子摂政就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/12/01　　<a href\"..=\"\" 19.html\"=\"\">\n時事新報、夕刊で４国協定成立をスクープ</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/12/13　　<a href=\"../1921/124koku.html\">\n四ヵ国条約調印　（日英同盟廃棄）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/12/21　　<a href\"..=\"\" 19.html\"=\"\">\n高橋是清、政友会総裁④就任</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1918/hara_1.html\">原</a> → <a href=\"../1921/taka_1.html\">高橋内閣</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">サボタージュ　　シベリア　　ホルモン</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「銀の匙」　「赤い蝋燭と人魚」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">「路上の霊魂」</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">―</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">青い眼の人形</td></tr>\n</tbody>"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"#h\">１９２１年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

@@ -1,0 +1,348 @@
+{
+ "path": "p/mrenya.html",
+ "type": "person",
+ "title": "牟田口 廉也　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "p.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "牟田口 廉也"
+  },
+  {
+   "type": "title2",
+   "html": "1888 － 1966"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "name"
+   },
+   "html": "\n[ むたぐち・れんや ]"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "prof"
+   },
+   "html": "\n第15軍司令官、第18師団長、支那駐屯歩兵第１連隊長、陸軍中将"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_r\">エピソード 1</span>調査中。"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　佐賀県出身。陸士卒。陸大卒。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　<a href=\"../1937/07rokok.html\">盧溝橋事件</a>のとき、支那駐屯歩兵第１連隊長として現場指揮にあたり、事件を拡大させる。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　「盧溝橋で第一発を撃って戦争を起こしたのはわし」と公言。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　太平洋戦争勃発と同時に、第18師団長としてマレー作戦に参加。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　<a href=\"../1942/02singa.html\">シンガポール攻略</a>後、マレー半島の華僑を粛清。ビルマに転戦。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　第15軍司令官として、<a href=\"../1944/03impha.html\">インパール作戦</a>を発案、周囲の反対を押し切って強行。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　作戦参加３個師団の全師団長を途中解任するなど失態を演じた上、甚大な被害を出す。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　戦後、戦犯として逮捕されるが不起訴。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/02/26　　<a href=\"../1936/02226ji.html\">\n二・二六事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/07/07　　<a href=\"../1937/07rokok.html\">\n盧溝橋事件</a>　（日中戦争勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/09/27　　<a href=\"../1940/09jdi_d.html\">\n日独伊三国軍事同盟調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/07/28　　<a href=\"../1941/07futu2.html\">\n南部仏印進駐</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/12/08　　<a href=\"../1941/12hawai.html\">\nハワイ奇襲攻撃</a>　（AM03：25／太平洋戦争勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1942/02/15　　<a href=\"../1942/02singa.html\">\nシンガポール攻略</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/01/07　　<a href=\"../1944/01impha.html\">\n大本営、インパール作戦を認可</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/03/08　　<a href=\"../1944/03impha.html\">\nインパール作戦開始</a>　（～07/09）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/15　　<a href=\"../1945/08gyoku.html\">\n玉音放送　（終戦の詔勅）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/12/02　　<a href=\"../1945/12senp3.html\">\nＧＨＱ、戦争犯罪人逮捕を指令③</a>　（<a href=\"../p/hkiiciro.html\">平沼</a>・<a href=\"../p/hkoki.html\">広田</a>ら59人）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/04/29　　<a href\"..=\"\" 19.html\"=\"\">\nＡ級戦犯容疑者28人の起訴状発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/03　　<a href=\"../1946/05tokyo.html\">\n東京裁判（極東国際軍事裁判）開廷</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_b\">エピソード</span>\n調査中。"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"07m.html\">人物ファイル一覧　（マ）</a>\n ＞ <a href=\"#h\">牟田口 廉也</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

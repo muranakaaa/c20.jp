@@ -1,0 +1,274 @@
+{
+ "path": "1917/01d_sub.html",
+ "type": "article",
+ "title": "ドイツ、無制限潜水艦作戦を決定　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1917.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "ドイツ、無制限潜水艦作戦を決定"
+  },
+  {
+   "type": "title2",
+   "html": "1917/01/09"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1907.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1916.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1917.html\">１９１７</a> &gt;&gt;&gt; <a href=\"../20c/1918.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1927.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "イギリスの海上封鎖に、ドイツが海中からの無差別攻撃を決断。　もう何でもありだぁ。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/07/28　　<a href=\"../1914/07taise.html\">\nオーストリア、セルビアに宣戦布告</a>　（第一次世界大戦勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/08/03　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ、ベルギーへの侵入開始　（対仏宣戦布告）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/09/05　　<a href=\"../1914/09marne.html\">\nマルヌの戦い</a>　（～09/12／西部戦線膠着）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/02/04　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ、対英封鎖宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/05/07　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ潜水艦、イギリス客船ルシタニア号を撃沈</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/05/13　　<a href\"..=\"\" 19.html\"=\"\">\nウイルソン（米）大統領、ルシタニア号撃沈についてドイツに抗議</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/02/21　　<a href=\"../1916/02verdu.html\">\nヴェルダン要塞攻防戦</a>　（～07/11）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/05/31　　<a href\"..=\"\" 19.html\"=\"\">\nユトランド沖海戦　（～06/01）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/07/01　　<a href=\"../1916/07somme.html\">\nソンムの戦い</a>　（～11/18）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/09/15　　<a href=\"../1916/09sensy.html\">\nイギリス軍、戦車を使用</a>　（ソンムの戦い）"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1917/01/09　　<a 1917=\"\" href\"..=\"\" 01d_sub.html\"=\"\">\nドイツ、無制限潜水艦作戦を決定</a>　（01/31 対米通告）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1917/03/15　　<a href=\"../1917/032kaku.html\">\n二月革命</a>　（皇帝<a href=\"../p/nikolai2.html\">ニコライ２世</a>退位、ロマノフ朝滅亡）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1917/04/06　　<a href=\"../1917/04a_san.html\">\nアメリカ、対独参戦</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1917/11/07　　<a href=\"../1917/1110kak.html\">\n十月革命</a>　（ソビエト政権成立）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/03/03　　<a href=\"../1918/03brest.html\">\nブレスト・リトフスク条約調印</a>　（ソビエト政府、独墺と講和）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/03/21　　<a href=\"../1918/03micha.html\">\nドイツ軍、西部戦線で大反攻開始</a>　（ミヒャエル作戦）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/11/11　　<a href=\"../1918/11taise.html\">\n第一次世界大戦終結</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>ドイツでは、東部戦線での勝利と国民の疲弊を前に、一七年二月最後の切り札、無制限潜水艦作戦の開始によるあらたな軍事攻勢で、\nイギリスを屈服させようとした。\n戦前大いに期待されたドイツ海軍は、イギリス艦隊と相打ちに終わった一六年五月のユトランド沖海戦以外たいした活動をみせず、\n主力艦隊は港に釘付け状態で、イギリスの海上封鎖<span class=\"bar\">―</span>―ドイツでは飢餓封鎖とよばれた<span class=\"bar\">―</span>―を崩せず、\n国民を失望させていた。</div>\n<div>出番のなかった海軍指導部は、イギリス向け航路内の全船舶を無警告で撃沈するこの作戦で、\n勝利への貢献をアピールしようとした。\n海軍軍令部長の計画には、二月に作戦を開始すれば、海外からの食糧輸入の路を閉ざされたイギリスは、\n収穫期前の八月までに和平を請うにちがいない、アメリカを参戦させるリスクもあるが、それは無視してよい、と記されていた。\n作戦が始まると、アメリカ合衆国はドイツと断交し、四月ドイツに宣戦する。\n作戦はそれなりに成果をあげたが、ドイツは、イギリスが自己の保有商船だけでなく、世界の船舶を利用できることを計算していなかった。</div>\n<div class=\"txr\"><a href=\"../text/ks_nse26.html\">木村靖二・柴宜弘・長沼秀世 「世界の歴史（26）」</a>\n　Ｐ．７３<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E4%25B8%2596%25E7%2595%258C%25E5%25A4%25A7%25E6%2588%25A6%25E3%2581%25A8%25E7%258F%25BE%25E4%25BB%25A3%25E6%2596%2587%25E5%258C%2596%25E3%2581%25AE%25E9%2596%258B%25E5%25B9%2595%2520%2520%2520%2520%25E4%25B8%2596%25E7%2595%258C%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1917.html\">１９１７年</a>\n ＞ <a href=\"#h\">ドイツ、無制限潜水艦作戦を決定</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

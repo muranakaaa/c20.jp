@@ -1,0 +1,283 @@
+{
+ "path": "1925/katob_3.html",
+ "type": "article",
+ "title": "加藤（高）内閣（護憲三派内閣）総辞職　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1925.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "加藤（高）内閣（護憲三派内閣）総辞職"
+  },
+  {
+   "type": "title2",
+   "html": "1925/07/31"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1915.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1924.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1925.html\">１９２５</a> &gt;&gt;&gt; <a href=\"../20c/1926.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1935.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "目標の達成は目的の喪失！？　憲政会と政友会の主導権争いで内閣 空中分解。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/01/10　　<a href=\"../1924/01goke2.html\">\n護憲運動②開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/06/07　　<a href=\"../1924/kiyo_9.html\">\n清浦内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/06/09　　<a href=\"../1924/063pare.html\">\n加藤高明、高橋・犬養両党首を訪問、３派連立を協議</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/06/11　　<a href=\"../1924/katob_1.html\">\n加藤（高）内閣（護憲三派内閣）成立</a>　（首相：<a href=\"../p/ktakaaki.html\">加藤高明</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/07/01　　<a href\"..=\"\" 19.html\"=\"\">\n浜口蔵相、国会で行財政整理・緊縮方針を表明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/09/02　　<a href\"..=\"\" 19.html\"=\"\">\n実行予算3000万円節約を閣議決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/04/22　　<a href=\"../1925/04ciani.html\">\n治安維持法公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/05/01　　<a href\"..=\"\" 19.html\"=\"\">\n陸軍軍縮計画（宇垣軍縮）発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/05/05　　<a href=\"../1925/05fusen.html\">\n普通選挙法公布</a>　（男子普通選挙）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/05/14　　<a href=\"../1925/05kakus.html\">\n革新倶楽部右派（犬養毅ら）、政友会に合流</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/05/28　　<a href=\"../1925/05inuka.html\">\n犬養毅（逓相）、政界引退を発表</a>　（05/30 逓相辞任）"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/07/31　　<a 1925=\"\" href\"..=\"\" katob_3.html\"=\"\">\n加藤（高）内閣（護憲三派内閣）総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/07/31　　<a href\"..=\"\" 19.html\"=\"\">\n政友会・政友本党、両党幹部が提携を申し合わせ</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/08/02　　<a href=\"../1925/katob_4.html\">\n加藤（高）内閣（憲政会単独内閣）成立</a>　（政友会、政権を離脱）"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/01/28　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/ktakaaki.html\">\n加藤高明</a>没　（首相）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/01/28　　<a href=\"../1926/katob_9.html\">\n加藤（高）内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/01/30　　<a href=\"../1926/waka1_1.html\">\n若槻内閣①成立</a>　（首相：<a href=\"../p/wreijiro.html\">若槻礼次郎</a>／全閣僚留任）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\n日露戦争の勝利で世界の「一等国」の仲間入りした日本が転落をはじめる、そのターニングポイントがこの日だったとtaroは思っている。\n悲願の<a href=\"../1925/05fusen.html\">普通選挙を実現</a>した途端、二大政党はそれぞれの本性をあらわした。\n袂を分かったこの日以降、醜い泥仕合を演じ、\n<a href=\"../1930/04tosui.html\">統帥権干犯問題</a>、満州事変のあと、<a href=\"../1932/05515ji.html\">五・一五事件</a>でついに政党政治が終焉。\n転がりはじめたらもう止まらない。<a href=\"../1935/02kikan.html\">天皇機関説問題</a>では、議会人が議会政治を自己否定し、\n最後は政党が集団自殺、墓碑銘は<a href=\"../1940/10yokus.html\">大政翼賛会</a>だ。\nたかだか選挙制度を変えたぐらいでもう目的を見失う、政党人たちの志の低さが命取りだったと言えなくもない。\n政治家の質ってのは、10年、20年の幅でみると、国民の幸せに直結しちゃうんだな、これが。\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div>ああああああああああああああああ</div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n<br>「加藤（高）内閣」は「加藤高明内閣」と、「護憲三派内閣」は「第一次加藤内閣」「第１次加藤高明内閣」と同じ意味です。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1925.html\">１９２５年</a>\n ＞ <a href=\"#h\">加藤（高）内閣（護憲三派内閣）総辞職</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

@@ -1,0 +1,159 @@
+{
+ "path": "1905/10kakus.html",
+ "type": "article",
+ "title": "桂・ハリマン覚書　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1905.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "桂・ハリマン覚書"
+  },
+  {
+   "type": "title2",
+   "html": "1905/10/12"
+  },
+  {
+   "type": "navi2",
+   "html": "\n１０年前 &gt;&gt;&gt; <a href=\"../20c/1904.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1905.html\">１９０５</a> &gt;&gt;&gt; <a href=\"../20c/1906.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1915.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"../p/ktaro.html\">首相</a>ったら、獲得したばかりの鉄道をアメリカの鉄道王に売り渡す約束、しちゃった。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/09/05　　<a href=\"../1905/09portm.html\">\nポーツマス条約調印</a>　（首席全権：<a href=\"../p/kjutaro.html\">小村寿太郎</a>／<a href=\"../them/jr_war.html\">日露戦争</a>終結）"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/10/12　　<a 1905=\"\" href\"..=\"\" 10kakus.html\"=\"\">\n桂・ハリマン覚書</a>　（10/23 取消）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1906/11/26　　<a href=\"../1906/11mante.html\">\n南満州鉄道株式会社（満鉄）設立</a>　（総裁：<a href=\"../p/gsinpei.html\">後藤新平</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>日本に対するアメリカの利害は単純ではなかった。\n政府が日本の進出を恐れる一方で、日本が得た満州の権益に割りこもうとする米資本の動きは活発だった。\nタフトの訪日に続いて、アメリカの鉄道王エドワード・ハリマンは駐日アメリカ大使グリスコムの招待というかたちで\n一九〇五年八月三十一日日本を訪れる。\n日露戦争の戦費をまかなうため日本が海外で募集した戦時公債を五百万ドルも引受けた実績を持つハリマンが、\nこのとき日本へ乗りこんできた真の目的は、南満州鉄道の買収にあった。\n当時日本の政府には日露戦争の結果得た満州の権益を自力で経営する自信がなく、元老をはじめ<a href=\"../1901/katu1_1.html\">桂内閣</a>もアメリカ資本の導入を\n渡りに船と歓迎したのである。\nハリマンの計画は単に南満州鉄道を買収するだけでなく、それを起点にシベリア鉄道を経てヨーロッパへ、\nさらに汽船連絡によって世界一周鉄道を実現するという壮大な構想であった。\n話合いは、順調に進み、十月十五日には、かたちだけ日米平等のシンジケートを経営体とする南満州鉄道運営に関する予備覚書が、\n<a href=\"../p/ktaro.html\">桂首相</a>とハリマンの間に交換された。\nハリマンは勇んで帰国の途についたが、<a href=\"../1905/08portm.html\">ポーツマス講和会議</a>から入替りに帰国した首席全権<a href=\"../p/kjutaro.html\">小村寿太郎</a>は、\nこれに猛然と反対し、ついにその契約を破棄させることに成功する。</div>\n<div><a href=\"../p/kjutaro.html\">小村</a>がそうした強硬な発言ができたかげには、満鉄の自主経営を可能にする資金の手当がモルガン系銀行によって\n保証されていたからであるが、ともあれハリマンは船がまだサンフランシスコへ着くまえに、\n予備協定破棄を電報で知らされる。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/sr_mac2k.html\">袖井林二郎 「マッカーサーの二千日」</a>\n　Ｐ．１５</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>八月三十一日、来日したハリマンは、開戦以来日本の戦時外債を積極的に引受けていてくれたので、\n政府は歓迎し、九月一日に伏見宮、<a href=\"../p/ktaro.html\">桂首相</a>、<a href=\"../p/sarasuke.html\">曾禰蔵相</a>、元老<a href=\"../p/ikaoru.html\">井上馨</a>主催の午餐、晩餐、園遊会に招いた。\nさらに四日に催された駐日米公使グリスコム主催のハリマン歓迎の大園遊会にも、元老、閣僚以下千余名が出席、\nその席でハリマンは、南満州支線計画の一端を述べた。</div>\n<div>ハリマンは、<a href=\"../1905/09hibiy.html\">東京騒擾事件</a>が鎮まった後、参内して天皇に拝謁し、\nグリスコム公使の強力な支援のもとに元老<a href=\"../p/ihirobum.html\">伊藤</a>、<a href=\"../p/ikaoru.html\">井上</a>、首相<a href=\"../p/ktaro.html\">桂</a>らと精力的な交渉をはじめた。\nハリマンは、ロシアの勢力の回復を防ぐためにもアメリカ資本を導入するのが得策であると説き、日本側は財源捻出に苦しんでいたので、\nその申出を受け入れることになった。</div>\n<div>殊に、ハリマンの申出に強く賛成したのは大蔵顧問ともいうべき財政通の<a href=\"../p/ikaoru.html\">井上馨</a>であった。\n<a href=\"../p/ikaoru.html\">井上</a>は、ロシアの勢力の捲き返しを深く憂え、アメリカの支援のもとにロシアを牽制したいと考えていた。\nまた、財政の貧窮している日本には、満州を経営する財力などないとも思っていたのである。</div>\n<div><a href=\"../p/ikaoru.html\">井上</a>は元老、閣僚たちを説いて共鳴を得たが、\nただ<a href=\"../p/okanetak.html\">大浦兼武逓相</a>のみがアメリカの財閥の手に鉄道を渡すことは日本の将来に不利な結果を招くおそれがあると主張し、\n同意しなかった。\nしかし、<a href=\"../p/ikaoru.html\">井上</a>は後輩である<a href=\"../p/okanetak.html\">大浦</a>を叱責し、閣議でその件を決定された。</div>\n<div>やがて、ハリマンはいったん帰国することになり、仮契約の調印をする運びになった。\nハリマンは、船に乗るため横浜のホテルに泊り、<a href=\"../p/ktaro.html\">桂</a>は逓信省鉄道局長平井晴二郎を横浜におもむかせ、調印させることに定めた。</div>\n<div>その日、<a href=\"../p/okanetak.html\">大浦逓相</a>は<a href=\"../p/ktaro.html\">桂</a>に、</div>\n<div>「私は不安でなりません。<a href=\"../p/kjutaro.html\">小村外相</a>の帰国を待って御意見をおききしてから決定すべきだと思います。\n調印は延ばした方が賢明です」</div>\n<div>と進言し、<a href=\"../p/ktaro.html\">桂</a>も同意して、辛うじて調印だけはせずにすました</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ya_portm.html\">吉村昭 「ポーツマスの旗」</a>\n　Ｐ．３２９</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1905.html\">１９０５年</a>\n ＞ <a href=\"#h\">桂・ハリマン覚書</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

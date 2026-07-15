@@ -1,0 +1,993 @@
+{
+ "path": "20c/1941.html",
+ "type": "year",
+ "title": "１９４１年　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９４１年"
+  },
+  {
+   "type": "title2",
+   "html": "昭和１６年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"1931.html\">１０年前</a> &gt;&gt;&gt; <a href=\"1940.html\">前年</a> &gt;&gt;&gt; <span class=\"now\">１９４１</span> &gt;&gt;&gt; <a href=\"1942.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"#s4_c\">ＡＢＣＤ対日包囲陣　　国民学校</a>",
+    "<a href=\"../1940/kono2_1.html\">近衛②</a> → <a href=\"../1941/kono3_1.html\">近衛③</a> → <a href=\"../1941/tojo_1.html\">東條内閣</a>"
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"1940.html#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/01/04　　<a href\"..=\"\" 19.html\"=\"\">\nアンリ・ベルグソン没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/01/28　　<a href=\"../1941/01grewt.html\">\nグルー駐日（米）大使、「真珠湾」の可能性を国務省に打電</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/02/11　　<a href=\"../1941/02rikor.html\">\n李香蘭、日劇に出演</a>　（群衆殺到で警官出動）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/02/21　　<a href\"..=\"\" 19.html\"=\"\">\n貯蓄債券・報国債券のたばこ屋での販売開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/03/01　　<a href\"..=\"\" 19.html\"=\"\">\n国民学校令公布　（小学校を国民学校と改称）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/03/01　　<a href\"..=\"\" 19.html\"=\"\">\nブルガリア、日独伊三国軍事同盟に加盟</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/03/03　　<a href\"..=\"\" 19.html\"=\"\">\n国家総動員法改正</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/03/05　　<a href=\"../1941/03d_kyo.html\">\nヒトラー、「対日協力」を指令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/03/10　　<a href\"..=\"\" 19.html\"=\"\">\n治安維持法改正②　（強化）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/03/11　　<a href=\"../1941/03bukit.html\">\nＦ・ルーズベルト（米）大統領、武器貸与法に署名</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/03/12　　<a href=\"../1941/03matuo.html\">\n松岡外相訪欧</a>　（03/26 ベルリン到着）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/03/25　　<a href\"..=\"\" 19.html\"=\"\">\nユーゴ、日独伊三国軍事同盟に調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/03/27　　<a href\"..=\"\" 19.html\"=\"\">\nユーゴ、反独クーデター</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/03/27　　<a href=\"../1941/03kaida.html\">\n松岡・ヒトラー会談</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/03/31　　<a href\"..=\"\" 19.html\"=\"\">\n朝鮮総督府、朝鮮語の学習を廃止</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/04/01　　<a href\"..=\"\" 19.html\"=\"\">\n生活必需物資統制令公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/04/02　　<a href=\"../1941/04yokus.html\">\n大政翼賛会改組</a>　（<a href=\"../p/ayoriyas.html\">有馬頼寧事務局長</a>ら辞任）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/04/05　　<a href\"..=\"\" 19.html\"=\"\">\n日本癌学会設立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/04/06　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ軍、ユーゴ・ギリシア侵攻開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/04/08　　<a href\"..=\"\" 19.html\"=\"\">\n企画院事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/04/13　　<a href=\"../1941/04js_cy.html\">\n日ソ中立条約調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/04/16　　<a href=\"../1941/04ja_ko.html\">\n日米交渉開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/04/22　　<a href=\"../1941/04matuo.html\">\n松岡外相帰国</a>　（日米交渉に大反対）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/04/23　　<a href\"..=\"\" 19.html\"=\"\">\nギリシア軍、ドイツに降伏</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/05/06　　<a href\"..=\"\" 19.html\"=\"\">\nスターリン、（ソ連）首相就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/05/08　　<a href\"..=\"\" 19.html\"=\"\">\n肉なし日開始　（以後毎月２回、肉屋、食堂など肉不売）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/05/10　　<a href\"..=\"\" 19.html\"=\"\">\nヘス事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/06/04　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/wilhelm2.html\">\nヴィルヘルム２世</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/06/17　　<a href=\"../1941/06jrank.html\">\n日蘭交渉打切り</a>　（石油交渉は継続）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/06/22　　<a href=\"../1941/06ds_ka.html\">\n独ソ戦開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/06/27　　<a href\"..=\"\" 19.html\"=\"\">\n人民解放パルチザン部隊創設</a>　（ユーゴ／司令官：<a href=\"../p/tito.html\">チトー</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4_a\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/07/02　　<a href=\"../1941/07goz02.html\">\n御前会議、「南進」「北進準備」を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/07/02　　<a href=\"../1941/07kanto.html\">\n大本営、「関特演」発動</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/07/16　　<a href=\"../1941/kono2_9.html\">\n近衛内閣②総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/07/18　　<a href=\"../1941/kono3_1.html\">\n近衛内閣③成立</a>　（首相：<a href=\"../p/kfumimar.html\">近衛文麿</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/07/25　　<a href=\"../1941/07toket.html\">\nアメリカ、日本資産の凍結</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/07/26　　<a href=\"../1941/07macar.html\">\nマッカーサー、（アメリカ）極東陸軍司令官就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/07/28　　<a href=\"../1941/07sekiy.html\">\n蘭印、日蘭石油民間協定を停止</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/07/28　　<a href=\"../1941/07futu2.html\">\n南部仏印進駐</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/08/01　　<a href=\"../1941/08kinyu.html\">\nアメリカ、対日石油輸出禁止</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/08/02　　<a href=\"../1941/08a_enj.html\">\nアメリカ、対ソ経済援助開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/08/02　　<a href\"..=\"\" 19.html\"=\"\">\n大政翼賛会、みそぎ錬成講習会開催</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/08/04　　<a href=\"../1941/08konoe.html\">\n近衛首相、日米首脳会談を陸海両相に打診</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/08/08　　<a href\"..=\"\" 19.html\"=\"\">\n文部省、各学校に学校報国隊の編成を訓令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/08/14　　<a href=\"../1941/08kensy.html\">\n大西洋憲章</a>　（米英共同宣言）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/08/17　　<a href=\"../1941/08syuno.html\">\nアメリカ、日米首脳会談の提案に回答</a>　（態度表明が先決）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/08/25　　<a href\"..=\"\" 19.html\"=\"\">\n英ソ両軍、イラン進駐開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/09/06　　<a href=\"../1941/09goz06.html\">\n御前会議、対米開戦を決意</a>　（「帝国国策遂行要領」決定）"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/09/10　　<a href\"..=\"\" 19.html\"=\"\">\n桐生悠々没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/09/12　　<a href\"..=\"\" 19.html\"=\"\">\n産業報国会、「働け運動」開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/09/18　　<a href\"..=\"\" 19.html\"=\"\">\n音楽挺身隊結成　（隊長：山田耕筰）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4_a\"></a>\n<a href=\"#s4_a\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s4_b\">▽</a><a href=\"#s4_a\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/10/01　　<a href\"..=\"\" 19.html\"=\"\">\n乗用自動車のガソリン使用全面禁止</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/10/02　　<a href=\"../1941/10moskv.html\">\nドイツ軍、モスクワ攻略作戦（台風作戦）発動</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/10/12　　<a href=\"../1941/10ogiku.html\">\n荻窪会談</a>　（<a href=\"../p/kfumimar.html\">近衛首相</a>、<a href=\"../p/thideki.html\">陸</a>・<a href=\"../p/okosiro.html\">海</a>・<a href=\"../p/tteijiro.html\">外相</a>と和戦について議論）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/10/15　　<a href\"..=\"\" 19.html\"=\"\">\nゾルゲ事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/10/16　　<a href=\"../1941/kono3_9.html\">\n近衛内閣③総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/10/16　　<a href\"..=\"\" 19.html\"=\"\">\n大学・専門学校などの修業年限を臨時短縮</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/10/17　　<a href=\"../1941/tojo_0.html\">\n東條英機に組閣命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/10/17　　<a href=\"../1941/10hakus.html\">\n白紙還元の御諚</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/10/18　　<a href=\"../1941/tojo_1.html\">\n東條内閣成立</a>　（首相：<a href=\"../p/thideki.html\">東條英機</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/10/19　　<a href=\"../1941/10hawai.html\">\n海軍軍令部、ハワイ攻撃作戦を認可</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4_b\"></a>\n<a href=\"#s4_b\">＝</a><a href=\"#s4_a\">△</a><a href=\"#h\">◎</a><a href=\"#s4_c\">▽</a><a href=\"#s4_b\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/11/05　　<a href=\"../1941/11kurus.html\">\n来栖特命全権大使、渡米</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/11/07　　<a href\"..=\"\" 19.html\"=\"\">\nモーリス・ルブラン没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/11/13　　<a href\"..=\"\" 19.html\"=\"\">\n大蔵省、野村證券に投資信託業務を認可</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/11/15　　<a href=\"../1941/11syuma.html\">\n大本営政府連絡会議、「対米英蘭戦争終末促進に関する腹案」決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/11/26　　<a href=\"../1941/11hitok.html\">\nハワイ作戦機動部隊、ヒトカップ湾（エトロフ島）出港</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/11/26　　<a href=\"../1941/11hulln.html\">\n野村・来栖両大使、ハル・ノートを受領</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4_c\"></a>\n<a href=\"#s4_c\">＝</a><a href=\"#s4_b\">△</a><a href=\"#h\">◎</a><a href=\"1942.html#s1\">▽</a><a href=\"#s4_c\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/12/01　　<a href=\"../1941/12goz01.html\">\n御前会議、対米開戦決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/12/05　　<a href\"..=\"\" 19.html\"=\"\">\nソ連軍、対独反攻開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/12/08　　<a href=\"../1941/12malaj.html\">\nマレー半島上陸開始</a>　（AM02：00）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/12/08　　<a href=\"../1941/12hawai.html\">\nハワイ奇襲攻撃</a>　（AM03：25／太平洋戦争勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/12/08　　<a href=\"../1941/12saigo.html\">\n対米最後通告</a>　（AM04：20）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/12/08　　<a href=\"../1941/12sense.html\">\n宣戦の大詔</a>　（AM11：45）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/12/08　　<a href\"..=\"\" 19.html\"=\"\">\n日米開戦により、新聞・ラジオの天気予報、天気報道禁止</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/12/08　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ映画８支社に閉鎖命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/12/08　　<a href=\"../1941/12moskv.html\">\nヒトラー、モスクワ攻撃放棄を指令</a>　（撤退開始）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/12/10　　<a href=\"../1941/12malak.html\">\nマレー沖海戦</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/12/11　　<a href\"..=\"\" 19.html\"=\"\">\n独伊、対米宣戦布告</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/12/16　　<a href=\"../1941/12yamat.html\">\n戦艦「大和」完成</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/12/17　　<a href\"..=\"\" 19.html\"=\"\">\n言論出版集会結社等臨時取締法成立　（審議１日／12/19 公布）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/12/21　　<a href\"..=\"\" 19.html\"=\"\">\n日タイ同盟条約調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/12/25　　<a href=\"../1941/12honko.html\">\n香港のイギリス軍降伏</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/12/29　　<a href\"..=\"\" 19.html\"=\"\">\n南方熊楠没</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1940/kono2_1.html\">近衛②</a> → <a href=\"../1941/kono3_1.html\">近衛③</a> → <a href=\"../1941/tojo_1.html\">東條内閣</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">ＡＢＣＤ対日包囲陣　　国民学校</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「智恵子抄」　「次郎物語」　「路傍の石」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">「戸田家の兄妹」</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">少国民の時間</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">月月火水木金金</td></tr>\n</tbody>"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"#h\">１９４１年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

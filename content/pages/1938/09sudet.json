@@ -1,0 +1,299 @@
+{
+ "path": "1938/09sudet.html",
+ "type": "article",
+ "title": "ミュンヘン協定　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1938.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "ミュンヘン協定"
+  },
+  {
+   "type": "title2",
+   "html": "1938/09/30"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1928.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1937.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1938.html\">１９３８</a> &gt;&gt;&gt; <a href=\"../20c/1939.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1948.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "ヨーロッパの平和の代償として、チェコの国土が、英仏によってドイツに売り渡された。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/03/23　　<a href=\"../1933/03zenke.html\">\nドイツ議会、全権委任法を可決</a>　（ヒトラー独裁体制確立）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/08/19　　<a href\"..=\"\" 19.html\"=\"\">\nヒトラー、首相と大統領を兼任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/03/06　　<a href=\"../1935/03d_sai.html\">\nドイツ、再軍備宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/06/18　　<a href=\"../1935/06ed_ka.html\">\n英独海軍協定調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/10/21　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ、国際連盟脱退</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/03/07　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ軍、ラインラント進駐</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/10/25　　<a href\"..=\"\" 19.html\"=\"\">\nイタリア外相チアノ、ベルリン訪問　（ローマ・ベルリン枢軸）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/11/25　　<a href=\"../1936/11jd_bo.html\">\n日独防共協定調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/02/04　　<a href\"..=\"\" 19.html\"=\"\">\nヒトラー、統帥権掌握　（国防相、陸軍司令長官を解任）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/03/13　　<a href=\"../1938/03austr.html\">\nドイツ、オーストリア併合</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/09/29　　<a href=\"../1938/09munch.html\">\nミュンヘン会談</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/09/30　　<a 1938=\"\" href\"..=\"\" 09sudet.html\"=\"\">\nミュンヘン協定</a>　（ドイツへのズデーテン割譲を決定）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/10/01　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ軍、ズデーデン進駐</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/10/05　　<a href\"..=\"\" 19.html\"=\"\">\nベネシュ（チェコ）大統領辞任、亡命</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1939/03/16　　<a href=\"../1939/03czech.html\">\nヒトラー、ボヘミア・モラビアの保護国化宣言　（チェコ解体）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1939/03/21　　<a href=\"../1939/03danzi.html\">\nドイツ、ポーランドにダンチヒ割譲を要求</a>　（03/26 ポーランド拒否）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1939/03/23　　<a href=\"../1939/03memel.html\">\nドイツ、メーメル（リトアニア）併合</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nイギリス首相<a href=\"../p/chambe_n.html\">ネビル・チェンバレン</a>は、ほんの一瞬だけ英雄であり、世界平和の守護神だった。\n<a href=\"../p/hitler_a.html\">ヒトラー</a>との間に<a href=\"../1938/09sudet.html\">ミュンヘン協定</a>を結び、チェコの国土を売り渡した彼を、世界はそのように受け止め、イギリス国民は歓呼で迎えた。\n第二次世界大戦が始まるや、評価は暴落し、彼こそが<a href=\"../p/hitler_a.html\">ヒトラー</a>を増長させ、世界戦争を招いたＡ級戦犯ということになる。\ntaroは思う、自国民の熱烈な平和願望の中で、民主主義の国の政治家があれ以外の選択をする余地があっただろうか、と。\n<a href=\"../p/kfumimar.html\">近衛首相</a>と当時の日本国民の関係も、思うにこれに近い。\nぼくらが採用している民主主義という制度には、こういうおっかないところがあるのだ。\nといって、やみくもな強気や世論無視がいいと言っているわけではない。むずかしいもんだ。\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>ミュンヘンでの西欧側の降伏がその国民一般に人気があったということは、注目に値する。\n会談に臨んだ<a href=\"../p/chambe_n.html\">チェンバレン</a>と<a href=\"../p/daladi_e.html\">ダラディエ</a>とは、熱狂的群集によって平和の調印者だと称賛された。\nそして<a href=\"../p/hitler_a.html\">ヒットラー</a>が、「これはわたしが欧洲でなさねばならぬ最後の領土的要求である」と声明したとき、\nイギリスやフランスの国民一般は感謝の念をもって、彼の言葉を信用した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ia_gaise.html\">今津晃 「概説現代史」</a>\n　Ｐ．１９７</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>チェコ政府は、午後零時五十分、「われわれは見捨てられた」と言明して「ミュンヘン協定」受諾を発表し、\n英仏伊三国首脳はいずれも凱旋将軍なみの歓迎をうけて自国に帰った。</div>\n<div>英首相<a href=\"../p/chambe_n.html\">チェンバレン</a>は、ロンドン空港に到着すると、共同声明文をふりかざして出迎えの外相ハリファクス卿に叫んだ。</div>\n<div>「やったぞ・・・・・・私はやったぞ」</div>\n<div>首相としては、「ミュンヘン協定」そのものよりも、\nチェコを犠牲にして獲得した<a href=\"../p/hitler_a.html\">ヒトラー</a>の「平和公約」のほうを成果とみなしていたのである。</div>\n<div>そして、その気持ちは世界の国民多数に共通していた。</div>\n<div>世界大戦が回避された、との喜びは大きく、帰国する伊首相<a href=\"../p/mussol_b.html\">ムソリーニ</a>の列車は、\nどの駅でも跪いて謝意を表明する市民の群で迎えられた。</div>\n<div>日本では、首相<a href=\"../p/kfumimar.html\">近衛文麿</a>がヒトラーあてに祝電を送った。</div>\n<div>「今般閣下のおさめられたる光輝ある外交的成果に対し、\n茲に余の満腔の祝意を呈すると共に閣下並にドイツ国民に対する敬意を表す」</div>\n<div>さらに陸相<a href=\"../p/iseisiro.html\">板垣征四郎</a>、海相<a href=\"../p/ymitumas.html\">米内光政</a>もそれぞれ「帝国陸軍」および「帝国海軍」の名で、祝辞を伝えている。</div>\n<div>だが、なんといっても祝意と謝意は英首相<a href=\"../p/chambe_n.html\">チェンバレン</a>に集中した。</div>\n<div>元ドイツ皇太子ウィルヘルムが、平和確保を感謝する秘密書簡を首相に送れば、\nオランダに亡命中の元皇帝<a href=\"../p/wilhelm2.html\">ウィルヘルム二世</a>も英皇后メリーに、\n「天の声にはげまされ神の導き」で災禍を回避してくれた、と首相を讃える手紙を伝達した。</div>\n<div>英首相にノーベル平和賞を、という声が高まり、英国内では感謝醵金運動が起り（註、首相は辞退した）、\nパリでは街のひとつを「チェンバレン」と命名する動議がおこなわれた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kn2hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（２）」</a>\n　Ｐ．２４７</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1938.html\">１９３８年</a>\n ＞ <a href=\"#h\">ミュンヘン協定</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

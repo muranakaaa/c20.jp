@@ -1,0 +1,307 @@
+{
+ "path": "1949/yosi3_1~.html",
+ "type": "detail",
+ "title": "[詳細] 吉田内閣③成立　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../c.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1949.html\">年表</a> ＞ <a href=\"yosi3_1.html\">事項</a> ＞ <span class=\"now\">詳細</span>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "[詳細] 吉田内閣③成立"
+  },
+  {
+   "type": "title2",
+   "html": "1949/02/16"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1939.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1948.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1949.html\">１９４９</a> &gt;&gt;&gt; <a href=\"../20c/1950.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "総選挙大勝で、吉田民自党、内閣をフルモデルチェンジ。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"yosi3_1.html\">[事項]</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "cl"
+   },
+   "html": "\n<tbody><tr><td class=\"cl\">内閣総理大臣</td><td class=\"cl\"><a href=\"../p/ysigeru.html\">吉田茂</a></td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">副総理</td><td class=\"cl\">林譲治</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">法務総裁</td><td class=\"cl\">殖田俊吉</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">外務大臣</td><td class=\"cl\"><a href=\"../p/ysigeru.html\">（吉田茂）</a></td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">大蔵大臣</td><td class=\"cl\"><a href=\"../p/ihayato.html\">池田勇人</a></td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">文部大臣</td><td class=\"cl\">高瀬荘太郎</td><td class=\"cl\">天野貞祐</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1950.05.06</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">厚生大臣</td><td class=\"cl\">林譲治</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">農林大臣</td><td class=\"cl\">森幸太郎</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">商工大臣</td><td class=\"cl\">稲垣平太郎</td><td class=\"cl\">1949.05.25廃止</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">通商産業大臣</td><td class=\"cl\">稲垣平太郎</td><td class=\"cl\"><a href=\"../p/ihayato.html\">（池田勇人）</a></td><td class=\"cl\">（高瀬荘太郎）</td><td class=\"cl\">高瀬荘太郎</td></tr>\n<tr><td class=\"cl\">1949.05.25設置</td><td class=\"cl\">～1949.05.25</td><td class=\"cl\">～1950.02.17</td><td class=\"cl\">～1950.04.11</td><td class=\"cl\">～1950.05.06</td></tr>\n<tr><td class=\"cl\">運輸大臣</td><td class=\"cl\">大屋晋三</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">逓信大臣</td><td class=\"cl\">小澤佐重喜</td><td class=\"cl\">1949.06.01廃止</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">郵政大臣</td><td class=\"cl\">小澤佐重喜</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">1949.06.01設置</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">電気通信大臣</td><td class=\"cl\">（小澤佐重喜）</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">1949.06.01設置</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">労働大臣</td><td class=\"cl\">鈴木正文</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">建設大臣</td><td class=\"cl\">益谷秀次</td><td class=\"cl\">増田甲子七</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1950.05.06</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">経済安定本部長官</td><td class=\"cl\">青木孝義</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\"><div class=\"f8\">中央経済調査庁長官</div></td><td class=\"cl\">（青木孝義）</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">物価庁長官</td><td class=\"cl\">（青木孝義）</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">行政管理庁長官</td><td class=\"cl\">本多市郎</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">賠償庁長官</td><td class=\"cl\">樋貝詮三</td><td class=\"cl\">山口喜久一郎</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1949.03.11</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">地方財政委員長</td><td class=\"cl\">木村小左衞門</td><td class=\"cl\">1949.06.01廃止</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">地方自治庁長官</td><td class=\"cl\">木村小左衞門</td><td class=\"cl\">（本多市郎）</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">1949.06.01設置</td><td class=\"cl\">～1949.01.24</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">北海道開発庁長官</td><td class=\"cl\">増田甲子七</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">1949.06.01設置</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">国務大臣</td><td class=\"cl\">山口喜久一郎</td><td class=\"cl\">樋貝詮三</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1949.03.11</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">国務大臣</td><td class=\"cl\">増田甲子七</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">内閣官房長官</td><td class=\"cl\">増田甲子七</td><td class=\"cl\">岡崎勝男</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1949.05.06</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">内閣官房次長</td><td class=\"cl\">郡祐一</td><td class=\"cl\" colspan=\"2\"><div class=\"l\">　1949.06.01内閣官房副長官に改称</div></td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">内閣官房副長官</td><td class=\"cl\">郡祐一</td><td class=\"cl\">井上清一</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1949.03.11</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">内閣官房副長官</td><td class=\"cl\">菅野義丸</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n</tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/12/23　　<a href=\"../1948/12fusin.html\">\n衆議院、内閣不信任案可決</a>　（→衆議院解散）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/01/23　　<a href\"..=\"\" 19.html\"=\"\">\n総選挙[24]　（民自264、民主69、社会41、共産35、国協14）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/02/10　　<a href=\"../1949/02yosid.html\">\n吉田・犬養会談</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/02/16　　<a 1949=\"\" href\"..=\"\" yosi3_1.html\"=\"\">\n吉田内閣③成立</a>　（首相：<a href=\"../p/ysigeru.html\">吉田茂</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/03/07　　<a href=\"../1949/03dodge.html\">\nドッジ、経済安定９原則実施について声明</a>　（ドッジライン）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/03/07　　<a href\"..=\"\" 19.html\"=\"\">\n民主党分裂</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/04/04　　<a href\"..=\"\" 19.html\"=\"\">\n団体等規正法公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/04/04　　<a href\"..=\"\" 19.html\"=\"\">\nＮＡＴＯ（北太平洋条約）調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/04/25　　<a href=\"../1949/04kawas.html\">\n１ドル360円の単一為替レート実施</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/07/04　　<a href\"..=\"\" 19.html\"=\"\">\n国鉄、人員整理①（３万700人）の通告を開始と発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/07/06　　<a href=\"../1949/07simoy.html\">\n下山事件</a>　（下山定則国鉄総裁、轢死体で発見）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/07/12　　<a href\"..=\"\" 19.html\"=\"\">\n国鉄、人員整理②（６万3000人）の通告を開始と発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/07/15　　<a href=\"../1949/07mitak.html\">\n三鷹事件</a>　（無人電車暴走）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/08/17　　<a href=\"../1949/08matuk.html\">\n松川事件</a>　（旅客列車転覆）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/09/15　　<a href\"..=\"\" 19.html\"=\"\">\nシャウプ勧告①</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/03/01　　<a href\"..=\"\" 19.html\"=\"\">\n自由党結成</a>　（民主自由党と民主党連立派の合同／総裁：<a href=\"../p/ysigeru.html\">吉田茂</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/04/25　　<a href=\"../1950/04ikeda.html\">\n池田蔵相ら渡米</a>　（05/22 帰国）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/06/25　　<a href=\"../1950/06cyose.html\">\n朝鮮戦争勃発</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/08/10　　<a href=\"../1950/08yobit.html\">\n警察予備隊令公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/09/15　　<a href=\"../1950/09jinse.html\">\n国連軍、仁川に上陸</a>　（反撃開始）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/10/25　　<a href\"..=\"\" 19.html\"=\"\">\n中国人民義勇軍、鴨緑江を越えて出撃</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div>ああああああああああああああああ</div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n<br>「吉田内閣③」は「第３次吉田内閣」「第三次吉田茂内閣」と同じ意味です。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1949.html\">１９４９年</a>\n ＞ <a href=\"yosi3_1.html\">吉田内閣③成立</a>\n ＞ <a href=\"#h\">[詳細] 吉田内閣③成立</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

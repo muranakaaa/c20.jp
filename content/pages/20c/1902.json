@@ -1,0 +1,350 @@
+{
+ "path": "20c/1902.html",
+ "type": "year",
+ "title": "１９０２年　／ クリック ２０世紀",
+ "description": null,
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a href=\"#f\">▽▽▽</a><a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９０２年"
+  },
+  {
+   "type": "title2",
+   "html": "明治３５年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n１０年前 &gt;&gt;&gt; <a href=\"1901.html\">前年</a> &gt;&gt;&gt; <span class=\"now\">１９０２</span> &gt;&gt;&gt; <a href=\"1903.html\">翌年</a> &gt;&gt;&gt; <a href=\"1912.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "蛮カラ　　羽織ゴロ　　非戦",
+    "<a href=\"../1901/katu1_1.html\">桂内閣①</a>"
+   ]
+  },
+  {
+   "type": "edit_bar",
+   "kind": "e_data",
+   "html": "リンク情報（2003/00/00）＝削除：０件（.html）"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"1901.html#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1902/01/23　　<a href=\"../1902/01hakko.html\">\n八甲田山遭難事件</a>　（～01/25）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1902/01/30　　<a href=\"../1902/01je_do.html\">\n日英同盟①調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1902/02/01　　<a href\"..=\"\" 19.html\"=\"\">\n清国、満州人と漢人の通婚を許可</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1902/02/01　　<a href=\"../1902/02tenso.html\">\n清国、纏足禁止令公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1902/03/26　　<a href\"..=\"\" 19.html\"=\"\">\nセシル・ローズ没</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1902/04/08　　<a href=\"../1902/04mansy.html\">\n満州還付条約調印</a>　（露・清）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1902/04/18　　<a href\"..=\"\" 19.html\"=\"\">\n東京市街鉄道㈱設立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1902/05/31　　<a href\"..=\"\" 19.html\"=\"\">\nプレトリア条約調印　（南ア戦争終結）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1902/07/18　　<a href\"..=\"\" 19.html\"=\"\">\n西郷従道没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1902/08/10　　<a href\"..=\"\" 19.html\"=\"\">\n総選挙[７]　（任期満了／政友会190、憲政本党95、帝国党17）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1902/08/15　　<a href=\"../1902/08otani.html\">\n大谷光瑞ら中央アジア仏蹟探検隊、ロンドンを出発</a>　（03/03/12 帰国）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1902/09/02　　<a href\"..=\"\" 19.html\"=\"\">\n東京専門学校、早稲田大学と改称</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1902/09/15　　<a href\"..=\"\" 19.html\"=\"\">\n第一生命保険設立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1902/09/19　　<a href\"..=\"\" 19.html\"=\"\">\n正岡子規没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1902/09/29　　<a href\"..=\"\" 19.html\"=\"\">\nエミール・ゾラ没</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"1903.html#s1\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1902/10/02　　<a href\"..=\"\" 19.html\"=\"\">\n閣議、清韓事業経営費の支出を決定</a>　（479万円／<a href=\"../p/kjutaro.html\">小村外相</a>要求）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1902/10/06　　<a href\"..=\"\" 19.html\"=\"\">\n横浜でペスト発生　（12/24 東京でも発生）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1902/10/09　　<a href\"..=\"\" 19.html\"=\"\">\nユゴー作、黒岩涙香訳「噫無情」連載開始　（万朝報）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1902/11/02　　<a href\"..=\"\" 19.html\"=\"\">\n桂・伊藤会談　（地租継続問題）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1902/12/03　　<a href\"..=\"\" 19.html\"=\"\">\n伊藤・大隈会談</a>　（<a href=\"../p/ktakaaki.html\">加藤高明</a>の斡旋）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1902/12/13　　<a href=\"../1902/12tetug.html\">\n哲学館事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1902/12/14　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ議会、新関税法案可決</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1902/12/16　　<a href=\"../1902/12hyakk.html\">\n丸善、「大英百科全書」全25巻の予約募集開始</a>　（→1250部販売）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1902/12/17　　<a href=\"../1902/12kyoka.html\">\n教科書疑獄事件</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1901/katu1_1.html\">桂内閣①</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">蛮カラ　　羽織ゴロ　　非戦</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「重右衛門の最後」　「即興詩人」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">「ロビンソー・クルーソー」</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">―</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">嗚呼玉杯に花うけて</td></tr>\n</tbody>"
+  },
+  {
+   "type": "fnavi",
+   "html": "<a name=\"f\"></a>\n<a href=\"../index.html\">目次</a>\n ＞ <a href=\"#h\">１９０２年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

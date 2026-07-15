@@ -1,0 +1,223 @@
+{
+ "path": "1947/01macar.html",
+ "type": "article",
+ "title": "マッカーサー、「２・１ゼネスト」中止を命令　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1947.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "マッカーサー、「２・１ゼネスト」中止を命令"
+  },
+  {
+   "type": "title2",
+   "html": "1947/01/31"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1937.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1946.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1947.html\">１９４７</a> &gt;&gt;&gt; <a href=\"../20c/1948.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "ノ ウ！　だめだ、許さないぞ。　<a href=\"../p/macart_d.html\">マ元帥</a>が一転、労働運動の過激戦術にストップをかけた。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/16　　<a href=\"../1946/yosi1_0.html\">\n吉田茂に組閣命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/19　　<a href=\"../1946/05mayda.html\">\n食糧メーデー　（飯米獲得人民大会開催）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/20　　<a href\"..=\"\" 19.html\"=\"\">\nマッカーサー、「暴民デモ許さず」と声明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/22　　<a href=\"../1946/yosi1_1.html\">\n吉田内閣①成立</a>　（首相：<a href=\"../p/ysigeru.html\">吉田茂</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/01/01　　<a href=\"../1947/01futei.html\">\n吉田首相、ラジオで一部労働運動指導者を「不逞の輩」と非難</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/01/18　　<a href=\"../1947/0121sut.html\">\n全官公庁労組共闘委員会、「２・１ゼネスト」を宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/01/31　　<a href=\"../1947/yosi1_2.html\">\n吉田内閣①改造</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/01/31　　<a 1947=\"\" href\"..=\"\" 01macar.html\"=\"\">\nマッカーサー、「２・１ゼネスト」中止を命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/04/20　　<a href\"..=\"\" 19.html\"=\"\">\n参議院選挙[１]　（社会47、自由39、民主29、国協10、共産４、他121）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/04/25　　<a href\"..=\"\" 19.html\"=\"\">\n総選挙[23]　（社会143、自由131、民主124、国協31）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/05/20　　<a href=\"../1947/yosi1_9.html\">\n吉田内閣①総辞職</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>共闘の拡大会議は、まだつづけられていた。\nそこへ総司令部からの使者が伊井議長に面会をもとめ、議長および共闘傘下組合の委員長にたいする経済科学局長マーカットの出頭命令をつたえてきた。\n拡大会議は一時中止し、伊井議長以下八名の委員長は総司令部に出頭した。</div>\n<div>総司令部との会見は、前日までは全員そろってしていたが、今日は一人ずつ別室によばれた。\nマーカットは、激怒してテーブルをたたきながら正式の中止命令をいいわたし、命令の趣旨を電話で各本部へつたえるよう命じた。\n伊井議長と全逓委員長土橋一吉および国鉄総連合委員長鈴木清一は、さらに次室にみちびかれ、\n総司令部の幹部が数人いる前でラジオ放送の原稿起草を申しわたされた。</div>\n<div>【中略】</div>\n<div>総司令部で放送原稿を起草させられた伊井議長と土橋・鈴木の両委員長は、ジープでＮＨＫにおくりとどけられた。\n伊井は、まだゼネストを中止することが正しいかどうかについて迷っていた。\n迷いながら放送室にむかってせまい廊下をあるいていると、バッタリと徳田球一にでくわした。\n徳田は、「ストはやめると放送しなくてはダメですよ」とおとなしく一言のこして神出鬼没のように姿を消していった。\n伊井は、このときはじめてゼネストを中止するのが正しいのかと意を決した。\n午後九時二〇分、彼は「断腸の思いで」ゼネストの中止を全国の労働組合につたえた。\nつづく両委員長の放送は、一〇時〇四分に終った。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ss2sengo.html\">信夫清三郎 「戦後日本政治史Ⅱ」</a>\n　Ｐ．４８１</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1947.html\">１９４７年</a>\n ＞ <a href=\"#h\">マッカーサー、「２・１ゼネスト」中止を命令</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

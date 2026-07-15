@@ -1,0 +1,303 @@
+{
+ "path": "1945/09senp1.html",
+ "type": "article",
+ "title": "ＧＨＱ、戦争犯罪人逮捕を指令①　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1945.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "ＧＨＱ、戦争犯罪人逮捕を指令①"
+  },
+  {
+   "type": "title2",
+   "html": "1945/09/11"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1935.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1944.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1945.html\">１９４５</a> &gt;&gt;&gt; <a href=\"../20c/1946.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "ついに来たぁ。　戦犯逮捕がはじまった。　戦々恐々、次は誰だ！"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/07/26　　<a href=\"../1945/07potsd.html\">\n連合国、ポツダム宣言発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/14　　<a href=\"../1945/08goz14.html\">\n御前会議、ポツダム宣言受諾を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/15　　<a href=\"../1945/08gyoku.html\">\n玉音放送　（終戦の詔勅）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/28　　<a href=\"../1945/08atugi.html\">\n連合軍先遣隊、厚木到着　（ＧＨＱ設置）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/30　　<a href=\"../1945/08macar.html\">\nマッカーサー厚木到着</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/02　　<a href=\"../1945/09kofuk.html\">\n降伏文書調印</a>　（全権：<a href=\"../p/smamoru.html\">重光葵</a>、<a href=\"../p/uyosijir.html\">梅津美治郎</a>／第二次世界大戦終結）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/03　　<a href=\"../1945/09gunse.html\">\n重光・マッカーサー会談</a>　（軍政中止）"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/11　　<a 1945=\"\" href\"..=\"\" 09senp1.html\"=\"\">\nＧＨＱ、戦争犯罪人逮捕を指令①</a>　（<a href=\"../p/thideki.html\">東條</a>・<a href=\"../p/tsigenor.html\">東郷</a>ら39人）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/11　　<a href=\"../1945/09tojoj.html\">\n東條英機自殺未遂</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/12　　<a href\"..=\"\" 19.html\"=\"\">\n杉山元、ピストル自殺</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/11/19　　<a href=\"../1945/11senp2.html\">\nＧＨＱ、戦争犯罪人逮捕を指令②</a>　（<a href=\"../p/kkuniaki.html\">小磯</a>・<a href=\"../p/myosuke.html\">松岡</a>ら11人）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/12/02　　<a href=\"../1945/12senp3.html\">\nＧＨＱ、戦争犯罪人逮捕を指令③</a>　（<a href=\"../p/hkiiciro.html\">平沼</a>・<a href=\"../p/hkoki.html\">広田</a>ら59人）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/12/06　　<a href=\"../1945/12senp4.html\">\nＧＨＱ、戦争犯罪人逮捕を指令④</a>　（<a href=\"../p/kfumimar.html\">近衛</a>・<a href=\"../p/kkoici.html\">木戸</a>ら９人）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/12/07　　<a href=\"../1945/12yamas.html\">\n軍事裁判で山下奉文に死刑判決</a>　（マニラ／46/02/23 死刑執行）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/12/16　　<a href=\"../1945/12konoe.html\">\n近衛文麿、服毒自殺</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/04/29　　<a href\"..=\"\" 19.html\"=\"\">\nＡ級戦犯容疑者28人の起訴状発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/03　　<a href=\"../1946/05tokyo.html\">\n東京裁判（極東国際軍事裁判）開廷</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/11/12　　<a href=\"../1948/11tokyo.html\">\n東京裁判、Ａ級戦犯25被告に有罪判決</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/12/23　　<a href=\"../1948/12senpa.html\">\n東條英機・広田弘毅ら７人、絞首刑執行</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div>ああああああああああああああああ</div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1945.html\">１９４５年</a>\n ＞ <a href=\"#h\">ＧＨＱ、戦争犯罪人逮捕を指令①</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

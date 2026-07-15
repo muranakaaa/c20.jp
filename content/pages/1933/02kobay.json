@@ -1,0 +1,183 @@
+{
+ "path": "1933/02kobay.html",
+ "type": "article",
+ "title": "小林多喜二、拷問死　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1933.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "小林多喜二、拷問死"
+  },
+  {
+   "type": "title2",
+   "html": "1933/02/20"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1923.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1932.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1933.html\">１９３３</a> &gt;&gt;&gt; <a href=\"../20c/1934.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1943.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "プロレタリア文学の作家 <a href=\"../p/ktakiji.html\">小林多喜二</a>が<a href=\"../1925/04ciani.html\">治安維持法</a>違反容疑で逮捕され、拷問で殺された。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/04/22　　<a href=\"../1925/04ciani.html\">\n治安維持法公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1928/03/15　　<a href\"..=\"\" 19.html\"=\"\">\n三・一五事件　（共産党関係者一斉検挙）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1928/06/29　　<a href=\"../1928/06ciani.html\">\n治安維持法改正①</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1929/04/16　　<a href\"..=\"\" 19.html\"=\"\">\n四・一六事件　（共産党員全国一斉検挙／党組織に壊滅的打撃）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1930/05/20　　<a href\"..=\"\" 19.html\"=\"\">\n共産党シンパ事件　（三木清ら検挙）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/02/20　　<a 1933=\"\" href\"..=\"\" 02kobay.html\"=\"\">\n小林多喜二、拷問死</a>　（築地署／当局、死体解剖を妨害）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/04/22　　<a href=\"../1933/04takig.html\">\n滝川事件</a>　（<a href=\"../p/hiciro.html\">鳩山文相</a>、滝川教授の辞職を京都帝大総長に要求）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\ntaroの母が亡くなろうとしているとき、ある叔母が病院に一冊の本を持ってきてくれた。\nその本、三浦綾子の「母」は<a href=\"../p/ktakiji.html\">小林多喜二</a>とその母を描いた小説だ。\n叔母にしてみれば、母親の愛情がもっともわかるとき、もっともわからねばならないときに際して、\nこの本をtaroに読ませたかったのだろう。\n築地署から帰ってきた<a href=\"../p/ktakiji.html\">多喜二</a>は、むごたらしく変わり果てていた。\n<a href=\"../p/ktakiji.html\">多喜二</a>が受けた扱いのいくつかは、そのむくろがはっきり語っており、<a href=\"../p/ktakiji.html\">多喜二</a>の痛みが見る者の顔をしかめさせた。\nこの心やさしい親孝行者の息子がなぜにこんなことにならねばならないのかと、年老いた母親は号泣した。\n<a href=\"../p/ktakiji.html\">多喜二</a>のおかあさんと比べるのは僭越すぎるが、\n今亡くなろうとしている母も、taroの拷問死体を見たら、同じほどに身も世もなく泣くだろうとそのとき思った。\nついでながら、拷問する者にも母親はある。ここが恐ろしいところだ。\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><a href=\"../p/ktakiji.html\">小林多喜二</a>が特高の手に捕らえられ、築地警察で虐殺されたのは、二月二十日のことだったが、\nそれをありのままに報道した新聞は一社もなかった。\n毛利特高課長の「決して拷問した事実はない。\n心臓に急変をきたしたものだ」という談話をれいれいしくのせた。\nわずかに、友人の江口渙の「顔面の打撲裂傷、首の縄の跡、腰下の出血がひどく、たんなる心臓マヒとは思えません」\nという談話（都新聞）や、家族や友人が「むごくも変わりはてた姿に死の対面をした」（読売新聞）といった表現で、\n真相をそれとなく匂わせるのがやっとであった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/mt_yuhit.html\">三好徹 「夕陽と怒濤」</a>\n　Ｐ．２０２</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1933.html\">１９３３年</a>\n ＞ <a href=\"#h\">小林多喜二、拷問死</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

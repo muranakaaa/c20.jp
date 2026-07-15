@@ -1,0 +1,393 @@
+{
+ "path": "p/hinden_p.html",
+ "type": "person",
+ "title": "パウル・フォン・ヒンデンブルク　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "p.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "パウル・フォン・ヒンデンブルク"
+  },
+  {
+   "type": "title2",
+   "html": "1847 － 1934"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "prof"
+   },
+   "html": "\n大統領、参謀総長　／ ドイツ"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"06h.html\">一覧　（ハ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_r\">エピソード 1</span>調査中。"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<tbody><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/07/28　　<a href=\"../1914/07taise.html\">\nオーストリア、セルビアに宣戦布告</a>　（第一次世界大戦勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/08/26　　<a href\"..=\"\" 19.html\"=\"\">\nタンネンベルクの戦い　（～08/30）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/11/09　　<a href=\"../1918/11d_kak.html\">\nドイツ革命</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/01/18　　<a href=\"../1919/01paris.html\">\nパリ講和会議開催</a>　（～06/28／首席全権：<a href=\"../p/skinmoci.html\">西園寺公望</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/06/28　　<a href=\"../1919/06versa.html\">\nベルサイユ条約調印</a>　（北京政府、調印拒否）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/07/31　　<a href\"..=\"\" 19.html\"=\"\">\nワイマール憲法成立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/05/05　　<a href=\"../1921/05baisy.html\">\n連合国、賠償金1320億金マルクの支払計画受諾をドイツに要求</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/01/11　　<a href=\"../1923/01ruhrs.html\">\nフランス・ベルギー、ルール占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/11/15　　<a href=\"../1923/11rente.html\">\nドイツ、レンテンマルク発行開始</a>　（→インフレ収束）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/08/29　　<a href=\"../1924/08dawes.html\">\nドイツ議会、ドーズ案を承認</a>　（賠償金支払い問題）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/10/16　　<a href=\"../1925/10locar.html\">\nロカルノ条約仮調印</a>　（12/01 正式調印）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/09/08　　<a href=\"../1926/09d_kam.html\">\nドイツ、国際連盟加盟</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/12/12　　<a href\"..=\"\" 19.html\"=\"\">\n連合国軍事監視委員会、ドイツからの撤退を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1929/06/07　　<a href=\"../1929/06young.html\">\nヤング案発表</a>　（ドイツ賠償金支払い問題）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/06/20　　<a href=\"../1931/06hoove.html\">\nフーバー・モラトリアム</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/06/16　　<a href=\"../1932/06lausa.html\">\nローザンヌ会議開催</a>　（～07/09／ドイツ賠償金支払い問題）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/07/31　　<a href=\"../1932/07nazis.html\">\nナチス、第１党に躍進</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/01/30　　<a href=\"../1933/01hitle.html\">\nヒトラー内閣成立</a>　（独）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/02/27　　<a href=\"../1933/02gijid.html\">\n国会議事堂放火事件</a>　（ベルリン）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/03/23　　<a href=\"../1933/03zenke.html\">\nドイツ議会、全権委任法を可決</a>　（ヒトラー独裁体制確立）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/07/14　　<a href=\"../1933/07seito.html\">\nヒトラー、新政党の結成を禁止</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/10/14　　<a href=\"../1933/10d_dat.html\">\nドイツ、ジュネーブ軍縮会議・国際連盟からの脱退を表明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/04/11　　<a href=\"../1934/04hitle.html\">\nヒトラー、軍首脳と洋上会談</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/06/30　　<a href=\"../1934/06rohmj.html\">\nレーム事件</a>　（<a href=\"../p/hitler_a.html\">ヒトラー</a>、<a href=\"../p/rohm_e.html\">レーム</a>らを粛清）"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/08/02　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/hinden_p.html\">\nヒンデンブルク</a>没　（ドイツ大統領）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>元帥は巨大な体躯<span class=\"bar\">―</span>―身長六フィート五インチ・体重二百ポンド<span class=\"bar\">―</span>―を持ち、粘液質の寡黙な典型的プロイセン軍人だった。\nいかにも単純そうに見えたが、実は老獪とも評すべき打算家であって、たくまざる自己演出に長じていた。\nとくに、他人の功績を横取りして自分の手柄にし、自分の失敗を他人に転嫁して涼しい顔をしながら、\n人格高潔な無欲無私の愛国武将というイメージを樹立する処世術を、器用に身につけていた。\nタンネンベルクの大勝は<a href=\"../p/ludend_e.html\">ルーデンドルフ参謀長</a>の鬼才に帰すべきものなのに、ヒンデンブルグが栄誉を独占した。\n西部戦線の破綻とそれにつづく敗戦の責任は、参謀総長ヒンデンブルグが負わねばならぬのに、\nすべての汚名をきたのは次長<a href=\"../p/ludend_e.html\">ルーデンドルフ</a>だった。\nヒンデンブルグは<a href=\"../p/ludend_e.html\">ルーデンドルフ</a>のロボットに過ぎなかったのだが、一見高邁愚直な人柄が幸いしたのである。</div>\n<div><a href=\"../p/wilhelm2.html\">カイザー</a>が退位を余儀なくされたとき、引導を渡したのは、ヒンデンブルグ<span class=\"bar\">―</span>―終始沈黙していた<span class=\"bar\">―</span>―ではなく、\nグレーナー参謀次長（<a href=\"../p/ludend_e.html\">ルーデンドルフ</a>の後任）である。\n休戦協定にしてからが、本来ならヒンデンブルグが署名せねばならぬのに、\nエルツベルガー代議士にまかせ、彼は泣いてエルツベルガーに感謝したのだが、そのエルツベルガーは敗戦主義者として暗殺されてしまった。\nつづくヴェルサイユ講和条約の諾否をめぐって閣議が分裂し、<a href=\"../p/ebert_f.html\">エーベルト大統領</a>がヒンデンブルグに軍部の意見を求めたとき、\n元帥は故意に執務室から外出したので、グレーナー次長が代わって、受諾のほかない、と答えたが、\n元帥は次長に、「君は大変な責任を負ったものだな」とつぶやいた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ks_weima.html\">加瀬俊一 「ワイマールの落日」</a>\n　Ｐ．１５５</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n<br>「ヒンデンブルク」は「ヒンデンブルグ」とも表記されることがあります。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"06h.html\">人物ファイル一覧　（ハ）</a>\n ＞ <a href=\"#h\">パウル・フォン・ヒンデンブルク</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

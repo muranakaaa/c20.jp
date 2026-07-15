@@ -1,0 +1,294 @@
+{
+ "path": "1915/05i_san.html",
+ "type": "article",
+ "title": "イタリア、対オーストリア宣戦布告　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1915.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "イタリア、対オーストリア宣戦布告"
+  },
+  {
+   "type": "title2",
+   "html": "1915/05/23"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1905.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1914.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1915.html\">１９１５</a> &gt;&gt;&gt; <a href=\"../20c/1916.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1925.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "同盟につくか。　協商側が得か。　熟慮のイタリア、“後出し” で英・仏・露について参戦。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/06/28　　<a href=\"../1914/06saraj.html\">\nサラエボ事件</a>　（オーストリア皇太子夫妻暗殺）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/07/28　　<a href=\"../1914/07taise.html\">\nオーストリア、セルビアに宣戦布告</a>　（第一次世界大戦勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/08/03　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ、ベルギーへの侵入開始　（対仏宣戦布告）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/08/04　　<a href\"..=\"\" 19.html\"=\"\">\nイギリス、ドイツに宣戦布告</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/08/26　　<a href=\"../1914/08tanne.html\">\nタンネンベルクの戦い</a>　（～08/30）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/09/05　　<a href\"..=\"\" 19.html\"=\"\">\n英仏露３国、ロンドンで単独不講和を宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/09/05　　<a href=\"../1914/09marne.html\">\nマルヌの戦い</a>　（～09/12／西部戦線膠着）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/04/22　　<a href=\"../1915/04dokug.html\">\nドイツ軍、毒ガスを使用</a>　（イプルの戦い／～05/25）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/04/26　　<a href\"..=\"\" 19.html\"=\"\">\nロンドン秘密条約調印　（英・仏・露・伊／イタリア、参戦を約束）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/05/23　　<a 1915=\"\" href\"..=\"\" 05i_san.html\"=\"\">\nイタリア、対オーストリア宣戦布告</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/02/21　　<a href=\"../1916/02verdu.html\">\nヴェルダン要塞攻防戦</a>　（～07/11）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/07/01　　<a href=\"../1916/07somme.html\">\nソンムの戦い</a>　（～11/18）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1917/03/15　　<a href=\"../1917/032kaku.html\">\n二月革命</a>　（皇帝<a href=\"../p/nikolai2.html\">ニコライ２世</a>退位、ロマノフ朝滅亡）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1917/04/06　　<a href=\"../1917/04a_san.html\">\nアメリカ、対独参戦</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1917/11/07　　<a href=\"../1917/1110kak.html\">\n十月革命</a>　（ソビエト政権成立）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/03/03　　<a href=\"../1918/03brest.html\">\nブレスト・リトフスク条約調印</a>　（ソビエト政府、独墺と講和）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/11/11　　<a href=\"../1918/11taise.html\">\n第一次世界大戦終結</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/04/23　　<a href\"..=\"\" 19.html\"=\"\">\nイタリア、フィウメ帰属問題でパリ講和会議を脱退　（05/06 復帰）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/06/28　　<a href=\"../1919/06versa.html\">\nベルサイユ条約調印</a>　（北京政府、調印拒否）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>イタリアは、かねてから「未回収のイタリア」として、オーストリアに属していたティロルやダルマチアをねらっていた。\nドイツは、イタリアが中立であっても、イタリア経由で物資が輸入できる利点を重視し、\nオーストリア領の一部譲渡もやむをえないと考えた。\nだが、オーストリアはイタリアが要求するほどの譲歩を認める気はなかった。</div>\n<div>イタリア政府は両陣営を天秤に掛けて条件をつり上げ、最終的に一五年四月ロンドン秘密条約を結んで、\n条件のよい協商側について参戦した。\n自分の懐が痛むわけではない協商側のほうが、イタリアの要求に気前良く応じたのは当然である。\nイタリアの宣戦が最初オーストリア=ハンガリーだけに向けられたのも、\nイタリアの要求する領土はドイツにはなかったからである。</div>\n<div>この露骨な自国利益第一主義による振り子外交をイタリア首相サランドラは「これまでの意見や感情にとらわれず、\n祖国イタリアにひたすらつくす精神、神聖なるエゴイズムだ」と強弁した。\n国内に有力な参戦反対派をかかえたイタリア政府は、議会を恫喝して強引に参戦に持ちこんだ。\nこのためイタリアには他国のような挙国一致体制もできず、兵士の士気も低かった。</div>\n<div class=\"txr\"><a href=\"../text/ks_nse26.html\">木村靖二・柴宜弘・長沼秀世 「世界の歴史（26）」</a>\n　Ｐ．１２６<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E4%25B8%2596%25E7%2595%258C%25E5%25A4%25A7%25E6%2588%25A6%25E3%2581%25A8%25E7%258F%25BE%25E4%25BB%25A3%25E6%2596%2587%25E5%258C%2596%25E3%2581%25AE%25E9%2596%258B%25E5%25B9%2595%2520%2520%2520%2520%25E4%25B8%2596%25E7%2595%258C%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1915.html\">１９１５年</a>\n ＞ <a href=\"#h\">イタリア、対オーストリア宣戦布告</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

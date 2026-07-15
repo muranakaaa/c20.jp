@@ -1,0 +1,202 @@
+{
+ "path": "1948/12desui.html",
+ "type": "article",
+ "title": "泉山蔵相、国会内で泥酔悪態　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1948.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "泉山蔵相、国会内で泥酔悪態"
+  },
+  {
+   "type": "title2",
+   "html": "1948/12/13"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1938.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1947.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1948.html\">１９４８</a> &gt;&gt;&gt; <a href=\"../20c/1949.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "人材難とはいえ、とんだ大臣がいたもんだ。　国会で泥酔してセクハラ。　即解任。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/10/19　　<a href=\"../1948/yosi2_1.html\">\n吉田内閣②成立</a>　（首相：<a href=\"../p/ysigeru.html\">吉田茂</a>／官房長官：<a href=\"../p/seisaku.html\">佐藤栄作</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/11/30　　<a href=\"../1948/11komui.html\">\n国家公務員法改正公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/12/07　　<a href\"..=\"\" 19.html\"=\"\">\n芦田均（前首相）逮捕　（昭電事件）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/12/13　　<a 1948=\"\" href\"..=\"\" 12desui.html\"=\"\">\n泉山蔵相、国会内で泥酔悪態</a>　（12/14 辞任）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/12/18　　<a href\"..=\"\" 19.html\"=\"\">\nＧＨＱ、経済安定９原則を発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/12/23　　<a href=\"../1948/12fusin.html\">\n衆議院、内閣不信任案可決</a>　（→衆議院解散）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/01/23　　<a href\"..=\"\" 19.html\"=\"\">\n総選挙[24]　（民自264、民主69、社会41、共産35、国協14）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/02/16　　<a href=\"../1949/yosi3_1.html\">\n吉田内閣③成立</a>　（首相：<a href=\"../p/ysigeru.html\">吉田茂</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/03/07　　<a href=\"../1949/03dodge.html\">\nドッジ、経済安定９原則実施について声明</a>　（ドッジライン）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>十二月十三日の夜、とんでもない事件が持ち上がった。\n補正予算の審議で、国会が夜遅くなったその夜、酒豪の泉山三六蔵相が、参議院食堂で多量に酒を飲んだ。\n当時は議員食堂でも酒を出していたのだ。\nいささか千鳥足で、参議院議員食堂のほの暗い入り口に来たとき、\n民主党の山下春江代議士に出あった。泉山は、抱きついて接吻しようとした。</div>\n<div>この件を、同じ民主党の椎熊三郎（のち副議長）が各党に宣伝し、蔵相不信任案提出に持ち込んだ。\n<a href=\"../p/ysigeru.html\">吉田</a>は舌打ちして、泉山に辞任を求めた。\nもっとも、蔵相になった泉山は、財政、経済がわかるどころか、国会の答弁も泉山節といわれるように、\n下手で単調であった。</div>\n<div class=\"txr\"><a href=\"../text/ti_yosid.html\">戸川猪佐武 「小説 吉田茂」</a>\n　Ｐ．２８０<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%25B0%258F%25E8%25AA%25AC%25E5%2590%2589%25E7%2594%25B0%25E8%258C%2582%2520%2520%2520%2520%25E8%25A7%2592%25E5%25B7%259D%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>蔵相泉山三六は、一三日、参議院の食堂で酔いつぶれたあげく、民主党の婦人議員山下春江にセップンしようとしてはねつけられ、\n本会議の答弁にもたてないという前代未聞の醜態を演じた。\n彼は、翌一四年の未明、議員と蔵相を辞職した。\n<a href=\"../p/ysigeru.html\">吉田首相</a>は、蔵相を大屋商工相の兼任とし、安本長官を周東農相の兼任とした。</div>\n<div class=\"txr\"><a href=\"../text/ss3sengo.html\">信夫清三郎 「戦後日本政治史Ⅲ」</a>\n　Ｐ．８８３<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4326398183%2Fqid%3D1147087145%2Fsr%3D1-3%2Fref%3Dsr_1_8_3\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1948.html\">１９４８年</a>\n ＞ <a href=\"#h\">泉山蔵相、国会内で泥酔悪態</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

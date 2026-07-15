@@ -1,0 +1,313 @@
+{
+ "path": "1949/10c_sei.html",
+ "type": "article",
+ "title": "中華人民共和国成立　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1949.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "中華人民共和国成立"
+  },
+  {
+   "type": "title2",
+   "html": "1949/10/01"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1939.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1948.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1949.html\">１９４９</a> &gt;&gt;&gt; <a href=\"../20c/1950.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "「中華人民はたちあがったのだ」　<a href=\"../p/motakuto.html\">毛沢東</a>の言葉が天安門広場に響きわたった。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/03　　<a href=\"../1945/08mosyo.html\">\n毛・蒋会談</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/02　　<a href=\"../1945/09kofuk.html\">\n降伏文書調印</a>　（全権：<a href=\"../p/smamoru.html\">重光葵</a>、<a href=\"../p/uyosijir.html\">梅津美治郎</a>／第二次世界大戦終結）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/10/13　　<a href=\"../1945/10naise.html\">\n蒋介石、国民党各部隊に内戦を秘密指令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/11/27　　<a href=\"../1945/11a_cyo.html\">\nトルーマン（米）大統領、マーシャル元帥に国共内戦の調停を命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/01/10　　<a href=\"../1946/01teise.html\">\n国共両軍の停戦協定</a>　（<a href=\"../p/marsha_g.html\">マーシャル特使</a>の斡旋）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/01　　<a href\"..=\"\" 19.html\"=\"\">\n中国国民政府、重慶から南京へ遷都</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/07/12　　<a href=\"../1946/07kokky.html\">\n国共内戦、全面戦争化</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/11/09　　<a href\"..=\"\" 19.html\"=\"\">\n蒋介石、トルーマンに緊急軍事援助を要請</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/01/06　　<a href\"..=\"\" 19.html\"=\"\">\n国連総会、中国内戦不介入を決議</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/01/08　　<a href\"..=\"\" 19.html\"=\"\">\n中国国民政府、米英仏ソ４国に内戦調停を要請　（01/12 米、辞退）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/01/14　　<a href\"..=\"\" 19.html\"=\"\">\n毛沢東、和平８条件を提示</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/01/21　　<a href\"..=\"\" 19.html\"=\"\">\n蒋介石、国民政府総統引退を表明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/04/20　　<a href\"..=\"\" 19.html\"=\"\">\n国共和平会談決裂</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/04/21　　<a href\"..=\"\" 19.html\"=\"\">\n毛沢東・朱徳、全国進撃を命令　（人民解放軍、揚子江渡河）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/05/27　　<a href\"..=\"\" 19.html\"=\"\">\n中国人民解放軍、上海を解放</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/10/01　　<a 1949=\"\" href\"..=\"\" 10c_sei.html\"=\"\">\n中華人民共和国成立</a>　（主席：<a href=\"../p/motakuto.html\">毛沢東</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/12/07　　<a href\"..=\"\" 19.html\"=\"\">\n中国国民政府、台北遷都</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/12/16　　<a href\"..=\"\" 19.html\"=\"\">\n毛主席、モスクワ訪問　（～50/03/04）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/12/30　　<a href\"..=\"\" 19.html\"=\"\">\nインド、中華人民共和国を承認</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/02/14　　<a href\"..=\"\" 19.html\"=\"\">\n中ソ友好同盟相互援助条約調印　（モスクワ）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div>ああああああああああああああああ</div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1949.html\">１９４９年</a>\n ＞ <a href=\"#h\">中華人民共和国成立</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

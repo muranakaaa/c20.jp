@@ -1,0 +1,112 @@
+{
+ "path": "text/kn4hitle.html",
+ "type": "text",
+ "title": "「第二次世界大戦・ヒトラーの戦い（４）」　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "text.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "「第二次世界大戦・ヒトラーの戦い（４）」"
+  },
+  {
+   "type": "title2",
+   "html": "参考書籍"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "list"
+   },
+   "html": "<tbody><tr>\n<td class=\"list\"><a href=\"06h.html\">一覧</a></td>\n<td class=\"list\"><a href=\"kn_hitle.html\">データ</a></td>\n<td class=\"list\"><a href=\"kn1hitle.html\">１</a></td>     \n<td class=\"list\"><a href=\"kn2hitle.html\">２</a></td>\n<td class=\"list\"><a href=\"kn3hitle.html\">３</a></td>\n<td class=\"list2\"><a href\"kn4hitle.html\"=\"\">４</a></td>\n<td class=\"list\"><a href=\"kn5hitle.html\">５</a></td>\n<td class=\"list\"><a href=\"kn6hitle.html\">６</a></td>\n<td class=\"list\"><a href=\"kn7hitle.html\">７</a></td>\n<td class=\"list\"><a href=\"kn8hitle.html\">８</a></td>\n<td class=\"list\"><a href=\"kn9hitle.html\">９</a></td>\n<td class=\"list\"><a href=\"knahitle.html\">10</a></td>\n</tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n書籍：　文庫（551ページ）<br>\n目次：　作戦発動<br>\n<div class=\"in\">\n『モスクワ街道』進撃<br>\n統帥の混乱<br>\nモスクワ攻防<br>\n分水嶺<br>\n厳冬の戦場<br>\n訪れた春<br>\nアフリカ戦車軍</div>\n"
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>大島・ヒトラー会談</b></div>\n<div><a href=\"../p/hitler_a.html\">ヒトラー</a>は、日本大使<a href=\"../p/ohirosi.html\">大島浩</a>には、はっきりと<a href=\"../1941/06ds_ka.html\">対ソ戦</a>の意思を伝えた。</div>\n<div><a href=\"../p/ohirosi.html\">大島大使</a>は、独伊首脳会談の翌日、六月三日、オーバーザルツブルクを訪ねて、<a href=\"../p/hitler_a.html\">ヒトラー</a>に会った。</div>\n<div>まず午後四時から午後五時三十分まで外相<a href=\"../p/ribben_j.html\">リベントロップ</a>と対談し、午後七時から午後八時まで<a href=\"../p/hitler_a.html\">ヒトラー</a>と会談した。</div>\n<div><a href=\"../p/hitler_a.html\">ヒトラー</a>は、これまでの戦死者数は「平時ニ於ケル独逸国内死亡数ノ概ネ一割」にすぎぬと指摘して、\nドイツの戦争遂行が順調である旨を強調したあと、<a href=\"../1941/06ds_ka.html\">対ソ戦</a>を決心していることを言明した。</div>\n<div>「独『ソ』ノ関係ハ益々悪化シ、『ソ』戦争ハ恐ラク不可避ト考ヘアリ」</div>\n<div>「自分は『ソ』聯ニ対シ譲歩スルコトハ、絶対禁物ト信ズ。\n自分ハ相手ニ敵意ヲ認ムレバ、常ニ相手ヨリ先ニ刀ヲ抜ク男ナリ」</div>\n<div>「共産『ソ』聯ヲ除クコトハ、自分ノ年来ノ信念ニシテ・・・・・・全世界人類ニ対スル大ナル貢献ト考ヘ居レリ」</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kn4hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（４）」</a>\n　Ｐ．３９</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../1941/06ds_ka.html\">独ソ戦</a>への日本の対応（「情勢ノ推移ニ伴フ帝国国策要綱」の決定）</b></div>\n<div>七月二日、<a href=\"../1941/06ds_ka.html\">独ソ戦</a>という情勢の変化に対処するための国策である「情勢ノ推移ニ伴フ帝国国策要綱」が、御前会議で可決された。</div>\n<div>その内容は、すでに決定した<a href=\"../1941/07futu2.html\">南部仏印進駐</a>による南方進出策に、<a href=\"../1941/06ds_ka.html\">独ソ戦</a>に応ずる対ソ攻撃準備をつけ加えたものだが、\n南方進出については「対英米戦ヲ辞セズ」と規定されながらも、北進についての姿勢は消極的になっていた。</div>\n<div><a href=\"../1941/06ds_ka.html\">独ソ戦</a>には「介入スルコトナク」、「密カニ対『ソ』戦力的準備」をととのえ、\n<a href=\"../1941/06ds_ka.html\">独ソ戦</a>の推移が「有利ニ進展」すれば武力を行使する、という。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kn4hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（４）」</a>\n　Ｐ．１３９</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>日米開戦、<a href=\"../p/hitler_a.html\">ヒトラー</a>の反応</b></div>\n<div><a href=\"../p/hitler_a.html\">ヒトラー</a>は、この日、七日の夜も、まさか日本海軍の機動部隊がすでに<a href=\"../1941/12hawai.html\">ハワイ空襲</a>という劇的な作戦を実施しつつあると夢想もできず、\nＣ・シュレーダー夫人ら女性秘書、党総務局長Ｍ・ボルマンの副官Ｈ・ハイム、秘書（外交）Ｗ・ヒーヴェルたちと夕食をとり、\n食後の歓談を楽しんでいた。</div>\n<div>【中略】</div>\n<div>すると、深夜少し前、広報官の一人Ｈ・ロレンツが走りこみ、米国放送は、<a href=\"../1941/12hawai.html\">日本海軍機がハワイの米太平洋艦隊を奇襲</a>し、\n日本は米英に宣戦したと報じている、と報告した。</div>\n<div>日本が米国を攻撃した・・・・・・。</div>\n<div>あり得ない事態が現実化したような驚きをさそわれ、一座は静まりかえった。</div>\n<div>だが、<a href=\"../p/hitler_a.html\">ヒトラー</a>だけはす早く反応した。</div>\n<div>「転機だッ」</div>\n<div>そう叫び、ハッシとひざをうつと、凍った夜道にとびだし、ＯＫＷの舎屋にいそいだ。</div>\n<div>秘書ヒーヴェルが後続すると、<a href=\"../p/hitler_a.html\">ヒトラー</a>は、興奮した喜声で夜気をゆるがせながらいった。</div>\n<div>「これで、もうわれわれは敗けることはなくなった。\n三千年間一度も敗けたことがない味方（日本）を得たからだ」</div>\n<div>そのあとで、<a href=\"../p/hitler_a.html\">ヒトラー</a>は、かつてナポレオンがこころみたイタリヤ評<span class=\"bar\">―</span>―「イタリヤは決して\n開戦時の味方国と最後まで行をともにしたことがない。\n二度味方を変えた場合は別だが」<span class=\"bar\">―</span>―をもじって、つけ加えた。</div>\n<div>「別の味方（イタリヤ）も、結局は正しい側について戦争を終える国だし、ね」</div>\n<div>むろん、<a href=\"../p/hitler_a.html\">ヒトラー</a>がいう「正しい側」はドイツである。</div>\n<div>イタリヤが別の考えをもつようになるなどは、これまた<a href=\"../p/hitler_a.html\">ヒトラー</a>にとっては夢想外であった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kn4hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（４）」</a>\n　Ｐ．３７４</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>エジプト自由将校団</b></div>\n<div>『自由将校団』は、エジプトを英国の支配と腐敗した政府から解放しようと決意する青年将校グループで、\n第二次世界大戦の勃発に応じて組織された。</div>\n<div><a href=\"../p/sadat_a.html\">Ａ・サダト</a>は、その自伝で当時の意図を次のように語っている。</div>\n<div>「一九三九～四一年の<a href=\"../p/hitler_a.html\">ヒトラー</a>の相次ぐ対英攻勢に鼓舞されて、私は次第に組織の環を拡大した・・・・・・。</div>\n<div><a href=\"../p/hitler_a.html\">ヒトラー</a>の勝利と英国の後退は、私に直ちに行動すべき機会を提起した。\n機はすでに熟しており、手遅れにならぬうちにそのチャンスをつかむのが、われわれの義務であると信じた」</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kn4hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（４）」</a>\n　Ｐ．５０９</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<div class=\"sp\">\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"06h.html\">書籍ファイル一覧　（ハ）</a>\n ＞ <a href=\"kn_hitle.html\">「第二次世界大戦・ヒトラーの戦い」</a>\n</div>\n ＞ <a href=\"#h\">「第二次世界大戦・ヒトラーの戦い（４）」</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

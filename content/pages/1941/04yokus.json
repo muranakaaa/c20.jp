@@ -1,0 +1,253 @@
+{
+ "path": "1941/04yokus.html",
+ "type": "article",
+ "title": "大政翼賛会改組　（有馬頼寧事務局長ら辞任）　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1941.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "大政翼賛会改組　（有馬頼寧事務局長ら辞任）"
+  },
+  {
+   "type": "title2",
+   "html": "1941/04/02"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1931.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1940.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1941.html\">１９４１</a> &gt;&gt;&gt; <a href=\"../20c/1942.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "こんなはずでは・・・。　近衛ブレーン、革新官僚に押し切られ、大政翼賛会から全面撤退。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/06/24　　<a href=\"../1940/06konoe.html\">\n近衛文麿、枢密院議長辞任</a>　（新体制運動推進を決意）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/07/16　　<a href=\"../1940/07hataj.html\">\n畑陸相、単独辞任　（陸軍、後任推薦拒否）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/07/16　　<a href=\"../1940/yona_9.html\">\n米内内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/07/17　　<a href=\"../1940/kono2_0.html\">\n近衛文麿に組閣命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/07/19　　<a href=\"../1940/07ogiku.html\">\n荻窪会談</a>　（<a href=\"../p/kfumimar.html\">近衛</a>、<a href=\"../p/myosuke.html\">松岡</a>、<a href=\"../p/thideki.html\">東條</a>、<a href=\"../p/yzengo.html\">吉田</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/07/22　　<a href=\"../1940/kono2_1.html\">\n近衛内閣②成立</a>　（首相：<a href=\"../p/kfumimar.html\">近衛文麿</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/08/15　　<a href=\"../1940/08minse.html\">\n民政党解党　（以後無政党状態）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/08/28　　<a href=\"../1940/08sinta.html\">\n新体制準備会開催</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/09/11　　<a href=\"../1940/09tonar.html\">\n隣組発足</a>　（内務省、全国に通達）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/10/12　　<a href=\"../1940/10yokus.html\">\n大政翼賛会発足</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/04/02　　<a 1941=\"\" href\"..=\"\" 04yokus.html\"=\"\">\n大政翼賛会改組</a>　（<a href=\"../p/ayoriyas.html\">有馬頼寧事務局長</a>ら辞任）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1942/02/23　　<a href=\"../1942/02yokus.html\">\n翼賛政治体制協議会発足</a>　（会長：<a href=\"../p/anobuyuk.html\">阿部信行</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1942/04/30　　<a href\"..=\"\" 19.html\"=\"\">\n総選挙[21]　（翼賛選挙／推薦381、非推薦85）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1942/05/20　　<a href\"..=\"\" 19.html\"=\"\">\n翼賛政治会結成</a>　（会長：<a href=\"../p/anobuyuk.html\">阿部信行</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div>ああああああああああああああああ</div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1941.html\">１９４１年</a>\n ＞ <a href=\"#h\">大政翼賛会改組　（有馬頼寧事務局長ら辞任）</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "path": "text/kn_hitle.html",
+ "type": "text",
+ "title": "「第二次世界大戦・ヒトラーの戦い」　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "text.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "「第二次世界大戦・ヒトラーの戦い」"
+  },
+  {
+   "type": "title2",
+   "html": "参考書籍"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "list"
+   },
+   "html": "<tbody><tr>\n<td class=\"list\"><a href=\"06h.html\">一覧</a></td>\n<td class=\"list2\"><a href\"kn_hitle.html\"=\"\">データ</a></td>\n<td class=\"list\"><a href=\"kn1hitle.html\">１</a></td>     \n<td class=\"list\"><a href=\"kn2hitle.html\">２</a></td>\n<td class=\"list\"><a href=\"kn3hitle.html\">３</a></td>\n<td class=\"list\"><a href=\"kn4hitle.html\">４</a></td>\n<td class=\"list\"><a href=\"kn5hitle.html\">５</a></td>\n<td class=\"list\"><a href=\"kn6hitle.html\">６</a></td>\n<td class=\"list\"><a href=\"kn7hitle.html\">７</a></td>\n<td class=\"list\"><a href=\"kn8hitle.html\">８</a></td>\n<td class=\"list\"><a href=\"kn9hitle.html\">９</a></td>\n<td class=\"list\"><a href=\"knahitle.html\">10</a></td>\n</tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n著者：　児島襄（こじま・のぼる）<br>\n発行：　文藝春秋（1992/07/10）<br>\n書籍：　全10巻／文庫<br>\n定価：　各620円（税込）<br>\n初版：　小学館（1978/06～1986/06）<br>\n補足情報：<br>\n<div class=\"in\">\nドイツ第三帝国の興亡と生死をともにした<a href=\"../p/hitler_a.html\">ヒトラー</a>の劇的な生涯と複雑混迷の時代史の実相を克明に活写する長編　（第１巻裏表紙）</div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"06h.html\">書籍ファイル一覧　（ハ）</a>\n ＞ <a href=\"#h\">「第二次世界大戦・ヒトラーの戦い」</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

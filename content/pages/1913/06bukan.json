@@ -1,0 +1,253 @@
+{
+ "path": "1913/06bukan.html",
+ "type": "article",
+ "title": "軍部大臣現役武官制廃止　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1913.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "軍部大臣現役武官制廃止"
+  },
+  {
+   "type": "title2",
+   "html": "1913/06/13"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1903.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1912.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1913.html\">１９１３</a> &gt;&gt;&gt; <a href=\"../20c/1914.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1923.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"../p/ygonnohy.html\">山本首相</a>、獅子奮迅の活躍で、陸軍から倒閣最終兵器を奪った。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1900/05/19　　<a href\"..=\"\" 19.html\"=\"\">\n軍部大臣現役武官制確立　（陸海軍官制改正）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/11/10　　<a href=\"../1912/11dansy.html\">\n西園寺・山県会談</a>　（陸軍２個師団増設問題）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/12/02　　<a href=\"../1912/12uehar.html\">\n上原陸相、帷幄上奏で単独辞任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/12/05　　<a href=\"../1912/saio2_9.html\">\n西園寺内閣②総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/12/19　　<a href=\"../1912/12goke1.html\">\n憲政擁護連合大会①　（護憲運動①開始）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/12/21　　<a href=\"../1912/katu3_1.html\">\n桂内閣③成立</a>　（首相：<a href=\"../p/ktaro.html\">桂太郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/01/20　　<a href=\"../1913/01sinto.html\">\n桂首相、新党結成計画発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/02/09　　<a href=\"../1913/02syocy.html\">\n西園寺（政友会総裁）に「内閣不信任案撤回」の詔勅</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/02/10　　<a href=\"../1913/02hoi10.html\">\n護憲派の民衆、議会を包囲</a>　（<a href=\"../p/ktaro.html\">桂首相</a>、総辞職を決意）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/02/11　　<a href=\"../1913/katu3_9.html\">\n桂内閣③総辞職　（大正政変）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/02/20　　<a href=\"../1913/yamm1_1.html\">\n山本内閣①成立</a>　（首相：<a href=\"../p/ygonnohy.html\">山本権兵衛</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/06/13　　<a 1913=\"\" href\"..=\"\" 06bukan.html\"=\"\">\n軍部大臣現役武官制廃止</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/03/25　　<a href=\"../1922/03bukan.html\">\n衆議院、軍部大臣武官制廃止を修正可決</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/05/18　　<a href=\"../1936/05bukan.html\">\n軍部大臣現役武官制復活</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "pt"
+   },
+   "html": "\n<div class=\"pt_h\">～　軍部大臣現役武官制の破壊力　～</div>\n<div class=\"c\"><a href=\"../p/uyusaku.html\">上原陸相</a>辞任　＋　陸軍、後任推薦拒否　⇒　<a href=\"../1912/saio2_9.html\">西園寺内閣②総辞職</a> </div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div>ああああああああああああああああ</div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1913.html\">１９１３年</a>\n ＞ <a href=\"#h\">軍部大臣現役武官制廃止</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

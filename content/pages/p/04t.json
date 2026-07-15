@@ -1,0 +1,493 @@
+{
+ "path": "p/04t.html",
+ "type": "person_list",
+ "title": "人物ファイル一覧　（タ）　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "p_list.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "人物ファイル一覧　（タ）"
+  },
+  {
+   "type": "title2",
+   "html": "クリック ２０世紀"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "list"
+   },
+   "html": "<tbody><tr>\n<td class=\"list\"><a href=\"01a.html\">ア</a></td>\n<td class=\"list\"><a href=\"02k.html\">カ</a></td>\n<td class=\"list\"><a href=\"03s.html\">サ</a></td>\n<td class=\"list2\"><a href=\"#s1\">た</a></td>\n<td class=\"list2\"><a href=\"#s2\">ち</a></td>\n<td class=\"list2\"><a href=\"#s3\">つ</a></td>\n<td class=\"list2\"><a href=\"#s4\">て</a></td>\n<td class=\"list2\"><a href=\"#s5\">と</a></td>\n<td class=\"list\"><a href=\"05n.html\">ナ</a></td>\n<td class=\"list\"><a href=\"06h.html\">ハ</a></td>\n<td class=\"list\"><a href=\"07m.html\">マ</a></td>\n<td class=\"list\"><a href=\"08y.html\">ヤ</a></td>\n<td class=\"list\"><a href=\"09r.html\">ラ</a></td>\n<td class=\"list\"><a href=\"10w.html\">ワ</a></td>\n</tr></tbody>"
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">た</span><span class=\"p1\"><a href=\"ttenno.html\">大正 天皇</a></span><span class=\"p2\">\n東京都</span><span class=\"p3\">天皇、皇太子</span>1926年没"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">た</span><span class=\"p1\"><a href=\"tkorekiy.html\">高橋　是清</a></span><span class=\"p2\">\n東京都</span><span class=\"p3\"><a href=\"../1921/taka_1.html\">首相</a>、蔵相、日銀総裁、政友会総裁④</span>1936年没"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">た</span><span class=\"p1\"><a href=\"ttakesi.html\">財部　彪</a></span><span class=\"p2\">\n宮崎県</span><span class=\"p3\">海相、ロンドン軍縮会議全権、海軍大将</span>1949年没"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">た</span><span class=\"p1\"><a href=\"tyumeji.html\">竹久　夢二</a></span><span class=\"p2\">\n岡山県</span><span class=\"p3\">画家、詩人</span>1934年没"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">た</span><span class=\"p1\"><a href=\"tgiici.html\">田中　義一</a></span><span class=\"p2\">\n山口県</span><span class=\"p3\"><a href=\"../1927/tanaa_1.html\">首相</a>、陸相、政友会総裁⑤、陸軍大将</span>1929年没"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">た</span><span class=\"p1\"><a href=\"tsyozo.html\">田中　正造</a></span><span class=\"p2\">\n栃木県</span><span class=\"p3\">衆議院議員、栃木県会議長、社会運動家</span>1913年没"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">た</span><span class=\"p1\"><a href=\"daladi_e.html\">ダラディエ　／エドワール</a></span><span class=\"p2\">\nフランス</span><span class=\"p3\">首相、外相、陸相、国防相</span>1970年没"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">た</span><span class=\"p1\"><a href=\"dulles_j.html\">ダレス　／ジョン・Ｆ</a></span><span class=\"p2\">\nアメリカ</span><span class=\"p3\">国務長官、国連代表、弁護士</span>1959年没"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">た</span><span class=\"p1\"><a href=\"dankizui.html\">段祺瑞</a></span><span class=\"p2\">\n中国</span><span class=\"p3\">首相、陸軍総長、安徽派（軍閥）の巨頭</span>1936年没"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">た</span><span class=\"p1\"><a href=\"dtakuma.html\">団　琢磨</a></span><span class=\"p2\">\n福岡県</span><span class=\"p3\">三井合名会社理事長</span>1932年没"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">ち</span><span class=\"p1\"><a href=\"ciano_g.html\">チアノ　／ガレッツォ</a></span><span class=\"p2\">\nイタリア</span><span class=\"p3\">外相</span>1944年没"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">ち</span><span class=\"p1\"><a href=\"chambe_n.html\">チェンバレン　／アーサー・ネビル</a></span><span class=\"p2\">\nイギリス</span><span class=\"p3\">首相、下院議員</span>1940年没"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">ち</span><span class=\"p1\"><a href=\"tito.html\">チトー</a></span><span class=\"p2\">\nユーゴ</span><span class=\"p3\">大統領、共産党書記長、パルチザン指導者</span>1980年没"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">ち</span><span class=\"p1\"><a href=\"church_w.html\">チャーチル　／ウインストン</a></span><span class=\"p2\">\nイギリス</span><span class=\"p3\">首相、海相、蔵相、内相、保守党党首</span>1965年没"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">ち</span><span class=\"p1\"><a href=\"cyogakur.html\">張学良</a></span><span class=\"p2\">\n中国</span><span class=\"p3\">奉天派（軍閥）首領</span>2001年没"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">ち</span><span class=\"p1\"><a href=\"cyosakur.html\">張作霖</a></span><span class=\"p2\">\n中国</span><span class=\"p3\">奉天派（軍閥）首領</span>1928年没"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">つ</span><span class=\"p1\"><a href=\"tmasanob.html\">辻　政信</a></span><span class=\"p2\">\n石川県</span><span class=\"p3\">参謀本部作戦班長、関東軍参謀、衆議院議員</span>1968年没"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">つ</span><span class=\"p1\"><a href=\"teiji.html\">円谷　英二</a></span><span class=\"p2\">\n福島県</span><span class=\"p3\">特撮映画技術監督</span>1970年没"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">て</span><span class=\"p1\"><a href=\"devale_e.html\">デ・ヴァレラ　／エイモン</a></span><span class=\"p2\">\nアイルランド</span><span class=\"p3\">大統領、反英独立運動指導者</span>1946年没"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">て</span><span class=\"p1\"><a href=\"thisaici.html\">寺内　寿一</a></span><span class=\"p2\">\n山口県</span><span class=\"p3\">陸相、南方軍総司令官、元帥陸軍大将</span>1946年没"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">て</span><span class=\"p1\"><a href=\"tmasatak.html\">寺内　正毅</a></span><span class=\"p2\">\n山口県</span><span class=\"p3\"><a href=\"../1916/tera_1.html\">首相</a>、陸相、元帥陸軍大将</span>1919年没"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">と</span><span class=\"p1\"><a href=\"dkenji.html\">土肥原　賢二</a></span><span class=\"p2\">\n岡山県</span><span class=\"p3\">教育総監、奉天特務機関長、陸軍大将、Ａ級戦犯</span>1948年没"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">と</span><span class=\"p1\"><a href=\"tsigenor.html\">東郷　茂徳</a></span><span class=\"p2\">\n鹿児島県</span><span class=\"p3\">外相、駐独大使、駐ソ大使、Ａ級戦犯</span>1950年没"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">と</span><span class=\"p1\"><a href=\"theihaci.html\">東郷　平八郎</a></span><span class=\"p2\">\n鹿児島県</span><span class=\"p3\">連合艦隊司令長官、元帥海軍大将</span>1934年没"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">と</span><span class=\"p1\"><a href=\"thideki.html\">東條　英機</a></span><span class=\"p2\">\n東京都</span><span class=\"p3\"><a href=\"../1941/tojo_1.html\">首相</a>、陸相、陸軍大将、Ａ級戦犯</span>1948年没"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">と</span><span class=\"p1\"><a href=\"tsoho.html\">徳富　蘇峰</a></span><span class=\"p2\">\n熊本県</span><span class=\"p3\">評論家、大日本言論報国会会長、内務省参事官</span>1957年没"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">と</span><span class=\"p1\"><a href=\"degaul_c.html\">ド・ゴール　／シャルル</a></span><span class=\"p2\">\nフランス</span><span class=\"p3\">大統領、首相、陸軍次官</span>1970年没"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">と</span><span class=\"p1\"><a href=\"ttakejir.html\">床次　竹二郎</a></span><span class=\"p2\">\n鹿児島県</span><span class=\"p3\">内相、逓相、政友本党総裁</span>1935年没"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">と</span><span class=\"p1\"><a href=\"tjosei.html\">戸田　城聖</a></span><span class=\"p2\">\n石川県</span><span class=\"p3\">創価学会会長、創価教育学会理事長</span>1958年没"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">と</span><span class=\"p1\"><a href=\"tsoemu.html\">豊田　副武</a></span><span class=\"p2\">\n大分県</span><span class=\"p3\">軍令部総長、連合艦隊司令長官、海軍大将</span>1957年没"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">と</span><span class=\"p1\"><a href=\"tteijiro.html\">豊田　貞次郎</a></span><span class=\"p2\">\n和歌山県</span><span class=\"p3\">外相、商工相、日鉄社長、海軍次官、海軍大将</span>1961年没"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">と</span><span class=\"p1\"><a href=\"dodge_j.html\">ドッジ　／ジョセフ・Ｍ</a></span><span class=\"p2\">\nアメリカ</span><span class=\"p3\">日本占領軍経済顧問、デトロイト銀行頭取</span>1964年没"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">と</span><span class=\"p1\"><a href=\"truman_h.html\">トルーマン　／ハリー・Ｓ</a></span><span class=\"p2\">\nアメリカ</span><span class=\"p3\">大統領、副大統領、上院議員</span>1972年没"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">と</span><span class=\"p1\"><a href=\"draper_w.html\">ドレーパー　／ウイリアム・Ｈ</a></span><span class=\"p2\">\nアメリカ</span><span class=\"p3\">陸軍次官、対日賠償調査団団長</span>1974年没"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": "ll",
+       "cls": null,
+       "html": "<span class=\"p0\">と</span><span class=\"p1\"><a href=\"trotsk_l.html\">トロツキー　／レオン</a></span><span class=\"p2\">\nロシア</span><span class=\"p3\">革命指導者、国防相、外相</span>1940年没"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "list_f"
+   },
+   "html": "<tbody><tr>\n<td class=\"list\"><a href=\"01a.html\">ア</a></td>\n<td class=\"list\"><a href=\"02k.html\">カ</a></td>\n<td class=\"list\"><a href=\"03s.html\">サ</a></td>\n<td class=\"list2\"><a href=\"#s1\">た</a></td>\n<td class=\"list2\"><a href=\"#s2\">ち</a></td>\n<td class=\"list2\"><a href=\"#s3\">つ</a></td>\n<td class=\"list2\"><a href=\"#s4\">て</a></td>\n<td class=\"list2\"><a href=\"#s5\">と</a></td>\n<td class=\"list\"><a href=\"05n.html\">ナ</a></td>\n<td class=\"list\"><a href=\"06h.html\">ハ</a></td>\n<td class=\"list\"><a href=\"07m.html\">マ</a></td>\n<td class=\"list\"><a href=\"08y.html\">ヤ</a></td>\n<td class=\"list\"><a href=\"09r.html\">ラ</a></td>\n<td class=\"list\"><a href=\"10w.html\">ワ</a></td>\n</tr></tbody>"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"#h\">人物ファイル一覧　（タ）</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

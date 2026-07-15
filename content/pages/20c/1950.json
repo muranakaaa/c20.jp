@@ -1,0 +1,769 @@
+{
+ "path": "20c/1950.html",
+ "type": "year",
+ "title": "１９５０年　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９５０年"
+  },
+  {
+   "type": "title2",
+   "html": "昭和２５年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"1940.html\">１０年前</a> &gt;&gt;&gt; <a href=\"1949.html\">前年</a> &gt;&gt;&gt; <span class=\"now\">１９５０</span> &gt;&gt;&gt; 翌年 &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"#s4\">おおミステイク　レッドパージ　とんでもハップン</a>",
+    "<a href=\"../1949/yosi3_1.html\">吉田内閣③</a>"
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"1949.html#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/01/01　　<a href\"..=\"\" 19.html\"=\"\">\nマッカーサー、日本国憲法は自己防衛の権利を否定せずと声明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/01/06　　<a href=\"../1950/01hihan.html\">\nコミンフォルム機関紙、野坂参三の平和革命論を批判</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/01/06　　<a href\"..=\"\" 19.html\"=\"\">\n国連・安保理、ソ連の中国国民政府代表追放案を否決　（ソ連代表退場）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/01/07　　<a href\"..=\"\" 19.html\"=\"\">\n1000円札発行</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/01/19　　<a href\"..=\"\" 19.html\"=\"\">\n社会党分裂　（04/03 再統一）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/01/19　　<a href\"..=\"\" 19.html\"=\"\">\n日本共産党、「コミンフォルム機関紙の論評に関する決議」採択</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/01/31　　<a href\"..=\"\" 19.html\"=\"\">\nトルーマン（米）大統領、水爆製造を命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/02/01　　<a href\"..=\"\" 19.html\"=\"\">\nソ連、細菌戦責任者として天皇および４人の戦犯裁判を要求</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/02/06　　<a href\"..=\"\" 19.html\"=\"\">\n野坂参三自己批判　（「右翼日和見主義的誤りを犯した」）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/02/09　　<a href=\"../1950/02macca.html\">\nマッカーシー（米）上院議員、国務省に57人の共産党員がいると演説</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/02/14　　<a href=\"../1950/02cs_jo.html\">\n中ソ友好同盟相互援助条約調印</a>　（モスクワ）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/02/16　　<a href\"..=\"\" 19.html\"=\"\">\n李承晩（韓国）大統領来日</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/02/17　　<a href\"..=\"\" 19.html\"=\"\">\nマッカーサー・李承晩会談</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/02/27　　<a href\"..=\"\" 19.html\"=\"\">\nフランス、アメリカにインドシナ戦争への軍事援助を要請</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/03/01　　<a href\"..=\"\" 19.html\"=\"\">\n自由党結成</a>　（民主自由党と民主党連立派の合同／総裁：<a href=\"../p/ysigeru.html\">吉田茂</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/03/17　　<a href\"..=\"\" 19.html\"=\"\">\nネール（印）首相、非同盟政策を表明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/03/21　　<a href\"..=\"\" 19.html\"=\"\">\n映画「また逢う日まで」封切　（岡田英次・久我美子主演）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/04/06　　<a href\"..=\"\" 19.html\"=\"\">\nトルーマン（米）大統領、ダレスを対日講和担当の国務省顧問に任命</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/04/15　　<a href\"..=\"\" 19.html\"=\"\">\n公職選挙法公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/04/15　　<a href\"..=\"\" 19.html\"=\"\">\n東久邇稔彦、禅宗ひがしくに教を開教</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/04/22　　<a href=\"../1950/04fujik.html\">\n山本富士子、ミス日本に選出される</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/04/25　　<a href=\"../1950/04ikeda.html\">\n池田蔵相ら渡米</a>　（05/22 帰国）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/04/28　　<a href\"..=\"\" 19.html\"=\"\">\n国民民主党結成　（最高委員：苫米地義三ら７人）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/05/01　　<a href\"..=\"\" 19.html\"=\"\">\n共産党、「'５０年テーゼ」を採択</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/05/03　　<a href=\"../1950/05yosid.html\">\n吉田首相、南原東大総長の全面講和論を「曲学阿世」論と非難</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/05/06　　<a href\"..=\"\" 19.html\"=\"\">\n吉田内閣③改造①</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/05/10　　<a href\"..=\"\" 19.html\"=\"\">\n商法改正公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/05/19　　<a href\"..=\"\" 19.html\"=\"\">\n岡山県議会、エロ本取締条例を可決</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/06/04　　<a href\"..=\"\" 19.html\"=\"\">\n参議院選挙[２]　（自由52、社会36、緑風９、国民民主９、他19）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/06/06　　<a href\"..=\"\" 19.html\"=\"\">\nマッカーサー、吉田首相宛書簡で共産党幹部24人の公職追放を指令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/06/21　　<a href\"..=\"\" 19.html\"=\"\">\nダレス来日　（～06/27）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/06/25　　<a href=\"../1950/06cyose.html\">\n朝鮮戦争勃発</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/06/25　　<a href\"..=\"\" 19.html\"=\"\">\n国連・安保理、北朝鮮に敵対行為の即時中止を要求　（ソ連欠席）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/06/26　　<a href\"..=\"\" 19.html\"=\"\">\nマッカーサー、吉田首相宛書簡で「赤旗」の30日間発行停止を指令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/06/26　　<a href=\"../1950/06chata.html\">\n最高検、「チャタレイ夫人の恋人」の押収を指令</a>　（09/13 起訴）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/06/27　　<a href\"..=\"\" 19.html\"=\"\">\nトルーマン（米）大統領、韓国軍援助のため海空軍に出撃命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/06/28　　<a href\"..=\"\" 19.html\"=\"\">\n吉田内閣③改造②</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/06/28　　<a href\"..=\"\" 19.html\"=\"\">\n藤本英雄、完全試合達成　（巨人対西日本）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/06/28　　<a href\"..=\"\" 19.html\"=\"\">\n北朝鮮軍、ソウル占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/06/29　　<a href\"..=\"\" 19.html\"=\"\">\n小倉・八幡・門司・戸畑市に警戒警報発令、灯火管制実施　（朝鮮戦争）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/07/01　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ軍、釜山に上陸</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/07/02　　<a href\"..=\"\" 19.html\"=\"\">\n金閣寺全焼　（07/03 放火犯林承賢の母、保津川に投身自殺）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/07/08　　<a href=\"../1950/07yobit.html\">\nマッカーサー、吉田首相宛書簡で警察予備隊の創設などを指令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/07/08　　<a href\"..=\"\" 19.html\"=\"\">\nトルーマン（米）大統領、マッカーサー元帥を国連軍最高司令官に任命</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/07/23　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/tsigenor.html\">\n東郷茂徳</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/07/28　　<a href\"..=\"\" 19.html\"=\"\">\nレッドパージ開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/08/10　　<a href=\"../1950/08yobit.html\">\n警察予備隊令公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/08/26　　<a href\"..=\"\" 19.html\"=\"\">\n映画「羅生門」封切　（51/09/10 ベネチア映画祭グランプリ受賞）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/09/01　　<a href\"..=\"\" 19.html\"=\"\">\n閣議、公務員の「レッドパージ」基本方針を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/09/03　　<a href\"..=\"\" 19.html\"=\"\">\nジェーン台風</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/09/15　　<a href=\"../1950/09jinse.html\">\n国連軍、仁川に上陸</a>　（反撃開始）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/09/21　　<a href\"..=\"\" 19.html\"=\"\">\nシャウプ勧告②</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/09/25　　<a href\"..=\"\" 19.html\"=\"\">\n都学連、レッドパージに反対して、試験ボイコットを指令</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#h\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/10/01　　<a href\"..=\"\" 19.html\"=\"\">\n国勢調査　（総人口8319万9637人、東京都627万7500人）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/10/01　　<a href\"..=\"\" 19.html\"=\"\">\n周恩来、侵略戦争粉砕のため奮闘せよと演説</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/10/03　　<a href=\"../1950/1038dos.html\">\n国連軍、38度線突破</a>　（10/10　中国抗議）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/10/07　　<a href\"..=\"\" 19.html\"=\"\">\nドッジ来日　（～12/04）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/10/09　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/isigeaki.html\">\n池田成彬</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/10/11　　<a href\"..=\"\" 19.html\"=\"\">\n中国人民解放軍、チベット進軍開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/10/13　　<a href\"..=\"\" 19.html\"=\"\">\n政府、１万90人の追放解除を発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/10/25　　<a href\"..=\"\" 19.html\"=\"\">\n中国人民義勇軍、鴨緑江を越えて出撃</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/11/03　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/kkuniaki.html\">\n小磯国昭</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/11/10　　<a href\"..=\"\" 19.html\"=\"\">\nＮＨＫ、テレビの定期実験放送を開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/11/22　　<a href\"..=\"\" 19.html\"=\"\">\nプロ野球、初の日本選手権　（優勝：毎日オリオンズ）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1949/yosi3_1.html\">吉田内閣③</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">おおミステイク　　レッドパージ　　とんでもハップン</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「チャタレイ夫人の恋人」　「少年期」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">また逢う日まで　　羅生門</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">プロ野球ナイター</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">水色のワルツ</td></tr>\n</tbody>"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"#h\">１９５０年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

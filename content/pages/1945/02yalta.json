@@ -1,0 +1,289 @@
+{
+ "path": "1945/02yalta.html",
+ "type": "article",
+ "title": "ヤルタ会談　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1945.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "ヤルタ会談"
+  },
+  {
+   "type": "title2",
+   "html": "1945/02/04"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1935.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1944.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1945.html\">１９４５</a> &gt;&gt;&gt; <a href=\"../20c/1946.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"../p/roosev_f.html\">ルーズベルト</a>、<a href=\"../p/church_w.html\">チャーチル</a>、<a href=\"../p/stalin.html\">スターリン</a>がクリミアの保養地で戦後処理について話しあった。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1942/01/01　　<a href=\"../1942/01senge.html\">\n連合国共同宣言</a>　（26ヵ国／単独不講和など）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/01/14　　<a href=\"../1943/01casab.html\">\nカサブランカ会談</a>　（～01/25）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/09/08　　<a href=\"../1943/09i_kof.html\">\nイタリア、無条件降伏</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/11/22　　<a href=\"../1943/11cairk.html\">\nカイロ会談</a>　（～11/26）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/11/27　　<a href=\"../1943/11cairs.html\">\nカイロ宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/11/28　　<a href=\"../1943/11teher.html\">\nテヘラン会談</a>　（～12/01）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/06/06　　<a href=\"../1944/06norma.html\">\n連合軍、ノルマンディー上陸作戦開始</a>　（オーバーロード作戦）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/11/07　　<a href\"..=\"\" 19.html\"=\"\">\nスターリン、日本を侵略国と見なすと声明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/12/03　　<a href=\"../1944/12greec.html\">\nギリシア内乱勃発</a>　（～45/01/11）"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/02/04　　<a 1945=\"\" href\"..=\"\" 02yalta.html\"=\"\">\nヤルタ会談</a>　（～02/11）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/02/11　　<a href=\"../1945/02kyote.html\">\nヤルタ協定</a>　（スターリン、対日参戦を約束）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/04/05　　<a href=\"../1945/04s_fue.html\">\nソ連、日ソ中立条約の不延長を通告</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/05/07　　<a href=\"../1945/05d_kof.html\">\nドイツ、無条件降伏　（ベルリン陥落）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/08　　<a href=\"../1945/08s_san.html\">\nソ連、対日参戦</a>　（08/09 満州侵攻開始）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/07/17　　<a href=\"../1945/07potsk.html\">\nポツダム会談</a>　（～08/02）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/07/26　　<a href=\"../1945/07potsd.html\">\n連合国、ポツダム宣言発表</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>二月二日</div>\n<div>マルタ島の米大統領<a href=\"../p/roosev_f.html\">Ｆ・ルーズベルト</a>は、相次ぐ訪問者と会議がつづく過密な日程に身をひたしていたが、\n会う者の多くに不安感を与えていた。</div>\n<div>大統領<a href=\"../p/roosev_f.html\">ルーズベルト</a>は、朝食後、乗艦・巡洋艦「クインシー」の上甲板に出て地中海の暖かい陽差しをあびていた。</div>\n<div>午前十時二十分、国務長官Ｅ・ステチニアス、駐ソ大使Ｗ・ハリマン、大統領顧問Ｈ・ホプキンスが訪れた。</div>\n<div>国務長官ステチニアスは、大統領は元気そうに見えた、と記述するが、駐ソ大使ハリマンは別の印象を記録している。</div>\n<div>「昨年の選挙のころから、大統領の健康が衰えているとの噂は耳にしていたが、久しぶり会う大統領は、\nひどく衰弱した病人としか思えなかった」</div>\n<div>大使ハリマンは、大統領主治医Ｒ・マッキンタイヤー海軍少将に大統領の「病状」を質問したが、少将は「心配無用」だと一蹴し、\nむしろ顧問ホプキンスに「精密診断」を勧告した。</div>\n<div>【中略】</div>\n<div>実際には、顧問ホプキンスも重病人ではあったが、【中略】　大統領<a href=\"../p/roosev_f.html\">ルーズベルト</a>よりも約九ヵ月長生きする・・・・・・。</div>\n<div>【中略】</div>\n<div>キング元帥は、上甲板でひなたぼっこする大統領に会った第一印象を、次のように記述している。</div>\n<div>「私と<a href=\"../p/marsha_g.html\">マーシャル</a>は、ワシントン出発前に会見したときとは別人のような大統領の姿に衝撃をうけた。\n明らかに重病人である」</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kn8hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（８）」</a>\n　Ｐ．４３８</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>「二人の会談は、まさしく地球を掌中でこねまわしている感じであった。\n驕慢さよりは、気楽さが感得された」</div>\n<div>とは、大使ハリマンの感想である。</div>\n<div>戦争は惨禍をもたらす。\nだが、一時の戦火とは別に、直接に関係のない力で民族の命運と将来が作図される恐ろしさも戦争の産物だ\n<span class=\"bar\">―</span>―との含意がうかがえる。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kn9hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（９）」</a>\n　Ｐ．６３</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1945.html\">１９４５年</a>\n ＞ <a href=\"#h\">ヤルタ会談</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

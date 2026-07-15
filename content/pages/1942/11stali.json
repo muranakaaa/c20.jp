@@ -1,0 +1,243 @@
+{
+ "path": "1942/11stali.html",
+ "type": "article",
+ "title": "ドイツ軍、スターリングラード猛攻撃開始　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1942.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "ドイツ軍、スターリングラード猛攻撃開始"
+  },
+  {
+   "type": "title2",
+   "html": "1942/11/19"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1932.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1941.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1942.html\">１９４２</a> &gt;&gt;&gt; <a href=\"../20c/1943.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "決死のソ連軍、奪われたスターリングラードを逆包囲。　<a href=\"../1941/06ds_ka.html\">独ソ戦</a>に転機の訪れ。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/12/18　　<a href=\"../1940/12barba.html\">\nヒトラー、ソ連侵攻作戦（バルバロッサ作戦）準備を指令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/06/22　　<a href=\"../1941/06ds_ka.html\">\n独ソ戦開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/08/02　　<a href=\"../1941/08a_enj.html\">\nアメリカ、対ソ経済援助開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/10/02　　<a href=\"../1941/10moskv.html\">\nドイツ軍、モスクワ攻略作戦（台風作戦）発動</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/12/08　　<a href=\"../1941/12hawai.html\">\nハワイ奇襲攻撃</a>　（AM03：25／太平洋戦争勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/12/08　　<a href=\"../1941/12moskv.html\">\nヒトラー、モスクワ攻撃放棄を指令　（撤退開始）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/12/11　　<a href\"..=\"\" 19.html\"=\"\">\n独伊、対米宣戦布告</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1942/08/22　　<a href=\"../1942/08stali.html\">\nドイツ軍、スターリングラード猛攻撃開始</a>　（スターリングラード攻防戦）"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1942/11/19　　<a 1942=\"\" href\"..=\"\" 11stali.html\"=\"\">\nソ連軍、スターリングラードで反撃開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/02/02　　<a href=\"../1943/02stali.html\">\nスターリングラードのドイツ第６軍、全軍降伏</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/01/20　　<a href\"..=\"\" 19.html\"=\"\">\nソ連軍、レニングラード解放</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/10/11　　<a href\"..=\"\" 19.html\"=\"\">\nソ連軍、ドイツ国境を突破</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/05/07　　<a href=\"../1945/05d_kof.html\">\nドイツ、無条件降伏　（ベルリン陥落）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"bar\">―</span>―十一月十九日。</div>\n<div>夜が明けても吹雪はおさまらず、視界はゼロと記録された。</div>\n<div>だが、ドン、南西両方面軍司令部は、計画どおりの攻撃を実施することにして、午前七時二十分、砲兵部隊に合図の隠語を下達した。</div>\n<div><span class=\"bar\">―</span>―「サイレン」</div>\n<div>砲撃用意の指示であり、その十分間後、午前七時三十分、砲撃開始が命令された。</div>\n<div>まず、ロケット砲『カチューシャ』が発射をはじめ、壁のように四囲をおおう吹雪の中を火矢がたばになって駆けぬけた。</div>\n<div>次いで砲撃が開始されたが、吹雪と砲煙で視界がとざされ、おまけに大地の積雪が反射する薄光のためにも砲手は視野をせばめられ、\n照準確定に難儀した。</div>\n<div>しかし、目標は、事前に測定してあるので、ソ連砲兵は砲撃をつづけた。</div>\n<div>攻撃の主向は、【中略】　第六軍の北翼に位置するルーマニヤ第三軍に定められている。</div>\n<div>ソ連軍歩兵部隊は、砲撃の合い間に雪中を這って進み、ルーマニヤ軍陣地の前、約三百メートルにせまった。</div>\n<div>午前八時四十八分、砲兵が最後の斉射を終えると、二分間後、午前八時五十分、戦車に援護されて歩兵部隊は前進した。</div>\n<div>南西方面軍の第二十一軍（Ａ・チスチャコフ少将）の場合、クレットスカヤ付近から行動を起こし、\n中央に第九十六、第六十三、第二百九十三、第六十五師団を並列して進んだ。</div>\n<div>いずれも、戦車に乗ったり、その横を歩いての前進であったが、左翼の第七十六師団は、風変わりな進撃ぶりを示した。</div>\n<div>師団長Ｍ・タバルテラツ少将の命令で、九十人の軍楽隊がソ連国家を演奏しながら、行進したのである。</div>\n<div>攻撃されたルーマニヤ第三軍は、錯乱状態になった。\nいきなり吹雪の中からロケット砲、砲弾が八十分間も降りそそぎ、それが終わったかと思えば、戦車のエンジン音、軍靴の地響き、\nおまけに音楽まで聞こえてきたのである。</div>\n<div>吹雪にとじこめられている環境では、なにがどこからくるのか、見当がつかない。</div>\n<div>ルーマニヤ第三軍は、一人が、あっちだ、と叫ぶ方角にむかい、雪と泥にまみれて潰走した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kn5hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（５）」</a>\n　Ｐ．１５８</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1942.html\">１９４２年</a>\n ＞ <a href=\"#h\">ドイツ軍、スターリングラード猛攻撃開始</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

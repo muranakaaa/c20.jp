@@ -1,0 +1,155 @@
+{
+ "path": "1901/10je_do.html",
+ "type": "article",
+ "title": "日英同盟交渉開始　／ クリック ２０世紀",
+ "description": null,
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a href=\"#f\">▽▽▽</a><a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1901.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "日英同盟交渉開始"
+  },
+  {
+   "type": "title2",
+   "html": "1901/10/16"
+  },
+  {
+   "type": "navi2",
+   "html": "\n１０年前 &gt;&gt;&gt; 前年 &gt;&gt;&gt; <a href=\"../20c/1901.html\">１９０１</a> &gt;&gt;&gt; <a href=\"../20c/1902.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1911.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "日英共通の脅威ロシアに対抗するための相談がロンドンで始まった。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/10/16　　<a 1901=\"\" href\"..=\"\" 10je_do.html\"=\"\">\n日英同盟交渉開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/12/02　　<a href=\"../1901/12jr_ky.html\">\n伊藤博文、日露協商交渉開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/12/23　　<a href=\"../1901/12jr_uc.html\">\n伊藤博文、露外相に交渉打切りを通告</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1902/01/30　　<a href=\"../1902/01je_do.html\">\n日英同盟①調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/10　　<a href=\"../1904/02jr_wa.html\">\n対露宣戦布告</a>　（日露戦争勃発）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_v\">taro's トーク</span>\n1941年10月16日、日米交渉の継続を主張する<a href=\"../p/kfumimar.html\">近衛首相</a>がついに<a href=\"../1941/kono3_9.html\">内閣総辞職</a>。\nその２日後には<a href=\"../1941/tojo_1.html\">東條内閣が成立</a>する。\n同じように戦争のことを考え、同じように首脳間に対立があったが、その40年前、\n明治の対立の方は、いかにしてロシアとの戦争を回避するか、その方法論をめぐるものだった。\nすなわち、ロシアと直接話をつけるか、イギリスと結んでロシアを封じ込めるか。\n頑張れば勝てるなどという精神論はどこにもなく、日露協商派も日英同盟派も、戦えば負けると信じていた。\nだから、そりゃあもう必死で、両派ともにゆずらず、<a href=\"../p/ihirobum.html\">伊藤</a>はみずからモスクワに赴き、<a href=\"../p/kjutaro.html\">小村</a>はロンドンに訓令し、\nまるで競うようだった。\n日露協商は実らず、<a href=\"../1902/01je_do.html\">日英同盟</a>は実現したが、この同盟は日本にとっては勝つためではなく、\n戦わぬための同盟だった。\nという歴史を40年後の首脳たちが知っていたとはtaroには思えない。\n今の首脳たちはどうだろう。ああ不安。</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div>ああああああああああああああああ</div>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "<a name=\"f\"></a>\n<a href=\"../index.html\">目次</a>\n ＞ <a href=\"../20c/1901.html\">１９０１年</a>\n ＞ <a href=\"#h\">日英同盟交渉開始</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

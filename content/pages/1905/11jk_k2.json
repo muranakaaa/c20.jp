@@ -1,0 +1,237 @@
+{
+ "path": "1905/11jk_k2.html",
+ "type": "article",
+ "title": "日韓協約②調印　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1905.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "日韓協約②調印"
+  },
+  {
+   "type": "title2",
+   "html": "1905/11/17"
+  },
+  {
+   "type": "navi2",
+   "html": "\n１０年前 &gt;&gt;&gt; <a href=\"../20c/1904.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1905.html\">１９０５</a> &gt;&gt;&gt; <a href=\"../20c/1906.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1915.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "米英露３国の承認を得て、韓国に対する日本政府の次なる一手。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1903/12/30　　<a href=\"../1903/12gaiko.html\">\n閣議、対清・対韓政策を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/01/23　　<a href=\"../1904/01k_cur.html\">\n韓国、日露開戦の場合の中立を声明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/10　　<a href=\"../1904/02jr_wa.html\">\n対露宣戦布告</a>　（<a href=\"../them/jr_war.html\">日露戦争</a>勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/23　　<a href=\"../1904/02jk_gi.html\">\n日韓議定書調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/08/22　　<a href=\"../1904/08jk_k1.html\">\n日韓協約①調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/05/27　　<a href=\"../1905/05nihon.html\">\n日本海海戦</a>　（～05/28／連合艦隊司令長官：<a href=\"../p/theihaci.html\">東郷平八郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/07/29　　<a href=\"../1905/07taftk.html\">\n桂・タフト協定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/08/12　　<a href=\"../1905/08je_d2.html\">\n日英同盟②調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/09/05　　<a href=\"../1905/09portm.html\">\nポーツマス条約調印</a>　（首席全権：<a href=\"../p/kjutaro.html\">小村寿太郎</a>／<a href=\"../them/jr_war.html\">日露戦争</a>終結）"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/11/17　　<a 1905=\"\" href\"..=\"\" 11jk_k2.html\"=\"\">\n日韓協約②調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/12/20　　<a href\"..=\"\" 19.html\"=\"\">\n韓国統監府設置　（12/21 </a><a href=\"../p/ihirobum.html\">伊藤博文</a>を韓国統監に任命）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1907/07/24　　<a href=\"../1907/07jk_k3.html\">\n日韓協約③調印</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "pt"
+   },
+   "html": "\n<div class=\"pt_h\">～　協約の内容　（韓国保護国化）　～</div>\n<div class=\"c\">韓国は外交を日本に任せ、日本から来た統監の指導を受けること！</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><a href=\"../p/ihirobum.html\">伊藤</a>は大臣を集め、参政大臣（首相）韓圭咼（<a href=\"#cyu\">※</a>）の保護協約反対の訴えを聞いたあと、\n一人一人の閣僚から意見を求めた。\nまず外部大臣朴斉純がだんぜん不同意だが皇帝の命令とあればいたしかたないと述べると、\n<a href=\"../p/ihirobum.html\">伊藤</a>はそれでは命令なら調印するのだから不同意ではないと分類してしまった。\nこのほか度支部大臣（蔵相）閔泳綺が絶対反対を述べたが、学部大臣李完用は、逆に日韓両国は実力が違うのだから、\n「未ダ感情ノ衝突セザル、未ダ時機ノ切迫セザル今日ニ於テ円満ニ妥協ヲ遂ゲ」ることが望ましいと積極的に賛成の態度を明らかにした。\n残る四大臣も李完用に同調した。</div>\n<div>これを聞いた<a href=\"../p/ihirobum.html\">伊藤</a>は、これでは閣議は多数決で協約に賛成ではないか、それなのに調印の手続きをとらないのは日本と絶交するつもりか、\nと韓参政につめよった。\n進退きわまった韓が号泣しながら別室にしりぞくと、<a href=\"../p/ihirobum.html\">伊藤</a>は閣僚の希望をいれて二、三の修正を行ない、\n宮内府大臣に裁可を求めるよう要求した。\n皇帝は韓国が独立を維持する力を蓄えたときにはこの協約を撤回するような規定がほしいと希望、\n<a href=\"../p/ihirobum.html\">伊藤</a>はこれをいれて「韓国ノ富強ノ実ヲ認ムル時ニ至ル迄」との一句を加え、\nその場で浄書し、林公使と朴外部大臣が署名調印した。\n時に夜中の十一時であり、<a href=\"../p/ihirobum.html\">伊藤</a>らが退出したのは午前零時をすぎていた。</div>\n<div>韓国植民地化の決定的な曲り角がすぎた。\n協約は、日本が東京の外務省により、韓国の外国に対する関係および事務を監理・指導すること、\n日本政府の代表として統監一名を置くことなどを規定した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ft_nicir.html\">古屋哲夫 「日露戦争」</a>\n　Ｐ．２１４</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "a",
+   "attrs": {
+    "name": "cyu"
+   },
+   "html": "\n<div class=\"cyu\">※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n<br>「韓圭咼」の「咼」は、正しい字を表示できないため、仮にこの字を当てています。\n</div>\n\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a name=\"cyu\"></a><a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1905.html\">１９０５年</a>\n ＞ <a href=\"#h\">日韓協約②調印</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

@@ -1,0 +1,409 @@
+{
+ "path": "20c/1916.html",
+ "type": "year",
+ "title": "１９１６年　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９１６年"
+  },
+  {
+   "type": "title2",
+   "html": "大正５年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"1906.html\">１０年前</a> &gt;&gt;&gt; <a href=\"1915.html\">前年</a> &gt;&gt;&gt; <span class=\"now\">１９１６</span> &gt;&gt;&gt; <a href=\"1917.html\">翌年</a> &gt;&gt;&gt; <a href=\"1926.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"#s4\">忍術　　現代的　　民本主義</a>",
+    "<a href=\"../1914/okum2_1.html\">大隈②</a> → <a href=\"../1916/tera_1.html\">寺内内閣</a>"
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"1915.html#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/01/01　　<a href=\"../1916/01enkot.html\">\n袁世凱、皇帝即位　（帝政移行）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/01/12　　<a href\"..=\"\" 19.html\"=\"\">\n大隈首相爆殺未遂事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/02/21　　<a href\"..=\"\" 19.html\"=\"\">\nヴェルダン要塞攻防戦　（～07/11）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/03/22　　<a href\"..=\"\" 19.html\"=\"\">\n袁世凱、帝政取消</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/03/26　　<a href=\"../1916/03kokei.html\">\n大隈首相、山県元老に対して、後継首相に加藤高明を推薦</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/04/22　　<a href\"..=\"\" 19.html\"=\"\">\n段祺瑞政権成立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/04/24　　<a href\"..=\"\" 19.html\"=\"\">\nシン・フェイン党など、ダブリンで反英武力蜂起　（～05/01）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/05/09　　<a href\"..=\"\" 19.html\"=\"\">\nサイクス・ピコ条約　（アラブ分割を決めた英仏の秘密条約）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/05/24　　<a href\"..=\"\" 19.html\"=\"\">\n３党首会談　（</a><a href=\"../p/htakasi.html\">原</a>・<a href=\"../p/ktakaaki.html\">加藤</a>・<a href=\"../p/ituyosi.html\">犬養</a>／三浦梧楼の斡旋）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/05/26　　<a href\"..=\"\" 19.html\"=\"\">\n</a><a href=\"../p/nsoseki.html\">夏目漱石</a>「明暗」連載開始　（朝日新聞）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/05/29　　<a href\"..=\"\" 19.html\"=\"\">\nタゴール来日</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/05/31　　<a href\"..=\"\" 19.html\"=\"\">\nユトランド沖海戦　（～06/01）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/06/01　　<a href\"..=\"\" 19.html\"=\"\">\n大審院、徳島市立小学校遊動円木事件で、市の賠償責任を認める判決</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/06/06　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/enseigai.html\">\n袁世凱</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/06/06　　<a href\"..=\"\" 19.html\"=\"\">\n黎元洪、中華民国大総統に就任</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/07/03　　<a href\"..=\"\" 19.html\"=\"\">\n日露協約④調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/07/09　　<a href\"..=\"\" 19.html\"=\"\">\n上田敏没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/09/01　　<a href\"..=\"\" 19.html\"=\"\">\n工場法施行</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/09/15　　<a href\"..=\"\" 19.html\"=\"\">\nイギリス軍、戦車を使用</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"1917.html#s1\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/10/04　　<a href\"..=\"\" 19.html\"=\"\">\n大隈首相、辞意表明　（後継首相に加藤高明を推薦）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/10/04　　<a href\"..=\"\" 19.html\"=\"\">\n元老会議、後継首相に寺内正毅を推薦　（寺内に組閣命令）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/10/05　　<a href=\"../1916/okum2_9.html\">\n大隈内閣②総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/10/09　　<a href=\"../1916/tera_1.html\">\n寺内内閣成立</a>　（首相：<a href=\"../p/tmasatak.html\">寺内正毅</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/10/10　　<a href=\"../1916/10kense.html\">\n憲政会結成</a>　（立憲同志会など３党合同／総裁：<a href=\"../p/ktakaaki.html\">加藤高明</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/12/04　　<a href\"..=\"\" 19.html\"=\"\">\nロイド・ジョージ戦時内閣成立　（英／外相：バルフォア）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/12/09　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/nsoseki.html\">\n夏目漱石</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/12/10　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/oiwao.html\">\n大山巌</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/12/16　　<a href\"..=\"\" 19.html\"=\"\">\nラスプーチン没</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1914/okum2_1.html\">大隈②</a> → <a href=\"../1916/tera_1.html\">寺内内閣</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">忍術　　現代的　　民本主義</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「婦人公論」　「鼻」　「時は過ぎゆく」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">「自来也」　「カビリヤ」</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">―</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">サンタルチア</td></tr>\n</tbody>"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"#h\">１９１６年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

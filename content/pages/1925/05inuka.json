@@ -1,0 +1,273 @@
+{
+ "path": "1925/05inuka.html",
+ "type": "article",
+ "title": "犬養毅（逓相）、政界引退を発表　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1925.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "犬養毅（逓相）、政界引退を発表"
+  },
+  {
+   "type": "title2",
+   "html": "1925/05/28"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1915.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1924.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1925.html\">１９２５</a> &gt;&gt;&gt; <a href=\"../20c/1926.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1935.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"../1925/05fusen.html\">普選実現</a>を政治生活の区切りに。　“歩く憲政博物館” <a href=\"../p/ituyosi.html\">犬養毅</a>、引退を表明。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/11/08　　<a href=\"../1922/11kakus.html\">\n革新倶楽部結成</a>　（<a href=\"../p/ituyosi.html\">犬養毅</a>・<a href=\"../p/oyukio.html\">尾崎行雄</a>・<a href=\"../p/ssaburo.html\">島田三郎</a>ら）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/01/10　　<a href=\"../1924/01goke2.html\">\n護憲運動②開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/05/10　　<a href\"..=\"\" 19.html\"=\"\">\n総選挙[15]　（憲政151、政友105、革新30、政友本党109、他69）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/06/07　　<a href=\"../1924/kiyo_9.html\">\n清浦内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/06/09　　<a href=\"../1924/063pare.html\">\n加藤高明、高橋・犬養両党首を訪問、３派連立を協議</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/06/11　　<a href=\"../1924/katob_1.html\">\n加藤（高）内閣（護憲三派内閣）成立</a>　（首相：<a href=\"../p/ktakaaki.html\">加藤高明</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/04/22　　<a href=\"../1925/04ciani.html\">\n治安維持法公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/05/01　　<a href\"..=\"\" 19.html\"=\"\">\n陸軍軍縮計画（宇垣軍縮）発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/05/05　　<a href=\"../1925/05fusen.html\">\n普通選挙法公布</a>　（男子普通選挙）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/05/14　　<a href=\"../1925/05kakus.html\">\n革新倶楽部右派（犬養毅ら）、政友会に合流</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/05/28　　<a 1925=\"\" href\"..=\"\" 05inuka.html\"=\"\">\n犬養毅（逓相）、政界引退を発表</a>　（05/30 逓相辞任）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/07/31　　<a href=\"../1925/katob_3.html\">\n加藤（高）内閣（護憲三派内閣）総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/08/02　　<a href=\"../1925/katob_4.html\">\n加藤（高）内閣（憲政会単独内閣）成立</a>　（政友会、政権を離脱）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1929/10/12　　<a href=\"../1929/10inuka.html\">\n犬養毅、政友会総裁⑥就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/12/13　　<a href=\"../1931/inu_1.html\">\n犬養内閣成立</a>　（首相：<a href=\"../p/ituyosi.html\">犬養毅</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/05/15　　<a href=\"../1932/05515ji.html\">\n五・一五事件</a>　（<a href=\"../p/ituyosi.html\">犬養首相</a>暗殺）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\n<a href=\"../p/ituyosi.html\">犬養毅</a>とは何だったのか。これはtaroの永遠のテーマだ。\n検定教科書をみると、<a href=\"../p/ituyosi.html\">犬養</a>はあたかも立派な人であるかのごとく書かれている。\nところが、いったいどこが立派なのかはさっぱりわからない。\nしかたがないのでtaroなりに調べてみると、功よりも罪の方が目につく。\n<a href=\"../p/ituyosi.html\">犬養</a>の罪、それもきわめつけの罪は<a href=\"../1930/04tosui.html\">統帥権干犯問題</a>を起こしたことだ。\n野党の党首だった彼が軍部の尻馬に乗って、政府が結んだ軍縮条約を国会で攻撃。\nこれが、テロの時代の幕開けに貢献し、政党政治を終焉に導くことになる。\nこのマイナスにもかかわらず、いったいどういうわけで、\n世間が<a href=\"../p/ituyosi.html\">犬養</a>を評価するのか、そのメカニズムをいつかは知りたいと思っている。\n彼がこんな途轍もない罪を犯したのは、引退宣言のずっと後のことで、\nだから、<a href=\"../p/ituyosi.html\">犬養</a>が宣言どおりに引退しなかったことをtaroはとても残念に思っている。\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div>ああああああああああああああああ</div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1925.html\">１９２５年</a>\n ＞ <a href=\"#h\">犬養毅（逓相）、政界引退を発表</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

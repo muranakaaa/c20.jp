@@ -1,0 +1,58 @@
+{
+ "path": "text/st_yamas.html",
+ "type": "text",
+ "title": "「山本宣治」　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "text.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "「山本宣治」"
+  },
+  {
+   "type": "title2",
+   "html": "参考書籍"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "list"
+   },
+   "html": "<tbody><tr>\n<td class=\"list\"><a href=\"08y.html\">一覧</a></td>\n<td class=\"list2\"><a href\"st_yamas.html\"=\"\">データ</a></td>\n<td class=\"list\"><a href=\"st1yamas.html\">上</a></td>     \n<td class=\"list\"><a href=\"st2yamas.html\">下</a></td>\n</tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n著者：　佐々木敏二（ささき・としじ）<br>\n発行：　汐文社<br>\n書籍：　全２巻／単行本<br>\n定価：　各1500円（？）<br>\n補足情報：<br>\n<div class=\"in\">\n同志社山宣祭の講演会のとき、<a href=\"../p/ysenji.html\">山宣</a>の長男英治氏より、「花やしき」に<a href=\"../p/ysenji.html\">山宣</a>資料がある程度残されていることを教えられた。\n講演会も終ってしばらくたった頃、同志社山宣会では<a href=\"../p/ysenji.html\">山宣</a>資料の調査をしてみようという計画がたてられ、\n私たち数名が「花やしき」を訪れた。\n英治氏の案内で、<a href=\"../p/ysenji.html\">山宣</a>の書斎の蔵書類、布団部屋の奥の棚にある遺品類、<a href=\"../p/ysenji.html\">山宣</a>所有の資料戸棚などを見せていただいた。\nその時古くから居られるお手伝のお婆さんが「<a href=\"../p/ysenji.html\">山宣さん</a>の資料なら蔵の二階に沢山ありますよ」と教えてくれた。\n私たちは、旅館のお膳や机などのこわれたものの入っている真暗な二階に懐中電灯を持って入って行って、\nそれらのガラクタを動かしてみて、ビックリした。\nそこには、日記、書簡、ノート、山宣渡政労農葬のフィルム、その他沢山の資料が山とつまれていた。（まえがき）</div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"08y.html\">書籍ファイル一覧　（ヤ）</a>\n ＞ <a href=\"#h\">「山本宣治」</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

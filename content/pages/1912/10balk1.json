@@ -1,0 +1,174 @@
+{
+ "path": "1912/10balk1.html",
+ "type": "article",
+ "title": "バルカン戦争①勃発　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1912.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "バルカン戦争①勃発"
+  },
+  {
+   "type": "title2",
+   "html": "1912/10/17"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1902.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1911.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1912.html\">１９１２</a> &gt;&gt;&gt; <a href=\"../20c/1913.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1922.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "火薬庫に火がついた！　バルカン諸国、<a href=\"../1911/09tripo.html\">トリポリ戦争</a>中のオスマン・トルコに宣戦布告。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1908/07/24　　<a href\"..=\"\" 19.html\"=\"\">\n青年トルコ党の革命</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1908/10/06　　<a href\"..=\"\" 19.html\"=\"\">\nオーストリア、ボスニア・ヘルツェゴビナ併合を宣言　（ボスニア危機）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/09/29　　<a href=\"../1911/09tripo.html\">\nトリポリ戦争勃発</a>　（～12/10/18）"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/10/17　　<a 1912=\"\" href\"..=\"\" 10balk1.html\"=\"\">\nバルカン戦争①勃発</a>　（～13/05/30）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/06/29　　<a href=\"../1913/06balk2.html\">\nバルカン戦争②勃発</a>　（～13/07/30）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/06/28　　<a href=\"../1914/06saraj.html\">\nサラエボ事件</a>　（オーストリア皇太子夫妻暗殺）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/07/28　　<a href=\"../1914/07taise.html\">\nオーストリア、セルビアに宣戦布告</a>　（第一次世界大戦勃発）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "pt"
+   },
+   "html": "\n<div class=\"pt_h\">～　バルカン戦争①の遠因　～</div>\n<div class=\"c\">オスマン・トルコの弱体化 ／ バルカン諸民族の独立運動 ／ ロシアの汎スラブ主義</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>第一次バルカン戦争は一九一二年にロシアの仲介で、セルビア、ブルガリア、ギリシア、モンテネグロの四ヵ国間に\nバルカン連盟とよばれる同盟体制が築かれることによって、十月に開始された。\n当時、オスマン帝国は<a href=\"../1911/09tripo.html\">イタリアとの戦争</a>（イタリア=トルコ戦争）に煩われていただけでなく、\n民族覚醒の遅れていたアルバニアやマケドニアでの民族運動にも悩まされていた。\nバルカン連盟側の兵力は約七〇万、一方、オスマン帝国の軍隊は約三二万であり、\nオスマン帝国の劣勢は明らかであった。</div>\n<div>ブルガリアはバルカン半島中東部のトラキア地方でオスマン帝国軍の主力部隊と戦い、\nセルビアとギリシアはアルバニアやマケドニア地方に進出した。\nモンテネグロも隣接するアルバニアに軍隊を進めた。\n一九一三年春までにオスマン帝国の敗北がはっきりすると、ヨーロッパ列強が介入してくる。\n同年五月にロンドン条約が締結され、休戦が成立した。\nこの結果、列強はアルバニアの独立を承認したため、\nセルビア、モンテネグロ、ギリシアの各国は占領したアルバニアの領域から撤退しなければならなかった。</div>\n<div class=\"txr\"><a href=\"../text/ks_nse26.html\">木村靖二・柴宜弘・長沼秀世 「世界の歴史（26）」</a>\n　Ｐ．２８<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E4%25B8%2596%25E7%2595%258C%25E5%25A4%25A7%25E6%2588%25A6%25E3%2581%25A8%25E7%258F%25BE%25E4%25BB%25A3%25E6%2596%2587%25E5%258C%2596%25E3%2581%25AE%25E9%2596%258B%25E5%25B9%2595%2520%2520%2520%2520%25E4%25B8%2596%25E7%2595%258C%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1912.html\">１９１２年</a>\n ＞ <a href=\"#h\">バルカン戦争①勃発</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

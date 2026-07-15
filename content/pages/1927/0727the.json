@@ -1,0 +1,224 @@
+{
+ "path": "1927/0727the.html",
+ "type": "article",
+ "title": "２７年テーゼ　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1927.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "２７年テーゼ"
+  },
+  {
+   "type": "title2",
+   "html": "1927/07/15"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1917.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1926.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1927.html\">１９２７</a> &gt;&gt;&gt; <a href=\"../20c/1928.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1937.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "日本共産党 しっかりしろと、コミンテルンがハッパをかけた。　山川も福本もけちょんけちょん。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/07/15　　<a href=\"../1922/07kyosa.html\">\n日本共産党結成</a>　（委員長：<a href=\"../p/stosihik.html\">堺利彦</a>／秘密結社）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/06/05　　<a href\"..=\"\" 19.html\"=\"\">\n共産党事件</a>　（<a href=\"../p/stosihik.html\">堺利彦</a>ら検挙）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/01　　<a href=\"../1923/09sinsa.html\">\n関東大震災</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/04/22　　<a href=\"../1925/04ciani.html\">\n治安維持法公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/05/05　　<a href=\"../1925/05fusen.html\">\n普通選挙法公布</a>　（男子普通選挙）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/01/15　　<a href=\"../1926/01gakur.html\">\n京都学連事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/03/05　　<a href\"..=\"\" 19.html\"=\"\">\n労働農民党結成</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/07/15　　<a 1927=\"\" href\"..=\"\" 0727the.html\"=\"\">\n２７年テーゼ</a>　（コミンテルン日本問題委員会）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1928/02/01　　<a href=\"../1928/02akaha.html\">\n共産党機関紙「赤旗」創刊</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1928/03/15　　<a href=\"../1928/03315ji.html\">\n三・一五事件</a>　（共産党関係者一斉検挙）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1928/06/29　　<a href=\"../1928/06ciani.html\">\n治安維持法改正①</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1929/04/16　　<a href\"..=\"\" 19.html\"=\"\">\n四・一六事件　（共産党員全国一斉検挙／党組織に壊滅的打撃）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>昭和二年七月一五日、コミンテルン日本問題委員会で「日本問題に関する決議（二七年テーゼ）」が採択された。\nテーゼは日本の情勢を、民主主義革命の客観的諸前提も、それの社会主義革命への強行的転化の客観的諸前提も備っているととらえ、\nそれゆえまず封建的専制勢力を打破して民主主義革命を実現し、ついで社会主義革命へ転化させねばならないという戦略を規定した。\nしかも日本の革命の遂行にあたっては、革命の主体的勢力が情勢にたちおくれていることを指摘し、\n共産党の質的量的発展と大衆活動の展開を強調し、山川イズム、福本イズムをきびしく批判した。</div>\n<div>労農党においても評議会においても実践のなかで次第に福本イズムを克服しつつあったが、\n「二七年テーゼ」の方針が具体化されるのは\nコミンテルン派遣団（<a href=\"../p/tkyuici.html\">徳田球一</a>、渡辺政之輔、鍋山貞親、中尾勝男、河合悦三、福本和夫、佐野文夫）が一一年帰国し、\n一二月初旬に共産党拡大中央委員会を開いてからである。\n「二七年テーゼ」は山川イズムに対して「共産党を労働組合の左翼フラクションもしくは広範な労働者農民政党によって\nいくぶんでも代用させうるという考えは、根本的に誤謬であり、日和見主義である」と非難するとともに、\n福本イズムに対しては、「同志クロキ〈福本〉が提唱した『分離結合』の理論は」\n「プロレタリアートの大衆諸組織から党の孤立をまねくような方針」であり、「レーニン主義とは決定的にまた根本的に矛盾している」と非難した。</div>\n<div class=\"txr\"><a href=\"../text/st2yamas.html\">佐々木敏二 「山本宣治（下）」</a>\n　Ｐ．２０７<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4938303019%2Fqid%3D1147088125%2Fsr%3D1-5%2Fref%3Dsr_1_8_5\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1927.html\">１９２７年</a>\n ＞ <a href=\"#h\">２７年テーゼ</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

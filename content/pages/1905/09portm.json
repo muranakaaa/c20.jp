@@ -1,0 +1,313 @@
+{
+ "path": "1905/09portm.html",
+ "type": "article",
+ "title": "ポーツマス条約調印　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1905.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "ポーツマス条約調印"
+  },
+  {
+   "type": "title2",
+   "html": "1905/09/05"
+  },
+  {
+   "type": "navi2",
+   "html": "\n１０年前 &gt;&gt;&gt; <a href=\"../20c/1904.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1905.html\">１９０５</a> &gt;&gt;&gt; <a href=\"../20c/1906.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1915.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "ロシア代表団からバンザイ！　の声が上がった。　平和だ！　戦争は終わったんだ！"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/10　　<a href=\"../1904/02jr_wa.html\">\n対露宣戦布告</a>　（<a href=\"../them/jr_war.html\">日露戦争</a>勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/01/02　　<a href=\"../1905/01ryojy.html\">\n旅順陥落</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/03/10　　<a href=\"../1905/03hote2.html\">\n日本軍、奉天占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/04/21　　<a href=\"../1905/04kowaj.html\">\n対露講和条件を閣議決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/05/27　　<a href=\"../1905/05nihon.html\">\n日本海海戦</a>　（～05/28／連合艦隊司令長官：<a href=\"../p/theihaci.html\">東郷平八郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/06/09　　<a href=\"../1905/06roosv.html\">\nＴ・ルーズベルト（米）大統領、日露両国に公式に講和を勧告</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/07/03　　<a href=\"../1905/07zenke.html\">\n小村寿太郎、高平小五郎を日露講和会議全権に任命</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/07/07　　<a href=\"../1905/07karaf.html\">\n第13師団、南樺太上陸</a>　（07/31 樺太占領）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/08/10　　<a href=\"../1905/08portm.html\">\n日露講和会議開催</a>　（アメリカ・ポーツマス／首席全権：<a href=\"../p/kjutaro.html\">小村寿太郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/08/14　　<a href=\"../1905/08dankh.html\">\n桂・原会談</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/08/14　　<a href\"..=\"\" 19.html\"=\"\">\n大阪朝日新聞、賠償金要求の不調を号外で報道</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/08/17　　<a href\"..=\"\" 19.html\"=\"\">\n講和問題同志連合大会、講和条件譲歩反対を決議</a>　（東京・明治座）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/08/22　　<a href=\"../1905/08roose.html\">\nＴ・ルーズベルト（米）大統領、金子特使に金銭的要求の放棄を勧告</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/08/28　　<a href=\"../1905/08kowah.html\">\n御前会議、日露講和成立方針を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/09/05　　<a 1905=\"\" href\"..=\"\" 09portm.html\"=\"\">\nポーツマス条約調印</a>　（首席全権：<a href=\"../p/kjutaro.html\">小村寿太郎</a>／<a href=\"../them/jr_war.html\">日露戦争</a>終結）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/09/05　　<a href=\"../1905/09hibiy.html\">\n日比谷焼き打ち事件</a>　（～09/06）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/10/12　　<a href=\"../1905/10kakus.html\">\n桂・ハリマン覚書</a>　（10/23 取消）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/11/17　　<a href=\"../1905/11jk_k2.html\">\n日韓協約②調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1906/11/26　　<a href=\"../1906/11mante.html\">\n南満州鉄道株式会社（満鉄）設立</a>　（総裁：<a href=\"../p/gsinpei.html\">後藤新平</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1910/08/22　　<a href=\"../1910/08k_heg.html\">\n韓国併合</a>　（日韓条約調印）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "pt"
+   },
+   "html": "\n<div class=\"pt_h\">～　この条約で日本が得たもの　～</div>\n<div class=\"c\">南樺太／旅順・大連と東清鉄道南満州線（清国の承認が必要）／沿海州漁業権</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\n講和が決まったとき、対米工作を続けてきた<a href=\"../p/kkentaro.html\">金子堅太郎</a>は、世界のマスコミに向かって、\n「日本政府が戦勝国として当然の理由をもつ賠償金支払い要求を潔く撤回したのは、日本人が金銭よりはむしろ人道を重んじ、\n文明を尊び、世界の平和を愛する人種であるからにほかならない。\n私事であれ国事であれ、われら日本人は金銭よりも名誉を重んじる」と述べた。\nたとえ日本に戦争をどうしても続けられない理由があったとしても、\nその事実は、<a href=\"../p/kkentaro.html\">金子</a>の言葉を多少なりとも損なうものではないとtaroは思っている。\nそして、いつの時代でもこうありたいと思っている。\n<a href=\"../p/kkentaro.html\">金子</a>のコメントは、その日の各紙に大きく取りあげられた。\nえ、キレイゴト？　いいじゃん、キレイゴトをまっとうしようじゃん。\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div>ああああああああああああああああ</div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1905.html\">１９０５年</a>\n ＞ <a href=\"#h\">ポーツマス条約調印</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

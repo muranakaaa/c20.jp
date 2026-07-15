@@ -1,0 +1,273 @@
+{
+ "path": "1940/06f_kof.html",
+ "type": "article",
+ "title": "フランス（ペタン政府）降伏　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1940.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "フランス（ペタン政府）降伏"
+  },
+  {
+   "type": "title2",
+   "html": "1940/06/22"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1930.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1939.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1940.html\">１９４０</a> &gt;&gt;&gt; <a href=\"../20c/1941.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1950.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "鉄壁のマジノ線をあっけなく破られ、なすすべもなくフランス、ドイツに降伏。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1939/09/01　　<a href=\"../1939/09taise.html\">\nドイツ軍、ポーランド侵攻開始</a>　（第二次世界大戦勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1939/09/03　　<a href=\"../1939/09ef_se.html\">\n英仏、対独宣戦布告</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1939/09/17　　<a href=\"../1939/09s_sin.html\">\nソ連軍、ポーランド東部に侵攻開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1939/11/03　　<a href=\"../1939/11sfin_.html\">\nソ連軍、フィンランド侵攻開始　（ソ・フィン戦争勃発）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/03/20　　<a href=\"../1940/03dalad.html\">\nダラディエ内閣総辞職</a>　（レイノー内閣成立／仏）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/04/09　　<a href=\"../1940/04norwa.html\">\nドイツ軍、ノルウェー侵攻開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/04/09　　<a href=\"../1940/04denma.html\">\nドイツ軍、デンマーク無血占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/05/10　　<a href=\"../1940/05seibu.html\">\nドイツ軍、西部戦線に総攻撃開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/05/27　　<a href=\"../1940/05dunke.html\">\nイギリス軍、ダンケルク撤退開始</a>　（06/04 撤退完了）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/06/10　　<a href=\"../1940/06i_san.html\">\nイタリア、英仏に宣戦布告</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/06/14　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ軍、パリ入城</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/06/18　　<a href\"..=\"\" 19.html\"=\"\">\nド・ゴール将軍、自由フランス委員会設立　（ロンドン）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/06/22　　<a 1940=\"\" href\"..=\"\" 06f_kof.html\"=\"\">\nフランス（ペタン政府）降伏</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/09/07　　<a href=\"../1940/09londo.html\">\nドイツ空軍、ロンドン爆撃開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/10/12　　<a href=\"../1940/10asika.html\">\nヒトラー、英本土上陸作戦（あしか作戦）中止を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/06/22　　<a href=\"../1941/06ds_ka.html\">\n独ソ戦開始</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>六月四日に<a href=\"../1940/05dunke.html\">ダンケルクからの撤兵</a>が完了すると、こんどはフランスの苦悶が始まった。\n翌五日、ドイツ軍は南方進撃を開始し、十三日にはパリを占領、さらに二日後には、一九一六年の戦闘でドイツ軍が敗北した因縁の地、\nヴェルダンに進撃した。\nドイツ軍のパリ入城とともにフランス政府はボルドーに移り、<a href=\"../p/daladi_e.html\">ダラディエ</a>に代わって三ヵ月まえから政権をとっていた\nポール・レイノーは辞職して、<a href=\"../p/petain_h.html\">アンリ・ペタン元帥</a>が後を継いだ。\nドイツ軍に和を求めたのは、皮肉にも、この「ヴェルダンの英雄」であった。\n六月二十二日、フランス側はきびしい休戦条項を呑んだ。\n場所はコンピエーニュ、これまた皮肉にも、前大戦でドイツが休戦条約を結んだ因縁の地であった。\nそして、休戦条約の結果成立したヴィシー政府は、第三共和国憲法を廃し、国会を無期停会とし、大統領制を廃して、\n<a href=\"../p/petain_h.html\">ペタン</a>みずからが国家の元首となった。\n敗戦フランスの政治変革はドイツやイタリア全体主義体制の採用を意味し、大革命以来のフランスの伝統を破るものであった。\n他方、このようなドイツの絶対優勢の戦況を目撃した<a href=\"../p/mussol_b.html\">ムッソリーニ</a>は、漁夫の利を望んで、\nフランス降伏の十二日まえに<a href=\"../1940/06i_san.html\">参戦</a>した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ia_gaise.html\">今津晃 「概説現代史」</a>\n　Ｐ．２１３</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1940.html\">１９４０年</a>\n ＞ <a href=\"#h\">フランス（ペタン政府）降伏</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

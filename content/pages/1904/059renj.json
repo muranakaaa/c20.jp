@@ -1,0 +1,183 @@
+{
+ "path": "1904/059renj.html",
+ "type": "article",
+ "title": "第一軍、鴨緑江を渡河、九連城占領　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1904.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "第一軍、鴨緑江を渡河、九連城占領"
+  },
+  {
+   "type": "title2",
+   "html": "1904/05/01"
+  },
+  {
+   "type": "navi2",
+   "html": "\n１０年前 &gt;&gt;&gt; <a href=\"../20c/1903.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1904.html\">１９０４</a> &gt;&gt;&gt; <a href=\"../20c/1905.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1914.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "ナポレオンを倒したロシア伝統の戦略的退却のおかげ。　第一軍、九連城までスイスイ。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/08　　<a href=\"../1904/02jorik.html\">\n陸軍先遣隊、仁川上陸</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/10　　<a href=\"../1904/02jr_wa.html\">\n対露宣戦布告</a>　（<a href=\"../them/jr_war.html\">日露戦争</a>勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/03/14　　<a href\"..=\"\" 19.html\"=\"\">\n第一軍主力、鎮南浦に上陸</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/04/26　　<a href\"..=\"\" 19.html\"=\"\">\n第一軍、鴨緑江渡河作戦開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/05/01　　<a 1904=\"\" href\"..=\"\" 059renj.html\"=\"\">\n第一軍、鴨緑江を渡河、九連城占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/05/08　　<a href=\"../1904/05cyoci.html\">\n大祝捷提灯行列</a>　（死者20名／東京）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/08/28　　<a href=\"../1904/08ryoy1.html\">\n遼陽会戦</a>　（～09/04）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>十四日の最高幕僚会議で四月二十七日もしくは二十八日より、鎮南浦に集結した第二軍先発部隊を塩大澳に向け輸送を開始することとし、\n五月一日上陸開始と予定した。\nそれと同時に四月下旬に鴨緑江岸に集結を終る第一軍に対して、第二軍上陸の前日、四月三十日に渡河作戦を命じ、\nロシア軍を牽制することにした。</div>\n<div>第二軍の上陸は準備が遅れて五月五日となったが、第一軍は予定をのばすことは不利として五月一日渡河を開始、\nここに日露戦争最初の陸戦が展開された。\n九連城に主力をおくロシア軍に対し、右翼より渡河、敵を包囲するかたちで戦闘を行なうことに決した第一軍は、二十九日夜、\n上流水口鎮より第十二師団を渡河させ、五月一日明け方から砲兵の掩護下にいっせいに前進開始、午後までには九連城一帯を占領、\nロシア軍は後備部隊をつぎ込むことなく退却した。\n第一軍はついで五月十一日鳳凰城に進出し、ここで遼陽への前進のための補給を待つことになった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ft_nicir.html\">古屋哲夫 「日露戦争」</a>\n　Ｐ．１０２</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1904.html\">１９０４年</a>\n ＞ <a href=\"#h\">第一軍、鴨緑江を渡河、九連城占領</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

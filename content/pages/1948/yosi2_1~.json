@@ -1,0 +1,197 @@
+{
+ "path": "1948/yosi2_1~.html",
+ "type": "detail",
+ "title": "[詳細] 吉田内閣②成立　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../c.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1948.html\">年表</a> ＞ <a href=\"yosi2_1.html\">事項</a> ＞ <span class=\"now\">詳細</span>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "[詳細] 吉田内閣②成立"
+  },
+  {
+   "type": "title2",
+   "html": "1948/10/19"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1938.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1947.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1948.html\">１９４８</a> &gt;&gt;&gt; <a href=\"../20c/1949.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "ＧＨＱ民政局の数々の妨害を乗り越えて、<a href=\"../p/ysigeru.html\">吉田茂</a>が第２次内閣を組織した。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"yosi2_1.html\">[事項]</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "cl"
+   },
+   "html": "\n<tbody><tr><td class=\"cl\">内閣総理大臣</td><td class=\"cl\"><a href=\"../p/ysigeru.html\">吉田茂</a></td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">副総理</td><td class=\"cl\">林譲治</td><td class=\"cl\">1948.10.19～</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">法務総裁</td><td class=\"cl\"><a href=\"../p/ysigeru.html\">（吉田茂）</a></td><td class=\"cl\">殖田俊吉</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1948.11.07</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">外務大臣</td><td class=\"cl\"><a href=\"../p/ysigeru.html\">（吉田茂）</a></td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">大蔵大臣</td><td class=\"cl\">泉山三六</td><td class=\"cl\">（大屋晋三）</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1948.12.14</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">文部大臣</td><td class=\"cl\">下條康麿</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">厚生大臣</td><td class=\"cl\">林譲治</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">農林大臣</td><td class=\"cl\">周東英雄</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">商工大臣</td><td class=\"cl\">大屋晋三</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">運輸大臣</td><td class=\"cl\">小澤佐重喜</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">逓信大臣</td><td class=\"cl\">降旗徳弥</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">労働大臣</td><td class=\"cl\">増田甲子七</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">建設大臣</td><td class=\"cl\">益谷秀次</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">経済安定本部長官</td><td class=\"cl\">泉山三六</td><td class=\"cl\">（周東英雄）</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1948.12.14</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\"><div class=\"f8\">中央経済調査庁長官</div></td><td class=\"cl\">泉山三六</td><td class=\"cl\">（周東英雄）</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1948.12.14</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">物価庁長官</td><td class=\"cl\">泉山三六</td><td class=\"cl\">（周東英雄）</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1948.12.14</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">行政管理庁長官</td><td class=\"cl\">殖田俊吉</td><td class=\"cl\">工藤鐵男</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1948.11.10</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">賠償庁長官</td><td class=\"cl\">井上知治</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">地方財政委員長</td><td class=\"cl\">岩本信行</td><td class=\"cl\">～1949.02.10</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">国務大臣</td><td class=\"cl\">森幸太郎</td><td class=\"cl\">1948.10.19～</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">内閣官房長官</td><td class=\"cl\"><a href=\"../p/seisaku.html\">佐藤榮作</a></td><td class=\"cl\">1948.10.17～</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">内閣官房次長</td><td class=\"cl\">橋本龍伍</td><td class=\"cl\">1948.10.17～</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">内閣官房次長</td><td class=\"cl\">郡祐一</td><td class=\"cl\">1948.12.25～</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n</tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/10/06　　<a href=\"../1948/10nisio.html\">\n西尾末広（前国務相）逮捕　（昭電事件）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/10/07　　<a href=\"../1948/asi_9.html\">\n芦田内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/10/14　　<a href=\"../1948/10yamaz.html\">\n山崎猛（民自党）、議員辞職</a>　（山崎首班問題収束）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/10/14　　<a href\"..=\"\" 19.html\"=\"\">\n衆議院、吉田茂を首相に指名</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/10/19　　<a 1948=\"\" href\"..=\"\" yosi2_1.html\"=\"\">\n吉田内閣②成立</a>　（首相：<a href=\"../p/ysigeru.html\">吉田茂</a>／官房長官：<a href=\"../p/seisaku.html\">佐藤栄作</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/11/30　　<a href=\"../1948/11komui.html\">\n国家公務員法改正公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/12/23　　<a href=\"../1948/12fusin.html\">\n衆議院、内閣不信任案可決</a>　（→衆議院解散）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/01/23　　<a href\"..=\"\" 19.html\"=\"\">\n総選挙[24]　（民自264、民主69、社会41、共産35、国協14）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/02/10　　<a href=\"../1949/02yosid.html\">\n吉田・犬養会談</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/02/16　　<a href=\"../1949/yosi3_1.html\">\n吉田内閣③成立</a>　（首相：<a href=\"../p/ysigeru.html\">吉田茂</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div>ああああああああああああああああ</div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n<br>「吉田内閣②」は「第２次吉田内閣」「第二次吉田茂内閣」と同じ意味です。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1948.html\">１９４８年</a>\n ＞ <a href=\"yosi2_1.html\">吉田内閣②成立</a>\n ＞ <a href=\"#h\">[詳細] 吉田内閣②成立</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

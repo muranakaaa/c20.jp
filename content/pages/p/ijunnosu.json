@@ -1,0 +1,448 @@
+{
+ "path": "p/ijunnosu.html",
+ "type": "person",
+ "title": "井上 準之助　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "p.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "井上 準之助"
+  },
+  {
+   "type": "title2",
+   "html": "1869 － 1932"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "name"
+   },
+   "html": "\n[ いのうえ・じゅんのすけ ]"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "prof"
+   },
+   "html": "\n蔵相、日銀総裁、横浜正金銀行頭取"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "ep1"
+   },
+   "html": "<span class=\"m_r\">エピソード 1</span>「泣く子と井上さんには」とまで言われた強気の蔵相は\nめちゃめちゃな愛妻家。任地ニューヨークからの手紙はこんなのばっかり。\n「夜は家郷のこと思われ寝ること能わず。写真を出してきてキッスし、あるいは子供の写真を見るなど、\n２、３時間御身のことのみ考え申し候」 "
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　大分県出身。帝大卒業後、日銀入行。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　営業局長など歴任後、横浜正金銀行常務副頭取、のち頭取。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　日銀総裁を経て、<a href=\"../1923/yamm2_1.html\">山本内閣②</a>の蔵相。<a href=\"../1923/09sinsa.html\">関東大震災</a>直後の経済救済に尽力。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　ふたたび日銀総裁に返り咲いたあと、<a href=\"../1929/hama_1.html\">浜口内閣</a>の蔵相。緊縮財政と<a href=\"../1930/01kinka.html\">金解禁</a>を断行。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　<a href=\"../1931/waka2_1.html\">若槻内閣②</a>に留任、総辞職後、<a href=\"../1932/02ketu1.html\">血盟団事件</a>で小沼正の凶弾に斃れる。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/08/01　　<a href\"..=\"\" 19.html\"=\"\">\n日本経済連盟会設立　（</a><a href=\"../p/ijunnosu.html\">井上準之助</a>、<a href=\"../p/dtakuma.html\">団琢磨</a>ら）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/01　　<a href=\"../1923/09sinsa.html\">\n関東大震災</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/02　　<a href=\"../1923/yamm2_1.html\">\n山本内閣②成立</a>　（首相：<a href=\"../p/ygonnohy.html\">山本権兵衛</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/07　　<a href\"..=\"\" 19.html\"=\"\">\n支払猶予令</a>　（09/01から30日間のモラトリアム／蔵相：<a href=\"../p/ijunnosu.html\">井上準之助</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/16　　<a href=\"../1923/09amaka.html\">\n甘粕事件</a>　（犯人：<a href=\"../p/amasahik.html\">甘粕正彦</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/27　　<a href\"..=\"\" 19.html\"=\"\">\n日銀震災手形割引損失補償令公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/12/27　　<a href=\"../1923/12toran.html\">\n虎の門事件</a>　（摂政宮襲撃／犯人：難波大助）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/12/29　　<a href=\"../1923/yamm2_9.html\">\n山本内閣②総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1929/07/02　　<a href=\"../1929/hama_1.html\">\n浜口内閣成立</a>　（首相：<a href=\"../p/hosaci.html\">浜口雄幸</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1929/07/29　　<a href=\"../1929/07kinsy.html\">\n緊縮実行予算発表</a>　（蔵相：<a href=\"../p/ijunnosu.html\">井上準之助</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1930/01/11　　<a href=\"../1930/01kinka.html\">\n金解禁</a>　（蔵相：<a href=\"../p/ijunnosu.html\">井上準之助</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1930/04/22　　<a href=\"../1930/04londo.html\">\nロンドン海軍軍縮条約調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1930/04/25　　<a href=\"../1930/04tosui.html\">\n統帥権干犯問題</a>　（<a href=\"../p/ituyosi.html\">犬養毅</a>、<a href=\"../p/hiciro.html\">鳩山一郎</a>が追及）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1930/11/14　　<a href=\"../1930/11hamax.html\">\n浜口首相狙撃事件</a>　（東京駅／犯人：佐郷屋留雄）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/03/17　　<a href=\"../1931/033gatu.html\">\n三月事件</a>　（桜会によるクーデター未遂）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/04/13　　<a href=\"../1931/hama_9.html\">\n浜口内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/04/14　　<a href=\"../1931/waka2_1.html\">\n若槻内閣②成立</a>　（首相：<a href=\"../p/wreijiro.html\">若槻礼次郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/05/16　　<a href=\"../1931/05genpo.html\">\n官吏減俸を閣議決定</a>　（蔵相：<a href=\"../p/ijunnosu.html\">井上準之助</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/09/18　　<a href=\"../1931/09ryujo.html\">\n柳条湖事件</a>　（満州事変勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/09/24　　<a href=\"../1931/09fukak.html\">\n政府、不拡大方針を声明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/10/17　　<a href=\"../1931/1010gat.html\">\n十月事件</a>　（桜会によるクーデター未遂）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/11/18　　<a href=\"../1931/11zohak.html\">\n日本政府、満州への増派を閣議決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/11/21　　<a href=\"../1931/11adaci.html\">\n安達内相、政友・民政協力内閣を主張　（声明発表）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/12/11　　<a href=\"../1931/waka2_9.html\">\n若槻内閣②総辞職</a>　（<a href=\"../p/akenzo.html\">安達内相</a>の辞任拒否で閣内不統一）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/02/09　　<a href=\"../1932/02ketu1.html\">\n血盟団事件①</a>　（<a href=\"../p/ijunnosu.html\">井上準之助</a>暗殺）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_b\">エピソード</span>\n調査中。"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"01a.html\">人物ファイル一覧　（ア）</a>\n ＞ <a href=\"#h\">井上 準之助</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

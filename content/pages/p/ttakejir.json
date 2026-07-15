@@ -1,0 +1,478 @@
+{
+ "path": "p/ttakejir.html",
+ "type": "person",
+ "title": "床次 竹二郎　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "p.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "床次 竹二郎"
+  },
+  {
+   "type": "title2",
+   "html": "1866 － 1935"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "name"
+   },
+   "html": "\n[ とこなみ・たけじろう ]"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "prof"
+   },
+   "html": "\n内相、逓相、政友本党総裁、衆議院議員"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "ep1"
+   },
+   "html": "<span class=\"m_r\">エピソード 1</span>\n<a href=\"../p/htakasi.html\">原敬</a>に引き立てられ、政友会の中で次第に地歩を築いていった床次だが、<a href=\"../p/htakasi.html\">原</a>の死後はさんざん。\n<a href=\"../p/oyukio.html\">尾崎行雄</a>並みのハイペースで脱党を繰り返し、そのたびに子分たちに見限られ、加速度的に勢力を失っていった。\n豊田穣は<a href=\"../text/tm_saion.html\">「西園寺公望」</a>の中で床次を「さまよえる政権亡者」とまで言っている。\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　鹿児島県出身。帝大卒業後官界に入り、大蔵・内務畑を歩み累進。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　<a href=\"../1906/saio1_1.html\">西園寺内閣①</a>の内務省地方局長となり、<a href=\"../p/htakasi.html\">原内相</a>の信任を得る。政友会に入党。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　<a href=\"../1918/hara_1.html\">原内閣</a>の内相兼鉄道院総裁。<a href=\"../1921/11harax.html\">原暗殺</a>後は<a href=\"../p/tkorekiy.html\">高橋是清</a>と党内の主導権を争う。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　<a href=\"../1924/01goke2.html\">護憲運動②</a>に際して<a href=\"../1924/kiyo_1.html\">清浦内閣</a>を支持し離党、<a href=\"../1924/01honto.html\">政友本党を結成</a>するも総選挙に敗北。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　のち、民政党に合流。また、離党後、政友会復党。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/09/29　　<a href=\"../1918/hara_1.html\">\n原内閣成立</a>　（首相：<a href=\"../p/htakasi.html\">原敬</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/01/18　　<a href=\"../1919/01paris.html\">\nパリ講和会議開催</a>　（～06/28／首席全権：<a href=\"../p/skinmoci.html\">西園寺公望</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/05/23　　<a href=\"../1919/05senky.html\">\n選挙法改正</a>　（選挙資格：直接国税10円以上→３円以上）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/06/28　　<a href=\"../1919/06versa.html\">\nベルサイユ条約調印</a>　（北京政府、調印拒否）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/11/04　　<a href=\"../1921/11harax.html\">\n原首相刺殺事件</a>　（東京駅／犯人：中岡艮一）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/11/05　　<a href=\"../1921/hara_9.html\">\n原内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/11/13　　<a href=\"../1921/taka_1.html\">\n高橋内閣成立</a>　（首相：<a href=\"../p/tkorekiy.html\">高橋是清</a>／全閣僚留任）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/12/13　　<a href=\"../1921/124koku.html\">\n四ヵ国条約調印　（日英同盟廃棄）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/02/06　　<a href=\"../1922/029koku.html\">\n九ヵ国条約調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/02/06　　<a href=\"../1922/02washi.html\">\nワシントン海軍軍縮条約調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/06/06　　<a href=\"../1922/taka_9.html\">\n高橋内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/01/10　　<a href=\"../1924/01goke2.html\">\n護憲運動②開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/01/16　　<a href=\"../1924/01seiyu.html\">\n政友会分裂</a>　（清浦内閣支持派148名が離党）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/01/29　　<a href=\"../1924/01honto.html\">\n政友本党結成</a>　（<a href=\"../p/ttakejir.html\">床次竹二郎</a>ら）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/05/20　　<a href\"..=\"\" 19.html\"=\"\">\n若槻首相、床次総裁（政友本党）に連立を要請　（05/26 拒否）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/12/21　　<a href\"..=\"\" 19.html\"=\"\">\n政友会・政友本党、提携成立　（</a><a href=\"../p/gsinpei.html\">後藤新平</a>の斡旋）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/02/25　　<a href\"..=\"\" 19.html\"=\"\">\n憲本提携成立　（政友会孤立）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/06/01　　<a href=\"../1927/06minse.html\">\n民政党結成</a>　（総裁：<a href=\"../p/hosaci.html\">浜口雄幸</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/09/18　　<a href=\"../1931/09ryujo.html\">\n柳条湖事件</a>　（満州事変勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/12/13　　<a href=\"../1931/inu_1.html\">\n犬養内閣成立</a>　（首相：<a href=\"../p/ituyosi.html\">犬養毅</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/01/28　　<a href=\"../1932/01syan1.html\">\n上海事変①勃発</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/03/01　　<a href=\"../1932/03mansy.html\">\n満州国建国宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/05/15　　<a href=\"../1932/05515ji.html\">\n五・一五事件</a>　（<a href=\"../p/ituyosi.html\">犬養首相</a>暗殺）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/05/16　　<a href=\"../1932/inu_9.html\">\n犬養内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/07/08　　<a href=\"../1934/okada_1.html\">\n岡田内閣成立</a>　（首相：<a href=\"../p/okeisuke.html\">岡田啓介</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/07/08　　<a href\"..=\"\" 19.html\"=\"\">\n政友会、入閣者３名を除名</a>　（<a href=\"../p/ttakejir.html\">床次</a>・内田・山崎）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/02/19　　<a href=\"../1935/02kikan.html\">\n天皇機関説問題</a>　（<a href=\"../p/ktakeo.html\">菊池武夫</a>、貴族院で天皇機関説を非難）"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/09/08　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/ttakejir.html\">\n床次竹二郎</a>没"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_b\">エピソード</span>\n調査中。"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n<br>「床次竹次郎」は表記に誤りがあります。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"04t.html\">人物ファイル一覧　（タ）</a>\n ＞ <a href=\"#h\">床次 竹二郎</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

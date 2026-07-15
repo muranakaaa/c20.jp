@@ -1,0 +1,533 @@
+{
+ "path": "p/moloto_v.html",
+ "type": "person",
+ "title": "ビアチェスラフ・モロトフ　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "p.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "ビアチェスラフ・モロトフ"
+  },
+  {
+   "type": "title2",
+   "html": "1890 － 1986"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "prof"
+   },
+   "html": "\n首相、外相　／ ロシア"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"07m.html\">一覧　（マ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_r\">エピソード 1</span>調査中。"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<tbody><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1917/03/15　　<a href=\"../1917/032kaku.html\">\n二月革命</a>　（皇帝<a href=\"../p/nikolai2.html\">ニコライ２世</a>退位、ロマノフ朝滅亡）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1917/11/07　　<a href=\"../1917/1110kak.html\">\n十月革命</a>　（ソビエト政権成立）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/03/03　　<a href\"..=\"\" 19.html\"=\"\">\nブレストリトフスク条約調印　（ソビエト政府、独墺と講和）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/03/02　　<a href\"..=\"\" 19.html\"=\"\">\nコミンテルン創立大会</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/04/25　　<a href\"..=\"\" 19.html\"=\"\">\nソビエト・ポーランド戦争勃発　（～10/12）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/03/08　　<a href=\"../1921/03nepsa.html\">\nソ連、新経済政策（ネップ）を採択</a>　（ロシア共産党大会⑩）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/12/30　　<a href=\"../1922/12s_sei.html\">\nソ連邦成立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1928/10/01　　<a href\"..=\"\" 19.html\"=\"\">\nソ連、五ヵ年計画①開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/12/01　　<a href=\"../1934/12kirov.html\">\nキーロフ（レニングラード・ソビエト議長）暗殺　（粛清開始）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/12/05　　<a href\"..=\"\" 19.html\"=\"\">\n臨時ソ連邦ソビエト大会、スターリン憲法を採択</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1939/05/12　　<a href=\"../1939/05nomon.html\">\nノモンハン事件</a>　（第23師団独断でソ連軍と戦闘）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1939/08/23　　<a href=\"../1939/08ds_jy.html\">\n独ソ不可侵条約締結</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1939/09/01　　<a href=\"../1939/09taise.html\">\nドイツ軍、ポーランド侵攻開始</a>　（第二次世界大戦勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1939/09/17　　<a href=\"../1939/09s_sin.html\">\nソ連軍、ポーランド東部に侵攻開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1939/11/03　　<a href=\"../1939/11sfin_.html\">\nソ連軍、フィンランド侵攻開始　（ソ・フィン戦争勃発）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/09/27　　<a href=\"../1940/09jdi_d.html\">\n日独伊三国軍事同盟調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/11/12　　<a href=\"../1940/11hitle.html\">\nヒトラー・モロトフ（ソ連外相）会談</a>　（ベルリン）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/04/13　　<a href=\"../1941/04js_cy.html\">\n日ソ中立条約調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/05/06　　<a href\"..=\"\" 19.html\"=\"\">\nスターリン、（ソ連）首相就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/06/22　　<a href=\"../1941/06ds_ka.html\">\n独ソ戦開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/02/02　　<a href=\"../1943/02stali.html\">\nスターリングラードのドイツ第６軍、全軍降伏</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/11/28　　<a href=\"../1943/11teher.html\">\nテヘラン会談</a>　（～12/01）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/06/06　　<a href=\"../1944/06norma.html\">\n連合軍、ノルマンディー上陸作戦開始</a>　（オーバーロード作戦）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/10/11　　<a href\"..=\"\" 19.html\"=\"\">\nソ連軍、ドイツ国境を突破</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/11/07　　<a href\"..=\"\" 19.html\"=\"\">\nスターリン、日本を侵略国と見なすと声明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/02/04　　<a href=\"../1945/02yalta.html\">\nヤルタ会談</a>　（～02/11）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/02/11　　<a href=\"../1945/02kyote.html\">\nヤルタ協定</a>　（スターリン、対日参戦を約束）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/04/05　　<a href=\"../1945/04s_fue.html\">\nソ連、日ソ中立条約の不延長を通告</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/05/07　　<a href=\"../1945/05d_kof.html\">\nドイツ、無条件降伏　（ベルリン陥落）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/07/17　　<a href=\"../1945/07potsk.html\">\nポツダム会談</a>　（～08/02）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/08　　<a href=\"../1945/08s_san.html\">\nソ連、対日参戦</a>　（08/09 満州侵攻開始）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/30　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ管理理事会設置　（米・英・仏・ソ）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/02　　<a href=\"../1945/09kofuk.html\">\n降伏文書調印</a>　（全権：<a href=\"../p/smamoru.html\">重光葵</a>、<a href=\"../p/uyosijir.html\">梅津美治郎</a>／第二次世界大戦終結）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/10/05　　<a href=\"../1947/10comin.html\">\nコミンフォルム（欧州共産党情報局）設置</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/06/24　　<a href=\"../1948/06berl1.html\">\nベルリン封鎖</a>　（～49/05/12）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/06/28　　<a href=\"../1948/06yugos.html\">\nコミンフォルム、ユーゴスラビア共産党を除名</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/10/01　　<a href=\"../1949/10c_sei.html\">\n中華人民共和国成立</a>　（主席：<a href=\"../p/motakuto.html\">毛沢東</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/02/14　　<a href=\"../1950/02cs_jo.html\">\n中ソ友好同盟相互援助条約調印</a>　（モスクワ）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/06/25　　<a href=\"../1950/06cyose.html\">\n朝鮮戦争勃発</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>モロトフは一見田舎教師のような風貌である。\nそれも数学教師といったところらしい。\n事実、外見ばかりではなくて、彼の議論の進め方は数学的に正確である。\n理路整然として、一分の狂いもない。\n冷静沈着である。\nそれにきわめて強情である。\nそれだけに、融通性にとぼしい嫌いがある。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ks_daini.html\">加瀬俊一 「第二次世界大戦秘史」</a>\n　Ｐ．１９</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"07m.html\">人物ファイル一覧　（マ）</a>\n ＞ <a href=\"#h\">ビアチェスラフ・モロトフ</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

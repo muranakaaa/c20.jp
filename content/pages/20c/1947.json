@@ -1,0 +1,949 @@
+{
+ "path": "20c/1947.html",
+ "type": "year",
+ "title": "１９４７年　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９４７年"
+  },
+  {
+   "type": "title2",
+   "html": "昭和２２年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"1937.html\">１０年前</a> &gt;&gt;&gt; <a href=\"1946.html\">前年</a> &gt;&gt;&gt; <span class=\"now\">１９４７</span> &gt;&gt;&gt; <a href=\"1948.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"#s4\">不逞の輩　タケノコ生活　ご名答　斜陽族</a>",
+    "<a href=\"../1946/yosi1_1.html\">吉田①</a> → <a href=\"../1947/kata_1.html\">片山内閣</a>"
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"1946.html#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/01/01　　<a href=\"../1947/01futei.html\">\n吉田首相、ラジオで一部労働運動指導者を「不逞の輩」と非難</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/01/01　　<a href\"..=\"\" 19.html\"=\"\">\nイギリス、炭坑国有化</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/01/04　　<a href\"..=\"\" 19.html\"=\"\">\n公職追放令改正　（追放範囲拡大）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/01/15　　<a href=\"../1947/01nudes.html\">\n新宿帝都座５階劇場で「ヴィーナスの誕生」開演</a>　（初のヌードショー）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/01/15　　<a href\"..=\"\" 19.html\"=\"\">\n婦女に売淫させた者などの処罰に関する勅令公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/01/17　　<a href\"..=\"\" 19.html\"=\"\">\n自由・進歩・社会３党首会談　（政府の連立工作失敗）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/01/18　　<a href=\"../1947/0121sut.html\">\n全官公庁労組共闘委員会、「２・１ゼネスト」を宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/01/18　　<a href\"..=\"\" 19.html\"=\"\">\nソウルに非常警戒軍政法令発布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/01/29　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ国務省、国共調停の打切りなどを声明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/01/29　　<a href\"..=\"\" 19.html\"=\"\">\n自由・進歩・社会３党首会談　（政府の連立工作再び失敗）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/01/31　　<a href=\"../1947/yosi1_2.html\">\n吉田内閣①改造</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/01/31　　<a href=\"../1947/01macar.html\">\nマッカーサー、「２・１ゼネスト」中止を命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/02/10　　<a href\"..=\"\" 19.html\"=\"\">\nパリ平和条約調印　（連合国とイタリア・ハンガリーなどの講和）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/02/12　　<a href\"..=\"\" 19.html\"=\"\">\n日本ペンクラブ再建大会開催　（会長：志賀直哉）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/02/20　　<a href\"..=\"\" 19.html\"=\"\">\nＧＨＱ、輸出品に「 Made in Occupied Japan 」の記載を指令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/02/20　　<a href\"..=\"\" 19.html\"=\"\">\nアトリー（英）首相、インド独立を言明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/02/22　　<a href\"..=\"\" 19.html\"=\"\">\n北朝鮮人民委員会成立</a>　（委員長：<a href=\"../p/kinnisse.html\">金日成</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/03/08　　<a href\"..=\"\" 19.html\"=\"\">\n国民協同党結成　（書記長：三木武夫）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/03/10　　<a href\"..=\"\" 19.html\"=\"\">\n全労連（全国労働組合連絡協議会）結成</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/03/12　　<a href=\"../1947/03truma.html\">\nトルーマン・ドクトリン</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/03/15　　<a href\"..=\"\" 19.html\"=\"\">\n東京都35区を22区に整理統合</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/03/23　　<a href\"..=\"\" 19.html\"=\"\">\n芦田均、自由党脱党　（新党結成のため）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/03/31　　<a href=\"../1947/03minsy.html\">\n民主党結成</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/03/31　　<a href=\"../1947/03kyoik.html\">\n教育基本法など公布</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/04/01　　<a href\"..=\"\" 19.html\"=\"\">\n三笠宮崇仁、東京帝大入学　（西洋史学科研究生）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/04/08　　<a href\"..=\"\" 19.html\"=\"\">\nムーラン・ルージュ再開　（新宿）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/04/14　　<a href\"..=\"\" 19.html\"=\"\">\n独占禁止法公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/04/17　　<a href=\"../1947/04cihoj.html\">\n地方自治法公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/04/20　　<a href\"..=\"\" 19.html\"=\"\">\n参議院選挙[１]　（社会47、自由39、民主29、国協10、共産４、他121）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/04/25　　<a href\"..=\"\" 19.html\"=\"\">\n総選挙[23]　（社会143、自由131、民主124、国協31）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/05/03　　<a href=\"../1947/05kenpo.html\">\n日本国憲法施行</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/05/06　　<a href=\"../1947/05tenno.html\">\n天皇・マッカーサー会談④</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/05/15　　<a href=\"../1947/05pales.html\">\n国連・パレスチナ調査委員会成立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/05/18　　<a href\"..=\"\" 19.html\"=\"\">\n民主党、総裁に芦田均、名誉総裁に幣原喜重郎を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/05/19　　<a href=\"../1947/05nikke.html\">\n経営者団体連合会設立</a>　（→日経連）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/05/20　　<a href=\"../1947/yosi1_9.html\">\n吉田内閣①総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/05/23　　<a href=\"../1947/kata_0.html\">\n衆参両院、片山哲を首相に指名</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/05/28　　<a href=\"../1947/05ridat.html\">\n自由党、連立から離脱</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/06/01　　<a href=\"../1947/kata_1.html\">\n片山内閣成立</a>　（首相：<a href=\"../p/ktetu.html\">片山哲</a>／官房長官：<a href=\"../p/nsuehiro.html\">西尾末広</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/06/05　　<a href=\"../1947/06marsh.html\">\nマーシャル・プラン（ヨーロッパ復興計画）発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/06/09　　<a href\"..=\"\" 19.html\"=\"\">\n石坂洋次郎「青い山脈」連載開始　（朝日新聞）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/06/23　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ議会、タフト・ハートレー法可決　（労働者の権利を縮小）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/06/27　　<a href\"..=\"\" 19.html\"=\"\">\n夏目漱石の遺族、「漱石全集」など28種の商標登録を特許局に出願</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/07/01　　<a href\"..=\"\" 19.html\"=\"\">\n公正取引委員会発足</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/07/05　　<a href=\"../1947/07kanen.html\">\n「鐘の鳴る丘」放送開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/07/10　　<a href=\"../1947/07toroi.html\">\n登呂遺跡発掘開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/07/20　　<a href\"..=\"\" 19.html\"=\"\">\nオランダ軍、ジャワで全面武力行使　（08/01 安保理、停戦を決議）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/07/26　　<a href\"..=\"\" 19.html\"=\"\">\nトルーマン（米）大統領、国家安全保障法に署名　（国防省設置）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/07/30　　<a href\"..=\"\" 19.html\"=\"\">\n幸田露伴没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/08/01　　<a href\"..=\"\" 19.html\"=\"\">\n東京都、練馬区を新設　（23区に）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/08/04　　<a href\"..=\"\" 19.html\"=\"\">\n最高裁判所発足</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/08/09　　<a href=\"../1947/08furuh.html\">\n古橋広之進、世界新記録樹立</a>　（400ｍ自由形）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/08/14　　<a href\"..=\"\" 19.html\"=\"\">\n浅間山爆発</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/08/14　　<a href\"..=\"\" 19.html\"=\"\">\nパキスタン独立</a>　（総督：<a href=\"../p/jinnah_m.html\">ジンナー</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/08/15　　<a href\"..=\"\" 19.html\"=\"\">\nインド独立</a>　（首相：<a href=\"../p/nehru_j.html\">ネール</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/08/20　　<a href=\"../1947/08zente.html\">\n全逓、集団欠勤戦術開始</a>　（10/22 政府、「山ねこ争議」と非難）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/09/02　　<a href\"..=\"\" 19.html\"=\"\">\nリオ条約（米州相互援助条約）調印　（19ヵ国）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/09/12　　<a href\"..=\"\" 19.html\"=\"\">\n中・新華社、「人民解放軍総反攻宣言」を発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/09/14　　<a href\"..=\"\" 19.html\"=\"\">\nキャスリーン台風</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"1948.html#s1\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/10/01　　<a href\"..=\"\" 19.html\"=\"\">\n国勢調査　（総人口7810万1473人、東京都500万7771人）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/10/04　　<a href\"..=\"\" 19.html\"=\"\">\n「土曜コンサート」放送開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/10/05　　<a href=\"../1947/10comin.html\">\nコミンフォルム（欧州共産党情報局）設置</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/10/07　　<a href\"..=\"\" 19.html\"=\"\">\nカシミールの回教徒、自由カシミール結成</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/10/11　　<a href=\"../1947/10hanji.html\">\n山口良忠判事、栄養失調で死亡</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/10/13　　<a href\"..=\"\" 19.html\"=\"\">\n皇室会議、11宮家51人の皇籍離脱を決定　（10/14 離籍）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/10/26　　<a href\"..=\"\" 19.html\"=\"\">\n改正刑法公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/10/27　　<a href\"..=\"\" 19.html\"=\"\">\nインド政府、カシミールに派兵</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/10/30　　<a href=\"../1947/10gattc.html\">\nガット（関税・貿易に関する一般協定）調印</a>　（23ヵ国／ジュネーブ）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/11/01　　<a href\"..=\"\" 19.html\"=\"\">\n「二十の扉」放送開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/11/04　　<a href=\"../1947/11hiran.html\">\n片山首相、平野農相を解任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/11/06　　<a href\"..=\"\" 19.html\"=\"\">\n多摩川で初の集団見合い大会開催　（参加386人）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/11/20　　<a href\"..=\"\" 19.html\"=\"\">\n衆議院本会議、炭坑国家管理法案をめぐり大混乱　（～11/22）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/11/26　　<a href\"..=\"\" 19.html\"=\"\">\n対日理事会・中ソ代表、「くにのあゆみ」「日本の歴史」の記事改訂を要望</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/11/29　　<a href=\"../1947/11sideh.html\">\n幣原喜重郎ら、民主党脱党　（同志クラブ結成）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/11/29　　<a href=\"../1947/11pales.html\">\n国連総会、パレスチナ分割案を採択</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/12/01　　<a href\"..=\"\" 19.html\"=\"\">\n勧業銀行、100万円宝くじ発売</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/12/17　　<a href\"..=\"\" 19.html\"=\"\">\n警察法公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/12/17　　<a href\"..=\"\" 19.html\"=\"\">\nアラブ連盟、パレスチナ分割を武力で阻止すると声明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/12/18　　<a href\"..=\"\" 19.html\"=\"\">\n過度経済力集中排除法公布</a>　（49/06/30までの時限立法）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/12/20　　<a href=\"../1947/12tanko.html\">\n臨時石炭鉱業管理法公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/12/22　　<a href\"..=\"\" 19.html\"=\"\">\n改正民法公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/12/31　　<a href=\"../1947/12naimu.html\">\n内務省廃止</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1946/yosi1_1.html\">吉田①</a> → <a href=\"../1947/kata_1.html\">片山内閣</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">不逞の輩　　タケノコ生活　　ご名答　　斜陽族</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「斜陽」　「肉体の門」　「青年の環」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">「安城家の舞踏会」</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">二十の扉　　鐘の鳴る丘</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">啼くな小鳩よ</td></tr>\n</tbody>"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"#h\">１９４７年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

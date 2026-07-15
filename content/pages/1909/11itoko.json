@@ -1,0 +1,232 @@
+{
+ "path": "1909/11itoko.html",
+ "type": "article",
+ "title": "伊藤博文国葬　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1909.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "伊藤博文国葬"
+  },
+  {
+   "type": "title2",
+   "html": "1909/11/04"
+  },
+  {
+   "type": "navi2",
+   "html": "\n１０年前 &gt;&gt;&gt; <a href=\"../20c/1908.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1909.html\">１９０９</a> &gt;&gt;&gt; <a href=\"../20c/1910.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1919.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "長州の下級武士に生まれて。　<a href=\"../p/mtenno.html\">明治天皇</a>に最も愛された<a href=\"../p/ihirobum.html\">男</a>を送る。　<a href=\"../1912/07mhogy.html\">明治の終わり</a>も近い。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/12/20　　<a href\"..=\"\" 19.html\"=\"\">\n韓国統監府設置　（12/21 </a><a href=\"../p/ihirobum.html\">伊藤博文</a>を韓国統監に任命）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1907/07/03　　<a href=\"../1907/07missi.html\">\n伊藤統監、韓国皇帝にハーグ密使事件を追及</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1907/07/19　　<a href=\"../1907/07joisy.html\">\n韓国皇帝、譲位の詔勅を発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1907/07/24　　<a href=\"../1907/07jk_k3.html\">\n日韓協約③調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1907/08/01　　<a href=\"../1907/08gunka.html\">\n韓国軍解散式</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1909/07/06　　<a href\"..=\"\" 19.html\"=\"\">\n韓国併合を閣議決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1909/10/26　　<a href=\"../1909/10itoxx.html\">\n伊藤博文射殺事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1909/11/04　　<a 1909=\"\" href\"..=\"\" 11itoko.html\"=\"\">\n伊藤博文国葬</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1910/02/14　　<a href\"..=\"\" 19.html\"=\"\">\n安重根（伊藤博文暗殺犯）に死刑判決　（03/26 執行）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1910/05/30　　<a href\"..=\"\" 19.html\"=\"\">\n寺内正毅を韓国統監に任命　（陸相兼任）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1910/08/22　　<a href=\"../1910/08k_heg.html\">\n韓国併合</a>　（日韓条約調印）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/07/29　　<a href=\"../1912/07mhogy.html\">\n明治天皇崩御</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/ihirobum.html\">伊藤</a>の遺体は大連から軍艦秋津洲で横須賀に運ばれ、十一月四日日比谷公園で国葬が行われた。\n葬儀の途中から雨となり、天も明治最大の政治家の死を傷むかの如くで、会葬者の悲しみを新たにさせた。\n<a href=\"../p/ikaoru.html\">井上</a>が采配をふるい、<a href=\"../p/ktaro.html\">桂総理</a>のほか<a href=\"../p/yaritomo.html\">山県</a>、<a href=\"../p/mmasayos.html\">松方</a>、<a href=\"../p/oiwao.html\">大山</a>、<a href=\"../p/osigenob.html\">大隈</a>、板垣らすべての元勲の生き残りが参列し、\n明治の終焉を思わせた。</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>の死によって最も落胆したのは、彼を片腕と頼んでいた<a href=\"../p/mtenno.html\">天皇</a>であった。</div>\n<div>「西郷、<a href=\"../p/kkoici.html\">木戸</a>、大久保、岩倉、みな去って行った。\n<a href=\"../p/ihirobum.html\">伊藤</a>は朕と最もうまの合う男であったが・・・・・・」</div>\n<div><a href=\"../p/mtenno.html\">天皇</a>は侍従にそう洩らして<a href=\"../p/ihirobum.html\">伊藤</a>の死を惜しんだ。</div>\n<div class=\"txr\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．４０３<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E5%259C%2592%25E5%25AF%25BA%25E5%2585%25AC%25E6%259C%259B%25E2%2580%2595%25E6%259C%2580%25E5%25BE%258C%25E3%2581%25AE%25E5%2585%2583%25E8%2580%2581%2520%2528%25E4%25B8%258A%25E5%25B7%25BB%2529%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>明治日本の最大の国難であった日露戦争の際、\n<a href=\"../p/mtenno.html\">明治天皇</a>が最も頼りにされたのは枢府議長<a href=\"../p/ihirobum.html\">伊藤博文</a>であった。\nだがその<a href=\"../p/ihirobum.html\">伊藤</a>も明治四十二年十月ニ十六日、ハルピンで朝鮮人のために<a href=\"../1909/10itoxx.html\">暗殺されてしまった</a>。\nこれには<a href=\"../p/mtenno.html\">明治天皇</a>もつよい衝撃を受けられたと思われるが、『明治天皇紀』（芳川弘文館刊）にはその記述はない。\nしかし、その後に示された<a href=\"../p/mtenno.html\">天皇</a>の思召しの深さを見れば、御愛惜の情がどんなに痛切であったかがよくわかる。\nすなわち、軍艦をもって遺骸を東京に護送させ、十一月一日、遺骸が東京に帰ると、\n直ちに勅使を遣わして弔問させ、御沙汰書及び誄詞（生前の功績を賛えその死を悼む詞）を霊前に下し、\n十一月四日、国葬の礼を以って厚く弔わせられている。\nここまでは非命に斃れた一国の元勲に対しての当然の処置かもしれない。</div>\n<div>しかし、五十日祭、百日祭、あるいは一年祭の度に勅使を派し、祭粢料と玉串を下されている。\n<a href=\"../p/ihirobum.html\">博文</a>の死後、遺財の乏しいのを聞し召されると、直ちに御内帑金を未亡人梅子に賜い、\n養嗣子博邦には公爵を嗣がせ、同じ養子文吉には男爵を授けて遺族のすべてが困窮しないよう\n隅々にまで暖かい思召しが及んでいる。\n聖恩枯骨に及ぶというが、<a href=\"../p/mtenno.html\">明治天皇</a>が<a href=\"../p/ihirobum.html\">伊藤博文</a>に寄せられた御愛惜の深さがよくわかるのである。</div>\n<div class=\"txr\"><a href=\"../text/sy_obata.html\">須山幸雄 「作戦の鬼 小畑敏四郎」</a>\n　Ｐ．４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4829500638%2Fqid%3D1146488939%2Fsr%3D1-1%2Fref%3Dsr_1_0_1\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1909.html\">１９０９年</a>\n ＞ <a href=\"#h\">伊藤博文国葬</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

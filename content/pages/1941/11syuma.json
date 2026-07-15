@@ -1,0 +1,283 @@
+{
+ "path": "1941/11syuma.html",
+ "type": "article",
+ "title": "大本営政府連絡会議、「対米英蘭戦争終末促進に関する腹案」決定　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1941.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "<span class=\"f14\">大本営政府連絡会議</span>、<span class=\"f14\">「対米英蘭戦争終末促進に関する腹案」決定</span>"
+  },
+  {
+   "type": "title2",
+   "html": "1941/11/15"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1931.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1940.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1941.html\">１９４１</a> &gt;&gt;&gt; <a href=\"../20c/1942.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "対米戦の唯一のトータルプランは、要するにドイツ頼み。　そんなんでだいじょうぶ？"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/04/16　　<a href=\"../1941/04ja_ko.html\">\n日米交渉開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/06/22　　<a href=\"../1941/06ds_ka.html\">\n独ソ戦開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/07/02　　<a href=\"../1941/07kanto.html\">\n大本営、「関特演」発動</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/07/25　　<a href=\"../1941/07toket.html\">\nアメリカ、日本資産の凍結</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/07/28　　<a href=\"../1941/07sekiy.html\">\n蘭印、日蘭石油民間協定を停止</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/07/28　　<a href=\"../1941/07futu2.html\">\n南部仏印進駐</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/08/01　　<a href=\"../1941/08kinyu.html\">\nアメリカ、対日石油輸出禁止</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/09/06　　<a href=\"../1941/09goz06.html\">\n御前会議、対米開戦を決意</a>　（「帝国国策遂行要領」決定）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/10/16　　<a href=\"../1941/kono3_9.html\">\n近衛内閣③総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/10/17　　<a href=\"../1941/10hakus.html\">\n白紙還元の御諚</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/10/18　　<a href=\"../1941/tojo_1.html\">\n東條内閣成立</a>　（首相：<a href=\"../p/thideki.html\">東條英機</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/11/15　　<a 1941=\"\" href\"..=\"\" 11syuma.html\"=\"\">\n大本営政府連絡会議、「対米英蘭戦争終末促進に関する腹案」決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/11/26　　<a href=\"../1941/11hulln.html\">\n野村・来栖両大使、ハル・ノートを受領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/12/01　　<a href=\"../1941/12goz01.html\">\n御前会議、対米開戦決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/12/08　　<a href=\"../1941/12malaj.html\">\nマレー半島上陸開始</a>　（AM02：00）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/12/08　　<a href=\"../1941/12hawai.html\">\nハワイ奇襲攻撃</a>　（AM03：25／太平洋戦争勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/12/08　　<a href=\"../1941/12moskv.html\">\nヒトラー、モスクワ攻撃放棄を指令　（撤退開始）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "pt"
+   },
+   "html": "\n<div class=\"pt_h\">～　日本の終戦プラン　～</div>\n<div class=\"c\">ドイツがイギリスを降伏させる → アメリカ国民が戦意を失う → 枢軸国の勝利</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "pt"
+   },
+   "html": "\n<div class=\"pt_h\">～　その「方針」は　（一部改）　～</div>\n<div>１．　速やかに極東における米英蘭の根拠を覆滅して自存自衛を確立するとともに、\nさらに積極的措置により蒋政権の屈服を促進し、独伊と提携してまず英の屈服を図り、米の継戦意志を喪失せしむるに努む。</div>\n<div>２．　極力戦争相手の拡大を防止し第三国の利導に努む。</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\n戦争は、始めるよりも終わらせる方がずっとむずかしい。\nそれは、けんかの経験などから子供にでもわかることだろう。\n国力10倍の大きな国を相手に戦争を始めようというとき、\n国には戦争終結プランがなければならぬと思うのだが、あのときの日本はどうだったのだろうか。\n実はこの「対米英蘭戦争終末促進に関する腹案」がその唯一のもの。\nしかも、この文書は開戦決定のわずか半月前に作成された。\nこの事実を知ったとき、taroは背筋には冷たいものが走った。\nちなみに、この「対米英蘭戦争終末促進に関する腹案」で頼みとしたドイツがモスクワ攻略を断念したのは12月８日、\nつまり、時差はあるが日米開戦当日の出来事だ。\n開戦と同時に唯一の戦争終結プランが崩壊。ああ。\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1941.html\">１９４１年</a>\n ＞ <a href=\"#h\">大本営政府連絡会議、「対米英蘭戦争終末促進に関する腹案」決定</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

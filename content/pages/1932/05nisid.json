@@ -1,0 +1,263 @@
+{
+ "path": "1932/05nisid.html",
+ "type": "article",
+ "title": "西田税暗殺未遂事件　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1932.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "西田税暗殺未遂事件"
+  },
+  {
+   "type": "title2",
+   "html": "1932/05/15"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1922.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1931.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1932.html\">１９３２</a> &gt;&gt;&gt; <a href=\"../20c/1933.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1942.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "陸軍青年将校の<a href=\"../1932/05515ji.html\">計画</a>不参加は<a href=\"../p/nmitugi.html\">西田</a>のせいだ。　そうと知った海軍青年将校が刺客を放った。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/03/17　　<a href=\"../1931/033gatu.html\">\n三月事件</a>　（陸軍によるクーデター未遂）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/10/17　　<a href=\"../1931/1010gat.html\">\n十月事件</a>　（桜会によるクーデター未遂）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/01/31　　<a href\"..=\"\" 19.html\"=\"\">\n井上日召・古賀清志海軍中尉ら、要人殺害計画を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/02/09　　<a href=\"../1932/02ketu1.html\">\n血盟団事件①</a>　（<a href=\"../p/ijunnosu.html\">井上準之助</a>暗殺）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/03/05　　<a href=\"../1932/03ketu2.html\">\n血盟団事件②</a>　（<a href=\"../p/dtakuma.html\">団琢磨</a>暗殺）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/03/11　　<a href\"..=\"\" 19.html\"=\"\">\n井上日召自首　（血盟団事件）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/05/15　　<a href=\"../1932/05515ji.html\">\n五・一五事件</a>　（<a href=\"../p/ituyosi.html\">犬養首相</a>暗殺）"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/05/15　　<a 1932=\"\" href\"..=\"\" 05nisid.html\"=\"\">\n西田税暗殺未遂事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/07/11　　<a href=\"../1933/07sinpe.html\">\n神兵隊事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/09/11　　<a href\"..=\"\" 19.html\"=\"\">\n五・一五事件陸軍側判決　（全員禁固４年）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/11/09　　<a href\"..=\"\" 19.html\"=\"\">\n五・一五事件海軍側判決　（最高禁固15年）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/02/04　　<a href\"..=\"\" 19.html\"=\"\">\n五・一五事件民間側判決　（最高無期懲役）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/11/20　　<a href=\"../1934/11sikan.html\">\n士官学校事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/08/12　　<a href=\"../1935/08aizaw.html\">\n相沢事件</a>　（<a href=\"../p/ntetuzan.html\">永田軍務局長</a>斬殺）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/02/26　　<a href=\"../1936/02226ji.html\">\n二・二六事件</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "cm"
+   },
+   "html": "<span class=\"m_y\">語録</span>\n<a href=\"../p/nmitugi.html\">西田</a>は陸軍の連中が思い止まるよう説得したため撃たれたのだ。僕が間接の加害者みたいなものだ。\n<div class=\"r\"><a href=\"../p/otosisir.html\">小畑敏四郎</a>　（参謀本部第三部長）</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "cm"
+   },
+   "html": "<span class=\"m_y\">語録</span>\n私が、やったのも個人的には何の怨みもなかったのです。\n<div class=\"r\">川崎長光　（血盟団員）</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>三月十四日、\n愛郷塾で川崎は同志の林正三から暗殺用のピストル一梃と実弾八発をうけとった。</div>\n<div>五月十五日朝、彼は愛郷塾から上京して、その日の夕方六時すぎに代々木の<a href=\"../p/nmitugi.html\">西田税</a>方についた。\n計画では西田暗殺は午後六時半と決められていた。</div>\n<div>川崎が<a href=\"../p/nmitugi.html\">西田</a>家を訪れると、顔見知りの<a href=\"../p/nmitugi.html\">西田</a>の妻が二階に上げた。そこは六畳の間だった。\n<a href=\"../p/nmitugi.html\">西田</a>は着流しで出てきて気軽に川崎と話をした。\nこのときはすでに<a href=\"../1932/05515ji.html\">海軍軍人組が首相官邸や牧野内府官邸を襲って</a>一時間も経っている。\nやがて時計は七時近くになった。</div>\n<div>川崎は<a href=\"../p/nmitugi.html\">西田</a>の隙をうかがって拳銃をとりだし、筒先をむけた。\n<a href=\"../p/nmitugi.html\">西田</a>はとっさに身体を避けながら、</div>\n<div>「何をするか」</div>\n<div>と叫んだ。川崎は弾丸を乱射する。<a href=\"../p/nmitugi.html\">西田</a>の身体は見るうちに赤くなったが、\n気丈な彼はその重傷にもめげず川崎に抵抗してきた。\n川崎は<a href=\"../p/nmitugi.html\">西田</a>の気魄におそれて階段を走りおりた。\n<a href=\"../p/nmitugi.html\">西田</a>は何歩か追って行って倒れた。</div>\n<div>しかし、生命に別条なく、右側胸部、下腹部ほか三ヵ所に貫通と盲管銃創を負っただけですんだ。\nだが、かなりの重体で、治療三ヵ月を要した。西田暗殺は失敗に帰した。</div>\n<div class=\"txr\"><a href=\"../text/ms4syowa.html\">松本清張 「昭和史発掘（４）」</a>\n　Ｐ．２７２<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167106345%2Fqid%3D1147086434%2Fsr%3D1-13%2Fref%3Dsr_1_0_13\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1932.html\">１９３２年</a>\n ＞ <a href=\"#h\">西田税暗殺未遂事件</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

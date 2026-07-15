@@ -1,0 +1,294 @@
+{
+ "path": "1921/07kyosa.html",
+ "type": "article",
+ "title": "中国共産党創立大会　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1921.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "中国共産党創立大会"
+  },
+  {
+   "type": "title2",
+   "html": "1921/07/01"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1911.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1920.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1921.html\">１９２１</a> &gt;&gt;&gt; <a href=\"../20c/1922.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1931.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "搾取と悪政から人民を救え！　ロシア革命から４年、上海で中国共産党の歴史が始まった。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/10/10　　<a href=\"../1911/10singa.html\">\n辛亥革命勃発</a>　（武昌蜂起）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1917/11/07　　<a href=\"../1917/1110kak.html\">\n十月革命</a>　（ソビエト政権成立）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/05/04　　<a href=\"../1919/0554und.html\">\n五・四運動</a>　（天安門広場で学生らがデモ行進）"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/07/01　　<a 1921=\"\" href\"..=\"\" 07kyosa.html\"=\"\">\n中国共産党創立大会</a>　（上海）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/07/15　　<a href=\"../1922/07kyosa.html\">\n日本共産党結成</a>　（委員長：<a href=\"../p/stosihik.html\">堺利彦</a>／秘密結社）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/01/26　　<a href=\"../1923/01sonbu.html\">\n孫文・ヨッフェ共同宣言</a>　（上海）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/01/20　　<a href=\"../1924/01gass1.html\">\n国共合作①成立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/05/30　　<a href=\"../1925/05530ji.html\">\n五・三〇事件</a>　（上海）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/04/12　　<a href=\"../1927/04syanh.html\">\n蒋介石、上海クーデター　（国共分離）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/12/11　　<a href\"..=\"\" 19.html\"=\"\">\n中国共産党、広州で武装蜂起、広州コミューン樹立　（12/13 鎮圧）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/09/18　　<a href=\"../1931/09ryujo.html\">\n柳条湖事件</a>　（満州事変勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/11/07　　<a href=\"../1931/11zuiki.html\">\n中華ソビエト共和国臨時政府（瑞金政府）成立</a>　（主席：<a href=\"../p/motakuto.html\">毛沢東</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/10/15　　<a href=\"../1934/10cyose.html\">\n紅軍、瑞金を脱出　（長征開始）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/08/01　　<a href=\"../1935/0881sen.html\">\n八・一宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/07/07　　<a href=\"../1937/07rokok.html\">\n盧溝橋事件</a>　（日中戦争勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/09/23　　<a href=\"../1937/09gass2.html\">\n国共合作②成立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/15　　<a href=\"../1945/08gyoku.html\">\n玉音放送　（終戦の詔勅）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/07/12　　<a href=\"../1946/07kokky.html\">\n国共内戦、全面戦争化</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/10/01　　<a href=\"../1949/10c_sei.html\">\n中華人民共和国成立</a>　（主席：<a href=\"../p/motakuto.html\">毛沢東</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>一年余の準備期間をへて、一九二一年七月、\n中国共産党第一回大会が上海で開催された。\n北京・上海・長沙・武漢・済南・広州および東京の各小組、計五七名の共産主義者を代表する一二名が出席しただけであったが、\n社会主義世界革命の一環として中国革命<span class=\"bar\">―</span>―当面の段階としては反帝国主義・反封建主義の民主革命\n<span class=\"bar\">―</span>―を闘う前衛政党がここに生れ、\n中国人民の解放闘争にまったく新たな地平がきり開かれたのである。</div>\n<div class=\"txr\"><a href=\"../text/os_jinmi.html\">小野信爾 「人民中国への道」</a>\n　Ｐ．１１３<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E4%25BA%25BA%25E6%25B0%2591%25E4%25B8%25AD%25E5%259B%25BD%25E3%2581%25B8%25E3%2581%25AE%25E9%2581%2593%2520%2520%2520%2520%25E8%25AC%259B%25E8%25AB%2587%25E7%25A4%25BE%25E7%258F%25BE%25E4%25BB%25A3%25E6%2596%25B0%25E6%259B%25B8%2520455%2520%25E6%2596%25B0%25E6%259B%25B8%25E6%259D%25B1%25E6%25B4%258B%25E5%258F%25B2%25205%2520%25E4%25B8%25AD%25E5%259B%25BD%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2%25205\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1921.html\">１９２１年</a>\n ＞ <a href=\"#h\">中国共産党創立大会</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

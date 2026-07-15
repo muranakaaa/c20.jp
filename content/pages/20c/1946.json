@@ -1,0 +1,1053 @@
+{
+ "path": "20c/1946.html",
+ "type": "year",
+ "title": "１９４６年　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９４６年"
+  },
+  {
+   "type": "title2",
+   "html": "昭和２１年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"1936.html\">１０年前</a> &gt;&gt;&gt; <a href=\"1945.html\">前年</a> &gt;&gt;&gt; <span class=\"now\">１９４６</span> &gt;&gt;&gt; <a href=\"1947.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"#s4\">カストリ　　あっ そう　　ハバ・ハバ</a>",
+    "<a href=\"../1945/side_1.html\">幣原</a> → <a href=\"../1946/yosi1_1.html\">吉田内閣①</a>"
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1_a\"></a>\n<a href=\"#s1_a\">＝</a><a href=\"1945.html#s4_c\">△</a><a href=\"#h\">◎</a><a href=\"#s1_b\">▽</a><a href=\"#s1_a\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/01/01　　<a href=\"../1946/01ninge.html\">\n天皇、人間宣言</a>　（神格化否定の詔書）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/01/01　　<a href\"..=\"\" 19.html\"=\"\">\n戸田城聖、創価学会再建</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/01/04　　<a href=\"../1946/01tuiho.html\">\nＧＨＱ、軍国主義者の公職追放などを指令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/01/10　　<a href=\"../1946/01teise.html\">\n国共両軍の停戦協定</a>　（<a href=\"../p/marsha_g.html\">マーシャル特使</a>の斡旋）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/01/10　　<a href=\"../1946/01sokai.html\">\n国連総会①開催</a>　（～02/14）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/01/12　　<a href=\"../1946/01anpor.html\">\n国連・安保理（安全保障理事会）成立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/01/13　　<a href=\"../1946/side_2.html\">\n幣原内閣改造</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/01/13　　<a href\"..=\"\" 19.html\"=\"\">\nピース発売</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/01/18　　<a href=\"../1946/01kumaz.html\">\n名古屋に熊沢天皇（自称南朝の子孫）出現</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/01/19　　<a href\"..=\"\" 19.html\"=\"\">\n「のど自慢素人音楽会」放送開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/01/24　　<a href=\"../1946/01sideh.html\">\n幣原・マッカーサー会談</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/01/28　　<a href\"..=\"\" 19.html\"=\"\">\n警視庁、「夜の女」18人初検挙</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/01/29　　<a href\"..=\"\" 19.html\"=\"\">\nＧＨＱ、琉球列島・小笠原群島などでの日本の行政権停止を指令</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1_b\"></a>\n<a href=\"#s1_b\">＝</a><a href=\"#s1_a\">△</a><a href=\"#h\">◎</a><a href=\"#s1_c\">▽</a><a href=\"#s1_b\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/02/01　　<a href\"..=\"\" 19.html\"=\"\">\n「英語会話」放送開始　（「カム・カム・エヴリィボディ」）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/02/03　　<a href=\"../1946/02macar.html\">\nマッカーサー、ＧＨＱ民政局に日本憲法草案作成を指示</a>　（02/10 完成）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/02/08　　<a href=\"../1946/02matum.html\">\n松本試案（憲法改正要綱）をＧＨＱに提出</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/02/08　　<a href\"..=\"\" 19.html\"=\"\">\n臨時人民委員会設立</a>　（主席：<a href=\"../p/kinnisse.html\">金日成</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/02/13　　<a href=\"../1946/02ghqan.html\">\nＧＨＱ、松本試案（改正憲法）を拒否、ＧＨＱ草案受け入れを要求</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/02/17　　<a href=\"../1946/02kinyu.html\">\n金融緊急措置令</a>　（新円発行・旧円の預貯金封鎖）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/02/19　　<a href=\"../1946/02jyung.html\">\n天皇、地方巡幸開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/02/19　　<a href\"..=\"\" 19.html\"=\"\">\n部落解放全国委員会結成</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/02/21　　<a href\"..=\"\" 19.html\"=\"\">\n京都帝大経済学部全教官、戦争責任をとり辞表提出</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/02/21　　<a href=\"../1946/02sideh.html\">\n幣原・マッカーサー会談</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/02/22　　<a href\"..=\"\" 19.html\"=\"\">\n閣議、ＧＨＱ草案（改正憲法）受け入れを決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/02/28　　<a href\"..=\"\" 19.html\"=\"\">\nセントラル映画社設立　（アメリカ映画配給）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1_c\"></a>\n<a href=\"#s1_c\">＝</a><a href=\"#s1_b\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1_c\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/03/01　　<a href\"..=\"\" 19.html\"=\"\">\n「ひめゆりの塔」建立　（沖縄）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/03/01　　<a href\"..=\"\" 19.html\"=\"\">\nイギリス政府、イングランド銀行国有化</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/03/03　　<a href\"..=\"\" 19.html\"=\"\">\n物価統制令公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/03/05　　<a href=\"../1946/03curta.html\">\nチャーチル、「鉄のカーテン」演説</a>　（米・ミズーリ州フルトン）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/03/06　　<a href=\"../1946/03kenpo.html\">\n政府、憲法改正草案要項を発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/03/11　　<a href\"..=\"\" 19.html\"=\"\">\nＧＨＱ、農地改革は不完全と声明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/03/15　　<a href\"..=\"\" 19.html\"=\"\">\n片岡仁左衛門一家殺人事件　（食べ物の恨みから）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/03/20　　<a href\"..=\"\" 19.html\"=\"\">\n朝鮮で米ソ共同委員会①開催　（05/06 無期休会）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1_c\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/04/01　　<a href\"..=\"\" 19.html\"=\"\">\n学習研究社創業</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/04/02　　<a href\"..=\"\" 19.html\"=\"\">\nマッカーサー、米将兵に日本女性との醜交を自重するよう要望</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/04/10　　<a href\"..=\"\" 19.html\"=\"\">\n総選挙[22]　（自由141、進歩94、社会93、協同14、共産5、他119）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/04/19　　<a href=\"../1946/04datoi.html\">\n幣原内閣打倒共同委員会結成</a>　（自由・社会・協同・共産の４党）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/04/20　　<a href\"..=\"\" 19.html\"=\"\">\n「放送討論会」放送開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/04/22　　<a href\"..=\"\" 19.html\"=\"\">\n「サザエさん」連載開始　（夕刊フクニチ）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/04/22　　<a href=\"../1946/side_9.html\">\n幣原内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/04/23　　<a href\"..=\"\" 19.html\"=\"\">\n幣原喜重郎、進歩党総裁就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/04/29　　<a href\"..=\"\" 19.html\"=\"\">\nＡ級戦犯容疑者28人の起訴状発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/01　　<a href\"..=\"\" 19.html\"=\"\">\n中国国民政府、重慶から南京へ遷都</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/03　　<a href=\"../1946/05teppe.html\">\nソ連軍、満州撤兵完了</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/03　　<a href=\"../1946/05tokyo.html\">\n東京裁判（極東国際軍事裁判）開廷</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/03　　<a href=\"../1946/05suise.html\">\n幣原首相、後継首相に鳩山一郎（自由党総裁）を推薦</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/04　　<a href=\"../1946/05hatoy.html\">\nＧＨＱ、鳩山一郎（自由党総裁）の公職追放を通達</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/06　　<a href=\"../1946/05gaito.html\">\n「街頭録音」放送開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/07　　<a href\"..=\"\" 19.html\"=\"\">\n東京通信工業㈱設立　（58/01/01 ソニーと改称）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/12　　<a href\"..=\"\" 19.html\"=\"\">\n世田谷区「米ヨコセ」区民大会デモ　（赤旗、初めて坂下門をくぐる）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/14　　<a href=\"../1946/05jiyut.html\">\n吉田茂、自由党総裁就任を受諾</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/16　　<a href=\"../1946/yosi1_0.html\">\n吉田茂に組閣命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/19　　<a href=\"../1946/05mayda.html\">\n食糧メーデー　（飯米獲得人民大会開催）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/19　　<a href=\"../1946/05praca.html\">\nプラカード事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/20　　<a href\"..=\"\" 19.html\"=\"\">\nマッカーサー、「暴民デモ許さず」と声明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/21　　<a href=\"../1946/05yosid.html\">\n吉田・マッカーサー会談</a>　（「日本人は一人も餓死させない」）"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/22　　<a href=\"../1946/yosi1_1.html\">\n吉田内閣①成立</a>　（首相：<a href=\"../p/ysigeru.html\">吉田茂</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/23　　<a href\"..=\"\" 19.html\"=\"\">\n映画「はたちの青春」封切　（初の接吻シーン）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/31　　<a href\"..=\"\" 19.html\"=\"\">\n早稲田大学、学生自治会の自治権確立要求を承認</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/06/05　　<a href\"..=\"\" 19.html\"=\"\">\n日本ローマ字会・カナモジ会、漢字全廃などの推進を声明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/06/10　　<a href\"..=\"\" 19.html\"=\"\">\nイタリア共和国宣言　（王政廃止）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/07/01　　<a href\"..=\"\" 19.html\"=\"\">\n「尋ね人」放送開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/07/12　　<a href=\"../1946/07kokky.html\">\n国共内戦、全面戦争化</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/07/24　　<a href\"..=\"\" 19.html\"=\"\">\n国鉄労働総連合、「９・１５ゼネスト」を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/07/26　　<a href\"..=\"\" 19.html\"=\"\">\n閣議、第２次農地改革を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/07/26　　<a href\"..=\"\" 19.html\"=\"\">\n坂田三吉没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/08/01　　<a href\"..=\"\" 19.html\"=\"\">\n総同盟（日本労働組合総同盟）結成</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/08/12　　<a href\"..=\"\" 19.html\"=\"\">\n経済安定本部および物価庁設置</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/08/12　　<a href=\"../1946/08sanbe.html\">\n産別会議（全日本産業別労働組合会議）結成</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/08/16　　<a href=\"../1946/08keida.html\">\n経団連（経済団体連合会）設立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/08/22　　<a href=\"../1946/08mocik.html\">\n持株会社整理委員会発足</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/09/12　　<a href\"..=\"\" 19.html\"=\"\">\nウォーレス（米）商務長官、米ソ協調演説　（09/20 辞任）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/09/14　　<a href\"..=\"\" 19.html\"=\"\">\n国鉄争議妥結</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/09/17　　<a href\"..=\"\" 19.html\"=\"\">\n住友邦子ちゃん誘拐事件　（12歳の住友財閥令嬢／09/23 犯人逮捕）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"1947.html#s1\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/10/01　　<a href=\"../1946/10nurnb.html\">\nニュルンベルク国際軍事裁判判決</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/10/08　　<a href=\"../1946/10fukki.html\">\n復興金融金庫法公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/10/08　　<a href\"..=\"\" 19.html\"=\"\">\n文部省、教育勅語奉読の廃止などを通達</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/10/09　　<a href\"..=\"\" 19.html\"=\"\">\nマーシャル・周恩来会談</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/10/15　　<a href\"..=\"\" 19.html\"=\"\">\n皇太子の家庭教師ヴァイニング夫人来日</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/10/15　　<a href\"..=\"\" 19.html\"=\"\">\nゲーリング（ドイツＡ級戦犯）自殺</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/11/03　　<a href=\"../1946/11kenpo.html\">\n日本国憲法公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/11/16　　<a href\"..=\"\" 19.html\"=\"\">\n政府、当用漢字表および現代かなづかいを告示</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/11/20　　<a href\"..=\"\" 19.html\"=\"\">\n日本商工会議所設立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/11/22　　<a href\"..=\"\" 19.html\"=\"\">\n三越ホール開場　（日本橋）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/12/03　　<a href\"..=\"\" 19.html\"=\"\">\n「話の泉」放送開始　（初のクイズ番組）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/12/07　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/ksadayak.html\">\n川上貞奴</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/12/16　　<a href\"..=\"\" 19.html\"=\"\">\n㈱東京銀行設立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/12/19　　<a href\"..=\"\" 19.html\"=\"\">\nフランス軍、ハノイ（ベトナム）占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/12/27　　<a href=\"../1946/12keisy.html\">\n閣議、傾斜生産方式を決定</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1945/side_1.html\">幣原</a> → <a href=\"../1946/yosi1_1.html\">吉田内閣①</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">カストリ　　あっ そう　　ハバ・ハバ</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「細雪」　「完全なる結婚」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">「はたちの青春」</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">街頭録音　　尋ね人</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">リンゴの唄</td></tr>\n</tbody>"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"#h\">１９４６年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

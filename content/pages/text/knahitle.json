@@ -1,0 +1,126 @@
+{
+ "path": "text/knahitle.html",
+ "type": "text",
+ "title": "「第二次世界大戦・ヒトラーの戦い（10）」　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "text.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "「第二次世界大戦・ヒトラーの戦い（10）」"
+  },
+  {
+   "type": "title2",
+   "html": "参考書籍"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "list"
+   },
+   "html": "<tbody><tr>\n<td class=\"list\"><a href=\"06h.html\">一覧</a></td>\n<td class=\"list\"><a href=\"kn_hitle.html\">データ</a></td>\n<td class=\"list\"><a href=\"kn1hitle.html\">１</a></td>     \n<td class=\"list\"><a href=\"kn2hitle.html\">２</a></td>\n<td class=\"list\"><a href=\"kn3hitle.html\">３</a></td>\n<td class=\"list\"><a href=\"kn4hitle.html\">４</a></td>\n<td class=\"list\"><a href=\"kn5hitle.html\">５</a></td>\n<td class=\"list\"><a href=\"kn6hitle.html\">６</a></td>\n<td class=\"list\"><a href=\"kn7hitle.html\">７</a></td>\n<td class=\"list\"><a href=\"kn8hitle.html\">８</a></td>\n<td class=\"list\"><a href=\"kn9hitle.html\">９</a></td>\n<td class=\"list2\"><a href\"knahitle.html\"=\"\">10</a></td>\n</tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n書籍：　文庫（564ページ）<br>\n目次：　米大統領交代の波紋<br>\n<div class=\"in\">\nソ連軍のベルリン総攻撃はじまる<br>\nしのび寄るものの足音<br>\n追いつめられたナチス首脳の“空転”<br>\n盟友<a href=\"../p/mussol_b.html\">ムソリーニ</a>の最後の旅立ち<br>\nおごそかな死への歩み<br>\n一九四五年五月八日<span class=\"bar\">―</span>―終幕<br>\nあとがき<br>\n主要参考文献<br>\n人名索引</div>\n"
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>４月23日、<a href=\"../p/hitler_a.html\">ヒトラー</a>のひととき</b></div>\n<div><a href=\"../p/hitler_a.html\">ヒトラー</a>は、愛人エバが手紙を書いている間、居室に宣伝相<a href=\"../p/geobbe_j.html\">ゲベルス</a>の六人の子供たちをまねき、温かいココアを提供した。</div>\n<div>子供たちは、いつもやさしい<a href=\"../p/hitler_a.html\">ヒトラー</a>が大好きである。</div>\n<div>ココアを飲んではしゃぎ、九歳の長男ヘルムートは、小学校で綴った総統誕生日を祝う作文を披露した。</div>\n<div>とたんに十二歳の長女ヘルガがまぜかえした。</div>\n<div>「なによ、それ、パパの演説の盗作じゃないの」</div>\n<div>「ちがわい。パパがボクのを盗んだんだ」</div>\n<div>長男ヘルムートが反撥し、ほかの子供たちは二派にわかれて長女と長男を応援した。</div>\n<div><a href=\"../p/hitler_a.html\">ヒトラー</a>は、背をまるめ、眼を細めて、子供たちの澄んだ喧噪に聞きほれていた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/knahitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（10）」</a>\n　Ｐ．２５５</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../p/goring_h.html\">ゲーリング</a>の総統位禅譲要請</b></div>\n<div>党総務局長ボルマンが廊下を走ってきた。\n軍需相シュペーアも続行して<a href=\"../p/hitler_a.html\">ヒトラー</a>の居間に入ると、局長ボルマンは空軍総司令官<a href=\"../p/goring_h.html\">Ｈ・ゲーリング元帥</a>の電報を朗読した。</div>\n<div>正午すぎの発信電がようやく到着したのである。</div>\n<div>電報は、<a href=\"../p/hitler_a.html\">ヒトラー</a>が「ベルリン要塞」に残留する決心をしたことにかんがみ、\n一九四一年六月二十九日の権限委譲布告で指名された資格により、自分（<a href=\"../p/goring_h.html\">ゲーリング元帥</a>）が総統代行として\n「内外の完全な行動の自由」をとることに同意するか<span class=\"bar\">―</span>―と、訊ねていた。</div>\n<div>そして、元帥は、「午後十時」までに返事がない場合は、\n<a href=\"../p/hitler_a.html\">ヒトラー</a>は行動の自由を失ったものと認め、「国民と国家の最善の利益」のために行動すると、通告した。</div>\n<div>ただし、末尾には次のように付記されていた。</div>\n<div>「神が閣下を護り、どのようなことがあっても速かに此処（オーバーザルツブルク）にお連れ下さることを、祈る」</div>\n<div><a href=\"../p/hitler_a.html\">ヒトラー</a>は、局長ボルマンの朗読が終っても、ぼんやりした表情で反応を示さなかった。</div>\n<div>局長ボルマンは、次いで、外相<a href=\"../p/ribben_j.html\">リベントロップ</a>あての<a href=\"../p/goring_h.html\">ゲーリング</a>電を読みあげた。</div>\n<div>内容は、ヒトラーあて電報の趣旨をつたえ、この夜「午前零時」までに<a href=\"../p/hitler_a.html\">ヒトラー</a>または元帥自身から連絡がない場合は直ちにオーバーザルツブルクに飛来せよ、\nと指示していた。</div>\n<div>局長ボルマンは、ヒトラーあて<a href=\"../p/goring_h.html\">ゲーリング</a>電が「午後十時」を回答期限にしている点を指摘して、叫んだ。</div>\n<div>「あと二時間もない。わが総統、これは明らかに最後通告であり、\n叛逆と裏切りの公表でありますッ」</div>\n<div>局長ボルマンは、元帥が六ヵ月前にも和平意向を表明したことを指摘し、\n元帥は、いまや「総統を見捨てて降伏するために政権奪取を計画した」のだ、と、わめきたてた。</div>\n<div>この局長ボルマンの怒声で、<a href=\"../p/hitler_a.html\">ヒトラー</a>の神経も刺戟されたらしい。</div>\n<div>灰色の顔面を赤化させ、双眼も充血させて、<a href=\"../p/hitler_a.html\">ヒトラー</a>は、発言した。</div>\n<div>「<a href=\"../p/goring_h.html\">ゲーリング</a>は堕落している・・・・・・空軍も堕落させた・・・・・・国家も堕落させた・・・・・・麻薬中毒患者だ\n・・・・・・みんな、わかっている」</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/knahitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（10）」</a>\n　Ｐ．２７１</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../1929/02later.html\">ラテラノ条約</a></b></div>\n<div>首相<a href=\"../p/mussol_b.html\">ムソリーニ</a>は、政権をとった五年後の一九ニ七年、法王庁との間に<a href=\"../1929/02later.html\">「ラテラノ和親条約」をむすんだ</a>。</div>\n<div>この条約は、一八七〇年いらい懸案になっていた法王庁の領土問題に決着をつけたもので、\nイタリヤ政府が法王庁地区を「バチカン市国」として認め、行政権も与えるかわりに、法王庁は「イタリヤ王国」を承認する、という内容であった。</div>\n<div>また、イタリヤ政府は、法王庁に資金援助もおこない、それを基礎にして法王ピオ十二世は、一九四二年、\n「ＩＯＲ」（宗教活動協会）を設立した。</div>\n<div>この「ＩＯＲ」は、実際には『バチカン銀行』なる俗称が告げるように金融機関であり、\nイタリヤ市庁の財産の保管、あるいは資本の海外逃避のパイプ役もはたし、法王庁に大きな利益をもたらしてきた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/knahitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（10）」</a>\n　Ｐ．３３２</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>ムッソリーニ銃殺</b></div>\n<div>党員アウディシオは、『ベルモンテ荘』と呼ばれる別荘の前で停止を命じ、入口の鉄門に歩み寄って鍵がかかっているのを知ると、\n首相<a href=\"../p/mussol_b.html\">ムソリーニ</a>と愛人クララに横の塀の前に立つよう指示した。</div>\n<div>別荘の女中Ｇ・コルダッツォが不審に思って門に近づいてきたが、\n党員アウディシオに一喝されて邸内にもどった。</div>\n<div>「ひっこんでろッ。殺されるぞ」</div>\n<div>首相<a href=\"../p/mussol_b.html\">ムソリーニ</a>と愛人クララが立つ塀を半周包囲する形に副旅団長モレッティらが配置し、\n党員アウディシオが二人の前に進んで、とりだした紙片の文字を早口で読みあげた。</div>\n<div>「自由イタリヤ義勇軍司令部の命令により、ここに、本官に与えられたイタリヤ人民のために正義を執行する権限を行使する」</div>\n<div>少し離れた位置にいる運転手ジェニナッツァの耳には、その声はよく聞きとれなかったが、\nつづいてひびいた愛人クララの叫びは良く聞こえた。</div>\n<div>「そんな風に私たちを殺すことはできないはずよッ。できないことよッ」</div>\n<div>「どいていろ。さもないと、お前から殺すぞ」</div>\n<div>党員ウアディシオも、さすがに「単独処刑人」の立場に興奮しているとみえ、汗だくになってわめくと、\n自動小銃を二人にむけて引き金をひいた。</div>\n<div>だが、金属音はするが不発<span class=\"bar\">―</span>―あわてた党員アウディシオは拳銃をぬきだしたが、\nこれまた不発・・・・・・。</div>\n<div>銃をくれ<span class=\"bar\">―</span>―と、副旅団長モレッティに声をかけ、そのフランス製自動小銃を持ち直した。</div>\n<div>このとき、それまで無言で佇立していた<a href=\"../p/mussol_b.html\">ムソリーニ</a>が、\n上着のボタンをはずして前をひろげると、「さあ、胸を撃て」と声かけた。</div>\n<div>それ声を合図のように愛人クララが前進して、党員アウディシオの持つ自動小銃の銃身をつかもうとした。</div>\n<div>党員アウディシオは発砲し、心臓を射ぬかれて斃れる愛人クララの身体越しに、\n首相<a href=\"../p/mussol_b.html\">ムソリーニ</a>にニ連射で九発を射ちこんだ。</div>\n<div>ときに午後四時十分<span class=\"bar\">―</span>―とつたえられているが、“個人的処刑”を終えた党員アウディシオは、\n二人の死体をその場に放置してドンゴ村に引き返した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/knahitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（10）」</a>\n　Ｐ．３８８</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>４月28日のベルリン市内</b></div>\n<div>ソ連軍は、この日二十八日を「休息」にあてて突撃隊の準備をおこない、翌日「四月二十九日正午」を期して最後の総攻撃を実施することにした。</div>\n<div>ただし、この日も砲撃は続行し、独軍拠点の偵察を強化する旨が、各部隊に指示された。</div>\n<div>その結果は、未占領地区の住民は落下するソ連製砲弾に身をすくめてすごしたが、\nその外側のソ連軍進出区域は、市民男女は偵察という名のソ連軍の掠奪と暴行の渦にまきこまれた。</div>\n<div>宣伝相<a href=\"../p/geobbe_j.html\">ゲベルス</a>は、かつて東部戦線のソ連兵の「蛮行」の証例として、「二十一回暴行された女性」の話を喧伝したことがあるが、\nその東部の情況は、いまやベルリン市内に移動してきた。</div>\n<div>「ソ連兵はパジャマまで持っていったわ・・・・・・いま、私は裸でベッドにいるの・・・・・・どんなことかわかるでしょ\n・・・・・・あ、また・・・・・・」</div>\n<div>とは、この日も業務をつづける電話局が記録する女性市民の通話だが、同種の記録は文字どおり「数えきれぬ」ほど残されている。</div>\n<div>ソ連側も、さすがに事態改善の必要を感じたらしく、Ｐ・ベルザリン中将をベルリン市司令官に任命して取締りにあたらせたが、\nソ連兵の暴行にたいする熱意はおとろえなかった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/knahitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（10）」</a>\n　Ｐ．３９８</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<div class=\"sp\">\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"06h.html\">書籍ファイル一覧　（ハ）</a>\n ＞ <a href=\"kn_hitle.html\">「第二次世界大戦・ヒトラーの戦い」</a>\n</div>\n ＞ <a href=\"#h\">「第二次世界大戦・ヒトラーの戦い（10）」</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

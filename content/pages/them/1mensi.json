@@ -1,0 +1,66 @@
+{
+ "path": "them/1mensi.html",
+ "type": "theme",
+ "title": "【テーマ・人物一面史】　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "them.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "【テーマ・人物一面史】"
+  },
+  {
+   "type": "title2",
+   "html": "クリック ２０世紀"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "intro"
+   },
+   "html": "\nあなたや私に長所や短所があり、さまざまな異なる一面があるように、\n歴史上の人物にも、個性があり、善悪二元論で単純には割り切れぬ多様な側面がある。<br>\nたとえばtaroは<a href=\"../p/ygonnohy.html\">山本権兵衛</a>の熱烈なファンだが、その<a href=\"../p/ygonnohy.html\">権兵衛さん</a>にも、\nの<a href=\"../p/ttakesi.html\">婿どの</a>にひいきした、<a href=\"../p/ktomosab.html\">後輩</a>の首相就任をやっかんだりといった、\n肯定的に評価することの困難な“人間的”な側面がやはりある。<br>\n逆に、たとえば<a href=\"../p/okanetak.html\">大浦兼武</a>は、よく知られている事実として憎むべき選挙干渉のプロフェッショナルであり、\n実際彼はそれで政治生命を失っているが、\n一方には、<a href=\"../p/ktaro.html\">桂首相</a>、鉄道王ハリマン間の契約を、\n<a href=\"../p/kjutaro.html\">小村全権</a>の帰国を待って調印するようカラダを張って主張し「覚書」にとどめた功績がある。<br>\nそうこう考えると、人物の意外な一面に光を当ててみるのもあながち無意味ではあるまい。\n何を意外とするかは読む人の感じ方次第だとするなら、taroは意外性にこだわる必要さえない。<br>\nかくて勝手気ままに人物一面史開始。楽しんでいただけるようにとただただ念じつつ。<br>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tit"
+   },
+   "html": "\n●<a href=\"ysenji01.html\">山本宣治：京都労働学校校長／１９２５</a><br>\n<div class=\"intro\">　大衆への献身者にしてタブーへの挑戦者<a href=\"../p/ysenji.html\">ヤマセン</a>。\n彼は同時に、ちょっと素敵なセンセーでもあった。\n教師としての<a href=\"../p/ysenji.html\">ヤマセン</a>の日常の１コマをのぞいてみよう。\n・・・ああ、こんなセンセーに習いたかった。</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tit"
+   },
+   "html": "\n●<a href=\"myosuk01.html\">松岡洋右：近衛内閣②外相／１９４１</a><br>\n<div class=\"intro\">　是非を論じ、評価を下すのは後回しにして、\nまずはあの日、あのあとの<a href=\"../p/myosuke.html\">松岡</a>と<a href=\"../p/stalin.html\">スターリン</a>がどんなふうだったかのぞいてみよう。\n・・・外交の実力はともかく、酒は<a href=\"../p/stalin.html\">スターリン</a>の方がずっと強かったようだ。</div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"#h\">【テーマ・人物一面史】</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

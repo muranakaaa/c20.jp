@@ -1,0 +1,213 @@
+{
+ "path": "1905/01suisi.html",
+ "type": "article",
+ "title": "水師営の会見　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1905.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "水師営の会見"
+  },
+  {
+   "type": "title2",
+   "html": "1905/01/05"
+  },
+  {
+   "type": "navi2",
+   "html": "\n１０年前 &gt;&gt;&gt; <a href=\"../20c/1904.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1905.html\">１９０５</a> &gt;&gt;&gt; <a href=\"../20c/1906.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1915.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"../p/nmaresuk.html\">乃木大将</a>、敵将<a href=\"../p/stesse_a.html\">ステッセル</a>と水師営で会見。　昨日の敵は今日の友。　感動、世界をかけめぐる。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/11/26　　<a href=\"../1904/11ryojy.html\">\n旅順総攻撃③開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/11/30　　<a href=\"../1904/11203ko.html\">\n第三軍、二〇三高地を一時占拠</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/12/01　　<a href=\"../1904/12kodam.html\">\n児玉総参謀長、第三軍司令部に到着</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/12/05　　<a href=\"../1904/12203ko.html\">\n第三軍、二〇三高地占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/01/02　　<a href=\"../1905/01ryojy.html\">\n旅順陥落</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/01/02　　<a href=\"../1905/01203ko.html\">\n陸軍省、旅順開城を発表</a>　（二〇三高地の激戦など）"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/01/05　　<a 1905=\"\" href\"..=\"\" 01suisi.html\"=\"\">\n水師営の会見</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/01/25　　<a href=\"../1905/01kokk1.html\">\n黒溝台会戦</a>　（～01/29）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/03/01　　<a href=\"../1905/03hote1.html\">\n奉天会戦</a>　（～03/10）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/05/27　　<a href=\"../1905/05nihon.html\">\n日本海海戦</a>　（～05/28／連合艦隊司令長官：<a href=\"../p/theihaci.html\">東郷平八郎</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><a href=\"../p/stesse_a.html\">ステッセル</a>は、四十分待った。</div>\n<div>やがて<a href=\"../p/nmaresuk.html\">乃木</a>一行が会場の門をくぐったのは、午前十一時三十分である。</div>\n<div><a href=\"../p/nmaresuk.html\">乃木</a>は門に入って馬を降り、先着していた津野田参謀の敬礼を受けた。\n津野田は、通訳の川上俊彦とともに<a href=\"../p/stesse_a.html\">ステッセル</a>の出迎え役をつとめた。</div>\n<div>津野田は挙手の礼の手をおろしてから、</div>\n<div>「<a href=\"../p/stesse_a.html\">ステッセル閣下</a>は到着しておられます」</div>\n<div>と、報告した。<a href=\"../p/nmaresuk.html\">乃木</a>はうなずき、大股になり、足早に本屋へむかった。</div>\n<div>やがて<a href=\"../p/nmaresuk.html\">乃木</a>は部屋に入ると、いきなり上席とされている床の側に立った。\nこの場合、勝利者であるというほかに、<a href=\"../p/nmaresuk.html\">乃木</a>が大将であり、<a href=\"../p/stesse_a.html\">ステッセル</a>が中将であるということによって<a href=\"../p/nmaresuk.html\">乃木</a>に上席が用意されていたのである。\n<a href=\"../p/nmaresuk.html\">乃木</a>は立ったまま<a href=\"../p/stesse_a.html\">ステッセル</a>にむかって手をのばした。</div>\n<div><a href=\"../p/stesse_a.html\">ステッセル</a>も手をのばし、握手した。</div>\n<div>（<a href=\"../p/nmaresuk.html\">乃木</a>とはこういう人物であったのか）</div>\n<div>と、<a href=\"../p/stesse_a.html\">ステッセル</a>の幕僚が内心おどろいたほどに、<a href=\"../p/nmaresuk.html\">乃木</a>の容貌には尊大さが微塵もなく、やや垂れた両眼が微笑で細くなっていた。</div>\n<div><a href=\"../p/nmaresuk.html\">乃木</a>は立ったままあいさつをした。</div>\n<div>そのあいさつを川上俊彦通訳が、ロシア語に翻訳した。</div>\n<div>「われわれは君国のために力戦した。\nしかしながらすでに戦闘行為は熄み、こんにちのようにして閣下とここで会見できることを、予は最大のよろこびとする」</div>\n<div>と述べると、<a href=\"../p/stesse_a.html\">ステッセル</a>はそれを受け、</div>\n<div>「予もまた、祖国のために旅順要塞を防守した。\nしかしながらすでに開城したこんにち、閣下にここで見える機会をえたることは、予の深く光栄とするところである」</div>\n<div>さらに<a href=\"../p/nmaresuk.html\">乃木</a>は立ったままいう。\nかれは昨日、参謀総長をへてかれのもとにとどいた電報の内容を披露した。\n<a href=\"../p/mtenno.html\">明治帝</a>の意志についてであった。</div>\n<div>電文とは、</div>\n<div><span class=\"bar\">―</span>―将官<a href=\"../p/stesse_a.html\">ステッセル</a>ガ祖国ノタメ尽シタル功を嘉シ給ヒ、武士ノ名誉ヲ保タシムベキコトヲ望マセラル。</div>\n<div>というもので、このため<a href=\"../p/stesse_a.html\">ステッセル</a>とその随員に帯刀をゆるしたのである。</div>\n<div><a href=\"../p/nmaresuk.html\">乃木</a>はそのことを伝え、</div>\n<div>「予もまた能うかぎり閣下のために便宜をはかりたい」</div>\n<div>というと、<a href=\"../p/stesse_a.html\">ステッセル</a>は先刻までとは別人のように明るい表情になり、そのことを感謝した。</div>\n<div>この応答がおわると、<a href=\"../p/nmaresuk.html\">乃木</a>は雑談に移るべく、</div>\n<div>「どうぞ」</div>\n<div>と、相手に着席をうながし、みずからも腰を固い椅子に落ちつけた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/sr5sakan.html\">司馬遼太郎 「坂の上の雲（５）」</a>\n　Ｐ．３１６</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1905.html\">１９０５年</a>\n ＞ <a href=\"#h\">水師営の会見</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

@@ -1,0 +1,253 @@
+{
+ "path": "1942/04mutok.html",
+ "type": "article",
+ "title": "武藤軍務局長更迭　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1942.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "武藤軍務局長更迭"
+  },
+  {
+   "type": "title2",
+   "html": "1942/04/19"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1932.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1941.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1942.html\">１９４２</a> &gt;&gt;&gt; <a href=\"../20c/1943.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"../p/thideki.html\">東條</a>慢心。　陸相就任以来の<a href=\"../p/makira.html\">“右腕” 軍務局長</a>を背中からばっさり 抜き打ち解任。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/04/16　　<a href=\"../1941/04ja_ko.html\">\n日米交渉開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/09/06　　<a href=\"../1941/09goz06.html\">\n御前会議、対米開戦を決意</a>　（「帝国国策遂行要領」決定）"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/10/18　　<a href=\"../1941/tojo_1.html\">\n東條内閣成立</a>　（首相：<a href=\"../p/thideki.html\">東條英機</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/11/26　　<a href=\"../1941/11hulln.html\">\n野村・来栖両大使、ハル・ノートを受領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/12/01　　<a href=\"../1941/12goz01.html\">\n御前会議、対米開戦決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/12/08　　<a href=\"../1941/12hawai.html\">\nハワイ奇襲攻撃</a>　（AM03：25／太平洋戦争勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1942/02/15　　<a href=\"../1942/02singa.html\">\nシンガポール攻略</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1942/02/18　　<a href\"..=\"\" 19.html\"=\"\">\n大東亜戦争戦捷第一次祝賀国民大会開催</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1942/04/18　　<a href=\"../1942/04dolit.html\">\nドゥーリトル爆撃隊、東京・名古屋・神戸などを空襲</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1942/04/19　　<a 1942=\"\" href\"..=\"\" 04mutok.html\"=\"\">\n武藤軍務局長更迭</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1942/04/30　　<a href\"..=\"\" 19.html\"=\"\">\n総選挙[21]　（翼賛選挙／推薦381、非推薦85）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1942/06/05　　<a href=\"../1942/06midwa.html\">\nミッドウェー海戦</a>　（～06/07）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1942/08/07　　<a href=\"../1942/08a_gua.html\">\nアメリカ海兵隊、ガダルカナル島上陸</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/02/01　　<a href=\"../1943/02guada.html\">\nガダルカナル島撤退開始</a>　（02/07 撤退完了）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "cm"
+   },
+   "html": "<span class=\"m_y\">語録</span>\n人々は私の転任について色々下馬評したが、私にはそんなことはどうでもよいのだった。\n軍務局長の不愉快さはやってみねばわからぬことで、これを解放されたのだから嬉しいにきまっている。\n<div class=\"r\"><a href=\"../p/makira.html\">武藤章</a>　（元軍務局長）</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>軍務局長<a href=\"../p/makira.html\">武藤章</a>は二年半にわたってその職にあり、\n<a href=\"../1941/12hawai.html\">開戦</a>前の<a href=\"../1941/04ja_ko.html\">日米交渉</a>では、<a href=\"../p/thideki.html\">東條</a>の右腕だった将校であり、しばしば大胆な直言もした。\nはじめのうち<a href=\"../p/thideki.html\">東條</a>もその言を受けいれたが、<a href=\"../1941/12hawai.html\">真珠湾攻撃</a>以来の戦果のまえに、\nしだいに渋い表情を見せるようになった。\n<a href=\"../p/makira.html\">武藤</a>は、<a href=\"../1941/tojo_1.html\">東條内閣</a>の他の閣僚より政治、軍事の両面に発言権をもち、なかでも書記官長<a href=\"../p/hnaoki.html\">星野直樹</a>をぬくほどの権勢をもった。\nそれが徐々に<a href=\"../p/hnaoki.html\">星野</a>との対立に発展した。<a href=\"../p/thideki.html\">東條</a>自身は<a href=\"../p/hnaoki.html\">星野</a>の側に立った。</div>\n<div>四月にはいって、<a href=\"../p/thideki.html\">東條</a>は<a href=\"../p/makira.html\">武藤</a>を南方の占領地視察に赴かせたが、その間に、\n<a href=\"../p/makira.html\">武藤</a>を南方の近衛師団長に転勤させることを決意した。\n直接のきっかけは、<a href=\"../p/hnaoki.html\">星野</a>や<a href=\"../p/steiici.html\">鈴木貞一</a>が<a href=\"../p/thideki.html\">東條</a>に働きかけたためといわれている。\n<a href=\"../p/thideki.html\">東條</a>を補佐するその役割に、<a href=\"../p/thideki.html\">東條</a>のほうがしだいに疎んじるようになったとみるほうがあたっている。\n立川の飛行場に戻った<a href=\"../p/makira.html\">武藤</a>に、副官の松村知勝が転任の命令書を手渡した。\n無礼といわれても仕方のない方法だった。このとき激昂した<a href=\"../p/makira.html\">武藤</a>は、迎えに出ていた松村にむかって、</div>\n<div>「<a href=\"../p/thideki.html\">東條</a>は政治亡者になったのか。\nクーデターを起こして<a href=\"../p/thideki.html\">東條</a>を倒すか。このままではズルズルと亡国だ」</div>\n<div>とまで口走ったという。しかし軍務局長という激務に疲れていたこともあって、\n彼は黙したままスマトラのメダンに赴任していった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/hm2tojoh.html\">保阪正康 「東條英機と天皇の時代（下）」</a>\n　Ｐ．４６</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/makira.html\">武藤</a>がなぜ軍務局長をおわれたか、考えられるいくつかの事情をまとめておく。</div>\n<div>第一に、局長人事の決定権は<a href=\"../p/thideki.html\">東条陸相</a>にあり、<a href=\"../1941/12hawai.html\">開戦</a>後のあいつぐ勝報に自信をつけた<a href=\"../p/thideki.html\">東条</a>に、\n政治能力・識見でまさっている<a href=\"../p/makira.html\">武藤</a>を忌避する気持がはたらいたこと。\nまた<a href=\"../1941/tojo_1.html\">東条内閣誕生</a>時の、<a href=\"../p/makira.html\">武藤</a>の反<a href=\"../p/hnaoki.html\">星野</a>・反<a href=\"../p/steiici.html\">鈴木</a>の言動が、当人たちの耳に入り、<a href=\"../p/thideki.html\">東条</a>の気持に投影した事情もある。\n矢次一夫は、従来指摘されてきた「<a href=\"../p/hnaoki.html\">星野</a>のうらみ」とともに、参謀本部から仇敵視されて、\n陸軍省内でも孤立していた<a href=\"../p/makira.html\">武藤</a>が、十七年元旦、和平の方策を要路に説いたことが戦果に酔う<a href=\"../p/thideki.html\">東条</a>を決定的に刺激したことにふれ、\nもう一点、直接の引金となったと思われる事情をあかした。</div>\n<div>熊本出身の技術者で逓信省工務局長の松前重義が、<a href=\"../p/ayoriyas.html\">有馬頼寧</a>をＮＨＫ会長にかつごうとし、\n<a href=\"../p/ayoriyas.html\">有馬</a>の秘書とともに<a href=\"../p/makira.html\">武藤</a>にたのんだ。\nたのまれた<a href=\"../p/makira.html\">武藤</a>は、その実現のため関係機関にはたらきかけた。\nこれが、日頃<a href=\"../p/makira.html\">武藤</a>を使いきれなかった<a href=\"../p/thideki.html\">東条</a>に切札をあたえたというのである。\n民間人事にまでくちばしを入れるとはなにごとかということで、\n<a href=\"../p/makira.html\">武藤</a>の政治関与に対する<a href=\"../p/thideki.html\">東条</a>の忌避に理由をあたえた。</div>\n<div>さらに田中隆吉、田中新一などの反<a href=\"../p/makira.html\">武藤</a>の機運がその<a href=\"../p/thideki.html\">東条</a>の背景にあった。</div>\n<div>田中隆吉は<a href=\"../p/thideki.html\">東条</a>人事によって憲兵を主管する兵務局長になり、\n軍務局長のポストを狙っていたといわれる。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/sh_kurai.html\">澤地久枝 「暗い暦」</a>\n　Ｐ．２４２</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">おたよりはこちら</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1942.html\">１９４２年</a>\n ＞ <a href=\"#h\">武藤軍務局長更迭</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

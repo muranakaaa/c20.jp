@@ -1,0 +1,273 @@
+{
+ "path": "1922/katoa_1.html",
+ "type": "article",
+ "title": "加藤（友）内閣成立　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1922.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href=\"katoa_1~.html\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "加藤（友）内閣成立"
+  },
+  {
+   "type": "title2",
+   "html": "1922/06/12"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1912.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1921.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1922.html\">１９２２</a> &gt;&gt;&gt; <a href=\"../20c/1923.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1932.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "ワシントン軍縮首席全権の <a href=\"../p/ktomosab.html\">加藤友三郎海軍大将</a>、国際公約実行内閣を組閣。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"katoa_1~.html\">[詳細]</a></td><td class=\"lt\"><a href=\"../them/j_gov03.html#s2\">【内閣成立史】</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/11/12　　<a href=\"../1921/11washi.html\">\nワシントン軍縮会議開催</a>　（主席全権：<a href=\"../p/ktomosab.html\">加藤友三郎</a>／～22/02/06）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/12/13　　<a href=\"../1921/124koku.html\">\n四ヵ国条約調印　（日英同盟廃棄）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/02/06　　<a href=\"../1922/029koku.html\">\n九ヵ国条約調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/02/06　　<a href=\"../1922/02washi.html\">\nワシントン海軍軍縮条約調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/06/06　　<a href=\"../1922/taka_9.html\">\n高橋内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/06/09　　<a href\"..=\"\" 19.html\"=\"\">\n元老、加藤友三郎を後継首相に推薦</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/06/12　　<a 1922=\"\" href\"..=\"\" katoa_1.html\"=\"\">\n加藤（友）内閣成立</a>　（首相：<a href=\"../p/ktomosab.html\">加藤友三郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/06/24　　<a href\"..=\"\" 19.html\"=\"\">\nシベリア撤兵声明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/07/03　　<a href=\"../1922/07kguns.html\">\n海軍軍縮計画発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/07/04　　<a href=\"../1922/07rguns.html\">\n陸軍軍縮計画（山梨軍縮）発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/10/25　　<a href=\"../1922/10siber.html\">\nシベリア撤兵完了</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/08/25　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/ktomosab.html\">\n加藤友三郎</a>没　（首相）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/08/25　　<a href=\"../1923/katoa_9.html\">\n加藤（友）内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/08/28　　<a href\"..=\"\" 19.html\"=\"\">\n山本権兵衛に組閣命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/01　　<a href=\"../1923/09sinsa.html\">\n関東大震災</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/02　　<a href=\"../1923/yamm2_1.html\">\n山本内閣②成立</a>　（首相：<a href=\"../p/ygonnohy.html\">山本権兵衛</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div>ああああああああああああああああ</div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n<br>「加藤（友）内閣」は「加藤友三郎内閣」と同じ意味です。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1922.html\">１９２２年</a>\n ＞ <a href=\"#h\">加藤（友）内閣成立</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

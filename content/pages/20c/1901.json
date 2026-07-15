@@ -1,0 +1,460 @@
+{
+ "path": "20c/1901.html",
+ "type": "year",
+ "title": "１９０１年　／ クリック ２０世紀",
+ "description": null,
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a href=\"#f\">▽▽▽</a><a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９０１年"
+  },
+  {
+   "type": "title2",
+   "html": "明治３４年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n１０年前 &gt;&gt;&gt; 前年 &gt;&gt;&gt; <span class=\"now\">１９０１</span> &gt;&gt;&gt; <a href=\"1902.html\">翌年</a> &gt;&gt;&gt; <a href=\"1911.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "２０世紀　　アジアは一つ",
+    "伊藤④ → <a href=\"../1901/katu1_1.html\">桂内閣①</a>"
+   ]
+  },
+  {
+   "type": "edit_bar",
+   "kind": "e_data",
+   "html": "リンク情報（2003/00/00）＝削除：０件（.html）"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/01/01　　<a href=\"../1901/011920s.html\">\n19・20世紀送迎会開催</a>　（慶応義塾）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/01/01　　<a href\"..=\"\" 19.html\"=\"\">\nオーストラリア連邦成立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/01/22　　<a href\"..=\"\" 19.html\"=\"\">\nビクトリア女王没　（イギリス国王）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/02/03　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/fyukici.html\">\n福沢諭吉</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/02/05　　<a href=\"../1901/02yahat.html\">\n八幡製鉄所操業開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/03/19　　<a href\"..=\"\" 19.html\"=\"\">\nデュマ作、黒岩涙香訳「史外史伝巌窟王」連載開始　（万朝報）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/04/06　　<a href=\"../1901/04otoji.html\">\n川上音二郎ら訪欧</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/04/19　　<a href\"..=\"\" 19.html\"=\"\">\n北京列国公使団、清国に義和団事件賠償金４億5000万両を要求</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/04/29　　<a href=\"../1901/04hiroh.html\">\n裕仁親王誕生</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/05/02　　<a href\"..=\"\" 19.html\"=\"\">\n伊藤首相、閣内不統一で辞表提出　（首相代理：</a><a href=\"../p/skinmoci.html\">西園寺公望</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/05/03　　<a href=\"../1901/ito4_9.html\">\n伊藤内閣④総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/05/05　　<a href\"..=\"\" 19.html\"=\"\">\n４元老、後継首相について協議　（</a><a href=\"../p/yaritomo.html\">山県</a>・<a href=\"../p/mmasayos.html\">松方</a>・<a href=\"../p/ikaoru.html\">井上</a>・西郷）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/05/15　　<a href\"..=\"\" 19.html\"=\"\">\n４元老、後継首相に井上馨を推薦</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/05/16　　<a href=\"../1901/05inoue.html\">\n井上馨に組閣命令</a>　（05/23 辞退）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/05/18　　<a href=\"../1901/05syaka.html\">\n社会民主党結成</a>　（<a href=\"../p/ksen.html\">片山潜</a>・<a href=\"../p/ksyusui.html\">幸徳秋水</a>・安部磯雄ら／05/20 禁止）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/05/23　　<a href\"..=\"\" 19.html\"=\"\">\n元老会議、後継首相に桂太郎を推薦</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/05/26　　<a href\"..=\"\" 19.html\"=\"\">\n桂太郎に組閣命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/05/27　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ最高裁、プエルトリコ人は事実上アメリカ市民ではないと判決</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/05/29　　<a href\"..=\"\" 19.html\"=\"\">\n警視庁、車夫・馬丁などの「はだし」を厳禁　（ペスト予防・風俗改善）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/05/29　　<a href\"..=\"\" 19.html\"=\"\">\n清国、北京列国公使団の賠償金要求を受諾</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/06/02　　<a href=\"../1901/katu1_1.html\">\n桂内閣①成立</a>　（首相：<a href=\"../p/ktaro.html\">桂太郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/06/21　　<a href\"..=\"\" 19.html\"=\"\">\n星亨刺殺事件</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/07/31　　<a href\"..=\"\" 19.html\"=\"\">\n連合軍、北京からの撤退開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/09/06　　<a href\"..=\"\" 19.html\"=\"\">\nマッキンレー大統領狙撃事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/09/07　　<a href=\"../1901/09giwad.html\">\n義和団事件最終議定書調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/09/14　　<a href\"..=\"\" 19.html\"=\"\">\nマッキンレー没　（アメリカ大統領）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/09/14　　<a href\"..=\"\" 19.html\"=\"\">\n副大統領 Ｔ・ルーズベルト、アメリカ大統領就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/09/18　　<a href\"..=\"\" 19.html\"=\"\">\n時事新報、関根イト女工虐待裁判を報道</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"1902.html#s1\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/10/16　　<a href=\"../1901/10je_do.html\">\n日英同盟交渉開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/10/23　　<a href\"..=\"\" 19.html\"=\"\">\n田中正造、足尾銅山鉱毒事件で衆議院議員辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/11/17　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/rikosyo.html\">\n李鴻章</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/12/02　　<a href=\"../1901/12jr_ky.html\">\n伊藤博文、日露協商交渉開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/12/10　　<a href=\"../1901/12jikis.html\">\n田中正造、天皇に直訴</a>　（足尾銅山鉱毒事件）"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/12/13　　<a href\"..=\"\" 19.html\"=\"\">\n中江兆民没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/12/23　　<a href=\"../1901/12jr_uc.html\">\n伊藤博文、露外相に交渉打切りを通告</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\">伊藤④ → <a href=\"../1901/katu1_1.html\">桂内閣①</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">２０世紀　　アジアは一つ</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「みだれ髪」　「武蔵野」　「一年有半」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">北清事変実写映画</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">―</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">アムール川の流血や</td></tr>\n</tbody>"
+  },
+  {
+   "type": "fnavi",
+   "html": "<a name=\"f\"></a>\n<a href=\"../index.html\">目次</a>\n ＞ <a href=\"#h\">１９０１年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

@@ -1,0 +1,243 @@
+{
+ "path": "1916/03kokei.html",
+ "type": "article",
+ "title": "大隈首相、山県元老に対して、後継首相に加藤高明を推薦　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1916.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "大隈首相、山県元老に対して、後継首相に加藤高明を推薦"
+  },
+  {
+   "type": "title2",
+   "html": "1916/03/26"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1906.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1915.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1916.html\">１９１６</a> &gt;&gt;&gt; <a href=\"../20c/1917.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1926.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"../p/osigenob.html\">大隈さん</a>はやっぱり“三菱の走狗”！？　三菱の“ムコ殿” <a href=\"../p/ktakaaki.html\">加藤前外相</a>を次の首相に推薦。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/04/16　　<a href=\"../1914/okum2_1.html\">\n大隈内閣②成立</a>　（首相：<a href=\"../p/osigenob.html\">大隈重信</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/01/18　　<a href=\"../1915/0121kaj.html\">\n対華２１か条要求</a>　（外相：<a href=\"../p/ktakaaki.html\">加藤高明</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/03/25　　<a href\"..=\"\" 19.html\"=\"\">\n総選挙[12]　（同志会153、政友会108、中正会33、国民党27、他60）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/07/25　　<a href=\"../1915/07ouraj.html\">\n大浦内相辞任</a>　（２個師団増設案成立工作問題で）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/07/30　　<a href\"..=\"\" 19.html\"=\"\">\n大隈内閣辞表提出</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/08/03　　<a href\"..=\"\" 19.html\"=\"\">\n元老会議、大隈首相を慰留</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/08/10　　<a href\"..=\"\" 19.html\"=\"\">\n３閣僚辞任　（</a><a href=\"../p/ktakaaki.html\">加藤外相</a>・<a href=\"../p/wreijiro.html\">若槻蔵相</a>・八代海相／内閣改造）"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/03/26　　<a 1916=\"\" href\"..=\"\" 03kokei.html\"=\"\">\n大隈首相、山県元老に対して、後継首相に加藤高明を推薦</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/10/04　　<a href\"..=\"\" 19.html\"=\"\">\n大隈首相、辞意表明　（後継首相に加藤高明を推薦）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/10/04　　<a href\"..=\"\" 19.html\"=\"\">\n元老会議、後継首相に寺内正毅を推薦　（寺内に組閣命令）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/10/05　　<a href=\"../1916/okum2_9.html\">\n大隈内閣②総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/10/09　　<a href=\"../1916/tera_1.html\">\n寺内内閣成立</a>　（首相：<a href=\"../p/tmasatak.html\">寺内正毅</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/10/10　　<a href=\"../1916/10kense.html\">\n憲政会結成</a>　（立憲同志会など３党合同／総裁：<a href=\"../p/ktakaaki.html\">加藤高明</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div>ああああああああああああああああ</div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1916.html\">１９１６年</a>\n ＞ <a href=\"#h\">大隈首相、山県元老に対して、後継首相に加藤高明を推薦</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

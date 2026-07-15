@@ -1,0 +1,249 @@
+{
+ "path": "1903/04teppe.html",
+ "type": "article",
+ "title": "ロシア、満州撤兵②不履行　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1903.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "ロシア、満州撤兵②不履行"
+  },
+  {
+   "type": "title2",
+   "html": "1903/04/08"
+  },
+  {
+   "type": "navi2",
+   "html": "\n１０年前 &gt;&gt;&gt; <a href=\"../20c/1902.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1903.html\">１９０３</a> &gt;&gt;&gt; <a href=\"../20c/1904.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1913.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "やっぱり！　満州をねらうロシアが、ついにその本性をあらわした。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1900/06/21　　<a href\"..=\"\" 19.html\"=\"\">\n清国、日本など８ヵ国に宣戦布告　（義和団事件）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1900/08/14　　<a href\"..=\"\" 19.html\"=\"\">\n連合軍、北京総攻撃開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/07/31　　<a href\"..=\"\" 19.html\"=\"\">\n連合軍、北京からの撤退開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/09/07　　<a href=\"../1901/09giwad.html\">\n義和団事件最終議定書調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1902/01/30　　<a href=\"../1902/01je_do.html\">\n日英同盟①調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1902/04/08　　<a href=\"../1902/04mansy.html\">\n満州還付条約調印</a>　（露・清）"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1903/04/08　　<a 1903=\"\" href\"..=\"\" 04teppe.html\"=\"\">\nロシア、満州撤兵②不履行</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1903/04/18　　<a href=\"../1903/047yoky.html\">\nロシア、満州撤兵のための７項目を清国に要求</a>　（04/27 清国拒否）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1903/04/21　　<a href=\"../1903/04murin.html\">\n無隣庵会議</a>　（<a href=\"../p/yaritomo.html\">山県</a>・<a href=\"../p/ihirobum.html\">伊藤</a>・<a href=\"../p/ktaro.html\">桂</a>・<a href=\"../p/kjutaro.html\">小村</a>／京都）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1903/08/12　　<a href=\"../1903/08sotok.html\">\nロシア、旅順に極東総督府を設置</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1903/10/06　　<a href=\"../1903/10jr_ko.html\">\n日露交渉（小村・ローゼン交渉）開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/10　　<a href=\"../1904/02jr_wa.html\">\n対露宣戦布告</a>　（<a href=\"../them/jr_war.html\">日露戦争</a>勃発）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>一九〇三年（明治三十六年）四月八日、つまりロシアの第二期満州撤兵の期限が近づくにつれて、\nロシア軍の動静にかんするさまざまの情報が伝えられ始めた。</div>\n<div>三月には、一方で牛荘などからは、ロシアの撤兵準備が進められているという報告ももたらされたが、\n他方では、ロシア軍がむしろ遼陽から鴨緑江の方向にあたる鳳凰城に向けて進出しているという情報も入ってきた。\nまた四月に入ると、ロシア兵が森林事業のため鴨緑江岸に到着したとの報も伝えられた。\nさらには清国駐在のロシア代理公使は<a href=\"../p/ukosai.html\">内田公使</a>に、日本は満州に開市開港場をつくるよう要求しているというが本当かと質問し、\n満州は日本が手をつけないように希望すると述べたという一幕もあった。\nロシアが満州で新たな積極政策に出るかもしれないという気配が感ぜられた。</div>\n<div>はたして第二期撤兵は実行されなかった。\n四月八日、奉天のロシア軍は、いったん停車場に向かって行軍を開始したが、結局もとの兵舎に引き返してしまった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ft_nicir.html\">古屋哲夫 「日露戦争」</a>\n　Ｐ．６３</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>「然レドモ、露国ノ発達ハ甚ダ大ニシテ、紀元二千年ニ於テ露国ノ人口ハ優ニ四億ニ達スルヲ得ベシ。</div>\n<div>而シテ斯ル多数ノ人口ヲ有スル国家ハ、果シテ現今ノ国境ニ満足スルヲ得ベキカ」</div>\n<div>では、どこへ行くのか<span class=\"bar\">―</span>―。</div>\n<div>満州だ<span class=\"bar\">―</span>―というのが、陸相<a href=\"../p/kuropa_a.html\">クロパトキン大将</a>の判決である。</div>\n<div>四億にふくれあがった人口のうち、「四分ノ一」はシベリヤに収容できるが、\nシベリヤは不毛の地である。\n移住者の食糧は満州に求めねばならず、シベリヤの安全は北部満州を確保してはじめて保持できるからである。</div>\n<div>その意味で、大将は、すでに実施されている満州経営と「韓国ニ於ケル企業等」は、「極東ト露国トノ運命」をつなぐ\n「一連ノ鎖環」であるとみなし、強調する。</div>\n<div>「千九百年乃至千九百三年間ニ鉄道、陸軍及海軍ニ莫大ノ金額ヲ投ジタルニ拘ラズ、\n若シ千九百年（清国に）与ヘタル契約ニ従ヒ<a href=\"../1902/04mansy.html\">（満州還附）協約</a>ヲ確実ニ履行セバ、\n露国ノ利害関係ハ果シテ十分ニ確保セラルベキヤ」</div>\n<div>むろん、大将は、満州撤兵を実行しない場合の「危機」についても、考慮した。</div>\n<div>「殊ニ露国ガ西辺ニ於テ攻撃セラレ、同時ニ東方ニ於テモ亦戦ヲ交フルアラバ、其ノ危険実ニ寒心スベキモノアラン」</div>\n<div>ドイツ、日本の双方と戦う「ニ正面作戦」を危惧するわけだが、それでも、\n陸相<a href=\"../p/kuropa_a.html\">クロパトキン大将</a>は、満州進出がロシヤの「運命」の支柱である点をくり返して、断言する。</div>\n<div>「我ガ国ハ、日本ト戦争ノ已ムナキニ至ルベシ」</div>\n<div>そして、大将は覚悟をこめて記述している。</div>\n<div>「（平和の継続により）軍需品ハ到ル処ニ過剰ヲ生ジ、国家ハ武装的平和ノ重荷ニ苦シム。\n時局人心共ニ緊張シ、各軍ノ銃ハ自然ニ発射セントスルノ観アリ」</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kn_nicir.html\">児島襄 「日露戦争」</a>\n　第１巻　Ｐ．２５３</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1903.html\">１９０３年</a>\n ＞ <a href=\"#h\">ロシア、満州撤兵②不履行</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

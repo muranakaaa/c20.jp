@@ -1,0 +1,293 @@
+{
+ "path": "1941/kono3_1.html",
+ "type": "article",
+ "title": "近衛内閣③成立　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1941.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href=\"kono3_1~.html\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "近衛内閣③成立"
+  },
+  {
+   "type": "title2",
+   "html": "1941/07/18"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1931.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1940.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1941.html\">１９４１</a> &gt;&gt;&gt; <a href=\"../20c/1942.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "外務大臣をとっかえて、それでどうなる？　形ばかりの新内閣成立。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"kono3_1~.html\">[詳細]</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/04/16　　<a href=\"../1941/04ja_ko.html\">\n日米交渉開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/04/22　　<a href=\"../1941/04matuo.html\">\n松岡外相帰国　（日米交渉に大反対）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/06/22　　<a href=\"../1941/06ds_ka.html\">\n独ソ戦開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/07/02　　<a href=\"../1941/07goz02.html\">\n御前会議、「南進」「北進準備」を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/07/02　　<a href=\"../1941/07kanto.html\">\n大本営、「関特演」発動</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/07/16　　<a href=\"../1941/kono2_9.html\">\n近衛内閣②総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/07/18　　<a 1941=\"\" href\"..=\"\" kono3_1.html\"=\"\">\n近衛内閣③成立</a>　（首相：<a href=\"../p/kfumimar.html\">近衛文麿</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/07/25　　<a href=\"../1941/07toket.html\">\nアメリカ、日本資産の凍結</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/07/28　　<a href=\"../1941/07futu2.html\">\n南部仏印進駐</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/08/01　　<a href=\"../1941/08kinyu.html\">\nアメリカ、対日石油輸出禁止</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/08/04　　<a href=\"../1941/08konoe.html\">\n近衛首相、日米首脳会談を陸海両相に打診</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/08/17　　<a href=\"../1941/08syuno.html\">\nアメリカ、日米首脳会談の提案に回答</a>　（態度表明が先決）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/09/06　　<a href=\"../1941/09goz06.html\">\n御前会議、対米開戦を決意</a>　（「帝国国策遂行要領」決定）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/10/12　　<a href=\"../1941/10ogiku.html\">\n荻窪会談</a>　（<a href=\"../p/kfumimar.html\">近衛首相</a>、<a href=\"../p/thideki.html\">陸</a>・<a href=\"../p/okosiro.html\">海</a>・<a href=\"../p/tteijiro.html\">外相</a>と和戦について議論）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/10/16　　<a href=\"../1941/kono3_9.html\">\n近衛内閣③総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/10/17　　<a href=\"../1941/tojo_0.html\">\n東條英機に組閣命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/10/17　　<a href=\"../1941/10hakus.html\">\n白紙還元の御諚</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/10/18　　<a href=\"../1941/tojo_1.html\">\n東條内閣成立</a>　（首相：<a href=\"../p/thideki.html\">東條英機</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>七月十八日、内閣の決定さえ裏切って独走しがちな松岡の追い出しをねらった近衛内閣の改造が行なわれた。\n松岡の後任として外相に任命されたのは、海軍大将<a href=\"../p/tteijiro.html\">豊田貞次郎</a>だった。</div>\n<div><a href=\"../p/tteijiro.html\">豊田</a>は<a href=\"../p/nkicisab.html\">野村</a>と同じ和歌山県の出身で後輩だった。\n人柄は誠実で、日米衝突はできるだけ避けるべきだという考えを持っていた。\n海軍大将だから、ある程度陸軍を牽制することもできよう。\n<a href=\"../p/tteijiro.html\">豊田</a>―<a href=\"../p/nkicisab.html\">野村</a>のラインなら、日米交渉を続行させるために、最善のコンビになる。\nこうした諸条件を考えて、<a href=\"../p/kfumimar.html\">近衛</a>は<a href=\"../p/tteijiro.html\">豊田</a>を外相に登用したのだった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/yk_marik.html\">柳田邦男 「マリコ」</a>\n　Ｐ．８５</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n<br>「近衛内閣③」は「第３次近衛内閣」「第三次近衛文麿内閣」と同じ意味です。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1941.html\">１９４１年</a>\n ＞ <a href=\"#h\">近衛内閣③成立</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

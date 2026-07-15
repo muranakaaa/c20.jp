@@ -1,0 +1,253 @@
+{
+ "path": "1934/10rikup.html",
+ "type": "article",
+ "title": "陸軍パンフレット「国防の本義と其強化の提唱」発行　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "raw",
+   "tag": "a",
+   "attrs": {
+    "href": "http://watch.newcolors.jp/index.html",
+    "target": "_blank"
+   },
+   "html": "[PR]オリジナル腕時計制作　12個から製造可能　卒業記念などに[PR]"
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1934.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "陸軍パンフレット「国防の本義と其強化の提唱」発行"
+  },
+  {
+   "type": "title2",
+   "html": "1934/10/01"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1924.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1933.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1934.html\">１９３４</a> &gt;&gt;&gt; <a href=\"../20c/1935.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1944.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "陸軍が、陸軍による陸軍のための国防強化、総動員体制確立をパンフレットでＰ Ｒ。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/05/15　　<a href=\"../1932/05515ji.html\">\n五・一五事件</a>　（<a href=\"../p/ituyosi.html\">犬養首相</a>暗殺）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/03/28　　<a href=\"../1933/03datta.html\">\n日本、国際連盟脱退</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/05/31　　<a href=\"../1933/05tanku.html\">\n塘沽停戦協定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/06/17　　<a href=\"../1933/06gosto.html\">\nゴーストップ事件</a>　（大坂天六交差点）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/01/23　　<a href=\"../1934/01araki.html\">\n荒木陸相辞任</a>　（後任：<a href=\"../p/hsenjuro.html\">林銑十郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/10/01　　<a 1934=\"\" href\"..=\"\" 10rikup.html\"=\"\">\n陸軍パンフレット「国防の本義と其強化の提唱」発行</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/11/20　　<a href=\"../1934/11sikan.html\">\n士官学校事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/02/19　　<a href=\"../1935/02kikan.html\">\n天皇機関説問題</a>　（<a href=\"../p/ktakeo.html\">菊池武夫</a>、貴族院で天皇機関説を非難）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/07/15　　<a href=\"../1935/07masak.html\">\n真崎教育総監更迭</a>　（後任：「統制派」<a href=\"../p/wjotaro.html\">渡辺錠太郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/08/12　　<a href=\"../1935/08aizaw.html\">\n相沢事件</a>　（<a href=\"../p/ntetuzan.html\">永田軍務局長</a>斬殺）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/02/26　　<a href=\"../1936/02226ji.html\">\n二・二六事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/04/01　　<a href=\"../1938/04sodoi.html\">\n国家総動員法公布</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>省部の中堅幕僚層が目指したのは、言うまでもなく、総力戦を戦うための国家システム、\nいわゆる総動員体制の構築である。\nその概略は、一九三四（昭和九）年十月、陸軍省新聞班が公刊したパンフレット「国防の本義と其強化の提唱」に、\n簡潔に描かれている。</div>\n<div>このパンフレットは「たたかいは創造の父、文化の母」という戦争賛美の文言で悪名が高いが、\nその中心部分は次のような箇所である。</div>\n<div>須らく国家の全機構を、国際競争の見地より再検討し、財政に経済に、外交に政略に、\n将た国民教化に根本的の建て直しを断行し、皇国の有する偉大なる精神的、物質的潜勢を国防目的の為め組織統制して、\n之を一元的に運営し、最大限の現勢たらしむ。</div>\n<div>これが陸軍の言う「広義国防」であり、「高度国防国家」の在り方であった。</div>\n<div class=\"txr\"><a href=\"../text/tr_kin09.html\">戸部良一 「日本の近代（９）」</a>\n　Ｐ．２８０<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25AE%25E8%25BF%2591%25E4%25BB%25A3%25209%2520%25E9%2580%2586%25E8%25AA%25AC%25E3%2581%25AE%25E8%25BB%258D%25E9%259A%258A\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>十月一日には、軍部では陸軍省新聞班が、「国防の本義とその強化の提唱」というパンフレットを配布していた。\n「戦いは創造の父母」、「国家の逐進、原動力は軍部である」とその冒頭に謳いあげていたように、\nことごとく軍部中心、戦争謳歌の精神で貫かれていた。こと外交については、</div>\n<div>「現下の非常時局は、協調外交工作のみにおいて解消せしめるがごとき、\n派生的な事態ではなく・・・・・・運命的に実現した世界的非常時であり、満州事変と連盟脱退とを契機として、\n皇国に向かって与えられた光栄ある試煉の非常時である」と論じていた。</div>\n<div>これが問題になったために、<a href=\"../p/hsenjuro.html\">林銑十郎陸相</a>は、「正式に決定した主張ではない」と否定したものの、\nその否定はあくまで形式上のものであることは明らかであった。</div>\n<div class=\"txr\"><a href=\"../text/ti_yosid.html\">戸川猪佐武 「小説 吉田茂」</a>\n　Ｐ．７７<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%25B0%258F%25E8%25AA%25AC%25E5%2590%2589%25E7%2594%25B0%25E8%258C%2582%2520%2520%2520%2520%25E8%25A7%2592%25E5%25B7%259D%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>「国防」を中枢にすえて、\nこの強化のために全国民のあらゆる活力を国家的統制の下に動員していかねばならぬというのが、\nこのパンフレットの趣旨であり、陸軍の「復古－革新」派の宣言であった。</div>\n<div>このパンフレット作成の中心になったのは　【中略】　<a href=\"../p/isumihis.html\">池田純久少佐</a>\n（軍務局軍事課員で政策班長）と清水盛明少佐（新聞班員）であったらしい。\n<a href=\"../p/isumihis.html\">池田</a>によるとこのほか満井佐吉中佐（新聞班員）も参加し、\n「<a href=\"../p/ntetuzan.html\">永田軍務局長</a>の点検と承認を受け、陸軍省各局の同意を求め最後に陸軍大臣<a href=\"../p/hsenjuro.html\">林銑十郎大将</a>の決裁を受けた」という。</div>\n<div class=\"txr\"><a href=\"../text/it_konoe.html\">伊藤隆 「近衛新体制」</a>\n　Ｐ．５４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25BF%2591%25E8%25A1%259B%25E6%2596%25B0%25E4%25BD%2593%25E5%2588%25B6%25E2%2580%2595%25E5%25A4%25A7%25E6%2594%25BF%25E7%25BF%25BC%25E8%25B3%259B%25E4%25BC%259A%25E3%2581%25B8%25E3%2581%25AE%25E9%2581%2593%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1934.html\">１９３４年</a>\n ＞ <a href=\"#h\">陸軍パンフレット「国防の本義と其強化の提唱」発行</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

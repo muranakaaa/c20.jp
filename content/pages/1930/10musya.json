@@ -1,0 +1,123 @@
+{
+ "path": "1930/10musya.html",
+ "type": "article",
+ "title": "霧社事件　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1930.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "霧社事件"
+  },
+  {
+   "type": "title2",
+   "html": "1930/10/27"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1920.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1929.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1930.html\">１９３０</a> &gt;&gt;&gt; <a href=\"../20c/1931.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1940.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "しいたげられてきた高砂族暴発。　日本人の集まる運動会が血の海に。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1930/10/27　　<a 1930=\"\" href\"..=\"\" 10musya.html\"=\"\">\n霧社事件</a>　（台湾）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>日本植民地時代の台湾において、なによりも日本人に衝撃をあたえたのは霧社事件であった。\nこれはマライ系高砂族によってひきおこされた日本人虐殺事件で、一九三〇（昭和五）年十月二十七日、\n霧社地域のマヘボ社の頭目モーナルダオによって指導されたものである。\n霧社公学校における運動会に集まっていた日本人に対してモーナルダオは奇襲をかけ、\n二二七名の日本人中、死者一四三、重傷八（のち二名死す）、軽傷十二におよんだ。\nこれに対し、日本側は二千余名の軍隊と武装警官を動員、飛行機、山砲、機関銃、催涙ガスを使ってこれを追撃包囲し、\n十一月二日ほとんど鎮定した。\nモーナルダオは密林の奥深く自殺した。</div>\n<div>蜂起したのは六蕃社、千余名で、そのうち死者は六八五、降服五五一ということであるが、\n死者のうち半数は他の高砂族によって殺されている。\nこの事件は組織的な民族主義運動といったようなものではなく、むしろ義務出役労働の過酷さ、\n賃金の差別待遇に加えるに官憲の圧制からおこった暴発的なものであったが、その影響は大きく、その犠牲の大きさで名だかい。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/mo_sek15.html\">村瀬興雄 「世界の歴史（15）」</a>\n　Ｐ．４６８</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1930.html\">１９３０年</a>\n ＞ <a href=\"#h\">霧社事件</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

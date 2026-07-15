@@ -1,0 +1,267 @@
+{
+ "path": "1916/tera_1~.html",
+ "type": "detail",
+ "title": "[詳細] 寺内内閣成立　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../c.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1916.html\">年表</a> ＞ <a href=\"tera_1.html\">事項</a> ＞ <span class=\"now\">詳細</span>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "[詳細] 寺内内閣成立"
+  },
+  {
+   "type": "title2",
+   "html": "1916/10/09"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1906.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1915.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1916.html\">１９１６</a> &gt;&gt;&gt; <a href=\"../20c/1917.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1926.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "ひさびさ<a href=\"../p/yaritomo.html\">山県</a>直系の陸軍長州閥から、<a href=\"../p/tmasatak.html\">寺内正毅元帥</a> 登場。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"tera_1.html\">[事項]</a></td><td class=\"lt\"><a href=\"../them/j_gov02.html#s4\">【内閣成立史】</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "cl"
+   },
+   "html": "\n<tbody><tr><td class=\"cl\">内閣総理大臣</td><td class=\"cl\"><a href=\"../p/tmasatak.html\">寺内正毅</a></td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">外務大臣</td><td class=\"cl\"><a href=\"../p/tmasatak.html\">（寺内正毅）</a></td><td class=\"cl\">本野一郎</td><td class=\"cl\"><a href=\"../p/gsinpei.html\">後藤新平</a></td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1916.11.21</td><td class=\"cl\">～1918.04.23</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">内務大臣</td><td class=\"cl\"><a href=\"../p/gsinpei.html\">後藤新平</a></td><td class=\"cl\">水野錬太郎</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1918.04.23</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">大蔵大臣</td><td class=\"cl\"><a href=\"../p/tmasatak.html\">（寺内正毅）</a></td><td class=\"cl\">勝田主計</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">　</td><td class=\"cl\">～1916.12.16</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">陸軍大臣</td><td class=\"cl\">大島健一</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">海軍大臣</td><td class=\"cl\"><a href=\"../p/ktomosab.html\">加藤友三郎</a></td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">司法大臣</td><td class=\"cl\">松室致</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">文部大臣</td><td class=\"cl\">岡田良平</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">農商務大臣</td><td class=\"cl\">仲小路廉</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">逓信大臣</td><td class=\"cl\">田健治郎</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">内閣書記官長</td><td class=\"cl\">児玉秀雄</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n<tr><td class=\"cl\">法制局長官</td><td class=\"cl\">有松英義</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td><td class=\"cl\">　</td></tr>\n</tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/10/04　　<a href\"..=\"\" 19.html\"=\"\">\n大隈首相、辞意表明　（後継首相に加藤高明を推薦）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/10/04　　<a href\"..=\"\" 19.html\"=\"\">\n元老会議、後継首相に寺内正毅を推薦　（寺内に組閣命令）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/10/05　　<a href=\"../1916/okum2_9.html\">\n大隈内閣②総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/10/09　　<a 1916=\"\" href\"..=\"\" tera_1.html\"=\"\">\n寺内内閣成立</a>　（首相：<a href=\"../p/tmasatak.html\">寺内正毅</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/10/10　　<a href=\"../1916/10kense.html\">\n憲政会結成</a>　（立憲同志会など３党合同／総裁：<a href=\"../p/ktakaaki.html\">加藤高明</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1917/01/20　　<a href=\"../1917/01nisih.html\">\n西原借款開始</a>　（段祺瑞政権支援）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1917/04/06　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ、対独参戦</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1917/11/02　　<a href=\"../1917/11isiil.html\">\n石井・ランシング協定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1917/11/07　　<a href=\"../1917/1110kak.html\">\n十月革命</a>　（ソビエト政権成立）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/07/08　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ、チェコ軍救援のためウラジオストック日米共同出兵を提案</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/07/17　　<a href\"..=\"\" 19.html\"=\"\">\n政府、ウラジオストック出兵同意をアメリカに回答　（兵力制限は拒否）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/07/23　　<a href\"..=\"\" 19.html\"=\"\">\n米騒動　（富山県下新川郡魚津町）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/07/31　　<a href\"..=\"\" 19.html\"=\"\">\n東京米穀取引所立会停止　（米価大暴騰のため）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/08/02　　<a href=\"../1918/08siber.html\">\nシベリア出兵宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/08/03　　<a href=\"../1918/08komes.html\">\n米騒動　（富山県中新川郡西水橋町→全国に波及）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/09/21　　<a href=\"../1918/tera_9.html\">\n寺内内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/09/29　　<a href=\"../1918/hara_1.html\">\n原内閣成立</a>　（首相：<a href=\"../p/htakasi.html\">原敬</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div>ああああああああああああああああ</div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n<br>「寺内内閣」は「寺内正毅内閣」と同じ意味です。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1916.html\">１９１６年</a>\n ＞ <a href=\"tera_1.html\">寺内内閣成立</a>\n ＞ <a href=\"#h\">[詳細] 寺内内閣成立</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

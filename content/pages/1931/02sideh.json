@@ -1,0 +1,222 @@
+{
+ "path": "1931/02sideh.html",
+ "type": "article",
+ "title": "幣原首相代理失言　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1931.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "幣原首相代理失言"
+  },
+  {
+   "type": "title2",
+   "html": "1931/02/03"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1921.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1930.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1931.html\">１９３１</a> &gt;&gt;&gt; <a href=\"../20c/1932.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1941.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"../p/stenno.html\">天皇</a>の責任にした？　そうとも聞こえる<a href=\"../p/skijuro.html\">幣原</a>答弁をきっかけに、国会内で与野党大乱闘。　大顰蹙。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1929/07/02　　<a href=\"../1929/hama_1.html\">\n浜口内閣成立</a>　（首相：<a href=\"../p/hosaci.html\">浜口雄幸</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1929/10/24　　<a href=\"../1929/10walls.html\">\n米・ウォール街、株価大暴落</a>　（→世界恐慌）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1930/01/11　　<a href=\"../1930/01kinka.html\">\n金解禁</a>　（蔵相：<a href=\"../p/ijunnosu.html\">井上準之助</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1930/04/22　　<a href=\"../1930/04londo.html\">\nロンドン海軍軍縮条約調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1930/04/25　　<a href=\"../1930/04tosui.html\">\n統帥権干犯問題</a>　（<a href=\"../p/ituyosi.html\">犬養毅</a>、<a href=\"../p/hiciro.html\">鳩山一郎</a>が追及）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1930/11/14　　<a href=\"../1930/11hamax.html\">\n浜口首相狙撃事件</a>　（東京駅／犯人：佐郷屋留雄）"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/02/03　　<a 1931=\"\" href\"..=\"\" 02sideh.html\"=\"\">\n幣原首相代理失言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/03/09　　<a href\"..=\"\" 19.html\"=\"\">\n幣原首相代理解任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/03/10　　<a href=\"../1931/03hamat.html\">\n浜口首相登院</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/03/17　　<a href=\"../1931/033gatu.html\">\n三月事件</a>　（陸軍によるクーデター未遂）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/04/13　　<a href=\"../1931/hama_9.html\">\n浜口内閣総辞職</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>昭和六年春の議会は、<a href=\"../1930/04londo.html\">ロンドン条約</a>批准問題をめぐっての喧噪に明け暮れした。\n野党の質問に窮した<a href=\"../p/skijuro.html\">幣原（喜重郎）外相</a>は、</div>\n<div>「<a href=\"../1930/04londo.html\">この条約</a>は、すでに<a href=\"../p/stenno.html\">天皇陛下</a>が御批准になっているのをみても、その正当性が分るのでございます」</div>\n<div>と答弁した。</div>\n<div>この失言で議会は混乱した。\n野党は<a href=\"../p/skijuro.html\">幣原</a>の言がいわゆる袞竜の袖にかくれて責任を回避するものとして追及した。\n騒ぎは大きくなり、議会は停会となった。</div>\n<div class=\"txr\"><a href=\"../text/ms4syowa.html\">松本清張 「昭和史発掘（４）」</a>\n　Ｐ．１０９<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167106345%2Fqid%3D1147086434%2Fsr%3D1-13%2Fref%3Dsr_1_0_13\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>昭和六年（一九三一年）二月三日、\n衆議院予算委員会において、<a href=\"../p/skijuro.html\">幣原首相代理</a>が、ロンドン条約批准に関する野党代議士（<a href=\"../p/ncikuhei.html\">中島知久平</a>）の質問に対して、\n「天皇の承認を得ている条約であるから不安はない」という意味の答弁したことから、\n「天皇に責任を押しつける内閣最高責任者の責任回避」として、収拾困難なほどの混乱を招き、異常事態となった。</div>\n<div class=\"txr\"><a href=\"../text/mk_gunji.html\">升本喜年 「軍人の最期」</a>\n　Ｐ．１２１<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25BB%258D%25E4%25BA%25BA%25E3%2581%25AE%25E6%259C%2580%25E6%259C%259F%25E2%2580%2595%25E6%2594%25BF%25E6%25B2%25BB%25E7%259A%2584%25E5%25B0%2586%25E8%25BB%258D%25E3%2581%25AE%25E7%2594%259F%25E3%2581%258D%25E3%2581%2596%25E3%2581%25BE%25E3%2581%25A8%25E3%2581%259D%25E3%2581%25AE%25E6%25AD%25BB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1931.html\">１９３１年</a>\n ＞ <a href=\"#h\">幣原首相代理失言</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

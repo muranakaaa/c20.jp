@@ -1,0 +1,199 @@
+{
+ "path": "1947/11pales.html",
+ "type": "article",
+ "title": "国連総会、パレスチナ分割案を採択　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1947.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "国連総会、パレスチナ分割案を採択"
+  },
+  {
+   "type": "title2",
+   "html": "1947/11/29"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1937.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1946.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1947.html\">１９４７</a> &gt;&gt;&gt; <a href=\"../20c/1948.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "こんなので大丈夫？　誰が見てもユダヤびいきのパレスチナ分割案を国連総会が採択。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/05/15　　<a href=\"../1947/05pales.html\">\n国連・パレスチナ調査委員会成立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/11/29　　<a 1947=\"\" href\"..=\"\" 11pales.html\"=\"\">\n国連総会、パレスチナ分割案を採択</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/12/17　　<a href\"..=\"\" 19.html\"=\"\">\nアラブ連盟、パレスチナ分割を武力で阻止すると声明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/05/14　　<a href=\"../1948/05israe.html\">\nイスラエル、建国宣言</a>　（テルアビブ）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/05/16　　<a href\"..=\"\" 19.html\"=\"\">\n米ソ、イスラエルを承認</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/05/16　　<a href=\"../1948/05cyut1.html\">\n中東戦争①勃発</a>　（アラブ諸国、イスラエル攻撃開始）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/02/24　　<a href\"..=\"\" 19.html\"=\"\">\nイスラエル・エジプト、休戦協定調印</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>さて１９４５年に戦争は終わりました。\nするとイギリスは、「パレスチナ問題に関する解決能力はなし」と自ら認めて、ゲタを国際連合に預けてしまうのです。\n１９４７年、その国連はパレスチナ分割案を提示します。\nその分割案を見たときに、みんなはびっくりしました。\nそれは、明らかにユダヤの側に有利なものだったからです。\nすなわちユダヤ人にあてられた場所は、水資源があって農耕などに向いている場所だったのに対し、\n長年このへんに住んできたパレスチナ人には、ほとんど砂漠に近い領域しか認められなかったのでした。\n国際連合はユダヤ人の肩を持っちゃったんですね。</div>\n<div>そしてそこにはアメリカの強烈な後押しがあったのです。\nとくに大統領<a href=\"../p/truman_h.html\">トルーマン</a>の意図が強く働いていました。</div>\n<div>マスコミの連中が<a href=\"../p/truman_h.html\">トルーマン</a>に聞きました。\n「なんであなたはそんなにユダヤの肩ばかり持つんですか？」。<a href=\"../p/truman_h.html\">トルーマン</a>はこともなげにこう言ったそうです。</div>\n<div>「だって君、アラブの肩を持ったって、票にはならんだろうが」。</div>\n<div>そうですね、これは１９４７年の話。\n翌年の１９４８年には大統領選挙が待っています。\n選挙に勝つためには何が必要か。\nいろいろありますけれども、絶対になくてはならないのが、アメリカに住んでいるユダヤ系アメリカ人の支持なのです。\n当時のアメリカには、約６００万人のユダヤ系アメリカ人がいました。\n人口比でいうと３％未満のマイノリティーに過ぎないのですが、このユダヤ系アメリカ人には、\n政界・財界・マスコミ、あるいは学界で活躍している人たちがたくさんいました。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ah_cisik.html\">青木裕司 「知識ゼロからの現代史入門」</a>\n　Ｐ．１８７</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>一九四七年一一月、国連総会において、パレスチナを「ユダヤ人国家」と「アラブ人国家」に分けてそれぞれ独立させる、\nパレスチナ分割決議案が可決された。\nこの決議案は、当時パレスチナの土地の六パーセントしか所有していなかったユダヤ人に国土の五六パーセントを与えるものであったが、\nシオニストはこれにも満足せず、四八年五月イギリスの委任統治が終わると同時に、\n国境を明示しないまま<a href=\"../1948/05israe.html\">イスラエル国家の樹立を宣言</a>した。\n周辺のアラブ諸国はこれに抗議してただちに攻撃を始めたが、この<a href=\"../1948/05cyut1.html\">第一次中東戦争</a>でイスラエルは定められた「ユダヤ人国家」の\n一・五倍の面積をもつ領域を占領し、勝利をおさめ、現地住民からの組織的な土地の収奪をただちに始めた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kh_20sek.html\">木村英亮 「二〇世紀の世界史」</a>\n　Ｐ．１６５</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1947.html\">１９４７年</a>\n ＞ <a href=\"#h\">国連総会、パレスチナ分割案を採択</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

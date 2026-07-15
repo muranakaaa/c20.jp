@@ -1,0 +1,370 @@
+{
+ "path": "20c/1908.html",
+ "type": "year",
+ "title": "１９０８年　／ クリック ２０世紀",
+ "description": null,
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a href=\"#f\">▽▽▽</a><a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９０８年"
+  },
+  {
+   "type": "title2",
+   "html": "明治４１年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n１０年前 &gt;&gt;&gt; <a href=\"1907.html\">前年</a> &gt;&gt;&gt; <span class=\"now\">１９０８</span> &gt;&gt;&gt; <a href=\"1909.html\">翌年</a> &gt;&gt;&gt; <a href=\"1918.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "ポルカダンス　　出歯亀　　浮華軽佻",
+    "<a href=\"../1906/saio1_1.html\">西園寺①</a> → <a href=\"../1908/katu2_1.html\">桂内閣②</a>"
+   ]
+  },
+  {
+   "type": "edit_bar",
+   "kind": "e_data",
+   "html": "リンク情報（2003/00/00）＝削除：０件（.html）"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"1907.html#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1908/01/25　　<a href\"..=\"\" 19.html\"=\"\">\n外務省、ハワイ移民停止を通達</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1908/03/05　　<a href=\"../1908/03suehi.html\">\n末弘ヒロ子、「ヘラルド・トリビューン」主催の世界美人投票に選出</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1908/03/07　　<a href\"..=\"\" 19.html\"=\"\">\n青函連絡船運航開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1908/03/18　　<a href\"..=\"\" 19.html\"=\"\">\n世界一周会（朝日新聞社主催）参加者、横浜を出発</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1908/03/22　　<a href=\"../1908/03debag.html\">\n出歯亀事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1908/03/24　　<a href=\"../1908/03baien.html\">\n森田草平・平塚らいてう心中未遂　（煤煙事件）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1908/04/28　　<a href\"..=\"\" 19.html\"=\"\">\n初のブラジル移民出発　（783人）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1908/05/15　　<a href\"..=\"\" 19.html\"=\"\">\n総選挙[10]　（政友会187、憲政本党70、大同倶楽部29、猶興会29）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1908/06/22　　<a href=\"../1908/06sekki.html\">\n赤旗事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1908/06/23　　<a href\"..=\"\" 19.html\"=\"\">\n国木田独歩没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1908/06/25　　<a href=\"../1908/06haraj.html\">\n原内相、社会主義者取締の現状を上奏</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1908/06/27　　<a href=\"../1908/saio1_8.html\">\n西園寺首相、原・松田に辞意を表明</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1908/07/04　　<a href=\"../1908/saio1_9.html\">\n西園寺内閣①総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1908/07/14　　<a href=\"../1908/katu2_1.html\">\n桂内閣②成立</a>　（首相：<a href=\"../p/ktaro.html\">桂太郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1908/07/24　　<a href\"..=\"\" 19.html\"=\"\">\n青年トルコ党の革命</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1908/08/01　　<a href\"..=\"\" 19.html\"=\"\">\n国産自動車完成記念の遠乗り会開催</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1908/09/01　　<a href\"..=\"\" 19.html\"=\"\">\n</a><a href=\"../p/nsoseki.html\">夏目漱石</a>「三四郎」連載開始　（朝日新聞）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1908/09/15　　<a href=\"../1908/09joyuy.html\">\n川上貞奴、帝国女優養成所設立</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"1909.html#s1\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1908/10/06　　<a href\"..=\"\" 19.html\"=\"\">\nオーストリア、ボスニア・ヘルツェゴビナ併合を宣言　（ボスニア危機）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1908/10/13　　<a href=\"../1908/10bosin.html\">\n戊申詔書</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1908/10/28　　<a href\"..=\"\" 19.html\"=\"\">\nデイリー・テレグラフ事件　（英・独）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1908/11/14　　<a href\"..=\"\" 19.html\"=\"\">\n光緒帝没　（清国皇帝）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1908/11/15　　<a href\"..=\"\" 19.html\"=\"\">\n西太后没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1908/11/30　　<a href\"..=\"\" 19.html\"=\"\">\n高平・ルート協定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1908/12/02　　<a href\"..=\"\" 19.html\"=\"\">\n宣統帝即位</a>　（＝<a href=\"../p/fugi.html\">溥儀</a>／３歳）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1908/12/07　　<a href\"..=\"\" 19.html\"=\"\">\n内閣、公文書にインクの使用を許可</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1906/saio1_1.html\">西園寺①</a> → <a href=\"../1908/katu2_1.html\">桂内閣②</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">ポルカダンス　　出歯亀　　浮華軽佻</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「婦系図」　「蒲団」　「平凡」　「高野聖」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">「曾我兄弟狩場の曙」</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">―</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">あきらめ節</td></tr>\n</tbody>"
+  },
+  {
+   "type": "fnavi",
+   "html": "<a name=\"f\"></a>\n<a href=\"../index.html\">目次</a>\n ＞ <a href=\"#h\">１９０８年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

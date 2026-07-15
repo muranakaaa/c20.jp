@@ -1,0 +1,350 @@
+{
+ "path": "20c/1907.html",
+ "type": "year",
+ "title": "１９０７年　／ クリック ２０世紀",
+ "description": null,
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a href=\"#f\">▽▽▽</a><a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９０７年"
+  },
+  {
+   "type": "title2",
+   "html": "明治４０年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n１０年前 &gt;&gt;&gt; <a href=\"1906.html\">前年</a> &gt;&gt;&gt; <span class=\"now\">１９０７</span> &gt;&gt;&gt; <a href=\"1908.html\">翌年</a> &gt;&gt;&gt; <a href=\"1917.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "自然主義　　美顔術",
+    "<a href=\"../1906/saio1_1.html\">西園寺内閣①</a>"
+   ]
+  },
+  {
+   "type": "edit_bar",
+   "kind": "e_data",
+   "html": "リンク情報（2003/00/00）＝削除：０件（.html）"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"1906.html#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1907/01/20　　<a href\"..=\"\" 19.html\"=\"\">\n大隈重信、憲政本党総理引退を声明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1907/01/21　　<a href\"..=\"\" 19.html\"=\"\">\n東京株式相場暴落　（→恐慌）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1907/01/31　　<a href\"..=\"\" 19.html\"=\"\">\n乃木希典、学習院長就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1907/02/06　　<a href=\"../1907/02asiod.html\">\n足尾銅山大暴動</a>　（～02/07）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1907/02/09　　<a href\"..=\"\" 19.html\"=\"\">\n豊田式織機㈱設立　（取締役：豊田佐吉）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1907/02/12　　<a href=\"../1907/02seiga.html\">\n管野スガら、治安警察法第５条改正を請願</a>　（03/27 貴族院否決）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1907/02/17　　<a href\"..=\"\" 19.html\"=\"\">\n日本社会党党大会②　（議会政策派と直接行動派が対立）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1907/02/23　　<a href\"..=\"\" 19.html\"=\"\">\n麒麟麦酒㈱設立</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1907/04/02　　<a href\"..=\"\" 19.html\"=\"\">\n夏目漱石、朝日新聞社入社　（東京帝大講師など退職）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1907/04/23　　<a href\"..=\"\" 19.html\"=\"\">\n満鉄調査部設置</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1907/05/22　　<a href\"..=\"\" 19.html\"=\"\">\n中国革命同盟会、広東省黄崗で蜂起　（～05/27）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1907/06/02　　<a href\"..=\"\" 19.html\"=\"\">\n中国革命同盟会、広東省恵州で蜂起　（～06/12）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1907/07/03　　<a href=\"../1907/07missi.html\">\n伊藤統監、韓国皇帝にハーグ密使事件を追及</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1907/07/19　　<a href=\"../1907/07joisy.html\">\n韓国皇帝、譲位の詔勅を発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1907/07/24　　<a href=\"../1907/07jk_k3.html\">\n日韓協約③調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1907/07/30　　<a href=\"../1907/07jr_k1.html\">\n日露協約①調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1907/08/01　　<a href=\"../1907/08gunka.html\">\n韓国軍解散式</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1907/08/31　　<a href\"..=\"\" 19.html\"=\"\">\n英露協商調印　（三国協商成立）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1907/09/01　　<a href\"..=\"\" 19.html\"=\"\">\n中国革命同盟会、広東省欽州・廉州で蜂起　（～09/17）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"1908.html#s1\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1907/10/19　　<a href\"..=\"\" 19.html\"=\"\">\n箕面有馬電気軌道㈱設立　（→阪急電鉄）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1907/10/31　　<a href\"..=\"\" 19.html\"=\"\">\n日米蓄音器製造㈱設立　（→日本コロンビア）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1907/11/16　　<a href\"..=\"\" 19.html\"=\"\">\n駐日（米）大使、さらに厳重な労働者渡航制限を要請</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1907/11/30　　<a href\"..=\"\" 19.html\"=\"\">\n中国革命同盟会、広西省鎮南関で蜂起　（～12/08）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1907/12/27　　<a href\"..=\"\" 19.html\"=\"\">\n山県逓相と阪谷蔵相、鉄道予算問題で対立　（08/01/14 両相辞任）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1906/saio1_1.html\">西園寺内閣①</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">自然主義　　美顔術</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「紅塵」　「うた日記」　「文学論」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">「両国国技館大相撲」</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">―</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">デカンショ節</td></tr>\n</tbody>"
+  },
+  {
+   "type": "fnavi",
+   "html": "<a name=\"f\"></a>\n<a href=\"../index.html\">目次</a>\n ＞ <a href=\"#h\">１９０７年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

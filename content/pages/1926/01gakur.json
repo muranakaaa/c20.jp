@@ -1,0 +1,223 @@
+{
+ "path": "1926/01gakur.html",
+ "type": "article",
+ "title": "京都学連事件　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1926.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "京都学連事件"
+  },
+  {
+   "type": "title2",
+   "html": "1926/01/15"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1916.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1925.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1926.html\">１９２６</a> &gt;&gt;&gt; <a href=\"../20c/1927.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1936.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"../1925/katob_4.html\">加藤（高）内閣</a>最後の大仕事は、出来立て治安維持法での「学問の自由」大弾圧だった。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/04/13　　<a href\"..=\"\" 19.html\"=\"\">\n陸軍現役将校学校配属令公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/04/22　　<a href=\"../1925/04ciani.html\">\n治安維持法公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/05/05　　<a href=\"../1925/05fusen.html\">\n普通選挙法公布</a>　（男子普通選挙）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/12/01　　<a href=\"../1925/12gakur.html\">\n京都府警、京大寄宿舎などを一斉家宅捜索</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/01/15　　<a 1926=\"\" href\"..=\"\" 01gakur.html\"=\"\">\n京都学連事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/03/05　　<a href\"..=\"\" 19.html\"=\"\">\n労働農民党結成</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1928/02/20　　<a href\"..=\"\" 19.html\"=\"\">\n総選挙[16]　（政友会217、民政党216、無産諸派8、他25）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1928/03/15　　<a href=\"../1928/03315ji.html\">\n三・一五事件</a>　（共産党関係者一斉検挙）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1928/06/29　　<a href=\"../1928/06ciani.html\">\n治安維持法改正①</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1929/03/05　　<a href=\"../1929/03ciani.html\">\n衆議院、治安維持法改正緊急勅令を事後承認</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1929/03/05　　<a href=\"../1929/03yamas.html\">\n山本宣治（衆議院議員）刺殺事件</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>一五日午前三時、京都市内の全刑事が川端、中立売署に召集され、六時活動を開始した。\n七時半までに京大社研の淡徳三郎（大学院）、岩田義道（経三）、石田英一郎、熊谷孝雄（経二）、栗原佑、太田遼一郎、\n泉隆、白谷忠三、黒田久太（経一）、山崎雄次（法三）、橋本省三（法二）の一二名と同志社社研内海洋一（経一）、\n大浦梅夫（高商三）の合計一四名を検挙し、同時に京大教授河上肇、同志社大講師河野密、<a href=\"../p/ysenji.html\">山本宣治</a>の私宅、\n農民組合事務所、京都地方評議会事務所をはじめ評議会の国領伍一郎、辻井民之助、半谷玉三、奥村甚之助、谷口善太郎、\n農民組合の森英吉、京大助手（新人会員）杉野忠夫などの私宅が一斉に家宅捜索をうけた。\n兵庫県でも関西学院大教授河上丈太郎、松沢兼人、新明正道などの私宅など十数ヵ所が家宅捜索をうけた。\n同じ一五日東京では村尾薩男（東大文三）、清水平九郎（明治学院）、広谷賀真（慶応）が検挙され、\n一八日には京都で鈴木安蔵（京大経一）が追加された。\nそして不敬罪にもとわれている石田を除く一七名は一月二六日出版法違反ならびに<a href=\"../1925/04ciani.html\">治安維持法</a>違反で起訴、予審に付せられた。</div>\n<div>しかし検挙はこれで終らず一月二七日午後から第二次検挙が開始され、\n同日夕刻までに京大社研逸見重雄（経三）、鷲谷武二（文二）、古賀二雄（法一）、藤井米三（経卒）、\n同志社社研宮崎菊二、沢田政雄（経一）のほか小崎正潔（関西学院）、蓬台恒治（神戸高商）の八名、\n翌二八日には黒川健三、原田耕（大阪外語）の二名が検挙された。\nその後検挙は四月中旬まで続き、その間に京都社研では武藤丸楠（経一）、池田隆（医二）、大橋積（経卒）、\n東大新人会では是枝恭二（文二）、松本篤一（文二）、後藤寿夫（法三）、その他に実川清文（日本大）、\n秋笹政之輔（早稲田高等学院）、野呂栄太郎（慶応卒）、上村正夫（京都無産者教育協会書記）が検挙された。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/st2yamas.html\">佐々木敏二 「山本宣治（下）」</a>\n　Ｐ．８７</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1926.html\">１９２６年</a>\n ＞ <a href=\"#h\">京都学連事件</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

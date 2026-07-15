@@ -1,0 +1,183 @@
+{
+ "path": "1900/ito4_1.html",
+ "type": "article",
+ "title": "伊藤内閣④成立　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href\"..=\"\" 20c=\"\" 1900.html\"=\"\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href=\"ito4_1~.html\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "伊藤内閣④成立"
+  },
+  {
+   "type": "title2",
+   "html": "1900/10/19"
+  },
+  {
+   "type": "navi2",
+   "html": "\n１０年前 &gt;&gt;&gt; 前年 &gt;&gt;&gt; <a href\"..=\"\" 20c=\"\" 1900.html\"=\"\">１９００</a> &gt;&gt;&gt; <a href=\"../20c/1901.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1910.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"../p/yaritomo.html\">山県</a>が火中の栗をパス。　それをキャッチした<a href=\"../p/ihirobum.html\">伊藤</a>、ほやほや政友会を背負って４度目の組閣。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"ito4_1~.html\">[詳細]</a></td><td class=\"lt\"><a href=\"../them/j_gov01.html#s1\">【内閣成立史】</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1900/09/15　　<a href=\"../1900/09seiyu.html\">\n政友会結成</a>　（総裁：<a href=\"../p/ihirobum.html\">伊藤博文</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1900/09/26　　<a href\"..=\"\" 19.html\"=\"\">\n山県内閣②総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1900/10/19　　<a 1900=\"\" href\"..=\"\" ito4_1.html\"=\"\">\n伊藤内閣④成立</a>　（首相：<a href=\"../p/ihirobum.html\">伊藤博文</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/02/05　　<a href=\"../1901/02yahat.html\">\n八幡製鉄所操業開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/05/02　　<a href\"..=\"\" 19.html\"=\"\">\n伊藤首相、閣内不統一で辞表提出　（首相代理：</a><a href=\"../p/skinmoci.html\">西園寺公望</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/05/03　　<a href=\"../1901/ito4_9.html\">\n伊藤内閣④総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/06/02　　<a href=\"../1901/katu1_1.html\">\n桂内閣①成立</a>　（首相：<a href=\"../p/ktaro.html\">桂太郎</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>予想通り三十三年九月二十六日<a href=\"../p/yaritomo.html\">山県</a>は<a href=\"../p/ihirobum.html\">伊藤</a>を困惑せしむる為早期に内閣を投げ出し、\n十月十九日<a href=\"../p/ihirobum.html\">伊藤</a>が第四次内閣を組織した。\nメンバーは外務・<a href=\"../p/ktakaaki.html\">加藤高明</a>（岩崎弥太郎の女婿）、内務・末松謙澄、大蔵・渡辺国武、陸軍・<a href=\"../p/ktaro.html\">桂太郎</a>、\n海軍・<a href=\"../p/ygonnohy.html\">山本権兵衛</a>、司法・<a href=\"../p/kkentaro.html\">金子堅太郎</a>、文部・<a href=\"../p/mmasahis.html\">松田正久</a>、農商務・林有造、逓信・<a href=\"../p/htooru.html\">星亨</a>で<a href=\"../p/skinmoci.html\">西園寺</a>は班列といって国務大臣扱いでポストがない。\n伊藤政友会の御曹子ともいうべき侯爵の扱いがおかしいではないかと、一族の者が眼をこすっていると伊藤から呼び出しがかかった。\n首相官邸にゆくと、</div>\n<div>「あんた、総理をやってくれんか」</div>\n<div>という話である。</div>\n<div>「え？　こちが？・・・・・・」</div>\n<div>と<a href=\"../p/skinmoci.html\">西園寺</a>は思わず自宅での口癖を出した。</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>はにやりとした。\n義太夫では芸者が愛人のことを「ちょいとこちの人」と呼びことがある。</div>\n<div>「いやあ、代理でいいんだ。しばらくやってもらいたい」</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>はそう言ってビスマルクもどきに葉巻をふかした。\nこの頃ではビスマルクよりも偉いと思っているようである。</div>\n<div>「しかし、私は前歴が（文部大臣と外務大臣をやった位で内務、大蔵などの重要なポストがない）・・・・・・」</div>\n<div>と<a href=\"../p/skinmoci.html\">西園寺</a>が言いかけると、</div>\n<div>「<a href=\"../p/skinmoci.html\">西園寺さん</a>、経歴などは自然に出来るもんだ。\nあんたには私の後を継いでもらわにゃならん、総理も場数を踏んでおいた方がええ」</div>\n<div>そう言って<a href=\"../p/ihirobum.html\">伊藤</a>は微笑した。</div>\n<div>「しかし、<a href=\"../p/ihirobum.html\">伊藤さん</a>がなったばかりで代理を立てるのでは、理由が立たないでしょう」</div>\n<div>「わしは病気じゃよ」</div>\n<div>「え？」</div>\n<div><a href=\"../p/skinmoci.html\">西園寺</a>は驚いて<a href=\"../p/ihirobum.html\">伊藤</a>の顔を見た。どこも悪くはなさそうである。</div>\n<div>「わしは演説のやりすぎでのどが痛い。\nしばらく静養して政友会の名簿でも整理するとしよう」</div>\n<div>このようなわけで<a href=\"../p/skinmoci.html\">西園寺</a>は十月二十七日から十二月十二日まで総理大臣臨時代理を命じられた。\n<a href=\"../p/ihirobum.html\">伊藤</a>はこの頃のどを傷めていたというが、実のところは<a href=\"../p/skinmoci.html\">西園寺</a>に総理の予習をやらせて、自分は政友会の人材集めを行い、\n眼を細めながら二代目の練習ぶりを眺めていよう、というあたりが本音だったようである。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm_saion.html\">豊田穣 「西園寺公望」</a>\n　上巻　Ｐ．２９６</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n<br>「伊藤内閣④」は「第４次伊藤内閣」「第四次伊藤博文内閣」と同じ意味です。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href\"..=\"\" 20c=\"\" 1900.html\"=\"\">１９００年</a>\n ＞ <a href=\"#h\">伊藤内閣④成立</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

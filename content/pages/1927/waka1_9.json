@@ -1,0 +1,293 @@
+{
+ "path": "1927/waka1_9.html",
+ "type": "article",
+ "title": "若槻内閣①総辞職　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1927.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "若槻内閣①総辞職"
+  },
+  {
+   "type": "title2",
+   "html": "1927/04/17"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1917.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1926.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1927.html\">１９２７</a> &gt;&gt;&gt; <a href=\"../20c/1928.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1937.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "リリーフ<a href=\"../p/wreijiro.html\">若槻</a>火だるま。　昭和５ヵ月で政治も経済もぼろぼろの内閣総辞職。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/01/28　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/ktakaaki.html\">\n加藤高明</a>没　（首相）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/01/28　　<a href=\"../1926/katob_9.html\">\n加藤（高）内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/01/30　　<a href=\"../1926/waka1_1.html\">\n若槻内閣①成立</a>　（首相：<a href=\"../p/wreijiro.html\">若槻礼次郎</a>／全閣僚留任）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/02/28　　<a href=\"../1926/02matus.html\">\n松嶋遊郭疑獄事件発覚</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/03/04　　<a href=\"../1926/03kimit.html\">\n中野正剛、陸軍機密費横領問題で田中総裁（政友会）を追及</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/05/20　　<a href\"..=\"\" 19.html\"=\"\">\n若槻首相、床次総裁（政友本党）に連立を要請　（05/26 拒否）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/07/29　　<a href=\"../1926/07pakre.html\">\n朴烈怪写真事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/11/07　　<a href\"..=\"\" 19.html\"=\"\">\n若槻首相、松嶋遊郭疑獄事件で証人として取調べを受ける</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/11/09　　<a href\"..=\"\" 19.html\"=\"\">\n箕浦勝人、若槻首相を偽証罪で告発</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/12/21　　<a href\"..=\"\" 19.html\"=\"\">\n政友会・政友本党、提携成立　（</a><a href=\"../p/gsinpei.html\">後藤新平</a>の斡旋）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/12/25　　<a href=\"../1926/12thogy.html\">\n大正天皇崩御　（昭和天皇即位）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/01/20　　<a href\"..=\"\" 19.html\"=\"\">\n与野党３党首会談</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/03/14　　<a href=\"../1927/03katao.html\">\n片岡蔵相失言</a>　（→金融恐慌）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/03/15　　<a href=\"../1927/03torit.html\">\n東京渡辺銀行などで取付け騒ぎ</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/04/12　　<a href=\"../1927/04syanh.html\">\n蒋介石、上海クーデター　（国共分離）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/04/17　　<a href=\"../1927/04taigi.html\">\n枢密院、台湾銀行救済緊急勅令案を否決</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/04/17　　<a 1927=\"\" href\"..=\"\" waka1_9.html\"=\"\">\n若槻内閣①総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/04/20　　<a href=\"../1927/tanaa_1.html\">\n田中（義）内閣成立</a>　（首相：<a href=\"../p/tgiici.html\">田中義一</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div>ああああああああああああああああ</div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n<br>「若槻内閣①」は「第１次若槻内閣」「第一次若槻礼次郎内閣」と同じ意味です。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1927.html\">１９２７年</a>\n ＞ <a href=\"#h\">若槻内閣①総辞職</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

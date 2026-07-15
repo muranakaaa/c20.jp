@@ -1,0 +1,213 @@
+{
+ "path": "1927/03nanki.html",
+ "type": "article",
+ "title": "南京事件　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1927.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "南京事件"
+  },
+  {
+   "type": "title2",
+   "html": "1927/03/24"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1917.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1926.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1927.html\">１９２７</a> &gt;&gt;&gt; <a href=\"../20c/1928.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1937.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "北伐軍、南京占領。　そのどさくさに、中国の兵士が各国の領事館を襲った。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/10/10　　<a href\"..=\"\" 19.html\"=\"\">\n中国国民党結成</a>　（中華革命党を改組／<a href=\"../p/sonbun.html\">孫文</a>ら）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/02/27　　<a href\"..=\"\" 19.html\"=\"\">\n孫文、北伐宣言①　（桂林）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/08/09　　<a href\"..=\"\" 19.html\"=\"\">\n孫文、北伐失敗</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/01/20　　<a href=\"../1924/01gass1.html\">\n国共合作①成立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/09/18　　<a href\"..=\"\" 19.html\"=\"\">\n孫文、北伐宣言②</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/03/12　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/sonbun.html\">\n孫文</a>没　（北京）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/03/20　　<a href\"..=\"\" 19.html\"=\"\">\n中山艦事件　（蒋介石、戒厳令を公布し、共産党員逮捕）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/07/09　　<a href\"..=\"\" 19.html\"=\"\">\n蒋介石、北伐開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/03/24　　<a 1927=\"\" href\"..=\"\" 03nanki.html\"=\"\">\n南京事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/04/12　　<a href=\"../1927/04syanh.html\">\n蒋介石、上海クーデター　（国共分離）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>南京事件は、三月二十四日に起きた。</div>\n<div>この日の早朝、革命軍は北軍を追って南京に進駐してきた。\nそのさい、一部兵士が各国の領事館を襲い、イギリスやアメリカの場合は、宣教師が殺された。\n日本領事館では、海軍陸戦隊が荒木亀雄大尉の指揮で守っていたが、その数はわずか九名。\n森岡正平総領事の意向もあって、無抵抗主義をとっていたが、木村署長が撃たれ、館内は略奪され、\n避難していた在留邦人が暴行をうけた。\nこのため、荒木はのちに自決するという事件まで起きた。</div>\n<div>イギリス、アメリカの軍艦は、南京城内に砲撃を加えた。このため、約二千人が死傷した。</div>\n<div>四月十一日、イギリス、アメリカ、日本、フランス、イタリアの五ヵ国は、中国側に、責任者の処罰、\n被害の補償、文書による謝罪と将来の保証を求める通牒をつきつけたが、問題は、この通牒をつきつける相手がどちらか\n<span class=\"bar\">―</span>―武漢政府か<a href=\"../p/syokaise.html\">蒋介石</a>か、であった。</div>\n<div>また、中国側からすると、略奪暴行をはたらいた真犯人は誰か、である。</div>\n<div>武漢政府の外交部長陳友仁は、英米の南京砲撃に抗議する文書の中で、これは、\n反動派や反革命派が北軍の敗残兵とならず者を扇動してやらせたものだ、といっている。\nもしそうだとすると、革命軍は責任がないことになる。</div>\n<div>一方、<a href=\"../p/syokaise.html\">蒋介石</a>は、部隊中の共産分子がわざと事件を起こして、列強を怒らせて、自分を窮地に陥れようとしたのだ、という。\nもしそうなら、責任は武漢政府にあることになろう。</div>\n<div>これに対して、列強側は、ことにイギリスとアメリカは、当初は、<a href=\"../p/syokaise.html\">蒋介石</a>を相手とせずに、武漢政府に対してのみ\n通牒を送ろうとしていた。\nいいかえれば、中国の行政上の責任は武漢政府にあるとみていたことになる。\nしかし、日本は、各国を説得して、<a href=\"../p/syokaise.html\">蒋</a>に対しても通牒を発するように工作し、結果としてそのことに成功した。</div>\n<div>これが何を意味するかは、明らかであろう。\n武漢政府が<a href=\"../p/syokaise.html\">蒋</a>の党籍を剥奪し、<a href=\"../p/syokaise.html\">蒋</a>がみずからの政府を樹立する以前に、列強は、中国に二つの政府を認めたことになるのだ。</div>\n<div>さらに、この<a href=\"../p/syokaise.html\">蒋</a>に対する通牒の不思議な点は、回答期限がつけられていないことであった。\nこれも、日本が主張したものだった。\nしかし、<a href=\"../p/syokaise.html\">蒋</a>は、事実をもって回答した。\nそれが四月十二日の<a href=\"../1927/04syanh.html\">上海クーデター</a>であり、列強の共産主義嫌いを知りぬいた<a href=\"../p/syokaise.html\">蒋介石</a>の大バクチだった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/mt_yuhit.html\">三好徹 「夕陽と怒濤」</a>\n　Ｐ．１３２</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1927.html\">１９２７年</a>\n ＞ <a href=\"#h\">南京事件</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

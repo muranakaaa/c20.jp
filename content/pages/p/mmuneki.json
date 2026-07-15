@@ -1,0 +1,287 @@
+{
+ "path": "p/mmuneki.html",
+ "type": "person",
+ "title": "蓑田 胸喜　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "p.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "蓑田 胸喜"
+  },
+  {
+   "type": "title2",
+   "html": "1894 － 1946"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "name"
+   },
+   "html": "\n[ みのだ・むねき ]"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "prof"
+   },
+   "html": "\n国家主義者、慶大予科講師、国学院専門学校教授、原理日本社主宰"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"07m.html\">一覧　（マ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%2593%2591%25E7%2594%25B0%2520%25E8%2583%25B8%25E5%2596%259C\" target=\"_blank\">本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_r\">エピソード 1</span>調査中。"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　熊本県出身。東大文学部宗教学科卒業後、慶大予科講師。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　その講義は、欧米思想批判、天皇信仰に終始する。のち、国学院専門学校教授。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　津田左右吉、滝川幸辰、矢内原忠雄、<a href=\"../p/ysakuzo.html\">吉野作造</a>、宮崎俊義らリベラリストを次々に批判。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　<a href=\"../1935/02kikan.html\">天皇機関説排撃</a>、<a href=\"../p/mtatukic.html\">美濃部博士</a>弾劾の中心人物、急先鋒の一人。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　<a href=\"../1945/08gyoku.html\">終戦</a>の翌年、郷里で自殺。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/09/18　　<a href=\"../1931/09ryujo.html\">\n柳条湖事件</a>　（満州事変勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/04/22　　<a href=\"../1933/04takig.html\">\n滝川事件</a>　（<a href=\"../p/hiciro.html\">鳩山文相</a>、滝川教授の辞職を京都帝大総長に要求）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/02/19　　<a href=\"../1935/02kikan.html\">\n天皇機関説問題</a>　（<a href=\"../p/ktakeo.html\">菊池武夫</a>、貴族院で天皇機関説を非難）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/04/06　　<a href\"..=\"\" 19.html\"=\"\">\n真崎教育総監、全陸軍に国体明徴の訓示</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/04/09　　<a href\"..=\"\" 19.html\"=\"\">\n美濃部達吉の３著発禁　（売り切れ続出）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/08/03　　<a href=\"../1935/08meic1.html\">\n政府、国体明徴声明①</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/09/18　　<a href=\"../1935/09minob.html\">\n美濃部達吉、貴族院議員辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/10/15　　<a href=\"../1935/10meic2.html\">\n政府、国体明徴声明②</a>　（天皇機関説は国体に背くと明言）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/02/26　　<a href=\"../1936/02226ji.html\">\n二・二六事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/07/07　　<a href=\"../1937/07rokok.html\">\n盧溝橋事件</a>　（日中戦争勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/12/08　　<a href=\"../1941/12hawai.html\">\nハワイ奇襲攻撃</a>　（AM03：25／太平洋戦争勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/15　　<a href=\"../1945/08gyoku.html\">\n玉音放送　（終戦の詔勅）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/11/03　　<a href=\"../1946/11kenpo.html\">\n日本国憲法公布</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>蓑田は明治二十七年一月に熊本県八代郡に生れた。\n不知火の海浜である。五高を経て東大文学部に入り、宗教学を専攻した。\n卒業後は法学部に再入学し、政治学を専攻しようとしたが、中退して文学部大学院に残り、\n大正十一年、慶応義塾大学予科に職を奉じた。\n昭和七年三月退職まで約十年間、論理学を担当したという。</div>\n<div>当時、慶応の学生だった奥野信太郎の話。</div>\n<div>「蓑田は背はむしろ低いほうであり、かつ幾ぶん猫背であった。\nそして肩が衣紋竹のように突っ張っていた。\nその姿勢からくる一種異様な雰囲気は、さらに時として血走る眼によって一層深められる観があった。\n顔の色は黒く、その声は甲高くはなかったが、いつも声高であった。\n少し昂奮してくると、その高声は一層増した。\nだから、教室において多数を相手にしゃべるときも、相対して語るときも、\nその間に声の高度の差異が無かったともいえる。\nかれにあるものはただ普段の高声と、昂奮の高声の二種類だけであった。</div>\n<div>正直に云って、わたしはかれの話す調子にすこぶる気味の悪い印象を感じていた。\nそれはややもすると息がはずんで、聞いているほうが気ぜわしくなることと、自問自答にときどき、\n“ええ”という文句を挿入しながらとめどもなくしゃべりつづけてゆくところに何かファナチックなものがあって、\nそのうちこの人は心臓が破裂してしまいはしないかというような感じがしたからであった」</div>\n<div>蓑田は同志の三井甲之と雑誌「原理日本」を主宰していたが、\n教員室でもその雑誌の校正に余念がなかった。\n一方では、彼は「ファウスト」の講義を連続的に行う会をもっていたという。\nそして論理学については第一学期でほんの少しやるだけで、あとは全くそれから離れて、\nほとんどマルクス・レーニン主義の攻撃と、国体明徴に終始していたらしい。</div>\n<div>学生の落書も多く、「胸喜」を「狂気」ともじって書いたのが随所に見られた。\nそれが学生のかれに対する唯一の嘲笑だった。\n蓑田は学生が試験に<a href=\"../p/mtenno.html\">明治天皇</a>の御製を三首書いて出せば、及第点を与えたという。</div>\n<div>「かれの攻撃の論法というものは、のちの<a href=\"../1935/02kikan.html\">美濃部博士問題</a>でも分る通り、常に他人の言葉じりをとらえるという、\nきわめて素朴な原始的幼稚な方法であったから、もしこの方法で行くならば、\n<a href=\"../p/fyukici.html\">福沢諭吉</a>をはじめ慶応義塾関係者には、たとえば、<a href=\"../p/oyukio.html\">尾崎咢堂翁</a>の如く、かれの餌食になり得る者は相当あったはずである。\nしかし、かれは一言半句もそれにふれることがなかった。\n人びとによっては専らこれをかれの律義、善良に帰している。\nわたしももちろんそうとは思うけれども、気の小さな律義、臆病な善良と、それぞれ形容詞をつけておきたい」\n（奥野信太郎「学匪・蓑田胸喜の暗躍」特集文藝春秋・昭和三十一年十二月号）</div>\n<div>いわゆる右翼理論家は日本精神主義で、社会科学に弱い。\nその点、ドイツ語も読め、マルクス・レーニン主義批判を口にする蓑田は、\n当時の進歩的学者をやっつけるチャンピオンになり上ったわけだ。</div>\n<div class=\"txr\"><a href=\"../text/ms6syowa.html\">松本清張 「昭和史発掘（６）」</a>\n　Ｐ．１８４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167106361%2Fqid%3D1147086434%2Fsr%3D1-12%2Fref%3Dsr_1_0_12\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"07m.html\">人物ファイル一覧　（マ）</a>\n ＞ <a href=\"#h\">蓑田 胸喜</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

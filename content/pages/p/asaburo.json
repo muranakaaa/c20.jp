@@ -1,0 +1,352 @@
+{
+ "path": "p/asaburo.html",
+ "type": "person",
+ "title": "相沢 三郎　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "p.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <span class=\"now\">人物</span> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "相沢 三郎"
+  },
+  {
+   "type": "title2",
+   "html": "1889 － 1936"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "name"
+   },
+   "html": "\n[ あいざわ・さぶろう ]"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "prof"
+   },
+   "html": "\n「皇道派」青年将校、歩兵第５連隊大隊長、陸軍戸山学校教官、陸軍中佐"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"01a.html\">一覧　（ア）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_r\">エピソード 1</span>調査中。"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　宮城県出身。陸士卒。戸山学校教官、歩兵第５連隊大隊長などを歴任。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　大岸頼好、<a href=\"../p/mtakaji.html\">村中孝次</a>、<a href=\"../p/iasaici.html\">磯部浅一</a>ら、「皇道派」青年将校と交流し、影響を受ける。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　<a href=\"../1935/07masak.html\">真崎教育総監更迭</a>に激怒し、<a href=\"../p/ntetuzan.html\">永田軍務局長</a>を<a href=\"../1935/08aizaw.html\">斬殺</a>。軍法会議に付される。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　<a href=\"../p/nmitugi.html\">西田税</a>や、<a href=\"../p/mtakaji.html\">村中</a>ら青年将校の支援を受けるも、<a href=\"../1936/02226ji.html\">二・二六事件</a>後に死刑判決。<a href=\"../1936/07aizaw.html\">刑死</a>。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1930/04/25　　<a href=\"../1930/04tosui.html\">\n統帥権干犯問題</a>　（<a href=\"../p/ituyosi.html\">犬養毅</a>、<a href=\"../p/hiciro.html\">鳩山一郎</a>が追及）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/03/17　　<a href=\"../1931/033gatu.html\">\n三月事件</a>　（陸軍によるクーデター未遂）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/09/18　　<a href=\"../1931/09ryujo.html\">\n柳条湖事件</a>　（満州事変勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/10/17　　<a href=\"../1931/1010gat.html\">\n十月事件</a>　（桜会によるクーデター未遂）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/05/15　　<a href=\"../1932/05515ji.html\">\n五・一五事件</a>　（<a href=\"../p/ituyosi.html\">犬養首相</a>暗殺）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/03/28　　<a href=\"../1933/03datta.html\">\n日本、国際連盟脱退</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/07/11　　<a href=\"../1933/07sinpe.html\">\n神兵隊事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/11/13　　<a href=\"../1933/11teisi.html\">\n埼玉挺身隊事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/01/23　　<a href=\"../1934/01araki.html\">\n荒木陸相辞任</a>　（後任：<a href=\"../p/hsenjuro.html\">林銑十郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/10/01　　<a href=\"../1934/10rikup.html\">\n陸軍パンフレット「国防の本義と其強化の提唱」発行</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/11/20　　<a href=\"../1934/11sikan.html\">\n士官学校事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/02/19　　<a href=\"../1935/02kikan.html\">\n天皇機関説問題</a>　（<a href=\"../p/ktakeo.html\">菊池武夫</a>、貴族院で天皇機関説を非難）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/07/11　　<a href=\"../1935/07ikens.html\">\n「粛軍に関する意見書」配布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/07/15　　<a href=\"../1935/07masak.html\">\n真崎教育総監更迭</a>　（後任：「統制派」<a href=\"../p/wjotaro.html\">渡辺錠太郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/08/12　　<a href=\"../1935/08aizaw.html\">\n相沢事件</a>　（<a href=\"../p/ntetuzan.html\">永田軍務局長</a>斬殺）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/02/26　　<a href=\"../1936/02226ji.html\">\n二・二六事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/07/03　　<a href=\"../1936/07aizaw.html\">\n相沢三郎刑死</a>　（<a href=\"../1935/08aizaw.html\">相沢事件</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/07/05　　<a href\"..=\"\" 19.html\"=\"\">\n二・二六事件判決　（東京陸軍軍法会議）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "cm"
+   },
+   "html": "<span class=\"m_o\">評</span>\n相沢さんにも<a href=\"../p/mtakaji.html\">村中</a>宅や<a href=\"../p/nmitugi.html\">西田</a>宅で会ったことがあるが、おっとりした、よく考えてものをいう人だった。\n<div class=\"r\">武藤与一　（元士官候補生）</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "cm"
+   },
+   "html": "<span class=\"m_o\">評</span>\n相沢中佐は大岸大尉をかねて人生開眼の師として尊敬していた。\n軍務以外では後輩に対しても万事丁寧だったが、とくに大岸大尉に対してはそうだった。\n他人に話すときも大岸大尉のことを大岸先生というのが常だった。\n<div class=\"r\">末松太平　（元陸軍大尉）</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "cm"
+   },
+   "html": "<span class=\"m_o\">評</span>\n当時大井にあった体操学校の配属将校だった中佐は、学生たちからよき教官として慕われていた。\n中佐の宅と私の宅とは、線路を隔ててはいたが目と鼻の近くで家庭的にもつき合っていた。<br>\n風ぼうに似合わぬ物静かなところがあって、家庭では、よきパパであったらしい。\n頭の人ではなかったし、東北なまりがあって、弁舌も爽やかではない。\nしかし生一本なところがあって、よく政治を論じ、世相を歎き、国家革新を断行せよと叫ぶあたりはかなり言葉に熱がこもっていた。\n<div class=\"r\"><a href=\"../p/isumihis.html\">池田純久</a>　（元陸軍中将）</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "cm"
+   },
+   "html": "<span class=\"m_o\">評</span>\n相沢中佐には素朴な軍人精神に固まったコチコチの隊付将校の姿が浮かんでくる。\n田舎の連隊回りをしている中年の将校にはよく見かける型だ。\n剣道が強くて、一本気で、融通がきかない。\n礼儀は正しいが上官に対して愛嬌も社交性もない。\n無口で、全身これ忠君愛国の軍人精神に燃えている。\n武士道を遵奉しているが、近代的な素養には欠けている。\n家庭を愛してはいるが、皇国のためならいつでもそれを犠牲になし得る。\n戦闘させれば軍刀を振るって兵より先に突撃しそうだ。\n質素で、頑固で、熱情的である。\n出世とはおよそ縁のない地方将校<span class=\"bar\">―</span>―そういう男の像が浮かんでくる。\n<div class=\"r\"><a href=\"../text/ms_syowa.html\">松本清張</a>　（作家）</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>相澤三郎<span class=\"bar\">―</span>―。</div>\n<div>色浅黒く容貌魁偉。武道に鍛え上げられた筋骨はがっちりとして逞しく、巨漢である。</div>\n<div>少年のように純粋で朴訥、折り目正しく、滑稽なまでに生真面目で謙譲、\n一途に生きた愚直な軍人であった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/mk_gunji.html\">升本喜年 「軍人の最期」</a>\n　Ｐ．２３１</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n<br>「相沢三郎」は「相澤三郎」とも表記されることがあります。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">おたよりはこちら</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"01a.html\">人物ファイル一覧　（ア）</a>\n ＞ <a href=\"#h\">相沢 三郎</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

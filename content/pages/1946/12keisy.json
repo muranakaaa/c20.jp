@@ -1,0 +1,233 @@
+{
+ "path": "1946/12keisy.html",
+ "type": "article",
+ "title": "閣議、傾斜生産方式を決定　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1946.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "閣議、傾斜生産方式を決定"
+  },
+  {
+   "type": "title2",
+   "html": "1946/12/27"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1936.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1945.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1946.html\">１９４６</a> &gt;&gt;&gt; <a href=\"../20c/1947.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "限られた資金と資源を集中的に基礎素材の生産へ。　日本経済再生の基本方針を閣議決定。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/08/12　　<a href\"..=\"\" 19.html\"=\"\">\n経済安定本部および物価庁設置</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/10/08　　<a href=\"../1946/10fukki.html\">\n復興金融金庫法公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/12/27　　<a 1946=\"\" href\"..=\"\" 12keisy.html\"=\"\">\n閣議、傾斜生産方式を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/12/18　　<a href\"..=\"\" 19.html\"=\"\">\n過度経済力集中排除法公布</a>　（49/06/30までの時限立法）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/12/20　　<a href=\"../1947/12tanko.html\">\n臨時石炭鉱業管理法公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/05/18　　<a href=\"../1948/05drape.html\">\nアメリカ陸軍省、ドレーパー調査団報告を発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/06/23　　<a href=\"../1948/06syode.html\">\n昭和電工㈱日野原節三社長逮捕　（昭電事件）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/09/11　　<a href=\"../1948/09syuha.html\">\nＧＨＱ集中排除審査委員会、集排法実施４原則を提示</a>　（適用大幅緩和）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/09/30　　<a href=\"../1948/09kurus.html\">\n栗栖赳夫（経済安定本部長官）逮捕　（昭電事件）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/12/09　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ政府、ＦＥＣ230号（日本の過度経済力集中排除計画）を撤回</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/12/18　　<a href\"..=\"\" 19.html\"=\"\">\nＧＨＱ、経済安定９原則を発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/03/07　　<a href=\"../1949/03dodge.html\">\nドッジ、経済安定９原則実施について声明</a>　（ドッジライン）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>一九四六年（昭和21）末に提唱され、四七年から本格的に実施された戦後復興のための経済政策。\n提唱者は<a href=\"../1946/yosi1_1.html\">第一次吉田内閣</a>が設置した石炭委員会で、会長の有沢広巳が大来佐武郎の構想をヒントを得て立案したといわれる。\n限られた資金と資材を基礎素材の生産に集中的に傾斜させ、これを原動力として経済全体の復興をめざすというのが傾斜生産の発想だった。\n具体的には、輸入重油を鉄鋼生産に投入し、増産された鋼材を炭鉱に投入し、\nさらに増産された石炭を鉄鋼業に投入するという操作を繰り返し、石炭・鉄鋼の生産回復を図ろうというもので、\nのちに食糧や肥料も増産の対象とされた。</div>\n<div>その政策手段としては、価格差補給金と復興金融金庫が創設された。\n価格差補給金は戦時中の制度を復活したもので、政府が補助金を交付して石炭を原価より安く鉄鋼業に引き渡し、\n同様に鋼材も原価より安く炭鉱に引き渡された。\n復興金融金庫は四七年一月に設立され、石炭・鉄鋼・電力・海運を中心として重点産業に傾斜金融をおこなった。\nこうした傾斜生産方式は<a href=\"../1947/kata_1.html\">片山内閣</a>・<a href=\"../1948/asi_1.html\">芦田内閣</a>にも継承され、経済復興を軌道に乗せる役割を果たした。</div>\n<div>しかし、復興金融金庫の原資を復金債の日銀引き受けに頼ったため、通貨が増発され激しいインフレがもたらされた。\nそのインフレを収束させるための<a href=\"../1946/02kinyu.html\">金融緊急措置令</a>も、十分な効果をあげることはできなかった。\nまた、<a href=\"../1947/kata_1.html\">片山</a>・<a href=\"../1948/asi_1.html\">芦田</a>両内閣とも、インフレの一因だった賃金抑制に成功しなかった。\nそこでエコノミストの間で、通貨政策によって短期間にインフレを収束させる「一挙安定」か、\nそれとも漸進的にインフレを収束させる「中間安定」かをめぐり、論争が展開された。\n<a href=\"../1947/kata_1.html\">片山内閣</a>は中間安定論をとり、ＧＨＱもはじめこれを支持していたが、結局、一挙安定論に傾くようになり、\n四九年の<a href=\"../1949/03dodge.html\">ドッジ・ライン</a>で強力な経済政策が示されてインフレの収束に成功した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/sr_syowa.html\">佐々木隆爾 「昭和史の事典」</a>\n　Ｐ．２１１</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1946.html\">１９４６年</a>\n ＞ <a href=\"#h\">閣議、傾斜生産方式を決定</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

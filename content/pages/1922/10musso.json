@@ -1,0 +1,223 @@
+{
+ "path": "1922/10musso.html",
+ "type": "article",
+ "title": "ムッソリーニ、イタリア首相就任　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1922.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "ムッソリーニ、イタリア首相就任"
+  },
+  {
+   "type": "title2",
+   "html": "1922/10/31"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1912.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1921.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1922.html\">１９２２</a> &gt;&gt;&gt; <a href=\"../20c/1923.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1932.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "ファクタ政権を見限って、イタリア国王、ファシスト人気に便乗。　<a href=\"../p/mussol_b.html\">ムッソリーニ</a>、あっさり政権奪取。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/11/11　　<a href\"..=\"\" 19.html\"=\"\">\nファシスト党結成</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/10/28　　<a href=\"../1922/10romas.html\">\nファシスト党、ローマ進軍</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/10/31　　<a 1922=\"\" href\"..=\"\" 10musso.html\"=\"\">\nムッソリーニ、イタリア首相就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/11/25　　<a href\"..=\"\" 19.html\"=\"\">\nムッソリーニ（伊）首相、独裁権獲得　（秩序回復のため）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/11/14　　<a href\"..=\"\" 19.html\"=\"\">\nイタリア議会、ムッソリーニの選挙法改正案可決</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/01/27　　<a href\"..=\"\" 19.html\"=\"\">\nローマ盟約調印　（イタリア、フィウメ獲得）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/11/27　　<a href\"..=\"\" 19.html\"=\"\">\nイタリア、アルバニア保護国化</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/05/09　　<a href\"..=\"\" 19.html\"=\"\">\nイタリア、エチオピア併合</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/06/10　　<a href=\"../1940/06i_san.html\">\nイタリア、英仏に宣戦布告</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/09/08　　<a href=\"../1943/09i_kof.html\">\nイタリア、無条件降伏</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/04/27　　<a href=\"../1945/04musso.html\">\nムッソリーニ逮捕</a>　（04/28 銃殺）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>自由主義政府の弱体、左翼の分裂、議会の機能不全を前に、強力な政府を要求する声は既成政党の内部にもあらわれた。\nこうした状況をみて、二二年十月、<a href=\"../p/mussol_b.html\">ムッソリーニ</a>は、二万五〇〇〇人の武装行動隊をローマに進軍させ、\n勢力を誇示して政権樹立をねらった。\n政府は戒厳令布告で対抗しようとしたが、国王ヴィットーリオ・エマヌエーレ三世は内乱を恐れ、戒厳令の署名を拒否したばかりか、\n逆に<a href=\"../p/mussol_b.html\">ムッソリーニ</a>に組閣を命じた。</div>\n<div>こうして実質二年間の短いファシスト党の活動で、これまでで最年少の三十九歳の<a href=\"../p/mussol_b.html\">ムッソリーニ首相</a>が誕生した。\nかれは国会に政府への全権委任を認めさせ、ファシズム大評議会を設置して党と政府の協議機関とし、\n武装行動隊を国家の民兵組織に組み入れた。\n翌年には、最大得票政党に議席の三分の二を与える新選挙法を制定し、二四年の選挙でファシスト党は議会の多数をにぎった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ks_nse26.html\">木村靖二・柴宜弘・長沼秀世 「世界の歴史（26）」</a>\n　Ｐ．２７３</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1922.html\">１９２２年</a>\n ＞ <a href=\"#h\">ムッソリーニ、イタリア首相就任</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

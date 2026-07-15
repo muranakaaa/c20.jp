@@ -1,0 +1,194 @@
+{
+ "path": "1903/07saion.html",
+ "type": "article",
+ "title": "西園寺公望、政友会総裁②就任　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1903.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "西園寺公望、政友会総裁②就任"
+  },
+  {
+   "type": "title2",
+   "html": "1903/07/14"
+  },
+  {
+   "type": "navi2",
+   "html": "\n１０年前 &gt;&gt;&gt; <a href=\"../20c/1902.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1903.html\">１９０３</a> &gt;&gt;&gt; <a href=\"../20c/1904.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1913.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"../p/ihirobum.html\">伊藤博文</a>の<a href=\"../p/skinmoci.html\">秘蔵っ子</a>、第一党の党首として政界に登場。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1900/09/15　　<a href=\"../1900/09seiyu.html\">\n政友会結成</a>　（総裁：<a href=\"../p/ihirobum.html\">伊藤博文</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1903/04/08　　<a href=\"../1903/04teppe.html\">\nロシア、満州撤兵②不履行</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1903/04/21　　<a href=\"../1903/04murin.html\">\n無隣庵会議</a>　（<a href=\"../p/yaritomo.html\">山県</a>・<a href=\"../p/ihirobum.html\">伊藤</a>・<a href=\"../p/ktaro.html\">桂</a>・<a href=\"../p/kjutaro.html\">小村</a>／京都）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1903/06/24　　<a href=\"../1903/06katur.html\">\n桂首相、伊藤・山県両元老に辞意表明</a>　（07/02 却下）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1903/07/13　　<a href\"..=\"\" 19.html\"=\"\">\n伊藤博文、枢密院議長就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1903/07/14　　<a 1903=\"\" href\"..=\"\" 07saion.html\"=\"\">\n西園寺公望、政友会総裁②就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1903/10/06　　<a href=\"../1903/10jr_ko.html\">\n日露交渉（小村・ローゼン交渉）開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/10　　<a href=\"../1904/02jr_wa.html\">\n対露宣戦布告</a>　（<a href=\"../them/jr_war.html\">日露戦争</a>勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/06/18　　<a href\"..=\"\" 19.html\"=\"\">\n原敬、政友会総裁③就任</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>十三日<a href=\"../p/skinmoci.html\">西園寺</a>は枢府議長を退き、翌十四日政友会総裁に就任した。</div>\n<div>ここで<a href=\"../p/skinmoci.html\">西園寺</a>の『自伝』によってこのあたりの動きを展望しておこう。</div>\n<div>「<a href=\"../p/ktaro.html\">桂</a>に大命（第一次桂内閣）が降下したが<a href=\"../p/ihirobum.html\">伊藤</a>が元老で政友会総裁を兼ねていて、\n<a href=\"../p/ktaro.html\">桂</a>への協力を約束しないので、ついに待命拝辞を内奏するところまでゆき、長いことごたごたした。\nあの人たち（<a href=\"../p/ihirobum.html\">伊藤</a>、<a href=\"../p/yaritomo.html\">山県</a>、<a href=\"../p/ikaoru.html\">井上</a>、<a href=\"../p/ktaro.html\">桂</a>）は若い時からの親友で（<a href=\"../p/ktaro.html\">桂</a>は<a href=\"../p/ihirobum.html\">伊藤</a>より七歳、<a href=\"../p/yaritomo.html\">山県</a>より十歳、井上より十二歳年下）\n遠慮なしに相談がまとまりそうなものだが、それがそうはゆかない、互いに顔色をうかがって気兼ねばかりしている。\n私が見兼ねて<a href=\"../p/ihirobum.html\">伊藤</a>に断乎政友会総裁を退いて枢府議長になることをすすめたので、<a href=\"../p/ihirobum.html\">伊藤</a>も踏み切った。\n<a href=\"../p/ihirobum.html\">伊藤</a>のあとを私が政友会総裁になったが別にむずかしい問題はなかった。\n外になりたい人もあり、末松がよかろうという説もあり、\n<a href=\"../p/mmasahis.html\">松田（正久）</a>は総会を開いて衆議に問うがよいと言ったが、<a href=\"../p/ihirobum.html\">伊藤</a>はこれをきかず、\n私にやれというから御用に立つことなら引きうけましょうという位のことで、\n就任してからは大抵<a href=\"../p/mmasahis.html\">松田</a>と<a href=\"../p/htakasi.html\">原</a>に任せておいた。\n初めのうちは<a href=\"../p/htakasi.html\">原</a>は偏狭のようで<a href=\"../p/mmasahis.html\">松田</a>の方が人望があったが、後にはそうでもなかった。</div>\n<div>その頃は党の入費といっても少なかったし、前後五十万円の出入は覚えているが、\n寄付などで外から入った金は、<a href=\"../p/htakasi.html\">原</a>、<a href=\"../p/mmasahis.html\">松田</a>から報告をうけただけで、すべて<a href=\"../p/htakasi.html\">原</a>がやった」</div>\n<div class=\"txr\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．３２４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E5%259C%2592%25E5%25AF%25BA%25E5%2585%25AC%25E6%259C%259B%25E2%2580%2595%25E6%259C%2580%25E5%25BE%258C%25E3%2581%25AE%25E5%2585%2583%25E8%2580%2581%2520%2528%25E4%25B8%258A%25E5%25B7%25BB%2529%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1903.html\">１９０３年</a>\n ＞ <a href=\"#h\">西園寺公望、政友会総裁②就任</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

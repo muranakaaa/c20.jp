@@ -1,0 +1,243 @@
+{
+ "path": "1904/03heso2.html",
+ "type": "article",
+ "title": "旅順口閉塞作戦②　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1904.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "旅順口閉塞作戦②"
+  },
+  {
+   "type": "title2",
+   "html": "1904/03/27"
+  },
+  {
+   "type": "navi2",
+   "html": "\n１０年前 &gt;&gt;&gt; <a href=\"../20c/1903.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1904.html\">１９０４</a> &gt;&gt;&gt; <a href=\"../20c/1905.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1914.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "２度目の突入も失敗。　旅順の湾口を完全にふさぐことはできなかった。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/08　　<a href=\"../1904/02jorik.html\">\n陸軍先遣隊、仁川上陸</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/08　　<a href=\"../1904/02jinse.html\">\n仁川沖海戦</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/10　　<a href=\"../1904/02jr_wa.html\">\n対露宣戦布告</a>　（<a href=\"../them/jr_war.html\">日露戦争</a>勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/24　　<a href=\"../1904/02heso1.html\">\n旅順口閉塞作戦①</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/03/27　　<a 1904=\"\" href\"..=\"\" 03heso2.html\"=\"\">\n旅順口閉塞作戦②</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/03/29　　<a href=\"../1904/03hiros.html\">\n海軍省、旅順口閉塞作戦②を詳報</a>　（<a href=\"../p/htakeo.html\">広瀬中佐</a>の美談）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/04/13　　<a href=\"../1904/04makar.html\">\nロシア太平洋艦隊マカロフ司令官戦死</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/05/03　　<a href=\"../1904/05heso3.html\">\n旅順口閉塞作戦③</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/05/31　　<a href\"..=\"\" 19.html\"=\"\">\n大本営、旅順攻略のため、第三軍の編成を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/07/12　　<a href=\"../1904/07ryojy.html\">\n軍令部長ら、参謀総長に旅順攻略促進を要請</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/08/19　　<a href=\"../1904/08ryojy.html\">\n旅順総攻撃①開始</a>　（第三軍司令官：<a href=\"../p/nmaresuk.html\">乃木希典</a>／～08/24）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/08/24　　<a href=\"../1904/08balti.html\">\nロシア、バルチック艦隊の太平洋派遣を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/01/02　　<a href=\"../1905/01ryojy.html\">\n旅順陥落</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>沈没しはじめた<a href=\"../p/htakeo.html\">広瀬</a>の福井丸は、左舷のボートを下ろした。</div>\n<div>福井丸閉塞隊の一員だった戦艦「朝日」機関科の山本半二一等機関兵曹は、その後の<a href=\"../p/htakeo.html\">広瀬少佐</a>を、つぎのように語っている。</div>\n<div>『右舷のボートには、砲弾がめちゃくちゃに飛んできて寄りつくことができない。</div>\n<div>左舷のボートを下ろして、全員それに乗り移った。</div>\n<div>少佐は、</div>\n<div>「番号」</div>\n<div>と人員点呼をされたが、一人足りない。</div>\n<div>杉野上等兵曹（孫七、指揮官付）がいないというので、</div>\n<div>「おれがさがしてくる」</div>\n<div>と言って、上甲板にもどられ、</div>\n<div>「杉野、杉野」</div>\n<div>とどなりながら、何回もさがしておられたが、無駄だった。</div>\n<div>そのうちに船は沈みかける。少佐は、</div>\n<div>「残念だな」</div>\n<div>と言われながらボートに乗り、艇尾の座席（筆者注・右舷）に腰をかけ、発進を令された。</div>\n<div>六挺身ほど本船をはなれてから、電線で爆薬に点火した。（筆者注・<a href=\"../p/htakeo.html\">広瀬</a>がスイッチを押したようである）</div>\n<div>わたしはストローク（艇尾にいちばん近い漕手席）を漕いでいたので、少佐とはすぐ向かい合っていた。</div>\n<div>少佐は元気に、</div>\n<div>「みな、おれの顔をよく見て漕げ」</div>\n<div>と力づけながら、降りしきる砲弾と水煙のなかを、沖へ沖へとボートを進めさせた。</div>\n<div>小池一等機関兵曹が、</div>\n<div>「やられました」</div>\n<div>とさけぶと、</div>\n<div>「そうか、元気を出せ。代われ、代われ」</div>\n<div>と言われた。その瞬間、</div>\n<div>「うーん」</div>\n<div>という声か呻きか、にぶいさけびが聞こえたので、ふと顔を上げると、少佐の首が見えず、\n真っ赤な血がもくもくと首から溢れ出るうちに、その胴体がころりと海中に落ちこんでしまった。\n（筆者注・<a href=\"../p/htakeo.html\">広瀬</a>は紺の冬軍装の上に外套を着ていて、さらにひきまわしを羽織っていた）</div>\n<div>それは一瞬のできごとだった。</div>\n<div>クソッと思ってオールを引くと同時に、わたしは胸のあたりに生温かいものを浴びせられた。\nそれは少佐の血で、壮烈ともなんとも言いようのない、思い出すだけでも身震いするような最期だった』（雑誌『東郷』昭和六十年二月号より）</div>\n<div><a href=\"../p/htakeo.html\">広瀬</a>はあと二ヵ月で満三十六歳であった。\n<a href=\"../p/htakeo.html\">広瀬</a>が生きていれば、かれの満三十七歳の誕生日は明治三十八年五月二十七日で、\nちょうど連合艦隊がロシアのバルチック艦隊を撃滅する<a href=\"../1905/05nihon.html\">日本海海戦</a>の日と重なったのである。</div>\n<div>第二回旅順港口閉塞作戦も失敗に終わった。</div>\n<div>被害は、戦死<a href=\"../p/htakeo.html\">広瀬少佐</a>、杉野上等兵曹（行方不明が正確）、小池一等機関兵曹ほか一名、合計死傷十三名であった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/oh_cisyo.html\">生出寿 「知将　秋山真之」</a>\n　Ｐ．２１９</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1904.html\">１９０４年</a>\n ＞ <a href=\"#h\">旅順口閉塞作戦②</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

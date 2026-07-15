@@ -1,0 +1,479 @@
+{
+ "path": "20c/1912.html",
+ "type": "year",
+ "title": "１９１２年　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９１２年"
+  },
+  {
+   "type": "title2",
+   "html": "明治４５年／大正元年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"1902.html\">１０年前</a> &gt;&gt;&gt; <a href=\"1911.html\">前年</a> &gt;&gt;&gt; <span class=\"now\">１９１２</span> &gt;&gt;&gt; <a href=\"1913.html\">翌年</a> &gt;&gt;&gt; <a href=\"1922.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"#s4\">大正～　　覚めたる女　　蓄音器</a>",
+    "<a href=\"../1911/saio2_1.html\">西園寺②</a> → <a href=\"../1912/katu3_1.html\">桂内閣③</a>"
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"1911.html#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/01/01　　<a href\"..=\"\" 19.html\"=\"\">\n南京臨時政府成立</a>　（臨時大総統：<a href=\"../p/sonbun.html\">孫文</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/01/31　　<a href=\"../1912/01fujin.html\">\n婦人専用列車運行開始</a>　（中野・昌平橋間／女学生の身辺保護のため）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/02/12　　<a href=\"../1912/02metub.html\">\n宣統帝（溥儀）退位　（清朝滅亡）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/03/10　　<a href=\"../1912/03ensyu.html\">\n袁世凱、臨時大総統就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/03/11　　<a href=\"../1912/03yakuh.html\">\n孫文、中華民国臨時約法を公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/03/30　　<a href\"..=\"\" 19.html\"=\"\">\n沖縄県に衆議院議員選挙法施行の件公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/03/31　　<a href\"..=\"\" 19.html\"=\"\">\nＪＴＢ（ジャパン・ツーリスト・ビューロー）設立</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/04/01　　<a href\"..=\"\" 19.html\"=\"\">\n孫文、臨時大総統辞任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/04/13　　<a href\"..=\"\" 19.html\"=\"\">\n樺太に中学校設置</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/04/13　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/itakubok.html\">\n石川啄木</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/04/14　　<a href=\"../1912/04titan.html\">\nタイタニック号、氷山に激突</a>　（翌日沈没）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/05/15　　<a href\"..=\"\" 19.html\"=\"\">\n総選挙[11]　（政友会211、国民党95、中央倶楽部31）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/07/03　　<a href\"..=\"\" 19.html\"=\"\">\n通天閣、新世界ルナパーク開業　（大阪天王寺）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/07/08　　<a href\"..=\"\" 19.html\"=\"\">\n日露協約③調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/07/20　　<a href=\"../1912/07jutai.html\">\n宮内省、天皇重態を発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/07/29　　<a href=\"../1912/07mhogy.html\">\n明治天皇崩御</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/07/30　　<a href\"..=\"\" 19.html\"=\"\">\n宮内省、明治天皇崩御を発表</a>　（<a href=\"../p/ttenno.html\">大正天皇</a>即位）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/07/30　　<a href\"..=\"\" 19.html\"=\"\">\n主要新聞各紙、全ページを黒枠で囲む　（～09/17）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/08/01　　<a href\"..=\"\" 19.html\"=\"\">\n友愛会結成　（のちの日本労働総同盟）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/08/13　　<a href\"..=\"\" 19.html\"=\"\">\n桂太郎、内大臣兼侍従長に就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/08/25　　<a href\"..=\"\" 19.html\"=\"\">\n孫文、国民党結成</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/09/13　　<a href\"..=\"\" 19.html\"=\"\">\n明治天皇大喪</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/09/13　　<a href=\"../1912/09jyuns.html\">\n乃木希典殉死</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"1913.html#s1\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/10/17　　<a href\"..=\"\" 19.html\"=\"\">\nバルカン戦争①勃発　（～13/05/30）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/11/10　　<a href=\"../1912/11dansy.html\">\n西園寺・山県会談</a>　（陸軍２個師団増設問題）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/11/22　　<a href\"..=\"\" 19.html\"=\"\">\n上原陸相、陸軍２個師団増設案を閣議に提出</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/12/02　　<a href=\"../1912/12uehar.html\">\n上原陸相、帷幄上奏で単独辞任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/12/05　　<a href=\"../1912/saio2_9.html\">\n西園寺内閣②総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/12/07　　<a href\"..=\"\" 19.html\"=\"\">\n元老会議、松方正義を後継首相に推薦　（12/09 辞退）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/12/12　　<a href\"..=\"\" 19.html\"=\"\">\n元老会議、山本権兵衛・平田東助を後継首相に推薦　（ともに辞退）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/12/17　　<a href=\"../1912/katu3_0.html\">\n桂太郎に組閣命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/12/17　　<a href\"..=\"\" 19.html\"=\"\">\n斉藤海相、留任拒否　（12/21 勅命により留任）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/12/19　　<a href=\"../1912/12goke1.html\">\n憲政擁護連合大会①　（護憲運動①開始）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/12/21　　<a href=\"../1912/katu3_1.html\">\n桂内閣③成立</a>　（首相：<a href=\"../p/ktaro.html\">桂太郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/12/24　　<a href\"..=\"\" 19.html\"=\"\">\n山県有朋暗殺未遂事件</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1911/saio2_1.html\">西園寺②</a> → <a href=\"../1912/katu3_1.html\">桂内閣③</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">大正～　　覚めたる女　　蓄音器</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「歌行燈」　「彼岸過迄」　「悲しき玩具」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">白瀬中尉南極探検</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">―</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">乃木大将の歌</td></tr>\n</tbody>"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"#h\">１９１２年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

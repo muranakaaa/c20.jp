@@ -1,0 +1,272 @@
+{
+ "path": "1917/07fukuh.html",
+ "type": "article",
+ "title": "復辟事件　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1917.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "復辟事件"
+  },
+  {
+   "type": "title2",
+   "html": "1917/07/01"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1907.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1916.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1917.html\">１９１７</a> &gt;&gt;&gt; <a href=\"../20c/1918.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1927.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "「弁髪将軍」張勲の北京ジャックで、<a href=\"../p/fugi.html\">溥儀くん</a>11歳、２度目の即位。　皇帝在位13日。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1908/12/02　　<a href\"..=\"\" 19.html\"=\"\">\n宣統帝即位</a>　（＝<a href=\"../p/fugi.html\">溥儀</a>／３歳）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/02/12　　<a href=\"../1912/02metub.html\">\n宣統帝（溥儀）退位　（清朝滅亡）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/01/18　　<a href=\"../1915/0121kaj.html\">\n対華２１ヵ条要求</a>　（外相：<a href=\"../p/ktakaaki.html\">加藤高明</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/05/09　　<a href\"..=\"\" 19.html\"=\"\">\n中国政府、対華２１ヵ条要求を受諾　（中国で国辱記念日となる）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/12/11　　<a href\"..=\"\" 19.html\"=\"\">\n中国参政院、袁世凱を皇帝に推戴</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/12/25　　<a href\"..=\"\" 19.html\"=\"\">\n雲南都督ら、昆明で帝政反対・雲南独立を宣言　（第３革命勃発）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/01/01　　<a href=\"../1916/01enkot.html\">\n袁世凱、皇帝即位　（帝政移行）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/03/22　　<a href\"..=\"\" 19.html\"=\"\">\n袁世凱、帝政取消</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/04/22　　<a href\"..=\"\" 19.html\"=\"\">\n段祺瑞政権成立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/06/06　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/enseigai.html\">\n袁世凱</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/06/06　　<a href\"..=\"\" 19.html\"=\"\">\n黎元洪、中華民国大総統に就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1917/07/01　　<a 1917=\"\" href\"..=\"\" 07fukuh.html\"=\"\">\n復辟事件</a>　（～07/12）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/05/04　　<a href=\"../1919/0554und.html\">\n五・四運動</a>　（天安門広場で学生らがデモ行進）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/05/30　　<a href=\"../1925/05530ji.html\">\n五・三〇事件</a>　（上海）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/03/01　　<a href=\"../1932/03mansy.html\">\n満州国建国宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/03/01　　<a href=\"../1934/03teise.html\">\n満州国帝政実施</a>　（皇帝：<a href=\"../p/fugi.html\">溥儀</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/dankizui.html\">段祺瑞</a>は、一九一七年の初夏に、\n初期の独裁者<a href=\"../p/enseigai.html\">袁世凱</a>と同様に簡単に一九一二年の<a href=\"../1912/03yakuh.html\">中華民国臨時約法〔臨時憲法〕</a>を蹂躙して、\nドイツに宣戦布告した。\n黎総統は<a href=\"../p/dankizui.html\">段</a>を罷免したが、黎自身、奇怪な「弁髪将軍」張勳によって打倒された。\n数千の軍隊を率いるだけのこの将軍は、消滅した王朝への忠誠のしるしに、弁髪を保っていたのである。\n満州王家は、短期間、墓から戻された。\nその名目上の主人、九歳の前皇帝<a href=\"../p/fugi.html\">溥儀</a>は、一九一一年に<a href=\"../1912/02metub.html\">退位して</a>から、まだ北京の紫禁城に住んでいたが、復位を宣言した。\n大衆的な支持のないままに、彼の「治世」は辛うじて一二日間続いた。\n<a href=\"../p/enseigai.html\">袁世凱</a>でさえ、皇帝在位期間はもう少し長く<span class=\"bar\">―</span>―三週間だった。</div>\n<div>【中略】</div>\n<div>この茶番じみたエピソードは、軍閥<a href=\"../p/dankizui.html\">段</a>が必要としたものだった。\n兵隊をもたなかった黎総統は、「弁髪」を倒すために彼を呼び戻さねばならなかった。\n再び首相となった<a href=\"../p/dankizui.html\">段</a>は、この不運な黎総統を人の言うままになる人物〔馮国璋〕と取り替え、\n一九一二年に選出され、<a href=\"../p/enseigai.html\">袁世凱</a>の死後、再召集されていた議会を解散した。</div>\n<div class=\"txr\"><a href=\"../text/ie1souke.html\">イスラエル・エプシュタイン 「宋慶齢（上）」</a>\n　Ｐ．１１８</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>北京政局は対独参戦問題で混乱した。\n<a href=\"../p/dankizui.html\">段祺瑞</a>はドイツに宣戦を布告し、参戦軍を編成することを名目にして借款を導入し、\n自己の軍備を拡張しようと図った。\nこれに対して黎元洪は一七年五月、議会を味方にして参戦に反対し、<a href=\"../p/dankizui.html\">段祺瑞</a>を罷免した。\n<a href=\"../p/dankizui.html\">段祺瑞</a>は各省の督軍を動員して武力で黎元洪を脅迫した。\nこのとき督軍団の一人として軍隊を率いて北京に入った張勲が、黎元洪に迫って大総統辞職、国会解散を行なわせたあと、\n突如クーデターを敢行して、退位していた清朝の宣統帝<a href=\"../p/fugi.html\">溥儀</a>をかつぎ出し、\n共和制廃止、清朝復活を宣言した（復辟事件）。\nこの時代錯誤の試みはわずか十三日で失敗し、<a href=\"../p/dankizui.html\">段祺瑞</a>が国務総理に復帰してドイツに宣戦を布告、\n「参戦軍」を拡充した（八月）。\nしかも彼は張勲によって廃止された旧約法、旧国会の恢復を拒絶した。</div>\n<div class=\"txr\"><a href=\"../text/ks_cyugo.html\">小島晋治・丸山松幸 「中国近現代史」</a>\n　Ｐ．８１<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E4%25B8%25AD%25E5%259B%25BD%25E8%25BF%2591%25E7%258F%25BE%25E4%25BB%25A3%25E5%258F%25B2%2520%2520%2520%2520%25E5%25B2%25A9%25E6%25B3%25A2%25E6%2596%25B0%25E6%259B%25B8\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1917.html\">１９１７年</a>\n ＞ <a href=\"#h\">復辟事件</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

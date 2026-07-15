@@ -1,0 +1,144 @@
+{
+ "path": "1911/01joito.html",
+ "type": "article",
+ "title": "桂・西園寺会談　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1911.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "桂・西園寺会談"
+  },
+  {
+   "type": "title2",
+   "html": "1911/01/26"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1901.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1910.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1911.html\">１９１１</a> &gt;&gt;&gt; <a href=\"../20c/1912.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1921.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "ねえねえ味方してよ。 政権渡すからさぁ。　不人気 <a href=\"../p/ktaro.html\">桂首相</a>、<a href=\"../p/skinmoci.html\">政友会総裁</a>との密約で続投。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/01/18　　<a href=\"../1911/01taigy.html\">\n幸徳秋水ら24名に死刑判決</a>　（大逆事件）"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/01/26　　<a 1911=\"\" href\"..=\"\" 01joito.html\"=\"\">\n桂・西園寺会談</a>　（01/29 情意投合を発表／政府と政友会の提携成立）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/08/25　　<a href=\"../1911/katu2_9.html\">\n桂内閣②総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/08/30　　<a href=\"../1911/saio2_1.html\">\n西園寺内閣②成立</a>　（首相：<a href=\"../p/skinmoci.html\">西園寺公望</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>四十四年一月二十六日（<a href=\"../p/ksyusui.html\">幸徳秋水</a>処刑の二日後）<a href=\"../p/ktaro.html\">桂</a>は駿河台の<a href=\"../p/skinmoci.html\">西園寺</a>邸にやって来て<a href=\"../p/mmasahis.html\">松田正久</a>、<a href=\"../p/htakasi.html\">原敬</a>同席のもとに二時間ほど懇談し、\n二十八日夜の政友会議員総会で<a href=\"../p/mmasahis.html\">松田総務</a>が<a href=\"../1908/katu2_1.html\">桂内閣</a>との情意投合が成立した旨を報告した。</div>\n<div>しかし、情意投合の内容はあいまい且抽象的であった。\n実際には<a href=\"../p/ktaro.html\">桂</a>が議会における政友会の優「情」を乞い、\n代償として適当な時期（実際には八月）に政権を<a href=\"../p/skinmoci.html\">西園寺</a>に渡すという「意」志を表明する秘密協約があったことは明らかであるが、\n表面上はきれいごとに終始した。</div>\n<div class=\"txr\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．４１４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E5%259C%2592%25E5%25AF%25BA%25E5%2585%25AC%25E6%259C%259B%25E2%2580%2595%25E6%259C%2580%25E5%25BE%258C%25E3%2581%25AE%25E5%2585%2583%25E8%2580%2581%2520%2528%25E4%25B8%258A%25E5%25B7%25BB%2529%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1911.html\">１９１１年</a>\n ＞ <a href=\"#h\">桂・西園寺会談</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

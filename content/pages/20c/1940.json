@@ -1,0 +1,749 @@
+{
+ "path": "20c/1940.html",
+ "type": "year",
+ "title": "１９４０年　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９４０年"
+  },
+  {
+   "type": "title2",
+   "html": "昭和１５年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"1930.html\">１０年前</a> &gt;&gt;&gt; <a href=\"1939.html\">前年</a> &gt;&gt;&gt; <span class=\"now\">１９４０</span> &gt;&gt;&gt; <a href=\"1941.html\">翌年</a> &gt;&gt;&gt; <a href=\"1950.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"#s4\">大政翼賛　　ぜいたくは敵だ　　八紘一宇</a>",
+    "<a href=\"../1939/abe_1.html\">阿部</a> → <a href=\"../1940/yona_1.html\">米内</a> → <a href=\"../1940/kono2_1.html\">近衛内閣②</a>"
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"1939.html#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/01/14　　<a href=\"../1940/abe_9.html\">\n阿部内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/01/16　　<a href=\"../1940/yona_1.html\">\n米内内閣成立</a>　（首相：<a href=\"../p/ymitumas.html\">米内光政</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/01/21　　<a href\"..=\"\" 19.html\"=\"\">\n浅間丸事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/02/02　　<a href=\"../1940/02saito.html\">\n斉藤隆夫「反軍演説」</a>　（03/07 議員除名）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/02/16　　<a href\"..=\"\" 19.html\"=\"\">\n吉田厚相、労働組合の自発的解消を要望</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/03/09　　<a href\"..=\"\" 19.html\"=\"\">\n衆議院、聖戦貫徹決議案可決</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/03/20　　<a href=\"../1940/03dalad.html\">\nダラディエ内閣総辞職</a>　（レイノー内閣成立／仏）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/03/28　　<a href\"..=\"\" 19.html\"=\"\">\n内務省、藤原釜足、ディック・ミネら16人に改名を指示</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/03/30　　<a href=\"../1940/03nanki.html\">\n汪兆銘（南京）政府成立</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/04/09　　<a href=\"../1940/04norwa.html\">\nドイツ軍、ノルウェー侵攻開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/04/09　　<a href=\"../1940/04denma.html\">\nドイツ軍、デンマーク無血占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/04/24　　<a href\"..=\"\" 19.html\"=\"\">\n価格形成中央委員会、米など10品目に切符制採用を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/05/10　　<a href=\"../1940/05seibu.html\">\nドイツ軍、西部戦線に総攻撃開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/05/10　　<a href=\"../1940/05churc.html\">\nチャーチル内閣成立</a>　（英）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/05/13　　<a href\"..=\"\" 19.html\"=\"\">\nオランダ、ロンドンに亡命政権樹立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/05/27　　<a href=\"../1940/05dunke.html\">\nイギリス軍、ダンケルク撤退開始</a>　（06/04 撤退完了）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/06/10　　<a href=\"../1940/06i_san.html\">\nイタリア、英仏に宣戦布告</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/06/11　　<a href\"..=\"\" 19.html\"=\"\">\n聖戦貫徹議員連盟、各党党首に解党を進言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/06/14　　<a href\"..=\"\" 19.html\"=\"\">\n勝鬨橋開通</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/06/14　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ軍、パリ入城</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/06/17　　<a href\"..=\"\" 19.html\"=\"\">\nソ連軍、エストニア・ラトビア両国に進駐</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/06/18　　<a href\"..=\"\" 19.html\"=\"\">\nド・ゴール将軍、自由フランス委員会設立　（ロンドン）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/06/19　　<a href\"..=\"\" 19.html\"=\"\">\n東方会解消　（</a><a href=\"../p/nseigo.html\">中野正剛</a>／以後政党の解党が続く）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/06/22　　<a href=\"../1940/06f_kof.html\">\nフランス（ペタン政府）降伏</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/06/24　　<a href=\"../1940/06konoe.html\">\n近衛文麿、枢密院議長辞任</a>　（新体制運動推進を決意）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/07/01　　<a href\"..=\"\" 19.html\"=\"\">\nソ連軍、ベッサラビア・北ブコビナ（ルーマニア）占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/07/16　　<a href=\"../1940/07hataj.html\">\n畑陸相、単独辞任　（陸軍、後任推薦拒否）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/07/16　　<a href=\"../1940/yona_9.html\">\n米内内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/07/17　　<a href=\"../1940/kono2_0.html\">\n近衛文麿に組閣命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/07/19　　<a href=\"../1940/07ogiku.html\">\n荻窪会談</a>　（<a href=\"../p/kfumimar.html\">近衛</a>、<a href=\"../p/myosuke.html\">松岡</a>、<a href=\"../p/thideki.html\">東條</a>、<a href=\"../p/yzengo.html\">吉田</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/07/22　　<a href=\"../1940/kono2_1.html\">\n近衛内閣②成立</a>　（首相：<a href=\"../p/kfumimar.html\">近衛文麿</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/07/26　　<a href\"..=\"\" 19.html\"=\"\">\n政府「基本国策要綱」決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/07/27　　<a href\"..=\"\" 19.html\"=\"\">\n大本営政府連絡会議、「南進」「枢軸強化」を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/08/01　　<a href\"..=\"\" 19.html\"=\"\">\n東京市内に「贅沢は敵だ！」の立看板1500本設置</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/08/15　　<a href=\"../1940/08minse.html\">\n民政党解党　（以後無政党状態）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/08/21　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/trotsk_l.html\">\nレオン・トロツキー</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/08/28　　<a href=\"../1940/08sinta.html\">\n新体制準備会開催</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/09/07　　<a href=\"../1940/09londo.html\">\nドイツ空軍、ロンドン爆撃開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/09/09　　<a href=\"../1940/09matuo.html\">\n松岡・スターマー（ドイツ特使）会談</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/09/11　　<a href=\"../1940/09tonar.html\">\n隣組発足</a>　（内務省、全国に通達）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/09/13　　<a href\"..=\"\" 19.html\"=\"\">\nイタリア軍、エジプト侵攻開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/09/13　　<a href=\"../1940/09jrank.html\">\n日蘭経済交渉開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/09/19　　<a href=\"../1940/09goz19.html\">\n御前会議、日独伊三国軍事同盟締結を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/09/23　　<a href=\"../1940/09futu1.html\">\n北部仏印進駐</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/09/27　　<a href=\"../1940/09jdi_d.html\">\n日独伊三国軍事同盟調印</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"1941.html#s1\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/10/01　　<a href\"..=\"\" 19.html\"=\"\">\n人口調査　（内地人口7311万4308人、外地人口3211万1793人）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/10/11　　<a href\"..=\"\" 19.html\"=\"\">\n種田山頭火没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/10/12　　<a href=\"../1940/10yokus.html\">\n大政翼賛会発足</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/10/12　　<a href=\"../1940/10asika.html\">\nヒトラー、英本土上陸作戦（あしか作戦）中止を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/10/23　　<a href=\"../1940/10ds_ka.html\">\nヒトラー・フランコ（スペイン統領）会談</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/10/28　　<a href=\"../1940/10greec.html\">\nイタリア軍、ギリシア侵攻開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/10/31　　<a href\"..=\"\" 19.html\"=\"\">\nたばこの改名発表　（ゴールデンバット→金鵄／チェリー→桜）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/11/01　　<a href\"..=\"\" 19.html\"=\"\">\nダンスホール閉鎖</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/11/01　　<a href\"..=\"\" 19.html\"=\"\">\n築地小劇場、国民新劇場と改称</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/11/05　　<a href\"..=\"\" 19.html\"=\"\">\nＦ・ルーズベルト（米大統領）３選</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/11/09　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/chambe_n.html\">\nネビル・チェンバレン</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/11/10　　<a href=\"../1940/11k2600.html\">\n紀元2600年祝賀行事</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/11/12　　<a href=\"../1940/11hitle.html\">\nヒトラー・モロトフ（ソ連外相）会談</a>　（ベルリン）"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/11/24　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/skinmoci.html\">\n西園寺公望</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/11/25　　<a href\"..=\"\" 19.html\"=\"\">\nタイ・仏印国境紛争勃発</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/12/18　　<a href=\"../1940/12barba.html\">\nヒトラー、ソ連侵攻作戦（バルバロッサ作戦）準備を指令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/12/29　　<a href=\"../1940/12roose.html\">\nＦ・ルーズベルト（米）大統領、「民主主義国の兵器廠」宣言</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1939/abe_1.html\">阿部</a> → <a href=\"../1940/yona_1.html\">米内</a> → <a href=\"../1940/kono2_1.html\">近衛内閣②</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">大政翼賛　　ぜいたくは敵だ　　八紘一宇</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「夫婦善哉」　「如何なる星の下に」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">駅馬車　　民族の祭典</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">ＴＶドラマ実験放送</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">暁に祈る　　湖畔の宿</td></tr>\n</tbody>"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"#h\">１９４０年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

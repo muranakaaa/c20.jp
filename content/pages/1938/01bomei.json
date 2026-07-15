@@ -1,0 +1,133 @@
+{
+ "path": "1938/01bomei.html",
+ "type": "article",
+ "title": "女優岡田嘉子、ソ連へ亡命　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1938.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "女優岡田嘉子、ソ連へ亡命"
+  },
+  {
+   "type": "title2",
+   "html": "1938/01/03"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1928.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1937.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1938.html\">１９３８</a> &gt;&gt;&gt; <a href=\"../20c/1939.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1948.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"../p/oyosiko.html\">恋多きアイドル</a>、愛しい人とともに、国境をはるかに越えて、共産主義の国へ。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/03/27　　<a href\"..=\"\" 19.html\"=\"\">\n岡田嘉子、「椿姫」撮影中に年下の相手役と恋の逃避行</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/01/03　　<a 1938=\"\" href\"..=\"\" 01bomei.html\"=\"\">\n女優岡田嘉子、ソ連へ亡命</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>一月三日、新劇女優・<a href=\"../p/oyosiko.html\">岡田嘉子</a>は演出家・杉本良吉とソ連に亡命した。</div>\n<div>かねてから二人は恋愛関係にあったが、杉本に思想犯の前歴があることから、\n召集は時間の問題だと見て、ソ連への亡命を決意したもの。\n一説には、杉本には弾圧によって、壊滅状態にあった共産党再建のために、\nコミンテルンと連絡をとるという任務が与えられていたともいう。</div>\n<div>二人は前年末、樺太を訪れ、二日、気屯に入った。\nそして三日午後三時半ごろ、樺太半田沢の警部補出張所を慰問に訪れた後、馬橇で北緯五〇度の日ソ国境まで行き、\n四時過ぎに歩いて国境を越えた。</div>\n<div>杉本には妻もあったことから、“赤い恋の逃避行”とセンセーショナルな話題となったが、その後、\n二人はソ連当局によって引き離され、杉本は二年後、風が悪化、肺炎で死んだと<a href=\"../p/oyosiko.html\">岡田</a>に伝えられる。</div>\n<div><a href=\"../p/oyosiko.html\">岡田</a>は、労役三年の刑の後、太平洋戦争中はハバロフスクの対日放送で、戦後はモスクワ放送で活躍するかたわら、\nモスクワ大学の演劇科で学び、一九七二年に初めて帰国。\nその後は日本でも演劇活動を再開した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ok_bkyun.html\">おもしろニュース研究会 「20世紀Ｂ級ニュース」</a>\n　Ｐ．８０</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1938.html\">１９３８年</a>\n ＞ <a href=\"#h\">女優岡田嘉子、ソ連へ亡命</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

@@ -1,0 +1,133 @@
+{
+ "path": "1949/09indir.html",
+ "type": "article",
+ "title": "インド象インディラ来日　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1949.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "インド象インディラ来日"
+  },
+  {
+   "type": "title2",
+   "html": "1949/09/24"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1939.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1948.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1949.html\">１９４９</a> &gt;&gt;&gt; <a href=\"../20c/1950.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "象をください。　台東区の子供たちの手紙に応えて<a href=\"../p/nehru_j.html\">ネール首相</a>、インディラを贈ってくれた。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/09/04　　<a href=\"../1943/09uenod.html\">\n上野動物園、猛獣を薬殺　（供養式挙行）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/09/24　　<a 1949=\"\" href\"..=\"\" 09indir.html\"=\"\">\nインド象インディラ来日</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\n上野動物園の猛獣たちは、戦争中に日本陸軍の命令で毒殺された。\nゾウは毒を与えても死なず、だから餓死させることになった。\n腹をすかせたゾウたちは、芸をみせてはエサをねだった。\nその姿に、係員は目頭を押さえたという。\nこうして上野動物園にはゾウがいなくなった。\n戦後、台東区の子供たちがお願いの手紙を書いた。\nそれに応えてゾウを贈ってくれたのがインドの<a href=\"../p/nehru_j.html\">ネール首相</a>だ。\nゾウのいないゾウのオリ、それは、動物園に刻まれた戦争の痛ましい爪あとだった。\nそれは<a href=\"../p/nehru_j.html\">ネール首相</a>のおかげで消えた。\nだが、傷あとが消えても、その愚かな過ちを忘れてはいけない。\n忘れては、殺された猛獣たちにも、<a href=\"../p/nehru_j.html\">ネール首相</a>にも申し訳ない。\n感謝の気持ちとともに、いつまでも覚えておこうと誓うtaroであった。\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>九月二四日、インド象のインディラが来日した。\nこの年の春、東京・台東区の子供たちが、インドの<a href=\"../p/nehru_j.html\">ネール首相</a>にあてて、「象をください」と手紙を出した。\n上野公園には戦前、三頭の象がいたが戦時中に空襲に備えて処分されていた。</div>\n<div><a href=\"../p/nehru_j.html\">ネール首相</a>はさっそくその願いを聞き届け、インディラと娘の名をつけたメスの象を贈ってくれたもの。\nインディラは九月二五日に上野動物園に到着。\n動物園には九万二〇〇〇人の入園者が殺到した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ok_bkyun.html\">おもしろニュース研究会 「20世紀Ｂ級ニュース」</a>\n　Ｐ．１０２</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1949.html\">１９４９年</a>\n ＞ <a href=\"#h\">インド象インディラ来日</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

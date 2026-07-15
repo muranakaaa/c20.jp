@@ -1,0 +1,223 @@
+{
+ "path": "1921/03nepsa.html",
+ "type": "article",
+ "title": "ソ連、新経済政策（ネップ）を採択　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1921.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "ソ連、新経済政策（ネップ）を採択"
+  },
+  {
+   "type": "title2",
+   "html": "1921/03/08"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1911.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1920.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1921.html\">１９２１</a> &gt;&gt;&gt; <a href=\"../20c/1922.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1931.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"../p/lenin_n.html\">レーニン</a> １歩後退。　ぼろぼろの国内産業を立て直すため、資本主義政策の導入を決定。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1917/03/15　　<a href=\"../1917/032kaku.html\">\n二月革命</a>　（皇帝<a href=\"../p/nikolai2.html\">ニコライ２世</a>退位、ロマノフ朝滅亡）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1917/11/07　　<a href=\"../1917/1110kak.html\">\n十月革命</a>　（ソビエト政権成立）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/08/02　　<a href=\"../1918/08siber.html\">\nシベリア出兵宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/04/01　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ、ウラジオストック撤兵完了</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/04/25　　<a href\"..=\"\" 19.html\"=\"\">\nソビエト・ポーランド戦争勃発　（～10/12）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/03/08　　<a 1921=\"\" href\"..=\"\" 03nepsa.html\"=\"\">\nソ連、新経済政策（ネップ）を採択</a>　（ロシア共産党大会⑩）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/10/25　　<a href=\"../1922/10siber.html\">\nシベリア撤兵完了</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/12/30　　<a href=\"../1922/12s_sei.html\">\nソ連邦成立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/01/21　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/lenin_n.html\">\nウラジミール・レーニン</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/10/23　　<a href\"..=\"\" 19.html\"=\"\">\nソ連共産党中央委員会、トロツキーを政治局から追放</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1928/10/01　　<a href\"..=\"\" 19.html\"=\"\">\nソ連、五ヵ年計画①開始</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>戦時共産主義のもとで、極度の国家統制による経済政策がとられたが、これが軌道に乗らず穀物の収穫は激減し、\n二一年には数百万人が餓死している。\nそのため、二一年春には新経済政策（ネップ）への転換がおこなわれた。\n新経済政策の主要なものは、農民が嫌悪していた食糧割り当て徴発制度の廃止と現物税制度の導入である。\nこれは農民に好意的に受けいれられ、その結果、農民反乱は沈静化した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ks_nse26.html\">木村靖二・柴宜弘・長沼秀世 「世界の歴史（26）」</a>\n　Ｐ．１５６</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1921.html\">１９２１年</a>\n ＞ <a href=\"#h\">ソ連、新経済政策（ネップ）を採択</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

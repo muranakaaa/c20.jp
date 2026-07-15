@@ -1,0 +1,519 @@
+{
+ "path": "20c/1915.html",
+ "type": "year",
+ "title": "１９１５年　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９１５年"
+  },
+  {
+   "type": "title2",
+   "html": "大正４年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"1905.html\">１０年前</a> &gt;&gt;&gt; <a href=\"1914.html\">前年</a> &gt;&gt;&gt; <span class=\"now\">１９１５</span> &gt;&gt;&gt; <a href=\"1916.html\">翌年</a> &gt;&gt;&gt; <a href=\"1925.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"#s4\">微苦笑　　強気弱気　　銀ブラ</a>",
+    "<a href=\"../1914/okum2_1.html\">大隈内閣②</a>"
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"1914.html#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/01/07　　<a href=\"../1915/01ourak.html\">\n大隈首相、大浦農商務相を内相に起用</a>　（総選挙に備えて）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/01/18　　<a href=\"../1915/0121kaj.html\">\n対華２１か条要求</a>　（外相：<a href=\"../p/ktakaaki.html\">加藤高明</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/01/26　　<a href\"..=\"\" 19.html\"=\"\">\n大審院、内縁の妻の慰謝料支払い要求を認める判決　（婚姻不履行）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/02/03　　<a href\"..=\"\" 19.html\"=\"\">\nトルコ、スエズ運河攻撃</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/02/04　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ、対英封鎖宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/02/15　　<a href=\"../1915/02bakur.html\">\nシカゴ・ヘラルド、対華２１か条要求の全条項を暴露</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/02/20　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ、対華２１か条要求の秘密条項（第５号）について問い合わせ</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/03/13　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/vitte_s.html\">\nウィッテ</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/03/16　　<a href\"..=\"\" 19.html\"=\"\">\nブライアン（米）国務長官、対華２１か条要求の一部に不同意を表明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/03/25　　<a href\"..=\"\" 19.html\"=\"\">\n総選挙[12]　（同志会153、政友会108、中正会33、国民党27、他60）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/04/15　　<a href\"..=\"\" 19.html\"=\"\">\n武蔵野鉄道、池袋・飯能間開通　（→西武鉄道）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/04/22　　<a href=\"../1915/04dokug.html\">\nドイツ軍、毒ガスを使用</a>　（イプルの戦い／～05/25）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/04/26　　<a href\"..=\"\" 19.html\"=\"\">\n対華２１か条要求最終修正案を中国政府に提出</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/04/26　　<a href\"..=\"\" 19.html\"=\"\">\nロンドン秘密条約調印　（英・仏・露・伊／イタリア、参戦を約束）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/05/01　　<a href\"..=\"\" 19.html\"=\"\">\n中国政府、対華２１か条要求最終修正案を拒否　（最終対案を提示）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/05/06　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ、英・仏・露に日華交渉への共同干渉を提案　（３国とも拒否）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/05/07　　<a href\"..=\"\" 19.html\"=\"\">\n日置駐華公使、中国に最後通牒</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/05/07　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ潜水艦、イギリス客船ルシタニア号を撃沈</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/05/09　　<a href\"..=\"\" 19.html\"=\"\">\n中国政府、対華２１か条要求を受諾　（中国で国辱記念日となる）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/05/13　　<a href\"..=\"\" 19.html\"=\"\">\nウイルソン（米）大統領、ルシタニア号撃沈についてドイツに抗議</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/05/23　　<a href\"..=\"\" 19.html\"=\"\">\nイタリア、対オーストリア宣戦布告</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/06/04　　<a href\"..=\"\" 19.html\"=\"\">\nブライアン（米）国務長官辞任</a>　（対独強硬策に抗議／後任：<a href=\"../p/lansin_r.html\">ランシング</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/07/03　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ海兵隊、ハイチ上陸　（革命運動弾圧／09/16 ハイチ保護国化）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/07/25　　<a href=\"../1915/07ouraj.html\">\n大浦内相辞任</a>　（２個師団増設案成立工作問題で）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/07/30　　<a href\"..=\"\" 19.html\"=\"\">\n大隈内閣辞表提出</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/07/31　　<a href\"..=\"\" 19.html\"=\"\">\n南洋諸島の酋長ら22人、来日</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/08/03　　<a href\"..=\"\" 19.html\"=\"\">\n元老会議、大隈首相を慰留</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/08/10　　<a href\"..=\"\" 19.html\"=\"\">\n３閣僚辞任　（</a><a href=\"../p/ktakaaki.html\">加藤外相</a>・<a href=\"../p/wreijiro.html\">若槻蔵相</a>・八代海相／内閣改造）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/08/18　　<a href\"..=\"\" 19.html\"=\"\">\n全国中等学校優勝野球大会①開催　（大阪朝日新聞社主催）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/09/01　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/ikaoru.html\">\n井上馨</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/09/05　　<a href\"..=\"\" 19.html\"=\"\">\nロシア皇帝ニコライ２世、ロシア軍最高司令官ニコライ大公を罷免</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/09/23　　<a href\"..=\"\" 19.html\"=\"\">\n東京期米相場暴落　（以後上昇）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"1916.html#s1\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/10/11　　<a href\"..=\"\" 19.html\"=\"\">\nアンリ・ファーブル没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/10/24　　<a href=\"../1915/10husay.html\">\nフサイン・マクマホン協定</a>　（英、参戦の見返りにアラブ王国独立を約束）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/11/10　　<a href\"..=\"\" 19.html\"=\"\">\n大正天皇即位式</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/11/11　　<a href\"..=\"\" 19.html\"=\"\">\nイギリス軍、バクダッド進撃開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/12/04　　<a href\"..=\"\" 19.html\"=\"\">\n東京株式市場暴騰　（→大戦景気）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/12/11　　<a href\"..=\"\" 19.html\"=\"\">\n中国参政院、袁世凱を皇帝に推戴</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/12/25　　<a href\"..=\"\" 19.html\"=\"\">\n雲南都督ら、昆明で帝政反対・雲南独立を宣言　（第３革命勃発）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1914/okum2_1.html\">大隈内閣②</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">微苦笑　　強気弱気　　銀ブラ</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「道草」　「雁」　「あらくれ」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">「大正天皇御大典」</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">―</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">カチューシャの唄</td></tr>\n</tbody>"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"#h\">１９１５年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

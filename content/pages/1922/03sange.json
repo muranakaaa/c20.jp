@@ -1,0 +1,193 @@
+{
+ "path": "1922/03sange.html",
+ "type": "article",
+ "title": "サンガー夫人来日　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1922.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "サンガー夫人来日"
+  },
+  {
+   "type": "title2",
+   "html": "1922/03/10"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1912.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1921.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1922.html\">１９２２</a> &gt;&gt;&gt; <a href=\"../20c/1923.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1932.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "産児制限会長の上陸を、「産めよ殖やせよ」の当局、公開講演禁止とパンフレット没収の末に許可。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/07/17　　<a href\"..=\"\" 19.html\"=\"\">\nバートランド・ラッセル来日</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/03/03　　<a href\"..=\"\" 19.html\"=\"\">\n水平社結成　（全国水平社創立大会／京都）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/03/10　　<a 1922=\"\" href\"..=\"\" 03sange.html\"=\"\">\nサンガー夫人来日</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/04/12　　<a href\"..=\"\" 19.html\"=\"\">\nイギリス皇太子来日</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/06/24　　<a href\"..=\"\" 19.html\"=\"\">\nシベリア撤兵声明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/11/18　　<a href=\"../1922/11einst.html\">\nアインシュタイン来日</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1929/03/05　　<a href=\"../1929/03yamas.html\">\n山本宣治（衆議院議員）刺殺事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1930/02/01　　<a href=\"../1930/02sanji.html\">\n東京・芝に産児制限相談所開設</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nえ？　産児制限って何？　サンガー夫人って誰？　何した人？　taroもそうだった。\nコンドームを使ってする営みが人類の歴史はじまって以来行われているにちがいないものだから、\nコンドームにもそれぐらいの、あるいはせめてその10分の１ぐらいの歴史はあるにちがいないと、\nなんとなく思い込んでいたようなところがtaroにはあった。\n極端に言えば、サンガー夫人が来日した頃、地球では避妊は弾圧の対象だった。\n彼女も投獄されている。\nそれでもなお彼女が、そして日本では<a href=\"../p/ysenji.html\">ヤマセン</a>たちが産児制限を主張してやまなかったのは、\n「貧乏人の子だくさん」にあえぐ多くの人たちの苦しみを少しでもやわらげたいその一心だった。\n避妊はそんな短くて激しい歴史を持つ。\ntaroはコンドームを見るとマーガレット・サンガーと<a href=\"../p/ysenji.html\">山本宣治</a>を思い出す？　\nそんなことはないけれど、そうありたいものだとはちょっと思う。\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>マーガレット・サンガー女史（米国産児制限会長）は、大正一一年八月ロンドンで開かれる「万国産児制限会議」に出席する途中、\n三月上旬から四月上旬にかけて日本を訪問することになった。\n　【中略】　この頃の<a href=\"../p/ysenji.html\">山宣</a>は安田と共同で「性学読書会」をはじめる計画をたて、\n性科学に関する欧米の雑誌や単行本を大量に手に入れて読みまくっていた時期であり、\nすでに外国の文献から産児制限法や、無産者が産児制限に関する知識を求めていること、などについては知っていた。\nサンガー来日にあたって<a href=\"../p/ysenji.html\">山宣</a>は改造社主催の演説会の通訳をたのまれていた。</div>\n<div>【中略】</div>\n<div>しかし内務省当局は、産児制限は「産めよふやせよ」の国策に反するという立場から、\n「サンガー夫人が横浜埠頭に上陸するとさっそく持参の宣伝パンフレット『家庭制限法』何万部を全部押収し、\nそれから夫人を内務省によびつけて、産児制限の宣伝演説を日本帝国領土内でやってはならぬと厳重に申しわたした。\nこういう事情で改造社主催の講演会は中止になり、せっかくの<a href=\"../p/ysenji.html\">山宣</a>の通訳もおじゃんになった。\nただ前約のあった京都市医師会主催の医師および薬剤士に限った特別講演会だけは当局から特に許可になったので、\n<a href=\"../p/ysenji.html\">山宣</a>はこわれるままにサンガー夫人の通訳をした」（『山本宣治選集第三巻』安田徳太郎、解説）。\n結局サンガーは、医師、薬剤士のみを対象とする講演会を八回したのみで日本を去っている。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/st1yamas.html\">佐々木敏二 「山本宣治（上）」</a>\n　Ｐ．２８０</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1922.html\">１９２２年</a>\n ＞ <a href=\"#h\">サンガー夫人来日</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

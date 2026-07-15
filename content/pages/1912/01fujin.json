@@ -1,0 +1,123 @@
+{
+ "path": "1912/01fujin.html",
+ "type": "article",
+ "title": "婦人専用列車運行開始　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1912.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "婦人専用列車運行開始"
+  },
+  {
+   "type": "title2",
+   "html": "1912/01/31"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1902.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1911.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1912.html\">１９１２</a> &gt;&gt;&gt; <a href=\"../20c/1913.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1922.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "ちかん常習者から「花電車」の喜びを奪う婦人専用列車、運転を開始。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/01/31　　<a 1912=\"\" href\"..=\"\" 01fujin.html\"=\"\">\n婦人専用列車運行開始</a>　（中野・昌平橋間／女学生の身辺保護のため）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>一月、東京の中野－昌平橋間を走る電車に、婦人専用車が登場した。\n婦人専用車が走るのは、午前八時半と午後三時半。\nつまり、主として、通学の女子学生を不良学生から守るのが目的だった。</div>\n<div>新聞は、婦人専用車の登場を次のように報じている。</div>\n<div>「近来、不良学生が山手線遠方より市内各女学校に通う女学生の何も同一時刻に乗車するを機とし、混雑にまぐれて、\n女生徒の体に触れるを楽しみとする風がある。\n彼等はこの女学生を満載せる電車を称して“花電車”と呼んで居るが、今回、中野昌平橋間に各駅から婦人専用車を数回運転せしむることに決定し、\n御茶ノ水付属女学校、女子学院、千代田女学校、雙葉女学校等に対し通知し、来る三一日より実施することになった」</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ok_bkyun.html\">おもしろニュース研究会 「20世紀Ｂ級ニュース」</a>\n　Ｐ．２８</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1912.html\">１９１２年</a>\n ＞ <a href=\"#h\">婦人専用列車運行開始</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

@@ -1,0 +1,423 @@
+{
+ "path": "p/geobbe_j.html",
+ "type": "person",
+ "title": "ヨーゼフ・Ｐ・ゲッベルス　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "p.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "ヨーゼフ・Ｐ・ゲッベルス"
+  },
+  {
+   "type": "title2",
+   "html": "1897 － 1945"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "prof"
+   },
+   "html": "\n宣伝相、ナチス党中央宣伝部長　／ ドイツ"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"02k.html\">一覧　（カ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "ep1"
+   },
+   "html": "<span class=\"m_r\">エピソード 1</span><a href=\"../p/hitler_a.html\">ヒトラー</a>がベルリンの地下壕で自殺しようかというとき、\n<a href=\"../p/himmle_h.html\">ヒムラー</a>や<a href=\"../p/goring_h.html\">ゲーリング</a>は、ベルリンから離れたところで<a href=\"../p/hitler_a.html\">ヒトラー</a>の後釜をねらっていた。\nナチス最高幹部の中で<a href=\"../p/hitler_a.html\">ヒトラー</a>に殉じたのは一人ゲッベルスのみ。\nしかも、それ以前、彼は妻と六人の子供たちを<a href=\"../p/hitler_a.html\">ヒトラー</a>の地下壕に呼び寄せている。\n敗色濃い地下壕の中で、「総統おじちゃん」はゲッベルス・ジュニアたちの明るさにどれほど癒されただろう。\n彼らもまた<a href=\"../p/hitler_a.html\">ヒトラー</a>に殉じている。\n死に様が、その人の生き様を表しているとすれば、ゲッベルスは今よりもう少し評価されていいかもしれない。"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<tbody><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/06/28　　<a href=\"../1919/06versa.html\">\nベルサイユ条約調印</a>　（北京政府、調印拒否）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/07/31　　<a href\"..=\"\" 19.html\"=\"\">\nワイマール憲法成立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/11/08　　<a href=\"../1923/11munch.html\">\nヒトラー、ミュンヘン一揆失敗</a>　（11/09 逮捕）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/07/31　　<a href=\"../1932/07nazis.html\">\nナチス、第１党に躍進</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/01/30　　<a href=\"../1933/01hitle.html\">\nヒトラー内閣成立</a>　（独）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/02/27　　<a href=\"../1933/02gijid.html\">\n国会議事堂放火事件</a>　（ベルリン）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/03/23　　<a href=\"../1933/03zenke.html\">\nドイツ議会、全権委任法を可決</a>　（ヒトラー独裁体制確立）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/10/14　　<a href=\"../1933/10d_dat.html\">\nドイツ、ジュネーブ軍縮会議・国際連盟からの脱退を表明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/06/30　　<a href=\"../1934/06rohmj.html\">\nレーム事件</a>　（<a href=\"../p/hitler_a.html\">ヒトラー</a>、<a href=\"../p/rohm_e.html\">レーム</a>らを粛清）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/03/06　　<a href=\"../1935/03d_sai.html\">\nドイツ、再軍備宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/10/21　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ、国際連盟脱退</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/03/07　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ軍、ラインラント進駐</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/08/01　　<a href=\"../1936/08berin.html\">\nベルリン五輪開催</a>　（～08/16）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/03/13　　<a href=\"../1938/03austr.html\">\nドイツ、ドイツ、オーストリア併合</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/09/30　　<a href=\"../1938/09sudet.html\">\nミュンヘン協定</a>　（ドイツへのズデーテン割譲を決定）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/10/01　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ軍、ズデーデン進駐</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1939/08/23　　<a href=\"../1939/08ds_jy.html\">\n独ソ不可侵条約締結</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1939/09/01　　<a href=\"../1939/09taise.html\">\nドイツ軍、ポーランド侵攻開始</a>　（第二次世界大戦勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/09/27　　<a href=\"../1940/09jdi_d.html\">\n日独伊三国軍事同盟調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/06/22　　<a href=\"../1941/06ds_ka.html\">\n独ソ戦開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/04/13　　<a href\"..=\"\" 19.html\"=\"\">\nベルリン放送、カチン虐殺事件を発表</a>　（遺体4000以上発見）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/07/10　　<a href=\"../1943/07sicil.html\">\n連合軍、シシリー島上陸</a>　（ハスキー作戦）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/09/08　　<a href=\"../1943/09i_kof.html\">\nイタリア、無条件降伏</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/06/06　　<a href=\"../1944/06norma.html\">\n連合軍、ノルマンディー上陸作戦開始</a>　（オーバーロード作戦）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/07/20　　<a href=\"../1944/07hitle.html\">\nヒトラー暗殺計画失敗</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/02/04　　<a href=\"../1945/02yalta.html\">\nヤルタ会談</a>　（～02/11）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/04/30　　<a href=\"../1945/04hitle.html\">\nヒトラー自殺</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/05/07　　<a href=\"../1945/05d_kof.html\">\nドイツ、無条件降伏　（ベルリン陥落）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>イギリスの歴史家ヒュー・トレヴァー=ローパーは、ゲッベルスを寄生虫と呼び、かれは\n「本質的には、言葉とイメージとジェスチャアだけの人間だった。\n理念も信念もなかった。積極的な目的ももたず、ナチの掲げる人種・血・東方帝国建設などの目的も、\nそれほど意義深いものとは見ていなかった。\n彼の人生はすべて、何かへの反応が中心であり、自ら行動をおこすことはなかった。\n・・・・・・こうして知的・政治的機敏さが生まれた。\n自分が客観的すぎ、偏見をもたぬことに、むしろ自分で自分にいやけがさしていた。\nだが偏見のないことは、信念のないことの裏返しだった。\n現実的な見方ができることを自慢していたが、それも宣伝上、現実を曲げる手段として必要だとみていた。\n理念といえばほとんど借りもので、<a href=\"../p/hitler_a.html\">ヒトラー</a>を発見するまでは、次から次へとイデオロギーを変え、\nニヒリズムと憤りに満ちた空虚な生活をしていた」と書いている。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kh_20sek.html\">木村英亮 「二〇世紀の世界史」</a>\n　Ｐ．１００</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>ゲッベルスは一八九七年生まれのルール出身で、身長百五十センチという小男だった。\n大学で歴史と文学をまなび、戯曲を書いたこともある。\nその後、銀行員になったり、株式取引所の場立ちになったりしているうちに、ナチスに入った。\nはじめは、幹部の一人であるグレゴール・シュトラッサーの秘書をしていたが、<a href=\"../p/hitler_a.html\">ヒットラー</a>と出会ったことで、その人生が一変した。\n彼のもっとも天才的な才能を<a href=\"../p/hitler_a.html\">ヒットラー</a>が高く買ったからである。</div>\n<div>その天才的な才能とは、宣伝のそれであった。\nラジオ（電波）映画（映像）が政治的なプロパガンダにきわめて効果的であることを世界でもっとも早く目をつけたのもゲッベルスだったし、\nパンフレット、ポスター、デモ、集会を最高度に活用したのも、この小男だった。\n彼自身、演説はおそろしいまでに巧みであった。</div>\n<div>大統領選挙においても、彼の才能は余すところなく発揮された。</div>\n<div>飛行機を選挙に使ったのは、彼がはじめてだった。\n<a href=\"../p/hitler_a.html\">ヒットラー</a>と自分が乗って国じゅうをとびまわり、一日に、二回から三回の演説をこなし、さらには、\n飛行機からパンフレットを雨あられのようにバラまき、夜になると<a href=\"../p/hitler_a.html\">ヒットラー</a>の演説映画を広場で上映し、\n演説をふきこんだレコード五万枚を蓄音機のある家庭に郵送した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/mt_yuhit.html\">三好徹 「夕陽と怒濤」</a>\n　Ｐ．２３３</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n<br>「ゲッベルス」は「ゲベルス」「ゲッペルス」とも表記されることがあります。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"02k.html\">人物ファイル一覧　（カ）</a>\n ＞ <a href=\"#h\">ヨーゼフ・Ｐ・ゲッベルス</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

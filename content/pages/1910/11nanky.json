@@ -1,0 +1,123 @@
+{
+ "path": "1910/11nanky.html",
+ "type": "article",
+ "title": "南極探検隊芝浦を出航　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1910.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "南極探検隊芝浦を出航"
+  },
+  {
+   "type": "title2",
+   "html": "1910/11/29"
+  },
+  {
+   "type": "navi2",
+   "html": "\n１０年前 &gt;&gt;&gt; <a href=\"../20c/1909.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1910.html\">１９１０</a> &gt;&gt;&gt; <a href=\"../20c/1911.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1920.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "北極点はピアリーに先をこされたか。　ならば、めざせ南極点いちばんのり。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1910/11/29　　<a 1910=\"\" href\"..=\"\" 11nanky.html\"=\"\">\n南極探検隊芝浦を出航</a>　（<a href=\"../p/snobu.html\">白瀬中尉</a>ら）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>一一月二九日、日本初の南極探検隊が開南丸で東京・芝浦港から出発した。</div>\n<div>一行は<a href=\"../p/snobu.html\">白瀬陸軍中尉</a>を隊長とする二七名。\n<a href=\"../p/snobu.html\">白瀬</a>は、北極探検を志し、千島探検などに加わっていたが、この前年、ピアリーの北極点到達の知らせを聞き、\n南極探検に方向転換したもの。</div>\n<div>探検隊は一九一一年一月一六日、南極に上陸を果たし、二八日、南緯八〇度〇五分、西経一五六度三七分の地点に到達、\n「大和雪原」と命名し、日本の領地であることを宣言した。\nしかし、食糧不足などのために、南極点到達を断念、ペンギンの剥製などを土産に、翌年六月二〇日に帰国した。</div>\n<div>第二次世界大戦の敗戦により、一九五一年に締結されたサンフランシスコ条約で、「大和雪原」の権利を放棄することが要請され、\n日本はやむなく放棄に応じた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ok_bkyun.html\">おもしろニュース研究会 「20世紀Ｂ級ニュース」</a>\n　Ｐ．２４</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1910.html\">１９１０年</a>\n ＞ <a href=\"#h\">南極探検隊芝浦を出航</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

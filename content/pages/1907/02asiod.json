@@ -1,0 +1,123 @@
+{
+ "path": "1907/02asiod.html",
+ "type": "article",
+ "title": "足尾銅山大暴動　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1907.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "足尾銅山大暴動"
+  },
+  {
+   "type": "title2",
+   "html": "1907/02/06"
+  },
+  {
+   "type": "navi2",
+   "html": "\n１０年前 &gt;&gt;&gt; <a href=\"../20c/1906.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1907.html\">１９０７</a> &gt;&gt;&gt; <a href=\"../20c/1908.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1917.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "鉱山労働者とストつぶしの現場監督らが激突、鎮圧に軍隊まで出動した。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1907/02/06　　<a 1907=\"\" href\"..=\"\" 02asiod.html\"=\"\">\n足尾銅山大暴動</a>　（～02/07）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>日露戦争後、労働者の間で待遇改善を求める運動が活発化、ストが流行になっていた。\n特にこの年初め戦後恐慌が起きると、足尾銅山の大争議を皮切りに夕張炭鉱、幌内炭鉱、別子銅山、生野鉱山など次々にストが発生、\nあるものは暴動化して軍隊が鎮圧した。</div>\n<div>２月の足尾銅山暴動も増税・物価高騰下の生活苦を背景に、大日本労働至誠会足尾支部の指導下で賃上げ運動展開中に発生したもの。\n現場係員の中間搾取、至誠会つぶしも活発に行われていたが、４日、作業員と係員の衝突がきっかけとなった。</div>\n<div>初めは至誠会指導者の説得で収まってものの、警察が指導者２人を逮捕すると暴動は一挙に拡大。\n労働者は職員社宅、事務所、倉庫、選鉱所など次々に打ち壊し騒乱と化した。\n７日、銃剣で装備した高崎連隊３個中隊の到着をまってやっと鎮圧、360人余が検挙された。</div>\n<div>この事件を扱った宇都宮裁判所の判決は、現場役職者でワイロを要求しないものはほとんどなく、\nワイロの多少で賃金や作業内容を差別していたと指摘、\n「智乏しく慮浅き年壮気鋭の坑夫等が多年の怨嗟憤懣鬱結し」て、偶発的に起こしたと判断、\n至誠会指導者には無罪を言い渡している。</div>\n<div>４か月後の別子銅山暴動も軍出動で鎮圧した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ys_20sei.html\">読売新聞社 「読む年表・20世紀と昭和天皇」</a>\n　Ｐ．１１</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1907.html\">１９０７年</a>\n ＞ <a href=\"#h\">足尾銅山大暴動</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

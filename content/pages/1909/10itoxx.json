@@ -1,0 +1,253 @@
+{
+ "path": "1909/10itoxx.html",
+ "type": "article",
+ "title": "伊藤博文射殺事件　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1909.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "伊藤博文射殺事件"
+  },
+  {
+   "type": "title2",
+   "html": "1909/10/26"
+  },
+  {
+   "type": "navi2",
+   "html": "\n１０年前 &gt;&gt;&gt; <a href=\"../20c/1908.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1909.html\">１９０９</a> &gt;&gt;&gt; <a href=\"../20c/1910.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1919.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "初代韓国統監<a href=\"../p/ihirobum.html\">伊藤博文</a>が韓国の愛国者<a href=\"../p/anjukon.html\">安重根</a>に射殺された。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/23　　<a href=\"../1904/02jk_gi.html\">\n日韓議定書調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/08/22　　<a href=\"../1904/08jk_k1.html\">\n日韓協約①調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/11/17　　<a href=\"../1905/11jk_k2.html\">\n日韓協約②調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/12/20　　<a href\"..=\"\" 19.html\"=\"\">\n韓国統監府設置　（12/21 </a><a href=\"../p/ihirobum.html\">伊藤博文</a>を韓国統監に任命）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1907/07/03　　<a href=\"../1907/07missi.html\">\n伊藤統監、韓国皇帝にハーグ密使事件を追及</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1907/07/19　　<a href=\"../1907/07joisy.html\">\n韓国皇帝、譲位の詔勅を発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1907/07/24　　<a href=\"../1907/07jk_k3.html\">\n日韓協約③調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1907/08/01　　<a href=\"../1907/08gunka.html\">\n韓国軍解散式</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1909/07/06　　<a href\"..=\"\" 19.html\"=\"\">\n韓国併合を閣議決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1909/10/26　　<a 1909=\"\" href\"..=\"\" 10itoxx.html\"=\"\">\n伊藤博文射殺事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1909/11/04　　<a href\"..=\"\" 19.html\"=\"\">\n伊藤博文国葬</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1910/02/14　　<a href\"..=\"\" 19.html\"=\"\">\n安重根（伊藤博文暗殺犯）に死刑判決　（03/26 執行）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1910/05/30　　<a href\"..=\"\" 19.html\"=\"\">\n寺内正毅を韓国統監に任命　（陸相兼任）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1910/08/22　　<a href=\"../1910/08k_heg.html\">\n韓国併合</a>　（日韓条約調印）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "pt"
+   },
+   "html": "\n<div class=\"pt_h\">～　<a href=\"../p/anjukon.html\">安重根</a>の動機　～</div>\n<div class=\"c\">「祖国の独立と東洋和平」のため、<a href=\"../1905/11jk_k2.html\">「乙巳保護条約」締結</a>を強制した<a href=\"../p/ihirobum.html\">伊藤</a>を暗殺</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>七月六日、<a href=\"../p/ktaro.html\">桂</a>は韓国の併合案を閣議にはかり、その決定により参内して<a href=\"../p/mtenno.html\">天皇</a>の裁可を得た。</div>\n<div>韓国内の反日感情は激しく、不穏な空気が各地にひろがっていた。</div>\n<div>十月二十六日、<a href=\"../p/ihirobum.html\">伊藤</a>はハルピンにおもむいて車中でロシア蔵相ココフツェフと車中会談後、\n駅頭で各国領事と握手をかわし歓談した。\nその折、一人の男が走り寄り、突然、短銃を発射した。\n加害者は、統監をはじめ日韓協約に調印した韓国大臣の暗殺を同志と誓い合っていた韓国人<a href=\"../p/anjukon.html\">安重根</a>で、\nかれの発射した三発の弾丸は、第一弾が<a href=\"../p/ihirobum.html\">伊藤</a>の肺臓、第二弾が胸腹、第三弾が上腹部に命中した。</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>は車中に運びこまれ応急手当をうけたが、第一弾が致命傷となり三十分後に絶命した。六十九歳であった。\n安は、ロシア官憲に捕えられて日本側に引き渡され、翌年六月、旅順で処刑された。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ya_portm.html\">吉村昭 「ポーツマスの旗」</a>\n　Ｐ．３５１</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1909.html\">１９０９年</a>\n ＞ <a href=\"#h\">伊藤博文射殺事件</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

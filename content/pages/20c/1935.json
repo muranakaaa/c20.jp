@@ -1,0 +1,489 @@
+{
+ "path": "20c/1935.html",
+ "type": "year",
+ "title": "１９３５年　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９３５年"
+  },
+  {
+   "type": "title2",
+   "html": "昭和１０年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"1925.html\">１０年前</a> &gt;&gt;&gt; <a href=\"1934.html\">前年</a> &gt;&gt;&gt; <span class=\"now\">１９３５</span> &gt;&gt;&gt; <a href=\"1936.html\">翌年</a> &gt;&gt;&gt; <a href=\"1945.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"#s4\">人民戦線　ソシアル・ダンシング　国体明徴</a>",
+    "<a href=\"../1934/okada_1.html\">岡田内閣</a>"
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"1934.html#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/01/13　　<a href=\"../1935/01jungi.html\">\n遵義会議</a>　（<a href=\"../p/motakuto.html\">毛沢東</a>、中国共産党内の指導権確立）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/01/13　　<a href\"..=\"\" 19.html\"=\"\">\nザール地方住民投票</a>　（90％がドイツへの帰属を希望）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/01/20　　<a href\"..=\"\" 19.html\"=\"\">\n町田忠治、民政党総裁就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/01/22　　<a href=\"../1935/01saito.html\">\n斉藤隆夫、衆議院で陸軍パンフレットと軍事費偏重を非難</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/02/14　　<a href=\"../1935/02kyoji.html\">\n東京巨人軍渡米</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/02/19　　<a href=\"../1935/02kikan.html\">\n天皇機関説問題</a>　（<a href=\"../p/ktakeo.html\">菊池武夫</a>、貴族院で天皇機関説を非難）"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/02/28　　<a href\"..=\"\" 19.html\"=\"\">\n坪内逍遥没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/03/06　　<a href=\"../1935/03d_sai.html\">\nドイツ、再軍備宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/03/08　　<a href\"..=\"\" 19.html\"=\"\">\n忠犬ハチ公没</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/04/06　　<a href\"..=\"\" 19.html\"=\"\">\n真崎教育総監、全陸軍に国体明徴の訓示</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/04/09　　<a href\"..=\"\" 19.html\"=\"\">\n美濃部達吉の３著発禁　（売り切れ続出）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/04/11　　<a href\"..=\"\" 19.html\"=\"\">\nストレーザ会談　（～04/14／英・仏・伊）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/05/27　　<a href=\"../1935/05ikenh.html\">\nアメリカ最高裁、全国産業復興法（ＮＩＲＡ）に違憲判決</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/05/28　　<a href\"..=\"\" 19.html\"=\"\">\nエバ・ブラウン自殺未遂</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/06/09　　<a href=\"../1935/06yosio.html\">\n吉岡隆徳、100ｍ10秒３の世界タイ記録</a>　（甲子園）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/06/10　　<a href=\"../1935/06umezu.html\">\n梅津・何応欽協定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/06/18　　<a href=\"../1935/06ed_ka.html\">\n英独海軍協定調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/06/27　　<a href=\"../1935/06doiha.html\">\n土肥原・秦徳純協定</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/07/05　　<a href=\"../1935/07wagne.html\">\nアメリカ議会、ワグナー法可決</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/07/16　　<a href=\"../1935/07masak.html\">\n真崎教育総監罷免</a>　（後任：「統制派」<a href=\"../p/wjotaro.html\">渡辺錠太郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/08/01　　<a href=\"../1935/0881sen.html\">\n八・一宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/08/03　　<a href=\"../1935/08meic1.html\">\n政府、国体明徴声明①</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/08/12　　<a href=\"../1935/08aizaw.html\">\n相沢事件　（永田軍務局長斬殺）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/08/14　　<a href=\"../1935/08syaka.html\">\nアメリカ議会、社会保障法可決</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/08/23　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/yeiji.html\">\n吉川英治</a>「宮本武蔵」連載開始　（朝日新聞）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/08/31　　<a href=\"../1935/08cyuri.html\">\nアメリカ議会、中立法可決</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/09/08　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/ttakejir.html\">\n床次竹二郎</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/09/15　　<a href=\"../1935/09nurnb.html\">\nニュルンベルク法公布</a>　（ユダヤ人迫害の法制化）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/09/18　　<a href=\"../1935/09minob.html\">\n美濃部達吉、貴族院議員辞職</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"1936.html#s1\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/10/01　　<a href\"..=\"\" 19.html\"=\"\">\n国勢調査④　（内地人口6925万4148人、外地人口2844万3407人）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/10/03　　<a href=\"../1935/10ethio.html\">\nエチオピア戦争勃発</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/10/15　　<a href=\"../1935/10meic2.html\">\n政府、国体明徴声明②</a>　（天皇機関説は国体に背くと明言）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/10/21　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ、国際連盟脱退</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/11/26　　<a href\"..=\"\" 19.html\"=\"\">\n日本ペンクラブ結成</a>　（会長：<a href=\"../p/stoson.html\">島崎藤村</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/12/08　　<a href\"..=\"\" 19.html\"=\"\">\n大本教事件②</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/12/18　　<a href\"..=\"\" 19.html\"=\"\">\n冀察政務委員会成立</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1934/okada_1.html\">岡田内閣</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">人民戦線　　ソシアル・ダンシング　　国体明徴</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「あにいもうと」　「蒼氓」　「人生劇場」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">「雪之丞変化」</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">日伊交換放送</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">二人は若い</td></tr>\n</tbody>"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"#h\">１９３５年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

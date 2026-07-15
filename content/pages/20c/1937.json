@@ -1,0 +1,629 @@
+{
+ "path": "20c/1937.html",
+ "type": "year",
+ "title": "１９３７年　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９３７年"
+  },
+  {
+   "type": "title2",
+   "html": "昭和１２年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"1927.html\">１０年前</a> &gt;&gt;&gt; <a href=\"1936.html\">前年</a> &gt;&gt;&gt; <span class=\"now\">１９３７</span> &gt;&gt;&gt; <a href=\"1938.html\">翌年</a> &gt;&gt;&gt; <a href=\"1947.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"#s4\">千人針　　銃後　　馬鹿は死ななきゃ直らない</a>",
+    "<a href=\"../1936/hiro_1.html\">広田</a> → <a href=\"../1937/haya_1.html\">林</a> → <a href=\"../1937/kono1_1.html\">近衛内閣①</a>"
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"1936.html#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/01/01　　<a href\"..=\"\" 19.html\"=\"\">\n山本有三「路傍の石」第１部連載開始　（朝日新聞）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/01/04　　<a href\"..=\"\" 19.html\"=\"\">\n名古屋城、金鯱のうろこ58枚盗難</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/01/21　　<a href=\"../1937/01kappu.html\">\n浜田国松「割腹問答」</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/01/21　　<a href=\"../1937/01terau.html\">\n寺内陸相、広田首相に解散を要求</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/01/23　　<a href=\"../1937/hiro_9.html\">\n広田内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/01/25　　<a href=\"../1937/01ugaki.html\">\n宇垣一成に組閣命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/01/29　　<a href=\"../1937/01ryuza.html\">\n宇垣内閣流産</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/01/29　　<a href=\"../1937/haya_0.html\">\n林銑十郎に組閣命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/02/02　　<a href=\"../1937/haya_1.html\">\n林内閣成立</a>　（首相：<a href=\"../p/hsenjuro.html\">林銑十郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/02/10　　<a href\"..=\"\" 19.html\"=\"\">\n中国共産党、国民党に国共合作を提案</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/02/17　　<a href=\"../1937/02sinod.html\">\n死のう団事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/03/31　　<a href=\"../1937/03kuini.html\">\n食い逃げ解散</a>　（会期最終日）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/04/15　　<a href\"..=\"\" 19.html\"=\"\">\nヘレン・ケラー来日</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/04/26　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ空軍、ゲルニカ（スペイン）爆撃</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/04/30　　<a href\"..=\"\" 19.html\"=\"\">\n総選挙[20]　（民政党179、政友会175、社大党37、昭和会19、他56）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/05/23　　<a href\"..=\"\" 19.html\"=\"\">\nジョン・ロックフェラー没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/05/26　　<a href\"..=\"\" 19.html\"=\"\">\n双葉山定次、横綱昇進</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/05/31　　<a href=\"../1937/haya_9.html\">\n林内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/06/04　　<a href=\"../1937/kono1_1.html\">\n近衛内閣①成立</a>　（首相：<a href=\"../p/kfumimar.html\">近衛文麿</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/07/07　　<a href=\"../1937/07rokok.html\">\n盧溝橋事件</a>　（日中戦争勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/07/11　　<a href\"..=\"\" 19.html\"=\"\">\n盧溝橋事件現地停戦協定成立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/07/11　　<a href=\"../1937/07hahei.html\">\n日本政府、華北への派兵を声明</a>　（盧溝橋事件）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/07/28　　<a href\"..=\"\" 19.html\"=\"\">\n日本軍、総攻撃開始　（華北）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/08/01　　<a href\"..=\"\" 19.html\"=\"\">\n明治座で冷房開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/08/13　　<a href=\"../1937/08syan2.html\">\n上海事変②</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/08/14　　<a href\"..=\"\" 19.html\"=\"\">\n東京陸軍軍法会議で、北一輝、西田税に死刑を宣告　（二・二六事件）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/08/15　　<a href\"..=\"\" 19.html\"=\"\">\n日本政府「断固たる措置」声明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/08/15　　<a href\"..=\"\" 19.html\"=\"\">\n全国総動員令</a>　（総司令：<a href=\"../p/syokaise.html\">蒋介石</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/08/27　　<a href\"..=\"\" 19.html\"=\"\">\nトヨタ自動車工業㈱設立　（豊田自動織機製造所の自動車部独立）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/09/10　　<a href\"..=\"\" 19.html\"=\"\">\n東宝映画㈱設立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/09/11　　<a href\"..=\"\" 19.html\"=\"\">\n後楽園球場開場</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/09/12　　<a href\"..=\"\" 19.html\"=\"\">\n中国国民政府、国際連盟に日本軍の侵略を提訴</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/09/23　　<a href=\"../1937/09gass2.html\">\n国共合作②成立</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"1938.html#s1\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/10/05　　<a href\"..=\"\" 19.html\"=\"\">\nＦ・ルーズベルト（米）大統領、日独を侵略国家として非難　（隔離演説）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/10/06　　<a href\"..=\"\" 19.html\"=\"\">\n国際連盟、日本を九ヵ国条約と不戦条約に違反していると決議</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/10/10　　<a href\"..=\"\" 19.html\"=\"\">\n東京で朝湯廃止</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/10/22　　<a href\"..=\"\" 19.html\"=\"\">\n中原中也没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/11/02　　<a href=\"../1937/11traut.html\">\nトラウトマン工作開始</a>　（38/01/16 打切り）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/11/06　　<a href\"..=\"\" 19.html\"=\"\">\n日独伊防共協定成立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/11/09　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/macdon_j.html\">\nジェームズ・Ｒ・マクドナルド</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/11/12　　<a href=\"../1937/11hayas.html\">\n林長二郎（のちの長谷川一夫）、暴漢に顔を切られる</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/11/18　　<a href=\"../1937/11daiho.html\">\n大本営令公示　（戦時大本営条例廃止）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/11/20　　<a href=\"../1937/11jukei.html\">\n中国国民政府、重慶遷都宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/12/11　　<a href\"..=\"\" 19.html\"=\"\">\n南京陥落祝賀行事挙行</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/12/11　　<a href=\"../1937/12i_dat.html\">\nイタリア、国際連盟脱退</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/12/12　　<a href\"..=\"\" 19.html\"=\"\">\nパネー号事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/12/12　　<a href\"..=\"\" 19.html\"=\"\">\nレディバード号事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/12/13　　<a href\"..=\"\" 19.html\"=\"\">\n南京占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/12/13　　<a href=\"../1937/12gyaku.html\">\n南京虐殺事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/12/16　　<a href\"..=\"\" 19.html\"=\"\">\n帝人事件判決で全員無罪</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1936/hiro_1.html\">広田</a> → <a href=\"../1937/haya_1.html\">林</a> → <a href=\"../1937/kono1_1.html\">近衛内閣①</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">千人針　　銃後　　馬鹿は死ななきゃ直らない</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「雪国」　「若い人」　「綴方教室」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">「人情紙風船」</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">浪花節　　前線放送</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">人生の並木道　　裏町人生</td></tr>\n</tbody>"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"#h\">１９３７年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

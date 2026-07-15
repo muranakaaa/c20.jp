@@ -1,0 +1,253 @@
+{
+ "path": "1948/asi_1.html",
+ "type": "article",
+ "title": "芦田内閣成立　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1948.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href=\"asi_1~.html\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "芦田内閣成立"
+  },
+  {
+   "type": "title2",
+   "html": "1948/03/10"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1938.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1947.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1948.html\">１９４８</a> &gt;&gt;&gt; <a href=\"../20c/1949.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "自滅<a href=\"../1947/kata_1.html\">片山内閣</a>と同じ連立の枠組みで、選手交代。　<a href=\"../p/ahitosi.html\">芦田</a>が首相ならどうだ！"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"asi_1~.html\">[詳細]</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/02/10　　<a href=\"../1948/kata_9.html\">\n片山内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/02/21　　<a href\"..=\"\" 19.html\"=\"\">\n衆議院、芦田均を首相に指名</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/02/21　　<a href\"..=\"\" 19.html\"=\"\">\n参議院、吉田茂を首相に指名</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/02/23　　<a href\"..=\"\" 19.html\"=\"\">\n松岡衆議院議長、本院の指名議決が国会の議決となったと宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/03/10　　<a 1948=\"\" href\"..=\"\" asi_1.html\"=\"\">\n芦田内閣成立</a>　（首相：<a href=\"../p/ahitosi.html\">芦田均</a>／国務相：<a href=\"../p/nsuehiro.html\">西尾末広</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/03/15　　<a href=\"../1948/03minji.html\">\n民主自由党結成</a>　（自由党に同志クラブが合流／総裁：<a href=\"../p/ysigeru.html\">吉田茂</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/05/18　　<a href=\"../1948/05drape.html\">\nアメリカ陸軍省、ドレーパー調査団報告を発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/06/23　　<a href=\"../1948/06syode.html\">\n昭和電工㈱日野原節三社長逮捕　（昭電事件）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/07/06　　<a href=\"../1948/07nisio.html\">\n西尾国務大臣（副総理）辞任</a>　（土建献金問題）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/07/31　　<a href=\"../1948/07201go.html\">\n政令201号公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/09/30　　<a href=\"../1948/09kurus.html\">\n栗栖赳夫（経済安定本部長官）逮捕　（昭電事件）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/10/06　　<a href=\"../1948/10nisio.html\">\n西尾末広（前国務相）逮捕　（昭電事件）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/10/07　　<a href=\"../1948/asi_9.html\">\n芦田内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/10/19　　<a href=\"../1948/yosi2_1.html\">\n吉田内閣②成立</a>　（首相：<a href=\"../p/ysigeru.html\">吉田茂</a>／官房長官：<a href=\"../p/seisaku.html\">佐藤栄作</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div>ああああああああああああああああ</div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n<br>「芦田内閣」は「芦田均内閣」と同じ意味です。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1948.html\">１９４８年</a>\n ＞ <a href=\"#h\">芦田内閣成立</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

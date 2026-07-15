@@ -1,0 +1,133 @@
+{
+ "path": "1918/11toron.html",
+ "type": "article",
+ "title": "吉野作造、浪人会と立会討論会　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1918.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "吉野作造、浪人会と立会討論会"
+  },
+  {
+   "type": "title2",
+   "html": "1918/11/23"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1908.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1917.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1918.html\">１９１８</a> &gt;&gt;&gt; <a href=\"../20c/1919.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1928.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"../p/ysakuzo.html\">吉野作造</a>、デモクラシーをめぐって右翼団体の挑戦を受けて立ち、堂々の主張を展開。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/11/23　　<a 1918=\"\" href\"..=\"\" 11toron.html\"=\"\">\n吉野作造、浪人会と立会討論会</a>　（学生ら、吉野を応援）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/12/23　　<a href\"..=\"\" 19.html\"=\"\">\n吉野作造ら、黎明会結成</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>きっかけは九月二十八日黒竜会会員池田弘寿が大阪朝日社長村山竜平に暴行を加えた事件に関連して、\n<a href=\"../p/ysakuzo.html\">吉野作造</a>が中央公論十一月号に「言論の自由の社会的圧迫を排す」という論文をのせたことによる。\nこの中で<a href=\"../p/ysakuzo.html\">吉野</a>は自由民権派には厳しい官憲が、このような暴力に対しては寛大に過ぎると批判した。\n浪人会のメンバーが抗議に押しかけると、<a href=\"../p/ysakuzo.html\">吉野</a>は立会演説で是非を決めようと言い、浪人会もこれを受けて、\n十一月二十三日夜浪人会主催の立会演説会が神田南明倶楽部で開かれた。\n会場には<a href=\"../p/ysakuzo.html\">吉野</a>を支持する大学弁論部の学生、友愛会会員、労働者など千余名がおしかけた。</div>\n<div>まず、黒竜会幹部内田良平が壇上に上がり、村山を襲った池田と自分の間には不明朗な関係はないことを“謙抑せる紳士的態度”で説明した。\n続いて浪人会から佐々木安五郎、伊藤松雄、田中弘之、小川運平が次々に立って、\n「大阪朝日」（九月二十五日）の不穏なる論説に対する<a href=\"../p/ysakuzo.html\">吉野</a>の賛否及び、忠君愛国思想に対する<a href=\"../p/ysakuzo.html\">吉野</a>の所見を訊いたが、\nその態度は“紳士的態度を失わざらんと努め”（報知）ていた。</div>\n<div>これに対し<a href=\"../p/ysakuzo.html\">吉野</a>はまず「思想に当るに暴力をもってすることは、すでに暴行者が思想的敗北者であることを示す」と述べ、\nついで国体及び民本主義について述べ浪人会の誤解を解き、\n「思想の過程はともあれ憂国の至誠において劣るものではない」ことを強調した。</div>\n<div>田中は<a href=\"../p/ysakuzo.html\">吉野</a>の同意を得て次の覚書をまとめ朗読した。</div>\n<div>一、池田某の行動に関し、内田良平の弁明を聞き、<a href=\"../p/ysakuzo.html\">吉野博士</a>は浪人会の趣旨は言論圧迫に出でたるものに非ずと認む。</div>\n<div>二、<a href=\"../p/ysakuzo.html\">吉野博士</a>並びに浪人会は、尊厳なる我国体崇尚のもとに益々君民一致の美徳を発揮する為、\n各所信に従って努力すべき事に一致せり。之によりて本会を散ず。</div>\n<div>この日<a href=\"../p/ysakuzo.html\">吉野</a>に対する危険への憂慮から会場に入れない群衆も数千人に達し、\n<a href=\"../p/ysakuzo.html\">吉野</a>が無事に出て来ると「<a href=\"../p/ysakuzo.html\">吉野先生</a>万歳」「民本主義万歳」を連呼して神保町角まで行進した。</div>\n<div>この日警戒の為（<a href=\"../p/ysakuzo.html\">吉野</a>の安全よりも大衆の暴発をおそれて）警視庁は二百余名の警官を会場の内外に張りこませた。\n会が終ると数名の警官が<a href=\"../p/ysakuzo.html\">吉野</a>をとりまいてボディガードの形となり、神保町から巣鴨行の電車にのせた。\n<a href=\"../p/ysakuzo.html\">吉野</a>は去ってゆく電車の後部運転台に立って群衆の喝采に応えた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm_saion.html\">豊田穣 「西園寺公望」</a>\n　下巻　Ｐ．１１０</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1918.html\">１９１８年</a>\n ＞ <a href=\"#h\">吉野作造、浪人会と立会討論会</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

@@ -1,0 +1,204 @@
+{
+ "path": "1942/11afric.html",
+ "type": "article",
+ "title": "連合軍、北アフリカ上陸開始　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1942.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "連合軍、北アフリカ上陸開始"
+  },
+  {
+   "type": "title2",
+   "html": "1942/11/08"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1932.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1941.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1942.html\">１９４２</a> &gt;&gt;&gt; <a href=\"../20c/1943.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"../p/rommel_e.html\">ロンメル</a>を止めろ。　<a href=\"../p/eizenh_d.html\">アイゼンハワー</a>指揮の連合軍、北アフリカに一斉上陸を開始。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1939/09/01　　<a href=\"../1939/09taise.html\">\nドイツ軍、ポーランド侵攻開始</a>　（第二次世界大戦勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/05/10　　<a href=\"../1940/05seibu.html\">\nドイツ軍、西部戦線に総攻撃開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/06/22　　<a href=\"../1941/06ds_ka.html\">\n独ソ戦開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1942/10/23　　<a href\"..=\"\" 19.html\"=\"\">\n連合軍、エル・アラメイン（エジプト）反攻開始　（～11/02）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1942/11/08　　<a 1942=\"\" href\"..=\"\" 11afric.html\"=\"\">\n連合軍、北アフリカ上陸開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1942/11/19　　<a href=\"../1942/11stali.html\">\nソ連軍、スターリングラードで反撃開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/01/14　　<a href=\"../1943/01casab.html\">\nカサブランカ会談</a>　（～01/25）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/02/01　　<a href=\"../1943/02guada.html\">\nガダルカナル島撤退開始</a>　（02/07 撤退完了）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/02/02　　<a href=\"../1943/02stali.html\">\nスターリングラードのドイツ第６軍、全軍降伏</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/07/10　　<a href=\"../1943/07sicil.html\">\n連合軍、シシリー島上陸</a>　（ハスキー作戦）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>米英側は、一九四二年のうちにフランスに第二戦線を樹立すべきだという<a href=\"../p/stalin.html\">スターリン</a>の要求に応ずることはできなかった。\nが、そのかわりに、この年の十一月七～八日、北アフリカへの上陸作戦（いわゆる「松明」作戦）を敢行した。\n<a href=\"../p/eizenh_d.html\">アイゼンハワー将軍</a>の指揮のもとに、約十万の米英連合軍が、カサブランカ、オラン、アルジェなどの地域に上陸したのだ。</div>\n<div>この上陸軍は、エジプト方面から西進しつつあったモントゴメリー麾下のイギリス軍と呼応し、\n<a href=\"../p/rommel_e.html\">ロンメル</a>指揮下の独伊軍を東西から挟み撃ちにした。\n長いはげしい戦闘ののちに、最初はたがいに三〇〇〇キロちかくもはなれていた<a href=\"../p/eizenh_d.html\">アイゼンハワー</a>とモントゴメリーの両軍は翌年の四月七日にいたって\nついに合流した。\n海と空からの補給路をたたれた枢軸軍は、とみに弱体化し、やがて南北に分断されるかたちとなった。\n五月十三日には、その最後の抵抗力もつきはて、アルニム将軍と十五万の兵士が、連合国の軍門にくだった。\nかつて北アフリカに勇名をはせた「砂漠の狐」<a href=\"../p/rommel_e.html\">ロンメル将軍</a>は、すでにこのときには、\n北アフリカの指揮をアルニムにゆずってドイツに帰っていたのである。</div>\n<div class=\"txr\"><a href=\"../text/nn2hitle.html\">野田宣雄 「ヒトラーの時代（下）」</a>\n　Ｐ．１４４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E3%2583%2592%25E3%2583%2588%25E3%2583%25A9%25E3%2583%25BC%25E3%2581%25AE%25E6%2599%2582%25E4%25BB%25A3%2520%25E4%25B8%258B%25E3%2580%2580%2520%25E8%25AC%259B%25E8%25AB%2587%25E7%25A4%25BE%25E5%25AD%25A6%25E8%25A1%2593%25E6%2596%2587%25E5%25BA%25AB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1942.html\">１９４２年</a>\n ＞ <a href=\"#h\">連合軍、北アフリカ上陸開始</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

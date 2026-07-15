@@ -1,0 +1,235 @@
+{
+ "path": "1934/11sikan.html",
+ "type": "article",
+ "title": "士官学校事件　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1934.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "士官学校事件"
+  },
+  {
+   "type": "title2",
+   "html": "1934/11/20"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1924.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1933.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1934.html\">１９３４</a> &gt;&gt;&gt; <a href=\"../20c/1935.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1944.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "陸軍の派閥抗争激化。　統制派、クーデター計画でっち上げで、<a href=\"../p/mjinzabu.html\">真崎教育総監</a>追い落としを図る。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/05/15　　<a href=\"../1932/05515ji.html\">\n五・一五事件</a>　（<a href=\"../p/ituyosi.html\">犬養首相</a>暗殺）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/03/28　　<a href=\"../1933/03datta.html\">\n日本、国際連盟脱退</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/05/31　　<a href=\"../1933/05tanku.html\">\n塘沽停戦協定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/07/11　　<a href=\"../1933/07sinpe.html\">\n神兵隊事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/11/13　　<a href=\"../1933/11teisi.html\">\n埼玉挺身隊事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/01/23　　<a href=\"../1934/01araki.html\">\n荒木陸相辞任</a>　（後任：<a href=\"../p/hsenjuro.html\">林銑十郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/10/01　　<a href=\"../1934/10rikup.html\">\n陸軍パンフレット「国防の本義と其強化の提唱」発行</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/11/20　　<a 1934=\"\" href\"..=\"\" 11sikan.html\"=\"\">\n士官学校事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/02/19　　<a href=\"../1935/02kikan.html\">\n天皇機関説問題</a>　（<a href=\"../p/ktakeo.html\">菊池武夫</a>、貴族院で天皇機関説を非難）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/07/11　　<a href=\"../1935/07ikens.html\">\n「粛軍に関する意見書」配布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/07/15　　<a href=\"../1935/07masak.html\">\n真崎教育総監更迭</a>　（後任：「統制派」<a href=\"../p/wjotaro.html\">渡辺錠太郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/08/12　　<a href=\"../1935/08aizaw.html\">\n相沢事件</a>　（<a href=\"../p/ntetuzan.html\">永田軍務局長</a>斬殺）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/02/26　　<a href=\"../1936/02226ji.html\">\n二・二六事件</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>ある日<a href=\"../p/tmasanob.html\">辻</a>は、彼の中隊の候補生佐藤勝郎（長崎県大村出身）から、\n彼の隣の中隊の候補生武藤与一が、上級の候補生数名とともに、先輩の<a href=\"../p/mtakaji.html\">村中孝次大尉</a>や<a href=\"../p/iasaici.html\">磯部浅一主計</a>、\n<a href=\"../p/nmitugi.html\">西田税予備少尉</a>らの影響のもとに、国家改造理論の研究グループを作り、何事かを画策している模様で、\n自分も参加をすすめられている、という報告を受けた。\n<a href=\"../p/tmasanob.html\">辻</a>は佐藤候補生に引き続き彼等の動きを偵察することを命じ、その報告によって、\n彼等の計画の概要を知った。\nそれによると、彼等は十一月二十一日の臨時議会の前後に、ほぼ<a href=\"../1932/05515ji.html\">五・一五事件</a>と同様の規模と方法でクーデターを断行し、\n首相<a href=\"../p/okeisuke.html\">岡田啓介</a>、前首相<a href=\"../p/smakoto.html\">斎藤実</a>、公爵<a href=\"../p/skinmoci.html\">西園寺公望</a>らの元老、重臣を暗殺して、警視庁を襲撃し、\n<a href=\"../p/asadao.html\">荒木貞夫</a>、<a href=\"../p/mjinzabu.html\">真崎甚三郎</a>、<a href=\"../p/hsenjuro.html\">林銑十郎</a>らを主体とする軍政府を樹立しようというのであった。\n<a href=\"../p/tmasanob.html\">辻</a>は参謀本部の同僚で、彼より五期先輩の少佐片倉衷（<a href=\"../1945/08gyoku.html\">終戦</a>時少将、第二百二師団長、その後商事会社経営）と、\n同期の憲兵大尉塚本誠（<a href=\"../1945/08gyoku.html\">終戦</a>時大佐、東部憲兵隊司令部高級部員、戦後電通社長室長）に相談して橋本陸軍次官に報告し、\n断乎たる処分を要望した。士官学校事件、あるいは十一月二十日事件というのがこれである。</div>\n<div>以上の記述は、大体、<a href=\"../p/tmasanob.html\">辻</a>、片倉、塚本らの言うところによったものだが、\n当時の候補生武藤与一（戦後葛飾区で書店経営）によれば、このクーデター計画は全く事実無根で、\n<a href=\"../p/tmasanob.html\">辻</a>たちが捏造したものにすぎないという。\nすなわち、<a href=\"../p/tmasanob.html\">辻</a>の内意を受けた佐藤候補生は、革新の同志を装って、武藤に接近し、<a href=\"../p/mtakaji.html\">村中</a>、<a href=\"../p/iasaici.html\">磯部</a>、<a href=\"../p/nmitugi.html\">西田</a>らの家へ案内させると、\nほかの話はそっちのけにして、重臣では誰と誰を殺すべきだとか、蜂起の時期は何時がいいとか、\n夢中になって論ずるので、かえって相手から、今はその時期にあらず、国民全体の盛り上がる力を待つべきだと、\nなだめられたくらいであった。</div>\n<div>しかし、佐藤は色をなして反論し、なおも過激なことを言い募り、また、士官候補生一同の赤誠溢れる要望を、\n青年将校たちは見殺しにするのかなど、畳みかけてくるので、<a href=\"../p/mtakaji.html\">村中</a>たちは彼の熱意に押されて、\n自分でもそれほどハッキリ考えているわけでもない暗殺計画や、大体の時期や、同志の名前を告げて、\n佐藤を一応満足させねばならなかった。\n佐藤はそれをメモして帰り、<a href=\"../p/tmasanob.html\">辻大尉</a>に報告したので、ここに十一月二十日事件という架空の反乱計画がデッチ上げられた。\n（当時中尉だった末松太平の「私の昭和史」の記述も、この事件は<a href=\"../p/tmasanob.html\">辻</a>の陰謀だったと断じている）</div>\n<div>そして武藤、末松らの意見によれば、当時青年将校や士官候補生の間にありもしなかったクーデター計画を、\nわざわざ純真な佐藤候補生を使ってスパイさせた<a href=\"../p/tmasanob.html\">辻</a>の卑劣と狡猾こそ責められるべきであり、\nそれがひいては<a href=\"../p/asaburo.html\">相沢中佐</a>による<a href=\"../1935/08aizaw.html\">永田少将刺殺事件</a>をひき起し、<a href=\"../1936/02226ji.html\">二・二六事件</a>の原因にもなっているという。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/sh_tujim.html\">杉森久英 「参謀・辻政信」</a>\n　Ｐ．７２</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>十一月に、いわゆる士官学校事件が起っている。\n<a href=\"../p/tmasanob.html\">辻</a>が、士官学校生徒を青年将校の<a href=\"../p/mtakaji.html\">村中孝次</a>、<a href=\"../p/iasaici.html\">磯部浅一</a>のもとに出入りさせ、\n彼ら青年将校が不穏な非合法計画を練っていると摘発した事件である。\nこの計画を、<a href=\"../p/tmasanob.html\">辻</a>は、参謀本部の片倉衷少佐や憲兵隊の塚本誠大尉らと共に陸軍次官に訴え、鎮圧を要求した。\nその結果、<a href=\"../p/mtakaji.html\">村中</a>と<a href=\"../p/iasaici.html\">磯部</a>は拘禁され、取り調べを受けた。\nふたりは国家改造運動に熱心な皇道派の将校だったから、これは<a href=\"../p/ntetuzan.html\">永田</a>の指し金であると騒いだ。\n<a href=\"../p/tmasanob.html\">辻</a>も片倉も<a href=\"../p/ntetuzan.html\">永田</a>に近かったから、これも説得力があった。\nのちに<a href=\"../p/mjinzabu.html\">真崎</a>が著わした『備忘録』には、<a href=\"../p/ntetuzan.html\">永田</a>一派の策略であったときめつけている。\nむろん<a href=\"../p/thideki.html\">東條</a>も、この策略の一部を担っていたとの意味が含まれている。</div>\n<div><a href=\"../p/thideki.html\">東條</a>がこの策略に加わっていたか否かは明確ではない。\nが、士官学校内に根強い皇道派の人脈を神経質な目で見ていたのは事実だし、\n生徒が外部の勢力と接するのを嫌い、<a href=\"../p/tmasanob.html\">辻</a>にも相当厳しい目で監視するように命じたことも想像に難くない。\n<a href=\"../p/tmasanob.html\">辻</a>はひときわ功名心に駈られている軍人だ。\n彼が<a href=\"../p/thideki.html\">東條</a>や<a href=\"../p/ntetuzan.html\">永田</a>に忠勤を励んで、事件をでっちあげたこともありえないことではない。</div>\n<div>昭和十年に入るや、<a href=\"../p/mtakaji.html\">村中</a>、<a href=\"../p/iasaici.html\">磯部</a>は停職、士官学校生徒五人が退学処分となった。\nすると<a href=\"../p/mtakaji.html\">村中</a>と<a href=\"../p/iasaici.html\">磯部</a>は、<a href=\"../p/tmasanob.html\">辻</a>と片倉を誣告罪で告訴し、軍法会議で却下されるや「粛軍ニ関スル意見書」を書き、\n軍法会議の柳川平助議長に送り、<a href=\"../1931/033gatu.html\">三月事件</a>、<a href=\"../1931/1010gat.html\">十月事件</a>の経緯をこと細かに明らかにして、\n陸軍士官学校事件も、<a href=\"../p/ntetuzan.html\">永田</a>一派が教育総監の<a href=\"../p/mjinzabu.html\">真崎</a>を失脚させようと仕組んだものだと訴えた。\nこれも無視された。すると皇道派将校はいっそうその活動を強めていった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/hm1tojoh.html\">保阪正康 「東條英機と天皇の時代（上）」</a>\n　Ｐ．１３０</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">おたよりはこちら</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1934.html\">１９３４年</a>\n ＞ <a href=\"#h\">士官学校事件</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

@@ -1,0 +1,579 @@
+{
+ "path": "20c/1934.html",
+ "type": "year",
+ "title": "１９３４年　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９３４年"
+  },
+  {
+   "type": "title2",
+   "html": "昭和９年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"1924.html\">１０年前</a> &gt;&gt;&gt; <a href=\"1933.html\">前年</a> &gt;&gt;&gt; <span class=\"now\">１９３４</span> &gt;&gt;&gt; <a href=\"1935.html\">翌年</a> &gt;&gt;&gt; <a href=\"1944.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"#s4\">パーマネント　　明鏡止水　　昭和維新</a>",
+    "<a href=\"../1932/saito_1.html\">斉藤</a> → <a href=\"../1934/okada_1.html\">岡田内閣</a>"
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"1933.html#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/01/17　　<a href\"..=\"\" 19.html\"=\"\">\n時事新報、「番町会問題をあばく」連載開始</a>　（→帝人事件）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/01/19　　<a href\"..=\"\" 19.html\"=\"\">\nエチオピア皇太子妃に黒田雅子決定　（後にイタリアの干渉で破談）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/01/29　　<a href\"..=\"\" 19.html\"=\"\">\n日本製鉄㈱設立　（製鉄大合同）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/02/04　　<a href\"..=\"\" 19.html\"=\"\">\n五・一五事件民間側判決　（最高無期懲役）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/02/09　　<a href\"..=\"\" 19.html\"=\"\">\n中島商工相辞任　（足利尊氏論で）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/02/15　　<a href\"..=\"\" 19.html\"=\"\">\n政友会代議士、鳩山文相の収賄を追及　（→政友会の内紛激化）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/02/24　　<a href\"..=\"\" 19.html\"=\"\">\n直木三十五没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/03/01　　<a href=\"../1934/03teise.html\">\n満州国帝政実施</a>　（皇帝：<a href=\"../p/fugi.html\">溥儀</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/03/03　　<a href\"..=\"\" 19.html\"=\"\">\n鳩山文相辞任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/03/10　　<a href\"..=\"\" 19.html\"=\"\">\n武藤山治射殺事件　（犯人：福島新吉）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/04/11　　<a href=\"../1934/04hitle.html\">\nヒトラー、軍首脳と洋上会談</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/04/17　　<a href=\"../1934/04amose.html\">\n天羽声明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/04/18　　<a href=\"../1934/04teiji.html\">\n帝人事件発覚</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/04/21　　<a href=\"../1934/04hacik.html\">\n渋谷駅前にハチ公の銅像建立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/04/25　　<a href\"..=\"\" 19.html\"=\"\">\n吉本興業、新橋演舞場で特選漫才大会　（上方漫才の東京進出）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/05/17　　<a href\"..=\"\" 19.html\"=\"\">\n近衛文麿貴族院議長、親善特使として渡米</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/05/30　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/theihaci.html\">\n東郷平八郎</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/06/08　　<a href\"..=\"\" 19.html\"=\"\">\n近衛文麿、Ｆ・ルーズベルト大統領・ハル国務長官と会談</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/06/30　　<a href=\"../1934/06rohmj.html\">\nレーム事件</a>　（<a href=\"../p/hitler_a.html\">ヒトラー</a>、<a href=\"../p/rohm_e.html\">レーム</a>らを粛清）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/07/03　　<a href=\"../1934/saito_9.html\">\n斉藤内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/07/04　　<a href\"..=\"\" 19.html\"=\"\">\n西園寺公望、首相経験者・内大臣・枢密院議長と後継首相について協議</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/07/04　　<a href\"..=\"\" 19.html\"=\"\">\n岡田啓介に組閣命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/07/04　　<a href\"..=\"\" 19.html\"=\"\">\nマリー・キュリー没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/07/07　　<a href\"..=\"\" 19.html\"=\"\">\n鈴木（政友会）総裁、岡田内閣への入閣を拒否</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/07/08　　<a href=\"../1934/okada_1.html\">\n岡田内閣成立</a>　（首相：<a href=\"../p/okeisuke.html\">岡田啓介</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/07/08　　<a href\"..=\"\" 19.html\"=\"\">\n政友会、入閣者３名を除名</a>　（<a href=\"../p/ttakejir.html\">床次</a>・内田・山崎）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/07/25　　<a href\"..=\"\" 19.html\"=\"\">\nドルフース（墺）首相暗殺</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/08/02　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/hinden_p.html\">\nヒンデンブルク</a>没　（ドイツ大統領）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/08/19　　<a href\"..=\"\" 19.html\"=\"\">\nヒトラー、首相と大統領を兼任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/08/29　　<a href\"..=\"\" 19.html\"=\"\">\n松田文相、「パパ、ママ」の呼称を非難</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/09/01　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/tyumeji.html\">\n竹久夢二</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/09/18　　<a href=\"../1934/09s_kam.html\">\nソ連、国際連盟加盟</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/09/21　　<a href\"..=\"\" 19.html\"=\"\">\n室戸台風</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"1935.html#s1\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/10/01　　<a href\"..=\"\" 19.html\"=\"\">\n陸軍省「国防の本義とその強化の提唱（陸軍パンフレット）」発行</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/10/15　　<a href=\"../1934/10cyose.html\">\n紅軍、瑞金を脱出　（長征開始）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/11/01　　<a href\"..=\"\" 19.html\"=\"\">\n若槻礼次郎、民政党総裁辞任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/11/01　　<a href=\"../1934/11ajiag.html\">\n満鉄、特急あじあ号運転開始</a>　（大連・新京間）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/11/02　　<a href\"..=\"\" 19.html\"=\"\">\nベーブ・ルースら米大リーグ選抜チーム来日</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/11/20　　<a href\"..=\"\" 19.html\"=\"\">\n士官学校事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/12/01　　<a href\"..=\"\" 19.html\"=\"\">\n丹那トンネル開通</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/12/01　　<a href=\"../1934/12kirov.html\">\nキーロフ（レニングラード・ソビエト議長）暗殺　（粛清開始）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/12/03　　<a href\"..=\"\" 19.html\"=\"\">\nワシントン条約単独廃棄を閣議決定　（12/29 アメリカ政府に通告）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/12/05　　<a href\"..=\"\" 19.html\"=\"\">\n西園寺公望暗殺未遂で少年血盟団員を逮捕</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/12/08　　<a href\"..=\"\" 19.html\"=\"\">\n日米国際無線電話開通式</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/12/26　　<a href=\"../1934/12kyoji.html\">\n職業野球団大日本東京野球倶楽部（東京巨人軍）結成</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1932/saito_1.html\">斉藤</a> → <a href=\"../1934/okada_1.html\">岡田内閣</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">パーマネント　　明鏡止水　　昭和維新</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「紋章」　「陰翳礼讃」　「転形期の文学」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">「生きとし生けるもの」</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">聖典講義</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">赤城の子守唄</td></tr>\n</tbody>"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"#h\">１９３４年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

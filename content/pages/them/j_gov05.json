@@ -1,0 +1,567 @@
+{
+ "path": "them/j_gov05.html",
+ "type": "theme",
+ "title": "【テーマ・内閣成立史 05】　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "them.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "【テーマ・内閣成立史 05】"
+  },
+  {
+   "type": "title2",
+   "html": "クリック ２０世紀"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"j_gov04.html\">前頁</a> &lt;&lt;&lt; <a href=\"j_gov.html\">テーマ</a> &gt;&gt;&gt; <a href\"j_gov06.html\"=\"\">次頁</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move1"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"j_gov04.html#s5\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "t_tx"
+   },
+   "html": "\n<b>●<a href=\"../1931/inu_1.html\">犬養内閣</a>の成立　（<a href=\"../1931/waka2_1.html\">若槻内閣②</a>の終焉）</b><br>\n政府の不拡大方針にもかかわらず拡大を続ける満州事変と、<a href=\"../1931/033gatu.html\">三月事件</a>に続いて起こった十月事件が、\n気弱な官僚出身政治家<a href=\"../p/wreijiro.html\">若槻礼次郎</a>を脅かしていた。<br>\n政権運営に自信を失った<a href=\"../p/wreijiro.html\">若槻首相</a>は、政友会を取り込むことで内閣の求心力を増そうと考え、この工作を<a href=\"../p/akenzo.html\">安達内相</a>に指示した。\n<a href=\"../p/akenzo.html\">安達</a>はこれを推進した。だが<a href=\"../p/akenzo.html\">安達</a>の動きを知るや、<a href=\"../p/ijunnosu.html\">井上蔵相</a>、<a href=\"../p/skijuro.html\">幣原外相</a>が強硬に反対した。\n政友会に発言権を与えれば、<a href=\"../p/ijunnosu.html\">井上</a>財政、<a href=\"../p/skijuro.html\">幣原</a>外交は崩壊するというのがその主張だった。\n<a href=\"../p/wreijiro.html\">若槻首相</a>は協力内閣構想をあっさり放棄した。<br>\n協力内閣を作りたいと言ったのは首相、あなたではないかと<a href=\"../p/akenzo.html\">安達</a>は怒った。\n閣議をボイコットし、辞表の提出も拒んだ。<a href=\"../1931/waka2_1.html\">若槻内閣②</a>は閣内不統一で総辞職した。<br>\n<a href=\"../p/skinmoci.html\">西園寺</a>は、<a href=\"../p/ijunnosu.html\">井上</a>財政と<a href=\"../p/skijuro.html\">幣原</a>外交に未練を残しつつ、<a href=\"../p/wreijiro.html\">若槻</a>への失望を禁じえず、憲政常道論の立場から政友会総裁<a href=\"../p/ituyosi.html\">犬養毅</a>を首相に推薦した。\nこうして犬養内閣は成立した。<br>\n◎キングメーカー：<a href=\"../p/skinmoci.html\">西園寺公望</a>（元老）<br>\n<div class=\"r\"><a href=\"../1931/inu_1~.html\">[閣僚名簿]</a></div>\n"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/09/18　　<a href=\"../1931/09ryujo.html\">\n柳条湖事件</a>　（満州事変勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/09/24　　<a href=\"../1931/09fukak.html\">\n政府、不拡大方針を声明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/10/17　　<a href=\"../1931/1010gat.html\">\n十月事件</a>　（桜会によるクーデター未遂）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/11/18　　<a href=\"../1931/11zohak.html\">\n日本政府、満州への増派を閣議決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/11/21　　<a href=\"../1931/11adaci.html\">\n安達内相、政友・民政協力内閣を主張　（声明発表）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/12/11　　<a href=\"../1931/waka2_9.html\">\n若槻内閣②総辞職</a>　（<a href=\"../p/akenzo.html\">安達内相</a>の辞任拒否で閣内不統一）"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/12/13　　<a href=\"../1931/inu_1.html\">\n犬養内閣成立</a>　（首相：<a href=\"../p/ituyosi.html\">犬養毅</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "t_tx"
+   },
+   "html": "\n<b>●<a href=\"../1932/saito_1.html\">斉藤内閣</a>の成立　（<a href=\"../1931/inu_1.html\">犬養内閣</a>の終焉）</b><br>\n歴史はすでにテロの時代に入っていた。\n浜口首相狙撃事件、<a href=\"../1931/033gatu.html\">三月事件</a>、<a href=\"../1931/1010gat.html\">十月事件</a>、<a href=\"../1932/03ketu2.html\">血盟団事件</a>に続いて起こった<a href=\"../1932/05515ji.html\">五・一五事件</a>が、\n<a href=\"../p/ituyosi.html\">犬養首相</a>の命を奪い、その内閣を崩壊させた。\n弁舌に生きた<a href=\"../p/ituyosi.html\">犬養</a>の最後の言葉は「話せばわかる」、だがその訴えは「問答無用」の一言で打ち砕かれた。<br>\n<a href=\"../p/skinmoci.html\">西園寺</a>は、<a href=\"../p/skantaro.html\">鈴木侍従長</a>の手から、<a href=\"../p/stenno.html\">昭和天皇</a>の次期首相に関する「希望」７ヵ条を受け取った。異例のことだった。\nその４番目には「ファッショに近きものは絶対に不可なり」とあり、<a href=\"../p/stenno.html\">天皇</a>の憂慮の深刻さを物語っていた。<br>\nテロによって政権が動くことはない、だから次も自分たちと信じた政友会は、\n早々に後継総裁を<a href=\"../p/skisabur.html\">鈴木喜三郎</a>に決定し、組閣命令を待っていた。だが、<a href=\"../p/skinmoci.html\">西園寺</a>は迷いに迷った。\n憲政常道論になお未練を残しつつも、<a href=\"../p/skisabur.html\">鈴木</a>が後継首相にふさわしいとは思えなかった。\n司法官僚出身で天皇親政論者の<a href=\"../p/skisabur.html\">鈴木</a>は、<a href=\"../p/skinmoci.html\">西園寺</a>から見れば「ファッショに近きもの」そのものだった。<br>\n<a href=\"../p/skinmoci.html\">西園寺</a>は、朝鮮総督として実績のある海軍の重鎮<a href=\"../p/smakoto.html\">斉藤実</a>を後継首相に推薦した。\n<a href=\"../p/smakoto.html\">斉藤</a>は国際協調論者でもあった。こうして政党政治は終わり、斉藤内閣が成立した。\nこの内閣には、政友会から<a href=\"../p/tkorekiy.html\">高橋是清</a>、<a href=\"../p/mcyuzo.html\">三土忠造</a>、<a href=\"../p/hiciro.html\">鳩山一郎</a>が、民政党から山本達雄、<a href=\"../p/nryutaro.html\">永井柳太郎</a>が入閣した。<br>\n◎キングメーカー：<a href=\"../p/skinmoci.html\">西園寺公望</a>（元老）<br>\n<div class=\"r\"><a href=\"../1932/saito_1~.html\">[閣僚名簿]</a></div>\n"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/01/28　　<a href=\"../1932/01syan1.html\">\n上海事変①勃発</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/02/09　　<a href=\"../1932/02ketu1.html\">\n血盟団事件①</a>　（<a href=\"../p/ijunnosu.html\">井上準之助</a>暗殺）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/02/20　　<a href\"..=\"\" 19.html\"=\"\">\n総選挙[18]　（政友会301、民政党146、無産諸派5）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/03/05　　<a href=\"../1932/03ketu2.html\">\n血盟団事件②</a>　（<a href=\"../p/dtakuma.html\">団琢磨</a>暗殺）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/05/15　　<a href=\"../1932/05515ji.html\">\n五・一五事件</a>　（<a href=\"../p/ituyosi.html\">犬養首相</a>暗殺）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/05/16　　<a href=\"../1932/inu_9.html\">\n犬養内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/05/20　　<a href=\"../1932/05suzuk.html\">\n鈴木喜三郎、政友会総裁⑦就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/05/26　　<a href=\"../1932/saito_1.html\">\n斉藤内閣成立</a>　（首相：<a href=\"../p/smakoto.html\">斉藤実</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "t_tx"
+   },
+   "html": "\n<b>●<a href=\"../1934/okada_1.html\">岡田内閣</a>の成立　（<a href=\"../1932/saito_1.html\">斉藤内閣</a>の終焉）</b><br>\n<a href=\"../p/stenno.html\">天皇</a>に言われるまでもなく<a href=\"../p/skinmoci.html\">西園寺</a>自身ファッショが嫌いで、右翼国本社の総帥<a href=\"../p/hkiiciro.html\">平沼騏一郎</a>を忌避していた。\n<a href=\"../p/theihaci.html\">東郷</a>などはすでに<a href=\"../1932/05515ji.html\">五・一五事件</a>の直後、次期首相に<a href=\"../p/hkiiciro.html\">平沼</a>を推していたが、\n<a href=\"../p/skinmoci.html\">西園寺</a>は枢密院副議長だった<a href=\"../p/hkiiciro.html\">平沼</a>の議長昇格さえ拒否し、宮内大臣だった<a href=\"../p/ikitokur.html\">一木喜徳郎</a>を議長に就けた。\n<a href=\"../p/skinmoci.html\">西園寺</a>を中心とした宮廷勢力と<a href=\"../p/hkiiciro.html\">平沼</a>を中心としたファッショ勢力の暗闘がこうして始まった。<br>\n<a href=\"../1934/04teiji.html\">帝人事件</a>で財界との癒着を攻撃され斉藤内閣は倒れた。\n事件は倒閣のために仕組まれたワナだったが、それが明らかになり、司法ファッショと呼ばれるのはのちのことである。\n背後にはもちろん<a href=\"../p/hkiiciro.html\">平沼</a>ら反宮廷勢力がいた。<br>\n<a href=\"../p/skinmoci.html\">西園寺</a>は屈しなかった。新たに重臣会議を設け、ここで後継首相を推薦するという形式をとるとともに、\nこれを切り回して<a href=\"../p/okeisuke.html\">岡田啓介</a>の推薦に成功した。このとき<a href=\"../p/okeisuke.html\">岡田</a>は海軍大臣。\nロンドン軍縮の締結に積極的だったリベラル派である。<br>\n民政党の<a href=\"../p/wreijiro.html\">若槻総裁</a>はこの内閣に協力することを約束したが、政友会<a href=\"../p/skisabur.html\">鈴木総裁</a>はこれを拒否した。\n民政党からは<a href=\"../p/mcyuji.html\">町田忠治</a>、松田源治が入閣、政友会からは<a href=\"../p/ttakejir.html\">床次竹二郎</a>、山崎達之助、内田信也が入閣したが、\n三名は同時に政友会から除名された。こうして岡田内閣は成立した。<br>\n◎キングメーカー：<a href=\"../p/skinmoci.html\">西園寺公望</a>（元老）、重臣会議<br>\n<div class=\"r\"><a href=\"../1934/okada_1~.html\">[閣僚名簿]</a></div>\n"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/01/17　　<a href\"..=\"\" 19.html\"=\"\">\n時事新報、「番町会問題をあばく」連載開始</a>　（→帝人事件）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/02/09　　<a href\"..=\"\" 19.html\"=\"\">\n中島商工相辞任　（足利尊氏論で）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/03/03　　<a href\"..=\"\" 19.html\"=\"\">\n鳩山文相辞任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/04/18　　<a href=\"../1934/04teiji.html\">\n帝人事件発覚</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/07/03　　<a href=\"../1934/saito_9.html\">\n斉藤内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/07/04　　<a href\"..=\"\" 19.html\"=\"\">\n西園寺公望、首相経験者・内大臣・枢密院議長と後継首相について協議</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/07/04　　<a href\"..=\"\" 19.html\"=\"\">\n岡田啓介に組閣命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/07/07　　<a href\"..=\"\" 19.html\"=\"\">\n鈴木（政友会）総裁、岡田内閣への入閣を拒否</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/07/08　　<a href=\"../1934/okada_1.html\">\n岡田内閣成立</a>　（首相：<a href=\"../p/okeisuke.html\">岡田啓介</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "t_tx"
+   },
+   "html": "\n<b>●<a href=\"../1936/hiro_1.html\">広田内閣</a>の成立　（<a href=\"../1934/okada_1.html\">岡田内閣</a>の終焉）</b><br>\n二・二六事件が岡田内閣を吹き飛ばした。一時は<a href=\"../p/okeisuke.html\">岡田首相</a>の死亡さえ伝えられたほどである。<br>\n<a href=\"../p/skinmoci.html\">西園寺</a>は切り札を切る決意をした。<a href=\"../p/kfumimar.html\">近衛文麿</a>である。\nだが、肝心の<a href=\"../p/kfumimar.html\">近衛</a>は健康上の問題を理由に首相就任を拒んだ。\nあんたが健康のことをいうんなら、八十八歳のこち（私）はとないなりますんや、と<a href=\"../p/skinmoci.html\">西園寺</a>は激怒したが、\n<a href=\"../p/kfumimar.html\">近衛</a>の意思は固くどうにもならなかった。<br>\n<a href=\"../p/kfumimar.html\">近衛</a>にはふられ、人材払底に悩む<a href=\"../p/skinmoci.html\">西園寺</a>は、宮廷グループのいずれか（諸説あり）から、\n<a href=\"../p/hkoki.html\">広田外相</a>はどうかと提案を受け、これに乗った。\n<a href=\"../p/kfumimar.html\">近衛</a>も<a href=\"../p/hkoki.html\">広田</a>説得に動き、話はとんとん拍子に進んだ。<br>\nだが、これに陸軍が立ちはだかり、未曾有の大組閣干渉が行われた。\n<a href=\"../p/hkoki.html\">広田</a>は譲歩に譲歩を重ねた。こうして、ようやく陸軍のお許しを得て<a href=\"../1936/hiro_1.html\">広田内閣</a>は成立した。<br>\n◎キングメーカー：<a href=\"../p/skinmoci.html\">西園寺公望</a>（元老）、重臣会議<br>\n<div class=\"r\"><a href=\"../1936/hiro_1~.html\">[閣僚名簿]</a></div>\n"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/02/19　　<a href=\"../1935/02kikan.html\">\n天皇機関説問題</a>　（<a href=\"../p/ktakeo.html\">菊池武夫</a>、貴族院で天皇機関説を非難）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/07/16　　<a href=\"../1935/07masak.html\">\n真崎教育総監罷免</a>　（後任：「統制派」<a href=\"../p/wjotaro.html\">渡辺錠太郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/08/12　　<a href=\"../1935/08aizaw.html\">\n相沢事件　（永田軍務局長斬殺）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/02/26　　<a href=\"../1936/02226ji.html\">\n二・二六事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/02/28　　<a href=\"../1936/okada_9.html\">\n岡田内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/02/29　　<a href\"..=\"\" 19.html\"=\"\">\n戒厳司令部、「兵に告ぐ」ラジオ放送</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/02/29　　<a href\"..=\"\" 19.html\"=\"\">\n戒厳部隊、討伐行動開始　（→反乱軍帰順）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/03/04　　<a href=\"../1936/03konoe.html\">\n近衛文麿に組閣命令　（辞退）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/03/05　　<a href=\"../1936/hiro_0.html\">\n広田弘毅に組閣命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/03/06　　<a href=\"../1936/03kansy.html\">\n陸軍（陸相予定者寺内寿一）組閣干渉</a>　（自由主義者の排除を要求）"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/03/09　　<a href=\"../1936/hiro_1.html\">\n広田内閣成立</a>　（首相：<a href=\"../p/hkoki.html\">広田弘毅</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href\"j_gov06.html#s1\"=\"\">▽</a><a href=\"#s5\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "t_tx"
+   },
+   "html": "\n<b>●宇垣内閣の不成立　（<a href=\"../1936/hiro_1.html\">広田内閣</a>の終焉）</b><br>\n議会には陸軍の横暴に対する不満がわだかまっていたが、<a href=\"../p/hkunimat.html\">浜田国松議員</a>が「割腹問答」で<a href=\"../p/thisaici.html\">寺内陸相</a>から一本取り、\nようやくわずかに溜飲を下げることができた。<br>\nやりこめれた<a href=\"../p/thisaici.html\">寺内陸相</a>は収まらなかった。<a href=\"../p/hkoki.html\">広田首相</a>に議会の懲罰解散を強硬に要求した。\n<a href=\"../p/hkoki.html\">広田</a>は往年の<a href=\"../p/wreijiro.html\">若槻礼次郎</a>を髣髴とさせる気力のなさで、あっさり政権を投げ出した。\n彼はすでに８ヵ月前に軍部大臣現役武官制の復活を許していた。<br>\n人材が底をつく一方、後継首相の条件はいっそう厳しいものになっていた。陸軍を抑えられるのは誰か。\n<a href=\"../p/skinmoci.html\">西園寺</a>は<a href=\"../p/ukazusig.html\">宇垣一成予備役陸軍大将</a>を後継首相に推薦する腹を固めた。こうして<a href=\"../p/ukazusig.html\">宇垣</a>に組閣命令が下った。<br>\n陸軍は、<a href=\"../p/ikanji.html\">石原莞爾</a>を中心に、<a href=\"../p/ukazusig.html\">宇垣</a>首班を拒否した。\nタテマエの理由は<a href=\"../1931/033gatu.html\">三月事件</a>に関与した<a href=\"../p/ukazusig.html\">宇垣</a>は不適任というものだったが、\nホンネでは、もっと御しやすい人物を首相に据えたいと考えていたのだった。<br>\n軍部大臣現役武官制が復活する前なら、予備役の<a href=\"../p/ukazusig.html\">宇垣</a>が陸相を兼任するなどして組閣することも可能だったが、\n今は陸軍に一致して拒否されれば、陸相が得られず、内閣を成立させることができない。\n後輩たちからの拒絶にあった<a href=\"../p/ukazusig.html\">宇垣</a>は、個人的な人脈を頼りに陸相獲得工作を行ったが、\nついに現役官僚の壁を破ることはできなかった。\n<a href=\"../p/ukazusig.html\">宇垣</a>は最後に天皇の力にすがろうとしたが、これもかなわず組閣を断念した。\nこうして宇垣内閣は不成立に終わった。<br>\nちなみに、<a href=\"../p/ikanji.html\">石原</a>はのちに「<a href=\"../p/ukazusig.html\">宇垣</a>反対は千慮の一失であった」と吐露している。<br>\n◎キングメーカー：<a href=\"../p/skinmoci.html\">西園寺公望</a>（元老）、重臣会議<br>\n"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/05/18　　<a href=\"../1936/05bukan.html\">\n軍部大臣現役武官制復活</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/01/21　　<a href=\"../1937/01kappu.html\">\n浜田国松「割腹問答」</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/01/21　　<a href=\"../1937/01terau.html\">\n寺内陸相、広田首相に解散を要求</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/01/23　　<a href=\"../1937/hiro_9.html\">\n広田内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/01/25　　<a href=\"../1937/01ugaki.html\">\n宇垣一成に組閣命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/01/29　　<a href=\"../1937/01ryuza.html\">\n宇垣内閣流産</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"j_gov.html\">【テーマ・内閣成立史】</a>\n ＞ <a href=\"#h\">【テーマ・内閣成立史 05】</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

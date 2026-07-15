@@ -1,0 +1,209 @@
+{
+ "path": "1900/09seiyu.html",
+ "type": "article",
+ "title": "政友会結成　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href\"..=\"\" 20c=\"\" 1900.html\"=\"\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "政友会結成"
+  },
+  {
+   "type": "title2",
+   "html": "1900/09/15"
+  },
+  {
+   "type": "navi2",
+   "html": "\n１０年前 &gt;&gt;&gt; 前年 &gt;&gt;&gt; <a href\"..=\"\" 20c=\"\" 1900.html\"=\"\">１９００</a> &gt;&gt;&gt; <a href=\"../20c/1901.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1910.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "憲政党に官界、実業界の人材を加え、三井の資金援助を受けて、伊藤新党が船出。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1900/08/23　　<a href\"..=\"\" 19.html\"=\"\">\n憲政党、伊藤新党への無条件参加を申し入れ</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1900/09/13　　<a href\"..=\"\" 19.html\"=\"\">\n憲政党解党宣言　（政友会に参加）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1900/09/15　　<a 1900=\"\" href\"..=\"\" 09seiyu.html\"=\"\">\n政友会結成</a>　（総裁：<a href=\"../p/ihirobum.html\">伊藤博文</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1900/09/26　　<a href\"..=\"\" 19.html\"=\"\">\n山県内閣②総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1900/10/19　　<a href=\"../1900/ito4_1.html\">\n伊藤内閣④成立</a>　（首相：<a href=\"../p/ihirobum.html\">伊藤博文</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1902/12/03　　<a href\"..=\"\" 19.html\"=\"\">\n伊藤・大隈会談</a>　（<a href=\"../p/ktakaaki.html\">加藤高明</a>の斡旋）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1903/07/14　　<a href\"..=\"\" 19.html\"=\"\">\n西園寺公望、政友会総裁②就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/01/16　　<a href=\"../1924/01seiyu.html\">\n政友会分裂</a>　（清浦内閣支持派148名が離党）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>義和団鎮圧の見通しがついた九月十五日、<a href=\"../p/ihirobum.html\">伊藤博文</a>を総裁とする立憲政友会の発会式が行なわれた。\n自由党の後身である憲政党はみずから解党して政友会にはせ参じていた。\n<a href=\"../p/ihirobum.html\">伊藤</a>は前年清国視察から帰ると、新政党組織のための遊説を精力的に行なっていたが、彼の演説の一つの力点は、\n経済的な海外進出の重要性を説くことであった。\n最近の戦争は経済的利権をめぐる戦争であると述べた<a href=\"../p/ihirobum.html\">伊藤</a>は、帝国主義時代の基本的な特徴を認識するとともに、\n帝国主義政策を遂行するために実業家を中核とする政治勢力を結集、拡大し、安定した政府をつくることが必要と考えたのであった。\n政友会結成にあたって、各地の商業会議所会頭、資本金十万円以上の銀行頭取、資本金五万円以上の会社社長などに入会勧誘状が発せられているのは、\n<a href=\"../p/ihirobum.html\">伊藤</a>のこのような意図によるものであった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ft_nicir.html\">古屋哲夫 「日露戦争」</a>\n　Ｐ．２２</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>竹越の『陶庵公』には次のような話が出ている。</div>\n<div>三十二年四月のある夜、<a href=\"../p/skinmoci.html\">西園寺</a>は竹越と岡崎邦輔（陸奥宗光の従弟、自由党、憲政党の代議士、\n後政友会総務、<a href=\"../1924/katob_1.html\">第一次加藤高明内閣</a>の農相）に対して、\n「伊藤が政党を組織した場合憲政党はその中心となる気があるだろうか」と問うた。\nこれに対して二人は「全党をあげて賛同するであろう」と答えた。<a href=\"../p/skinmoci.html\">西園寺</a>は<a href=\"../p/ihirobum.html\">伊藤</a>にこの情報を送り、</div>\n<div>「漠然と散漫なる分子を糾合するよりも、既成の憲政党を基礎としてこれに新鮮な分子を加え新党を作るが得策であり、\n公が起てば自分も賛同しよう」</div>\n<div>とすすめた。</div>\n<div>長州出身の<a href=\"../p/ihirobum.html\">伊藤</a>は木戸の例に倣ってここで再び公卿と組むことを考え決行に踏み切った。\n一方で<a href=\"../p/ihirobum.html\">伊藤</a>はそろそろ<a href=\"../p/skinmoci.html\">西園寺</a>を自分の二代目とすることを考えていた。\n（<a href=\"../p/yaritomo.html\">山県</a>が二世として<a href=\"../p/ktaro.html\">桂</a>を育てていたように）</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm_saion.html\">豊田穣 「西園寺公望」</a>\n　上巻　Ｐ．２９１</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href\"..=\"\" 20c=\"\" 1900.html\"=\"\">１９００年</a>\n ＞ <a href=\"#h\">政友会結成</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

@@ -1,0 +1,153 @@
+{
+ "path": "1921/01mante.html",
+ "type": "article",
+ "title": "満鉄疑獄事件発覚　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1921.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "満鉄疑獄事件発覚"
+  },
+  {
+   "type": "title2",
+   "html": "1921/01/31"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1911.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1920.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1921.html\">１９２１</a> &gt;&gt;&gt; <a href=\"../20c/1922.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1931.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "政友会幹部のかげ ちらちら。　大陸を舞台にした裏金工作（！？）の一端がちくりでバレた。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/09/29　　<a href=\"../1918/hara_1.html\">\n原内閣成立</a>　（首相：<a href=\"../p/htakasi.html\">原敬</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/05/20　　<a href\"..=\"\" 19.html\"=\"\">\n総選挙[14]　（政友会278、憲政会110、国民党29、他47）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/01/31　　<a 1921=\"\" href\"..=\"\" 01mante.html\"=\"\">\n満鉄疑獄事件発覚</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/11/04　　<a href=\"../1921/11harax.html\">\n原首相刺殺事件</a>　（東京駅／犯人：中岡艮一）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>１月31日の衆議院予算委員会の席上、野党憲政会が満州鉄道の炭鉱・汽船買収問題を取り上げ、政府を追及した。\n疑獄事件に火をつけたのは、大阪毎日新聞が報道した元満鉄職員の手記だった。</div>\n<div>疑獄の主人公は満鉄副社長の中西清一。\n満州・撫順炭鉱の近くに搭連炭鉱という日中合併の小規模の炭鉱があり、これを満鉄が220万円で購入した。\nところが、三月に株主や憲政会系弁護士が出した告訴状によれば、同炭鉱の実価は70万円とされていた。</div>\n<div>中西は、<a href=\"../1918/hara_1.html\">原内閣成立</a>で逓信次官にばってきされ、その後満鉄入りし、実権を握ったが、<a href=\"../p/htakasi.html\">原</a>との関係が噂された。\nまた、同炭鉱の日本側経営者の東洋炭鉱には、この年の総選挙に政友会から立候補した<a href=\"../p/mkaku.html\">森恪</a>が専務取締役を務めていた。\n買収金のうち30万円が先に支払われ、これが<a href=\"../p/mkaku.html\">森</a>と政友会の選挙資金にあてられたとの疑惑がもたれた。</div>\n<div>さらに満鉄の子会社の大連汽船が三菱造船所との契約を解除して、政友会と関係の深い内田信也が経営する造船所から\n汽船「鳳山丸」（8500㌧）を276万円で買ったことも問題化した。</div>\n<div>当時の満鉄は資金が乏しく、従業員への賃金支払いも困っていただけに、\n“豪勢”な買い物には疑惑の目が向けられるのは当然だった。</div>\n<div>中西は第一審では背任で有罪、懲役10か月の判決を受けたが、二審では証拠不十分で無罪となった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ys_20sei.html\">読売新聞社 「読む年表・20世紀と昭和天皇」</a>\n　Ｐ．２９</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1921.html\">１９２１年</a>\n ＞ <a href=\"#h\">満鉄疑獄事件発覚</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

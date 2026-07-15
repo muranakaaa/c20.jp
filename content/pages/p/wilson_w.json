@@ -1,0 +1,263 @@
+{
+ "path": "p/wilson_w.html",
+ "type": "person",
+ "title": "ウッドロー・ウイルソン　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "p.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "ウッドロー・ウイルソン"
+  },
+  {
+   "type": "title2",
+   "html": "1856 － 1924"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "prof"
+   },
+   "html": "\n大統領（民主党）、プリンストン大総長、ニュージャー州知事　／ アメリカ"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"01a.html\">一覧　（ア）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_r\">エピソード 1</span>調査中。"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<tbody><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/03/04　　<a href\"..=\"\" 19.html\"=\"\">\nウイルソン、アメリカ大統領就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/07/28　　<a href=\"../1914/07taise.html\">\nオーストリア、セルビアに宣戦布告</a>　（第一次世界大戦勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/05/07　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ潜水艦、イギリス客船ルシタニア号を撃沈</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/05/13　　<a href\"..=\"\" 19.html\"=\"\">\nウイルソン（米）大統領、ルシタニア号撃沈についてドイツに抗議</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1917/04/06　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ、対独参戦</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1917/11/02　　<a href=\"../1917/11isiil.html\">\n石井・ランシング協定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/01/08　　<a href=\"../1918/01wil14.html\">\nウイルソン（米）大統領、１４か条宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/07/08　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ、チェコ軍救援のためウラジオストック日米共同出兵を提案</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/01/18　　<a href=\"../1919/01paris.html\">\nパリ講和会議開催</a>　（～06/28／首席全権：<a href=\"../p/skinmoci.html\">西園寺公望</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/06/28　　<a href=\"../1919/06versa.html\">\nベルサイユ条約調印</a>　（北京政府、調印拒否）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/01/10　　<a href=\"../1920/01renme.html\">\n国際連盟発足</a>　（日本、理事国として加盟／提唱国アメリカ不参加）"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/02/03　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/wilson_w.html\">\nウッドロー・ウイルソン</a>没"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>ウィルソンは、ヴァジニア州スタントンの長老派の牧師の家に生まれた。\n母方の祖父も長老派の牧師だった。\n家族はその後、ジョージア州オーガスタ、サウスカロライナ州コロンビア、ノースカロライナ州ウィルミントンに移り住み、\n父は教会の牧師や神学校の教授をつとめた。\nウィルソンの正式の名前はトマス・ウッドローで、二十代初め頃まではトミーと呼ばれていた。\n姉二人、弟一人の六人家族は親密で、とりわけウィルソンは敬虔な信仰と広い学識をもち南部を愛する父を尊敬し、\n大きな影響を受けた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/sk_daito.html\">猿谷要 「アメリカ大統領物語」</a>\n　Ｐ．１１４</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>念願の政界への道は、一九一〇年のニュージャージー州知事（民主党）から始まった。\n二年間の在任中に多くの改革を実行し、革新知事として名声をあげていた。</div>\n<div>一九一二年の大統領選挙は、共和党のウィリアム・タフトと革新党を組織した<a href=\"../p/roosev_t.html\">シオドア・ローズヴェルト</a>、民主党のウィルソンで争われ、\n「新しい自由」の構想をかかげたウィルソンの勝利に終った。\n共和党の分裂が勝因とも言われるが、強力な政府の出現に危惧をいだいた国民の「建国の理想に還る」政治の革新に期待したためであろう。</div>\n<div>第二十八代大統領としての第一期は、政治理念を次々と実現させた。\n主なものは、関税引き上げ、連邦準備制の確立、低利・長期の農民金融の発足、連邦通商委員会の新設による公正取引の保証、\nクレイトン反トラスト法の制定、二つの憲法修正による禁酒と婦人参政権（再選後）の実現等である。\n第二期目は<a href=\"../1914/07taise.html\">第一次世界大戦勃発</a>に伴い、主に外交問題と取り組んだ。\nウィルソンの外交理念は「宣教師外交」とも呼ばれ、人類のために民主主義を広めるという理念を持っていた。\n大戦に対しては早々に中立を宣言したが、アメリカへの影響も無視できなくなり、\n「アメリカを戦争から護る」ことをスローガンに掲げて再選された。</div>\n<div>講和のために積極的に尽力したが、交戦国の反応はあまり無く、ドイツの無制限潜水艦戦の宣言により、\n非武装のアメリカ商船の無警告撃沈に伴い高まる世論を無視できず、遂に一九一七年四月対独宣戦布告を議決した。\n一九一八年にはウィルソンの理想主義、国際協調主義が表現されている、世界の目指す平和の構想を示した<a href=\"../1918/01wil14.html\">「十四ヵ条」を発表</a>し、\n平和達成のために正しい講和への足場を築こうとした。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/sk_am101.html\">猿谷要 「アメリカ史重要人物１０１」</a>\n　Ｐ．１２６</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n<br>「ウイルソン」は「ウィルソン」とも表記されることがあります。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"01a.html\">人物ファイル一覧　（ア）</a>\n ＞ <a href=\"#h\">ウッドロー・ウイルソン</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

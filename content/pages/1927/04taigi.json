@@ -1,0 +1,227 @@
+{
+ "path": "1927/04taigi.html",
+ "type": "article",
+ "title": "枢密院、台湾銀行救済緊急勅令案を否決　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1927.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "枢密院、台湾銀行救済緊急勅令案を否決"
+  },
+  {
+   "type": "title2",
+   "html": "1927/04/17"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1917.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1926.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1927.html\">１９２７</a> &gt;&gt;&gt; <a href=\"../20c/1928.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1937.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "協調外交が気に入らない枢密院も<a href=\"../1926/waka1_1.html\">若槻内閣①</a>にいじわる。おかげで金融恐慌拡大。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/11/20　　<a href\"..=\"\" 19.html\"=\"\">\n政府・日銀、鈴木商店・日本製粉救済のため、資金援助措置を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/12/18　　<a href\"..=\"\" 19.html\"=\"\">\n全国の製糸会社、12/31まで操業中止　（生糸相場暴落のため）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/03/14　　<a href=\"../1927/03katao.html\">\n片岡蔵相失言</a>　（→金融恐慌）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/03/15　　<a href=\"../1927/03torit.html\">\n東京渡辺銀行などで取付け騒ぎ</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/03/24　　<a href=\"../1927/03nanki.html\">\n南京事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/04/12　　<a href=\"../1927/04syanh.html\">\n蒋介石、上海クーデター　（国共分離）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/04/17　　<a 1927=\"\" href\"..=\"\" 04taigi.html\"=\"\">\n枢密院、台湾銀行救済緊急勅令案を否決</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/04/17　　<a href=\"../1927/waka1_9.html\">\n若槻内閣①総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/04/20　　<a href=\"../1927/tanaa_1.html\">\n田中（義）内閣成立</a>　（首相：<a href=\"../p/tgiici.html\">田中義一</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/04/22　　<a href\"..=\"\" 19.html\"=\"\">\n支払猶予令</a>　（３週間のモラトリアム／蔵相：<a href=\"../p/tkorekiy.html\">高橋是清</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/07/31　　<a href\"..=\"\" 19.html\"=\"\">\n鈴木商店倒産</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>台湾銀行救済事件とは、第一次大戦以来同銀行が鈴木商店に与えていた五億円に達する不正貸付に原因を発する。\n三井銀行が台湾銀行に与えていたコールローン一千万円を引き揚げると、各銀行も台湾銀行危しとみてそれにならった。\n四月十三日、若槻内閣は日銀の特別貸出しによって倒産に瀕している台銀を救済しようとしたが、\nすでに三月三十一日議会は閉会となっており、それには枢密院の承認が要る。\n四月十七日、倉富勇三郎を議長とする同院はこれを否決、内閣は総辞職に追い込まれた。</div>\n<div>台銀問題の裏には、<a href=\"../p/wreijiro.html\">若槻</a>を倒して伊東（巳代治）を引き出そうという枢密院の暗躍があり、\n馬場瑛一（<a href=\"#cyu\">※</a>）、水野、<a href=\"../p/tkorekiy.html\">高橋</a>、<a href=\"../p/oheikici.html\">小川</a>、<a href=\"../p/ituyosi.html\">犬養</a>らも動いた。\n<a href=\"../p/wreijiro.html\">若槻</a>は枢密院の策謀に体当りしたとも、これを辞職の好機としたとも言われる。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm_saion.html\">豊田穣 「西園寺公望」</a>\n　下巻　Ｐ．２１５</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "a",
+   "attrs": {
+    "name": "cyu"
+   },
+   "html": "\n<div class=\"cyu\">※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n<br>「馬場瑛一」の「瑛」は、正しい字を表示できないため、仮にこの字を当てています。\n</div>\n\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a name=\"cyu\"></a><a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1927.html\">１９２７年</a>\n ＞ <a href=\"#h\">枢密院、台湾銀行救済緊急勅令案を否決</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

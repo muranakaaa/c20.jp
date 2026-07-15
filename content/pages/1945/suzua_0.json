@@ -1,0 +1,223 @@
+{
+ "path": "1945/suzua_0.html",
+ "type": "article",
+ "title": "鈴木貫太郎に組閣命令　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1945.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "鈴木貫太郎に組閣命令"
+  },
+  {
+   "type": "title2",
+   "html": "1945/04/05"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1935.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1944.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1945.html\">１９４５</a> &gt;&gt;&gt; <a href=\"../20c/1946.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "二人は気心知れた仲。　頼む。　<a href=\"../p/stenno.html\">天皇</a>のその一言で、固辞する<a href=\"../p/skantaro.html\">鈴木</a>の心動いた。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/03/09　　<a href=\"../1945/03toky1.html\">\n東京大空襲①</a>　（～03/10）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/03/17　　<a href=\"../1945/03iojim.html\">\n硫黄島守備隊玉砕</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/03/19　　<a href=\"../1945/03myohi.html\">\n小磯・繆会談　（繆斌工作）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/04/01　　<a href=\"../1945/04okina.html\">\n沖縄戦開始　（アメリカ軍、沖縄本島上陸）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/04/05　　<a href=\"../1945/koiso_9.html\">\n小磯内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/04/05　　<a 1945=\"\" href\"..=\"\" suzua_0.html\"=\"\">\n鈴木貫太郎に組閣命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/04/05　　<a href=\"../1945/04s_fue.html\">\nソ連、日ソ中立条約の不延長を通告</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/04/07　　<a href=\"../1945/04yamat.html\">\n戦艦「大和」撃沈　（水上特攻失敗）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/04/07　　<a href=\"../1945/suzua_1.html\">\n鈴木（貫）内閣成立</a>　（首相：<a href=\"../p/skantaro.html\">鈴木貫太郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/04/12　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/roosev_f.html\">\nＦ・ルーズベルト</a>没　（アメリカ大統領）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/04/13　　<a href\"..=\"\" 19.html\"=\"\">\n東京大空襲②</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\ntaroは<a href=\"../p/stenno.html\">昭和天皇</a>のファンだ。その純粋なオヒトガラが好きだ。\n昭和の政治家、軍人、官僚の多くはその純な思いを踏みにじったが、それを理解し、敬愛した人もいる。\n<a href=\"../p/skantaro.html\">鈴木貫太郎</a>などその代表格だろう。\n海軍の要職を歴任したあと、侍従長に転じた人だ。\n<a href=\"../p/stenno.html\">昭和天皇</a>もまた<a href=\"../p/skantaro.html\">鈴木</a>を理解し、信頼していたにちがいない。\n固辞する<a href=\"../p/skantaro.html\">鈴木</a>を説得し、首相にしたのは<a href=\"../p/stenno.html\">天皇</a>自身だ。\n「<a href=\"../p/skantaro.html\">鈴木</a>がそのように考えるだろうということは、私も想像していた。<a href=\"../p/skantaro.html\">鈴木</a>の心境はよくわかる。\nしかし、国家危急の重大な時期に際して、もう他に人はいない。頼むから、どうか、気持ちをまげて承知してもらいたい」\nと、そこまで言った。こうして<a href=\"../1945/suzua_1.html\">終戦内閣</a>が誕生した。ちなみに<a href=\"../p/skantaro.html\">鈴木</a>は、\n<a href=\"../1945/08goz14.html\">ポツダム宣言受諾</a>を知った本土決戦論者たちに首相官邸を襲われ、小石川の私邸を焼かれたが、\n平然としていたという。taroは<a href=\"../p/skantaro.html\">鈴木貫太郎</a>のファンでもある。\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div>ああああああああああああああああ</div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1945.html\">１９４５年</a>\n ＞ <a href=\"#h\">鈴木貫太郎に組閣命令</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

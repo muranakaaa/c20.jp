@@ -1,0 +1,223 @@
+{
+ "path": "1947/0121sut.html",
+ "type": "article",
+ "title": "全官公庁労組共闘委員会、「２・１ゼネスト」を宣言　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1947.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "全官公庁労組共闘委員会、「２・１ゼネスト」を宣言"
+  },
+  {
+   "type": "title2",
+   "html": "1947/01/18"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1937.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1946.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1947.html\">１９４７</a> &gt;&gt;&gt; <a href=\"../20c/1948.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "ぼくらの給料もあげてくれ。　公務員たちが国にゼネストをつきつけた。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/16　　<a href=\"../1946/yosi1_0.html\">\n吉田茂に組閣命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/19　　<a href=\"../1946/05mayda.html\">\n食糧メーデー　（飯米獲得人民大会開催）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/20　　<a href\"..=\"\" 19.html\"=\"\">\nマッカーサー、「暴民デモ許さず」と声明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/22　　<a href=\"../1946/yosi1_1.html\">\n吉田内閣①成立</a>　（首相：<a href=\"../p/ysigeru.html\">吉田茂</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/01/01　　<a href=\"../1947/01futei.html\">\n吉田首相、ラジオで一部労働運動指導者を「不逞の輩」と非難</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/01/18　　<a 1947=\"\" href\"..=\"\" 0121sut.html\"=\"\">\n全官公庁労組共闘委員会、「２・１ゼネスト」を宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/01/31　　<a href=\"../1947/yosi1_2.html\">\n吉田内閣①改造</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/01/31　　<a href=\"../1947/01macar.html\">\nマッカーサー、「２・１ゼネスト」中止を命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/04/20　　<a href\"..=\"\" 19.html\"=\"\">\n参議院選挙[１]　（社会47、自由39、民主29、国協10、共産４、他121）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/04/25　　<a href\"..=\"\" 19.html\"=\"\">\n総選挙[23]　（社会143、自由131、民主124、国協31）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/05/20　　<a href=\"../1947/yosi1_9.html\">\n吉田内閣①総辞職</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>二・一ゼネストは、【中略】　中労委（委員長末広巌太郎）が、昨二十一年（一九四六）十二月、調停案をつくって、\n全逓、国鉄、政府に提示したところが、まず全逓、国鉄がこれを拒否し、「実力をもって闘う」と声明をしたところに発していた。</div>\n<div>吉田内閣もまた<a href=\"../p/itanzan.html\">石橋蔵相</a>が、全官公庁職員の要求に対しては、拒否の態度をとりつづけた。</div>\n<div>労働側は、全官公庁労組の闘争を強化し、産別が中心になり、組織労働者の九九パーセント、\n五百万人余を結集し、全国労組共同闘争委員会をこしらえた。\n明けて一月十八日は、全官公庁共同闘争委員会が、ゼネスト宣言拡大共闘委を開いて、</div>\n<div>「われら二百六十万の全官公庁労働者は、二月一日午前零時を期して決然として立ち、\n全国いっせいにゼネストに突入する」という闘争を宣言した。</div>\n<div>このストに対する政府側の交渉責任者は、<a href=\"../p/itanzan.html\">石橋湛山蔵相</a>であった。\n全官公労の団体交渉とはいっても、当時は尖鋭化していた共産党が、いわゆる“吊し上げ戦術”で迫る時代であった。\n<a href=\"../p/itanzan.html\">石橋</a>はその吊り上げに動ずることなく、共産党を向こうにまわして、平然と構え、一歩も譲らなかった。</div>\n<div>中労委の労働者側委員は、社会党右派の<a href=\"../p/nsuehiro.html\">西尾末広</a>、松岡駒吉、社会党左派の荒畑寒村、共産党の徳田球一であった。\n社会党のなかでは、左派がゼネスト賛成で共産党と組み、右派は、ゼネストには反対であった。<a href=\"../p/nsuehiro.html\">西尾</a>は、</div>\n<div>「ゼネストは凶器だ。相手を斬ることができても、同時にみずからも傷つく。\n村正の妖刀だ」と警告を放った。この新聞談話に対して共産党は、</div>\n<div>「労働者の正当な権利であるストライキを凶器とは何事だ」と食ってかかった。</div>\n<div>日本の労働運動はじめての大闘争であるだけではなく、世界の労働運動史においても、記録的な大闘争になるといわれたこの闘争は、\n二月一日に至るまでの約半月間、全国的に争議に次ぐデモ、デモに次ぐ争議で、いたるところに赤旗がひらめき、\n労働歌がとどろいて、まさに一般には“革命前夜”の印象を与えたものである。\n事実、共産党の細谷産別事務局長は、</div>\n<div>「徳田、<a href=\"../p/nsanzo.html\">野坂</a>、<a href=\"../p/skantaro.html\">鈴木</a>、加藤が首相官邸に乗り込んで、<a href=\"../p/ysigeru.html\">吉田首相</a>に総辞職を勧告し、吉田総辞職のあと、\n社共連立内閣をつくる」という計画を考えていた。</div>\n<div>共産党の伊東律などは、</div>\n<div>「その内閣は松本治一郎首相（社会党左派）、徳田球一内相（共産党）、<a href=\"../p/nsanzo.html\">野坂参三</a>外相（共産党）、\n伊東律農相（共産党）、鈴木茂三郎蔵相（社会党左派）、加藤勘十運輸相（社会党左派）、志賀義雄書記官長（共産党）・・・・・・」と、\n閣僚名簿まで用意していたほどである。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ti_yosid.html\">戸川猪佐武 「小説 吉田茂」</a>\n　Ｐ．２４４</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1947.html\">１９４７年</a>\n ＞ <a href=\"#h\">全官公庁労組共闘委員会、「２・１ゼネスト」を宣言</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

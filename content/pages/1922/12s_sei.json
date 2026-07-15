@@ -1,0 +1,253 @@
+{
+ "path": "1922/12s_sei.html",
+ "type": "article",
+ "title": "ソ連邦成立　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1922.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "ソ連邦成立"
+  },
+  {
+   "type": "title2",
+   "html": "1922/12/30"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1912.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1921.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1922.html\">１９２２</a> &gt;&gt;&gt; <a href=\"../20c/1923.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1932.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "内戦も干渉戦争もやっと一段落。　４つの共和国が、１つの連邦に。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1917/03/15　　<a href=\"../1917/032kaku.html\">\n二月革命</a>　（皇帝<a href=\"../p/nikolai2.html\">ニコライ２世</a>退位、ロマノフ朝滅亡）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1917/11/07　　<a href=\"../1917/1110kak.html\">\n十月革命</a>　（ソビエト政権成立）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/08/02　　<a href=\"../1918/08siber.html\">\nシベリア出兵宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/03/02　　<a href\"..=\"\" 19.html\"=\"\">\nコミンテルン創立大会</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/04/01　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ、ウラジオストック撤兵完了</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/04/25　　<a href\"..=\"\" 19.html\"=\"\">\nソビエト・ポーランド戦争勃発　（～10/12）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/03/08　　<a href=\"../1921/03nepsa.html\">\nソ連、新経済政策（ネップ）を採択</a>　（ロシア共産党大会⑩）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/04/16　　<a href=\"../1922/04rapal.html\">\nラッパロ条約調印</a>　（独ソ国交回復）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/10/25　　<a href=\"../1922/10siber.html\">\nシベリア撤兵完了</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/12/30　　<a 1922=\"\" href\"..=\"\" 12s_sei.html\"=\"\">\nソ連邦成立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/01/21　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/lenin_n.html\">\nウラジミール・レーニン</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/05/31　　<a href\"..=\"\" 19.html\"=\"\">\n中ソ国交回復</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/10/23　　<a href\"..=\"\" 19.html\"=\"\">\nソ連共産党中央委員会、トロツキーを政治局から追放</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1928/10/01　　<a href\"..=\"\" 19.html\"=\"\">\nソ連、五ヵ年計画①開始</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>国内戦の混乱で、旧ロシア帝国内には一時30を超える政権が生まれたが、激しい戦闘の中で淘汰され、\nロシア連邦・ウクライナ・白ロシア・ザカフカーズ連邦の４ソビエト共和国に統合された。</div>\n<div>４共和国は互いに同盟を結び、同一外交政策をとっていたため、内戦の終わりとともに合併問題が浮上した。</div>\n<div>合併にあたっては、各共和国が平等の資格で新たな「ソビエト連邦」を作るという<a href=\"../p/lenin_n.html\">レーニン</a>の主張が採用され、\nロシア連邦の下に３共和国を置くスターリン案はしりぞけられた。</div>\n<div>12月30日、第１回全連邦ソビエト大会が召集され、「ソビエト社会主義共和国連邦」の成立が宣言された。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ys_20sei.html\">読売新聞社 「読む年表・20世紀と昭和天皇」</a>\n　Ｐ．３１</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1922.html\">１９２２年</a>\n ＞ <a href=\"#h\">ソ連邦成立</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

@@ -1,0 +1,273 @@
+{
+ "path": "1905/08roose.html",
+ "type": "article",
+ "title": "Ｔ・ルーズベルト（米）大統領、金子特使に金銭的要求の放棄を勧告　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1905.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "Ｔ・ルーズベルト（米）大統領、金子特使に金銭的要求の放棄を勧告"
+  },
+  {
+   "type": "title2",
+   "html": "1905/08/22"
+  },
+  {
+   "type": "navi2",
+   "html": "\n１０年前 &gt;&gt;&gt; <a href=\"../20c/1904.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1905.html\">１９０５</a> &gt;&gt;&gt; <a href=\"../20c/1906.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1915.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"../p/nikolai2.html\">ロシア皇帝</a>にサジを投げた大統領、世論を気づかい、今度は日本側に譲歩を要求。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/24　　<a href=\"../1904/02kanek.html\">\n金子特使渡米</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/04/21　　<a href=\"../1905/04kowaj.html\">\n対露講和条件を閣議決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/05/27　　<a href=\"../1905/05nihon.html\">\n日本海海戦</a>　（～05/28／連合艦隊司令長官：<a href=\"../p/theihaci.html\">東郷平八郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/06/01　　<a href\"..=\"\" 19.html\"=\"\">\n高平駐米公使、Ｔ・ルーズベルト（米）大統領に講和斡旋を要望</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/06/09　　<a href=\"../1905/06roosv.html\">\nＴ・ルーズベルト（米）大統領、日露両国に公式に講和を勧告</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/07/03　　<a href=\"../1905/07zenke.html\">\n小村寿太郎、高平小五郎を日露講和会議全権に任命</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/07/19　　<a href\"..=\"\" 19.html\"=\"\">\n講和問題同志連合結成</a>　（対露同志会など）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/08/10　　<a href=\"../1905/08portm.html\">\n日露講和会議開催</a>　（アメリカ・ポーツマス／首席全権：<a href=\"../p/kjutaro.html\">小村寿太郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/08/14　　<a href=\"../1905/08dankh.html\">\n桂・原会談</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/08/14　　<a href\"..=\"\" 19.html\"=\"\">\n大阪朝日新聞、賠償金要求の不調を号外で報道</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/08/17　　<a href\"..=\"\" 19.html\"=\"\">\n講和問題同志連合大会、講和条件譲歩反対を決議</a>　（東京・明治座）"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/08/22　　<a 1905=\"\" href\"..=\"\" 08roose.html\"=\"\">\nＴ・ルーズベルト（米）大統領、金子特使に金銭的要求の放棄を勧告</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/08/28　　<a href=\"../1905/08kowah.html\">\n御前会議、日露講和成立方針を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/09/05　　<a href=\"../1905/09portm.html\">\nポーツマス条約調印</a>　（首席全権：<a href=\"../p/kjutaro.html\">小村寿太郎</a>／<a href=\"../them/jr_war.html\">日露戦争</a>終結）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/09/05　　<a href\"..=\"\" 19.html\"=\"\">\n講和反対国民大会開催</a>　（東京・日比谷）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/09/05　　<a href=\"../1905/09hibiy.html\">\n日比谷焼き打ち事件</a>　（～09/06）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>その日の深夜、<a href=\"../p/kjutaro.html\">小村</a>は、本多電信主任に起され、長文の電報を渡された。\nそれは<a href=\"../p/kkentaro.html\">金子堅太郎</a>からの暗号電報で、午後七時にニューヨークから発信された緊急電であった。</div>\n<div>かれは読み終ると、本多に高平と山座を呼ぶように命じた。\n電文を翻訳して内容を知っている本多は、すぐに部屋を出て行った。</div>\n<div>山座についで高平が、本多とともに部屋に入ってきた。</div>\n<div><a href=\"../p/kjutaro.html\">小村</a>は高平に電文を渡し、高平は読み終ると山座に渡した。</div>\n<div>電文は、<a href=\"../p/kkentaro.html\">金子</a>のもとに届けられた<a href=\"../p/roosev_t.html\">ルーズベルト</a>の秘密書簡の全文であった。\nそこには、金銭のために戦争継続も覚悟している日本に対する批判の世論が強いので、金銭に関する要求をすべて撤回した方が、\n今後、日本のために利益になるだろう、と記されていた。\nまた、<a href=\"../p/roosev_t.html\">ルーズベルト</a>が<a href=\"../p/nikolai2.html\">ロシア皇帝</a>に、譲歩を求める第二回目の親電を発したことも書かれていた。</div>\n<div>これまで<a href=\"../p/roosev_t.html\">ルーズベルト</a>は、日本が樺太北部をロシアに返還する代りに代償金の支払いを求めるのは当然だ、と強調していた。\nそれが、突然、償金要求は好ましくないと態度を一変させた理由が解しかねた。</div>\n<div><a href=\"../p/kjutaro.html\">小村</a>は、<a href=\"../p/roosev_t.html\">ルーズベルト</a>が世論を恐れているのだ、と思った。\n<a href=\"../p/roosev_t.html\">ルーズベルト</a>はその年の春に再選され、日露講和を成立させることで国民の支持をさらにたかめようとしているにちがいなかった。\nかれは、常に世論の動きに注意をはらい、急にたかまってきた日本の金銭要求に対する批判を重視し、\n自分の立場が悪評にさらされることを危惧して日本側に要求の撤回を求めてきたのだと推定された。</div>\n<div>書簡の内容を記した電文に添えられた<a href=\"../p/kkentaro.html\">金子</a>の感想にも、</div>\n<div>「私ハ驚キ、疑ヒ、其原因ヲ推測スルニ苦ミタリ」</div>\n<div>と記されていたが、陰の支援者であった<a href=\"../p/roosev_t.html\">ルーズベルト</a>が態度を一変したことは、\n日本側にとって大きな打撃であった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ya_portm.html\">吉村昭 「ポーツマスの旗」</a>\n　Ｐ．２５５</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1905.html\">１９０５年</a>\n ＞ <a href=\"#h\">Ｔ・ルーズベルト（米）大統領、金子特使に金銭的要求の放棄を勧告</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

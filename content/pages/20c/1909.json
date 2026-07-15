@@ -1,0 +1,290 @@
+{
+ "path": "20c/1909.html",
+ "type": "year",
+ "title": "１９０９年　／ クリック ２０世紀",
+ "description": null,
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a href=\"#f\">▽▽▽</a><a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９０９年"
+  },
+  {
+   "type": "title2",
+   "html": "明治４２年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n１０年前 &gt;&gt;&gt; <a href=\"1908.html\">前年</a> &gt;&gt;&gt; <span class=\"now\">１９０９</span> &gt;&gt;&gt; <a href=\"1910.html\">翌年</a> &gt;&gt;&gt; <a href=\"1919.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "レッテル　　ハイカラ　　煤煙　　催促髷",
+    "<a href=\"../1908/katu2_1.html\">桂内閣②</a>"
+   ]
+  },
+  {
+   "type": "edit_bar",
+   "kind": "e_data",
+   "html": "リンク情報（2003/00/00）＝削除：０件（.html）"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"1908.html#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1909/01/29　　<a href\"..=\"\" 19.html\"=\"\">\n桂・西園寺会談</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1909/02/08　　<a href\"..=\"\" 19.html\"=\"\">\n独仏協定調印</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1909/04/11　　<a href\"..=\"\" 19.html\"=\"\">\n日糖疑獄事件、検挙開始　（07/03 判決：代議士23名有罪）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1909/05/10　　<a href\"..=\"\" 19.html\"=\"\">\n二葉亭四迷没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1909/05/31　　<a href\"..=\"\" 19.html\"=\"\">\n浅間山噴火　（12/07 再噴火）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1909/06/02　　<a href\"..=\"\" 19.html\"=\"\">\n両国国技館開館式</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1909/06/06　　<a href\"..=\"\" 19.html\"=\"\">\n渋沢栄一、財界引退宣言　（61の会社役員を辞任）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1909/06/25　　<a href\"..=\"\" 19.html\"=\"\">\n「活動写真界」創刊　（初の映画雑誌）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1909/06/27　　<a href\"..=\"\" 19.html\"=\"\">\n</a><a href=\"../p/nsoseki.html\">夏目漱石</a>「それから」連載開始　（朝日新聞）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1909/07/06　　<a href\"..=\"\" 19.html\"=\"\">\n韓国併合を閣議決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1909/08/06　　<a href\"..=\"\" 19.html\"=\"\">\n北京・天津・東三省で安奉鉄道問題に抗議する日貨ボイコット開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1909/08/18　　<a href\"..=\"\" 19.html\"=\"\">\n東京市、ワシントン市に桜2000本寄贈を決定　（</a><a href=\"../p/oyukio.html\">尾崎市長</a>の名で）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"1910.html#s1\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1909/10/11　　<a href\"..=\"\" 19.html\"=\"\">\n三井合名会社設立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1909/10/26　　<a href=\"../1909/10itoxx.html\">\n伊藤博文射殺事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1909/11/04　　<a href\"..=\"\" 19.html\"=\"\">\n伊藤博文国葬</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1909/12/01　　<a href\"..=\"\" 19.html\"=\"\">\n万国玩具展覧会開催　（三越呉服店）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1909/12/16　　<a href=\"../1909/12yaman.html\">\n山手線、電車運転開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1909/12/18　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ、満州鉄道中立化を各国に提案</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1908/katu2_1.html\">桂内閣②</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">レッテル　　ハイカラ　　煤煙　　催促髷</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「田舎教師」　「邪宗門」　「ふらんす物語」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">「碁盤忠信」　「日本桜」</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">―</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">ハイカラソング</td></tr>\n</tbody>"
+  },
+  {
+   "type": "fnavi",
+   "html": "<a name=\"f\"></a>\n<a href=\"../index.html\">目次</a>\n ＞ <a href=\"#h\">１９０９年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

@@ -1,0 +1,185 @@
+{
+ "path": "1914/03yosan.html",
+ "type": "article",
+ "title": "予算案不成立　（貴族院、両院協議会案を否決）　／ クリック ２０世紀",
+ "description": null,
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a href=\"#f\">▽▽▽</a><a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1914.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "予算案不成立　（貴族院、両院協議会案を否決）"
+  },
+  {
+   "type": "title2",
+   "html": "1914/03/23"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1904.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1913.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1914.html\">１９１４</a> &gt;&gt;&gt; <a href=\"../20c/1915.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1924.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"../1914/01simen.html\">シーメンス事件</a>の影響で、海軍軍事費を含む新年度の予算が不成立。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/01/23　　<a href=\"../1914/01simen.html\">\nシーメンス事件発覚</a>　（<a href=\"../p/ssaburo.html\">島田三郎</a>、国会で海軍高官の収賄を追及）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/02/04　　<a href=\"../1914/02viker.html\">\n東京地裁検事局、ヴィッカース社社員ウィンダーを召喚</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/02/15　　<a href\"..=\"\" 19.html\"=\"\">\n東京朝日記者襲撃事件</a>　（<a href=\"../p/htakasi.html\">原内相</a>私邸前）"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/03/23　　<a 1914=\"\" href\"..=\"\" 03yosan.html\"=\"\">\n予算案不成立　（貴族院、両院協議会案を否決）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/03/24　　<a href=\"../1914/yamm1_9.html\">\n山本内閣①総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/04/16　　<a href=\"../1914/okum2_1.html\">\n大隈内閣②成立</a>　（首相：<a href=\"../p/osigenob.html\">大隈重信</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/05/11　　<a href\"..=\"\" 19.html\"=\"\">\n海軍人事大異動発令</a>　（<a href=\"../p/ygonnohy.html\">山本前首相</a>・<a href=\"../p/smakoto.html\">斉藤前海相</a>を予備役に編入）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/05/29　　<a href\"..=\"\" 19.html\"=\"\">\n海軍軍法会議、シーメンス事件に有罪判決</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<div><span class=\"m_v\">taro's トーク</span>\nああああああああああああああああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div>ああああああああああああああああ</div>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "<a name=\"f\"></a>\n<a href=\"../index.html\">目次</a>\n ＞ <a href=\"../20c/1914.html\">１９１４年</a>\n ＞ <a href=\"#h\">予算案不成立　（貴族院、両院協議会案を否決）</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

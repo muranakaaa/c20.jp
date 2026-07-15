@@ -1,0 +1,263 @@
+{
+ "path": "1948/06yugos.html",
+ "type": "article",
+ "title": "コミンフォルム、ユーゴスラビア共産党を除名　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1948.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "コミンフォルム、ユーゴスラビア共産党を除名"
+  },
+  {
+   "type": "title2",
+   "html": "1948/06/28"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1938.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1947.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1948.html\">１９４８</a> &gt;&gt;&gt; <a href=\"../20c/1949.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "マーシャル・プラン受け入れ、独自路線のユーゴ共産党を欧州共産党情報局が除名。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/06/27　　<a href\"..=\"\" 19.html\"=\"\">\n人民解放パルチザン部隊創設</a>　（ユーゴ／司令官：<a href=\"../p/tito.html\">チトー</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/02/04　　<a href=\"../1945/02yalta.html\">\nヤルタ会談</a>　（～02/11）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/03/07　　<a href\"..=\"\" 19.html\"=\"\">\nユーゴ人民政府成立</a>　（首班：<a href=\"../p/tito.html\">チトー</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/07/17　　<a href=\"../1945/07potsk.html\">\nポツダム会談</a>　（～08/02）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/03/05　　<a href=\"../1946/03curta.html\">\nチャーチル、「鉄のカーテン」演説</a>　（米・ミズーリ州フルトン）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/03/12　　<a href=\"../1947/03truma.html\">\nトルーマン・ドクトリン</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/06/05　　<a href=\"../1947/06marsh.html\">\nマーシャル・プラン（ヨーロッパ復興計画）発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/10/05　　<a href=\"../1947/10comin.html\">\nコミンフォルム（欧州共産党情報局）設置</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/04/01　　<a href\"..=\"\" 19.html\"=\"\">\nソ連、ベルリンを一部封鎖</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/06/24　　<a href=\"../1948/06berl1.html\">\nベルリン封鎖</a>　（～49/05/12）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/06/26　　<a href=\"../1948/06kuyuk.html\">\n西側諸国、西ベルリンへの大空輸を開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/06/28　　<a 1948=\"\" href\"..=\"\" 06yugos.html\"=\"\">\nコミンフォルム、ユーゴスラビア共産党を除名</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/04/04　　<a href\"..=\"\" 19.html\"=\"\">\nＮＡＴＯ（北太平洋条約）調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/09/08　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ、ユーゴに2000万ドルの借款を供与</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/09/27　　<a href\"..=\"\" 19.html\"=\"\">\nソ連、ユーゴとの友好相互援助条約を破棄</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><a href=\"../p/tito.html\">ティトー</a>と<a href=\"../p/stalin.html\">スターリン</a>との不和は、すでに終戦の年から起こり始めていた。\n不和の原因はトリエステ問題をめぐってであり、<a href=\"../p/tito.html\">ティトー</a>は、ソ連が適切な支持を与えてくれないことに不満をいだいた。\nしかも<a href=\"../p/tito.html\">ティトー</a>が、ユーゴ共産党の独立性を守り通そうとするにつれて、両者の不和は拡大していった。\nついに一九四八年春、ソ連側が軍事・技術顧問を本国に引き揚げ、<a href=\"../p/tito.html\">ティトー</a>とその一党を、\n理論的誤謬とソ連への敵対行為という理由でコミンフォルムから除名するにおよんで、不和は公然たる衝突となった。\nそしてこれに続いて、ソ連とユーゴとのいっさいの経済的・軍事的紐帯が切断された。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ia_gaise.html\">今津晃 「概説現代史」</a>\n　Ｐ．３３４</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1948.html\">１９４８年</a>\n ＞ <a href=\"#h\">コミンフォルム、ユーゴスラビア共産党を除名</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

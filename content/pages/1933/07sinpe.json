@@ -1,0 +1,262 @@
+{
+ "path": "1933/07sinpe.html",
+ "type": "article",
+ "title": "神兵隊事件　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1933.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "神兵隊事件"
+  },
+  {
+   "type": "title2",
+   "html": "1933/07/11"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1923.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1932.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1933.html\">１９３３</a> &gt;&gt;&gt; <a href=\"../20c/1934.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1943.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "首相官邸空爆。　全閣僚殺害。　秩父宮擁立。　<a href=\"../p/inissyo.html\">井上日召</a>の弁護人のクーデター計画 未遂。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/02/09　　<a href=\"../1932/02ketu1.html\">\n血盟団事件①</a>　（<a href=\"../p/ijunnosu.html\">井上準之助</a>暗殺）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/03/05　　<a href=\"../1932/03ketu2.html\">\n血盟団事件②</a>　（<a href=\"../p/dtakuma.html\">団琢磨</a>暗殺）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/03/11　　<a href\"..=\"\" 19.html\"=\"\">\n井上日召自首　（血盟団事件）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/05/15　　<a href=\"../1932/05515ji.html\">\n五・一五事件</a>　（<a href=\"../p/ituyosi.html\">犬養首相</a>暗殺）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/05/15　　<a href=\"../1932/05nisid.html\">\n西田税暗殺未遂事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/04/22　　<a href=\"../1933/04takig.html\">\n滝川事件</a>　（<a href=\"../p/hiciro.html\">鳩山文相</a>、滝川教授の辞職を京都帝大総長に要求）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/05/31　　<a href=\"../1933/05tanku.html\">\n塘沽停戦協定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/07/11　　<a 1933=\"\" href\"..=\"\" 07sinpe.html\"=\"\">\n神兵隊事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/09/11　　<a href\"..=\"\" 19.html\"=\"\">\n五・一五事件陸軍側判決　（全員禁固４年）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/11/09　　<a href\"..=\"\" 19.html\"=\"\">\n五・一五事件海軍側判決　（最高禁固15年）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/11/13　　<a href=\"../1933/11teisi.html\">\n埼玉挺身隊事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/02/04　　<a href\"..=\"\" 19.html\"=\"\">\n五・一五事件民間側判決　（最高無期懲役）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/11/20　　<a href=\"../1934/11sikan.html\">\n士官学校事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/08/12　　<a href=\"../1935/08aizaw.html\">\n相沢事件</a>　（<a href=\"../p/ntetuzan.html\">永田軍務局長</a>斬殺）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/02/26　　<a href=\"../1936/02226ji.html\">\n二・二六事件</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>神兵隊事件とは、右翼の天野辰夫を総帥として、同志前田虎雄との協力で行動を起し、\n以て「一死奉公の日本魂に殉ずる」ことを念願としたものだ。</div>\n<div>彼らは<a href=\"../1932/saito_1.html\">斎藤内閣</a>を以て現在の特権支配階級の最後の防砦であると規定し、\nこれを打倒し、一挙に国家統治の中枢機構を破壊し、帝都を騒乱化し、戒厳令を布こうとした。</div>\n<div>ここまでは<a href=\"../1932/05515ji.html\">五・一五事件</a>の被告や、そのあとの二つの計画と同じだが、ただ、ここで変っているのは、\nそのクーデター後に「大詔渙発によって○○を首班に推戴し、以て明治維新を追い、昭和維新を断行して\n皇国の永遠無窮の発展を目指す唯一の手段とした」。○○は秩父宮と考えてよかろう。</div>\n<div class=\"txr\"><a href=\"../text/ms4syowa.html\">松本清張 「昭和史発掘（４）」</a>\n　Ｐ．３１４<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167106345%2Fqid%3D1147086434%2Fsr%3D1-13%2Fref%3Dsr_1_0_13\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>急進分子は依然クーデター計画を放棄したわけではなかった。\n昭和八年七月一一日を期して決起し、閣議中の閣僚全員、重臣、政党首領、財閥首脳を殺し、\n改造内閣<span class=\"bar\">―</span>―その首班には「革新」運動に理解のあるといわれていた<a href=\"../p/hnaruhik.html\">東久邇宮</a>を予定していた\n<span class=\"bar\">―</span>―を樹立しようという計画が、事前に探知され、\n参加者は神宮外苑の日本青年館に集合したところを一斉検挙された。いわゆる神兵隊事件である。</div>\n<div>この事件は天野辰夫、前田虎雄、鈴木善一ら大日本生産党系の右翼青年グループが主体であったが、\n元<a href=\"../p/hnaruhik.html\">東久邇宮</a>付武官の安田鉄之助予備中佐、海軍の霞ヶ浦航空隊司令山口三郎中佐らが加わっていて、\nかなり大規模な計画であり、背後に陸軍部内の統制派とのつながりがあったともいわれている。</div>\n<div class=\"txr\"><a href=\"../text/it_konoe.html\">伊藤隆 「近衛新体制」</a>\n　Ｐ．４５<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25BF%2591%25E8%25A1%259B%25E6%2596%25B0%25E4%25BD%2593%25E5%2588%25B6%25E2%2580%2595%25E5%25A4%25A7%25E6%2594%25BF%25E7%25BF%25BC%25E8%25B3%259B%25E4%25BC%259A%25E3%2581%25B8%25E3%2581%25AE%25E9%2581%2593%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1933.html\">１９３３年</a>\n ＞ <a href=\"#h\">神兵隊事件</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

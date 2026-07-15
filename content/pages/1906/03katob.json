@@ -1,0 +1,169 @@
+{
+ "path": "1906/03katob.html",
+ "type": "article",
+ "title": "加藤外相辞任　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1906.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "加藤外相辞任"
+  },
+  {
+   "type": "title2",
+   "html": "1906/03/03"
+  },
+  {
+   "type": "navi2",
+   "html": "\n１０年前 &gt;&gt;&gt; <a href=\"../20c/1905.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1906.html\">１９０６</a> &gt;&gt;&gt; <a href=\"../20c/1907.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1916.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "三菱は<a href=\"../1906/03tetud.html\">鉄道国有化</a>に反対。　三菱の“ムコ殿”　国有化に反対して外務大臣を辞任。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/09/05　　<a href=\"../1905/09portm.html\">\nポーツマス条約調印</a>　（首席全権：<a href=\"../p/kjutaro.html\">小村寿太郎</a>／<a href=\"../them/jr_war.html\">日露戦争</a>終結）"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1906/01/07　　<a href=\"../1906/saio1_1.html\">\n西園寺内閣①成立</a>　（首相：<a href=\"../p/skinmoci.html\">西園寺公望</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1906/03/03　　<a 1906=\"\" href\"..=\"\" 03katob.html\"=\"\">\n加藤外相辞任</a>　（鉄道国有化に反対して）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1906/03/31　　<a href=\"../1906/03tetud.html\">\n鉄道国有法公布</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>二月二十八日、<a href=\"../p/ktakaaki.html\">加藤高明</a>がわずか在任二ヵ月で外相を辞任した。\n鉄道国有化に反対したためとされたが、戦後急に権勢を増した陸軍が、\n満州で清国側の意向を無視し軍政存続を主張したことに反対したからであった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ya_portm.html\">吉村昭 「ポーツマスの旗」</a>\n　Ｐ．３３７</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>欲からではなく猛烈に反対したのは三菱の申し子である外相<a href=\"../p/ktakaaki.html\">加藤</a>である。\nしかし、彼は三菱に関係のない朝鮮における私鉄の買収には賛成であったので、閣僚から大分やりこめられた。\n結局彼は三月三日辞表を提出するが、その内容は従来の「病気により」というような紋切り型ではなく、\n政府の財政等を批判し、イギリスの伝統的な経済理論（マンチェスター旧学派？）を引用して、\n「人民が財力・能力を投下して設定した利益事業を、法律をもって買収するのは人権を無視するものである」と“堂々”の論陣を張った。</div>\n<div><a href=\"../p/skinmoci.html\">西園寺</a>はこの辞表を一瞥すると訂正することなく、そのまま<a href=\"../p/mtenno.html\">天皇</a>の手許に差し出した。\n長文の辞表に驚いた<a href=\"../p/mtenno.html\">天皇</a>は熟読して、</div>\n<div>「<a href=\"../p/skinmoci.html\">西園寺</a>、これは従来の辞表とは大分異なるではないか」</div>\n<div>と問うた。</div>\n<div>「本来国務大臣の辞表にはこの程度に理由を明記するのが正当でございます」</div>\n<div>と<a href=\"../p/skinmoci.html\">西園寺</a>は答え、<a href=\"../p/mtenno.html\">天皇</a>は了解した。</div>\n<div>この時、<a href=\"../p/ktakaaki.html\">加藤</a>の態度を公明正大として賞賛し、政府を攻撃した急先鋒は黒岩周六の主宰する万朝報であった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．３５０</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1906.html\">１９０６年</a>\n ＞ <a href=\"#h\">加藤外相辞任</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

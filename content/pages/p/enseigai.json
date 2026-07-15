@@ -1,0 +1,381 @@
+{
+ "path": "p/enseigai.html",
+ "type": "person",
+ "title": "袁世凱　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "p.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "袁世凱"
+  },
+  {
+   "type": "title2",
+   "html": "1859 － 1916"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "name"
+   },
+   "html": "\n[ えん・せいがい ]"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "prof"
+   },
+   "html": "\n大総統、皇帝、首相、直隷総督　／ 中国"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_r\">エピソード 1</span>調査中。"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<tbody><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/10/10　　<a href=\"../1911/10singa.html\">\n辛亥革命勃発</a>　（武昌蜂起）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/11/01　　<a href\"..=\"\" 19.html\"=\"\">\n清国政府、袁世凱を総理大臣に任命</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/12/29　　<a href\"..=\"\" 19.html\"=\"\">\n17省代表会議、孫文を中華民国臨時大総統に選出　（南京）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/01/01　　<a href\"..=\"\" 19.html\"=\"\">\n南京臨時政府成立</a>　（臨時大総統：<a href=\"../p/sonbun.html\">孫文</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/02/12　　<a href=\"../1912/02metub.html\">\n宣統帝（溥儀）退位　（清朝滅亡）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/03/10　　<a href=\"../1912/03ensyu.html\">\n袁世凱、臨時大総統就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/03/11　　<a href=\"../1912/03yakuh.html\">\n孫文、中華民国臨時約法を公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/03/20　　<a href=\"../1913/03souxx.html\">\n宋教仁暗殺事件</a>　（03/22 没／中）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/07/12　　<a href=\"../1913/072kaku.html\">\n中国・江西省で、第２革命勃発</a>　（～09/01）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/09/01　　<a href\"..=\"\" 19.html\"=\"\">\n袁軍、南京占領　（第２革命失敗）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/10/10　　<a href=\"../1913/10ensyu.html\">\n袁世凱、中華民国大総統就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/01/10　　<a href\"..=\"\" 19.html\"=\"\">\n袁世凱、国会議員の職務を停止</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/07/28　　<a href=\"../1914/07taise.html\">\nオーストリア、セルビアに宣戦布告</a>　（第一次世界大戦勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/09/02　　<a href=\"../1914/09cinta.html\">\n青島出兵</a>　（日本軍、山東半島上陸開始）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/01/18　　<a href=\"../1915/0121kaj.html\">\n対華２１か条要求</a>　（外相：<a href=\"../p/ktakaaki.html\">加藤高明</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/05/07　　<a href\"..=\"\" 19.html\"=\"\">\n日置駐華公使、中国に最後通牒</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/05/09　　<a href\"..=\"\" 19.html\"=\"\">\n中国政府、対華２１か条要求を受諾　（中国で国辱記念日となる）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/12/11　　<a href\"..=\"\" 19.html\"=\"\">\n中国参政院、袁世凱を皇帝に推戴</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/12/25　　<a href\"..=\"\" 19.html\"=\"\">\n雲南都督ら、昆明で帝政反対・雲南独立を宣言　（第３革命勃発）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/01/01　　<a href=\"../1916/01enkot.html\">\n袁世凱、皇帝即位　（帝政移行）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/03/22　　<a href\"..=\"\" 19.html\"=\"\">\n袁世凱、帝政取消</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/04/22　　<a href\"..=\"\" 19.html\"=\"\">\n段祺瑞政権成立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/06/06　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/enseigai.html\">\n袁世凱</a>没"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>清王朝における最大の実力者は<a href=\"../p/rikosyo.html\">李鴻章</a>であったが、この人物は北清事変が片づくとともにこの年、病没した。</div>\n<div>かわって声望を高めはじめているのは、袁世凱である。</div>\n<div>「梟雄」</div>\n<div>とのちにいわれた男だけに、<a href=\"../p/rikosyo.html\">李鴻章</a>よりもはるかに食えない。\n<a href=\"../p/rikosyo.html\">李</a>はなんといっても衰亡してゆく王朝の柱石といったところがあったが、袁はそういうまじめさはない。\n清朝の臣でありながら、すでに清王朝のほろびを見越して自立する考えをもっていた。</div>\n<div>袁は、<a href=\"../p/rikosyo.html\">李</a>が科挙（高等官登用試験）をへた学者であるのに対し、それの落第生あがりである。\n中国にはむかしから金で官職を買う「捐納」という制度があったが、袁はその方法で官吏になり、やがて武職に転じ、\n兵を養って軍閥を形成して行った。</div>\n<div>日清戦争ののちは清国でも軍隊の洋式化がさかんになったが、袁はそれを担当し、\nそういう軍隊勢力を背景に政界に進出し、北清事変当時は山東鎮撫という重職についた。</div>\n<div>かれがいかに食えぬ男であるかは、北清事変のときの挙動でもわかる。\nあのとき清国は義和団と連合してついに列国に宣戦布告するにいたるが、袁はその軍隊を最後まで山東にとどめてうごかさず、\n清軍および義和団が壊滅すると、無傷の軍隊をひきいて戦後経営にのりだした。</div>\n<div>袁世凱はのちに革命派と手をにぎりあって<a href=\"../1912/02metub.html\">清王朝をたおし</a>、\n初代の中華民国大総統になるのだが、すぐ本心をあらわして帝政をしく謀略をすすめ、自分が皇帝になろうとし、\nやがて天下の信望をうしない、混乱のなかで病没するにいたる。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/sr2sakan.html\">司馬遼太郎 「坂の上の雲（２）」</a>\n　Ｐ．３９５</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"01a.html\">人物ファイル一覧　（ア）</a>\n ＞ <a href=\"#h\">袁世凱</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

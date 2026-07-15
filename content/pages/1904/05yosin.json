@@ -1,0 +1,203 @@
+{
+ "path": "1904/05yosin.html",
+ "type": "article",
+ "title": "巡洋艦「春日」、「吉野」に衝突、「吉野」沈没　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1904.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "巡洋艦「春日」、「吉野」に衝突、「吉野」沈没"
+  },
+  {
+   "type": "title2",
+   "html": "1904/05/15"
+  },
+  {
+   "type": "navi2",
+   "html": "\n１０年前 &gt;&gt;&gt; <a href=\"../20c/1903.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1904.html\">１９０４</a> &gt;&gt;&gt; <a href=\"../20c/1905.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1914.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "敵は戦力を温存。　一方味方は濃霧の中、巡洋艦１隻喪失。　連合艦隊、魔の５月が始まった。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/10　　<a href=\"../1904/02jr_wa.html\">\n対露宣戦布告</a>　（<a href=\"../them/jr_war.html\">日露戦争</a>勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/24　　<a href=\"../1904/02heso1.html\">\n旅順口閉塞作戦①</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/03/27　　<a href=\"../1904/03heso2.html\">\n旅順口閉塞作戦②</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/04/25　　<a href=\"../1904/04kinsy.html\">\nウラジオ艦隊、元山沖で陸軍輸送船「金州丸」を撃沈</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/05/03　　<a href=\"../1904/05heso3.html\">\n旅順口閉塞作戦③</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/05/15　　<a 1904=\"\" href\"..=\"\" 05yosin.html\"=\"\">\n巡洋艦「春日」、「吉野」に衝突、「吉野」沈没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/05/15　　<a href=\"../1904/05senka.html\">\n戦艦「初瀬」「八島」、旅順沖で触雷、沈没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/08/10　　<a href=\"../1904/08kokai.html\">\n黄海海戦</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/08/14　　<a href=\"../1904/08urusa.html\">\n蔚山沖海戦</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>五月なかばになると、連合艦隊は、マカロフの怨霊に祟られたように、つぎつぎに災厄に見舞われた。</div>\n<div>五月十二日、大連湾ふきんで掃海をしていた第四十八号水雷艇が、ロシアの機雷に触れて沈没した。</div>\n<div>五月十四日、おなじ海域で掃海隊を援護していた第五戦隊の通報艦「宮古」（一八〇〇トン）が、やはり触雷して沈没した。</div>\n<div>五月十五日、出羽司令官の第三戦隊が、旅順沖から裏長山列島へ向かう途中、濃霧のなかで、\n二等巡洋艦「吉野」の左舷に、一等巡洋艦「春日」が艦首から衝突して、「吉野」は艦長以下三百余名を乗せたまま沈没した。</div>\n<div>同日、旅順沖のパトロールに出た第一戦隊司令官梨羽時起少将（兵学校期外、のちに中将）座乗の戦艦「初瀬」が老鉄山南東で触雷し、\nつづいて戦艦「八島」も触雷して、両艦とも沈没した。</div>\n<div>さらにこの日、第一艦隊の通報艦「竜田」（八六〇トン）が大連北東六十キロの光禄島南東岸にのし上げた。</div>\n<div>五月十七日、砲艦「大島」が濃霧のなかで砲艦「赤城」に衝突されて沈没した。</div>\n<div>同日、第一駆逐隊の「暁」が、老鉄山沖で触雷して沈没した。</div>\n<div>十二日から十七日の六日間に、合計八隻、総トン数約三万五千トン、人員八百四十三名が海の藻屑と消えたのである。</div>\n<div>とくになんと言っても、主力艦の「初瀬」「八島」がやられたことが、大きな痛手であった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/oh_cisyo.html\">生出寿 「知将　秋山真之」</a>\n　Ｐ．２４１</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1904.html\">１９０４年</a>\n ＞ <a href=\"#h\">巡洋艦「春日」、「吉野」に衝突、「吉野」沈没</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

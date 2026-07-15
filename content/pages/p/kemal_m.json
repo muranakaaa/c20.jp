@@ -1,0 +1,273 @@
+{
+ "path": "p/kemal_m.html",
+ "type": "person",
+ "title": "ムスタファ・ケマル　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "p.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "ムスタファ・ケマル"
+  },
+  {
+   "type": "title2",
+   "html": "1881 － 1938"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "prof"
+   },
+   "html": "\n大統領、民族解放運動指導者　／ トルコ"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_r\">エピソード 1</span>調査中。"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<tbody><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1908/07/24　　<a href\"..=\"\" 19.html\"=\"\">\n青年トルコ党の革命</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/10/17　　<a href\"..=\"\" 19.html\"=\"\">\nバルカン戦争①勃発　（～13/05/30）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/06/29　　<a href\"..=\"\" 19.html\"=\"\">\nバルカン戦争②勃発　（～13/07/30）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/07/20　　<a href\"..=\"\" 19.html\"=\"\">\nトルコ、アドリアノープル占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/07/28　　<a href=\"../1914/07taise.html\">\nオーストリア、セルビアに宣戦布告</a>　（第一次世界大戦勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/02/03　　<a href\"..=\"\" 19.html\"=\"\">\nトルコ、スエズ運河攻撃</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/06/28　　<a href=\"../1919/06versa.html\">\nベルサイユ条約調印</a>　（北京政府、調印拒否）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/08/10　　<a href=\"../1920/08sevre.html\">\nセーブル条約調印</a>　（スルタン政府、連合国と屈辱的講和）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/11/01　　<a href\"..=\"\" 19.html\"=\"\">\nオスマン・トルコ滅亡</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/07/24　　<a href\"..=\"\" 19.html\"=\"\">\nローザンヌ条約調印</a>　（セーブル条約を修正）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/10/29　　<a href\"..=\"\" 19.html\"=\"\">\nトルコ、共和国宣言</a>　（大統領：<a href=\"../p/kemal_m.html\">ムスタファ・ケマル</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/11/01　　<a href\"..=\"\" 19.html\"=\"\">\nトルコ議会、グスタファ・ケマルを満場一致で大統領に選出</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/11/10　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/kemal_m.html\">\nムスタファ・ケマル</a>没"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>現代トルコ建国の父といえば、後にアタテュルク、すなわち「最高のトルコ人」として知られたムスタファ・ケマルだということに、\nだれも異論はなかろう。\n彼は第一次世界大戦中、ダーダネルス地方の防衛で有名をはせたが、トルコ参戦の責任者である青年トルコ党と不和であったため、\n戦時中は第一線の有名人にのし上がることがなかった。</div>\n<div>しかしケマルの機会は、大戦が終わって講和の段階がおとずれたときにやってきた。\n彼は、旧オットマン帝国内のアラブ諸地方を完全に放棄する意志はあったが、トルコ人居住地の東トラキア（バルカン半島東部）を割譲したり、\nコンスタンティノープルおよび両海峡に関する条項を呑むことには絶対反対であった。\nところが、戦勝国はこれらの諸条件を押しつけたほか、さらに、小アジアをいくつかの勢力範囲に分割してしまった。\n肝心な部分を失ってシリの肉だけ残った、いわゆる「臀部トルコ」の運命は、\nかつて「瀕死の鯨」として列強のえじきになった中国の運命にもちかかったのである。</div>\n<div>さて、休戦当時コンスタンティノープルにいたケマルは、強硬な民族主義主張のゆえに政府から危険人物視され、\n兵員解除の監督という名目で、中央から地方の小アジア東部方面にまわされた。\nこれを機会にトルコの奥地を旅行した彼は、各地で協商国軍、および首都にある協商国軍の傀儡スルタン政権に対する抵抗団体を組織し、\n一九一九年九月までには、民族派会議を召集できるほどの勢力にのし上がっていた。</div>\n<div>このような民族主義運動の高揚の中で、一九一九年十月の議会選挙ではケマルの一党が過半数を占め、\n翌年一月に開かれた議会では民族の自決、治外法権の撤廃、コンスタンティノープルの安全、海峡問題の新しい解決などをふくむ\n六原則の国民協定が採択された。\nしかし、協商国軍がこれを黙視するはずはなかった。\nかれらはトルコ民族主義の拡大阻止という建てまえから、二〇年三月十六日にはコンスタンティノープルを占領した。\nここにおいて、ケマルは小アジア中部のアンゴラに民族派の代表を召集し、\nこの地で、自己を大統領としてスルタン政権を否認する臨時政府を樹立した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ia_gaise.html\">今津晃 「概説現代史」</a>\n　Ｐ．３７</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"02k.html\">人物ファイル一覧　（カ）</a>\n ＞ <a href=\"#h\">ムスタファ・ケマル</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "path": "text/ms7syowa.html",
+ "type": "text",
+ "title": "「昭和史発掘（７）」　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "text.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\"><span class=\"now\">書籍</span></a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "「昭和史発掘（７）」"
+  },
+  {
+   "type": "title2",
+   "html": "参考書籍"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "list"
+   },
+   "html": "<tbody><tr>\n<td class=\"list\"><a href=\"03s.html\">一覧</a></td>\n<td class=\"list\"><span class=\"f8\"><a href=\"ms_syowa.html\">データ</a></span></td>\n<td class=\"list\"><a href=\"ms1syowa.html\">１</a></td>\n<td class=\"list\"><a href=\"ms2syowa.html\">２</a></td>\n<td class=\"list\"><a href=\"ms3syowa.html\">３</a></td>\n<td class=\"list\"><a href=\"ms4syowa.html\">４</a></td>\n<td class=\"list\"><a href=\"ms5syowa.html\">５</a></td>\n<td class=\"list\"><a href=\"ms6syowa.html\">６</a></td>\n<td class=\"list2\"><a href\"ms7syowa.html\"=\"\">７</a></td>\n<td class=\"list\"><a href=\"ms8syowa.html\">８</a></td>\n<td class=\"list\"><a href=\"ms9syowa.html\">９</a></td>\n<td class=\"list\"><a href=\"msasyowa.html\">10</a></td>\n<td class=\"list\"><a href=\"msbsyowa.html\">11</a></td>\n<td class=\"list\"><a href=\"mscsyowa.html\">12</a></td>\n<td class=\"list\"><a href=\"msdsyowa.html\">13</a></td>\n</tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n書籍：　文庫（265ページ）<br>\n発行：　文藝春秋（1978/10/25）<br>\n目次：　<a href=\"../1936/02226ji.html\">二・二六事件</a>　一<br>\n<div class=\"in\">\n　　<a href=\"../1935/08aizaw.html\">相沢事件</a><br>\n　　軍閥の暗闘</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "span",
+   "attrs": {
+    "class": "book"
+   },
+   "html": "<a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F416710637X%2Fqid%3D1147086646%2Fsr%3D1-21%2Fref%3Dsr_1_0_21\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\">"
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../1931/033gatu.html\">三月事件</a>と<a href=\"../p/ntetuzan.html\">永田鉄山</a></b></div>\n<div><span class=\"m_b\">引用</span>昭和六年の<a href=\"../1931/033gatu.html\">三月事件</a>の起る前年に<a href=\"../p/ntetuzan.html\">永田</a>は<a href=\"../p/kkuniaki.html\">小磯軍務局長</a>のもとに軍事課長をしていた。\n<a href=\"../p/osyumei.html\">大川周明</a>と桜会の<a href=\"../p/hkingoro.html\">橋本欣五郎</a>や重藤千秋、長勇らが<a href=\"../p/ukazusig.html\">宇垣陸相</a>をかついでクーデターを起そうとしたのが<a href=\"../1931/033gatu.html\">三月事件</a>だが、\n実はこの計画は前年から<a href=\"../p/ukazusig.html\">宇垣</a>直系の二宮（治重）参謀次長、<a href=\"../p/kkuniaki.html\">小磯</a>、建川（美次）参本第二部長らの間へも\nひそかに伝えられていたものだ。</div>\n<div>ある日、<a href=\"../p/kkuniaki.html\">小磯局長</a>が<a href=\"../p/ntetuzan.html\">永田軍事課長</a>をよんで、こういう案があるのだが、といって、\n<a href=\"../p/osyumei.html\">大川</a>より手渡されていた<a href=\"../p/ukazusig.html\">陸相</a>宛の建策書と、自分で書いた聴取書を示し、\n「課長、一度読んでみて私の感じが妥当かどうか意見を聴かして貰いたい」といった。\n<a href=\"../p/ntetuzan.html\">永田</a>は困りましたな、といって自室にもって帰った。</div>\n<div>翌日、小磯から意見を徴されたが、もともとクーデターに反対の永田は返事を渋った。\n<a href=\"../p/kkuniaki.html\">小磯</a>はそれならもうよろしいといったが、<a href=\"../p/ntetuzan.html\">永田</a>は「何か勘違いしたものと見え、\nその日の午後簡単な意見書を複行青罫紙にペンで記したものを」（<a href=\"../p/kkuniaki.html\">小磯国昭</a>「葛山鴻爪（<a href=\"#cyu\">※</a>）」）\nもってきた。\n<a href=\"../p/kkuniaki.html\">小磯</a>はこれを受取って、自分の机の抽斗に入れておいたが、<a href=\"../p/ukazusig.html\">宇垣</a>がこの計画に途中からしりごみしたので、\n計画書は<a href=\"../p/kkuniaki.html\">小磯</a>から<a href=\"../p/ntetuzan.html\">永田</a>に返された。\n<a href=\"../p/ntetuzan.html\">永田</a>はそれを軍事課長専用の金庫の中に入れたまま忘れてしまったのである。</div>\n<div><a href=\"../p/ntetuzan.html\">永田</a>の後任軍事課長は<a href=\"../p/ytomoyuk.html\">山下奉文</a>（昭和七年四月）である。\n<a href=\"../p/ytomoyuk.html\">山下</a>は金庫の中からこの意見書を発見し、これを<a href=\"../p/asadao.html\">荒木</a>と<a href=\"../p/mjinzabu.html\">真崎</a>に見せた。\n金庫の中にしまいこんだまま忘れていたのは<a href=\"../p/ntetuzan.html\">永田</a>の迂闊だった。\nそして、この内容が<a href=\"../1931/033gatu.html\">三月事件</a>の計画とそっくりなので、<a href=\"../1931/033gatu.html\">三月事件</a>はまるで<a href=\"../p/ntetuzan.html\">永田</a>が立案のようにも見られた。</div>\n<div class=\"txr\"><a href=\"../text/ms7syowa.html\">松本清張 「昭和史発掘（７）」</a>\n　Ｐ．２５</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>栗原中尉の怪文書</b></div>\n<div><span class=\"m_b\">引用</span>「歩兵第一連隊幹部候補生教育の状態」は注目していい文書で、\n当時歩一の教官だった中尉栗原安秀が書いたものである。\n当時幹部候補生が一年志願の制度のもとに金を出せば安易に一年の在隊期間ですむという一般の概念を一掃するために\nとくに激烈な訓練をほどこし、将校教育の実際は苦闘そのものであることを的確に認識せしむるための教育を論じている。</div>\n<div>この中で、栗原はこういっている。</div>\n<div>過度の訓練は、近い将来に起るであろう事変に善処できるよう自信力を養成する。\nそして思想的にも尖鋭な教育をほどこし、天皇陛下を中心とする国家社会主義の建設、錦旗革命の必要がある。\nさらに大官連の堕落、<a href=\"../p/smakoto.html\">斎藤首相</a>の不敬、<a href=\"../p/mnobuaki.html\">牧野</a>その他の高位者の良心の磨滅、議会の不浄などの事実によって、\n議会を真に国家を憂うる青年の舞台とするならば議事堂の存在は必要であるが、</div>\n<div>「然ラザレバ破壊シテシマエ、暗殺ハ最高ノ道徳デアル」</div>\n<div>と結んでいる。</div>\n<div>栗原安秀中尉は、<a href=\"../1936/02226ji.html\">二・二六事件</a>では首相官邸を襲撃した男だが、\n昭和八年九月に起った「埼玉青年挺身隊事件」にも関係している。</div>\n<div class=\"txr\"><a href=\"../text/ms7syowa.html\">松本清張 「昭和史発掘（７）」</a>\n　Ｐ．４３</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>怪文書の作成現場</b></div>\n<div><span class=\"m_b\">引用</span>大谷の「昭和憲兵史」によると、\n皇道派の怪文書の一部は東京憲兵隊で作成されていた、という。</div>\n<div>御手洗辰雄は「秦憲兵司令官の総指揮の下で憲兵司令部が版元（ガリ版）となり、\n子飼いの浪人を使って怪文書の濫造に当らしめた。\n秦は怪文書と憲兵を武器として陸軍人事までもひきまわして内部の乱脈統制は言語に絶するものがあった」\n（「文春政界読本」二九－二）とかいているが、これはある程度事実である。\n秦に劣らず皇道派に忠勤をつくした持永浅治東京憲兵隊長は、前任地の名古屋から連れてきた准尉に、\n統制派を攻撃する怪文書のガリ版を切らせていた。\n怪文書の出所を追及していた特務班が苦心して突きとめた先があにはからんや、わが足もとだったわけである。</div>\n<div>「このころの東京憲兵隊は怪文書の印刷所、いや、本家だった」と大谷は述べている。</div>\n<div class=\"txr\"><a href=\"../text/ms7syowa.html\">松本清張 「昭和史発掘（７）」</a>\n　Ｐ．５０</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>橋本虎之助</b></div>\n<div><span class=\"m_b\">引用</span>橋本虎之助は愛知県出身、明治四十三年陸大卒業後、\n駐在武官としてロシア勤務以外はずっと参謀本部系統を歩き、参本課長、参本第二部長、関東軍参謀長、同憲兵司令官、\n参本総務部長を歴任し、次官は九年八月であった。\nついでにそのあとをいうと、十年末に近衛師団長となったが、<a href=\"../1936/02226ji.html\">二・二六事件</a>の責を負って自ら辞任を申出で待命、\n予備役になってからは満州国参議府副議長、協和会中央本部長となった。\n二十年八月、<a href=\"../1945/08gyoku.html\">敗戦</a>によってソ連に拉致、抑留地で病没した。</div>\n<div>以上の経歴でも想像されるように、\n<a href=\"../1936/02226ji.html\">二・二六事件</a>が起らなかったら橋本は当然に陸軍大臣か参謀総長になった人である。【中略】</div>\n<div>橋本は統制派でも皇道派でもなく、中立系である。\n九年八月の異動は、<a href=\"../p/hsenjuro.html\">林銑十郎陸相</a>の実力を問われる人事だといわれたが、\nこのとき<a href=\"../p/hsenjuro.html\">林</a>は皇道派の柳川平助次官を第一師団長に転出させた（<a href=\"../p/hsenjuro.html\">林</a>は柳川を東京以外の師団長に出したかったが\n<a href=\"../p/mjinzabu.html\">真崎</a>の反対に遇ってできなかった）あと、後任に参本から橋本を懇望したのである。\nこれには<a href=\"../p/wjotaro.html\">渡辺錠太郎参議官</a>の強い推薦があった。</div>\n<div>中央部を無色でかためて部内を統制してゆきたいという<a href=\"../p/hsenjuro.html\">林</a>の方針に橋本次官は打ってつけで、\nこの人事は世間に好評であった。\nさすがの<a href=\"../p/mjinzabu.html\">真崎</a>も橋本では反対できなかったといわれる。</div>\n<div>橋本は参本をずっと歩いてきていたので軍政には素人だったが、\n人物がたしかな上に真面目で、他人から嫌われることがなかった。\n当りは柔らかいが、根性はしっかりしている。\nある意味では典型的な軍人だ、と朝日新聞陸軍省詰記者だった高宮太平は書いている。（「軍国太平記」）</div>\n<div class=\"txr\"><a href=\"../text/ms7syowa.html\">松本清張 「昭和史発掘（７）」</a>\n　Ｐ．１０９</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>第一師団満州移駐</b></div>\n<div><span class=\"m_b\">引用</span><a href=\"../p/asaburo.html\">相沢被告</a>の予審は事件発生以来八十余日を経た十一月二日に終結した。\n翌年一月から第一回の公判が開かれるという矢先に降って湧いた新状態が生じた。\n十二月ごろに内定した第一師団の満州移駐である。翌十一年五月ごろの動員という。\nこれが青年将校たちに大きな焦燥感をあたえた。\nとくに歩兵第一連隊と歩兵第三連隊の隊付将校には衝撃であった。\n日露戦争後三十年間も東京から離れることのなかった第一師団を満州に移動させる軍上層部の意図は、\n「危険分子」の巣窟の観のあった歩一と歩三とを、その師団ごとそっくり満州に遠ざけようというのである。</div>\n<div>ひとたび満州に渡れば、一応、二年後に帰還するとはいうものの、\n青年将校たちの運命は分らない。\n戦死するかもしれないし、現地でバラバラに引きはなされるかもしれない。\nそれに結束も現在のままではあるまい。\n行動を起すなら、満州移駐の前にやらなければならぬ。\nこれをのがすと、昭和維新断行の機会が永久にこない。\nあるいは大幅に延びる。\nこの時間的な切迫が<a href=\"../1936/02226ji.html\">二・二六事件</a>発生の心理的な引金となった。\n「時間」が彼らを<a href=\"../1936/02226ji.html\">二月の蹶起行動</a>に追いこんだともいえよう。</div>\n<div class=\"txr\"><a href=\"../text/ms7syowa.html\">松本清張 「昭和史発掘（７）」</a>\n　Ｐ．１２４</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>川島義之</b></div>\n<div><span class=\"m_b\">引用</span>川島は愛媛県の出身で、\n連隊長、参謀本部課長、教育総監部第二課長、陸軍省人事局長、第三師団長というように、\n隊の現場も踏んでいれば、参本、教総、本省というように、まんべんなく歩いている。\nことに人事局長の経歴があるので部内の人脈にも明るかった。陸相として最適の資格がある。</div>\n<div>それに川島は中立系である。それていて<a href=\"../p/mjinzabu.html\">真崎</a>ともよい。\nこれは皇道派を穏健のうちに退かせるにはもってこいの人物である。\n<a href=\"../p/hsenjuro.html\">林</a>がひそかに各参議官に打診したところ、<a href=\"../p/mjinzabu.html\">真崎</a>も<a href=\"../p/asadao.html\">荒木</a>も川島なら別に異存はないということが分った。\n<a href=\"../p/wjotaro.html\">渡辺教育総監</a>は<a href=\"../p/hsenjuro.html\">林</a>の応援者だから問題はなく、<a href=\"../p/kkotohit.html\">閑院宮参謀総長</a>も賛成であった。</div>\n<div>川島が八方ずくめいいというのは、彼の中立性を買われたのだが、\n同じ買っていても統制派と皇道派とでは考えが違う。\nどちらも川島を自派に都合のいいように動かそうとしているのだから、\n川島新陸相支持は両派それぞれの魂胆があった。</div>\n<div>川島自身にはこの両者の思惑をうまく利用して部内を統率してゆくだけの力量はなかった。\n彼ははなはだ頼りない男だった。無性格な人物だった。\nなまじっか<a href=\"../p/mjinzabu.html\">真崎</a>らと親しいことがかえって彼の粛軍方針の実行を拘束した。\n彼は<a href=\"../p/hsenjuro.html\">林</a>に輪をかけた優柔不断で、グズであった。\nその正体は<a href=\"../1936/02226ji.html\">二・二六事件</a>で遺憾なく暴露される。</div>\n<div class=\"txr\"><a href=\"../text/ms7syowa.html\">松本清張 「昭和史発掘（７）」</a>\n　Ｐ．１７４</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../1935/02kikan.html\">天皇機関説問題</a>と<a href=\"../p/hkiiciro.html\">平沼騏一郎</a></b></div>\n<div><span class=\"m_b\">引用</span>そもそも<a href=\"../1935/02kikan.html\">天皇機関説問題</a>を攻撃する背後には<a href=\"../p/hkiiciro.html\">平沼騏一郎</a>（枢密院副議長）の策動があった。</div>\n<div><a href=\"../p/hkiiciro.html\">平沼</a>の狙いは敵本主義で、<a href=\"../p/mtatukic.html\">美濃部</a>の追落しを、天皇機関説遵奉者と目されている<a href=\"../p/ikitokur.html\">一木喜徳郎枢府議長</a>と\n金森徳次郎法制局長官の失脚に及ぼし、これによって<a href=\"../p/hkiiciro.html\">平沼</a>自身が枢府議長に昇格し、\nその勢力を宮廷、重臣間に伸ばそうというにあった。\n狙いの二は、法制局長官辞職の責任により<a href=\"../1934/okada_1.html\">岡田内閣</a>を倒すにあった。</div>\n<div class=\"txr\"><a href=\"../text/ms7syowa.html\">松本清張 「昭和史発掘（７）」</a>\n　Ｐ．１８０</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../1930/04tosui.html\">統帥権干犯問題</a></b></div>\n<div><span class=\"m_b\">引用</span>特別国会については、\nさきの選挙に大敗北した政友会が<a href=\"../1930/04londo.html\">ロンドン条約</a>を攻撃した。<a href=\"../p/ituyosi.html\">犬養毅政友会総裁</a>は、</div>\n<div>「艦種の選択力量の決定は作戦計画に成りまったく専門的知識を俟つべきものである。\n然して専門家の説を徴するにこれでは国防危険なりとの定論である。\n果して然らば国家安危の係るところで、真に憂慮に堪えぬのである」</div>\n<div>と演説した。</div>\n<div>右にみえる「専門家の意見」が軍令部の意見であることはいうまでもない。\nこのとき政友会は条約不満の軍令部と通じて、<a href=\"../p/ttakesi.html\">財部海相</a>を窮地に陥れ、\nあわよくば<a href=\"../1929/hama_1.html\">浜口内閣</a>の倒閣にもってゆこうとしていた。\n政友会のこの野心を見ぬいていた<a href=\"../p/khirohar.html\">加藤</a>、<a href=\"../p/snobumas.html\">末次</a>らの軍令部首脳は政友会を利用して批准を遮るべく努力した。\n彼らは海軍軍縮会議からの脱退を目論んでいたのである。</div>\n<div>政友会の<a href=\"../p/hiciro.html\">鳩山一郎</a>は、政府が<a href=\"../p/khirohar.html\">軍令部長</a>の意見を無視して<a href=\"../1930/04londo.html\">条約に調印した</a>のは統帥権の干犯であると攻撃し、</div>\n<div>「憲法第十一条には『天皇ハ陸海軍ヲ統帥ス』とある。\nすなわち、軍の統帥に関しての輔弼機関は内閣ではなくして、軍令部長または参謀総長が直接の輔弼機関であるということは\n今日まで異論がない。\n統帥権の作用について直接の機関があるにもかかわらず、その意見を蹂躙して、\n輔弼の機関でもないものが飛出して<a href=\"../p/khirohar.html\">軍令部長</a>の意見を変更したということは、まったく乱暴で、\n<a href=\"../p/khirohar.html\">海軍軍令部長</a>の意見と、内閣の意見と、異なる意見を<a href=\"../p/stenno.html\">陛下</a>に進言申上げて宸襟を悩し奉っても、\nなお<a href=\"../p/hosaci.html\">総理大臣</a>に責任なしということは私は断じて承認できないのである」</div>\n<div>と演説した。論旨は軍令部の意見を代弁したもので、それを倒閣の道具に使ったものだ。</div>\n<div>これに対し<a href=\"../p/hosaci.html\">浜口首相</a>は、軍部の硬化を顧慮して正面から対決せず、手続き論で乗り切ろうとした。\nしかし、議会のこの統帥権論議は「尽忠精神」に燃える海軍軍人に強い衝撃を与えた。\nその下地には軍縮への反撥があった。\n陸軍もまた大正十四年、<a href=\"../p/ukazusig.html\">宇垣陸相</a>（第一次加藤高明内閣）のもとで四個師団を廃し、\n二千余の将校が馘首された苦い経験があるので、海軍の態度に同調した。</div>\n<div class=\"txr\"><a href=\"../text/ms7syowa.html\">松本清張 「昭和史発掘（７）」</a>\n　Ｐ．１９１</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>草刈少佐自決</b></div>\n<div><span class=\"m_b\">引用</span>軍令部参謀の草刈英治少佐は帰国した<a href=\"../p/ttakesi.html\">財部全権</a>を統帥権干犯で暗殺するつもりだったが、\n自分が<a href=\"../p/ttakesi.html\">海軍大臣</a>を暗殺することも「統帥権干犯」になるのではないかと悩んで決行ができず、\n東海道線の寝台車の中で自刃した。</div>\n<div class=\"txr\"><a href=\"../text/ms7syowa.html\">松本清張 「昭和史発掘（７）」</a>\n　Ｐ．１９２</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>石川信吾の策謀</b></div>\n<div><span class=\"m_b\">引用</span>当時軍令部の軍備担当参謀だった石川信吾は陸軍への接近を計り、\n陸軍省の鈴木率道、<a href=\"../p/steiici.html\">鈴木貞一</a>、<a href=\"../p/hkingoro.html\">橋本欣五郎</a>、<a href=\"../p/makira.html\">武藤章</a>などから外務省の白鳥敏夫などと会ったり、\nとくに政友会の<a href=\"../p/mkaku.html\">森恪</a>とは緊密な連絡をとった。\nしかし、満州などの現地の陸軍では、自分たちでここまでやったという自負があるので、\nいまさら海軍に出てこられるのを迷惑がった。\n石川の陸海の接近策は失敗した。</div>\n<div class=\"txr\"><a href=\"../text/ms7syowa.html\">松本清張 「昭和史発掘（７）」</a>\n　Ｐ．１９７</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../1935/02kikan.html\">天皇機関説問題</a></b></div>\n<div><span class=\"m_b\">引用</span>国民は天皇機関説や国体明徴にはさっぱり関心がなかった。\n国家存亡の危急とばかりに昂奮しているのは軍部、在郷軍人会、政党、右翼の一部だけであった。</div>\n<div>だが、こうした軍人でも、単純に天皇尊崇の観念から天皇機関説に反対している「純粋」派と、\nこれを部内の派閥争いや倒閣運動に利用する「政治」派があったのはいうまでもない。</div>\n<div>「純粋」派は隊付の陸軍青年将校、飛行機や艦に乗っている海軍将校に多く、\nまた一般在郷軍人の多くもそうだった。\nそして彼らを利用する「政治」派は部内の反主流派ともいうべき皇道派、艦隊派に多く、\nまた、在郷軍人会では小林順一郎の三六倶楽部がそれにあたった。</div>\n<div class=\"txr\"><a href=\"../text/ms7syowa.html\">松本清張 「昭和史発掘（７）」</a>\n　Ｐ．１９９</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>国体明徴声明②</b></div>\n<div><span class=\"m_b\">引用</span>政府も陸海軍共同で再声明の発表をこう逼られては譲歩のほかはなかった。\n政府はいろいろと案をねったが、陸軍が一部の倒閣運動者と組んでいては、\nどのような案も相手の気にいるような字句がない限りまとまる見込みはなかった。\n倒閣運動者は政府声明文が学説の排撃を強調して、<a href=\"../p/ikitokur.html\">一木</a>、金森の辞職にまで及ぶような字句にさせようとした。</div>\n<div>政府としては再声明の文章はできるだけ抽象的表現にして犠牲の少ないことにつとめた。\n政府は苦心してその文案をつくり軍部側と交渉したが、海軍のほうは大体政府案に近いものでまとまったのに、\n陸軍は　【中略】　同意しなかった。</div>\n<div>ところが十五日の閣議で陸軍も急に折れて政府案に近いところで妥協した。\n原田日記はその裏話を次のように伝えている。</div>\n<div>「《<a href=\"../p/okeisuke.html\">岡田首相</a>の話》内閣の第二次声明案を海軍はすぐ承知したけれど、\nそれがまた陸軍に廻ったところ、陸軍では学説を排撃しようとして、学説にまで触れたいのであるけれども、\n学説に触れることはこちらで避けてゐる。じつは今でも、\n政府は清水澄博士（註・枢密顧問官）に内々相談して文案なんかを決めたのであったが、\nちょうど偶然にも陸軍大臣は清水博士を十四日の五時に官邸に呼んで、博士に声明についていろいろ質問した。\nところが博士からやはり『国家法人説を否定するやうなことがあると、まるで国の行政は動かなくなるし、\n国際法なんかで国と国との条約などを結ぶことができなくなる』といふやうなことをはっきりきかせられたので、\n陸軍も非常に驚いて、結局国家法人説を否定するやうな文案は作らないで、大体において内閣が或る程度まで\n妥協できるやうな案を作って返して来た」</div>\n<div>こうして十月十五日に国体明徴に関する再声明が内閣から出た。</div>\n<div>「抑々我国に於ける統治権の主体が天皇にましますことは、我国体の本義にして、\n帝国臣民の絶対不動の信念なり・・・・・・統治権の主体は天皇にましまさずして国家なりとし、\n天皇は国家の機関なりとなすが如きいはゆる天皇機関説は神聖なる我国体に悖り、其本義を愆るの甚しきものにして、\n厳に之を芟除せざるべからず」</div>\n<div>「芟除」とは、つまみ取る、というほどの意味である。</div>\n<div class=\"txr\"><a href=\"../text/ms7syowa.html\">松本清張 「昭和史発掘（７）」</a>\n　Ｐ．２０１</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../p/ntetuzan.html\">永田</a>亡き後の統制派</b></div>\n<div><span class=\"m_b\">引用</span>このころの統制派幕僚は、<a href=\"../p/ntetuzan.html\">永田</a>を失って以来意気揚らぬ状態だったのである。\nこの派に属するものに<a href=\"../p/thideki.html\">東条英機</a>、<a href=\"../p/makira.html\">武藤章</a>、<a href=\"../p/isumihis.html\">池田純久</a>、田中新一、岩畔豪雄、影佐禎昭などがいるが、\n<a href=\"../p/thideki.html\">東条</a>は久留米から遷って関東軍憲兵司令官として相変らず中央を不在にし、<a href=\"../p/makira.html\">武藤章</a>は軍務局の軍事課高級課員だったが、\nその中心になるには未だ力及ばずだった。\nあとの者もドングリのせいくらべである。\nつまり、<a href=\"../p/ntetuzan.html\">永田</a>という大親分を無くしてからは重石がとれたようなもので、\nかつての華々しい統制派幕僚グループの団結もルーズになっていた。</div>\n<div>幕僚派の連中は概して頭脳明晳である。\nエリートコースを歩いている彼らは、ある意味で出世主義者だ。\nその点、大きなボスがいれば、そのもとに団結するが、ボスがいなくなれば個人主義に戻る。\n力量を自負しているからだ。それに、国家改造は考えても、武力によるクーデターではなく、合法的な手段に求める。\nそれだと、べつに皇道派のような横断的な団結の必要はない。\nかえって各自が政治的な外郭団体と結ぶ傾向を見せる。\n<a href=\"../p/ntetuzan.html\">永田</a>を失った統制派幕僚の団結が緩んだのはそのためだった。</div>\n<div class=\"txr\"><a href=\"../text/ms7syowa.html\">松本清張 「昭和史発掘（７）」</a>\n　Ｐ．２３５</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "a",
+   "attrs": {
+    "name": "cyu"
+   },
+   "html": "\n<div class=\"cyu\">※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n<br>「葛山鴻爪」の「葛」は、正しい字を表示できないため、仮にこの字を当てています。\n</div>\n\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a name=\"cyu\"></a><a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"03s.html\">書籍ファイル一覧　（サ）</a>\n ＞ <a href=\"ms_syowa.html\">「昭和史発掘」</a>\n ＞ <a href=\"#h\">「昭和史発掘（７）」</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

@@ -1,0 +1,232 @@
+{
+ "path": "1923/09sinte.html",
+ "type": "article",
+ "title": "日銀震災手形割引損失補償令公布　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1923.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "日銀震災手形割引損失補償令公布"
+  },
+  {
+   "type": "title2",
+   "html": "1923/09/27"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1913.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1922.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1923.html\">１９２３</a> &gt;&gt;&gt; <a href=\"../20c/1924.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1933.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "被災地企業の<a href=\"../1923/09sinsa.html\">震災</a>がらみの借金を一時肩代わりします、と政府・日銀が約束。　大丈夫？　<a href=\"../p/ijunnosu.html\">井上さん</a>。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/01　　<a href=\"../1923/09sinsa.html\">\n関東大震災</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/02　　<a href\"..=\"\" 19.html\"=\"\">\n東京に戒厳令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/03　　<a href\"..=\"\" 19.html\"=\"\">\n国鉄、避難地までの無賃乗車を許可　（～09/30）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/04　　<a href=\"../1923/09kamei.html\">\n亀戸事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/07　　<a href\"..=\"\" 19.html\"=\"\">\n支払猶予令</a>　（09/01から30日間のモラトリアム／蔵相：<a href=\"../p/ijunnosu.html\">井上準之助</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/07　　<a href\"..=\"\" 19.html\"=\"\">\n東京市内の夜間通行禁止</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/16　　<a href=\"../1923/09amaka.html\">\n甘粕事件</a>　（犯人：<a href=\"../p/amasahik.html\">甘粕正彦</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/27　　<a 1923=\"\" href\"..=\"\" 09sinte.html\"=\"\">\n日銀震災手形割引損失補償令公布</a>　（蔵相：<a href=\"../p/ijunnosu.html\">井上準之助</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/10/27　　<a href\"..=\"\" 19.html\"=\"\">\n東京株式取引所再開</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/10/28　　<a href\"..=\"\" 19.html\"=\"\">\n東海道本線全線復旧</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/11/10　　<a href\"..=\"\" 19.html\"=\"\">\n国民精神作興に関する詔書</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/03/14　　<a href=\"../1927/03katao.html\">\n片岡蔵相失言</a>　（→金融恐慌）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>山本権兵衛内閣の蔵相<a href=\"../p/ijunnosu.html\">井上準之助</a>は、九月七日、\n被害地の銀行・会社を救済するため、支払猶予令を出して、債務の支払いを一か月猶予する措置をとり、\nつづいて九月二七日には、震災手形割引損失補償令を勅令のかたちで公布した。\nこれは、震災前に銀行が割り引いた手形のうち、震災のために決済できなくなったものは、\n日本銀行が再割引して銀行の損失を救い、それによって日銀に損失が生じた場合には、\n一億円を限度として政府が補償することをさだめたものである。これを震災手形とよんだ。</div>\n<div>ところが、政府の予想を上まわって、一九二四年三月末までに日銀で再割引された震災手形は、\n四億三〇八一万円の巨額に達した。\nというのは、震災手形といわれるもののなかには、震災前からの不良貸付・放漫経営による不良手形がふくまれており、\nそれらが、震災手形の名のもとに再割引されてしまったからである。\nそのうえ、震災手形の振出人は、経営悪化のため、なかなか手形決済することができない状態であった。\nそこで政府は、当初の勅令で震災手形の満期日を一九二五年九月三〇日限りとさだめていたのを、\n一九二五、二六年の二回にわたって、期限をそれぞれ一年ずつ延長し、結局、\n一九二七年九月をもって最終期限とすることにした。\nこれによって、震災手形の整理はいくらかすすんだものの、\n一九二六年末には、なお二億七〇〇万円の震災手形が残っていたのである。</div>\n<div class=\"txr\"><a href=\"../text/nm_syo02.html\">中村政則 「昭和の歴史（２）」</a>\n　Ｐ．４１<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%2598%25AD%25E5%2592%258C%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2%25E3%2580%25882%25E3%2580%2589%25E6%2598%25AD%25E5%2592%258C%25E3%2581%25AE%25E6%2581%2590%25E6%2585%258C\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>第一次大戦で空前の活況をていした日本経済は、\n放漫な金融によって事業資金の需要にこたえてきたが、\n戦後の不況によって多額の不良手形を未決済のまま市場にのこすことになった。\nこれらの手形が不渡りになれば企業の倒産があいつぎ、日本経済は不景気のどん底におちこむ。\nこの事態をさけるために、日銀は特別貸出をもって個別に企業の救済策を講じてきたが、\n日銀の財界救済融資が限界にたっしたとき、<a href=\"../1923/09sinsa.html\">関東大震災</a>がおこった。</div>\n<div>日本の金融中枢が大被害をうけたので、政府は経済的混乱をふせぐためのとりあえずの救済策として、\n震災手形損失補償令を公布した。\nそれは、震災地を支払先とする手形、震災地に当時営業所を有したものが振りだした手形、\nまたはこれを支払人とする手形で、九月一日以前に銀行が割引していた手形を、\n日銀が再割引に応じてその取立てに二年の猶予をあたえ、\n日銀の損失については政府が一定額の補償をするなどの内容であった。</div>\n<div>補償令によって、震災以前に銀行がかかえこんだ多額の不良手形が生きのびることになった。\n放漫金融は未整理のままとなり、それに震災復興のための需要形成によって輸入が激増した。\nこうして大戦中にかせぎだした在外資金をくいつぶしてしまっただけでなく、\n国内の正貨の輸出さえ必要とされるにいたった。\n為替相場ははげしく変動し、円相場は急落した。\nこのような経済情勢のもとでは、震災手形の整理に手をつけることができず、\n補償令の決済期限は一九二七年（昭和二）九月まで延長されるにいたった。</div>\n<div class=\"txr\"><a href=\"../text/os_cyosa.html\">大江志乃夫 「張作霖爆殺」</a>\n　Ｐ．６５<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%25BC%25B5%25E4%25BD%259C%25E9%259C%2596%25E7%2588%2586%25E6%25AE%25BA%25E2%2580%2595%25E6%2598%25AD%25E5%2592%258C%25E5%25A4%25A9%25E7%259A%2587%25E3%2581%25AE%25E7%25B5%25B1%25E5%25B8%25A5\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1923.html\">１９２３年</a>\n ＞ <a href=\"#h\">日銀震災手形割引損失補償令公布</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

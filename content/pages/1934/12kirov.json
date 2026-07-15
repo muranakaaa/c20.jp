@@ -1,0 +1,169 @@
+{
+ "path": "1934/12kirov.html",
+ "type": "article",
+ "title": "キーロフ（レニングラード・ソビエト議長）暗殺　（粛清開始）　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1934.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "キーロフ（レニングラード・ソビエト議長）暗殺　（粛清開始）"
+  },
+  {
+   "type": "title2",
+   "html": "1934/12/01"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1924.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1933.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1934.html\">１９３４</a> &gt;&gt;&gt; <a href=\"../20c/1935.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1944.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "「右腕」キーロフの死に、<a href=\"../p/stalin.html\">スターリン</a>は “復讐” を誓った。　そして、あの大粛清がはじまる。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/10/23　　<a href\"..=\"\" 19.html\"=\"\">\nソ連共産党中央委員会、トロツキーを政治局から追放</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1928/10/01　　<a href\"..=\"\" 19.html\"=\"\">\nソ連、五ヵ年計画①開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/12/01　　<a 1934=\"\" href\"..=\"\" 12kirov.html\"=\"\">\nキーロフ（レニングラード・ソビエト議長）暗殺　（粛清開始）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/12/05　　<a href\"..=\"\" 19.html\"=\"\">\n臨時ソ連邦ソビエト大会、スターリン憲法を採択</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>キーロフ暗殺の真の原因がなんであったかは容易にわからないが、ただキーロフ暗殺の結果だけは明らかである。\nつまり、キーロフただ一人の死に「復讐」するために、大量の共産主義者が死なねばならなかったことである。\n「エジョフシチナ」の名でよばれる大量粛清の嵐が、やがてソ連社会に吹きすさぶのである。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/mo_sek15.html\">村瀬興雄 「世界の歴史（15）」</a>\n　Ｐ．２００</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>十二月一日、<a href=\"../p/stalin.html\">スターリン</a>の片腕と目されたキーロフがレニングラードの党本部で暗殺された。\nこの暗殺は、<a href=\"../p/khrush_n.html\">フルシチョフ</a>の有名な「秘密報告」（一九五六年二月）によると、奇怪な謎に包まれており、\nあきらかに偶然ではない仕組まれた犯罪行為だったという。</div>\n<div>どうやらキーロフは、<a href=\"../p/stalin.html\">スターリン</a>によって殺されたらしい。\n<a href=\"../p/stalin.html\">スターリン</a>は、愛弟子のキーロフを暗殺することによって、ライバルたちを粛清する名目を手に入れたのだ。</div>\n<div><a href=\"../p/lenin_n.html\">レーニン</a>は共産党員には死刑を適用しないように注意を与えていた。\nそれは守られていて、反スターリン派は投獄されたり流刑になったりしても、死刑にはならなかった。</div>\n<div>キーロフが暗殺されると、<a href=\"../p/stalin.html\">スターリン</a>はその日のうちに刑法を改正し、\n政治的暗殺事件は弁護人なしの非公開裁判で死刑を宣告できるようにした。\n<a href=\"../p/stalin.html\">スターリン</a>は、キーロフを殺すことによって、自分のライバルをすべて死刑台へ送りこむ法律を手に入れた。</div>\n<div>ジノヴィエフとカーメネフがキーロフ暗殺を仕組み、<a href=\"../p/stalin.html\">スターリン</a>暗殺を企てたという理由で血祭りにあげられた。</div>\n<div><a href=\"../p/stalin.html\">スターリン</a>の首斬り役をつとめたのは、エジョフで、一連の粛清はその名をとってエジョフシチナと呼ばれた。\nそのエジョフも一九三八年十二月に内務相を解任され、その後任となったベリアによって消された。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/mt_yuhit.html\">三好徹 「夕陽と怒濤」</a>\n　Ｐ．３２４</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1934.html\">１９３４年</a>\n ＞ <a href=\"#h\">キーロフ（レニングラード・ソビエト議長）暗殺　（粛清開始）</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

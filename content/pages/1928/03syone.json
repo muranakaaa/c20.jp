@@ -1,0 +1,123 @@
+{
+ "path": "1928/03syone.html",
+ "type": "article",
+ "title": "巌松堂（神田）少年店員42名、丁稚制度に反対して争議　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1928.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "巌松堂（神田）少年店員42名、丁稚制度に反対して争議"
+  },
+  {
+   "type": "title2",
+   "html": "1928/03/13"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1918.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1927.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1928.html\">１９２８</a> &gt;&gt;&gt; <a href=\"../20c/1929.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1938.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "思春期店員たちの労働争議。　ぼくらを「どん」と呼ばないで。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1928/03/13　　<a 1928=\"\" href\"..=\"\" 03syone.html\"=\"\">\n巌松堂（神田）少年店員42名、丁稚制度に反対して争議</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "pt"
+   },
+   "html": "\n<div class=\"pt_h\">～　店員たちの要求　～</div>\n<div class=\"c\">名前に「どん」をつけるな／なぐるな／玄米食反対／積立金反対／休みを月３回に！</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\ntaroの想像では、少年たちの第一回会議は深夜、誰かが店への不満をもらしたことからはじまった。\nそれが呼び水になり、要求は次々に出た。\nなぐられたくない、白いご飯が食べたい、お金を使いたい、もっと休みがほしい。\n誰かが「どん」と呼ばれたくないと口にすると、\n他の少年たちがたちまちこれに共感した。で、さっそく要求項目に加えられた。\n単なる想像だからもちろん何の根拠もないが、\nつまり、それぐらい彼らは「どん」と呼ばれることが嫌だったのだと思う。\n人前で「taroどん」なんて呼ばれると、カッコわるかったりとか、わけもなく自分がみじめなものに感じられたりとか。\nそんな切実な思いを、旦那さんや番頭さんたちは、\nいったいどのぐらい理解してくれたのだろうか。\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div>ああああああああああああああああ</div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1928.html\">１９２８年</a>\n ＞ <a href=\"#h\">巌松堂（神田）少年店員42名、丁稚制度に反対して争議</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

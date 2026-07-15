@@ -1,0 +1,559 @@
+{
+ "path": "20c/1924.html",
+ "type": "year",
+ "title": "１９２４年　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９２４年"
+  },
+  {
+   "type": "title2",
+   "html": "大正１３年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"1914.html\">１０年前</a> &gt;&gt;&gt; <a href=\"1923.html\">前年</a> &gt;&gt;&gt; <span class=\"now\">１９２４</span> &gt;&gt;&gt; <a href=\"1925.html\">翌年</a> &gt;&gt;&gt; <a href=\"1934.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"#s4\">バラック　　インテリ　　文化～　　円タク</a>",
+    "<a href=\"../1923/yamm2_1.html\">山本②</a> → <a href=\"../1924/kiyo_1.html\">清浦</a> → <a href=\"../1924/katob_1.html\">加藤（高）内閣</a>"
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"1923.html#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/01/01　　<a href\"..=\"\" 19.html\"=\"\">\n清浦奎吾に組閣命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/01/07　　<a href=\"../1924/kiyo_1.html\">\n清浦内閣成立</a>　（首相：<a href=\"../p/kkeigo.html\">清浦奎吾</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/01/10　　<a href=\"../1924/01goke2.html\">\n護憲運動②開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/01/16　　<a href=\"../1924/01seiyu.html\">\n政友会分裂</a>　（清浦内閣支持派148名が離党）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/01/20　　<a href=\"../1924/01gass1.html\">\n国共合作①成立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/01/21　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/lenin_n.html\">\nウラジミール・レーニン</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/01/22　　<a href\"..=\"\" 19.html\"=\"\">\nマクドナルド内閣①成立　（英）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/01/26　　<a href\"..=\"\" 19.html\"=\"\">\n皇太子結婚</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/01/27　　<a href\"..=\"\" 19.html\"=\"\">\nローマ盟約調印　（イタリア、フィウメ獲得）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/01/28　　<a href\"..=\"\" 19.html\"=\"\">\n宮内省、上野公園・上野動物園を東京市へ下賜　（皇太子ご成婚記念）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/01/29　　<a href=\"../1924/01honto.html\">\n政友本党結成</a>　（<a href=\"../p/ttakejir.html\">床次竹二郎</a>ら）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/01/30　　<a href\"..=\"\" 19.html\"=\"\">\n列車転覆未遂事件　（護憲３派幹部が乗車）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/02/03　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/wilson_w.html\">\nウッドロー・ウイルソン</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/02/07　　<a href\"..=\"\" 19.html\"=\"\">\n吉野作造、朝日新聞社入社　（東京帝大教授辞職）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/02/13　　<a href\"..=\"\" 19.html\"=\"\">\nニューヨーク、ロンドンで「国辱公債」募集</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/02/25　　<a href\"..=\"\" 19.html\"=\"\">\n正力松太郎（元警視庁警務部長）読売新聞を買収、社長就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/03/20　　<a href\"..=\"\" 19.html\"=\"\">\n谷崎潤一郎「痴人の愛」連載開始　（大阪朝日新聞）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/04/01　　<a href\"..=\"\" 19.html\"=\"\">\n選抜中等学校野球大会①開催　（大阪毎日新聞社主催）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/04/21　　<a href\"..=\"\" 19.html\"=\"\">\n東京の新聞15社、アメリカの排日移民法に反対する共同宣言を発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/05/10　　<a href\"..=\"\" 19.html\"=\"\">\n総選挙[15]　（憲政151、政友105、革新30、政友本党109、他69）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/05/15　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ議会、新移民法可決　（05/26 大統領裁可／07/01 施行）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/05/23　　<a href\"..=\"\" 19.html\"=\"\">\n内務省、同潤会設立　（関東大震災後の住宅不足救済のため）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/05/31　　<a href\"..=\"\" 19.html\"=\"\">\n中ソ国交回復</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/06/03　　<a href\"..=\"\" 19.html\"=\"\">\nフランツ・カフカ没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/06/07　　<a href=\"../1924/kiyo_9.html\">\n清浦内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/06/09　　<a href=\"../1924/katob_0.html\">\n加藤高明に組閣命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/06/09　　<a href=\"../1924/063pare.html\">\n加藤高明、高橋・犬養両党首を訪問、３派連立を協議</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/06/11　　<a href=\"../1924/katob_1.html\">\n加藤（高）内閣（護憲三派内閣）成立</a>　（首相：<a href=\"../p/ktakaaki.html\">加藤高明</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/06/13　　<a href\"..=\"\" 19.html\"=\"\">\n築地小劇場開場</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/06/16　　<a href\"..=\"\" 19.html\"=\"\">\n孫文、黄埔軍官学校開校</a>　（校長：<a href=\"../p/syokaise.html\">蒋介石</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/07/01　　<a href\"..=\"\" 19.html\"=\"\">\n浜口蔵相、国会で行財政整理・緊縮方針を表明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/07/02　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/mmasayos.html\">\n松方正義</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/08/01　　<a href\"..=\"\" 19.html\"=\"\">\n甲子園野球場完成</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/08/20　　<a href\"..=\"\" 19.html\"=\"\">\n復興局疑獄事件発覚</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/08/29　　<a href=\"../1924/08dawes.html\">\nドイツ議会、ドーズ案を承認</a>　（賠償金支払い問題）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/09/02　　<a href\"..=\"\" 19.html\"=\"\">\n実行予算3000万円節約を閣議決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/09/18　　<a href\"..=\"\" 19.html\"=\"\">\n孫文、北伐宣言②</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/09/18　　<a href\"..=\"\" 19.html\"=\"\">\n奉直戦争②　（～11/03）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"1925.html#s1\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/10/10　　<a href\"..=\"\" 19.html\"=\"\">\n内閣に貴族院調査委員会設置</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/10/24　　<a href\"..=\"\" 19.html\"=\"\">\nジノビエフ書簡事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/11/07　　<a href\"..=\"\" 19.html\"=\"\">\nボールドウィン内閣②成立　（英）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/12/20　　<a href\"..=\"\" 19.html\"=\"\">\n東京市営乗合自動車に赤襷嬢（女車掌）登場</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/12/20　　<a href=\"../1924/12syutu.html\">\nヒトラー出獄</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1923/yamm2_1.html\">山本②</a> → <a href=\"../1924/kiyo_1.html\">清浦</a> → <a href=\"../1924/katob_1.html\">加藤（高）内閣</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">バラック　　インテリ　　文化～　　円タク</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「多情仏心」　「春と修羅」　「黒髪」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">「清作の妻」</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">大阪毎日実験放送</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">籠の鳥</td></tr>\n</tbody>"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"#h\">１９２４年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

@@ -1,0 +1,273 @@
+{
+ "path": "1928/06cyoxx.html",
+ "type": "article",
+ "title": "満州某重大事件　（張作霖爆殺）　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1928.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "満州某重大事件　（張作霖爆殺）"
+  },
+  {
+   "type": "title2",
+   "html": "1928/06/04"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1918.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1927.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1928.html\">１９２８</a> &gt;&gt;&gt; <a href=\"../20c/1929.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1938.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "関東軍参謀の陰謀で満州へ帰還途中の<a href=\"../p/cyosakur.html\">張作霖</a>、爆死。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/07/09　　<a href\"..=\"\" 19.html\"=\"\">\n蒋介石、北伐開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/04/12　　<a href=\"../1927/04syanh.html\">\n蒋介石、上海クーデター　（国共分離）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/04/18　　<a href=\"../1927/04nanki.html\">\n南京国民政府成立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/05/28　　<a href=\"../1927/05sant1.html\">\n山東出兵①</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/06/27　　<a href=\"../1927/06tohok.html\">\n東方会議開催</a>　（対中政策決定）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1928/04/07　　<a href=\"../1928/04hokub.html\">\n北伐再開</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1928/04/19　　<a href=\"../1928/04sant2.html\">\n山東出兵②</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1928/05/03　　<a href=\"../1928/05saina.html\">\n済南事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1928/05/08　　<a href=\"../1928/05sant3.html\">\n山東出兵③</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1928/05/11　　<a href\"..=\"\" 19.html\"=\"\">\n日本軍、済南占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1928/05/30　　<a href=\"../1928/05taiky.html\">\n張作霖、北京総退却を命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1928/06/04　　<a 1928=\"\" href\"..=\"\" 06cyoxx.html\"=\"\">\n満州某重大事件</a>　（<a href=\"../p/cyosakur.html\">張作霖</a>爆殺）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1928/06/09　　<a href\"..=\"\" 19.html\"=\"\">\n北伐軍、北京入城　（北伐完了）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1929/01/25　　<a href=\"../1929/01nakan.html\">\n中野正剛、満州某重大事件で田中首相を追及</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1929/07/01　　<a href=\"../1929/07syobu.html\">\n満州某重大事件責任者処分発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1929/07/02　　<a href=\"../1929/tanaa_9.html\">\n田中（義）内閣総辞職</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "pt"
+   },
+   "html": "\n<div class=\"pt_h\">～　関東軍参謀・河本大作大佐の計画　～</div>\n<div class=\"c\"><a href=\"../p/cyosakur.html\">張作霖</a>爆殺 → 満州混乱 → 関東軍治安出動 → 満州制圧（関東軍による直接支配） </div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\n張作霖爆殺事件（満州某重大事件）の日本史における意義は、いくら強調しても強調しすぎることはないだろう。\n振り返れば反省点てんこ盛りのこの事件だが、実際に反省した人はきわめて少ない。\n昭和天皇と石原莞爾ぐらいだろう。\n<a href=\"../p/stenno.html\">昭和天皇</a>は、処分の甘い田中首相（陸軍大将）をきびしく叱責したことを、若気の至りと反省し、\n石原は、やるならもっと計画的にやらなきゃと反省、三年後、練りに練って満州事変をみごと（？）成功させた。\nどっちの反省も、この後の日本を暗い方向に進めるものだっただけにtaroはがっくりだ。\nいちばん反省しなければならなかったことはビジョンの欠如だったろう。\n中央が<a href=\"../p/cyosakur.html\">張作霖</a>を遠隔操作して<a href=\"../p/syokaise.html\">蒋介石</a>に対抗させようとしているときに、海外の出先がその<a href=\"../p/cyosakur.html\">張作霖</a>を爆殺、\nというのはいかにもチグハグで、しっかりしたビジョンがあれば起こりえないことだ。\n反省は今からでも遅すぎはしない、これはtaroの信条だ。\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>張作霖爆殺事件が発生したのは昭和三年六月四日である。</div>\n<div>この頃<a href=\"../p/cyosakur.html\">張</a>は、北京において<a href=\"../p/syokaise.html\">蒋介石</a>の北伐軍主力と決戦しようと考えていたが、日本政府は<a href=\"../p/cyosakur.html\">張</a>が負けると、\n<a href=\"../p/syokaise.html\">蒋</a>の軍隊が山海関を通って満州に攻めて来るおそれありとして、<a href=\"../p/cyosakur.html\">張</a>に奉天に帰るよう警告していた。\n一方、関東軍は、満州の実権を手に入れる為には、言うことを聞かなくなって来た<a href=\"../p/cyosakur.html\">張</a>を倒さなければならないとして、\nひそかに<a href=\"../p/cyosakur.html\">張</a>の暗殺計画をすすめていた。</div>\n<div>六月三日<a href=\"../p/cyosakur.html\">張</a>は特別列車を編成して北京を発ち、京奉線で奉天に向った。</div>\n<div>四日午前五時、<a href=\"../p/cyosakur.html\">張</a>は起床して食堂車の喫煙室で煙草をすっていた。</div>\n<div>突如、轟然たる爆音と共に、三輛目の食堂車と四輛目の寝台車は炎上した。\n<a href=\"../p/cyosakur.html\">張</a>は重傷を負い、自邸にかつぎこまれたが絶命した。</div>\n<div>この爆殺を担当したのは関東軍の高級参謀河本大作大佐で実施に当ったのは独立守備隊の東宮鉄男大尉と朝鮮軍の亀山工兵隊であった。</div>\n<div>河本はあらかじめ中国人の浮浪者二名を殺して現場に放置し、これを南方の便衣隊に仕立てるという工作をやったが、\n日本軍の仕業ではないかという噂は忽ち拡がり、田中内閣は苦境に立った。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm_saion.html\">豊田穣 「西園寺公望」</a>\n　下巻　Ｐ．２１８</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1928.html\">１９２８年</a>\n ＞ <a href=\"#h\">満州某重大事件　（張作霖爆殺）</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

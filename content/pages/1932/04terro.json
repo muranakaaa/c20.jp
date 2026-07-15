@@ -1,0 +1,212 @@
+{
+ "path": "1932/04terro.html",
+ "type": "article",
+ "title": "上海爆弾テロ事件　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1932.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "上海爆弾テロ事件"
+  },
+  {
+   "type": "title2",
+   "html": "1932/04/29"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1922.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1931.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1932.html\">１９３２</a> &gt;&gt;&gt; <a href=\"../20c/1933.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1942.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "戦地 上海の天長節式場を、朝鮮の愛国者の弁当箱爆弾が襲った。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/09/18　　<a href=\"../1931/09ryujo.html\">\n柳条湖事件</a>　（満州事変勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/01/18　　<a href=\"../1932/01soryo.html\">\n日本人僧侶殺害事件</a>　（上海）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/01/08　　<a href\"..=\"\" 19.html\"=\"\">\n桜田門事件</a>　（犯人：李奉昌／<a href=\"../p/ituyosi.html\">犬養首相</a>辞表提出）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/01/28　　<a href=\"../1932/01syan1.html\">\n上海事変①勃発</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/02/09　　<a href=\"../1932/02ketu1.html\">\n血盟団事件①</a>　（<a href=\"../p/ijunnosu.html\">井上準之助</a>暗殺）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/03/01　　<a href=\"../1932/03mansy.html\">\n満州国建国宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/03/05　　<a href=\"../1932/03ketu2.html\">\n血盟団事件②</a>　（<a href=\"../p/dtakuma.html\">団琢磨</a>暗殺）"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/04/29　　<a 1932=\"\" href\"..=\"\" 04terro.html\"=\"\">\n上海爆弾テロ事件</a>　（犯人：尹奉吉）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/05/05　　<a href=\"../1932/05syanh.html\">\n上海停戦協定調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/05/15　　<a href=\"../1932/05515ji.html\">\n五・一五事件</a>　（<a href=\"../p/ituyosi.html\">犬養首相</a>暗殺）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>四月二十九日上海公園で行われた天長節の式場に朝鮮人が爆弾を投げこみ、軍司令官白川義則大将は間もなく死亡、\n<a href=\"../p/smamoru.html\">重光葵公使</a>は片脚を失い、<a href=\"../p/nkicisab.html\">野村吉三郎中将</a>は片眼を失った。</div>\n<div class=\"txr\"><a href=\"../text/tm2saion.html\">豊田穣 「西園寺公望（下）」</a>\n　Ｐ．２４５<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E5%259C%2592%25E5%25AF%25BA%25E5%2585%25AC%25E6%259C%259B%25E2%2580%2595%25E6%259C%2580%25E5%25BE%258C%25E3%2581%25AE%25E5%2585%2583%25E8%2580%2581%2520%2528%25E4%25B8%258B%25E5%25B7%25BB%2529%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>義勇団と式壇との距離はせいぜい三十メートルくらいであった。\n岩崎は、壇上のエライ人たちも、本当に国家を歌うだろうかと、青年らしい好奇心をもって注視していると、\n彼らはたしかに、口をもぐもぐさせながら歌った。\n義勇団の背後、約二百メートルのあたりに、陸軍部隊と海軍陸戦隊が整列していた。\nその中に<a href=\"../p/tmasanob.html\">辻</a>中隊もあったわけである。</div>\n<div>その時の光景を岩崎は今でもあざやかに記憶しているが、君が代の第一回が終って、\n「苔のむすまで」の「で」まで来た瞬間、白川大将の左に立っていた植田中将が、\n急に直立不動の姿勢を崩して、その位置を離れようとした。\n反射的に何かを避けようとする身振りである。\n同時に、直径約二メートルの真白な火の玉が閃き、轟音とともに、煙が立ちこめて壇上の人々の姿が見えなくなった。\n煙が薄れるに従って、壇上では、モーニングを着、シルクハットをかぶった一人が横たわり、\nしきりに起き上ろうと努めている風であったが、立つことができなかった。\nこれが後の外相、<a href=\"../p/smamoru.html\">重光葵公使</a>であった。</div>\n<div>もう一人、悠然と歩いて、階段を下りようとするカーキ色の軍服の人があった。白川大将である。\n大将が、一、二歩下りかけて、紅白の巻かれた手摺りに左腕を掛けた途端、その肩から手首へかけて、\nサッと血の吹き出るのが、鮮かに見えた。\n同時に、ぐたりと倒れようとするのを、二、三の人が馳せつけて、下から支えた。</div>\n<div>他の四人は、爆風に飛ばされたのか、自分で逃げ下りたのか、壇上には見えなかった。</div>\n<div>場内が騒然となったのは、しばらく後のことである。\nこの時、現場へ真先に駈けつけたのは、岩崎ら三十名の義勇隊員であった。\n義勇隊は知識階級の者が多く、極めて自由な空気に満ちていたから、\n各自がそれぞれ自己の判断において行動することに馴れており、誰が指揮するともなく、\n一斉に前進したのである。事実、憲兵は百メートル後にぼんやりしていたし、\n多数の陸海軍部隊は二百メートル以上離れたところにいたから、現場へ直行するには多少の時間がかかったはずである。</div>\n<div>義勇隊が壇の下へ駈けつけてみると、一群の日本人が、誰かを取り囲んで、袋叩きにしている。</div>\n<div>「この野郎」</div>\n<div>という声が聞こえ、下駄を脱いで殴っている男もいる。\n日本人の大部分が靴をはく習慣のなかったそのころ、下駄は、即座に武器に転用できる便利な履き物であった。</div>\n<div>殴られているのは犯人の尹奉吉であった。\n朝鮮人から見れば民族的英雄である。\n彼が投げたのは、弁当箱に仕掛けた爆弾で、その投げる所を周囲の群衆に見られているから、逃げも隠れもできない。\nたちまち取り囲まれてしまったのである。\n義勇隊員の一人が尹を捕え、もう一人の隊員が附添って、憲兵のところへ引き立てて行った。</div>\n<div>あとで式壇を見ると、床に直径五十センチの穴があき、一メートル下の芝生の土がえぐられて、\n爆発力の強さを物語っていた。\nもともとこの日は、はじめから不祥事を予想して、白川大将などは、宿舎から新公園の会場まで来る間に、\n自動車のナンバープレートを五回取換えたといわれるくらい、警戒を厳重にしていたのであるが、\nやはり手ぬかりは免れなかった。</div>\n<div class=\"txr\"><a href=\"../text/sh_tujim.html\">杉森久英 「参謀・辻政信」</a>\n　Ｐ．６５</div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1932.html\">１９３２年</a>\n ＞ <a href=\"#h\">上海爆弾テロ事件</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

@@ -1,0 +1,435 @@
+{
+ "path": "p/pakuretu.html",
+ "type": "person",
+ "title": "朴烈　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "p.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "朴烈"
+  },
+  {
+   "type": "title2",
+   "html": "1902 － 1974"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "name"
+   },
+   "html": "\n[ ぱく・れつ（よる） ]"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "prof"
+   },
+   "html": "\n朝鮮独立運動家、アナーキスト、在日本大韓民国居留民団（民団）団長①"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"06h.html\">一覧　（ハ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=books-jp%26keyword=%25E6%259C%25B4%25E7%2583%2588\" target=\"_blank\">本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_r\">エピソード 1</span>調査中。"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　韓国出身。中学の頃から民族独立の思想に目覚め、師範学校在学中、<a href=\"../1919/0331ban.html\">三・一運動</a>に参加。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　弾圧を逃れて渡日、日本人アナーキストや共産主義者と交わる。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　金子文子と同棲、ともに「太い鮮人」などを発行。不逞社を設立。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　<a href=\"../1923/09sinsa.html\">大震災</a>時、金子とともに予防検束される。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　のち皇太子爆殺計画の首謀者とされ、大逆罪で死刑判決。恩赦で無期懲役に減刑。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　戦後出獄。新朝鮮建設同盟を結成。民団団長①。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　団長選挙に落選後、韓国に帰国。<a href=\"../p/risyoban.html\">李承晩</a>政権の国務委員となる。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　朝鮮戦争の際、北朝鮮に連行される。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/01/21　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/ritaio.html\">\n李太王</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/03/01　　<a href=\"../1919/0331ban.html\">\n三・一（万歳）事件</a>　（京城パゴダ広場で朝鮮民衆が独立宣言）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/01　　<a href=\"../1923/09sinsa.html\">\n関東大震災</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/02　　<a href\"..=\"\" 19.html\"=\"\">\n朴烈・金子文子夫妻逮捕</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/04/22　　<a href=\"../1925/04ciani.html\">\n治安維持法公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/10/20　　<a href\"..=\"\" 19.html\"=\"\">\n朴烈事件　（朴烈・金子文子夫妻を大逆罪容疑で起訴）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/03/25　　<a href\"..=\"\" 19.html\"=\"\">\n大審院、朴烈・金子文子に死刑判決　（04/05 無期懲役に減刑）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/07/29　　<a href=\"../1926/07pakre.html\">\n朴烈怪写真事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1929/11/03　　<a href\"..=\"\" 19.html\"=\"\">\n光州学生運動</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/09/18　　<a href=\"../1931/09ryujo.html\">\n柳条湖事件</a>　（満州事変勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/01/08　　<a href\"..=\"\" 19.html\"=\"\">\n桜田門事件</a>　（犯人：李奉昌／<a href=\"../p/ituyosi.html\">犬養首相</a>辞表提出）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/04/29　　<a href=\"../1932/04terro.html\">\n上海爆弾テロ事件</a>　（犯人：尹奉吉）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/05/15　　<a href=\"../1932/05515ji.html\">\n五・一五事件</a>　（<a href=\"../p/ituyosi.html\">犬養首相</a>暗殺）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1939/12/26　　<a href=\"../1939/12sosik.html\">\n朝鮮総督府、朝鮮人の氏名に関する件公布　（創氏改名）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/03/31　　<a href\"..=\"\" 19.html\"=\"\">\n朝鮮総督府、朝鮮語の学習を廃止</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/12/08　　<a href=\"../1941/12hawai.html\">\nハワイ奇襲攻撃</a>　（AM03：25／太平洋戦争勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/08　　<a href=\"../1945/08s_san.html\">\nソ連、対日参戦</a>　（08/09 満州侵攻開始）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/12　　<a href\"..=\"\" 19.html\"=\"\">\nソ連軍、朝鮮半島上陸　（08/29 北朝鮮全域を掌握）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/15　　<a href=\"../1945/08gyoku.html\">\n玉音放送　（終戦の詔勅）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/15　　<a href\"..=\"\" 19.html\"=\"\">\n朝鮮建国準備委員会結成　（ソウル）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/02/08　　<a href\"..=\"\" 19.html\"=\"\">\n臨時人民委員会設立</a>　（主席：<a href=\"../p/kinnisse.html\">金日成</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/09/09　　<a href\"..=\"\" 19.html\"=\"\">\n北朝鮮（朝鮮民主主義人民共和国）成立</a>　（首相：<a href=\"../p/kinnisse.html\">金日成</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/10/01　　<a href=\"../1949/10c_sei.html\">\n中華人民共和国成立</a>　（主席：<a href=\"../p/motakuto.html\">毛沢東</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/06/25　　<a href=\"../1950/06cyose.html\">\n朝鮮戦争勃発</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "cm"
+   },
+   "html": "<span class=\"m_y\">語録</span>\n国家とは人間の身体、生命、財産、自由を絶えず侵害し、蹂躙し、劫略し、脅威するところの組織的大強盗団である。\n大規模の略奪株式会社である。法律とは国家という大強盗団の、国家という略奪会社の、専売を憎悪し、\nそれに反抗する者に対する脅迫である。\n議会は国家という大強盗団の代表者会である。\n国家および略奪会社の株式会社の代表者会である。\n次に天皇とは国家という強盗団の、国家という略奪会社の偶像である。神壇である。\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>朴烈は本名を朴準植といい、朝鮮慶尚北道に生れた。朴烈は通称である。</div>\n<div>問　被告ノ年齢ハ？</div>\n<div>答　ソンナコトハドウデモヨカロウデハナイカ。</div>\n<div>問　被告ノ戸籍謄本ニヨレバ、被告ハ明治三十五年二月三日生レトアルガ、ドウカ。</div>\n<div>答　多分、ソウデアロウ。生レタ日ヲ知ッテイル人ガアルカ。</div>\n<div>問　職業ハ雑誌発行人カ。</div>\n<div>答　オレハ職業トイウモノヲ認メテオラヌ。強イテイエバ、ソレハ不逞業トイウノデアロウ。</div>\n<div>問　住所ハ？</div>\n<div>答　君ノイワユル住居ガ現在居ルトコロヲ意味スルナラバ、市ヶ谷刑務所デアル（第一回予審訊問調書）。</div>\n<div>当時数えで二十五歳であった。</div>\n<div>生家は貧乏していたが、両班といって上流階級の家柄だった。\n彼は公立普通学校を卒業してのち、京城高等普通学校師範科に入学したが、三年で退学した。</div>\n<div>そのころロシヤ革命の影響などあって、第一次世界大戦後は民族自決の風潮がおこり、\n朴烈も朝鮮独立運動や大正八年の万歳事件などをみて、民族主義の血を沸かした。\nしかし、朝鮮では弾圧がきびしいので、東京で運動をやろうと考えて日本にきた。</div>\n<div>朴烈ははじめ民族主義者であったが、次第に無政府主義者となり、次に虚無主義へと考えが変っていった。\n無政府主義に共鳴したのは、大杉栄、岩佐作太郎のもとに出入りしているうちに影響をうけたのである。</div>\n<div class=\"txr\"><a href=\"../text/ms1syowa.html\">松本清張 「昭和史発掘（１）」</a>\n　Ｐ．１４２<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F416710699X%2Fqid%3D1147086156%2Fsr%3D1-2%2Fref%3Dsr_1_2_2\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"06h.html\">人物ファイル一覧　（ハ）</a>\n ＞ <a href=\"#h\">朴烈</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

@@ -1,0 +1,273 @@
+{
+ "path": "1946/07kokky.html",
+ "type": "article",
+ "title": "国共内戦、全面戦争化　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1946.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "国共内戦、全面戦争化"
+  },
+  {
+   "type": "title2",
+   "html": "1946/07/12"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1936.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1945.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1946.html\">１９４６</a> &gt;&gt;&gt; <a href=\"../20c/1947.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "アメリカの仲介も実らず、中国の内戦、ついに全面戦争へ。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/03　　<a href=\"../1945/08mosyo.html\">\n毛・蒋会談</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/02　　<a href=\"../1945/09kofuk.html\">\n降伏文書調印</a>　（全権：<a href=\"../p/smamoru.html\">重光葵</a>、<a href=\"../p/uyosijir.html\">梅津美治郎</a>／第二次世界大戦終結）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/10/13　　<a href=\"../1945/10naise.html\">\n蒋介石、国民党各部隊に内戦を秘密指令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/11/27　　<a href=\"../1945/11a_cyo.html\">\nトルーマン（米）大統領、マーシャル元帥に国共内戦の調停を命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/01/10　　<a href=\"../1946/01teise.html\">\n国共両軍の停戦協定</a>　（<a href=\"../p/marsha_g.html\">マーシャル特使</a>の斡旋）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/01　　<a href\"..=\"\" 19.html\"=\"\">\n中国国民政府、重慶から南京へ遷都</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/07/12　　<a 1946=\"\" href\"..=\"\" 07kokky.html\"=\"\">\n国共内戦、全面戦争化</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/11/09　　<a href\"..=\"\" 19.html\"=\"\">\n蒋介石、トルーマンに緊急軍事援助を要請</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/01/06　　<a href\"..=\"\" 19.html\"=\"\">\n国連総会、中国内戦不介入を決議</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/01/08　　<a href\"..=\"\" 19.html\"=\"\">\n中国国民政府、米英仏ソ４国に内戦調停を要請　（01/12 米、辞退）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/01/14　　<a href\"..=\"\" 19.html\"=\"\">\n毛沢東、和平８条件を提示</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/01/21　　<a href\"..=\"\" 19.html\"=\"\">\n蒋介石、国民政府総統引退を表明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/04/20　　<a href\"..=\"\" 19.html\"=\"\">\n国共和平会談決裂</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/04/21　　<a href\"..=\"\" 19.html\"=\"\">\n毛沢東・朱徳、全国進撃を命令　（人民解放軍、揚子江渡河）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/05/27　　<a href\"..=\"\" 19.html\"=\"\">\n中国人民解放軍、上海を解放</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/10/01　　<a href=\"../1949/10c_sei.html\">\n中華人民共和国成立</a>　（主席：<a href=\"../p/motakuto.html\">毛沢東</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>一九二八年、北伐を完了して<a href=\"../p/syokaise.html\">蒋介石</a>が中国の支配者となったとき、彼の国民党政府は当初から二つの強敵に、\nつまり国内の共産党と、外からの日本勢力とに直面せねばならなかった。\n第二次世界大戦中、彼の立場はとりわけむつかしくなった。\nけだし国土は、日本軍に席捲され南京の傀儡政権に統治された東部と、\n首都延安を拠点とし共産党に支配された北西部と、首都重慶を拠点とし国民政府に支配された西部および南西部とに分断されたからである。\nしかも、蒋政権が致命的な打撃を受けたのも、戦時中であった。\nこれまで<a href=\"../p/syokaise.html\">蒋</a>は、保守的な地主層と大実業家とから支援されてきたが、日本軍の進撃によって東部沿岸地方の大実業家勢力はほぼ一掃され、\n内陸の利己的で近視眼的な地主層しか頼れなくなった。\nこれにくわえて、腐敗行為のはなはだしい蒋政権自体が、戦争の被害を受け階級的にも自覚した農民層の要求に答えられる政権とはほど遠かった。\nところが中国共産党は、農村根拠地での土地改革によって農民大衆の支持を得、またよく訓練された能率的組織をもつことによって、\n支配地域に秩序をもたらした。\n総じて中国共産党は、外敵の侵入を防ぎ国家再統一のために献身する愛国者というイメージを与えた点で、\n国民党の比ではなかったといってよい。</div>\n<div>日本の降伏後、その旧占領地をどう処理するかをめぐって国共が抗争を開始したときの状況は、以上のとおりであった。\n民族大衆に人気のない蒋政権と、愛国者としてクローズ・アップされた中国共産党、両者抗争の帰結は数年後に証明された。\nともあれ内戦がさし迫ると、一九四五年十一月、アメリカは<a href=\"../p/marsha_g.html\">ジョージ・Ｃ・マーシャル元帥</a>を特使として派遣し、\n調停をはかったが、結局は失敗に終わった。\n<a href=\"../p/marsha_g.html\">マーシャル</a>の来華当時から始まった国共両軍の衝突は、翌年六月、国民政府による総攻撃命令によって、\n本格的な内戦となったのである。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ia_gaise.html\">今津晃 「概説現代史」</a>\n　Ｐ．２６８</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1946.html\">１９４６年</a>\n ＞ <a href=\"#h\">国共内戦、全面戦争化</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

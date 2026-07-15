@@ -1,0 +1,193 @@
+{
+ "path": "1949/07simoy.html",
+ "type": "article",
+ "title": "下山事件　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1949.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "下山事件"
+  },
+  {
+   "type": "title2",
+   "html": "1949/07/06"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1939.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1948.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1949.html\">１９４９</a> &gt;&gt;&gt; <a href=\"../20c/1950.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "国鉄大リストラ発表の直後、国鉄総裁が轢死体で発見された。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/03/07　　<a href=\"../1949/03dodge.html\">\nドッジ、経済安定９原則実施について声明</a>　（ドッジライン）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/05/04　　<a href\"..=\"\" 19.html\"=\"\">\n閣議、行政整理を決定　（05/30 行政機関職員定員法成立）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/06/24　　<a href\"..=\"\" 19.html\"=\"\">\n国鉄労組中央委員会、行政整理反対の実力行使方針を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/07/04　　<a href\"..=\"\" 19.html\"=\"\">\n国鉄、人員整理①（３万700人）の通告を開始と発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/07/06　　<a 1949=\"\" href\"..=\"\" 07simoy.html\"=\"\">\n下山事件</a>　（下山定則国鉄総裁、轢死体で発見）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/07/12　　<a href\"..=\"\" 19.html\"=\"\">\n国鉄、人員整理②（６万3000人）の通告を開始と発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/07/15　　<a href=\"../1949/07mitak.html\">\n三鷹事件</a>　（無人電車暴走）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/08/17　　<a href=\"../1949/08matuk.html\">\n松川事件</a>　（旅客列車転覆）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>行政整理と企業整備をほとんど何の抵抗もなく成功させたものは、<a href=\"../1949/yosi3_1.html\">吉田内閣</a>の政治力でもなく、財界の組織力でもなく、\nいわんや労働者の納得でもなく、七月四日のマッカーサー声明と下山事件から<a href=\"../1949/07mitak.html\">三鷹事件</a>を経て<a href=\"../1949/08matuk.html\">松川事件</a>にいたる一連の\n<span class=\"bar\">―</span>―アメリカのＣＩＡと占領軍が工作したと推理される一連の事件の結果であった。\nとくに最初の事件としての下山事件が果した役割は大きかった。\n国鉄の加賀山副総裁は、のちに下山「事件を契機に国鉄の大整理も漸次進行して無事終了した」のだから、\n「下山総裁の死は徒死ではなかった」し、むしろ「貴重な犠牲であった」と自記し、\n東芝の石坂社長は、のちに「ぼくの東芝再建には下山氏の死に負うところが大きい」し、\n「同氏の犠牲は、当時の混乱したいろいろの争議〔解決〕に大いに役立った」のだから、\n「同氏の死は犬死ではない」と追想し、いちどはぜひ故下山総裁の墓参りをしなければならないとかんがえた。</div>\n<div><a href=\"../1949/yosi3_1.html\">吉田内閣</a>は、抵抗の挫折に乗じてさらに弾圧を強化した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ss3sengo.html\">信夫清三郎 「戦後日本政治史Ⅲ」</a>\n　Ｐ．９９４</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1949.html\">１９４９年</a>\n ＞ <a href=\"#h\">下山事件</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

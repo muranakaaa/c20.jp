@@ -1,0 +1,303 @@
+{
+ "path": "p/roosev_t.html",
+ "type": "person",
+ "title": "セオドア・ルーズベルト　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "p.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "セオドア・ルーズベルト"
+  },
+  {
+   "type": "title2",
+   "html": "1858 － 1919"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "prof"
+   },
+   "html": "\n大統領（共和党）、副大統領、ニューヨーク州知事、海軍次官補　／ アメリカ"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "ep1"
+   },
+   "html": "<span class=\"m_r\">エピソード 1</span>アメリカ大統領も、ロシア皇帝のわからず屋ぶりにはキレた。\n日露戦争の講和斡旋に乗り出していたルーズベルトは、<a href=\"../p/nikolai2.html\">ニコライ２世</a>に講和を勧める二度目の親書の返書を受け取って、\nこう口走ったという。「ロシアにはまったくサジを投げた。\n講和会議が決裂したら、ラムスドルフ外相と<a href=\"../p/vitte_s.html\">ウィッテ</a>は自殺して世界にその非を詫びなければならぬ」\nその口調はかなり激しかったという。大統領だって人間だから、キレることはある。"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<tbody><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/09/06　　<a href\"..=\"\" 19.html\"=\"\">\nマッキンレー大統領狙撃事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/09/14　　<a href\"..=\"\" 19.html\"=\"\">\nマッキンレー没　（アメリカ大統領）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/09/14　　<a href\"..=\"\" 19.html\"=\"\">\n副大統領 Ｔ・ルーズベルト、アメリカ大統領就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1903/11/18　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ、パナマからパナマ運河地帯を永久租借</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/10　　<a href=\"../1904/02jr_wa.html\">\n対露宣戦布告</a>　（<a href=\"../them/jr_war.html\">日露戦争</a>勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/05/09　　<a href\"..=\"\" 19.html\"=\"\">\nパナマ運河着工</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/11/08　　<a href\"..=\"\" 19.html\"=\"\">\nＴ・ルーズベルト（米大統領）再選</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/03/01　　<a href=\"../1905/03hote1.html\">\n奉天会戦</a>　（～03/10）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/05/27　　<a href=\"../1905/05nihon.html\">\n日本海海戦</a>　（～05/28／連合艦隊司令長官：<a href=\"../p/theihaci.html\">東郷平八郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/06/09　　<a href=\"../1905/06roosv.html\">\nＴ・ルーズベルト（米）大統領、日露両国に公式に講和を勧告</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/07/29　　<a href=\"../1905/07taftk.html\">\n桂・タフト協定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/08/10　　<a href=\"../1905/08portm.html\">\n日露講和会議開催</a>　（アメリカ・ポーツマス／首席全権：<a href=\"../p/kjutaro.html\">小村寿太郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/08/22　　<a href=\"../1905/08roose.html\">\nＴ・ルーズベルト（米）大統領、金子特使に金銭的要求の放棄を勧告</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/09/05　　<a href=\"../1905/09portm.html\">\nポーツマス条約調印</a>　（首席全権：<a href=\"../p/kjutaro.html\">小村寿太郎</a>／<a href=\"../them/jr_war.html\">日露戦争</a>終結）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/07/28　　<a href=\"../1914/07taise.html\">\nオーストリア、セルビアに宣戦布告</a>　（第一次世界大戦勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/01/06　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/roosev_t.html\">\nセオドア・ルーズベルト</a>没"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>眼鏡、口ひげ、大きな歯という特徴で誰からも愛され、\n漫画の登場人物としても人気があったローズヴェルトは、そのエネルギー、熱血、活力、正義感などで知名度抜群であった。\nしかし、後世の歴史家の評価は「偉大に近い大統領」（near great）に留まっている。\n本人の自己評価によれば、第一にパナマ運河建設、第二に自然保護活動、第三に日露戦争調停を業績として挙げている。\n名門出身、家庭教師による教育、ハーヴァード大学優等生、スポーツ万能、狩猟を好むこと、幅広い交友等々、\nヨーロッパ好みの東海岸上流アメリカ人の典型であった。\n新聞、雑誌などを効果的に利用し、最初の「メディア大統領」と言われている。\n精力的に外交、内政、及び世界政治の場で果たした役割は非常に大きく、多くの自然を開発から救って遺した功績も高い。\nまた、ローズヴェルトは、自動車（一九〇二年）、潜水艦（〇五年）、飛行機（一〇年／引退後）に乗った最初の大統領であった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/sk_daito.html\">猿谷要 「アメリカ大統領物語」</a>\n　Ｐ．１０７</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>合衆国官吏制度改革委員（一八八九～九五）、ニューヨーク市警察長官（一八九五～九七）、海軍次官（一八九七～九八）を歴任、\nキューバ問題では主戦論を展開し、スペインとの米西戦争（一八九八）が勃発すると、\nいち早く荒馬騎兵隊と称する義勇兵部隊を率いてキューバで戦い、「テディー」は国民的英雄となった。\n同年ニューヨーク州知事選に当選したが、共和党の保守派からその人気と革新的な政治姿勢が敬遠されて、\n一九〇〇年に副大統領候補に祭り上げられた。</div>\n<div>一九〇一年九月十四日、マッキンレー大統領の暗殺によって四十二歳の若さで大統領に就任、\n一九〇四年に再選された。\n闘争的な政治姿勢で、上からの秩序ある社会改革の実現を図った。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/sk_am101.html\">猿谷要 「アメリカ史重要人物１０１」</a>\n　Ｐ．１２２</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n<br>「ルーズベルト」は「ローズベルト」「ルーズヴェルト」「ローズヴェルト」とも表記されることがあります。\n<br>「セオドア」は「テオドア」「シオドア」「セオドール」とも表記されることがあります。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"09r.html\">人物ファイル一覧　（ラ）</a>\n ＞ <a href=\"#h\">セオドア・ルーズベルト</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

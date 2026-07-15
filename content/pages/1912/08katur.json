@@ -1,0 +1,194 @@
+{
+ "path": "1912/08katur.html",
+ "type": "article",
+ "title": "桂太郎、内大臣兼侍従長に就任　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1912.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "桂太郎、内大臣兼侍従長に就任"
+  },
+  {
+   "type": "title2",
+   "html": "1912/08/13"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1902.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1911.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1912.html\">１９１２</a> &gt;&gt;&gt; <a href=\"../20c/1913.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1922.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"../p/yaritomo.html\">山県</a>の<a href=\"../p/ktaro.html\">桂</a>封じ込め？　長州閥の宮廷支配？　<a href=\"../p/ktaro.html\">前首相</a>、<a href=\"../p/ttenno.html\">新天皇</a>の内大臣と侍従長に就任。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/08/25　　<a href=\"../1911/katu2_9.html\">\n桂内閣②総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/07/06　　<a href=\"../1912/07katur.html\">\n桂太郎ら外遊出発</a>　（08/11 帰国）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/07/29　　<a href=\"../1912/07mhogy.html\">\n明治天皇崩御</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/08/13　　<a 1912=\"\" href\"..=\"\" 08katur.html\"=\"\">\n桂太郎、内大臣兼侍従長に就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/09/13　　<a href\"..=\"\" 19.html\"=\"\">\n明治天皇大喪</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/12/05　　<a href=\"../1912/saio2_9.html\">\n西園寺内閣②総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/12/17　　<a href=\"../1912/katu3_0.html\">\n桂太郎に組閣命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/12/19　　<a href=\"../1912/12goke1.html\">\n憲政擁護連合大会①　（護憲運動①開始）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/12/21　　<a href=\"../1912/katu3_1.html\">\n桂内閣③成立</a>　（首相：<a href=\"../p/ktaro.html\">桂太郎</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/ktaro.html\">桂</a>を待っていたのは、<a href=\"../p/yaritomo.html\">山県</a>らの意外な策謀である。\n策士である前内相平田東助の発案で<a href=\"../p/ktaro.html\">桂</a>を内大臣に据えるのがよかろう、ということになっていた。\n表面上は新帝が若いので、輔弼の重臣に大物が必要だということと、徳大寺が先帝の崩御と共に八月五日内大臣兼侍従長を辞任したので、\nその補充をからみあわせたものであるが、裏面には<a href=\"../p/yaritomo.html\">山県</a>の嫉視がどく黒く渦巻いていた。</div>\n<div><a href=\"../p/yaritomo.html\">山県</a>はかねて<a href=\"../p/ktaro.html\">桂</a>を自分の子分と考え引き立てて、<a href=\"../p/ihirobum.html\">伊藤</a>の後に代人として内閣を組織せしめたが、\n日露戦争に勝った頃から驕って元老のいうことを聞かなくなり、<a href=\"../1910/08k_heg.html\">日韓併合</a>の後に運動して独走して公爵になるに至って、\n嫉視が憎しみにエスカレートして来た。\nそこで<a href=\"../1908/katu2_1.html\">第二次桂内閣</a>が<a href=\"../1911/01joito.html\">情意投合</a>によって政友会に頭を下げ、内閣の命を縮めたときも<a href=\"../p/yaritomo.html\">山県</a>は見て見ぬふりをしていた。</div>\n<div>【中略】</div>\n<div><a href=\"../p/ktaro.html\">桂</a>が<a href=\"../1911/01joito.html\">情意投合</a>の後、<a href=\"../p/skinmoci.html\">西園寺</a>との直接の話し合いで内閣を譲ったことも<a href=\"../p/yaritomo.html\">山県</a>の気分を著しくそこねた。\nもはや政党を弾圧しあるいは牛耳る力もないのに、<a href=\"../p/yaritomo.html\">山県</a>は、内閣を譲るとき自分に相談もしに来なかった<a href=\"../p/ktaro.html\">桂</a>を憎んだ。\nそして二度と<a href=\"../p/ktaro.html\">桂</a>が政権を手にすることの出来ぬよう雲の上に封じこめようというのである。\n丁度政友会を作った<a href=\"../p/ihirobum.html\">伊藤</a>を枢密院議長（三十六年七月）に祭り上げたように。\n<a href=\"../p/yaritomo.html\">山県</a>はそのように女性的な心情の持主であった。</div>\n<div class=\"txr\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．４２０<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E5%259C%2592%25E5%25AF%25BA%25E5%2585%25AC%25E6%259C%259B%25E2%2580%2595%25E6%259C%2580%25E5%25BE%258C%25E3%2581%25AE%25E5%2585%2583%25E8%2580%2581%2520%2528%25E4%25B8%258A%25E5%25B7%25BB%2529%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1912.html\">１９１２年</a>\n ＞ <a href=\"#h\">桂太郎、内大臣兼侍従長に就任</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

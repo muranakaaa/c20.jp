@@ -1,0 +1,469 @@
+{
+ "path": "20c/1938.html",
+ "type": "year",
+ "title": "１９３８年　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９３８年"
+  },
+  {
+   "type": "title2",
+   "html": "昭和１３年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"1928.html\">１０年前</a> &gt;&gt;&gt; <a href=\"1937.html\">前年</a> &gt;&gt;&gt; <span class=\"now\">１９３８</span> &gt;&gt;&gt; <a href=\"1939.html\">翌年</a> &gt;&gt;&gt; <a href=\"1948.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"#s4\">スフ　　代用品　　対手とせず</a>",
+    "<a href=\"../1937/kono1_1.html\">近衛内閣①</a>"
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"1937.html#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/01/03　　<a href=\"../1938/01bomei.html\">\n女優岡田嘉子、ソ連へ亡命</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/01/11　　<a href=\"../1938/01uciki.html\">\n御前会議、トラウトマン工作打切りを決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/01/11　　<a href\"..=\"\" 19.html\"=\"\">\n厚生省設置　（戦時下の健民健兵を目的として）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/01/15　　<a href=\"../1938/01hanta.html\">\n参謀本部、トラウトマン工作打切りに反対</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/01/15　　<a href\"..=\"\" 19.html\"=\"\">\n吉本興業の慰問団「わらわし隊」第１陣など、中国へ出発</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/01/16　　<a href\"..=\"\" 19.html\"=\"\">\n政府、中国にトラウトマン工作打切りを通告</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/01/16　　<a href=\"../1938/01kono1.html\">\n近衛声明①　（国民政府を相手にせず）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/02/04　　<a href\"..=\"\" 19.html\"=\"\">\nヒトラー、統帥権掌握　（国防相、陸軍司令長官を解任）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/02/20　　<a href\"..=\"\" 19.html\"=\"\">\nイーデン（英）外相辞任　（対伊宥和政策に抗議／後任：ハリファックス）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/03/03　　<a href=\"../1938/03damar.html\">\n佐藤賢了中佐「黙れ」発言</a>　（衆議院国家総動員法案委員会）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/03/13　　<a href=\"../1938/03austr.html\">\nドイツ、オーストリア併合</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/03/16　　<a href=\"../1938/03nisio.html\">\n西尾末広「スターリンの如く大胆に」発言</a>　（03/23 議員除名）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/04/01　　<a href=\"../1938/04sodoi.html\">\n国家総動員法公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/04/06　　<a href\"..=\"\" 19.html\"=\"\">\n電力管理法公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/04/08　　<a href=\"../1938/04leonb.html\">\nレオン・ブルム内閣総辞職</a>　（人民戦線崩壊／仏）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/05/12　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ、満州国を承認</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/05/14　　<a href\"..=\"\" 19.html\"=\"\">\n国際連盟、理事会、日本の毒ガス使用を非難</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/05/26　　<a href=\"../1938/kono1_2.html\">\n近衛内閣①改造</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/05/27　　<a href\"..=\"\" 19.html\"=\"\">\n日本青少年ドイツ派遣団出発</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/06/09　　<a href\"..=\"\" 19.html\"=\"\">\n勤労動員開始　（文部省「集団的勤労作業運動実施に関する件」）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/07/30　　<a href=\"../1938/07cyoko.html\">\n張鼓峰事件</a>　（第19師団独断でソ連軍と戦闘）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/08/16　　<a href\"..=\"\" 19.html\"=\"\">\nヒトラー・ユーゲント30人が横浜に到着</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/09/11　　<a href\"..=\"\" 19.html\"=\"\">\n従軍作家陸軍部隊、中国へ出発　（丹羽文雄、林芙美子ら）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/09/14　　<a href\"..=\"\" 19.html\"=\"\">\n従軍作家海軍部隊、中国へ出発</a>　（<a href=\"../p/kkan.html\">菊池寛</a>、佐藤春夫ら）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/09/29　　<a href=\"../1938/09munch.html\">\nミュンヘン会談</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/09/30　　<a href=\"../1938/09sudet.html\">\nミュンヘン協定</a>　（ドイツへのズデーテン割譲を決定）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"1939.html#s1\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/10/01　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ軍、ズデーデン進駐</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/10/05　　<a href\"..=\"\" 19.html\"=\"\">\nベネシュ（チェコ）大統領辞任、亡命</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/10/27　　<a href\"..=\"\" 19.html\"=\"\">\n日本軍、武漢占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/11/03　　<a href=\"../1938/11kono2.html\">\n近衛声明②　（東亜新秩序建設）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/11/10　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/kemal_m.html\">\nムスタファ・ケマル</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/11/20　　<a href\"..=\"\" 19.html\"=\"\">\n「岩波新書」刊行開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/12/20　　<a href\"..=\"\" 19.html\"=\"\">\n汪兆銘、ハノイへ脱出　（影佐工作成功）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/12/22　　<a href=\"../1938/12kono3.html\">\n近衛声明③　（近衛三原則）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1937/kono1_1.html\">近衛内閣①</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">スフ　　代用品　　対手とせず</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「麦と兵隊」　「チボー家の人々」　「小島の春」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">「愛染かつら」　「五人の斥候兵」</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">国民唱歌</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">雨のブルース</td></tr>\n</tbody>"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"#h\">１９３８年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

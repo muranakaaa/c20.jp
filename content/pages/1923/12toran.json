@@ -1,0 +1,243 @@
+{
+ "path": "1923/12toran.html",
+ "type": "article",
+ "title": "虎の門事件　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1923.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "虎の門事件"
+  },
+  {
+   "type": "title2",
+   "html": "1923/12/27"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1913.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1922.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1923.html\">１９２３</a> &gt;&gt;&gt; <a href=\"../20c/1924.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1933.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"../p/stenno.html\">摂政宮</a>の乗る車に、アナーキスト難波大助がつかつかと近づき、ステッキ銃で狙撃。 "
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/01　　<a href=\"../1923/09sinsa.html\">\n関東大震災</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/02　　<a href\"..=\"\" 19.html\"=\"\">\n東京に戒厳令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/02　　<a href=\"../1923/yamm2_1.html\">\n山本内閣②成立</a>　（首相：<a href=\"../p/ygonnohy.html\">山本権兵衛</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/02　　<a href\"..=\"\" 19.html\"=\"\">\n朴烈・金子文子夫妻逮捕</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/03　　<a href\"..=\"\" 19.html\"=\"\">\n戒厳司令官に福田雅太郎を任命</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/04　　<a href\"..=\"\" 19.html\"=\"\">\n亀戸事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/07　　<a href\"..=\"\" 19.html\"=\"\">\n東京市内の夜間通行禁止</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/16　　<a href=\"../1923/09amaka.html\">\n甘粕事件</a>　（犯人：<a href=\"../p/amasahik.html\">甘粕正彦</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/20　　<a href\"..=\"\" 19.html\"=\"\">\n福田戒厳司令官辞任</a>　（<a href=\"../1923/09amaka.html\">甘粕事件</a>のため／後任：<a href=\"../p/yhanzo.html\">山梨半造</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/11/10　　<a href\"..=\"\" 19.html\"=\"\">\n国民精神作興に関する詔書</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/12/27　　<a 1923=\"\" href\"..=\"\" 12toran.html\"=\"\">\n虎の門事件</a>　（摂政宮襲撃／犯人：難波大助）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/12/29　　<a href=\"../1923/yamm2_9.html\">\n山本内閣②総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/01/07　　<a href=\"../1924/kiyo_1.html\">\n清浦内閣成立</a>　（首相：<a href=\"../p/kkeigo.html\">清浦奎吾</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "pt"
+   },
+   "html": "\n<div class=\"pt_h\">～　その結果　～</div>\n<div class=\"c\"><a href=\"../p/stenno.html\">摂政宮</a>無事 ／ <a href=\"../1923/yamm2_9.html\">山本内閣②総辞職</a> ／ <a href=\"../p/ykurahei.html\">湯浅警視総監</a>懲戒免職 ／ 難波大助死刑</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>十二月二十七日議会の開院式に出席する為、<a href=\"../p/stenno.html\">摂政宮</a>のお召自動車が虎ノ門近くにさしかかったとき、\n群衆の中から一人の青年がとび出して、ステッキの仕込み銃を自動車めがけて発射した。\n同乗の入江為守侍従長が顔に負傷しただけで<a href=\"../p/stenno.html\">摂政</a>には異常がなく、犯人の難波大助はその場で取り押えられた。</div>\n<div>彼は長州の名家に生まれ、父は庚申倶楽部所属の難波作之進であった。\n彼は中学時代には皇室を崇拝していたが、中学五年生のとき陸相<a href=\"../p/tgiici.html\">田中義一</a>が帰省の際、\n小、中学生を沿道に整列させたことに憤慨して、社会主義の方に転じて行った。</div>\n<div>大正八年上京後はテロリストを志願し、権力者に反省せしめる為皇室を襲うことを考えたものである。</div>\n<div>事件後、大助の父作之進は代議士を辞して自宅の門に青竹を結んで閉門の身になった。\n大助は翌年十一月十三日、大審院で死刑を宣告され、十五日執行された。</div>\n<div>この事件は基盤の浅い山本内閣をゆすぶった。\n<a href=\"../p/gsinpei.html\">後藤内相</a>の私邸は又しても右翼の壮士に襲われ、<a href=\"../1923/yamm2_9.html\">内閣は十二月二十九日総辞職した</a>。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm_saion.html\">豊田穣 「西園寺公望」</a>\n　下巻　Ｐ．１８８</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1923.html\">１９２３年</a>\n ＞ <a href=\"#h\">虎の門事件</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

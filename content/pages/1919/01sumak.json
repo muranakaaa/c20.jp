@@ -1,0 +1,153 @@
+{
+ "path": "1919/01sumak.html",
+ "type": "article",
+ "title": "女優松井須磨子自殺　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1919.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "女優松井須磨子自殺"
+  },
+  {
+   "type": "title2",
+   "html": "1919/01/05"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1909.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1918.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1919.html\">１９１９</a> &gt;&gt;&gt; <a href=\"../20c/1920.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1929.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "スペイン風邪で逝ったいとしい人を追いかけて。　島村抱月の命日に<a href=\"../p/msumako.html\">須磨子</a>が逝く。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/08/03　　<a href=\"../1918/08komes.html\">\n米騒動　（富山県中新川郡西水橋町→全国に波及）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/11/14　　<a href=\"../1918/11atara.html\">\n武者小路実篤、宮崎県木城村に「新しき村」建設</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/01/05　　<a 1919=\"\" href\"..=\"\" 01sumak.html\"=\"\">\n女優松井須磨子自殺</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/07/11　　<a href\"..=\"\" 19.html\"=\"\">\n「キネマ旬報」創刊</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>一月五日朝、人気絶頂の女優、<a href=\"../p/msumako.html\">松井須磨子</a>が、東京・新宿牛込町にある芸術座の本拠地・芸術倶楽部で、\n首吊り自殺する。\n一九一八年一一月五日にスペイン風邪で死亡した愛人、島村抱月の後を追っての自殺であり、大変な騒ぎとなった。</div>\n<div>文芸協会の女優募集に応募し、研究生に採用され、すぐに頭角をあらわした<a href=\"../p/msumako.html\">松井須磨子</a>は『人形の家』のノラを演じて、\n明治末ごろから、圧倒的な人気を誇るようになる。</div>\n<div>私生活では、演劇の指導を受けた島村抱月と恋愛関係にあり、抱月に妻があったことから、\nその恋の行方にも世間は大きな関心を寄せた。\n一九一三年、抱月は早大教授の職を辞して家を出、芸術座を起こし、<a href=\"../p/msumako.html\">須磨子</a>を中心に公演をプロデュースするようになる。\n翌年、トルストイの『復活』が大ヒット。\n劇中で歌った「カチューシャかわいや　別れのつらさ・・・・・・」は日本中で歌われ、<a href=\"../p/msumako.html\">須磨子</a>は芸術座の女王といわれるようになる。</div>\n<div>しかし、<a href=\"../p/msumako.html\">須磨子</a>は自分の全存在は抱月あってのものだと信じ込んでおり、抱月の死の二月後の命日、\n抱月と自分の写真を並べ、花と線香をたむけた前で首を吊った。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ok_bkyun.html\">おもしろニュース研究会 「20世紀Ｂ級ニュース」</a>\n　Ｐ．４２</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1919.html\">１９１９年</a>\n ＞ <a href=\"#h\">女優松井須磨子自殺</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

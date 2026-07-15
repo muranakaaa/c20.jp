@@ -1,0 +1,243 @@
+{
+ "path": "1904/02kanek.html",
+ "type": "article",
+ "title": "金子特使渡米　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1904.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "金子特使渡米"
+  },
+  {
+   "type": "title2",
+   "html": "1904/02/24"
+  },
+  {
+   "type": "navi2",
+   "html": "\n１０年前 &gt;&gt;&gt; <a href=\"../20c/1903.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1904.html\">１９０４</a> &gt;&gt;&gt; <a href=\"../20c/1905.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1914.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"../p/ihirobum.html\">伊藤博文</a> 涙の説得にほだされ、対米工作の密命を帯びて <a href=\"../p/kkentaro.html\">金子堅太郎</a>、横浜を出航。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/04　　<a href=\"../1904/02goz04.html\">\n御前会議、対露開戦を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/10　　<a href=\"../1904/02jr_wa.html\">\n対露宣戦布告</a>　（<a href=\"../them/jr_war.html\">日露戦争</a>勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/24　　<a 1904=\"\" href\"..=\"\" 02kanek.html\"=\"\">\n金子特使渡米</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/24　　<a href=\"../1904/02takah.html\">\n高橋日銀副総裁渡米</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/05/27　　<a href=\"../1905/05nihon.html\">\n日本海海戦</a>　（～05/28／連合艦隊司令長官：<a href=\"../p/theihaci.html\">東郷平八郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/06/01　　<a href\"..=\"\" 19.html\"=\"\">\n高平駐米公使、Ｔ・ルーズベルト（米）大統領に講和斡旋を要望</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/06/09　　<a href=\"../1905/06roosv.html\">\nＴ・ルーズベルト（米）大統領、日露両国に公式に講和を勧告</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/07/03　　<a href=\"../1905/07zenke.html\">\n小村寿太郎、高平小五郎を日露講和会議全権に任命</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/08/10　　<a href=\"../1905/08portm.html\">\n日露講和会議開催</a>　（アメリカ・ポーツマス／首席全権：<a href=\"../p/kjutaro.html\">小村寿太郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/08/14　　<a href\"..=\"\" 19.html\"=\"\">\n大阪朝日新聞、賠償金要求の不調を号外で報道</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/08/22　　<a href=\"../1905/08roose.html\">\nＴ・ルーズベルト（米）大統領、金子特使に金銭的要求の放棄を勧告</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/08/28　　<a href=\"../1905/08kowah.html\">\n御前会議、日露講和成立方針を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/09/05　　<a href=\"../1905/09portm.html\">\nポーツマス条約調印</a>　（首席全権：<a href=\"../p/kjutaro.html\">小村寿太郎</a>／<a href=\"../them/jr_war.html\">日露戦争</a>終結）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\n日露戦争の歴史の中で、taroが最も感動的と思うのが、<a href=\"../p/kkentaro.html\">金子堅太郎</a>が渡米を決意する場面だ。\n対露開戦は決定したものの、この横綱相手の相撲に勝算はまったくない。\n御前会議を終えた<a href=\"../p/ihirobum.html\">伊藤博文</a>は、早速<a href=\"../p/kkentaro.html\">金子</a>を呼び、対米工作のための渡米を要請する。\n<a href=\"../p/kkentaro.html\">金子</a>は<a href=\"../p/ihirobum.html\">伊藤</a>の腹心であり、バーバード大学の卒業生であるというだけでなく、時のアメリカ大統領<a href=\"../p/roosev_t.html\">Ｔ・ルーズベルト</a>と旧知の間柄である。\n説得は二日間に及び、<a href=\"../p/ihirobum.html\">伊藤</a>の涙に負け、<a href=\"../p/kkentaro.html\">金子</a>はついに渡米を承諾する。\nだが、あの巨大なアメリカで果たして何ができるだろう。\n大統領を動かし、その好意的仲介で戦争を終えるなどということがいったい可能だろうか。\nそんな思いが片時も彼の脳裏から去らなかったにちがいない。\n彼はやがて船上の人となるが、そのサイベリア号には<a href=\"../p/tkorekiy.html\">高橋是清</a>が、これまた不可能と思える重大任務を帯びて乗船していた。\nちなみに、<a href=\"../p/kkentaro.html\">金子</a>、<a href=\"../p/roosev_t.html\">Ｔ・ルーズベルト</a>だけでなく、のちの講和会議全権<a href=\"../p/kjutaro.html\">小村寿太郎</a>もハーバードの同窓だ。\n<a href=\"../1905/09portm.html\">ポーツマス条約</a>はこの学閥によって成し遂げられたと言っていいかもしれない。\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>その日午後六時半、<a href=\"../p/kkentaro.html\">金子</a>は、電話で霊南坂の<a href=\"../p/ihirobum.html\">伊藤</a>の官邸に呼ばれた。</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>は、<a href=\"../p/kkentaro.html\">金子</a>を一室に招き入れて御前会議の内容を告げ、<a href=\"../p/roosev_t.html\">ルーズベルト</a>への工作とアメリカ世論の操作のため渡米するよう求めた。</div>\n<div><a href=\"../p/kkentaro.html\">金子</a>は、自分には負いかねる重大な使命であり、第一、アメリカ国民を親日的なものにさせることは不可能であるという理由から辞退した。\n歴史的にみても、アメリカは南北戦争で現在の合衆国を建設した折にロシアの援助を受け、\n現在でも恩義を感じているし、またアメリカの富豪の大半はロシアの貴族階級と姻戚関係にあり、\n貿易をはじめ財政、政治、経済の上でロシアとの関係は深く、軍需品もロシアに大量に輸出し、両国間に楔を入れることなどできないという。\nまして、<a href=\"../p/roosev_t.html\">ルーズベルト</a>に日本に有利な和平斡旋をうながすなどということは論外だ、と答えた。</div>\n<div>しかし、<a href=\"../p/ihirobum.html\">伊藤</a>も屈せず、</div>\n<div>「もし君が行かない場合には、アメリカはロシアの完全な味方になり日本の生きる道はなくなるだろう。\n是非、渡米して欲しい」</div>\n<div>と、強い語調で言った。</div>\n<div><a href=\"../p/kkentaro.html\">金子</a>は、</div>\n<div>「半ばぐらい成功する予測が立てられれば行きますが、全く見込みがありません。\nもしそれを可能とする人物がいるとしたら、それは<a href=\"../p/ihirobum.html\">伊藤公爵</a>以外にないでしょう」</div>\n<div>と、答えた。</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>は、</div>\n<div>自分は<a href=\"../p/mtenno.html\">天皇</a>のおそばにいてお仕えしなければならぬ身である。\nまた、<a href=\"../p/ktaro.html\">桂</a>、<a href=\"../p/kjutaro.html\">小村</a>も国事からはなれるわけにはいかぬ。是非行ってもらいたい」</div>\n<div>と、くりかえした。</div>\n<div><a href=\"../p/kkentaro.html\">金子</a>は頭をふりつづけ、結論が出ぬままに官邸を辞した。</div>\n<div>翌朝、<a href=\"../p/ihirobum.html\">伊藤</a>から再び電話があり、<a href=\"../p/kkentaro.html\">金子</a>は邸におもむいた。</div>\n<div>「決心はついたか」</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>は、言った。</div>\n<div>「御辞退いたします。熟考しましたが、自信はありません」</div>\n<div><a href=\"../p/kkentaro.html\">金子</a>は、即座に答えた。</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>は、熱をおびた口調で説得をはじめた。</div>\n<div>「戦争を決意はしたが、勝つ見込みは全くないのだ。\nしかし、私は、一身を捧げる覚悟で、もしもロシア軍が大挙九州に上陸してきたならば、兵にまじって銃をとり戦うつもりだ。\n兵は死に絶え艦はすべて沈むかも知れぬが、私は生命のあるかぎり最後まで戦う。\nこの度の戦さは、勝利を期待することは無理だが、国家のため全員が生命を賭して最後まで戦う決意があれば、\n国を救う道が開けるかも知れない。\n君は成功する見込みがないといって辞退しているが、成功しようなどとは考えず、\n身を賭すという決意があれば十分なのだ。\nぜひ、渡米して欲しい。私と共に生命を国家に捧げてもらいたい」</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>の眼は、光っていた。</div>\n<div><a href=\"../p/kkentaro.html\">金子</a>は沈黙し、やがて、</div>\n<div>「渡米します」</div>\n<div>と、答えた。</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>は安堵の色を顔にうかべ、すぐに傍の卓上電話で<a href=\"../p/ktaro.html\">桂</a>に<a href=\"../p/kkentaro.html\">金子</a>が承諾したことをつたえた。</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>の邸を辞した<a href=\"../p/kkentaro.html\">金子</a>は、使命を達成する上での参考として陸海軍の戦争に対する見通しをきくため、\nまず参謀本部に参謀次長<a href=\"../p/kgentaro.html\">児玉源太郎大将</a>を訪れた。<a href=\"../p/kgentaro.html\">児玉</a>は<a href=\"../p/kkentaro.html\">金子</a>の質問に、</div>\n<div>「対等の兵力では勝利を得る見込みがないので、ロシア軍の三倍の兵力をもって当るつもりです。\nそれでも勝敗は五分五分と見ているが、せめて六分四分にしようとして、参謀本部で三十日も泊まりこんで作戦を練っています」</div>\n<div>と、答えた。</div>\n<div>海軍については、<a href=\"../p/ygonnohy.html\">山本海相</a>を海軍省に訪れたが、<a href=\"../p/ygonnohy.html\">山本</a>は、</div>\n<div>「日本軍艦の半分は撃沈させられると思う。\n勝利を得たいと思ってはいるが、これ以上話すことはない」</div>\n<div>と、暗い表情で答えた。</div>\n<div>その日、<a href=\"../p/kkentaro.html\">金子</a>は帰宅してあわただしく渡米の準備をし、夜遅く就寝した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ya_portm.html\">吉村昭 「ポーツマスの旗」</a>\n　Ｐ．７５</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1904.html\">１９０４年</a>\n ＞ <a href=\"#h\">金子特使渡米</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

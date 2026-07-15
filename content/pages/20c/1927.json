@@ -1,0 +1,479 @@
+{
+ "path": "20c/1927.html",
+ "type": "year",
+ "title": "１９２７年　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９２７年"
+  },
+  {
+   "type": "title2",
+   "html": "昭和２年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"1917.html\">１０年前</a> &gt;&gt;&gt; <a href=\"1926.html\">前年</a> &gt;&gt;&gt; <span class=\"now\">１９２７</span> &gt;&gt;&gt; <a href=\"1928.html\">翌年</a> &gt;&gt;&gt; <a href=\"1937.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"#s4\">モボ・モガ　　マルクスボーイ</a>",
+    "<a href=\"../1926/waka1_1.html\">若槻①</a> → <a href=\"../1927/tanaa_1.html\">田中（義）内閣</a>"
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"1926.html#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/01/20　　<a href\"..=\"\" 19.html\"=\"\">\n与野党３党首会談</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/02/07　　<a href\"..=\"\" 19.html\"=\"\">\n大正天皇大喪　（新宿御苑）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/02/25　　<a href\"..=\"\" 19.html\"=\"\">\n憲本提携成立　（政友会孤立）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/03/14　　<a href=\"../1927/03katao.html\">\n片岡蔵相失言</a>　（→金融恐慌）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/03/15　　<a href=\"../1927/03torit.html\">\n東京渡辺銀行などで取付け騒ぎ</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/03/21　　<a href\"..=\"\" 19.html\"=\"\">\n映画「稚児の剣法」封切　（林長二郎デビュー作）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/03/24　　<a href=\"../1927/03nanki.html\">\n南京事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/03/27　　<a href\"..=\"\" 19.html\"=\"\">\n岡田嘉子、「椿姫」撮影中に年下の相手役と恋の逃避行</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/04/12　　<a href=\"../1927/04syanh.html\">\n蒋介石、上海クーデター　（国共分離）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/04/17　　<a href=\"../1927/04taigi.html\">\n枢密院、台湾銀行救済緊急勅令案を否決</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/04/17　　<a href=\"../1927/waka1_9.html\">\n若槻内閣①総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/04/18　　<a href=\"../1927/04nanki.html\">\n南京国民政府成立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/04/20　　<a href=\"../1927/tanaa_1.html\">\n田中（義）内閣成立</a>　（首相：<a href=\"../p/tgiici.html\">田中義一</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/04/22　　<a href\"..=\"\" 19.html\"=\"\">\n支払猶予令</a>　（３週間のモラトリアム／蔵相：<a href=\"../p/tkorekiy.html\">高橋是清</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/04/29　　<a href\"..=\"\" 19.html\"=\"\">\n映画「角兵衛獅子」封切　（嵐寛寿郎の鞍馬天狗シリーズ第１作）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/05/21　　<a href\"..=\"\" 19.html\"=\"\">\nリンドバーグ、大西洋無着陸横断飛行に成功</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/05/28　　<a href=\"../1927/05sant1.html\">\n山東出兵①</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/05/28　　<a href\"..=\"\" 19.html\"=\"\">\n全日本オープンゴルフ選手権大会①開催　（程ヶ谷ゴルフ場）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/06/01　　<a href=\"../1927/06minse.html\">\n民政党結成</a>　（総裁：<a href=\"../p/hosaci.html\">浜口雄幸</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/06/20　　<a href\"..=\"\" 19.html\"=\"\">\nジュネーブ軍縮会議開催　（08/04 条約不成立）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/06/27　　<a href=\"../1927/06tohok.html\">\n東方会議開催</a>　（対中政策決定）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/07/10　　<a href=\"../1927/07iwana.html\">\n岩波文庫刊行開始</a>　（「こころ」他22点）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/07/24　　<a href=\"../1927/07akuta.html\">\n芥川龍之介自殺</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/07/31　　<a href\"..=\"\" 19.html\"=\"\">\n鈴木商店倒産</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/08/13　　<a href\"..=\"\" 19.html\"=\"\">\n甲子園から第13回全国中等野球大会を放送　（初のスポーツ実況）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/08/30　　<a href\"..=\"\" 19.html\"=\"\">\n政府、山東派遣軍撤兵を声明　（09/08 撤兵完了）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/09/18　　<a href\"..=\"\" 19.html\"=\"\">\n徳富蘆花没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/09/21　　<a href\"..=\"\" 19.html\"=\"\">\n三越呉服店、「三越のファッションショー」開催</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"1928.html#s1\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/11/01　　<a href\"..=\"\" 19.html\"=\"\">\nトルコ議会、グスタファ・ケマルを満場一致で大統領に選出</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/11/05　　<a href\"..=\"\" 19.html\"=\"\">\n田中・蒋会談</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/11/19　　<a href\"..=\"\" 19.html\"=\"\">\n水平社社員、軍隊内の差別撤廃を天皇に直訴　（陸軍大演習観兵式）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/11/27　　<a href\"..=\"\" 19.html\"=\"\">\nイタリア、アルバニア保護国化</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/12/11　　<a href\"..=\"\" 19.html\"=\"\">\n中国共産党、広州で武装蜂起、広州コミューン樹立　（12/13 鎮圧）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/12/15　　<a href\"..=\"\" 19.html\"=\"\">\n中国国民政府、ソ連に国交断絶を通告</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/12/30　　<a href=\"../1927/12cikat.html\">\n東京地下鉄道、浅草・上野間開業</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1926/waka1_1.html\">若槻①</a> → <a href=\"../1927/tanaa_1.html\">田中（義）内閣</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">モボ・モガ　　マルクスボーイ</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「何が彼女をさうさせたか」　「河童」　「岩波文庫」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">「忠次旅日記」</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">中等野球大会中継</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">モン・パリ　　赤とんぼ</td></tr>\n</tbody>"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"#h\">１９２７年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

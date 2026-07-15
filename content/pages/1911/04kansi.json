@@ -1,0 +1,184 @@
+{
+ "path": "1911/04kansi.html",
+ "type": "article",
+ "title": "警視庁、鑑識課を新設　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1911.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "警視庁、鑑識課を新設"
+  },
+  {
+   "type": "title2",
+   "html": "1911/04/01"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1901.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1910.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1911.html\">１９１１</a> &gt;&gt;&gt; <a href=\"../20c/1912.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1921.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "ひかえひかえぇ。　この指紋が目に入らぬかぁ。　指紋が証拠の犯罪捜査新時代へ。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1910/11/29　　<a href=\"../1910/11nanky.html\">\n南極探検隊芝浦を出航</a>　（<a href=\"../p/snobu.html\">白瀬中尉</a>ら）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1910/12/14　　<a href=\"../1910/12hhiko.html\">\n日野熊蔵大尉、初飛行に成功</a>　（代々木練兵場／高度10ｍ・距離60ｍ）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/01/18　　<a href=\"../1911/01taigy.html\">\n幸徳秋水ら24名に死刑判決</a>　（大逆事件）"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/04/01　　<a 1911=\"\" href\"..=\"\" 04kansi.html\"=\"\">\n警視庁、鑑識課を新設</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/08/21　　<a href\"..=\"\" 19.html\"=\"\">\n警視庁、特別高等課を設置</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/06/01　　<a href\"..=\"\" 19.html\"=\"\">\n青鞜社発起人会</a>　（<a href=\"../p/hraicyo.html\">平塚らいてう</a>ら）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/11/10　　<a href\"..=\"\" 19.html\"=\"\">\n天皇お召し列車、門司駅で脱線　（責任者自殺）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/07/29　　<a href=\"../1912/07mhogy.html\">\n明治天皇崩御</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>四月一日、東京・警視庁に鑑識課が設けられることになり、以後、犯人逮捕に指紋が有力な証拠として採用されることになった。\n警視庁では前科者の指紋原紙五〇〇〇枚を用意、新時代に備えたという。</div>\n<div>四月六日、東京・神田錦町で殺人事件が発生した。\n犯行現場は鉄道技師宅。\n殺されたのはこの家の女性の使用人である。\n捜査官が犯行現場の指紋を採取し、前科者の指紋原紙と照らし合わせたところ、合致するものを発見。\n殺人犯が割り出された。\n八月四日、逮捕されたが、指紋という動かぬ証拠に、言い逃れることはできず、素直に犯行を自白した。</div>\n<div class=\"txr\"><a href=\"../text/ok_bkyun.html\">おもしろニュース研究会 「20世紀Ｂ級ニュース」</a>\n　Ｐ．２６<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=20%25E4%25B8%2596%25E7%25B4%2580B%25E7%25B4%259A%25E3%2583%258B%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%25B9%2520%2520%2520%2520%25E8%25A7%2592%25E5%25B7%259Done%25E3%2583%2586%25E3%2583%25BC%25E3%2583%259E\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1911.html\">１９１１年</a>\n ＞ <a href=\"#h\">警視庁、鑑識課を新設</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

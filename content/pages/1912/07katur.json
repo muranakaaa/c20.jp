@@ -1,0 +1,234 @@
+{
+ "path": "1912/07katur.html",
+ "type": "article",
+ "title": "桂太郎ら外遊出発　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1912.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "桂太郎ら外遊出発"
+  },
+  {
+   "type": "title2",
+   "html": "1912/07/06"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1902.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1911.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1912.html\">１９１２</a> &gt;&gt;&gt; <a href=\"../20c/1913.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1922.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"../p/ktaro.html\">前首相</a>、子分たちを引き連れて、思惑ありげに外遊に出発。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/08/25　　<a href=\"../1911/katu2_9.html\">\n桂内閣②総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/08/30　　<a href=\"../1911/saio2_1.html\">\n西園寺内閣②成立</a>　（首相：<a href=\"../p/skinmoci.html\">西園寺公望</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/11/26　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/kjutaro.html\">\n小村寿太郎</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/05/15　　<a href\"..=\"\" 19.html\"=\"\">\n総選挙[11]　（政友会211、国民党95、中央倶楽部31）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/07/06　　<a 1912=\"\" href\"..=\"\" 07katur.html\"=\"\">\n桂太郎ら外遊出発</a>　（08/11 帰国）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/07/20　　<a href=\"../1912/07jutai.html\">\n宮内省、天皇重態を発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/07/29　　<a href=\"../1912/07mhogy.html\">\n明治天皇崩御</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/07/30　　<a href\"..=\"\" 19.html\"=\"\">\n宮内省、明治天皇崩御を発表</a>　（<a href=\"../p/ttenno.html\">大正天皇</a>即位）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/08/13　　<a href=\"../1912/08katur.html\">\n桂太郎、内大臣兼侍従長に就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/12/05　　<a href=\"../1912/saio2_9.html\">\n西園寺内閣②総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/12/19　　<a href=\"../1912/12goke1.html\">\n憲政擁護連合大会①　（護憲運動①開始）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/12/21　　<a href=\"../1912/katu3_1.html\">\n桂内閣③成立</a>　（首相：<a href=\"../p/ktaro.html\">桂太郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/01/20　　<a href=\"../1913/01sinto.html\">\n桂首相、新党結成計画発表</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/ktaro.html\">桂</a>は、七月六日<a href=\"../p/gsinpei.html\">後藤新平</a>と共に外遊に出発した。\n前大蔵次官<a href=\"../p/wreijiro.html\">若槻礼次郎</a>、代議士岩下清周が随行した。</div>\n<div><a href=\"../p/ktaro.html\">桂</a>外遊の動機は<a href=\"../p/tsoho.html\">徳富蘇峯</a>によると、「外交上の私的使節（<a href=\"../p/ktaro.html\">桂</a>は表面上ロシアと話し合って東洋平和の基礎を固めると言っていたが、\n実は自分に馴染みの深いドイツと攻守同盟を結ぶつもりであったといわれる）の意味もあったのであろうが、その真意は、\n従来の政友会との妥協政策に困り、飽きて、新生面を開く為自ら新政党を創立しようと考えたもので、\n洋行は自分の態度に一段落を画する為のもの」であって、「要するに彼の洋行は彼が政治的未来記の玉手箱なりし也」となっている。\n芸術家やスポーツマンが行きづまったりスランプに陥ったとき、山の宿に長期滞在したり、\n寺に籠ったりして打開の道を求めることがあるが、<a href=\"../p/ktaro.html\">桂</a>の洋行も同列であって、白柳は「こうして<a href=\"../p/ktaro.html\">桂</a>は、\n刻一刻政友会と相対立して、政界を両分すべき大政党の首領として擬せられつつある自己の発見を、急ぎつつあった」と見ている。</div>\n<div><a href=\"../p/ktaro.html\">桂</a>の一行は大連から満州を経てシベリア鉄道で七月二十一日ペテルブルクに着いたところで\n「<a href=\"../p/mtenno.html\">天皇陛下</a>十四日より御病気の処二十日御重態となる」という報を聞いた。\n一行は心配していたが、その後稍御軽快となるとの報で旅程を早めようとスイスまでの切符を買ったが、\n病勢険悪との急電で、二十八日の特別列車で急遽ペテルブルクを出発日本に向った。</div>\n<div class=\"txr\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．４１８<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E5%259C%2592%25E5%25AF%25BA%25E5%2585%25AC%25E6%259C%259B%25E2%2580%2595%25E6%259C%2580%25E5%25BE%258C%25E3%2581%25AE%25E5%2585%2583%25E8%2580%2581%2520%2528%25E4%25B8%258A%25E5%25B7%25BB%2529%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1912.html\">１９１２年</a>\n ＞ <a href=\"#h\">桂太郎ら外遊出発</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

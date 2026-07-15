@@ -1,0 +1,145 @@
+{
+ "path": "text/ms3syowa.html",
+ "type": "text",
+ "title": "「昭和史発掘（３）」　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "text.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\"><span class=\"now\">書籍</span></a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "「昭和史発掘（３）」"
+  },
+  {
+   "type": "title2",
+   "html": "参考書籍"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "list"
+   },
+   "html": "<tbody><tr>\n<td class=\"list\"><a href=\"03s.html\">一覧</a></td>\n<td class=\"list\"><span class=\"f8\"><a href=\"ms_syowa.html\">データ</a></span></td>\n<td class=\"list\"><a href=\"ms1syowa.html\">１</a></td>\n<td class=\"list\"><a href=\"ms2syowa.html\">２</a></td>\n<td class=\"list2\"><a href\"ms3syowa.html\"=\"\">３</a></td>\n<td class=\"list\"><a href=\"ms4syowa.html\">４</a></td>\n<td class=\"list\"><a href=\"ms5syowa.html\">５</a></td>\n<td class=\"list\"><a href=\"ms6syowa.html\">６</a></td>\n<td class=\"list\"><a href=\"ms7syowa.html\">７</a></td>\n<td class=\"list\"><a href=\"ms8syowa.html\">８</a></td>\n<td class=\"list\"><a href=\"ms9syowa.html\">９</a></td>\n<td class=\"list\"><a href=\"msasyowa.html\">10</a></td>\n<td class=\"list\"><a href=\"msbsyowa.html\">11</a></td>\n<td class=\"list\"><a href=\"mscsyowa.html\">12</a></td>\n<td class=\"list\"><a href=\"msdsyowa.html\">13</a></td>\n</tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n書籍：　文庫（252ページ）<br>\n発行：　文藝春秋（1978/08/25）<br>\n目次：　<a href=\"../1928/06cyoxx.html\">「満洲某重大事件」</a><br>\n<div class=\"in\">\n佐分利公使の怪死<br>\n潤一郎と春夫</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "span",
+   "attrs": {
+    "class": "book"
+   },
+   "html": "<a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167697025%2Fqid%3D1147086156%2Fsr%3D1-4%2Fref%3Dsr_1_2_4\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\">"
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>田中・蒋介石会談</b></div>\n<div><span class=\"m_b\">引用</span><a href=\"../p/syokaise.html\">蒋介石</a>は東京に入るのに先立って、まず張群を東京の要人と接触させた。\n張群は陸軍省に<a href=\"../p/steiici.html\">鈴木貞一</a>を訪ね、次に参謀本部第二部長だった<a href=\"../p/miwane.html\">松井石根</a>を訪ね、\n<a href=\"../p/tgiici.html\">田中総理</a>との仲介を依頼した。\nこうして<a href=\"../p/syokaise.html\">蒋介石</a>は、箱根で<a href=\"../p/tgiici.html\">田中</a>、<a href=\"../p/mkaku.html\">森</a>と会見した。</div>\n<div>山浦貫一の「森恪」伝によれば、その会見では、大体、①共産党と分離し、ソ連と絶ったのちの国民革命の成功、\n支那の統一を日本が認める、②満州に対する日本の特殊地位と権益を支那は認める、という二点を中心にして、\n双方で円満な了解が成立したとある。</div>\n<div><a href=\"../p/syokaise.html\">蒋介石</a>はそれから東京に入り、新聞記者団との共同会見で、「貴我両国民は一致して東亜の平和に努力するため、\nまず中国国民革命の完成を図り、真正なる両国歓喜の基礎を立てなければならぬ。\nかくしてここに同文同種、共存共栄の持論は初めて実現し得るのである」とのべた。</div>\n<div class=\"txr\"><a href=\"../text/ms3syowa.html\">松本清張 「昭和史発掘（３）」</a>\n　Ｐ．３３</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../1928/04sant2.html\">山東出兵②</a>／<a href=\"../1928/05saina.html\">済南事件</a>／<a href=\"../1928/05sant3.html\">山東出兵③</a></b></div>\n<div><span class=\"m_b\">引用</span>国民党軍は、馮玉祥軍、閻錫山軍と連合して、\n三月中旬には三方から北京へ進撃を開始した。\n早くも四月一日には徐州を占領、中旬には山東に迫って、まさに済南を指呼の間に見るようになった。</div>\n<div>ここで<a href=\"../p/tgiici.html\">田中</a>は、<a href=\"../1927/05sant1.html\">去年の山東出兵</a>のときと同じような状態となり、\n撤兵の際に強硬声明を発表した手前もあって、再び出兵を考えなければならなくなった。</div>\n<div>しかし、今度は、<a href=\"../p/tgiici.html\">田中</a>も、陸軍の首脳も、重臣筋も、二度の出兵をかなり疑問視していた。\nというのは、日支両軍の接触で不測の事態発生が心配されたのと、南京政権の内部が<a href=\"../p/syokaise.html\">蒋</a>によって統一され、\nもはや、<a href=\"../p/syokaise.html\">蒋介石</a>による中国本土の統一が確認されるようになった。\nこのさい、<a href=\"../p/cyosakur.html\">張作霖</a>を北京から引揚させ、彼を東三省経営に専念させ、\n<a href=\"../p/syokaise.html\">蒋介石</a>には無事に北京入城をやらせる、という考えが強くなってきたからである。</div>\n<div>この考えの背後には、もともと、<a href=\"../p/cyosakur.html\">張作霖</a>は東三省だけの軍閥にし、\n日本のカイライ政権として権益を確保するという考えがあった。\nそれと、去年、<a href=\"../p/syokaise.html\">蒋介石</a>が来日したときの<a href=\"../p/tgiici.html\">田中</a>との箱根会談で、<a href=\"../p/tgiici.html\">田中</a>はかなり<a href=\"../p/syokaise.html\">蒋</a>を信用していたのである。</div>\n<div>ところが、こうした<a href=\"../p/tgiici.html\">田中首相</a>や軍首脳部の意向に対して今度も<a href=\"../p/mkaku.html\">森恪</a>が強硬に第二次出兵を主張した。</div>\n<div><a href=\"../p/mkaku.html\">森</a>は、前年<a href=\"../1927/05sant1.html\">出兵</a>のさいに政府が声明した再出兵の公約を、\n国民の手前反古にするわけにはいかないという、表向きの理屈をこねたが、その裏には、\n参謀本部の<a href=\"../p/steiici.html\">鈴木貞一</a>をはじめ、陸軍部内の「若い連中」との連繋によって彼らの意見の代表だったのである。</div>\n<div>外務関係のみならず、閣内の実力者、<a href=\"../p/mkaku.html\">森</a>に迫られた<a href=\"../p/tgiici.html\">田中</a>は、やむなく二度目の出兵を決定し、\n四月十九日、天津駐屯軍から一個中隊と、内地から第六師団を動員して済南に入らせた。</div>\n<div>ところが、二十六日、日本軍は済南に入って警備についたが、\n東北軍は国民党軍が接近してきたと知ると、三十日の晩から翌未明にかけて一戦も交えず、済南市内から逃走してしまった。\nそのあとに国民党軍各部隊が続々と入って来て五月二日には<a href=\"../p/syokaise.html\">蒋介石</a>の総司令部も入城した。</div>\n<div>総司令部は入城すると同時に日本側に対し、あとはわれわれが治安維持の責任を負うから、\n日本軍は撤退してもらいたいと申入れた。\n日本側領事もこれを了承したが、その交渉がつづいている三日朝、市内警備の日本軍一小部隊と国民党軍一小部隊との間に\n衝突が起り、これがきっかけとなって両軍は随所に交戦状態に入ったのである。</div>\n<div>国民党軍総司令部は停戦命令を出して日本軍に対する中国側の反抗を抑えようと努力したが、\n混乱のさなかのことで、それがなかなか徹底しない。\nようやく翌四日夜になって、国民党軍部隊が日本側警備地帯から撤退するに及んで交戦は収まった。</div>\n<div>この突発交戦によって中国側の日本軍撤退交渉はまったく途絶しただけでなく、\n日本軍司令官は十二時間を限った最後通告を突きつけ、中国軍の済南撤退を要求した。</div>\n<div>さらに、八日午前四時になっても満足な回答がなかったという理由で全軍に総攻撃命令を下し、\n十一日には中国軍を済南城外に完全に追出し、済南を全面的に占領した。</div>\n<div>第二次出兵に際して<a href=\"../p/tgiici.html\">田中首相</a>や軍首脳部が渋ったのは、現地で不測の事態がおきる不安だった。\nこの不安ははたして的中し、派遣軍と国民党軍との交戦という事態となって現れたのだ。</div>\n<div>そこで、政府は国民の前に現地の事態を必要以上に誇張して宣伝し、\n第三師団に動員令を下して、一万五千の兵を戦時編成として組み、青島へむけて出発させた。</div>\n<div>このとき陸軍当局は、「ことの起りは、支那軍隊が日本軍隊の実力を軽視し、\n<a href=\"../p/syokaise.html\">蒋介石</a>の威令全く行われず、誤解と昂奮のままに拡大し、計画的に日本軍の全滅を図った」と説明し、\nなお、「両軍の戦闘中、支那側によって行われた日本人の虐殺は、ほとんど鬼畜もおよばざるものあり・・・・・・\n日本人の墓地は暴かれ、婦女子は言うに忍びざる暴辱を蒙り」と述べた。</div>\n<div>これが、いわゆる<a href=\"../1928/05saina.html\">済南事件</a>といわれるものである。</div>\n<div class=\"txr\"><a href=\"../text/ms3syowa.html\">松本清張 「昭和史発掘（３）」</a>\n　Ｐ．３４</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../p/mkaku.html\">森恪</a></b></div>\n<div><span class=\"m_b\">引用</span>かれは明治十六年大阪市に生れ、\n父にともなわれて上京、慶応幼稚舎に入り、卒業後は再び大阪に帰って、中学を卒業後、\n十九歳のとき三井物産上海支店に入社、中国に渡った。\n二十八歳でニューヨーク支店長室付となったが、再び東京に呼び戻され、海軍大将瓜生外吉の三女と結婚している。\n爾来、三井物産の上海勤務として<a href=\"../p/sonbun.html\">孫文</a>と折衝したり、三井のために中国の鉱山を買取ったりしている。</div>\n<div>同じく三井出身の山本条太郎とともに「支那通」として知られ、代議士となり、\n政友会に入ってからは<a href=\"../p/tgiici.html\">田中</a>と知り、爾来、<a href=\"../p/tgiici.html\">田中</a>の対支政策の参謀格となった。\n昭和二年には、山本条太郎、<a href=\"../p/myosuke.html\">松岡洋右</a>などと一緒に政友会代表として武漢政府視察などしている。</div>\n<div class=\"txr\"><a href=\"../text/ms3syowa.html\">松本清張 「昭和史発掘（３）」</a>\n　Ｐ．３７</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>伊東巳代治</b></div>\n<div><span class=\"m_b\">引用</span>伊東巳代治は<a href=\"../p/ihirobum.html\">伊藤博文</a>のもとで憲法草案作成に携った人間で、\n枢密院に籠ってからは、歴代内閣をいじめる小姑的存在として知られていた。</div>\n<div class=\"txr\"><a href=\"../text/ms3syowa.html\">松本清張 「昭和史発掘（３）」</a>\n　Ｐ．４０</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../1928/06cyoxx.html\">張作霖爆殺</a>直後の<a href=\"../p/cyogakur.html\">張学良</a></b></div>\n<div><span class=\"m_b\">引用</span><a href=\"../p/cyogakur.html\">学良</a>は、<a href=\"../p/cyosakur.html\">父</a>を殺したのは日本軍人であることを知っていて、\nしかも相当な部隊が参加した兇行だと判断していた。</div>\n<div>彼は<a href=\"../p/cyosakur.html\">父親</a>の葬儀ののち、側近にむかって、</div>\n<div>「日本軍司令官と握手したときには血涙の迸るほど口惜しかった。\n親の仇を眼前に見ながら手出しもできぬ立場は、おまえたちにわかるか」</div>\n<div>と、涙ながらに語った。\nこのことはのちに日本側に漏れて、首相にも報告されている。</div>\n<div>が、<a href=\"../p/cyogakur.html\">学良</a>は、そんな感情はおくびにも出さず、にこやかに日本側要人と会見していた。\nところが、七月二日、彼が保安総司令に就任するや、<a href=\"../p/syokaise.html\">蒋介石</a>その他に通電して国民会議の開会を提唱、\n国家の組織が完成すれば東三省もまたこれに服従する旨を明らかにしたのである。</div>\n<div>つまり、<a href=\"../p/cyogakur.html\">学良</a>は南京政府の下に入ることを表明し、すすんで中国統一の一翼をになうことを公言したわけだ。\n俄然、<a href=\"../p/cyogakur.html\">学良</a>は日本に背を向けた。</div>\n<div class=\"txr\"><a href=\"../text/ms3syowa.html\">松本清張 「昭和史発掘（３）」</a>\n　Ｐ．５４</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../p/cyogakur.html\">張学良</a>の反日宣言</b></div>\n<div><span class=\"m_b\">引用</span><a href=\"../p/cyogakur.html\">学良</a>の東三省は一挙に国民党政府と合体したようにみえるが、\n日本では必ずしもそうは観測しなかった。\nたとえ青天白日旗を掲げても、張学良政権内部の実情からみて、\nそのほかのことは一切現状維持で結局落ちつくであろうと楽観された。</div>\n<div>つまり、表面の看板や名前が変っても、その実質的内容に何らの変化もなく、\n要するに、今回はただ旗が変っただけのことであろうとみていたのだ。\n政府の予想もそうだったし、当時の日本新聞の観測もみなこれに一致している。</div>\n<div>そのことは、<a href=\"../p/cyogakur.html\">張学良</a>の側近楊宇廷（<a href=\"#cyu\">※</a>）や張作相などの知日派が控えているので、\n彼らが<a href=\"../p/cyogakur.html\">学良</a>を牽制し、おいそれと<a href=\"../p/cyogakur.html\">学良</a>も急変はしないと考えていたからだ。</div>\n<div>この期になっても、日本はまだ<a href=\"../p/cyogakur.html\">学良</a>を甘く見くびっていた。\nその根底には在満日本兵力への自負があった。</div>\n<div>翌年一月、楊宇廷（<a href=\"#cyu\">※</a>）は、同じく知日派の常蔭槐と一緒に<a href=\"../p/cyogakur.html\">張学良</a>邸での麻雀に誘われておもむいた。\n彼らが<a href=\"../p/cyogakur.html\">張学良</a>の前に出るや、たちまち左右から武装兵にとりまかれ、その晩のうちに銃殺された。\n常蔭槐は当時大帥府の交通部長であったが、銃殺後は<a href=\"../1928/06cyoxx.html\">張作霖爆殺</a>の張本人だと発表された。</div>\n<div>以後、<a href=\"../p/cyogakur.html\">学良</a>は、急速に反日に転じたのである。</div>\n<div class=\"txr\"><a href=\"../text/ms3syowa.html\">松本清張 「昭和史発掘（３）」</a>\n　Ｐ．５８</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>パプチャップ事件</b></div>\n<div><span class=\"m_b\">引用</span><a href=\"../p/cyosakur.html\">張作霖</a>の暗殺は、ずっと前の大正四年の大隈内閣当時にも計画されていたのだ。</div>\n<div>当時、<a href=\"../p/enseigai.html\">袁世凱</a>が皇帝になることに反対した南方の軍閥に金を出したのは<a href=\"../p/kfusanos.html\">久原房之助</a>で、\nまた、北方の粛親王を守立てて満蒙に独立国を作らせようとして資本を出したのは大倉組であった。\n日本の資本家が隣邦の動乱をいかに喰い物にしていたかがわかろうというものだ。</div>\n<div>このとき<a href=\"../p/cyosakur.html\">張作霖</a>は、その馬車に爆弾を投げ込まれたが、従者が四、五名即死しただけで、\n<a href=\"../p/cyosakur.html\">張</a>自身は辛うじて馬車からとびおりて助かった。</div>\n<div>現場には不発の爆弾も落ちていたので調べてみると、それは日本製の特別な火薬だった。</div>\n<div>時の陸軍参謀本部第二部長は福田雅太郎、海軍省軍務局長は<a href=\"../p/asaneyuk.html\">秋山真之</a>、外務省政務局長は小池張造だったが、\nこの事件後、福田、<a href=\"../p/asaneyuk.html\">秋山</a>は居たたまれなくなって洋行し、政務局長の小池は職を辞して久原に入社してしまった。</div>\n<div>これは巴布札布事件というが張爆殺事件の前哨をなすものだ。</div>\n<div class=\"txr\"><a href=\"../text/ms3syowa.html\">松本清張 「昭和史発掘（３）」</a>\n　Ｐ．７２</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "a",
+   "attrs": {
+    "name": "cyu"
+   },
+   "html": "\n<div class=\"cyu\">※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n<br>「楊宇廷」の「廷」は、正しい字を表示できないため、仮にこの字を当てています。\n</div>\n\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a name=\"cyu\"></a><a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"03s.html\">書籍ファイル一覧　（サ）</a>\n ＞ <a href=\"ms_syowa.html\">「昭和史発掘」</a>\n ＞ <a href=\"#h\">「昭和史発掘（３）」</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

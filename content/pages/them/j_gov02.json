@@ -1,0 +1,611 @@
+{
+ "path": "them/j_gov02.html",
+ "type": "theme",
+ "title": "【テーマ・内閣成立史 02】　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "them.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "【テーマ・内閣成立史 02】"
+  },
+  {
+   "type": "title2",
+   "html": "クリック ２０世紀"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"j_gov01.html\">前頁</a> &lt;&lt;&lt; <a href=\"j_gov.html\">テーマ</a> &gt;&gt;&gt; <a href=\"j_gov03.html\">次頁</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move1"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"j_gov01.html#s5\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "t_tx"
+   },
+   "html": "\n<b>●<a href=\"../1912/katu3_1.html\">桂内閣③</a>の成立　（<a href=\"../1911/saio2_1.html\">西園寺内閣②</a>の終焉）</b><br>\n２個師団増設のための予算を得たい陸軍と、財政危機克服をめざす<a href=\"../1911/saio2_1.html\">西園寺内閣②</a>が対立。\n陸軍は法体系の不備をつく奇策に出た。<a href=\"../1912/12uehar.html\">上原陸相が辞任</a>し、後任の推薦を、陸軍の総意として拒否したのである。\n軍部大臣現役武官制のもとでは、こうなると陸相の空席を埋めることができず内閣は不成立、総辞職以外に選択肢はなかった。\n陸軍の重鎮として裏で糸を引き、<a href=\"../p/skinmoci.html\">西園寺</a>を首相の座から引きずり下ろしたのは、またも<a href=\"../p/yaritomo.html\">山県</a>であった。<br>\n「陸軍のストライキ」に世論は激しく反発し、後継首相の決定も難渋をきわめた。\n開かれた元老会議の回数は実に二ケタを数え、めぼしい候補者にことごとく断られた元老たちは、\n藩閥と陸軍への批判が高まる中、長州閥で陸軍大将の<a href=\"../p/ktaro.html\">桂太郎</a>をやむなく後継首相に推薦。\nこうして<a href=\"../1912/katu3_1.html\">桂内閣③</a>は成立した。<br>\n◎キングメーカー：<a href=\"../p/yaritomo.html\">山県有朋</a>、<a href=\"../p/ikaoru.html\">井上馨</a>、<a href=\"../p/mmasayos.html\">松方正義</a>（以上元老）<br>\n<div class=\"r\"><a href=\"../1912/katu3_1~.html\">[閣僚名簿]</a></div>\n"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/11/10　　<a href=\"../1912/11dansy.html\">\n西園寺・山県会談</a>　（陸軍２個師団増設問題）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/11/22　　<a href\"..=\"\" 19.html\"=\"\">\n上原陸相、陸軍２個師団増設案を閣議に提出</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/12/02　　<a href=\"../1912/12uehar.html\">\n上原陸相、帷幄上奏で単独辞任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/12/05　　<a href=\"../1912/saio2_9.html\">\n西園寺内閣②総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/12/07　　<a href\"..=\"\" 19.html\"=\"\">\n元老会議、松方正義を後継首相に推薦　（12/09 辞退）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/12/12　　<a href\"..=\"\" 19.html\"=\"\">\n元老会議、山本権兵衛・平田東助を後継首相に推薦　（ともに辞退）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/12/17　　<a href=\"../1912/katu3_0.html\">\n桂太郎に組閣命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/12/17　　<a href\"..=\"\" 19.html\"=\"\">\n斉藤海相、留任拒否　（12/21 勅命により留任）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/12/19　　<a href=\"../1912/12goke1.html\">\n憲政擁護連合大会①　（護憲運動①開始）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/12/21　　<a href=\"../1912/katu3_1.html\">\n桂内閣③成立</a>　（首相：<a href=\"../p/ktaro.html\">桂太郎</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "t_tx"
+   },
+   "html": "\n<b>●<a href=\"../1913/yamm1_1.html\">山本内閣①</a>の成立　（<a href=\"../1912/katu3_1.html\">桂内閣③</a>の終焉）</b><br>\n世論の批判にも、合計８年近くも首相を務めた抜群のキャリアを誇る<a href=\"../p/ktaro.html\">桂首相</a>は自信満々だった。\n新党構想で政友会の切り崩しを図り、これに失敗すると、<a href=\"../p/ttenno.html\">即位早々の若い天皇</a>に勅語を出させて、政友会<a href=\"../p/skinmoci.html\">西園寺総裁</a>を封じ込め、\nなお衆議院解散という切り札を出すタイミングをうかがっていた。\n長州閥の横暴に憤る<a href=\"../p/ygonnohy.html\">山本権兵衛</a>が単身桂邸に乗り込んで辞職を勧告し、その足で政友会本部に赴き、\n<a href=\"../p/skinmoci.html\">西園寺</a>らを大いに励ましたのはこのときのことである。<br>\n休会明けの議会で<a href=\"../p/ktaro.html\">桂</a>は解散を決意、衆議院議長にその旨を伝えた。\n大岡議長が指し示す窓の外には、閥族打破を叫ぶ群衆。\n<a href=\"../p/ktaro.html\">桂</a>の脳裏に<a href=\"../1905/09hibiy.html\">日比谷焼き打ち事件</a>の悪夢がよみがえり、この瞬間<a href=\"../1912/katu3_1.html\">桂内閣③</a>は倒れた。世に言う<a href=\"../1913/katu3_9.html\">「大正政変」</a>である。<br>\n翌日内閣総辞職。即日元老会議は後継に<a href=\"../p/ygonnohy.html\">山本権兵衛</a>を推薦。政友会もこれを支持した。こうして<a href=\"../1913/yamm1_1.html\">山本内閣①</a>は成立した。<br>\n◎キングメーカー：<a href=\"../p/yaritomo.html\">山県有朋</a>、<a href=\"../p/ikaoru.html\">井上馨</a>、<a href=\"../p/mmasayos.html\">松方正義</a>、<a href=\"../p/skinmoci.html\">西園寺公望</a>（以上元老）<br>\n<div class=\"r\"><a href=\"../1913/yamm1_1~.html\">[閣僚名簿]</a></div>\n"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/01/20　　<a href=\"../1913/01sinto.html\">\n桂首相、新党結成計画発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/02/09　　<a href=\"../1913/02syocy.html\">\n西園寺（政友会総裁）に「内閣不信任案撤回」の詔勅</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/02/10　　<a href=\"../1913/02hoi10.html\">\n護憲派の民衆、議会を包囲</a>　（<a href=\"../p/ktaro.html\">桂首相</a>、総辞職を決意）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/02/11　　<a href=\"../1913/katu3_9.html\">\n桂内閣③総辞職　（大正政変）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/02/11　　<a href\"..=\"\" 19.html\"=\"\">\n元老会議、後継首相に山本権兵衛を推薦</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/02/12　　<a href\"..=\"\" 19.html\"=\"\">\n山本権兵衛に組閣命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/02/19　　<a href\"..=\"\" 19.html\"=\"\">\n政友会議員総会、山本内閣①支持を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/02/20　　<a href=\"../1913/yamm1_1.html\">\n山本内閣①成立</a>　（首相：<a href=\"../p/ygonnohy.html\">山本権兵衛</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "t_tx"
+   },
+   "html": "\n<b>●<a href=\"../1914/okum2_1.html\">大隈内閣②</a>の成立　（<a href=\"../1913/yamm1_1.html\">山本内閣①</a>の終焉）</b><br>\n<a href=\"../1914/01simen.html\">シーメンス事件</a>が発覚、海軍の汚職構造があらわになると、海軍の重鎮である<a href=\"../p/ygonnohy.html\">山本首相</a>に対する批判も高まった。\nと同時に、海軍関係の予算に議会の承認が得られず、政府の提出した予算案が不成立となった。\nこの責任をとり、<a href=\"../1913/yamm1_1.html\">山本内閣①</a>は総辞職した。<br>\nさしもの元老たちも、ここにいたってはもはや世論を無視することはできなかった。\n元老会議が徳川、<a href=\"../p/kkeigo.html\">清浦</a>の擁立に失敗した後、<a href=\"../p/ikaoru.html\">井上馨</a>は発想の大転換を図り、国民に人気のある<a href=\"../p/osigenob.html\">大隈重信</a>の担ぎ出しに動いた。\n旧怨を忘れて<a href=\"../p/osigenob.html\">大隈</a>の人気を利用し、政友会の力をそごうと考えたのだ。\n<a href=\"../p/osigenob.html\">大隈</a>もこれにのった。こうして<a href=\"../1914/okum2_1.html\">大隈内閣②</a>は成立した。<br>\n◎キングメーカー：<a href=\"../p/ikaoru.html\">井上馨</a>（元老）<br>\n<div class=\"r\"><a href=\"../1914/okum2_1~.html\">[閣僚名簿]</a></div>\n"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/01/23　　<a href=\"../1914/01simen.html\">\nシーメンス事件発覚</a>　（<a href=\"../p/ssaburo.html\">島田三郎</a>、国会で海軍高官の収賄を追及）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/02/04　　<a href=\"../1914/02viker.html\">\n東京地裁検事局、ヴィッカース社社員ウィンダーを召喚</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/02/15　　<a href\"..=\"\" 19.html\"=\"\">\n東京朝日記者襲撃事件</a>　（<a href=\"../p/htakasi.html\">原内相</a>私邸前）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/03/23　　<a href=\"../1914/03yosan.html\">\n予算案不成立　（貴族院、両院協議会案を否決）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/03/24　　<a href=\"../1914/yamm1_9.html\">\n山本内閣①総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/03/28　　<a href\"..=\"\" 19.html\"=\"\">\n元老会議、後継首相に徳川家達（貴族院議長）を推薦　（03/30 辞退）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/03/31　　<a href\"..=\"\" 19.html\"=\"\">\n清浦圭吾に組閣命令　（04/07 辞退）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/04/13　　<a href\"..=\"\" 19.html\"=\"\">\n大隈重信に組閣命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/04/16　　<a href=\"../1914/okum2_1.html\">\n大隈内閣②成立</a>　（首相：<a href=\"../p/osigenob.html\">大隈重信</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "t_tx"
+   },
+   "html": "\n<b>●<a href=\"../1916/tera_1.html\">寺内内閣</a>の成立　（<a href=\"../1914/okum2_1.html\">大隈内閣②</a>の終焉）</b><br>\n<a href=\"../1914/07taise.html\">第一次世界大戦の勃発</a>を、元老<a href=\"../p/ikaoru.html\">井上馨</a>は、日本にとって「天佑」と言ったが、\n世論の流れが戦争によって変わることは、元老にとっての天佑でもあった。<br>\n大隈人気で政友会が総選挙に大敗、大戦を背景に陸軍２個師団増設案が議会を通過すると、<a href=\"../p/osigenob.html\">大隈</a>擁立の目的を達した藩閥・官僚勢力は、\n立て続けの不祥事で人気にかげりをみせた<a href=\"../1914/okum2_1.html\">大隈内閣②</a>の追い落としにかかった。\n<a href=\"../p/osigenob.html\">大隈</a>は、<a href=\"../p/yaritomo.html\">山県</a>に辞職を約束して助力を乞い、それでようやく脱することができるほどの窮地に陥った。\nだが、彼はここからが老獪でしぶとかった。<a href=\"../p/yaritomo.html\">山県</a>との間に条件闘争を開始したのだ。\n後継首相に“子分”の<a href=\"../p/tmasatak.html\">寺内</a>をもくろむ<a href=\"../p/yaritomo.html\">山県</a>に、<a href=\"../p/osigenob.html\">大隈</a>は<a href=\"../p/ktakaaki.html\">加藤高明</a>を主張してゆずらず、その間政権の座に居座り続けた。\n総辞職にあたっても、天皇に<a href=\"../p/ktakaaki.html\">加藤</a>を推薦するという越権行為で<a href=\"../p/yaritomo.html\">山県</a>を怒らせた。<br>\n憤慨した<a href=\"../p/yaritomo.html\">山県</a>は、後継<a href=\"../p/tmasatak.html\">寺内</a>で強引に元老会議をまとめた。こうして<a href=\"../1916/tera_1.html\">寺内内閣</a>は成立した。<br>\n◎キングメーカー：<a href=\"../p/yaritomo.html\">山県有朋</a>（元老）<br>\n<div class=\"r\"><a href=\"../1916/tera_1~.html\">[閣僚名簿]</a></div>\n"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/03/25　　<a href\"..=\"\" 19.html\"=\"\">\n総選挙[12]　（同志会153、政友会108、中正会33、国民党27、他60）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/07/25　　<a href=\"../1915/07ouraj.html\">\n大浦内相辞任</a>　（２個師団増設案成立工作問題で）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/07/30　　<a href\"..=\"\" 19.html\"=\"\">\n大隈内閣辞表提出</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/08/03　　<a href\"..=\"\" 19.html\"=\"\">\n元老会議、大隈首相を慰留</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/08/10　　<a href\"..=\"\" 19.html\"=\"\">\n３閣僚辞任　（</a><a href=\"../p/ktakaaki.html\">加藤外相</a>・<a href=\"../p/wreijiro.html\">若槻蔵相</a>・八代海相／内閣改造）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/03/26　　<a href=\"../1916/03kokei.html\">\n大隈首相、山県元老に対して、後継首相に加藤高明を推薦</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/10/04　　<a href\"..=\"\" 19.html\"=\"\">\n大隈首相、辞意表明　（後継首相に加藤高明を推薦）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/10/04　　<a href\"..=\"\" 19.html\"=\"\">\n元老会議、後継首相に寺内正毅を推薦　（寺内に組閣命令）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/10/05　　<a href=\"../1916/okum2_9.html\">\n大隈内閣②総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/10/09　　<a href=\"../1916/tera_1.html\">\n寺内内閣成立</a>　（首相：<a href=\"../p/tmasatak.html\">寺内正毅</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"j_gov03.html#s1\">▽</a><a href=\"#s5\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "t_tx"
+   },
+   "html": "\n<b>●<a href=\"../1918/hara_1.html\">原内閣</a>の成立　（<a href=\"../1916/tera_1.html\">寺内内閣</a>の終焉）</b><br>\n大戦景気による物価の上昇に遅れて、しかしその分だけ急激に米価が上昇しはじめ、売り惜しみや買占めが始まっていた。\n社会不安が増大したが、政府はこれを警察力によって押さえつける方針だった。<br>\n富山のある漁村の主婦たちが実力行使で安価な米を買うことに成功し、これが新聞によって「越中女一揆」として全国に伝えられると、\n騒動はたちまち全国各地に波及した。その規模は空前のもので、暴動鎮圧にあたった軍隊の兵力は、のべ75000以上と推定されている。\n<a href=\"../1916/tera_1.html\">寺内内閣</a>を批判する声はやまず、内閣はついに総辞職した。<br>\n<a href=\"../p/htakasi.html\">原敬</a>以外に後継を担いうる者がいないことはだれもが認めるところであったが、\n政党政治を嫌う<a href=\"../p/yaritomo.html\">山県</a>は、<a href=\"../p/skinmoci.html\">西園寺</a>を後継首相に指名した。<a href=\"../p/skinmoci.html\">西園寺</a>はこれを辞退し、自ら<a href=\"../p/yaritomo.html\">山県</a>の説得にあたった。\nこうして国民の期待を背負って<a href=\"../1918/hara_1.html\">原内閣</a>は成立した。<br>\n◎キングメーカー：<a href=\"../p/yaritomo.html\">山県有朋</a>、<a href=\"../p/skinmoci.html\">西園寺公望</a>（以上元老）<br>\n<div class=\"r\"><a href=\"../1918/hara_1~.html\">[閣僚名簿]</a></div>\n"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/07/23　　<a href\"..=\"\" 19.html\"=\"\">\n米騒動　（富山県下新川郡魚津町）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/07/31　　<a href\"..=\"\" 19.html\"=\"\">\n東京米穀取引所立会停止　（米価大暴騰のため）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/08/02　　<a href=\"../1918/08siber.html\">\nシベリア出兵宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/08/03　　<a href=\"../1918/08komes.html\">\n米騒動　（富山県中新川郡西水橋町→全国に波及）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/08/14　　<a href\"..=\"\" 19.html\"=\"\">\n水野内相、米騒動に関する記事の差止めを命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/09/21　　<a href=\"../1918/tera_9.html\">\n寺内内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/09/21　　<a href\"..=\"\" 19.html\"=\"\">\n西園寺公望に組閣命令　（09/25 辞退）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/09/27　　<a href\"..=\"\" 19.html\"=\"\">\n原敬（政友会総裁）に組閣命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/09/29　　<a href=\"../1918/hara_1.html\">\n原内閣成立</a>　（首相：<a href=\"../p/htakasi.html\">原敬</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"j_gov.html\">【テーマ・内閣成立史】</a>\n ＞ <a href=\"#h\">【テーマ・内閣成立史 02】</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

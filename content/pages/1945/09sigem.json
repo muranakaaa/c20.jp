@@ -1,0 +1,223 @@
+{
+ "path": "1945/09sigem.html",
+ "type": "article",
+ "title": "重光外相辞任　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1945.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "重光外相辞任"
+  },
+  {
+   "type": "title2",
+   "html": "1945/09/17"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1935.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1944.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1945.html\">１９４５</a> &gt;&gt;&gt; <a href=\"../20c/1946.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"../p/macart_d.html\">マッカーサー</a>の不興を買い、閣内でも孤立した<a href=\"../p/smamoru.html\">重光外相</a>が辞任。　<a href=\"../p/ysigeru.html\">吉田茂</a>、運命の登場。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/17　　<a href=\"../1945/higa_1.html\">\n東久邇宮内閣成立</a>　（首相：<a href=\"../p/hnaruhik.html\">東久邇宮稔彦</a>／無任所相：<a href=\"../p/kfumimar.html\">近衛文麿</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/22　　<a href\"..=\"\" 19.html\"=\"\">\n戦後処理会議設置</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/28　　<a href=\"../1945/08atugi.html\">\n連合軍先遣隊、厚木到着　（ＧＨＱ設置）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/30　　<a href=\"../1945/08macar.html\">\nマッカーサー厚木到着</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/02　　<a href=\"../1945/09kofuk.html\">\n降伏文書調印</a>　（全権：<a href=\"../p/smamoru.html\">重光葵</a>、<a href=\"../p/uyosijir.html\">梅津美治郎</a>／第二次世界大戦終結）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/03　　<a href=\"../1945/09gunse.html\">\n重光・マッカーサー会談</a>　（軍政中止）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/13　　<a href\"..=\"\" 19.html\"=\"\">\n近衛・マッカーサー会談①</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/15　　<a href=\"../1945/09higas.html\">\n東久邇宮・マッカーサー会談</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/15　　<a href\"..=\"\" 19.html\"=\"\">\n日比谷にＧＨＱ本部設置　（第一生命相互ビル）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/17　　<a 1945=\"\" href\"..=\"\" 09sigem.html\"=\"\">\n重光外相辞任</a>　（後任：<a href=\"../p/ysigeru.html\">吉田茂</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/27　　<a href=\"../1945/09homon.html\">\n天皇、マッカーサーを訪問</a>　（会談①）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>とりわけ、<a href=\"../p/smamoru.html\">重光外相</a>が<a href=\"../p/hnaruhik.html\">東久邇首相</a>や<a href=\"../p/kfumimar.html\">近衛副総理</a>ら日本側指導者を<a href=\"../p/macart_d.html\">マッカーサー</a>と会見させまいとしたことが、憤りを巻き起こした。\n<a href=\"../p/smamoru.html\">重光</a>には、首脳が会うべきは、外務省が実務的に十分詰めてからであり、それまでは時期尚早であるとの伝統的外交観があった。\n日本のトップが<a href=\"../p/macart_d.html\">マッカーサー</a>のもとへ安易に近づくことは、「ディグニチー」（威厳）を損ない「媚態」外交の危険があると、\n<a href=\"../p/smamoru.html\">重光</a>は論じた。\nしかし、敵同士であった勝者と敗者が東京で一つの事業を始めようというのに、首脳間の相互理解なしにやっていけるわけがなかった。\n<a href=\"../p/smamoru.html\">重光</a>にとって不幸なことに、<a href=\"../p/macart_d.html\">マッカーサー</a>もまた「重光一元性」を嫌っていた。\n<a href=\"../p/smamoru.html\">重光</a>をバイパスしつつ、九月十三日に<a href=\"../p/kfumimar.html\">近衛</a>が、十五日には<a href=\"../p/hnaruhik.html\">東久邇</a>が、それぞれ<a href=\"../p/macart_d.html\">マッカーサー</a>と会見した。\n会ってみれば、首脳会談を望まないのは<a href=\"../p/smamoru.html\">重光</a>一人であることが明らかであった。</div>\n<div><a href=\"../p/smamoru.html\">重光</a>の外相就任を推進した<a href=\"../p/kfumimar.html\">近衛</a>も<a href=\"../p/kkoici.html\">木戸</a>も今では見放していた。\n九月十五日、<a href=\"../p/smamoru.html\">重光</a>は<a href=\"../p/hnaruhik.html\">東久邇</a>と<a href=\"../p/kfumimar.html\">近衛</a>に対し、内閣全面改造を提案した。\n二日後、首相は<a href=\"../p/kkoici.html\">木戸</a>と相談のうえ、外相に対し単独辞任を要求した。</div>\n<div>【中略】</div>\n<div>孤立無援を悟った<a href=\"../p/smamoru.html\">重光</a>は、素直に辞任した。後任には<a href=\"../p/ysigeru.html\">吉田茂</a>が選ばれた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/im_senry.html\">五百旗頭真 「占領期」</a>\n　Ｐ．６６</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1945.html\">１９４５年</a>\n ＞ <a href=\"#h\">重光外相辞任</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

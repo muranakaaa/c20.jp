@@ -1,0 +1,195 @@
+{
+ "path": "1917/11balfo.html",
+ "type": "article",
+ "title": "バルフォア宣言　／ クリック ２０世紀",
+ "description": null,
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a href=\"#f\">▽▽▽</a><a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1917.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "バルフォア宣言"
+  },
+  {
+   "type": "title2",
+   "html": "1917/11/02"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1907.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1916.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1917.html\">１９１７</a> &gt;&gt;&gt; <a href=\"../20c/1918.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1927.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "イギリスのバルフォア外相が、パレスチナでのユダヤ人国家建設を支持すると宣言した。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/07/28　　<a href=\"../1914/07taise.html\">\nオーストリア、セルビアに宣戦布告</a>　（第一次世界大戦勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/02/03　　<a href\"..=\"\" 19.html\"=\"\">\nトルコ、スエズ運河攻撃</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1915/10/24　　<a href=\"../1915/10husay.html\">\nフサイン・マクマホン協定</a>　（英、参戦の見返りにアラブ王国独立を約束）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/05/09　　<a href\"..=\"\" 19.html\"=\"\">\nサイクス・ピコ条約　（アラブ分割を決めた英仏の秘密条約）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1917/07/06　　<a href\"..=\"\" 19.html\"=\"\">\n「アラビアのロレンス」アラブ反乱軍を率いてアカバ占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1917/11/02　　<a 1917=\"\" href\"..=\"\" 11balfo.html\"=\"\">\nバルフォア宣言</a>　（英、パレスチナでのユダヤ人国家建設を支持）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/08/10　　<a href=\"../1920/08sevre.html\">\nセーブル条約調印</a>　（スルタン政府、連合国と屈辱的講和）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/05/01　　<a href=\"../1921/05hanju.html\">\nパレスチナで反ユダヤ暴動</a>　（～05/06）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/11/01　　<a href\"..=\"\" 19.html\"=\"\">\nオスマン・トルコ滅亡</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "pt"
+   },
+   "html": "\n<div class=\"pt_h\">～　イギリスの思惑　～</div>\n<div class=\"i2\">・ ロスチャイルドなど、金持ちのユダヤ人たちが味方してくれたら有利に戦える</div>\n<div class=\"i2\">・ ユダヤ人たちがドイツやトルコを応援すれば大変なことになる</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_v\">taro's トーク</span>\nクリスマスまでには終わると思っていた戦争が、４度目のクリスマスを迎えようとする頃には、\nもうなりふりかまってなどいられるものではなく、ドイツの方はすでに無制限潜水艦作戦をはじめていたが、\n一方イギリスも、<a href=\"../1915/10husay.html\">アラブとの約束</a>などなかったかのように、ユダヤ資本から戦費を得るため、\n彼らにパレスチナの地を売り渡した。\nここにパレスチナ問題は端を発する。\nその後、この問題は短期間に歴史を重ねすぎて、今や<a href=\"../p/lloyd_g.html\">ロイド・ジョージ</a>やバルフォアをなじる声など聞こえてもこない。\n実際、なじってみてもしかたがないのかもしれない。\n彼らとしては、勝利のために最善を尽くしたにすぎないのだから。\nそれが戦争なのだ。\ntaroはここに戦争の本質をみる。\nさまざまな不幸のタネをまき散らしながら、にもかかわらず、戦争はいまだになくならない。</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div>ああああああああああああああああ</div>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "<a name=\"f\"></a>\n<a href=\"../index.html\">目次</a>\n ＞ <a href=\"../20c/1917.html\">１９１７年</a>\n ＞ <a href=\"#h\">バルフォア宣言</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

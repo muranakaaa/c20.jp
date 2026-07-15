@@ -1,0 +1,262 @@
+{
+ "path": "1905/08c_dom.html",
+ "type": "article",
+ "title": "孫文ら、中国同盟会結成　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1905.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "孫文ら、中国同盟会結成"
+  },
+  {
+   "type": "title2",
+   "html": "1905/08/20"
+  },
+  {
+   "type": "navi2",
+   "html": "\n１０年前 &gt;&gt;&gt; <a href=\"../20c/1904.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1905.html\">１９０５</a> &gt;&gt;&gt; <a href=\"../20c/1906.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1915.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "中国の革命家が東京に大集合、　<a href=\"../p/sonbun.html\">孫文</a>を中心に統一組織を結成。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1895/04/14　　<a href\"..=\"\" 19.html\"=\"\">\n下関条約調印　（日清戦争終結）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1898/05/23　　<a href\"..=\"\" 19.html\"=\"\">\n義和団、排外運動開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1898/06/11　　<a href\"..=\"\" 19.html\"=\"\">\n光緒帝、変法自強宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1898/09/21　　<a href\"..=\"\" 19.html\"=\"\">\n戊戌の政変　（</a><a href=\"../p/seitaigo.html\">西太后</a>実権掌握）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/09/07　　<a href=\"../1901/09giwad.html\">\n義和団事件最終議定書調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/10　　<a href=\"../1904/02jr_wa.html\">\n対露宣戦布告</a>　（<a href=\"../them/jr_war.html\">日露戦争</a>勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/08/20　　<a 1905=\"\" href\"..=\"\" 08c_dom.html\"=\"\">\n孫文ら、中国同盟会結成</a>　（東京）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/09/05　　<a href=\"../1905/09portm.html\">\nポーツマス条約調印</a>　（首席全権：<a href=\"../p/kjutaro.html\">小村寿太郎</a>／<a href=\"../them/jr_war.html\">日露戦争</a>終結）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1910/02/12　　<a href\"..=\"\" 19.html\"=\"\">\n中国革命同盟会、広東で蜂起</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/10/10　　<a href=\"../1911/10singa.html\">\n辛亥革命勃発</a>　（武昌蜂起）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/10/28　　<a href\"..=\"\" 19.html\"=\"\">\n黄興・宋教仁・北一輝ら、上海から武昌に到着</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/11/01　　<a href\"..=\"\" 19.html\"=\"\">\n清国政府、袁世凱を総理大臣に任命</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/12/25　　<a href\"..=\"\" 19.html\"=\"\">\n孫文、上海に到着</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/12/29　　<a href\"..=\"\" 19.html\"=\"\">\n17省代表会議、孫文を中華民国臨時大総統に選出　（南京）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/01/01　　<a href\"..=\"\" 19.html\"=\"\">\n南京臨時政府成立</a>　（臨時大総統：<a href=\"../p/sonbun.html\">孫文</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>日清戦争と義和団事件（一九〇〇年）以後、\n中国では列強帝国主義への屈伏と、官僚の腐敗と<a href=\"../p/seitaigo.html\">西太后</a>の極端な反動政治とで各地に革命の機運が興っていた。\n南部の広東方面では<a href=\"../p/sonbun.html\">孫文</a>のひきいる「興中会」、中南部の湖南地方では黄興のひきいる「華興会」、\n中部の江蘇方面では章炳麟らのひきいる「光復会」などが主な革命党だったが、党員の多くは日本に亡命していた。</div>\n<div>明治三十八年、<a href=\"../p/sonbun.html\">孫文</a>が欧米の旅から日本にきたのを機会にこれら革命団体が合同して成立したのが\n中国革命同盟会で、<a href=\"../p/sonbun.html\">孫文</a>を総理とし、本部を東京におき、機関紙「民報」を発行して革命の宣伝にあたった。\n会の綱領には<a href=\"../p/sonbun.html\">孫文</a>の「三民主義」（民族、民権、民生）を採用し、清朝の打倒、民国の建設を目標にした。\nこの同盟会の成立でシナ革命運動はにわかに活発となり、各地でたびたび挙兵が試みなれるようになった。</div>\n<div class=\"txr\"><a href=\"../text/ms8syowa.html\">松本清張 「昭和史発掘（８）」</a>\n　Ｐ．２４８<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167106388%2Fqid%3D1147086646%2Fsr%3D1-22%2Fref%3Dsr_1_0_22\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>革命には強固な組織と統一した指導がなければならぬ、と人びとが痛感しはじめたとき、\n一九〇五年七月、<a href=\"../p/sonbun.html\">孫文</a>が来日した。\n宮崎滔天のあっせんで<a href=\"../p/sonbun.html\">孫文</a>と黄興の会談が実現し、大同団結は急速に具体化した。\n八月二〇日、中国同盟会の結成大会が非公然におこなわれた。\n出席者三〇〇余人、興中会、華興会系の活動家ばかりでなく、蔡元培（一八六六～一九四〇）・秋瑾（一八七七～一九〇七）ら\n浙江籍の革命派がつくった光復会はじめ、多くの地方的グループをふくみ、\n本土一八省中、参加者がなかったのは当時留学生のいなかった甘粛だけであった。</div>\n<div>大会は<a href=\"../p/sonbun.html\">孫文</a>を同盟会総理に選び、三民主義を具体化した綱領「韃虜（清朝）を駆除し、\n中華を復興し、民国を創立し、地権を平均する」を採択した。\n<a href=\"../p/sonbun.html\">孫文</a>の指導のもとに、ブルジョア民主主義の実現を目的とする革命政党が誕生したのである。</div>\n<div class=\"txr\"><a href=\"../text/os_jinmi.html\">小野信爾 「人民中国への道」</a>\n　Ｐ．８６<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E4%25BA%25BA%25E6%25B0%2591%25E4%25B8%25AD%25E5%259B%25BD%25E3%2581%25B8%25E3%2581%25AE%25E9%2581%2593%2520%2520%2520%2520%25E8%25AC%259B%25E8%25AB%2587%25E7%25A4%25BE%25E7%258F%25BE%25E4%25BB%25A3%25E6%2596%25B0%25E6%259B%25B8%2520455%2520%25E6%2596%25B0%25E6%259B%25B8%25E6%259D%25B1%25E6%25B4%258B%25E5%258F%25B2%25205%2520%25E4%25B8%25AD%25E5%259B%25BD%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2%25205\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1905.html\">１９０５年</a>\n ＞ <a href=\"#h\">孫文ら、中国同盟会結成</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

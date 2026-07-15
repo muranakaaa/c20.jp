@@ -1,0 +1,172 @@
+{
+ "path": "1932/07bonus.html",
+ "type": "article",
+ "title": "ボーナス・マーチ襲撃事件　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1932.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "ボーナス・マーチ襲撃事件"
+  },
+  {
+   "type": "title2",
+   "html": "1932/07/28"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1922.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1931.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1932.html\">１９３２</a> &gt;&gt;&gt; <a href=\"../20c/1933.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1942.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "大恐慌にあえぐ退役軍人たちのデモ隊に、<a href=\"../p/macart_d.html\">マッカーサー参謀総長</a>の軍隊が襲いかかった。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1929/10/24　　<a href=\"../1929/10walls.html\">\n米・ウォール街、株価大暴落</a>　（→世界恐慌）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1930/11/21　　<a href\"..=\"\" 19.html\"=\"\">\nマッカーサー、（米）陸軍参謀総長就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/06/20　　<a href=\"../1931/06hoove.html\">\nフーバー・モラトリアム</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/07/28　　<a 1932=\"\" href\"..=\"\" 07bonus.html\"=\"\">\nボーナス・マーチ襲撃事件</a>　（ワシントン）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/11/08　　<a href=\"../1932/11roose.html\">\nＦ・ルーズベルト、アメリカ大統領選挙でフーバーを破り当選</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/03/04　　<a href=\"../1933/03roose.html\">\nＦ・ルーズベルト、アメリカ大統領就任</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>一九三二年のボーナス・アーミーに対する処置ほど、彼に対する世評を傷つけたものは生涯にない。\n二万人以上の第一次世界大戦の退役軍人やその家族がワシントンに集まり、\n議会に対し軍務補償債権の即時支払いを要請したのである。\n共産主義革命家たちによって扇動された群衆だという確信のもと、<a href=\"../p/macart_d.html\">マッカーサー</a>は、\n退役軍人たちにキャンプ地退去を求めた<a href=\"../p/hoover_h.html\">ハーバート・フーバー大統領</a>命令を、無鉄砲かつ野蛮に解釈した。\n<a href=\"../p/macart_d.html\">マッカーサー</a>の命令で、サーベルを抜いた騎兵隊と六輌の戦車、歩兵隊が平和的なデモ隊を蹴ちらしたのである。</div>\n<div class=\"txr\"><a href=\"../text/hs_senry.html\">ハワード・Ｂ・ショーンバーガー 「占領　1945～1952」</a>\n　Ｐ．５６<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%258D%25A0%25E9%25A0%25981945%257E1952%25E2%2580%2595%25E6%2588%25A6%25E5%25BE%258C%25E6%2597%25A5%25E6%259C%25AC%25E3%2582%2592%25E3%2581%25A4%25E3%2581%258F%25E3%2582%258A%25E3%2581%2582%25E3%2581%2592%25E3%2581%259F8%25E4%25BA%25BA%25E3%2581%25AE%25E3%2582%25A2%25E3%2583%25A1%25E3%2583%25AA%25E3%2582%25AB%25E4%25BA%25BA\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>一九三〇年の秋、国際リンゴ輸出協会は、余剰リンゴを街頭で売ることを始めた。\n一個五セントだが失業者には貸売りするのだった。\nその年の十一月、六千名のリンゴ売りがニューヨークの歩道に姿を現わした。\nこのリンゴ売りをやった人たちのなかには、多くの第一次大戦の復員兵士たちがいた。\n彼らは、こういうさいだから、毎年支給される手当をくり上げて一時に支給してもらいたい、と要求した。</div>\n<div><a href=\"../p/hoover_h.html\">フーヴァー大統領</a>がこれを拒否したので、一九三二年の春から夏にかけて、\nボーナス・アーミイと称される約一万一千の復員軍人およびその家族が首都ワシントンに向かって行進をおこない、\n公園などに仮小屋をつくって住みつき、議会に対してデモをおこなった。\n<a href=\"../p/hoover_h.html\">フーヴァー大統領</a>はやっと一〇万ドルを議会から獲得して、彼らにあたえた。\n六千名の人はこれでワシントンを去ったが、あとの者は居残った。\n居残った者のうち実際に復員軍人なのは三分の一ぐらいで、あとは共産主義者だと政府は発表している。\n七月二十八日、彼らを退散させようとする警官隊と衝突、二名が死に、二名が負傷した。\n<a href=\"../p/hoover_h.html\">フーヴァー大統領</a>は、<a href=\"../p/macart_d.html\">マッカーサー将軍</a>に出動を命じた。\n騎兵隊は復員軍人の密集に襲いかかり、歩兵隊は催涙ガスを使って、彼らを完全にワシントンから追いはらった。\n死者は出なかったが負傷者は数多かった。</div>\n<div class=\"txr\"><a href=\"../text/mo_sek15.html\">村瀬興雄 「世界の歴史（15）」</a>\n　Ｐ．９３<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4122002281%2Fqid%3D1146490541%2Fsr%3D1-3%2Fref%3Dsr_1_10_3\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1932.html\">１９３２年</a>\n ＞ <a href=\"#h\">ボーナス・マーチ襲撃事件</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

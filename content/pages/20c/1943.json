@@ -1,0 +1,639 @@
+{
+ "path": "20c/1943.html",
+ "type": "year",
+ "title": "１９４３年　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９４３年"
+  },
+  {
+   "type": "title2",
+   "html": "昭和１８年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"1933.html\">１０年前</a> &gt;&gt;&gt; <a href=\"1942.html\">前年</a> &gt;&gt;&gt; <span class=\"now\">１９４３</span> &gt;&gt;&gt; <a href=\"1944.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"#s4\">撃ちてし止まむ　　玉砕　　勤労動員</a>",
+    "<a href=\"../1941/tojo_1.html\">東條内閣</a>"
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"1942.html#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/01/01　　<a href=\"../1943/01nakan.html\">\n朝日新聞、中野正剛「戦時宰相論」を掲載</a>　（<a href=\"../p/thideki.html\">東條首相</a>批判で発禁）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/01/13　　<a href\"..=\"\" 19.html\"=\"\">\n英米楽曲約1000種の演奏（レコードを含む）を禁止</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/01/14　　<a href=\"../1943/01casab.html\">\nカサブランカ会談</a>　（～01/25）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/02/01　　<a href=\"../1943/02guada.html\">\nガダルカナル島撤退開始</a>　（02/07 撤退完了）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/02/02　　<a href=\"../1943/02stali.html\">\nスターリングラードのドイツ第６軍、全軍降伏</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/02/04　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/hsenjuro.html\">\n林銑十郎</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/02/23　　<a href\"..=\"\" 19.html\"=\"\">\n陸軍省、決戦標語「撃ちてし止まむ」のポスター５万枚配布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/03/22　　<a href\"..=\"\" 19.html\"=\"\">\n新美南吉没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/03/25　　<a href=\"../1943/03sugat.html\">\n映画「姿三四郎」封切</a>　（<a href=\"../p/kakira.html\">黒沢明</a>第一回監督作品）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/03/25　　<a href\"..=\"\" 19.html\"=\"\">\n菊池寛、大日本映画㈱（大映）社長就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/03/27　　<a href\"..=\"\" 19.html\"=\"\">\n㈱帝国銀行設立　（三井銀行・第一銀行の合併／48/09/29 分離）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/04/13　　<a href\"..=\"\" 19.html\"=\"\">\nベルリン放送、カチン虐殺事件を発表</a>　（遺体4000以上発見）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/04/18　　<a href=\"../1943/04kojik.html\">\n海軍甲事件</a>　（連合艦隊司令長官<a href=\"../p/yisoroku.html\">山本五十六</a>戦死）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/04/19　　<a href\"..=\"\" 19.html\"=\"\">\nユダヤ人の反ファシズム武装蜂起　（～05/19／ワルシャワ・ゲットー）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/04/20　　<a href=\"../1943/tojo_2.html\">\n東條内閣改造①</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/04/26　　<a href\"..=\"\" 19.html\"=\"\">\nソ連・ポーランド断交　（カチン虐殺事件）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/05/11　　<a href\"..=\"\" 19.html\"=\"\">\n火野葦平「陸軍」連載開始　（朝日新聞）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/05/18　　<a href\"..=\"\" 19.html\"=\"\">\n日本美術報国会設立　（会長：横山大観）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/05/29　　<a href=\"../1943/05attug.html\">\nアッツ島守備隊玉砕</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/06/01　　<a href=\"../1943/06syowa.html\">\n東京昭和通の植樹地帯を畑に</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/06/01　　<a href\"..=\"\" 19.html\"=\"\">\n東京都制公布　（07/01 施行）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/06/04　　<a href\"..=\"\" 19.html\"=\"\">\n戦時衣生活簡素化実施要綱を閣議決定　（600余種の製作を禁止）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/06/05　　<a href=\"../1943/06yamam.html\">\n山本五十六元帥国葬</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/06/20　　<a href\"..=\"\" 19.html\"=\"\">\n戸田城聖ら創価教育学会幹部を検挙</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/07/01　　<a href\"..=\"\" 19.html\"=\"\">\n経済市況の放送中止</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/07/10　　<a href=\"../1943/07sicil.html\">\n連合軍、シシリー島上陸</a>　（ハスキー作戦）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/07/25　　<a href=\"../1943/07musso.html\">\nムッソリーニ逮捕</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/07/25　　<a href\"..=\"\" 19.html\"=\"\">\nバドリオ政権成立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/07/29　　<a href\"..=\"\" 19.html\"=\"\">\n映画「花咲く港」封切　（木下恵介第一回監督作品）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/08/01　　<a href\"..=\"\" 19.html\"=\"\">\n朝鮮に徴兵制施行</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/08/01　　<a href\"..=\"\" 19.html\"=\"\">\nバー・モ政権、ビルマ独立宣言　（米英に宣戦布告）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/08/22　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/stoson.html\">\n島崎藤村</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/09/04　　<a href=\"../1943/09uenod.html\">\n上野動物園、猛獣を薬殺　（供養式挙行）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/09/08　　<a href=\"../1943/09i_kof.html\">\nイタリア、無条件降伏</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/09/10　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ軍、ローマ占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/09/12　　<a href=\"../1943/09musso.html\">\nドイツ軍特殊部隊、ムッソリーニ救出</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/09/15　　<a href=\"../1943/09jd_se.html\">\n日独共同宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/09/15　　<a href\"..=\"\" 19.html\"=\"\">\nファシスト共和政府樹立</a>　（首相：<a href=\"../p/mussol_b.html\">ムッソリーニ</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/09/23　　<a href\"..=\"\" 19.html\"=\"\">\n国内必勝勤労対策を閣議決定　（17職種の男子就業禁止など）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/09/28　　<a href\"..=\"\" 19.html\"=\"\">\n官庁の地方疎開方針を閣議決定</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"1944.html#s1\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/10/11　　<a href\"..=\"\" 19.html\"=\"\">\n夕刊の日付、発行日に変更</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/10/14　　<a href\"..=\"\" 19.html\"=\"\">\nフィリピン共和国独立宣言　（大統領：ラウレル）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/10/21　　<a href=\"../1943/10gakut.html\">\n出陣学徒壮行大会</a>　（神宮外苑競技場）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/10/21　　<a href=\"../1943/10nakan.html\">\n中野正剛逮捕</a>　（倒閣容疑／10/26 自殺）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/10/21　　<a href=\"../1943/10india.html\">\nチャンドラ・ボース、自由インド仮政府樹立</a>　（シンガポール）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/10/28　　<a href\"..=\"\" 19.html\"=\"\">\n映画「無法松の一生」封切　（主演：阪東妻三郎）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/11/01　　<a href=\"../1943/11heiek.html\">\n兵役法改正</a>　（兵役を45歳まで延長）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/11/05　　<a href=\"../1943/11daito.html\">\n大東亜会議開催</a>　（11/06 共同声明発表）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/11/22　　<a href=\"../1943/11cairk.html\">\nカイロ会談</a>　（～11/26）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/11/27　　<a href=\"../1943/11cairs.html\">\nカイロ宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/11/28　　<a href=\"../1943/11teher.html\">\nテヘラン会談</a>　（～12/01）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1941/tojo_1.html\">東條内閣</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">撃ちてし止まむ　　玉砕　　勤労動員</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「海軍」　「司馬遷」　「巴里に死す」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">「無法松の一生」　「姿三四郎」</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">前線に送る夕べ</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">勘太郎月夜唄</td></tr>\n</tbody>"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"#h\">１９４３年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

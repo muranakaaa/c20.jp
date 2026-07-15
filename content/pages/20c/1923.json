@@ -1,0 +1,529 @@
+{
+ "path": "20c/1923.html",
+ "type": "year",
+ "title": "１９２３年　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９２３年"
+  },
+  {
+   "type": "title2",
+   "html": "大正１２年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"1913.html\">１０年前</a> &gt;&gt;&gt; <a href=\"1922.html\">前年</a> &gt;&gt;&gt; <span class=\"now\">１９２３</span> &gt;&gt;&gt; <a href=\"1924.html\">翌年</a> &gt;&gt;&gt; <a href=\"1933.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"#s4\">この際だから　　戒厳令　　流言飛語</a>",
+    "<a href=\"../1922/katoa_1.html\">加藤（友）</a> → <a href=\"../1923/yamm2_1.html\">山本内閣②</a>"
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"1922.html#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/01/11　　<a href=\"../1923/01ruhrs.html\">\nフランス・ベルギー、ルール占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/01/26　　<a href=\"../1923/01sonbu.html\">\n孫文・ヨッフェ共同宣言</a>　（上海）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/02/10　　<a href\"..=\"\" 19.html\"=\"\">\n全日本スキー選手権大会①開催　（小樽）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/02/11　　<a href\"..=\"\" 19.html\"=\"\">\nレントゲン没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/03/30　　<a href\"..=\"\" 19.html\"=\"\">\n工場法改正　（適用：15歳未満→16歳未満／雇用者の責任を加重）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/04/22　　<a href\"..=\"\" 19.html\"=\"\">\n自動車大競走大会開催　（自動車保護協会主催／洲崎埋立地）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/06/05　　<a href\"..=\"\" 19.html\"=\"\">\n共産党事件①</a>　（<a href=\"../p/stosihik.html\">堺利彦</a>ら検挙）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/06/09　　<a href\"..=\"\" 19.html\"=\"\">\n有島武郎、婦人公論記者と心中　（07/07 遺体発見）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/07/10　　<a href\"..=\"\" 19.html\"=\"\">\n日本航空㈱設立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/08/02　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/hardin_w.html\">\nハーディング</a>没　（アメリカ大統領）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/08/02　　<a href\"..=\"\" 19.html\"=\"\">\n副大統領クーリッジ、アメリカ大統領就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/08/25　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/ktomosab.html\">\n加藤友三郎</a>没　（首相）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/08/25　　<a href=\"../1923/katoa_9.html\">\n加藤（友）内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/08/28　　<a href\"..=\"\" 19.html\"=\"\">\n山本権兵衛に組閣命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/01　　<a href=\"../1923/09sinsa.html\">\n関東大震災</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/02　　<a href\"..=\"\" 19.html\"=\"\">\n東京に戒厳令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/02　　<a href=\"../1923/yamm2_1.html\">\n山本内閣②成立</a>　（首相：<a href=\"../p/ygonnohy.html\">山本権兵衛</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/02　　<a href\"..=\"\" 19.html\"=\"\">\n朴烈・金子文子夫妻逮捕</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/03　　<a href\"..=\"\" 19.html\"=\"\">\n戒厳司令官に福田雅太郎を任命</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/03　　<a href\"..=\"\" 19.html\"=\"\">\n国鉄、避難地までの無賃乗車を許可　（～09/30）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/04　　<a href\"..=\"\" 19.html\"=\"\">\n亀戸事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/07　　<a href\"..=\"\" 19.html\"=\"\">\n支払猶予令</a>　（09/01から30日間のモラトリアム／蔵相：<a href=\"../p/ijunnosu.html\">井上準之助</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/07　　<a href\"..=\"\" 19.html\"=\"\">\n東京市内の夜間通行禁止</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/12　　<a href=\"../1923/09fukko.html\">\n帝都復興に関する詔書</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/13　　<a href\"..=\"\" 19.html\"=\"\">\nソ連救援船レーニン号、横浜入港　（→退去命令）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/16　　<a href=\"../1923/09amaka.html\">\n甘粕事件</a>　（犯人：<a href=\"../p/amasahik.html\">甘粕正彦</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/20　　<a href\"..=\"\" 19.html\"=\"\">\n福田戒厳司令官辞任</a>　（<a href=\"../1923/09amaka.html\">甘粕事件</a>のため／後任：<a href=\"../p/yhanzo.html\">山梨半造</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/27　　<a href\"..=\"\" 19.html\"=\"\">\n日銀震災手形割引損失補償令公布</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"1924.html#s1\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/10/23　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ共産党、ハンブルクで武装蜂起　（10/25 鎮圧）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/10/27　　<a href\"..=\"\" 19.html\"=\"\">\n東京株式取引所再開</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/10/28　　<a href\"..=\"\" 19.html\"=\"\">\n東海道本線全線復旧</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/10/29　　<a href\"..=\"\" 19.html\"=\"\">\nトルコ、共和国宣言</a>　（大統領：<a href=\"../p/kemal_m.html\">ムスタファ・ケマル</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/11/08　　<a href=\"../1923/11munch.html\">\nヒトラー、ミュンヘン一揆失敗</a>　（11/09 逮捕）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/11/10　　<a href\"..=\"\" 19.html\"=\"\">\n国民精神作興に関する詔書</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/11/14　　<a href\"..=\"\" 19.html\"=\"\">\nイタリア議会、ムッソリーニの選挙法改正案可決</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/11/15　　<a href=\"../1923/11rente.html\">\nドイツ、レンテンマルク発行開始</a>　（→インフレ収束）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/11/24　　<a href\"..=\"\" 19.html\"=\"\">\n帝都復興審議会①開催</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/11/25　　<a href\"..=\"\" 19.html\"=\"\">\n漫画「のんきな父さん」連載開始　（報知新聞）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/12/27　　<a href=\"../1923/12toran.html\">\n虎の門事件</a>　（摂政宮襲撃／犯人：難波大助）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/12/29　　<a href=\"../1923/yamm2_9.html\">\n山本内閣②総辞職</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1922/katoa_1.html\">加藤（友）</a> → <a href=\"../1923/yamm2_1.html\">山本内閣②</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">この際だから　　戒厳令　　流言飛語</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「文藝春秋」　「青猫」　「青銅の基督」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">「狼の群」　「母」</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">―</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">船頭小唄</td></tr>\n</tbody>"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"#h\">１９２３年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

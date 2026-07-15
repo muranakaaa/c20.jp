@@ -1,0 +1,194 @@
+{
+ "path": "1913/06balk2.html",
+ "type": "article",
+ "title": "バルカン戦争②勃発　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1913.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "バルカン戦争②勃発"
+  },
+  {
+   "type": "title2",
+   "html": "1913/06/29"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1903.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1912.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1913.html\">１９１３</a> &gt;&gt;&gt; <a href=\"../20c/1914.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1923.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "モザイクの悲劇。　何度戦争を繰り返しても、民族統一の心は満たされない。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1908/10/06　　<a href\"..=\"\" 19.html\"=\"\">\nオーストリア、ボスニア・ヘルツェゴビナ併合を宣言　（ボスニア危機）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/09/29　　<a href=\"../1911/09tripo.html\">\nトリポリ戦争勃発</a>　（～12/10/18）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1912/10/17　　<a href=\"../1912/10balk1.html\">\nバルカン戦争①勃発</a>　（～13/05/30）"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/06/29　　<a 1913=\"\" href\"..=\"\" 06balk2.html\"=\"\">\nバルカン戦争②勃発</a>　（～13/07/30）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1913/07/20　　<a href\"..=\"\" 19.html\"=\"\">\nトルコ、アドリアノープル占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/06/28　　<a href=\"../1914/06saraj.html\">\nサラエボ事件</a>　（オーストリア皇太子夫妻暗殺）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/07/05　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ、オーストリアの対セルビア強硬策支持を約束</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/07/28　　<a href=\"../1914/07taise.html\">\nオーストリア、セルビアに宣戦布告</a>　（第一次世界大戦勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/08/04　　<a href\"..=\"\" 19.html\"=\"\">\nイギリス、ドイツに宣戦布告</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>バルカン諸国の関心はもっぱら、オスマン帝国が撤退し権力の真空地帯となったマケドニアに向けられる。\nマケドニアをめぐってはブルガリア、セルビア、ギリシア三国の領土的要求が衝突した。</div>\n<div>一九一三年六月、ブルガリアがセルビア、ギリシア両国を攻撃することによって、\n第二次バルカン戦争が始められた。\nそれぞれの利害関係から、モンテネグロ、ルーマニア、オスマン帝国がセルビアとギリシアの側に立って参戦した。\nひと月もたたないうちに、ブルガリアの敗北が明白となる。\n同年八月にはブカレスト条約が結ばれて、この地域の再分割がおこなわれた。</div>\n<div>敗戦国ブルガリアはエディルネと東トラキアの一部をオスマン帝国に、\n黒海に面した南ドブロジャをルーマニアに、マケドニアの大部分をギリシアとセルビアに割譲しなければならなかった。\n一方、セルビアはボスニア・ヘルツェゴヴィナからコソヴォにいたる回廊地帯のサンジャクをモンテネグロと分割し、コソヴォを獲得した。\nギリシアは東エーゲ海の島嶼部を領有した。</div>\n<div>しかし、バルカン戦争を通じて、バルカン諸国はそれぞれに領土的不満を残すことになり、\n対立関係をいっそう強めた。</div>\n<div class=\"txr\"><a href=\"../text/ks_nse26.html\">木村靖二・柴宜弘・長沼秀世 「世界の歴史（26）」</a>\n　Ｐ．２８<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E4%25B8%2596%25E7%2595%258C%25E5%25A4%25A7%25E6%2588%25A6%25E3%2581%25A8%25E7%258F%25BE%25E4%25BB%25A3%25E6%2596%2587%25E5%258C%2596%25E3%2581%25AE%25E9%2596%258B%25E5%25B9%2595%2520%2520%2520%2520%25E4%25B8%2596%25E7%2595%258C%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1913.html\">１９１３年</a>\n ＞ <a href=\"#h\">バルカン戦争②勃発</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

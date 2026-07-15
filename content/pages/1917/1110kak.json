@@ -1,0 +1,233 @@
+{
+ "path": "1917/1110kak.html",
+ "type": "article",
+ "title": "十月革命　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1917.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "十月革命"
+  },
+  {
+   "type": "title2",
+   "html": "1917/11/07"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1907.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1916.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1917.html\">１９１７</a> &gt;&gt;&gt; <a href=\"../20c/1918.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1927.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "“パンと平和” を求める人々が会議（ソビエト）に結集、社会主義の国を打ち立てた。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1914/07/28　　<a href=\"../1914/07taise.html\">\nオーストリア、セルビアに宣戦布告</a>　（第一次世界大戦勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1917/03/15　　<a href=\"../1917/032kaku.html\">\n二月革命</a>　（皇帝<a href=\"../p/nikolai2.html\">ニコライ２世</a>退位、ロマノフ朝滅亡）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1917/04/16　　<a href\"..=\"\" 19.html\"=\"\">\nレーニン、亡命先スイスからペトログラードに帰還</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1917/04/20　　<a href=\"../1917/044teze.html\">\nレーニン、プラウダに「４月テーゼ」を発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1917/11/07　　<a 1917=\"\" href\"..=\"\" 1110kak.html\"=\"\">\n十月革命</a>　（ソビエト政権成立）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1917/12/22　　<a href\"..=\"\" 19.html\"=\"\">\nソビエト政府、ドイツ・オーストリアと講和交渉開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/03/03　　<a href\"..=\"\" 19.html\"=\"\">\nブレストリトフスク条約調印　（ソビエト政府、独墺と講和）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/04/05　　<a href\"..=\"\" 19.html\"=\"\">\n日英両軍、ウラジオストックに上陸開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/08/02　　<a href=\"../1918/08siber.html\">\nシベリア出兵宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/11/09　　<a href=\"../1918/11d_kak.html\">\nドイツ革命</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/11/11　　<a href=\"../1918/11taise.html\">\n第一次世界大戦終結</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/12/30　　<a href=\"../1922/12s_sei.html\">\nソ連邦成立</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>二十五日、ネヴァ川沿いにあるスモーリヌイ女学校の建物に拠点を築いた軍事革命委員会は、\n<a href=\"../p/kerens_a.html\">ケレンスキー首相</a>が執務に使っていた冬宮と「予備議会」が開かれていたマリア宮殿周辺を除く、すべての拠点を制圧した。\n午前十時、軍事革命委員会は臨時政府が打倒され、国家権力を掌握したとの声明を出した。\n午後一時、ついにマリア宮殿が包囲され、「予備議会」は解散させられた。\n臨時政府の閣僚は冬宮にこもっていたが、二十六日未明にはここも襲撃され、大臣たちは逮捕された。\n<a href=\"../p/kerens_a.html\">ケレンスキー</a>は二十五日のうちに、女装して市外に逃亡した。</div>\n<div>一方、二十五日夜には、スモーリヌイで第二回全ロシア労働者・兵士ソヴィエト大会が開催された。\n革命に反対するメンシェヴィキと社会革命党右派は大会から退場した。\nボルシェヴィキが圧倒的多数を占め、このほかに、都市の知識人層を中心とした社会革命党左派やウクライナ社会民主党などが残った。\nこの大会は二十六日朝まで続けられ、ソヴィエト権力の樹立を宣言したあと、この日の夜に再開された。\nここで採択されたのが、人びとの強い願望の表現でもある「平和に関する布告」と地主による土地所有を廃止する「土地に関する布告」である。</div>\n<div>このあと、政府の構成に関して、社会革命党左派は入閣を拒否したため、ボリシェヴィキの単独政権が作られる。\n憲法制定会議が招集させるまでの暫定政府である人民委員会会議が成立した。\n大臣職は人民委員と称された。\n議長は<a href=\"../p/lenin_n.html\">レーニン</a>が、外務人民委員には<a href=\"../p/trotsk_l.html\">トロツキー</a>が、民族問題人民委員には<a href=\"../p/stalin.html\">スターリン</a>が就任した。\nボリシェヴィキ以外の勢力はすべての社会主義党派からなる政府を主張したが、ボリシェヴィキは数でこれを押し切ってしまった。</div>\n<div>このように、十月革命には、<a href=\"../1917/032kaku.html\">二月革命</a>時に街頭にあふれた数十万にもおよぶ労働者や兵士の熱狂した姿はみられない。\n十月革命は、反議会主義・反自由主義の立場をとるボリシェヴィキが設置した軍事革命委員会による武装蜂起であり、\n事実上のクーデタだったのである。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ks_nse26.html\">木村靖二・柴宜弘・長沼秀世 「世界の歴史（26）」</a>\n　Ｐ．１１１</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1917.html\">１９１７年</a>\n ＞ <a href=\"#h\">十月革命</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

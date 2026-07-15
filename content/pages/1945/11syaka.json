@@ -1,0 +1,303 @@
+{
+ "path": "1945/11syaka.html",
+ "type": "article",
+ "title": "日本社会党結成　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1945.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "日本社会党結成"
+  },
+  {
+   "type": "title2",
+   "html": "1945/11/02"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1935.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1944.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1945.html\">１９４５</a> &gt;&gt;&gt; <a href=\"../20c/1946.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "あの分裂の歴史を繰り返すな。　旧無産諸政党が大集合、みんなで仲よくがんばろう！"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/08/15　　<a href=\"../1940/08minse.html\">\n民政党解党　（以後無政党状態）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/10/12　　<a href=\"../1940/10yokus.html\">\n大政翼賛会発足</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/15　　<a href=\"../1945/08gyoku.html\">\n玉音放送　（終戦の詔勅）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/29　　<a href=\"../1945/09syasi.html\">\n新聞各紙、天皇のマッカーサー訪問写真を掲載</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/10/04　　<a href=\"../1945/10jiyus.html\">\nＧＨＱ、「自由主義化」を指令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/10/10　　<a href\"..=\"\" 19.html\"=\"\">\n徳田球一ら政治犯約500人釈放</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/10/11　　<a href=\"../1945/10macar.html\">\nマッカーサー、幣原首相に憲法改正と５大改革を要求</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/11/02　　<a 1945=\"\" href\"..=\"\" 11syaka.html\"=\"\">\n日本社会党結成</a>　（書記長：<a href=\"../p/ktetu.html\">片山哲</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/11/09　　<a href=\"../1945/11jiyut.html\">\n日本自由党結成</a>　（総裁：<a href=\"../p/hiciro.html\">鳩山一郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/11/16　　<a href=\"../1945/11sinpo.html\">\n日本進歩党結成</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/12/01　　<a href\"..=\"\" 19.html\"=\"\">\n徳田球一、共産党書記長就任</a>　（共産党再建大会）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/12/17　　<a href=\"../1945/12senky.html\">\n選挙法改正</a>　（婦人参政権など）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/01/04　　<a href=\"../1946/01tuiho.html\">\nＧＨＱ、軍国主義者の公職追放などを指令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/03/06　　<a href=\"../1946/03kenpo.html\">\n政府、憲法改正草案要項を発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/04/10　　<a href\"..=\"\" 19.html\"=\"\">\n総選挙[22]　（自由141、進歩94、社会93、協同14、共産5、他119）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/04/19　　<a href=\"../1946/04datoi.html\">\n幣原内閣打倒共同委員会結成</a>　（自由・社会・協同・共産の４党）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/04/22　　<a href=\"../1946/side_9.html\">\n幣原内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/19　　<a href=\"../1946/05mayda.html\">\n食糧メーデー　（飯米獲得人民大会開催）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/22　　<a href=\"../1946/yosi1_1.html\">\n吉田内閣①成立</a>　（首相：<a href=\"../p/ysigeru.html\">吉田茂</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>八月十五日、<a href=\"../1945/08gyoku.html\">玉音放送</a>を大阪市内の銀行において聞いた<a href=\"../p/nsuehiro.html\">西尾末広</a>は、その日のうちに京阪電車に乗り、\n京都に水谷長三郎を訪ね、上京を約した。\n十七日の夜行で上京した<a href=\"../p/nsuehiro.html\">西尾</a>は、松岡駒吉を訪ねて労働組合の再建を説き、平野力三と社会主義政党の結成を語った。\n後に社会党右派を構成する社会民衆党系が、早い動きを示したのであった。</div>\n<div>二十四日には徳川義親邸に旧無産政党各派のリーダー十数名が集まった。\n「どうせアメリカに没収される皇室財産」を侯に引き出させて、平和研究所を作るとか、侯を党首にかつぐとかの計画があったようである。\n翌二十五日には、平野の仲介で新党構想中の<a href=\"../p/hiciro.html\">鳩山一郎</a>を中心とするグループと銀座の交詢社で会った。\n<a href=\"../p/hiciro.html\">鳩山</a>グループは共同して新党を作ろうと説いた。\n<a href=\"../p/nsuehiro.html\">西尾</a>の返答は「われわれ指導者同士は、大人だから大局的に考えてあるいは協調できるかも知れないが、\nお互いの背後にいる多勢のものを同調させることは、なかなか困難であると思う」であった。\n<a href=\"../p/hiciro.html\">鳩山</a>は「育ちが違うから」と笑って同意し、「政治的余韻を残したままで別れた」。\n「余韻」とは、別個に歩むが、折あれば提携・協力の可能性も空けておこうとの意味合いである。</div>\n<div>伊藤隆教授が指摘するように、のちの保革対立的イメージでこの時期の社会主義政党をとらえてはならないであろう。\n少なくとも右派の<a href=\"../p/nsuehiro.html\">西尾</a>らにとって、自由党を作りつつある人たちとの距離は、\n左派の日本無産党系の加藤勘十や鈴木茂三郎らと比べても、遠いものではなかった。\nとはいえ、社会主義政党を作る以上、バラバラでは支持層を失望させることになるので、日無系も、\nそして日本労農党系の川上丈太郎、三輪寿壮、河野密、三宅正一、浅沼稲次郎らも糾合し、大同することとした。\n他方、共産党は除外することになった。</div>\n<div>かくて、十一月二日、日比谷公会堂において代議士一七名を擁する社会党結成式が、たいへんな盛り上がりのなかで挙行された。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/im_senry.html\">五百旗頭真 「占領期」</a>\n　Ｐ．２３１</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1945.html\">１９４５年</a>\n ＞ <a href=\"#h\">日本社会党結成</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

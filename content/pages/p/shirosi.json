@@ -1,0 +1,347 @@
+{
+ "path": "p/shirosi.html",
+ "type": "person",
+ "title": "斉藤 博　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "p.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\"><span class=\"now\">人物</span></a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "斉藤 博"
+  },
+  {
+   "type": "title2",
+   "html": "1886 － 1939"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "name"
+   },
+   "html": "\n[ さいとう・ひろし ]"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "prof"
+   },
+   "html": "\n駐米大使、外務省情報局長、オランダ公使、ワシントン・ロンドン両軍縮会議全権随員"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"03s.html\">一覧　（サ）</a></td><td class=\"lt\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%2596%2589%25E8%2597%25A4%2520%25E5%258D%259A\" target=\"_blank\">本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_r\">エピソード 1</span>調査中。"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　新潟県出身。東大法科卒業後、外務省入省。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　大使館書記官、総領事として米英に駐在。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　ワシントン・ロンドン両軍縮会議全権随員などを経て、外務省情報部長に就任。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　イギリス大使館参事官、オランダ公使のあと、アメリカ大使。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　パネー号事件では、政府の訓令を待つことなく謝罪放送を行い、日米の危機を救う。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　日米関係改善に尽力するも、道半ば、任地で病死。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/11/12　　<a href=\"../1921/11washi.html\">\nワシントン軍縮会議開催</a>　（主席全権：<a href=\"../p/ktomosab.html\">加藤友三郎</a>／～22/02/06）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/12/13　　<a href=\"../1921/124koku.html\">\n四ヵ国条約調印　（日英同盟廃棄）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/02/06　　<a href=\"../1922/029koku.html\">\n九ヵ国条約調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/02/06　　<a href=\"../1922/02washi.html\">\nワシントン海軍軍縮条約調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1930/01/21　　<a href=\"../1930/01londo.html\">\nロンドン海軍軍縮会議開催</a>　（主席全権：<a href=\"../p/wreijiro.html\">若槻礼次郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1930/04/22　　<a href=\"../1930/04londo.html\">\nロンドン海軍軍縮条約調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1930/04/25　　<a href=\"../1930/04tosui.html\">\n統帥権干犯問題</a>　（<a href=\"../p/ituyosi.html\">犬養毅</a>、<a href=\"../p/hiciro.html\">鳩山一郎</a>が追及）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/09/18　　<a href=\"../1931/09ryujo.html\">\n柳条湖事件</a>　（満州事変勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/05/15　　<a href=\"../1932/05515ji.html\">\n五・一五事件</a>　（<a href=\"../p/ituyosi.html\">犬養首相</a>暗殺）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/03/28　　<a href=\"../1933/03datta.html\">\n日本、国際連盟脱退</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/02/26　　<a href=\"../1936/02226ji.html\">\n二・二六事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/07/07　　<a href=\"../1937/07rokok.html\">\n盧溝橋事件</a>　（日中戦争勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/12/12　　<a href\"..=\"\" 19.html\"=\"\">\nパネー号事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/12/12　　<a href\"..=\"\" 19.html\"=\"\">\nレディバード号事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/12/13　　<a href\"..=\"\" 19.html\"=\"\">\n南京占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/12/13　　<a href=\"../1937/12gyaku.html\">\n南京虐殺事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/01/16　　<a href=\"../1938/01kono1.html\">\n近衛声明①　（国民政府を相手にせず）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/12/08　　<a href=\"../1941/12hawai.html\">\nハワイ奇襲攻撃</a>　（AM03：25／太平洋戦争勃発）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>まことに地味でこの世の富とは何の縁故も持たなかった（また持とうとしなかった）\nしかし語学の才能と学識に関しては図抜けていた英学者斎藤祥三郎を父とする彼は\n「外務省はじまって以来の語学の名手」と言われ「外交工作の稀才」「日本の外交には斎藤以後に斎藤なし」\n（新潟日報一九七四、二、二四、共同通信社社長福島慎太郎）と言われて、\n四十歳半ばの若さでロンドンの世界経済会議の日本代表次いで最重要職の駐米大使にと進んだものの、\n東京の自宅はてらいのみじんもない粗末手ぜまのままにのこして何ら頓着しなかった。\n外交官は<span class=\"bar\">―</span>―とくに上級外交官は<span class=\"bar\">―</span>―名門家柄を背に\nあるていどの富を持たずにはつとまらぬと一般に信じられていた「原則」とは別のところで、\n彼は才能と思考力と驚くべき不断の勉強と「大胆不敵な開けっぱなしの魅力」（のちに筆者に語った\n<a href=\"../p/roosev_f.html\">ローズヴェルト</a>夫人の言葉）とを富とし、まっしぐらに要職への最短距離を突走ったのである。</div>\n<div>彼はおそろしく官吏らしくない官吏であった。\n灰をそこらじゅうに振り落すのもかまわず、いつも葉巻か紙巻煙草を口の片一方にぶらさげて、\n新潟長岡の出身と言うのにいなせな江戸弁をあやつって相手がたれであろうと誠実且つ単刀直入に語った。\n官僚的保身術のとみこうみは微塵もなく、有名なエピソードとしてのこるひとつは、\nパネー号事件（昭和十二年十二月十二日、米国旗を明らかにかかげて中国の南京上流六マイル地点《視界良好》に\n碇泊ちゅうのアメリカ砲艦パネー号を日本海軍航空隊が爆撃し沈没させた大事件で日米関係は極度に緊張した。\nパネー号は日本軍の南京攻略前後、南京在のアメリカ人保護のためそこにいたのである）のさい、\n独断ですぐさまアメリカのラジオの、スポンサーつき番組の時間を買い取ったことである。\n自分で出演して広くアメリカ国民に直接に呼びかけ真情溢れるまっ正直な謝罪をした。\nこれにはさすが開けっぴろげのアメリカ人すら驚いたくらいであったから、\n日本の政府としきたり・面子にしばられ切った外務省がどれほど仰天したかは容易に察することが出来る。\n「大胆不敵な開けっぱなしの魅力」とエレノア・ローズヴェルトにいついつまでも言わせた面目が\n躍如としてこの挿話にあらわれている。\nいや、エレノアだけではなかった。\n日本が世界じゅうの爪はじきとなっていた、しかも対日感情の日ごとに険しくなっていたあの時代のアメリカで、\n彼ほどすべてのアメリカ人に<span class=\"bar\">―</span>―上は<a href=\"../p/roosev_f.html\">大統領</a>・<a href=\"../p/hull_c.html\">国務長官</a>から下はホテルのボーイに至るまで、\nあるいは意地の悪いアメリカ人記者連中をも含めて<span class=\"bar\">―</span>―愛された日本人は他にいなかったのである。\n保身・出世に一顧を与えずラジオ番組を買って謝罪するような果敢な即行性、ためらいを知らぬ積極性、\n不敵な胆力、「否」をはっきり言う明確さ。緻密極まりない工作の腕。\nまさにアメリカ魂にぴたりと来るものを彼は持っていたのである。</div>\n<div class=\"txr\"><a href=\"../text/im_musum.html\">犬養道子 「ある歴史の娘」</a>\n　Ｐ．１９６<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E3%2581%2582%25E3%2582%258B%25E6%25AD%25B4%25E5%258F%25B2%25E3%2581%25AE%25E5%25A8%2598\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n<br>「斉藤博」は「斎藤博」とも表記されることがあります。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"03s.html\">人物ファイル一覧　（サ）</a>\n ＞ <a href=\"#h\">斉藤 博</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

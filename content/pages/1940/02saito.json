@@ -1,0 +1,263 @@
+{
+ "path": "1940/02saito.html",
+ "type": "article",
+ "title": "斉藤隆夫「反軍演説」　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1940.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "斉藤隆夫「反軍演説」"
+  },
+  {
+   "type": "title2",
+   "html": "1940/02/02"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1930.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1939.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1940.html\">１９４０</a> &gt;&gt;&gt; <a href=\"../20c/1941.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1950.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "孤軍奮闘の戦う政治家 <a href=\"../p/stakao.html\">斉藤隆夫</a>、陸軍の恫喝にも負けず「反軍演説」。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/05/07　　<a href=\"../1936/05saito.html\">\n斉藤隆夫「粛軍演説」</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/07/07　　<a href=\"../1937/07rokok.html\">\n盧溝橋事件</a>　（日中戦争勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/08/13　　<a href=\"../1937/08syan2.html\">\n上海事変②</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/12/13　　<a href\"..=\"\" 19.html\"=\"\">\n南京占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/01/16　　<a href=\"../1938/01kono1.html\">\n近衛声明①　（国民政府を相手にせず）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/04/01　　<a href=\"../1938/04sodoi.html\">\n国家総動員法公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/07/30　　<a href=\"../1938/07cyoko.html\">\n張鼓峰事件</a>　（第19師団独断でソ連軍と戦闘）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/10/27　　<a href\"..=\"\" 19.html\"=\"\">\n日本軍、武漢占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/11/03　　<a href=\"../1938/11kono2.html\">\n近衛声明②　（東亜新秩序建設）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1938/12/22　　<a href=\"../1938/12kono3.html\">\n近衛声明③　（近衛三原則）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1939/05/12　　<a href=\"../1939/05nomon.html\">\nノモンハン事件</a>　（第23師団独断でソ連軍と戦闘）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1939/09/15　　<a href\"..=\"\" 19.html\"=\"\">\nノモンハン事件停戦協定調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/02/02　　<a 1940=\"\" href\"..=\"\" 02saito.html\"=\"\">\n斉藤隆夫「反軍演説」</a>　（03/07 議員除名）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/07/16　　<a href=\"../1940/07hataj.html\">\n畑陸相、単独辞任　（陸軍、後任推薦拒否）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/07/16　　<a href=\"../1940/yona_9.html\">\n米内内閣総辞職</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>一九四〇年（昭和15）二月、<a href=\"../p/stakao.html\">斎藤隆夫</a>は再び演台に立った。\n小柄でもの静かな村夫子の風貌ながら、その演説は暗夜の雷明のごとくである。\nすでに二年半、十万の犠牲を出している支那事変という「聖戦」の欺瞞を彼は衝いた。\n「我が国民は実に従順であります。\n悲憤の涙を流しながらも黙々として、政府の統制に服従するのは何が為であるか。\n政府が適当に事変を解決して呉れるであろう。これを期待して居るが為である。\n・・・・・・然るに、歴代の政府は何を為したか。\nこの二年有半の間に於て三度内閣が辞職をする、政局の安定すら得られない。\n斯う言うことで、どうして此の困難に当ることが出来るのであるか」。\n議場は興奮し、<a href=\"../p/ahitosi.html\">芦田</a>は体がふるえるほど感動した。\n両政党は<a href=\"../p/stakao.html\">斎藤</a>の立場を支持し結集して軍部支配をはね返すべきだと<a href=\"../p/ahitosi.html\">芦田</a>は信じた。\nしかし、事実は逆であった。\n<a href=\"../p/stakao.html\">斎藤議員</a>に対する懲罰動議が提出され、両党の多数がそれに追随した。\nこれを許せば、政党政治の終焉を意味する。\n真実を語る<a href=\"../p/stakao.html\">斎藤</a>を失ってはならない。\n<a href=\"../p/ahitosi.html\">芦田</a>は「ひとりになっても反対する」と起ち上がった。\n懸命の戦った末、<a href=\"../p/ahitosi.html\">芦田</a>は二九六対七で惨敗した。\nそのうえ青票を投じた<a href=\"../p/ahitosi.html\">芦田</a>や牧野良三ら五名は、党議拘束を破った科で政友会から除名処分を受けた。\n七名のあからさまな反乱者のほかに、<a href=\"../p/stakao.html\">斎藤</a>除名に反対して欠席した議員が一四〇名もいた。\nこのときに欠席したため離党勧告を受け、それを拒否して除名処分を受けた社会大衆党員には、\n<a href=\"../p/ktetu.html\">片山哲</a>、<a href=\"../p/nsuehiro.html\">西尾末広</a>、水谷長三郎、鈴木文治ら八名がいた。\n戦後の<a href=\"../p/ktetu.html\">片山</a>と<a href=\"../p/ahitosi.html\">芦田</a>の連立内閣は、いわば斎藤<a href=\"../1940/02saito.html\">反軍演説</a>に殉じた者の同窓会と見ることも可能である\n（皮肉なことに、その時点で<a href=\"../p/stakao.html\">斎藤</a>自身は吉田自由党との連携に走るが）。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/im_senry.html\">五百旗頭真 「占領期」</a>\n　Ｐ．３４４</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1940.html\">１９４０年</a>\n ＞ <a href=\"#h\">斉藤隆夫「反軍演説」</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

@@ -1,0 +1,233 @@
+{
+ "path": "1946/05hatoy.html",
+ "type": "article",
+ "title": "ＧＨＱ、鳩山一郎（自由党総裁）の公職追放を通達　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1946.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "ＧＨＱ、鳩山一郎（自由党総裁）の公職追放を通達"
+  },
+  {
+   "type": "title2",
+   "html": "1946/05/04"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1936.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1945.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1946.html\">１９４６</a> &gt;&gt;&gt; <a href=\"../20c/1947.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "鳩山内閣成立にＧＨＱが待った！　<a href=\"../p/hiciro.html\">首相予定者</a>の公職追放で政治的空白が続く。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/04/10　　<a href\"..=\"\" 19.html\"=\"\">\n総選挙[22]　（自由141、進歩94、社会93、協同14、共産5、他119）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/04/19　　<a href=\"../1946/04datoi.html\">\n幣原内閣打倒共同委員会結成</a>　（自由・社会・協同・共産の４党）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/04/22　　<a href=\"../1946/side_9.html\">\n幣原内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/04/23　　<a href\"..=\"\" 19.html\"=\"\">\n幣原喜重郎、進歩党総裁就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/03　　<a href=\"../1946/05suise.html\">\n幣原首相、後継首相に鳩山一郎（自由党総裁）を推薦</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/04　　<a 1946=\"\" href\"..=\"\" 05hatoy.html\"=\"\">\nＧＨＱ、鳩山一郎（自由党総裁）の公職追放を通達</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/14　　<a href=\"../1946/05jiyut.html\">\n吉田茂、自由党総裁就任を受諾</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/16　　<a href=\"../1946/yosi1_0.html\">\n吉田茂に組閣命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/19　　<a href=\"../1946/05mayda.html\">\n食糧メーデー　（飯米獲得人民大会開催）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/20　　<a href\"..=\"\" 19.html\"=\"\">\nマッカーサー、「暴民デモ許さず」と声明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/21　　<a href=\"../1946/05yosid.html\">\n吉田・マッカーサー会談</a>　（「日本人は一人も餓死させない」）"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/22　　<a href=\"../1946/yosi1_1.html\">\n吉田内閣①成立</a>　（首相：<a href=\"../p/ysigeru.html\">吉田茂</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>総司令部は、ついにみずから鳩山追放の覚書を起草し、五月四日、覚書を<a href=\"../p/hiciro.html\">鳩山</a>につたえた。</div>\n<div>総司令部の覚書は、「日本政府はみずからの責任において何らの処置をとりえなかったので、\n最高司令官は<a href=\"../p/hiciro.html\">鳩山</a>の適格性に関係ある事実をたしかめ、・・・・・・好ましからざる人物であるとみとめる」としるし、\n五つの事実をあげていた。\n五つの事実とは、第一、一九二七年から二九年にいたる<a href=\"../1927/tanaa_1.html\">田中内閣</a>の書記官長時代に<a href=\"../1928/06ciani.html\">治安維持法を改悪</a>した責任をもつこと、\n第二、一九三一年から三四年にいたる文相時代に<a href=\"../1933/04takig.html\">滝川事件</a>に象徴される学問と思想の弾圧をおこなったこと、\n第三、<a href=\"../p/hitler_a.html\">ヒトラー</a>の労働者階級抑圧計画を日本に移植して労農団体の強圧的解体に加担したこと、\n第四、首尾一貫して日本の侵略行為を支持したこと、\n第五、反軍国主義者をよそおいながら、その実は一九四二年の翼賛選挙のとき選挙人におくった挨拶状で侵略戦争を支持したこと、\nであった。</div>\n<div>総司令部の覚書が<a href=\"../p/hiciro.html\">鳩山</a>の手にわたされたのは、五月四日の午前九時四五分であった。\n鳩山首班の夢は消えた。\n政局は急転し、政権は混沌としてきた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ss1sengo.html\">信夫清三郎 「戦後日本政治史Ⅰ」</a>\n　Ｐ．３１３</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1946.html\">１９４６年</a>\n ＞ <a href=\"#h\">ＧＨＱ、鳩山一郎（自由党総裁）の公職追放を通達</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

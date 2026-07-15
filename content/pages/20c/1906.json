@@ -1,0 +1,290 @@
+{
+ "path": "20c/1906.html",
+ "type": "year",
+ "title": "１９０６年　／ クリック ２０世紀",
+ "description": null,
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a href=\"#f\">▽▽▽</a><a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９０６年"
+  },
+  {
+   "type": "title2",
+   "html": "明治３９年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n１０年前 &gt;&gt;&gt; <a href=\"1905.html\">前年</a> &gt;&gt;&gt; <span class=\"now\">１９０６</span> &gt;&gt;&gt; <a href=\"1907.html\">翌年</a> &gt;&gt;&gt; <a href=\"1916.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "スミレインキ　　親愛なる　　成金",
+    "<a href=\"../1901/katu1_1.html\">桂①</a> → <a href=\"../1906/saio1_1.html\">西園寺内閣①</a>"
+   ]
+  },
+  {
+   "type": "edit_bar",
+   "kind": "e_data",
+   "html": "リンク情報（2003/00/00）＝削除：０件（.html）"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"1905.html#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1906/01/07　　<a href=\"../1906/saio1_1.html\">\n西園寺内閣①成立</a>　（首相：<a href=\"../p/skinmoci.html\">西園寺公望</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1906/01/28　　<a href=\"../1906/01syaka.html\">\n日本社会党結成</a>　（<a href=\"../p/stosihik.html\">堺利彦</a>ら）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1906/02/03　　<a href\"..=\"\" 19.html\"=\"\">\n高村光太郎、渡欧</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1906/03/03　　<a href=\"../1906/03katob.html\">\n加藤外相辞任</a>　（鉄道国有化に反対して）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1906/03/07　　<a href\"..=\"\" 19.html\"=\"\">\n米・カリフォルニア州議会、日本移民の制限に関する決議案採択</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1906/03/24　　<a href\"..=\"\" 19.html\"=\"\">\n衆議院、八幡製鉄所第１期拡張費を可決</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1906/03/31　　<a href=\"../1906/03tetud.html\">\n鉄道国有法公布</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1906/06/30　　<a href\"..=\"\" 19.html\"=\"\">\n徳富蘆花、トルストイ訪問　（08/04 帰国）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1906/07/13　　<a href\"..=\"\" 19.html\"=\"\">\n南満州鉄道株式会社設立委員会設置</a>　（委員長：<a href=\"../p/kgentaro.html\">児玉源太郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1906/07/23　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/kgentaro.html\">\n児玉源太郎</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1906/09/01　　<a href=\"../1906/09golde.html\">\nゴールデンバット発売</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1906/09/10　　<a href\"..=\"\" 19.html\"=\"\">\n満鉄、株式募集開始　（応募1078倍）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1906/09/25　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ軍、キューバ占領</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"1907.html#s1\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1906/10/11　　<a href\"..=\"\" 19.html\"=\"\">\n夏目漱石、木曜会開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1906/10/22　　<a href\"..=\"\" 19.html\"=\"\">\nポール・セザンヌ没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1906/11/26　　<a href=\"../1906/11mante.html\">\n南満州鉄道株式会社（満鉄）設立</a>　（総裁：<a href=\"../p/gsinpei.html\">後藤新平</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1906/12/28　　<a href\"..=\"\" 19.html\"=\"\">\nインド国民会議派カルカッタ大会</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1906/12/31　　<a href\"..=\"\" 19.html\"=\"\">\n東宮御所（現迎賓館）完成</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1901/katu1_1.html\">桂①</a> → <a href=\"../1906/saio1_1.html\">西園寺内閣①</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">スミレインキ　　親愛なる　　成金</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「破戒」　「野菊の墓」　「運命」　「白羊宮」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">「義勇活動写真」</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">―</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">紅萌ゆる丘の花</td></tr>\n</tbody>"
+  },
+  {
+   "type": "fnavi",
+   "html": "<a name=\"f\"></a>\n<a href=\"../index.html\">目次</a>\n ＞ <a href=\"#h\">１９０６年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

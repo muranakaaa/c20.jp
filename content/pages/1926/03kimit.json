@@ -1,0 +1,269 @@
+{
+ "path": "1926/03kimit.html",
+ "type": "article",
+ "title": "中野正剛、陸軍機密費横領問題で田中総裁（政友会）を追及　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1926.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "中野正剛、陸軍機密費横領問題で田中総裁（政友会）を追及"
+  },
+  {
+   "type": "title2",
+   "html": "1926/03/04"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1916.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1925.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1926.html\">１９２６</a> &gt;&gt;&gt; <a href=\"../20c/1927.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1936.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "スキャンダルにはスキャンダルで。　<a href=\"../p/nseigo.html\">中野正剛</a>が吼えて、政党政治、泥仕合の様相。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/08/02　　<a href=\"../1918/08siber.html\">\nシベリア出兵宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/04/13　　<a href=\"../1925/04tanaa.html\">\n田中義一、政友会総裁⑤就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/01/28　　<a href=\"../1926/katob_9.html\">\n加藤（高）内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/01/30　　<a href=\"../1926/waka1_1.html\">\n若槻内閣①成立</a>　（首相：<a href=\"../p/wreijiro.html\">若槻礼次郎</a>／全閣僚留任）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/02/28　　<a href=\"../1926/02matus.html\">\n松嶋遊郭疑獄事件発覚</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/03/04　　<a 1926=\"\" href\"..=\"\" 03kimit.html\"=\"\">\n中野正剛、陸軍機密費横領問題で田中総裁（政友会）を追及</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/03/05　　<a href\"..=\"\" 19.html\"=\"\">\n三瓶俊治（元陸相官房付二等主計）、田中義一を機密費横領で告発</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/04/02　　<a href\"..=\"\" 19.html\"=\"\">\n後藤新平、若槻・田中・床次３党首を訪問、「政治の倫理化」を要請</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/05/20　　<a href\"..=\"\" 19.html\"=\"\">\n若槻首相、床次総裁（政友本党）に連立を要請　（05/26 拒否）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/07/29　　<a href=\"../1926/07pakre.html\">\n朴烈怪写真事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/03/14　　<a href=\"../1927/03katao.html\">\n片岡蔵相失言</a>　（→金融恐慌）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/04/17　　<a href=\"../1927/04taigi.html\">\n枢密院、台湾銀行救済緊急勅令案を否決</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/04/17　　<a href=\"../1927/waka1_9.html\">\n若槻内閣①総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/04/20　　<a href=\"../1927/tanaa_1.html\">\n田中（義）内閣成立</a>　（首相：<a href=\"../p/tgiici.html\">田中義一</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>３月４日の衆議院で、憲政会の<a href=\"../p/nseigo.html\">中野正剛</a>が、\n<a href=\"../p/tgiici.html\">田中義一政友会総裁</a>がシベリア出兵当時の陸軍機密費の一部を横領して政界入りの資金にしたと追及した。</div>\n<div>同日、元陸軍二等主計の三瓶俊治が、当時陸相の<a href=\"../p/tgiici.html\">田中</a>と次官の<a href=\"../p/yhanzo.html\">山梨半造</a>が大臣官房主計室の金庫に眠っていた\n無記名公債を横領したと告発していた。\n１月には<a href=\"../p/tgiici.html\">田中</a>が神戸の高利貸しから多額の借金をしていたことも明らかになっており、\n問題の公債が借金の担保になったのではないかという疑惑が浮かんだ。\nまた、ハバロフスクなどで日本軍が捕獲した金塊の一部も行方不明となり、<a href=\"../p/tgiici.html\">田中</a>が疑われた。</div>\n<div>政友会は、<a href=\"../p/nseigo.html\">中野</a>がソ連の手先となって軍民離間を図っていると攻撃した。\n告発した三瓶は一時身を隠していたが２か月後、「懺悔録」を書き、告訴の内容はうそだったといい出した。\n政友会や軍部の圧力が噂された。</div>\n<div>この事件を捜査していた東京地方検事局の担当者は、敏腕で名の通っていた石田基次席検事だった。</div>\n<div>ところが10月30日朝、石田検事は大森と蒲田のあいだの鉄橋の下の小川で変死体となって発見された。\n死因は下あご付近の打撲とみられた。\n石田検事は前夜、日比谷の料亭で検事の集まりに出席していたが、\n死体で見つかった場所は市ヶ谷の自宅とは逆方向だった。\n多くの疑問が残ったが、検事局は過失死と片付け、解剖もせずに火葬にしてしまう。</div>\n<div>石田検事の死で陸軍機密費事件は不起訴に終わる。\n石田検事は朴烈事件、<a href=\"../1926/02matus.html\">松島遊郭移転疑獄</a>も手がけていただけに、\nその死と事件の結末には大きな疑惑が残った。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ys_20sei.html\">読売新聞社 「読む年表・20世紀と昭和天皇」</a>\n　Ｐ．３６</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>三月五日の新聞は<a href=\"../p/tgiici.html\">田中総裁</a>のとんでもない旧悪を暴露する企図を報道していた。</div>\n<div>告発したのは憲政会代議士<a href=\"../p/nseigo.html\">中野正剛</a>（後<a href=\"../p/thideki.html\">東条首相</a>を批判して自決）である。\n<a href=\"../p/nseigo.html\">中野</a>は四日の議会で元陸軍三等主計三瓶俊治に告発書を朗読せしめた。\nそれによると大正九年（シベリア出兵中）三瓶が陸軍大臣官房付であった時、\n官房主計の金庫に<a href=\"../p/tgiici.html\">田中陸相</a>、<a href=\"../p/yhanzo.html\">山梨次官</a>らの個人名義の預金証書（シベリア出兵の機密費？）があり、\n総額は二千四百万円に上っていたが、これが無記名公債となりその後行方不明になったというのである。\nとくに<a href=\"../p/tgiici.html\">田中陸相</a>は四百万円を要領したのではないか、として新聞でも叩かれた。\n<a href=\"../p/tgiici.html\">田中</a>は政友会に入る前、乾新兵衛という金貸しから三百万円を借りたが、\nその時の担保が例の無記名公債ではないかという推理もなされた。\n<a href=\"../p/nseigo.html\">中野</a>の追及が厳しくなると政友会では<a href=\"../p/nseigo.html\">中野</a>を露探だと切り返した。\n五日になると宇垣陸相が登壇した。</div>\n<div>「昨日来、憲政会は陸軍に不正ありとして攻撃しているようであるが、\nこれらの質問が陸相たる私に対する不信任ということであるなら進退を考えねばならない」</div>\n<div>と述べて<a href=\"../p/wreijiro.html\">若槻</a>を脅かした。\n陸相が辞めれば恐らく後任陸相は得られず内閣は総辞職しなければならない。</div>\n<div>三瓶は<a href=\"../p/tgiici.html\">田中</a>と<a href=\"../p/yhanzo.html\">山梨</a>を告発したが、この男も並の“正義漢”ではなかった。\n在職中一万三千円の公債を着服して有罪となっているし、この材料を政友会に持ちこんで高く買ってもらおうとした事実もわかって来た。</div>\n<div>かくして泥仕合が続いたが、事件担当の石田検事の変死で一切はうやむやに終り<a href=\"../p/tgiici.html\">田中</a>らは不起訴に終った。\nもみ消しの元兇は司法官僚の<a href=\"../p/skisabur.html\">鈴木喜三郎</a>（<a href=\"../1924/kiyo_1.html\">清浦内閣</a>の法相、後に<a href=\"../1927/tanaa_1.html\">田中内閣</a>の内相、政友会総裁となりながら選挙で落選する）\nであるとの噂が高かった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm2saion.html\">豊田穣 「西園寺公望（下）」</a>\n　Ｐ．２１２</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1926.html\">１９２６年</a>\n ＞ <a href=\"#h\">中野正剛、陸軍機密費横領問題で田中総裁（政友会）を追及</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

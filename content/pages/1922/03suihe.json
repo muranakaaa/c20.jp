@@ -1,0 +1,204 @@
+{
+ "path": "1922/03suihe.html",
+ "type": "article",
+ "title": "水平社結成　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1922.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "水平社結成"
+  },
+  {
+   "type": "title2",
+   "html": "1922/03/03"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1912.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1921.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1922.html\">１９２２</a> &gt;&gt;&gt; <a href=\"../20c/1923.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1932.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "いわれなき差別を許すな！　部落差別反対の戦いがこの日、水平社結成にたどり着いた。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/03/01　　<a href=\"../1919/0331ban.html\">\n三・一（万歳）事件</a>　（京城パゴダ広場で朝鮮民衆が独立宣言）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/04/06　　<a href=\"../1919/04gandh.html\">\n非暴力運動①開始</a>　（<a href=\"../p/gandhi_m.html\">ガンジー</a>ら）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/05/04　　<a href=\"../1919/0554und.html\">\n五・四運動</a>　（天安門広場で学生らがデモ行進）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/11/25　　<a href=\"../1921/11sessy.html\">\n皇太子摂政就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/03/03　　<a 1922=\"\" href\"..=\"\" 03suihe.html\"=\"\">\n水平社結成</a>　（全国水平社創立大会／京都）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/03/10　　<a href=\"../1922/03sange.html\">\nサンガー夫人来日</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/01　　<a href=\"../1923/09sinsa.html\">\n関東大震災</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/03/05　　<a href\"..=\"\" 19.html\"=\"\">\n労働農民党結成</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/11/12　　<a href=\"../1926/11fukuo.html\">\n福岡連隊事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/11/19　　<a href=\"../1927/11jikis.html\">\n水平社社員、軍隊内の差別撤廃を天皇に直訴</a>　（陸軍大演習観兵式）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>奈良県南葛城郡というのは水平運動の発祥地で、\n掖上村柏原青年団の西光万吉、阪本清一郎、駒井喜作の三人によって烽火があげられた。</div>\n<div>彼らは水平運動を創立し、従来の偽善的な融和運動では恃むにたらずとして、\n全国部落民の積極的な自覚運動と、一般民衆への反省促進とを起すことにし、全国に檄をとばした。</div>\n<div>彼らの努力は、当時、京都市上京区鷹野北町楽只青年団の南梅吉や、桜田規矩三なども参加となり、\n各地に「よき日の為に」と題する水平社創立趣意書を頒布し、同志の糾合につとめた。</div>\n<div>それが次第に功を奏し、大正十一年三月三日、京都岡崎公会堂で全国部落民の代表者約四千人が集り、\nここに水平社創立大会が成立した。</div>\n<div class=\"txr\"><a href=\"../text/ms2syowa.html\">松本清張 「昭和史発掘（２）」</a>\n　Ｐ．１２８<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167697017%2Fqid%3D1147086156%2Fsr%3D1-6%2Fref%3Dsr_1_2_6\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1922.html\">１９２２年</a>\n ＞ <a href=\"#h\">水平社結成</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

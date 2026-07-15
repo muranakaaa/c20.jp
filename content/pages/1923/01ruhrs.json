@@ -1,0 +1,223 @@
+{
+ "path": "1923/01ruhrs.html",
+ "type": "article",
+ "title": "フランス・ベルギー、ルール占領　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1923.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "フランス・ベルギー、ルール占領"
+  },
+  {
+   "type": "title2",
+   "html": "1923/01/11"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1913.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1922.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1923.html\">１９２３</a> &gt;&gt;&gt; <a href=\"../20c/1924.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1933.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "おカネがなくて賠償金が払えないドイツの、ただ１つ残った工業地帯をフランスは奪った。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/11/09　　<a href=\"../1918/11d_kak.html\">\nドイツ革命</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/11/11　　<a href=\"../1918/11taise.html\">\n第一次世界大戦終結</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/01/18　　<a href=\"../1919/01paris.html\">\nパリ講和会議開催</a>　（～06/28／首席全権：<a href=\"../p/skinmoci.html\">西園寺公望</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/06/28　　<a href=\"../1919/06versa.html\">\nベルサイユ条約調印</a>　（北京政府、調印拒否）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/07/31　　<a href\"..=\"\" 19.html\"=\"\">\nワイマール憲法成立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/05/05　　<a href=\"../1921/05baisy.html\">\n連合国、賠償金1320億金マルクの支払計画受諾をドイツに要求</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/01/11　　<a 1923=\"\" href\"..=\"\" 01ruhrs.html\"=\"\">\nフランス・ベルギー、ルール占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/10/23　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ共産党、ハンブルクで武装蜂起　（10/25 鎮圧）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/11/08　　<a href=\"../1923/11munch.html\">\nヒトラー、ミュンヘン一揆失敗</a>　（11/09 逮捕）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/11/15　　<a href=\"../1923/11rente.html\">\nドイツ、レンテンマルク発行開始</a>　（→インフレ収束）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/08/29　　<a href=\"../1924/08dawes.html\">\nドイツ議会、ドーズ案を承認</a>　（賠償金支払い問題）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>賠償問題について、ドイツは修正または延期を求め、連合国内でも英国が態度を軟化させはじめた。</div>\n<div>フランスは、しかし、強硬に賠償金支払いを主張して、一九二三年一月十一日、ベルギー軍とともにルール地方を占領した。\n賠償金を支払えば撤兵する、という。</div>\n<div>フランスにも内部事情があった。\nフランスは戦費を英国、米国に借りていたが、英米は対ドイツ賠償の減額をフランスに勧誘しながら、\nフランスの債務はきっちりと請求した。\nフランスとしては、米英にたいする借金を払うためにもドイツから賠償を取り立てる必要に迫られたのである。</div>\n<div>だが、ドイツにとっては、フランスの行動は明らかに独立国の主権侵害であり、侵略である。</div>\n<div>ドイツは怒り、左右の主義主張を越えて団結した。</div>\n<div>ルール地方のドイツ人労働者はフランス軍への協力を拒否して、村、町、都市から退去した。\n生産と輸送機関は麻痺し、交通事故が頻発した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kn1hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（１）」</a>\n　Ｐ．４１</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1923.html\">１９２３年</a>\n ＞ <a href=\"#h\">フランス・ベルギー、ルール占領</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

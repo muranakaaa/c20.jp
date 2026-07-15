@@ -1,0 +1,629 @@
+{
+ "path": "20c/1932.html",
+ "type": "year",
+ "title": "１９３２年　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９３２年"
+  },
+  {
+   "type": "title2",
+   "html": "昭和７年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"1922.html\">１０年前</a> &gt;&gt;&gt; <a href=\"1931.html\">前年</a> &gt;&gt;&gt; <span class=\"now\">１９３２</span> &gt;&gt;&gt; <a href=\"1933.html\">翌年</a> &gt;&gt;&gt; <a href=\"1942.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"#s4\">話せばわかる　問答無用　挙国一致　非常時</a>",
+    "<a href=\"../1931/inu_1.html\">犬養</a> → <a href=\"../1932/saito_1.html\">斉藤内閣</a>"
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"1931.html#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/01/03　　<a href\"..=\"\" 19.html\"=\"\">\n関東軍、錦州占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/01/04　　<a href\"..=\"\" 19.html\"=\"\">\nガンジー逮捕　（ハンスト開始）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/01/07　　<a href\"..=\"\" 19.html\"=\"\">\n陸軍、満州独立の方針を関東軍参謀板垣征四郎に指示</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/01/07　　<a href\"..=\"\" 19.html\"=\"\">\nスチムソン・ドクトリン　（米、満州事変を不承認）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/01/08　　<a href\"..=\"\" 19.html\"=\"\">\n桜田門事件</a>　（犯人：李奉昌／<a href=\"../p/ituyosi.html\">犬養首相</a>辞表提出）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/01/14　　<a href\"..=\"\" 19.html\"=\"\">\n映画「国士無双」封切　（主演：片岡千恵蔵・山田五十鈴）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/01/18　　<a href=\"../1932/01soryo.html\">\n日本人僧侶殺害事件</a>　（上海）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/01/28　　<a href=\"../1932/01syan1.html\">\n上海事変①勃発</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/01/31　　<a href\"..=\"\" 19.html\"=\"\">\n井上日召・古賀清志海軍中尉ら、要人殺害計画を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/02/02　　<a href\"..=\"\" 19.html\"=\"\">\nジュネーブ軍縮会議開催　（国際連盟主催／→条約不成立）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/02/05　　<a href\"..=\"\" 19.html\"=\"\">\n関東軍、ハルピン占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/02/09　　<a href=\"../1932/02ketu1.html\">\n血盟団事件①</a>　（<a href=\"../p/ijunnosu.html\">井上準之助</a>暗殺）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/02/16　　<a href\"..=\"\" 19.html\"=\"\">\nラジオ聴取契約、100万突破</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/02/20　　<a href\"..=\"\" 19.html\"=\"\">\n総選挙[18]　（政友会301、民政党146、無産諸派5）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/02/22　　<a href=\"../1932/02nikud.html\">\n「肉弾３勇士」戦死報道</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/02/29　　<a href\"..=\"\" 19.html\"=\"\">\nリットン調査団来日</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/03/01　　<a href=\"../1932/03mansy.html\">\n満州国建国宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/03/01　　<a href\"..=\"\" 19.html\"=\"\">\nリンドバーグ愛児誘拐事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/03/05　　<a href=\"../1932/03ketu2.html\">\n血盟団事件②</a>　（<a href=\"../p/dtakuma.html\">団琢磨</a>暗殺）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/03/10　　<a href\"..=\"\" 19.html\"=\"\">\n商工省、標準形式自動車５種を試作完成</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/03/11　　<a href\"..=\"\" 19.html\"=\"\">\n井上日召自首　（血盟団事件）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/03/24　　<a href\"..=\"\" 19.html\"=\"\">\n梶井基次郎没</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/04/18　　<a href\"..=\"\" 19.html\"=\"\">\n浅草松竹系映画館で活弁・楽士の解雇反対スト　（トーキー化の影響）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/04/24　　<a href\"..=\"\" 19.html\"=\"\">\n日本ダービー①開催　（目黒競馬場）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/04/26　　<a href\"..=\"\" 19.html\"=\"\">\n三井・三菱両財閥、満州国への融資契約に調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/04/26　　<a href\"..=\"\" 19.html\"=\"\">\n中国・瑞金（中華ソビエト）政府、対日宣戦布告</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/04/29　　<a href\"..=\"\" 19.html\"=\"\">\n上海爆弾テロ事件　（犯人：尹奉吉）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/05/05　　<a href=\"../1932/05syanh.html\">\n上海停戦協定調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/05/14　　<a href\"..=\"\" 19.html\"=\"\">\nチャップリン来日　（～06/02）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/05/15　　<a href=\"../1932/05515ji.html\">\n五・一五事件</a>　（<a href=\"../p/ituyosi.html\">犬養首相</a>暗殺）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/05/15　　<a href=\"../1932/05tabac.html\">\n婦人煙草「麗」発売</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/05/16　　<a href=\"../1932/inu_9.html\">\n犬養内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/05/20　　<a href=\"../1932/05suzuk.html\">\n鈴木喜三郎、政友会総裁⑦就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/05/26　　<a href=\"../1932/saito_1.html\">\n斉藤内閣成立</a>　（首相：<a href=\"../p/smakoto.html\">斉藤実</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/06/16　　<a href=\"../1932/06lausa.html\">\nローザンヌ会議開催</a>　（～07/09／ドイツ賠償金支払い問題）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/06/18　　<a href\"..=\"\" 19.html\"=\"\">\n兌換銀行券条例改正　（発行限度の拡張など）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/06/29　　<a href\"..=\"\" 19.html\"=\"\">\n特別高等警察部設置を公布</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/07/21　　<a href=\"../1932/07ottaw.html\">\nオタワ連邦会議</a>　（～08/20）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/07/27　　<a href\"..=\"\" 19.html\"=\"\">\n文部省、農漁村の欠食児童20万と発表　（09/07 臨時学校給食を訓令）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/07/31　　<a href=\"../1932/07nazis.html\">\nナチス、第１党に躍進</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/08/12　　<a href\"..=\"\" 19.html\"=\"\">\n㈱東京宝塚劇場設立</a>　（社長：<a href=\"../p/kicizo.html\">小林一三</a>／→東宝）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/08/25　　<a href=\"../1932/08syodo.html\">\n内田外相、「焦土外交」の決意を表明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/09/15　　<a href=\"../1932/09mansy.html\">\n満州国承認　（日満議定書調印）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/09/16　　<a href\"..=\"\" 19.html\"=\"\">\n平頂山事件　（日本軍によるゲリラ虐殺）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"1933.html#s1\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/10/01　　<a href=\"../1932/10lytto.html\">\nリットン調査団、日本政府に報告書を通達</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/10/03　　<a href\"..=\"\" 19.html\"=\"\">\n武装移民団416人、満州へ出発</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/11/08　　<a href=\"../1932/11roose.html\">\nＦ・ルーズベルト、アメリカ大統領選挙でフーバーを破り当選</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/12/08　　<a href=\"../1932/12jujik.html\">\n松岡洋右、国際連盟総会で「十字架演説」</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/12/11　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/mkaku.html\">\n森恪</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/12/16　　<a href=\"../1932/12sirok.html\">\n日本橋白木屋火災</a>　（死者14人）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1931/inu_1.html\">犬養</a> → <a href=\"../1932/saito_1.html\">斉藤内閣</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">話せばわかる　　問答無用　　挙国一致　　非常時</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「夜明け前」　「日本三文オペラ」　「聖家族」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">生まれてはみたけれど</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">ロス五輪実況放送</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">影を慕いて　　銀座の柳</td></tr>\n</tbody>"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"#h\">１９３２年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

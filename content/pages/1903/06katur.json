@@ -1,0 +1,174 @@
+{
+ "path": "1903/06katur.html",
+ "type": "article",
+ "title": "桂首相、伊藤・山県両元老に辞意表明　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1903.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "桂首相、伊藤・山県両元老に辞意表明"
+  },
+  {
+   "type": "title2",
+   "html": "1903/06/24"
+  },
+  {
+   "type": "navi2",
+   "html": "\n１０年前 &gt;&gt;&gt; <a href=\"../20c/1902.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1903.html\">１９０３</a> &gt;&gt;&gt; <a href=\"../20c/1904.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1913.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"../p/ktaro.html\">桂首相</a>の“狂言辞職”で、<a href=\"../p/yaritomo.html\">山県</a>が動き、<a href=\"../p/mtenno.html\">天皇</a>が動き、<a href=\"../p/ihirobum.html\">伊藤</a>が動き、<a href=\"../p/skinmoci.html\">西園寺</a>が動き。　政界世代交代。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1903/04/08　　<a href=\"../1903/04teppe.html\">\nロシア、満州撤兵②不履行</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1903/04/21　　<a href=\"../1903/04murin.html\">\n無隣庵会議</a>　（<a href=\"../p/yaritomo.html\">山県</a>・<a href=\"../p/ihirobum.html\">伊藤</a>・<a href=\"../p/ktaro.html\">桂</a>・<a href=\"../p/kjutaro.html\">小村</a>／京都）"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1903/06/24　　<a 1903=\"\" href\"..=\"\" 06katur.html\"=\"\">\n桂首相、伊藤・山県両元老に辞意表明</a>　（07/02 却下）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1903/07/13　　<a href\"..=\"\" 19.html\"=\"\">\n伊藤博文、枢密院議長就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1903/07/14　　<a href=\"../1903/07saion.html\">\n西園寺公望、政友会総裁②就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1903/10/06　　<a href=\"../1903/10jr_ko.html\">\n日露交渉（小村・ローゼン交渉）開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/10　　<a href=\"../1904/02jr_wa.html\">\n対露宣戦布告</a>　（<a href=\"../them/jr_war.html\">日露戦争</a>勃発）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>二十四日<a href=\"../p/ihirobum.html\">伊藤</a>、<a href=\"../p/yaritomo.html\">山県</a>が<a href=\"../p/ktaro.html\">桂</a>を首相官邸に訪問、<a href=\"../p/ygonnohy.html\">山本海相</a>同席のもとに重要会議を行った。</div>\n<div>この席上<a href=\"../p/ktaro.html\">桂</a>は<a href=\"../p/ihirobum.html\">伊藤</a>に爆弾宣言をぶつけた。</div>\n<div>「<a href=\"../p/ihirobum.html\">公（伊藤）</a>は元老として指導を賜わることが多く感謝致しているが、\n議会の多数党の首領でもある。\n元老の説を採るか採らざるかは総理の責任であるが、多数党首領の説はきかざるを得ない。\n内閣は一個の中心をめぐって動くべきなのに、事実上中心は二個あり、これでは総理はあってなきが如くであるから、\n元老か党首か二者択一として頂きたい」</div>\n<div>しかし、<a href=\"../p/ihirobum.html\">伊藤</a>は考慮の余地なしとしてこの提案を蹴った。</div>\n<div>怒った<a href=\"../p/ktaro.html\">桂</a>は七月一日腹痛を理由にして天皇に辞表を奉呈した。</div>\n<div>事の成行きを気づかっていた<a href=\"../p/mtenno.html\">天皇</a>は、また長州の老人共の仲間喧嘩か、と眉をひそめて二日<a href=\"../p/yaritomo.html\">山県</a>と<a href=\"../p/mmasayos.html\">松方</a>を呼んで事情を訊いた。</div>\n<div><a href=\"../p/yaritomo.html\">山県</a>は困難な時局を収拾するには政界団結の外はない。\nしかるに<a href=\"../p/ihirobum.html\">伊藤</a>は元老をもって党首を兼ねこの団結を妨げることが多い。\nこの際党首を免じて枢府議長として側近に仕えしめるのが最良の道である。\nしかし、我らには<a href=\"../p/ihirobum.html\">伊藤</a>を動かす力がないので<a href=\"../p/mtenno.html\">陛下</a>のお力にすがる以外に道はない。\nもし、<a href=\"../p/mtenno.html\">陛下</a>の仰せに対し、<a href=\"../p/ihirobum.html\">伊藤</a>が承知しないときは、臣<a href=\"../p/yaritomo.html\">山県</a>最後の御奉公として“足利尊氏”を討つのみ、と切々と<a href=\"../p/mtenno.html\">天皇</a>に訴えた。\n毎度のことなので<a href=\"../p/mtenno.html\">天皇</a>も額面通りには受けとらなかったが、\n政局の混乱を救う為と、日露関係逼迫の為との二つの理由から<a href=\"../p/ihirobum.html\">伊藤</a>を側近に侍らせようと考え、\n七月六日<a href=\"../p/ihirobum.html\">伊藤</a>を呼んで枢府に入ることを命じた。</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>の参内で諸新聞は一斉に騒ぎ始めた。\n<a href=\"../p/ihirobum.html\">伊藤</a>が身を退くか、あるいは狂言と見られていた<a href=\"../p/ktaro.html\">桂</a>の辞職が本物で<a href=\"../p/ihirobum.html\">伊藤</a>が第五次内閣を組閣するのか・・・・・・。</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>は意外の勅命に驚いたが、<a href=\"../p/mtenno.html\">天皇</a>と話し合っている内に、\n自分の忠誠は認めて頂いているという確信を得たので、\nかなりやりすぎたとの反省のもとに、七月十二日あらためて参内し、\n一、自分は枢府議長となるが、この際<a href=\"../p/yaritomo.html\">山県</a>、<a href=\"../p/mmasayos.html\">松方</a>も枢府顧問官として第一線から隠退せしめられたい、\n二、臣が政友会を脱するに際しては枢府議長<a href=\"../p/skinmoci.html\">西園寺公望</a>を政友会総裁とすることをお認め頂きたい、という二条件を申し入れ、\n勅許となったので翌十三日宮中において枢府議長の親任式にのぞみ三十年にわたる実力者の座からおり、\n<a href=\"../p/ktaro.html\">桂</a>たちを安心させた。（同日付で<a href=\"../p/yaritomo.html\">山県</a><a href=\"../p/mmasayos.html\">松方</a>も枢府顧問官となった）</div>\n<div class=\"txr\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．３２２<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E5%259C%2592%25E5%25AF%25BA%25E5%2585%25AC%25E6%259C%259B%25E2%2580%2595%25E6%259C%2580%25E5%25BE%258C%25E3%2581%25AE%25E5%2585%2583%25E8%2580%2581%2520%2528%25E4%25B8%258A%25E5%25B7%25BB%2529%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1903.html\">１９０３年</a>\n ＞ <a href=\"#h\">桂首相、伊藤・山県両元老に辞意表明</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "path": "1904/05nanza.html",
+ "type": "article",
+ "title": "第二軍、南山攻撃開始　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1904.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "第二軍、南山攻撃開始"
+  },
+  {
+   "type": "title2",
+   "html": "1904/05/25"
+  },
+  {
+   "type": "navi2",
+   "html": "\n１０年前 &gt;&gt;&gt; <a href=\"../20c/1903.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1904.html\">１９０４</a> &gt;&gt;&gt; <a href=\"../20c/1905.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1914.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "旅順の前哨戦は１日で死傷4387人。　報告を受けた大本営は、１ケタまちがえたんだろ、これ？"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/10　　<a href=\"../1904/02jr_wa.html\">\n対露宣戦布告</a>　（<a href=\"../them/jr_war.html\">日露戦争</a>勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/05/05　　<a href\"..=\"\" 19.html\"=\"\">\n第二軍、遼東半島に上陸開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/05/25　　<a 1904=\"\" href\"..=\"\" 05nanza.html\"=\"\">\n第二軍、南山攻撃開始</a>　（05/26 占領）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/05/30　　<a href\"..=\"\" 19.html\"=\"\">\n第二軍、大連占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/05/31　　<a href\"..=\"\" 19.html\"=\"\">\n大本営、旅順攻略のため、第三軍の編成を決定</a>　（司令官：<a href=\"../p/nmaresuk.html\">乃木希典</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/06/06　　<a href=\"../1904/06nogij.html\">\n第三軍乃木司令官、遼東半島に上陸</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/07/12　　<a href=\"../1904/07ryojy.html\">\n軍令部長ら、参謀総長に旅順攻略促進を要請</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/08/19　　<a href=\"../1904/08ryojy.html\">\n旅順総攻撃①開始</a>　（第三軍司令官：<a href=\"../p/nmaresuk.html\">乃木希典</a>／～08/24）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>五月五日塩大澳付近から上陸した第二軍は、まず南下して、遼東半島の中でもっとも幅が狭く、くびれている金州付近を占領し、\n旅順を孤立させたうえで、北に向きをかえて前進するという作戦を命じられていた。</div>\n<div>五月十三日、歩兵三個師団と砲兵一個旅団の上陸を終った第二軍は十五日行動を開始した。\nこの間、ロシア軍が南下、攻撃を加えてくることを大本営は心配したが、司令官<a href=\"../p/kuropa_a.html\">クロパトキン</a>は、遼陽に主力を止めたまま動かなかった。　【中略】</div>\n<div>第二軍は北方に対する体制を整えて主力をもって南下、五月二十五日半島最狭部にまたがる南山の攻撃を開始した。\n午前五時から三時間にわたる砲撃のすえ、歩兵の突撃となったが、敵陣は十分に破壊されておらず、\n掩蓋の下からロシア兵が射ち出す銃弾に倒されていった。\n十時には最後の予備部隊まで第一線に投入したが、午後になっても攻撃は進展せず、また早くも砲弾が欠乏してくるというありさまであった。</div>\n<div>参謀の中には、いったん後退して陣容をたてなおすことを進言する者もあったが、\n奥軍司令官は、万難を拝して攻撃を続けることを命令、午後六時すぎになってようやく敵陣の一角を突破した。\nこれを機に、日本軍に十分の損害を与えたとみたロシア軍は後退を始め、南山は日本軍の手に帰した。\nロシア軍はつぎの抵抗を旅順の要塞に予定しており、第二軍は以後ほとんど戦闘を交えることもなく、五月三十日には無防備の大連を占領した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ft_nicir.html\">古屋哲夫 「日露戦争」</a>\n　Ｐ．１０４</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1904.html\">１９０４年</a>\n ＞ <a href=\"#h\">第二軍、南山攻撃開始</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

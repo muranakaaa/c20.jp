@@ -1,0 +1,303 @@
+{
+ "path": "1945/12senky.html",
+ "type": "article",
+ "title": "選挙法改正　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1945.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "選挙法改正"
+  },
+  {
+   "type": "title2",
+   "html": "1945/12/17"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1935.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1944.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1945.html\">１９４５</a> &gt;&gt;&gt; <a href=\"../20c/1946.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "民主化は民主的な選挙から。　女性にも、選挙権・被選挙権が認められた。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1900/03/29　　<a href\"..=\"\" 19.html\"=\"\">\n選挙法改正　（選挙資格：直接国税15円以上→10円以上）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/05/23　　<a href=\"../1919/05senky.html\">\n選挙法改正</a>　（選挙資格：直接国税10円以上→３円以上）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/05/05　　<a href=\"../1925/05fusen.html\">\n普通選挙法公布</a>　（男子普通選挙）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/10/12　　<a href=\"../1940/10yokus.html\">\n大政翼賛会発足</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1942/02/23　　<a href=\"../1942/02yokus.html\">\n翼賛政治体制協議会発足</a>　（会長：<a href=\"../p/anobuyuk.html\">阿部信行</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1942/04/30　　<a href\"..=\"\" 19.html\"=\"\">\n総選挙[21]　（翼賛選挙／推薦381、非推薦85）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/15　　<a href=\"../1945/08gyoku.html\">\n玉音放送　（終戦の詔勅）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/10/04　　<a href=\"../1945/10jiyus.html\">\nＧＨＱ、「自由主義化」を指令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/10/11　　<a href=\"../1945/10macar.html\">\nマッカーサー、幣原首相に憲法改正と５大改革を要求</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/11/02　　<a href=\"../1945/11syaka.html\">\n日本社会党結成</a>　（書記長：<a href=\"../p/ktetu.html\">片山哲</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/11/09　　<a href=\"../1945/11jiyut.html\">\n日本自由党結成</a>　（総裁：<a href=\"../p/hiciro.html\">鳩山一郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/11/16　　<a href=\"../1945/11sinpo.html\">\n日本進歩党結成</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/12/01　　<a href\"..=\"\" 19.html\"=\"\">\n徳田球一、共産党書記長就任</a>　（共産党再建大会）"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/12/17　　<a 1945=\"\" href\"..=\"\" 12senky.html\"=\"\">\n選挙法改正</a>　（婦人参政権など）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/01/04　　<a href=\"../1946/01tuiho.html\">\nＧＨＱ、軍国主義者の公職追放などを指令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/04/10　　<a href\"..=\"\" 19.html\"=\"\">\n総選挙[22]　（自由141、進歩94、社会93、協同14、共産5、他119）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/04/19　　<a href=\"../1946/04datoi.html\">\n幣原内閣打倒共同委員会結成</a>　（自由・社会・協同・共産の４党）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/04/22　　<a href=\"../1946/side_9.html\">\n幣原内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/22　　<a href=\"../1946/yosi1_1.html\">\n吉田内閣①成立</a>　（首相：<a href=\"../p/ysigeru.html\">吉田茂</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>男尊女卑の根強い社会にあって婦人参政権への反発はやはりあった。\n「枢密院が猛烈に反対」して、担当大臣が立往生する事態となった時、\n楢橋法制局長官が野人ならではの武勇を働いたことを自伝に記している。</div>\n<div><br>皇居の中にある枢密院に駆けつけ、ドアをパットあけて乗りこんだ。\n痩身鶴の如き<a href=\"../p/hkiiciro.html\">平沼議長</a>はチラリと底光りのする眼で私を見た。\n顧問官も一斉にこの異様な男を、好奇心よりもむしろ苦々しい顔をして眺めていた。・・・・・・</div>\n<div>私は手を後に組み大喝一声した。\n「枢密顧問官諸君は婦人参政権法案に挙げて反対しているようだが、あなた方は、\n<a href=\"../p/hkiiciro.html\">平沼議長</a>をはじめ皆戦争犯罪人ではないか！・・・・・・相手国の力も計らず、自己の力も知らず、\nやたらに戦線を拡げて遂にパンクして、三千年の歴史を泥土に帰せしめたのは、\n政治上の発言権を持った男性の世界の失敗ではないか。\n然らば今回の戦争によって一番苦しんだ者は誰であるか。\nそれは老いたる母親であり若き妻である。\nはえば立て、立てば歩めと、千辛万苦して愛育した子供が成人に達すると赤紙一枚を以って、大陸の荒野に、南海の孤島に、\n母や妻をしのびつつ、チリ、アクタの如く死んで行った。・・・・・・もしこれらの女性に今少し早く、\n男性と同様の政治上の発言権を与えていたら、母の子への愛情、妻の夫への平和への願いから、\nこの無謀な戦争は或いは喰い止められていたかも知れない。</div>\n<div><a href=\"../p/hkiiciro.html\">平沼議長</a>、あなたは男から生れたとは聞いていない。\n・・・・・・女を大事にして母親を偉大ならしめることが何か男性の損になるのか。\n・・・・・・枢密院の顧問官諸君に一言警告する。\n貴殿の坐っている椅子は日本の敗戦、<a href=\"../p/macart_d.html\">マッカーサー</a>の進駐によって既に転覆しているのである。\nそれに気付かず旧い制度を守り、呑気にしているのは時局を見る目を失った惰性と見る。\n<a href=\"../p/macart_d.html\">マ司令官</a>が貴殿等を戦争犯罪人として牢獄にぶち込む準備をしていることを私は知っている」（楢橋『激流に棹さして』）</div>\n<div><br>いやはや、たいへんな法制局長官があったものである。\n粗暴といってよい剛腕ぶりと、どこか胸をうつ本質をとらえた言動、\nその両方を持つのが楢橋という人物である。\n枢密院がふるえ上がって抵抗をやめたことは言うまでもない。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/im_senry.html\">五百旗頭真 「占領期」</a>\n　Ｐ．１６７</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1945.html\">１９４５年</a>\n ＞ <a href=\"#h\">選挙法改正</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

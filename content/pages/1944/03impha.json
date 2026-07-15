@@ -1,0 +1,213 @@
+{
+ "path": "1944/03impha.html",
+ "type": "article",
+ "title": "インパール作戦開始　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1944.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "インパール作戦開始"
+  },
+  {
+   "type": "title2",
+   "html": "1944/03/08"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1934.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1943.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1944.html\">１９４４</a> &gt;&gt;&gt; <a href=\"../20c/1945.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"../p/mrenya.html\">無能、無責任な司令官</a>と参謀たちによるおろかな作戦が正視にたえない悲惨を招いた。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1942/03/08　　<a href\"..=\"\" 19.html\"=\"\">\n日本軍、ラングーン占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1942/04/05　　<a href=\"../1942/04colom.html\">\n機動部隊、コロンボ空襲</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1942/06/05　　<a href=\"../1942/06midwa.html\">\nミッドウェー海戦</a>　（～06/07）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/02/01　　<a href=\"../1943/02guada.html\">\nガダルカナル島撤退開始</a>　（02/07 撤退完了）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/08/01　　<a href\"..=\"\" 19.html\"=\"\">\nバー・モ政権、ビルマ独立宣言　（米英に宣戦布告）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/10/21　　<a href=\"../1943/10india.html\">\nチャンドラ・ボース、自由インド仮政府樹立</a>　（シンガポール）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/01/07　　<a href=\"../1944/01impha.html\">\n大本営、インパール作戦を認可</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/03/08　　<a 1944=\"\" href\"..=\"\" 03impha.html\"=\"\">\nインパール作戦開始</a>　（～07/09）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/07/07　　<a href=\"../1944/07saipa.html\">\nサイパン陥落　（守備隊玉砕）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/05/02　　<a href\"..=\"\" 19.html\"=\"\">\nイギリス軍、ラングーン占領</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "pt"
+   },
+   "html": "\n<div class=\"pt_h\">～　<a href=\"../p/mrenya.html\">牟田口司令官</a>いわくインパール作戦は　～</div>\n<div class=\"i2\">「ジンギスカン作戦」　：補給路をつくらず、わずかな食糧と、家畜を連れていく</div>\n<div class=\"i2\">「ひよどり越え作戦」　：インド・ビルマ国境の山岳地帯を一気に突進する</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\n源義経は軍事の天才である。中でもひよどり越えは、天才がおのれの天才性を天下に示した歴史的飛越である。\nそんなものは凡人のためのお手本にはならない。\nところが陸軍に、自ら企図する作戦をひよどり越えになぞらえた者がある。\n彼は自分を義経だけでなく、ジンギスカンにも重ねあわせた。\n良識ある人々の反対を押し切って行われたその作戦は、ただ累々たる屍の山を築いた。\nいや屍の道、というべきか。\n日本兵の逃げ帰ってくる道沿いに、延々と屍が続き、それは「白骨街道」と呼ばれた。\n愚行は戦後も続いた。\n彼は、自らを正当化し、責任を一人の旧部下に押しつけるということを組織的に行なった。\nいわば歴史の改竄である。彼の名は<a href=\"../p/mrenya.html\">牟田口廉也</a>。taroが知る日本史上最も醜悪な人物の一人である。\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div>ああああああああああああああああ</div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1944.html\">１９４４年</a>\n ＞ <a href=\"#h\">インパール作戦開始</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

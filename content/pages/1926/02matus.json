@@ -1,0 +1,213 @@
+{
+ "path": "1926/02matus.html",
+ "type": "article",
+ "title": "松嶋遊郭疑獄事件発覚　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1926.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "松嶋遊郭疑獄事件発覚"
+  },
+  {
+   "type": "title2",
+   "html": "1926/02/28"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1916.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1925.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1926.html\">１９２６</a> &gt;&gt;&gt; <a href=\"../20c/1927.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1936.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "飢えた政友会のスキャンダル攻撃　第１弾。　松嶋遊郭の移転をめぐる贈収賄事件発覚。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/01/28　　<a href=\"../1926/katob_9.html\">\n加藤（高）内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/01/29　　<a href\"..=\"\" 19.html\"=\"\">\n若槻礼次郎、憲政会総裁就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/01/30　　<a href=\"../1926/waka1_1.html\">\n若槻内閣①成立</a>　（首相：<a href=\"../p/wreijiro.html\">若槻礼次郎</a>／全閣僚留任）"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/02/28　　<a 1926=\"\" href\"..=\"\" 02matus.html\"=\"\">\n松嶋遊郭疑獄事件発覚</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/03/04　　<a href=\"../1926/03kimit.html\">\n中野正剛、陸軍機密費横領問題で田中総裁（政友会）を追及</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/04/02　　<a href\"..=\"\" 19.html\"=\"\">\n後藤新平、若槻・田中・床次３党首を訪問、「政治の倫理化」を要請</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/05/20　　<a href\"..=\"\" 19.html\"=\"\">\n若槻首相、床次総裁（政友本党）に連立を要請　（05/26 拒否）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/07/29　　<a href=\"../1926/07pakre.html\">\n朴烈怪写真事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/11/07　　<a href\"..=\"\" 19.html\"=\"\">\n若槻首相、松嶋遊郭疑獄事件で証人として取調べを受ける</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1926/11/09　　<a href\"..=\"\" 19.html\"=\"\">\n箕浦勝人、若槻首相を偽証罪で告発</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>この年初頭、関西の土地会社が自社所有地内に松島遊郭を移転させるため\n政党に金をはらまいたという怪文書が飛びかった。\n大阪の中心部にある松島遊郭は風紀上の理由で移転が取りざたされていたのである。</div>\n<div>検察当局が動き出し、前政友会幹事長岩崎勲・憲政会総務箕浦勝人・政友本党党務委員長高見之通という大物政治家に\n疑惑の目が向けられた。\n岩崎は移転に際し、政友会は反対しないという党議をまとめるための運動費、\n箕浦は、<a href=\"../p/wreijiro.html\">若槻礼次郎内相</a>（当時）から松島遊郭移転を了解する言明を得るための資金、\n高見は、政友本党は移転を妨害しないという<a href=\"../p/ttakejir.html\">床次竹二郎総裁</a>の了解を得る運動費としてそれぞれ３～40万円を受け取ったというものだ。</div>\n<div>３人は起訴されたが、容疑は詐欺だった。\n検察当局は政府および大阪府には遊郭移転の計画はなかったとしたのである。\nこれに激怒した箕浦が「移転は知事が決定することで、自分が指示するはずがない」と証言した<a href=\"../p/wreijiro.html\">若槻礼次郎首相</a>（前内相）を\n偽証罪で告訴するという事件まで起こった。</div>\n<div>裁判では「犯罪の証拠なし」として箕浦、高見は無罪になった（岩崎は途中死亡）。\nしかし、実業家と政党幹部の醜い関係を国民に印象づけた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ys_20sei.html\">読売新聞社 「読む年表・20世紀と昭和天皇」</a>\n　Ｐ．３６</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1926.html\">１９２６年</a>\n ＞ <a href=\"#h\">松嶋遊郭疑獄事件発覚</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

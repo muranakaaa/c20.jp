@@ -1,0 +1,167 @@
+{
+ "path": "1901/09mckin.html",
+ "type": "article",
+ "title": "マッキンレー大統領狙撃事件　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1901.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "マッキンレー大統領狙撃事件"
+  },
+  {
+   "type": "title2",
+   "html": "1901/09/06"
+  },
+  {
+   "type": "navi2",
+   "html": "\n１０年前 &gt;&gt;&gt; 前年 &gt;&gt;&gt; <a href=\"../20c/1901.html\">１９０１</a> &gt;&gt;&gt; <a href=\"../20c/1902.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1911.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "民衆の中の大統領、無政府主義者の銃弾に斃れ、副大統領から昇格、<a href=\"../p/roosev_t.html\">Ｔ・ルーズベルト</a> 登場。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1898/04/25　　<a href\"..=\"\" 19.html\"=\"\">\n米西戦争勃発</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1898/12/10　　<a href\"..=\"\" 19.html\"=\"\">\n米西戦争終結</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1899/09/06　　<a href\"..=\"\" 19.html\"=\"\">\nヘイ（米）国務長官、門戸開放を各国に要求</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/09/06　　<a 1901=\"\" href\"..=\"\" 09mckin.html\"=\"\">\nマッキンレー大統領狙撃事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/09/14　　<a href\"..=\"\" 19.html\"=\"\">\nマッキンレー没　（アメリカ大統領）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/09/14　　<a href\"..=\"\" 19.html\"=\"\">\n副大統領 Ｔ・ルーズベルト、アメリカ大統領就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1902/01/30　　<a href=\"../1902/01je_do.html\">\n日英同盟①調印</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>国民の圧倒的支持を受け、自信に満ちたマッキンレーは、二期目に対して意欲的な抱負を持っていた。\n前例にないキューバ、プエルトリコへの視察、トラスト問題への取り組み、高くなりすぎた関税問題の検討等である。\n一九〇一年三月四日に就任、各地へ遊説旅行に出かけ、国民の義務、国家の目標、繁栄、アメリカの輝かしい未来について、\n熱狂的な群衆に語り掛けた。\n日頃から国民と親しく接することを誇りとしていたが、結局これが命取りとなってしまった。\nニューヨーク州バッファローで開催された汎アメリカ博覧会の開会式（九月六日）に出席後、\n二人の護衛官に守られ公式のレセプションを催したが、歓迎の列に加わっていた無政府主義者のピストルで至近距離から撃たれ、\n九月十四日息をひきとった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/sk_daito.html\">猿谷要 「アメリカ大統領物語」</a>\n　Ｐ．１０１</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">おたよりはこちら</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1901.html\">１９０１年</a>\n ＞ <a href=\"#h\">マッキンレー大統領狙撃事件</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

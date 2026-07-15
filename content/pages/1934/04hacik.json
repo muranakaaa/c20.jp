@@ -1,0 +1,173 @@
+{
+ "path": "1934/04hacik.html",
+ "type": "article",
+ "title": "渋谷駅前にハチ公の銅像建立　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1934.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "渋谷駅前にハチ公の銅像建立"
+  },
+  {
+   "type": "title2",
+   "html": "1934/04/21"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1924.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1933.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1934.html\">１９３４</a> &gt;&gt;&gt; <a href=\"../20c/1935.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1944.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "上野教授の死後10年、毎日渋谷駅に通い続けたハチ公、教科書にも載り、銅像にもなり。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "dz",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/05/21　　<a href\"..=\"\" 19.html\"=\"\">\n上野英三郎没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/08/25　　<a href=\"../1932/08syodo.html\">\n内田外相、「焦土外交」の決意を表明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/09/15　　<a href=\"../1932/09mansy.html\">\n満州国承認　（日満議定書調印）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "nz",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1932/10/04　　<a href\"..=\"\" 19.html\"=\"\">\n朝日新聞、「いとしや老犬物語」掲載</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/04/21　　<a 1934=\"\" href\"..=\"\" 04hacik.html\"=\"\">\n渋谷駅前にハチ公の銅像建立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/03/08　　<a href\"..=\"\" 19.html\"=\"\">\n忠犬ハチ公没</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nハチのパパ、というか飼い主の上野教授が亡くなったのが1925年のこと。\nこのときから、ハチの孤独な渋谷通いが始まる。\nそれから７年、朝日新聞の記事でハチ公人気がブレークする。\nなぜ３年後でも５年後でもなく、７年後だったのだろう。\n単なるグーゼン、タマタマノコトといえばそれまでだが、偶然の後ろに必然が隠れている可能性はないだろうか。\nハチの記事掲載の前年秋、<a href=\"../1931/09ryujo.html\">満州事変が起こっている</a>。\n以後、わずか１年の間に<a href=\"../1931/1010gat.html\">十月事件</a>、<a href=\"../1932/01syan1.html\">上海事変①</a>、血盟団事件、<a href=\"../1932/05515ji.html\">五・一五事件</a>が立て続けに起こり、\nハチブレークの直前には、<a href=\"../p/ukosai.html\">内田外相</a>の<a href=\"../1932/08syodo.html\">「焦土外交」</a>の決意のもと、<a href=\"../1932/09mansy.html\">満州国承認</a>を強行、\n日本は<a href=\"../1933/03datta.html\">国際連盟脱退</a>への助走を開始している。\n軍部がハチを忠犬に見立てて戦意高揚のプロパガンダに利用した、というのは、いかにもありそうな話だ。\nだいたいハチは本当に忠犬だったのだろうか。\n単に渋谷の街に魅了されてただけだったのでは？　\n本当のハチは、ファシズムの時代に作られた渋谷の銅像よりももっとずっとかわいいと想像するのはtaroだけだろうか。\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>東京・渋谷の駅前に忠犬ハチ公の銅像が立てられた。</div>\n<div>ハチ公は、東京帝大教授上野英三郎の飼い犬だったが、毎日、渋谷駅まで主人を迎えに行くのが習慣だった。\nしかし、上野教授が亡くなった後も一〇年間毎日、渋谷駅に通い続け、その忠義ぶりが讃えられ、銅像になったもの。\n新聞によれば、「一度飼われた主人の亡き後まで涙ぐましい思慕の情を見て、二主につかえぬという秋田県の特性をよく現わして\n銅像にまでなった忠犬『ハチ公』が今度、国定教科書に採用され・・・・・・」とある。</div>\n<div>渋谷駅周辺では、ハチ公せんべい、ハチ公そば、ハチ公焼きとり、ハチ公丼などの名物が誕生し、\n「ハチ公音頭」なるレコードまで発売される騒ぎになった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ok_bkyun.html\">おもしろニュース研究会 「20世紀Ｂ級ニュース」</a>\n　Ｐ．７２</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1934.html\">１９３４年</a>\n ＞ <a href=\"#h\">渋谷駅前にハチ公の銅像建立</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

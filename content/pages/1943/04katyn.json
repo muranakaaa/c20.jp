@@ -1,0 +1,245 @@
+{
+ "path": "1943/04katyn.html",
+ "type": "article",
+ "title": "ベルリン放送、カチン虐殺事件を発表　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1943.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "ベルリン放送、カチン虐殺事件を発表"
+  },
+  {
+   "type": "title2",
+   "html": "1943/04/13"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1933.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1942.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1943.html\">１９４３</a> &gt;&gt;&gt; <a href=\"../20c/1944.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "行方不明だった１９３９年のポーランド軍将校たち、カチンの森の腐乱死体で発見。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1939/08/23　　<a href=\"../1939/08ds_jy.html\">\n独ソ不可侵条約締結</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1939/09/01　　<a href=\"../1939/09taise.html\">\nドイツ軍、ポーランド侵攻開始</a>　（第二次世界大戦勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1939/09/17　　<a href=\"../1939/09s_sin.html\">\nソ連軍、ポーランド東部に侵攻開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1939/09/27　　<a href\"..=\"\" 19.html\"=\"\">\nワルシャワ陥落</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/05/10　　<a href=\"../1940/05seibu.html\">\nドイツ軍、西部戦線に総攻撃開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/06/22　　<a href=\"../1941/06ds_ka.html\">\n独ソ戦開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/01/14　　<a href=\"../1943/01casab.html\">\nカサブランカ会談</a>　（～01/25）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/02/02　　<a href=\"../1943/02stali.html\">\nスターリングラードのドイツ第６軍、全軍降伏</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/04/13　　<a 1943=\"\" href\"..=\"\" 04katyn.html\"=\"\">\nベルリン放送、カチン虐殺事件を発表</a>　（遺体4000以上発見）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/04/18　　<a href=\"../1943/04kojik.html\">\n海軍甲事件</a>　（連合艦隊司令長官<a href=\"../p/yisoroku.html\">山本五十六</a>戦死）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/04/19　　<a href\"..=\"\" 19.html\"=\"\">\nユダヤ人の反ファシズム武装蜂起　（～05/19／ワルシャワ・ゲットー）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/04/26　　<a href\"..=\"\" 19.html\"=\"\">\nソ連・ポーランド断交　（</a><a href=\"../1943/04katyn.html\">カチン虐殺事件</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/07/10　　<a href=\"../1943/07sicil.html\">\n連合軍、シシリー島上陸</a>　（ハスキー作戦）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/09/08　　<a href=\"../1943/09i_kof.html\">\nイタリア、無条件降伏</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>一九四三年四月十三日午後三時十五分<span class=\"bar\">―</span>―。</div>\n<div>ベルリン放送が、はじめて事件を全世界に一報した。</div>\n<div>【中略】</div>\n<div>「ドイツ陸軍当局は、数日前、現地住民の示唆により、殺害されたポーランド軍将校の集団墓地を発見した。\n現場は、スモレンスク市の西方二十キロ、スモレンスク－ビテブスク街道に沿ったカチン森の通称『山羊ガ丘』であり、\n『ＮＫＶＤ』（ソ連内務省秘密警察）休養所から約五百メートル離れた地点である・・・・・・」</div>\n<div>ベルリン放送は、さらに、埋葬されているポーランド軍将校の死体の推定数は「一万体以上」であること、\n死体のほとんどは後ろ手に縛られて後頭部に銃弾をうちこまれていること、などをつたえた。\nニュースは、ポーランド国民のみならず、欧米諸国にも衝撃をあたえた。</div>\n<div>というのも、一九三九年九月、ソ連軍がポーランド東部に進入したさい、多数のポーランド軍人、市民が捕虜となり、\nその後、ロンドンのポーランド亡命政府が、一部の行方不明者、とくに将校群の所在をたしかめるべく、\nしきりにソ連政府と交渉していたことは、よく知られていたからである。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kn5hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（５）」</a>\n　Ｐ．３１２</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>一メートルほど掘ると、むっと屍臭がたちのぼり、掘れば掘るほどその臭いは強烈になり、村民三人のうち二人は、もう駄目だ、\n病気になる、といって、シャベルをほうりだした。</div>\n<div>「どうした、貴様ら、しっかりやれ」</div>\n<div>軍曹たちが叱咤したが、二人は、いち早く現場から避難している。</div>\n<div>臭気に強いらしい一人の村民だけが作業をつづけ、やがて長い外套を着た死体にぶつかった。\n服のボタンをちぎりとって泥をこすり落とすと、ワシ印がうきあがった。ポーランド軍の制章である。</div>\n<div>とにかく報告だ、と軍曹たちがわめき、一行はボタン一個をもって憲兵隊にひき返した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kn5hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（５）」</a>\n　Ｐ．３１９</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">おたよりはこちら</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1943.html\">１９４３年</a>\n ＞ <a href=\"#h\">ベルリン放送、カチン虐殺事件を発表</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

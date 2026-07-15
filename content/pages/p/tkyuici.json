@@ -1,0 +1,358 @@
+{
+ "path": "p/tkyuici.html",
+ "type": "person",
+ "title": "徳田 球一　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "p.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <span class=\"now\">人物</span> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "徳田 球一"
+  },
+  {
+   "type": "title2",
+   "html": "1894 － 1953"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "name"
+   },
+   "html": "\n[ とくだ・きゅういち ]"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "prof"
+   },
+   "html": "\n日本共産党書記長、衆議院議員"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href=\"04t.html\">一覧　（タ）</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_r\">エピソード 1</span>調査中。"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　沖縄県出身。苦学しながら日大夜間部に学び、弁護士。日大専門部法律学科卒。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　日本社会主義同盟結成に参加。極東民族大会に日本代表として出席。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　<a href=\"../p/stosihik.html\">堺利彦</a>、山川均、<a href=\"../p/nsanzo.html\">野坂参三</a>らとともに<a href=\"../1922/07kyosa.html\">日本共産党を設立</a>。共産党事件で検挙される。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　労働農民党から総選挙に立候補するも落選。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　<a href=\"../1928/03315ji.html\">三・一五事件</a>で逮捕され、以後、<a href=\"../1945/08gyoku.html\">敗戦</a>まで獄中生活を余儀なくされる。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　<a href=\"../1945/08gyoku.html\">終戦</a>により出獄し、日本共産党書記長に就任。衆議院議員。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　マッカーサー指令で公職追放となり、以後、地下活動に入る。中国に亡命、北京で病死。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1922/07/15　　<a href=\"../1922/07kyosa.html\">\n日本共産党結成</a>　（委員長：<a href=\"../p/stosihik.html\">堺利彦</a>／秘密結社）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/06/05　　<a href\"..=\"\" 19.html\"=\"\">\n共産党事件</a>　（<a href=\"../p/stosihik.html\">堺利彦</a>ら検挙）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/01　　<a href=\"../1923/09sinsa.html\">\n関東大震災</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1928/03/15　　<a href=\"../1928/03315ji.html\">\n三・一五事件</a>　（共産党関係者一斉検挙）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/09/18　　<a href=\"../1931/09ryujo.html\">\n柳条湖事件</a>　（満州事変勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/07/07　　<a href=\"../1937/07rokok.html\">\n盧溝橋事件</a>　（日中戦争勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/12/08　　<a href=\"../1941/12hawai.html\">\nハワイ奇襲攻撃</a>　（AM03：25／太平洋戦争勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/15　　<a href=\"../1945/08gyoku.html\">\n玉音放送　（終戦の詔勅）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/10/10　　<a href\"..=\"\" 19.html\"=\"\">\n徳田球一ら政治犯約500人釈放</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/12/01　　<a href\"..=\"\" 19.html\"=\"\">\n徳田球一、共産党書記長就任</a>　（共産党再建大会）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/01/18　　<a href=\"../1947/0121sut.html\">\n全官公庁労組共闘委員会、「２・１ゼネスト」を宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/01/31　　<a href=\"../1947/01macar.html\">\nマッカーサー、「２・１ゼネスト」中止を命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/07/19　　<a href=\"../1948/07tokud.html\">\n徳田書記長暗殺未遂事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/01/06　　<a href=\"../1950/01hihan.html\">\nコミンフォルム機関紙、野坂参三の平和革命論を批判</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/01/19　　<a href\"..=\"\" 19.html\"=\"\">\n日本共産党、「コミンフォルム機関紙の論評に関する決議」採択</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/02/06　　<a href\"..=\"\" 19.html\"=\"\">\n野坂参三自己批判　（「右翼日和見主義的誤りを犯した」）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/06/06　　<a href\"..=\"\" 19.html\"=\"\">\nマッカーサー、吉田首相宛書簡で共産党幹部24人の公職追放を指令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/06/25　　<a href=\"../1950/06cyose.html\">\n朝鮮戦争勃発</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>徳田の指導者的な素質は、あくまでもその行動力にあり、\nその行動の上にいささかも懐疑を残さないところにある。\n彼のバイタリティには野牛のような勇猛性がある一方、人の微笑を誘うユーモア性をもっている。\n彼はあくまでも陽性であった。</div>\n<div>弾圧のきびしい時代には、とかく党員間に陰気な空気がはびこり、\n意気銷沈しがちなのだが、こんな際に徳田のような陽気型の指導者は、みんなに勇気を与え、\n感傷をけし飛ばしてしまう。<span class=\"bar\">―</span>―</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ms2syowa.html\">松本清張 「昭和史発掘（２）」</a>\n　Ｐ．２２８</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>彼は明治三十七年沖縄県那覇に生まれ、\n鹿児島の七高に入ったが、中途退学した。\n酔って地元の新聞社の社長に乱暴したためだ。\n沖縄に帰ると、村の小学校の代用教員をしたり、郡役所の書記になったりした。\nその後上京し、為替貯金局の官吏となり、のち、東京市役所の職員に変った。\n日大の法科に籍はあったが、ほとんど講義には出ず、勤務が終ると、下宿で法律の勉強に取組んだ。</div>\n<div>後年検挙されてから、彼のその時代の法律知識が法廷戦術にずいぶん役立っているし、\n事実、弁護士の肩書があった。</div>\n<div><a href=\"../p/stosihik.html\">堺</a>や荒畑と知り合ったのは大正十年ごろからで、彼は山川均を中心とした水曜会に入った。\n<a href=\"../p/stosihik.html\">堺</a>にすすめられてモスクワの極東民族大会に出席し、帰国してからは、\nコミンテルンの指令で日本共産党の樹立にたずさわった。\nこの極東民族大会を機会に彼はモスクワに行き、<a href=\"../p/stalin.html\">スターリン</a>から、\n<a href=\"../p/lenin_n.html\">レーニン</a>の「国家と革命」に関する講義を聞き、感激している。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ms2syowa.html\">松本清張 「昭和史発掘（２）」</a>\n　Ｐ．２３９</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">おたよりはこちら</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"04t.html\">人物ファイル一覧　（タ）</a>\n ＞ <a href=\"#h\">徳田 球一</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

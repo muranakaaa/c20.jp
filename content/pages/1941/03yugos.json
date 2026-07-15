@@ -1,0 +1,272 @@
+{
+ "path": "1941/03yugos.html",
+ "type": "article",
+ "title": "ユーゴ、反独クーデター　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1941.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "ユーゴ、反独クーデター"
+  },
+  {
+   "type": "title2",
+   "html": "1941/03/27"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1931.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1940.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1941.html\">１９４１</a> &gt;&gt;&gt; <a href=\"../20c/1942.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "ユーゴ、<a href=\"../p/hitler_a.html\">ヒトラー</a>の<a href=\"../1941/06ds_ka.html\">ソ連侵攻</a>を遅らせる価値あるレジスタンス。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/05/10　　<a href=\"../1940/05seibu.html\">\nドイツ軍、西部戦線に総攻撃開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/06/22　　<a href=\"../1940/06f_kof.html\">\nフランス（ペタン政府）降伏</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/09/27　　<a href=\"../1940/09jdi_d.html\">\n日独伊三国軍事同盟調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/10/12　　<a href=\"../1940/10asika.html\">\nヒトラー、英本土上陸作戦（あしか作戦）中止を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/12/18　　<a href=\"../1940/12barba.html\">\nヒトラー、ソ連侵攻作戦（バルバロッサ作戦）準備を指令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/03/25　　<a href\"..=\"\" 19.html\"=\"\">\nユーゴ、日独伊三国軍事同盟に調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/03/27　　<a 1941=\"\" href\"..=\"\" 03yugos.html\"=\"\">\nユーゴ、反独クーデター</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/03/27　　<a href=\"../1941/03kaida.html\">\n松岡・ヒトラー会談</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/04/06　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ軍、ユーゴ・ギリシア侵攻開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/04/23　　<a href\"..=\"\" 19.html\"=\"\">\nギリシア軍、ドイツに降伏</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/05/10　　<a href=\"../1941/05hessj.html\">\nヘス事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/06/22　　<a href=\"../1941/06ds_ka.html\">\n独ソ戦開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/06/27　　<a href\"..=\"\" 19.html\"=\"\">\n人民解放パルチザン部隊創設</a>　（ユーゴ／司令官：<a href=\"../p/tito.html\">チトー</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/10/02　　<a href=\"../1941/10moskv.html\">\nドイツ軍、モスクワ攻略作戦（台風作戦）発動</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/12/08　　<a href=\"../1941/12hawai.html\">\nハワイ奇襲攻撃</a>　（AM03：25／太平洋戦争勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/12/08　　<a href=\"../1941/12moskv.html\">\nヒトラー、モスクワ攻撃放棄を指令</a>　（撤退開始）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>三月二十七日<span class=\"bar\">―</span>―</div>\n<div>まず午前十一時に日独外相会談がおこなわれたが、その一時間半前、午前九時三十分、<a href=\"../p/hitler_a.html\">ヒトラー</a>は意外な報告をうけた。</div>\n<div>「三国同盟」参加が発表されたあと、ユーゴ国内の各地で反対運動が展開されているとのニュースが伝えられていたが、\n前夜、首都ベオグラードで空軍によるクーデターが発生した。</div>\n<div>摂政パウルとツベトコヴィッチ内閣は倒れ、未成年（十七歳）の国王ペテル二世が「成年に達した」旨が宣言され、\n次いでその即位が発表された、というのである。</div>\n<div>【中略】</div>\n<div>・・・・・・新首相には“共産主義者”とみられる空軍司令官Ｄ・シモヴィッチ中将が就任し、直ちに組閣した。</div>\n<div>・・・・・・ドイツ領事館にデモ隊がおしかけ、ドイツ旅行社の事務所は破壊された。\nスウェーデン公使館員がドイツ人と誤認されてデモ隊に襲われ、負傷した。</div>\n<div>・・・・・・英国領事館、米国領事館も襲撃され、いずれも国旗が引き裂かれた。</div>\n<div>・・・・・・デモ隊は『赤旗の歌』をうたっている。</div>\n<div>・・・・・・新政府は「三国同盟」加盟は批准せず、代わりに不可侵条約をドイツと結ぶ意向を表明している。</div>\n<div>【中略】</div>\n<div>「これは明白な裏切りだ。だが、敵がいま素顔をさらけだしてくれたのは、われわれにとっては好都合だ」</div>\n<div>【中略】</div>\n<div>対ギリシャ作戦『マリタ』や対ソ作戦『バルバロッサ』が発動されたあとでユーゴに内紛が発生しては、\n後方を脅かされて両作戦に影響をうける。\nいまのほうが処理しやすい、との表意である。</div>\n<div>「ユーゴは膺懲されねばならない。いや、抹殺しておくべきだ」</div>\n<div><a href=\"../p/hitler_a.html\">ヒトラー</a>の双眼に暗い怒りの炎が燃えあがり、主要幹部会議の招集が指示された。</div>\n<div class=\"txr\"><a href=\"../text/kn3hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（３）」</a>\n　Ｐ．４７６<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167141388%2Fqid%3D1147087396%2Fsr%3D1-17%2Fref%3Dsr_1_2_17\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/hitler_a.html\">ヒトラー</a>は、ユーゴ作戦を電撃的に遂行するには強力な兵力の投入が必要になる、と指摘して、言明した。</div>\n<div>「このため、『バルバロッサ』作戦は四週間ほど延期せねばならないだろう」</div>\n<div>会議の前に協議した統帥局長ヨードル大将の献策による発言であったが、この作戦延期命令は、\nのちに<a href=\"../1941/06ds_ka.html\">対ソ戦</a>だけでなくナチス・ドイツの命運を左右する誤判断として回顧される。</div>\n<div>四週間の延期は、例年よりも早いソ連の冬期の訪れと連結して独軍の敗北をさそい、ひいてはドイツの敗戦の主因になるからである。</div>\n<div class=\"txr\"><a href=\"../text/kn3hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（３）」</a>\n　Ｐ．４７９<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4167141388%2Fqid%3D1147087396%2Fsr%3D1-17%2Fref%3Dsr_1_2_17\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1941.html\">１９４１年</a>\n ＞ <a href=\"#h\">ユーゴ、反独クーデター</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

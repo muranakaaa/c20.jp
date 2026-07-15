@@ -1,0 +1,610 @@
+{
+ "path": "20c/1904.html",
+ "type": "year",
+ "title": "１９０４年　／ クリック ２０世紀",
+ "description": null,
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a href=\"#f\">▽▽▽</a><a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９０４年"
+  },
+  {
+   "type": "title2",
+   "html": "明治３７年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n１０年前 &gt;&gt;&gt; <a href=\"1903.html\">前年</a> &gt;&gt;&gt; <span class=\"now\">１９０４</span> &gt;&gt;&gt; <a href=\"1905.html\">翌年</a> &gt;&gt;&gt; <a href=\"1914.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "花電車　　兵隊勘定　　露探　　軍神",
+    "<a href=\"../1901/katu1_1.html\">桂内閣①</a>"
+   ]
+  },
+  {
+   "type": "edit_bar",
+   "kind": "e_data",
+   "html": "リンク情報（2003/00/00）＝削除：０件（.html）"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"1903.html#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/01/02　　<a href\"..=\"\" 19.html\"=\"\">\n近衛篤麿没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/01/23　　<a href=\"../1904/01k_cur.html\">\n韓国、日露開戦の場合の中立を声明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/04　　<a href=\"../1904/02goz04.html\">\n御前会議、対露開戦を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/08　　<a href=\"../1904/02jorik.html\">\n陸軍先遣隊、仁川上陸</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/08　　<a href=\"../1904/02jinse.html\">\n仁川沖海戦</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/10　　<a href=\"../1904/02jr_wa.html\">\n対露宣戦布告</a>　（日露戦争勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/11　　<a href\"..=\"\" 19.html\"=\"\">\n大本営設置</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/12　　<a href\"..=\"\" 19.html\"=\"\">\n清国政府、中立宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/18　　<a href\"..=\"\" 19.html\"=\"\">\n東京の市街電車、社内禁煙を実施</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/23　　<a href=\"../1904/02jk_gi.html\">\n日韓議定書調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/24　　<a href=\"../1904/02heso1.html\">\n旅順口閉塞作戦①</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/03/01　　<a href\"..=\"\" 19.html\"=\"\">\n総選挙[９]　（政友会133、憲政本党90、帝国党19）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/03/04　　<a href\"..=\"\" 19.html\"=\"\">\n二葉亭四迷、大阪朝日新聞社に入社</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/03/27　　<a href=\"../1904/03heso2.html\">\n旅順口閉塞作戦②</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/03/29　　<a href=\"../1904/03hiros.html\">\n海軍省、旅順口閉塞作戦②を詳報</a>　（広瀬中佐の美談）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/04/01　　<a href=\"../1904/04tabak.html\">\n煙草専売法公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/04/08　　<a href\"..=\"\" 19.html\"=\"\">\n英仏協商調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/04/13　　<a href\"..=\"\" 19.html\"=\"\">\n月謝紛失事件調査のため、裸体身体検査　（県立岡山高等女学校）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/05/01　　<a href\"..=\"\" 19.html\"=\"\">\n第一軍、鴨緑江を渡河、九連城占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/05/01　　<a href\"..=\"\" 19.html\"=\"\">\n日露戦争実写映画上映　（神田錦輝館／吉沢商店製作）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/05/03　　<a href=\"../1904/05heso3.html\">\n旅順口閉塞作戦③</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/05/05　　<a href\"..=\"\" 19.html\"=\"\">\n新潮社創業</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/05/08　　<a href=\"../1904/05cyoci.html\">\n大祝捷提灯行列</a>　（死者20名／東京）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/05/10　　<a href=\"../1904/05gaisa.html\">\nロンドン・ニューヨークで外債募集①</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/05/30　　<a href\"..=\"\" 19.html\"=\"\">\n第二軍、大連占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/05/31　　<a href\"..=\"\" 19.html\"=\"\">\n大本営、旅順攻略のため、第三軍の編成を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/06/15　　<a href=\"../1904/06uraji.html\">\nウラジオ艦隊、対馬海峡で常陸丸・和泉丸を撃沈</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/06/20　　<a href\"..=\"\" 19.html\"=\"\">\n満州軍総司令部設置　（総司令官：</a><a href=\"../p/oiwao.html\">大山巌</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/07/01　　<a href=\"../1904/07tabac.html\">\n専売タバコ発売</a>　（敷島・大和・朝日・スター・チェリー）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/07/07　　<a href\"..=\"\" 19.html\"=\"\">\nフランス、法王庁と断交</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/07/12　　<a href=\"../1904/07ryojy.html\">\n軍令部長ら、参謀総長に旅順攻略促進を要請</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/07/28　　<a href\"..=\"\" 19.html\"=\"\">\nロシアのプレーヴェ内相暗殺</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/08/10　　<a href=\"../1904/08kokai.html\">\n黄海海戦</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/08/14　　<a href\"..=\"\" 19.html\"=\"\">\n蔚山沖海戦</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/08/14　　<a href=\"../1904/08katay.html\">\n片山潜、第２インター出席</a>　（アムステルダム）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/08/19　　<a href=\"../1904/08ryojy.html\">\n旅順総攻撃①開始</a>　（第三軍司令官：<a href=\"../p/nmaresuk.html\">乃木希典</a>／～08/24）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/08/22　　<a href=\"../1904/08jk_k1.html\">\n日韓協約①調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/08/24　　<a href\"..=\"\" 19.html\"=\"\">\nロシア、バルチック艦隊の太平洋派遣を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/09/02　　<a href\"..=\"\" 19.html\"=\"\">\n東京市街鉄道、祝捷イルミネーション電車を運転</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/09/04　　<a href\"..=\"\" 19.html\"=\"\">\n日本軍、遼陽占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/09/04　　<a href\"..=\"\" 19.html\"=\"\">\n陸軍省、遼陽会戦を詳報　（橘中佐の奮戦）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/09/23　　<a href=\"../1904/09yahat.html\">\n八幡製鉄所火入れ③</a>　（生産が軌道に乗る）"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/09/26　　<a href\"..=\"\" 19.html\"=\"\">\n小泉八雲（ラフカディオ・ハーン）没</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"1905.html#s1\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/10/10　　<a href\"..=\"\" 19.html\"=\"\">\n沙河会戦　（～10/20）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/10/21　　<a href\"..=\"\" 19.html\"=\"\">\nドッガー・バンク事件　（～10/22／英・露）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/10/26　　<a href=\"../1904/10ryojy.html\">\n旅順総攻撃②開始</a>　（～10/31）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/10/27　　<a href\"..=\"\" 19.html\"=\"\">\n独露同盟交渉開始　（11/23 決裂）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/11/26　　<a href=\"../1904/11ryojy.html\">\n旅順総攻撃③開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/12/05　　<a href=\"../1904/12203ko.html\">\n第三軍、二〇三高地占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/12/06　　<a href=\"../1904/12mituk.html\">\n㈱三越呉服店設立</a>　（三井呉服店の営業を継承）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1901/katu1_1.html\">桂内閣①</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">花電車　　兵隊勘定　　露探　　軍神</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「藤村詩集」　「労働問題」　「西蔵旅行記」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">「日露戦争活動大写真」</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">―</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">ラッパ節　　日本陸軍</td></tr>\n</tbody>"
+  },
+  {
+   "type": "fnavi",
+   "html": "<a name=\"f\"></a>\n<a href=\"../index.html\">目次</a>\n ＞ <a href=\"#h\">１９０４年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

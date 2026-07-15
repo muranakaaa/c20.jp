@@ -1,0 +1,839 @@
+{
+ "path": "20c/1944.html",
+ "type": "year",
+ "title": "１９４４年　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９４４年"
+  },
+  {
+   "type": "title2",
+   "html": "昭和１９年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"1934.html\">１０年前</a> &gt;&gt;&gt; <a href=\"1943.html\">前年</a> &gt;&gt;&gt; <span class=\"now\">１９４４</span> &gt;&gt;&gt; <a href=\"1945.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"#s4\">鬼畜米英　　神風特攻隊　　一億火の玉</a>",
+    "<a href=\"../1941/tojo_1.html\">東條</a> → <a href=\"../1944/koiso_1.html\">小磯内閣</a>"
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"1943.html#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/01/07　　<a href=\"../1944/01impha.html\">\n大本営、インパール作戦を認可</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/01/20　　<a href\"..=\"\" 19.html\"=\"\">\nソ連軍、レニングラード解放</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/01/23　　<a href\"..=\"\" 19.html\"=\"\">\nエドヴァルト・ムンク没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/02/10　　<a href\"..=\"\" 19.html\"=\"\">\n東野英治郎ら、俳優座結成</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/02/17　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ機動部隊、トラック島空襲</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/02/19　　<a href\"..=\"\" 19.html\"=\"\">\n東條内閣改造②</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/02/21　　<a href=\"../1944/02kenni.html\">\n東條首相兼陸相、参謀総長を兼任</a>　（<a href=\"../p/ssigetar.html\">嶋田海相</a>、軍令部総長兼任）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/02/23　　<a href=\"../1944/02takey.html\">\n毎日新聞記事「竹槍では間に合わぬ 飛行機だ」に東條首相激怒</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/02/25　　<a href\"..=\"\" 19.html\"=\"\">\n文部省、食糧増産に学徒500万人の動員決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/03/04　　<a href\"..=\"\" 19.html\"=\"\">\n宝塚歌劇団、最終公演　（ファン殺到で、警官が抜刀して警備）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/03/05　　<a href\"..=\"\" 19.html\"=\"\">\n警視庁、高級料理店・待合・バーなどを閉鎖</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/03/06　　<a href\"..=\"\" 19.html\"=\"\">\n全国の新聞、夕刊廃止</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/03/08　　<a href=\"../1944/03impha.html\">\nインパール作戦開始</a>　（～07/09）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/03/31　　<a href=\"../1944/03otuji.html\">\n海軍乙事件</a>　（連合艦隊司令長官<a href=\"../p/kmineici.html\">古賀峯一</a>「殉職」／04/05 発表）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/03/31　　<a href\"..=\"\" 19.html\"=\"\">\n松竹少女歌劇団解散　（松竹芸能本部女子挺身隊結成）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/06/04　　<a href\"..=\"\" 19.html\"=\"\">\n連合軍、ローマ入城</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/06/06　　<a href=\"../1944/06norma.html\">\n連合軍、ノルマンディー上陸作戦開始</a>　（オーバーロード作戦）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/06/10　　<a href\"..=\"\" 19.html\"=\"\">\n言論人総決起大会開催　（ヒトラーに激励電報を送付）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/06/15　　<a href=\"../1944/06a_sai.html\">\nアメリカ軍、サイパン島上陸</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/06/15　　<a href=\"../1944/06v1roc.html\">\nドイツ軍、Ｖ１ロケットでロンドン爆撃開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/06/16　　<a href\"..=\"\" 19.html\"=\"\">\n岡田元首相（海軍大将）、嶋田海相に辞任を勧告</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/06/19　　<a href=\"../1944/06maria.html\">\nマリアナ沖海戦</a>　（～06/20）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/06/22　　<a href\"..=\"\" 19.html\"=\"\">\nソ連軍、ミンスク奪回作戦開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/06/23　　<a href\"..=\"\" 19.html\"=\"\">\n北海道に新山出現</a>　（06/27 「昭和新山」と命名）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/06/26　　<a href\"..=\"\" 19.html\"=\"\">\nシェルブール要塞陥落</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/06/30　　<a href\"..=\"\" 19.html\"=\"\">\n学童疎開を閣議決定</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/07/01　　<a href\"..=\"\" 19.html\"=\"\">\nブレトンウッズ会議開催</a>　（～07/22）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/07/03　　<a href\"..=\"\" 19.html\"=\"\">\nミンスク陥落</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/07/07　　<a href=\"../1944/07saipa.html\">\nサイパン陥落　（守備隊玉砕）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/07/14　　<a href=\"../1944/07sanbo.html\">\n東條首相、参謀総長辞任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/07/17　　<a href=\"../1944/07simad.html\">\n嶋田海相解任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/07/18　　<a href=\"../1944/tojo_9.html\">\n東條内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/07/20　　<a href=\"../1944/koiso_0.html\">\n小磯国昭・米内光政に協力内閣の組閣命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/07/20　　<a href=\"../1944/07hitle.html\">\nヒトラー暗殺計画失敗</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/07/21　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ軍、グアム島上陸　（08/10 守備隊玉砕）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/07/22　　<a href=\"../1944/koiso_1.html\">\n小磯内閣成立</a>　（首相：<a href=\"../p/kkuniaki.html\">小磯国昭</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/07/24　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ軍、テニヤン島上陸　（08/03 守備隊玉砕）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/07/31　　<a href\"..=\"\" 19.html\"=\"\">\nアントワーヌ・ド・サンテグジュペリ没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/08/05　　<a href\"..=\"\" 19.html\"=\"\">\n大本営政府連絡会議を最高戦争指導会議と改称</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/08/10　　<a href\"..=\"\" 19.html\"=\"\">\n鈴木貫太郎、枢密院議長就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/08/10　　<a href\"..=\"\" 19.html\"=\"\">\n軍需省、「開戦以降物的国力の推移ならびに今後における見通し」作成</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/08/21　　<a href=\"../1944/08dumbe.html\">\nダンバートン・オークス会議開催</a>　（～10/07）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/08/22　　<a href=\"../1944/08tusim.html\">\n沖縄からの疎開船対馬丸、アメリカ潜水艦の魚雷攻撃により沈没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/08/23　　<a href\"..=\"\" 19.html\"=\"\">\nアントネスク（ルーマニア）首相逮捕</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/08/25　　<a href=\"../1944/08paris.html\">\n連合軍、パリ入城</a>　（<a href=\"../p/degaul_c.html\">ド・ゴール</a>凱旋）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/08/28　　<a href=\"../1944/08kigan.html\">\n大達内相、全国神職寇敵撃滅祈願を訓令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/09/04　　<a href=\"../1944/09tokus.html\">\n最高戦争指導会議、対ソ特使派遣を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/09/15　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ軍、ペリリュー島上陸</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/09/16　　<a href\"..=\"\" 19.html\"=\"\">\nモロトフ（ソ）外相、佐藤尚武駐ソ大使の特使派遣提案を拒否</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/09/28　　<a href\"..=\"\" 19.html\"=\"\">\n最高戦争指導会議、対ソ政策を決定</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"1945.html#s1\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/10/10　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ機動部隊、沖縄を空襲</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/10/11　　<a href\"..=\"\" 19.html\"=\"\">\nソ連軍、ドイツ国境を突破</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/10/12　　<a href=\"../1944/10taiwa.html\">\n台湾沖航空戦</a>　（大本営、大戦果を発表）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/10/14　　<a href\"..=\"\" 19.html\"=\"\">\nロンメル、服毒自殺</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/10/18　　<a href=\"../1944/10syo1g.html\">\n大本営、捷一号作戦を発動</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/10/18　　<a href\"..=\"\" 19.html\"=\"\">\nＦ・ルーズベルト（米）大統領、スティルウェル在中米軍司令官を召還</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/10/20　　<a href=\"../1944/10a_ley.html\">\nアメリカ軍、レイテ島（フィリピン）上陸</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/10/20　　<a href\"..=\"\" 19.html\"=\"\">\n一億憤激米英撃摧国民大会開催　（日比谷）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/10/24　　<a href=\"../1944/10leyte.html\">\nレイテ沖海戦</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/10/25　　<a href=\"../1944/10tokko.html\">\n特攻開始</a>　（関大尉ら敷島隊）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/11/01　　<a href\"..=\"\" 19.html\"=\"\">\n全国の新聞、朝刊２ページに</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/11/01　　<a href=\"../1944/11dongu.html\">\n大日本青少年団、どんぐり採集</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/11/03　　<a href=\"../1944/11fusen.html\">\n陸軍気球連隊、アメリカへ向け風船爆弾発射</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/11/07　　<a href\"..=\"\" 19.html\"=\"\">\nスターリン、日本を侵略国と見なすと声明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/11/07　　<a href\"..=\"\" 19.html\"=\"\">\nＦ・ルーズベルト（米大統領）４選</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/11/10　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/ocyomei.html\">\n汪兆銘</a>没　（名古屋）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/11/19　　<a href=\"../1944/11sinan.html\">\n空母「信濃」完成</a>　（「大和」型戦艦を改造／11/29 沈没）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/11/21　　<a href\"..=\"\" 19.html\"=\"\">\n農村向け屎尿電車輸送開始　（西武武蔵野線）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/12/02　　<a href\"..=\"\" 19.html\"=\"\">\n沢村栄治没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/12/03　　<a href=\"../1944/12greec.html\">\nギリシア内乱勃発</a>　（～45/01/11）"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/12/30　　<a href\"..=\"\" 19.html\"=\"\">\nロマン・ロラン没</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1941/tojo_1.html\">東條</a> → <a href=\"../1944/koiso_1.html\">小磯内閣</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">鬼畜米英　　神風特攻隊　　一億火の玉</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「花ざかりの森」　「津軽」　「魯迅」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">「加藤隼戦闘隊」　「陸軍」</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">巷の声　　防空情報</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">同期の桜　　轟沈</td></tr>\n</tbody>"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"#h\">１９４４年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

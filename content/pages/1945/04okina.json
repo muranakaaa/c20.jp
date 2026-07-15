@@ -1,0 +1,253 @@
+{
+ "path": "1945/04okina.html",
+ "type": "article",
+ "title": "沖縄戦開始　（アメリカ軍、沖縄本島上陸）　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1945.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "沖縄戦開始　（アメリカ軍、沖縄本島上陸）"
+  },
+  {
+   "type": "title2",
+   "html": "1945/04/01"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1935.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1944.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1945.html\">１９４５</a> &gt;&gt;&gt; <a href=\"../20c/1946.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "本土決戦を遅らせるための持久戦には老人、子供、女性まで動員された。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/08/22　　<a href=\"../1944/08tusim.html\">\n沖縄からの疎開船対馬丸、アメリカ潜水艦の魚雷攻撃により沈没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/10/10　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ機動部隊、沖縄を空襲</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/10/12　　<a href=\"../1944/10taiwa.html\">\n台湾沖航空戦</a>　（大本営、大戦果を発表）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/10/20　　<a href=\"../1944/10a_ley.html\">\nアメリカ軍、レイテ島（フィリピン）上陸</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/10/24　　<a href=\"../1944/10leyte.html\">\nレイテ沖海戦</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/10/25　　<a href=\"../1944/10tokko.html\">\n特攻開始</a>　（関大尉ら敷島隊）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/03/17　　<a href=\"../1945/03iojim.html\">\n硫黄島守備隊玉砕</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/04/01　　<a 1945=\"\" href\"..=\"\" 04okina.html\"=\"\">\n沖縄戦開始　（アメリカ軍、沖縄本島上陸）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/04/07　　<a href=\"../1945/04yamat.html\">\n戦艦「大和」撃沈　（水上特攻失敗）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/05/07　　<a href=\"../1945/05d_kof.html\">\nドイツ、無条件降伏　（ベルリン陥落）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/06/08　　<a href=\"../1945/06goz08.html\">\n御前会議、本土決戦決定</a>　（「今後採るべき戦争指導の基本要綱」）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/06/18　　<a href=\"../1945/06himey.html\">\n沖縄師範女子部・第一高女の生徒49人戦死または自決</a>　（～06/23）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/06/23　　<a href=\"../1945/06okina.html\">\n沖縄守備隊全滅</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/03/01　　<a href\"..=\"\" 19.html\"=\"\">\n「ひめゆりの塔」建立　（沖縄）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "pt"
+   },
+   "html": "\n<div class=\"pt_h\">～　戦死者　（沖縄県援護課調べ）　～</div>\n<div class=\"i10\">連合軍　　　 ：　１万2281人</div>\n<div class=\"i10\">日本軍　　　 ：　６万5908人　（沖縄出身者を除く）</div>\n<div class=\"i10\">沖縄出身者 ： 12万2228人　（うち一般人：９万4000人）</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\n40年ほど生きて、その間、taroなりにいろいろな本を読んだが、読書をして胃がキリキリと痛くなったのはただ一冊、\n曽野綾子の「生贄の島」だけだ。サブタイトルは「沖縄女生徒の記録」。\n半ページほど読むともう胃が痛みはじめる。その痛みが、読書を中断すると治まる。その繰り返しだった。\n生すなわち地獄という極限状態の中で、発狂者の異様な声を聞いては、狂えたらその方が幸せなのだと思い、\nかなたに火を噴いて落ちていく特攻機を見ては、その一瞬の死を羨望する女生徒たち。\n自決用の手榴弾欲しさにいがみ合う教師たちの姿を目の当たりにする別の女生徒たち。\nあとから来た兵隊たちに防空壕を追い出され、空襲に逃げ惑う村人たち。\n足手まといになるからと、両親によって置き去りにされる両足を失ったいたいけな少女。\n立ち去ろうとする両親の背中に「おとうさん、おかあさん、私はまだ生きてるのよ」。\ntaroにさえ「まだ」が痛かった。\nこれがせんそう・・・。心の中で何度もそうつぶやいた。いい年をして、まるでアムロ・レイのように。\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div>ああああああああああああああああ</div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1945.html\">１９４５年</a>\n ＞ <a href=\"#h\">沖縄戦開始　（アメリカ軍、沖縄本島上陸）</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

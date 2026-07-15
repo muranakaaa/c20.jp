@@ -1,0 +1,1029 @@
+{
+ "path": "20c/1948.html",
+ "type": "year",
+ "title": "１９４８年　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９４８年"
+  },
+  {
+   "type": "title2",
+   "html": "昭和２３年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"1938.html\">１０年前</a> &gt;&gt;&gt; <a href=\"1947.html\">前年</a> &gt;&gt;&gt; <span class=\"now\">１９４８</span> &gt;&gt;&gt; <a href=\"1949.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"#s4\">冷たい戦争　　鉄のカーテン　　老いらくの恋</a>",
+    "<a href=\"../1947/kata_1.html\">片山</a> → <a href=\"../1948/asi_1.html\">芦田</a> → <a href=\"../1948/yosi2_1.html\">吉田内閣②</a>"
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"1947.html#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/01/09　　<a href\"..=\"\" 19.html\"=\"\">\n北朝鮮人民委員会、国連臨時朝鮮委員会の38度線以北立入りを拒否</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/01/15　　<a href\"..=\"\" 19.html\"=\"\">\n寿産院事件　（乳児103人を殺害し養育費・配給品を着服した夫婦逮捕）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/01/15　　<a href=\"../1948/01teigi.html\">\n帝銀事件</a>　（帝国銀行椎名町支店）"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/01/19　　<a href\"..=\"\" 19.html\"=\"\">\n出口王仁三郎没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/01/30　　<a href=\"../1948/01gandh.html\">\nガンジー暗殺</a>　（ニューデリー）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/02/04　　<a href\"..=\"\" 19.html\"=\"\">\nセイロン独立　（英連邦内自治領）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/02/10　　<a href=\"../1948/kata_9.html\">\n片山内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/02/16　　<a href\"..=\"\" 19.html\"=\"\">\n内閣、当用漢字別表として義務教育漢字881字を発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/02/21　　<a href\"..=\"\" 19.html\"=\"\">\n衆議院、芦田均を首相に指名</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/02/21　　<a href\"..=\"\" 19.html\"=\"\">\n参議院、吉田茂を首相に指名</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/02/23　　<a href\"..=\"\" 19.html\"=\"\">\n松岡衆議院議長、本院の指名議決が国会の議決となったと宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/02/26　　<a href\"..=\"\" 19.html\"=\"\">\n国連臨時朝鮮委員会、アメリカ案（南朝鮮単独選挙実施案）を可決</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/03/06　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/kkan.html\">\n菊池寛</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/03/10　　<a href=\"../1948/asi_1.html\">\n芦田内閣成立</a>　（首相：<a href=\"../p/ahitosi.html\">芦田均</a>／国務相：<a href=\"../p/nsuehiro.html\">西尾末広</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/03/11　　<a href\"..=\"\" 19.html\"=\"\">\n横浜で「九州大学生体解剖事件」軍事裁判開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/03/15　　<a href=\"../1948/03minji.html\">\n民主自由党結成</a>　（自由党に同志クラブが合流／総裁：<a href=\"../p/ysigeru.html\">吉田茂</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/03/17　　<a href\"..=\"\" 19.html\"=\"\">\nブリュッセル条約（西欧連合条約）調印　（英・仏・ベネルックス３国）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/03/20　　<a href\"..=\"\" 19.html\"=\"\">\nドレーパー調査団来日</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/04/01　　<a href\"..=\"\" 19.html\"=\"\">\n新制高等学校発足</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/04/01　　<a href\"..=\"\" 19.html\"=\"\">\nソ連、ベルリンを一部封鎖</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/04/16　　<a href\"..=\"\" 19.html\"=\"\">\nＯＥＥＣ（欧州経済協力機構）条約調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/04/17　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/skantaro.html\">\n鈴木貫太郎</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/04/17　　<a href\"..=\"\" 19.html\"=\"\">\n東宝労組、スト開始　（撮影所に籠城）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/04/20　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/ymitumas.html\">\n米内光政</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/04/27　　<a href=\"../1948/04kaiho.html\">\n海上保安庁設置法公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/04/28　　<a href\"..=\"\" 19.html\"=\"\">\n夏時刻法公布　（サマータイム実施／52/04/11 廃止）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/04/30　　<a href\"..=\"\" 19.html\"=\"\">\n米州機構結成　（米州21ヵ国）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/05/01　　<a href=\"../1948/05hibar.html\">\n美空ひばり、歌手デビュー</a>　（横浜国際劇場）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/05/12　　<a href\"..=\"\" 19.html\"=\"\">\n厚生省、「母子手帳」配布開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/05/14　　<a href=\"../1948/05israe.html\">\nイスラエル、建国宣言</a>　（テルアビブ）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/05/16　　<a href\"..=\"\" 19.html\"=\"\">\n米ソ、イスラエルを承認</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/05/16　　<a href=\"../1948/05cyut1.html\">\n中東戦争①勃発</a>　（アラブ諸国、イスラエル攻撃開始）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/05/18　　<a href=\"../1948/05drape.html\">\nアメリカ陸軍省、ドレーパー調査団報告を発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/05/23　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/mtatukic.html\">\n美濃部達吉</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/06/01　　<a href\"..=\"\" 19.html\"=\"\">\n東京急行電鉄から小田急・京王帝都・京浜急行３電鉄を分離、各社開業</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/06/13　　<a href\"..=\"\" 19.html\"=\"\">\n太宰治、山崎富栄と入水自殺　（玉川上水）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/06/19　　<a href\"..=\"\" 19.html\"=\"\">\n日刊スポーツ、プレスコード違反で軍法会議　（「米国の裸体ショー」）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/06/23　　<a href=\"../1948/06syode.html\">\n昭和電工㈱日野原節三社長逮捕　（昭電事件）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/06/24　　<a href=\"../1948/06berl1.html\">\nベルリン封鎖</a>　（～49/05/12）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/06/26　　<a href=\"../1948/06kuyuk.html\">\n西側諸国、西ベルリンへの大空輸を開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/06/28　　<a href=\"../1948/06yugos.html\">\nコミンフォルム、ユーゴスラビア共産党を除名</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/07/06　　<a href=\"../1948/07nisio.html\">\n西尾国務大臣（副総理）辞任</a>　（土建献金問題）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/07/09　　<a href\"..=\"\" 19.html\"=\"\">\n高木正得元子爵（三笠宮妃の父）自殺　（窮乏から／「華族の没落」）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/07/10　　<a href\"..=\"\" 19.html\"=\"\">\n風俗営業取締法公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/07/12　　<a href\"..=\"\" 19.html\"=\"\">\n商法改正公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/07/13　　<a href\"..=\"\" 19.html\"=\"\">\n優生保護法公布　（妊娠中絶などの条件緩和）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/07/13　　<a href\"..=\"\" 19.html\"=\"\">\n韓国（大韓民国）成立</a>　（大統領：<a href=\"../p/risyoban.html\">李承晩</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/07/15　　<a href\"..=\"\" 19.html\"=\"\">\nＧＨＱ、新聞16社・通信３社の事前検閲を廃止、事後検閲とする</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/07/15　　<a href\"..=\"\" 19.html\"=\"\">\n教育委員会法公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/07/19　　<a href=\"../1948/07tokud.html\">\n徳田書記長暗殺未遂事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/07/22　　<a href\"..=\"\" 19.html\"=\"\">\nマッカーサー、芦田首相宛書簡で国家公務員法の抜本的改正を指令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/07/31　　<a href=\"../1948/07201go.html\">\n政令201号公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/08/13　　<a href\"..=\"\" 19.html\"=\"\">\n国連インド・パキスタン委員会、両国に停戦を勧告</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/08/17　　<a href\"..=\"\" 19.html\"=\"\">\nプロ野球初ナイター　（巨人対中日／横浜ゲーリッグ球場）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/08/21　　<a href\"..=\"\" 19.html\"=\"\">\n平沢貞通逮捕</a>　（帝銀事件）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/09/09　　<a href\"..=\"\" 19.html\"=\"\">\n北朝鮮（朝鮮民主主義人民共和国）成立</a>　（首相：<a href=\"../p/kinnisse.html\">金日成</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/09/10　　<a href\"..=\"\" 19.html\"=\"\">\n重政誠之（前農林次官）・丸山二郎（安田銀常務）逮捕　（昭電事件）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/09/11　　<a href=\"../1948/09syuha.html\">\nＧＨＱ集中排除審査委員会、集排法実施４原則を提示</a>　（適用大幅緩和）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/09/11　　<a href\"..=\"\" 19.html\"=\"\">\n札幌で初の国営競馬開催</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/09/13　　<a href\"..=\"\" 19.html\"=\"\">\n福田赳夫（大蔵省主計局長）逮捕　（昭電事件）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/09/18　　<a href\"..=\"\" 19.html\"=\"\">\n大野伴睦（民自党総務）逮捕　（昭電事件）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/09/18　　<a href\"..=\"\" 19.html\"=\"\">\n全学連（全日本学生自治会総連合）結成大会</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/09/23　　<a href\"..=\"\" 19.html\"=\"\">\n本田技研工業㈱設立　（社長：本田宗一郎）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/09/29　　<a href\"..=\"\" 19.html\"=\"\">\n㈱帝国銀行、㈱第一銀行と㈱帝国銀行（のち三井銀行と改称）に分離</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/09/30　　<a href=\"../1948/09kurus.html\">\n栗栖赳夫（経済安定本部長官）逮捕</a>　（昭電事件）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"1949.html#s1\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/10/01　　<a href\"..=\"\" 19.html\"=\"\">\n警視庁、犯罪専用電話「１１０番」設置</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/10/06　　<a href=\"../1948/10nisio.html\">\n西尾末広（前国務相）逮捕</a>　（昭電事件）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/10/07　　<a href=\"../1948/asi_9.html\">\n芦田内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/10/11　　<a href\"..=\"\" 19.html\"=\"\">\n新制高校社会科に「世界史」、数学科に「一般数学」を新設</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/10/14　　<a href=\"../1948/10yamaz.html\">\n山崎猛（民自党）、議員辞職</a>　（山崎首班問題収束）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/10/14　　<a href\"..=\"\" 19.html\"=\"\">\n衆議院、吉田茂を首相に指名</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/10/19　　<a href=\"../1948/yosi2_1.html\">\n吉田内閣②成立</a>　（首相：<a href=\"../p/ysigeru.html\">吉田茂</a>／官房長官：<a href=\"../p/seisaku.html\">佐藤栄作</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/11/02　　<a href\"..=\"\" 19.html\"=\"\">\nトルーマン（米大統領）再選</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/11/09　　<a href\"..=\"\" 19.html\"=\"\">\n蒋介石、トルーマンに緊急軍事援助を要請</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/11/12　　<a href=\"../1948/11tokyo.html\">\n東京裁判、Ａ級戦犯25被告に有罪判決</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/11/12　　<a href\"..=\"\" 19.html\"=\"\">\n文部省、小学校学籍簿に５段階相対評価法採用を通達</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/11/22　　<a href\"..=\"\" 19.html\"=\"\">\n夜の上野公園視察中の田中警視総監、男娼ら30人に囲まれ、殴られる</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/11/24　　<a href\"..=\"\" 19.html\"=\"\">\n文部省、「父母と先生の会」参考規約を配布　（ＰＴＡ結成促進）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/11/30　　<a href=\"../1948/11komui.html\">\n国家公務員法改正公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/12/07　　<a href\"..=\"\" 19.html\"=\"\">\n芦田均（前首相）逮捕　（昭電事件）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/12/09　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ政府、ＦＥＣ230号（日本の過度経済力集中排除計画）を撤回</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/12/10　　<a href\"..=\"\" 19.html\"=\"\">\n民主党、犬養健を総裁に決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/12/10　　<a href\"..=\"\" 19.html\"=\"\">\n国連総会、世界人権宣言を採択</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/12/12　　<a href\"..=\"\" 19.html\"=\"\">\n国連総会、韓国政府を朝鮮における唯一の合法政府として承認</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/12/13　　<a href\"..=\"\" 19.html\"=\"\">\n泉山蔵相、国会内で泥酔悪態　（12/14 辞任）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/12/18　　<a href\"..=\"\" 19.html\"=\"\">\nＧＨＱ、経済安定９原則を発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/12/19　　<a href\"..=\"\" 19.html\"=\"\">\nオランダ、インドネシアとの停戦協定を破棄し、軍事行動再開</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/12/23　　<a href=\"../1948/12fusin.html\">\n衆議院、内閣不信任案可決</a>　（→衆議院解散）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/12/23　　<a href=\"../1948/12senpa.html\">\n東條英機・広田弘毅ら７人、絞首刑執行</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/12/24　　<a href\"..=\"\" 19.html\"=\"\">\nＧＨＱ、岸信介らＡ級戦犯容疑者19人を釈放と発表</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1947/kata_1.html\">片山</a> → <a href=\"../1948/asi_1.html\">芦田</a> → <a href=\"../1948/yosi2_1.html\">吉田内閣②</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">冷たい戦争　　鉄のカーテン　　老いらくの恋</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「ビルマの竪琴」　「人間失格」　「桜島」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">「酔いどれ天使」</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">時の動き</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">東京ブギウギ</td></tr>\n</tbody>"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"#h\">１９４８年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

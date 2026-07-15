@@ -1,0 +1,784 @@
+{
+ "path": "text/tm1saion.html",
+ "type": "text",
+ "title": "「西園寺公望（上）」　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "text.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "「西園寺公望（上）」"
+  },
+  {
+   "type": "title2",
+   "html": "参考書籍"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "list"
+   },
+   "html": "<tbody><tr>\n<td class=\"list\"><a href=\"03s.html\">一覧</a></td>\n<td class=\"list\"><a href=\"tm_saion.html\">データ</a></td>\n<td class=\"list2\"><a href\"tm1saion.html\"=\"\">上</a></td>     \n<td class=\"list\"><a href=\"tm2saion.html\">下</a></td>\n</tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n書籍：　文庫（434ページ）<br>\n目次：　序章　昭和十一年春<br>\n<div class=\"in\">\n一章　生い立ち<br>\n二章　王政復古<br>\n三章　戦野<br>\n四章　中村楼<br>\n五章　パリへ<br>\n六章　パリの友人たち<br>\n七章　東洋自由新聞社長<br>\n八章　名妓玉八<br>\n九章　欧州再遊<br>\n十章　若手外交官<br>\n十一章　大臣を歴任<br>\n十二章　政友会総裁となる<br>\n十三章　総理への道<br>\n十四章　西園寺内閣毒殺さる！<br>\n十五章　<a href=\"../p/skinmoci.html\">西園寺</a>をめぐる女たち<br>\n十六章　雨声会の文士たち<br>\n十七章　第二次西園寺内閣</div>\n"
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../p/stenno.html\">昭和天皇</a>、<a href=\"../1936/02226ji.html\">二・二六事件</a>を知る</b></div>\n<div>この日<a href=\"../p/stenno.html\">天皇</a>が事件の知らせを聞いたのは午前五時四十分であるから他の関係者に較べても早い方である。</div>\n<div><a href=\"../p/smakoto.html\">斎藤実</a>邸が襲われたのは午前五時五分であるが、それ以前の歩兵第一連隊が決起したという知らせが侍従武官長<a href=\"../p/hsigeru.html\">本庄繁大将</a>のもとに入った。\n<a href=\"../p/hsigeru.html\">本庄</a>は宿直の侍従武官中島鉄蔵少将に電話をした後、参内の準備をした。</div>\n<div>中島は直ちに侍従甘露寺受長に知らせ、甘露寺が<a href=\"../p/stenno.html\">天皇</a>に報告したものである。\n<a href=\"../p/stenno.html\">天皇</a>は直ちに陸軍の軍服を着用して政務室に出た。\n肩には大元帥を示す四つの星が並んでいた。</div>\n<div>午前六時頃、<a href=\"../p/hsigeru.html\">本庄</a>、<a href=\"../p/kkoici.html\">木戸</a>、<a href=\"../p/ykurahei.html\">湯浅内相</a>、広幡侍従次長が相次いで参内した。</div>\n<div>夜来の雪が降りしきっており、政務室は寒かった。\nスチームの暖房がまだ利かず、<a href=\"../p/stenno.html\">天皇</a>や拝謁した<a href=\"../p/hsigeru.html\">本庄</a>の唇にも血の色は少なかった。</div>\n<div>「本朝、歩兵第一、第三、近衛歩兵第三連隊の一部が出動し、<a href=\"../p/smakoto.html\">斎藤内大臣</a>、<a href=\"../p/okeisuke.html\">岡田総理</a>、<a href=\"../p/skantaro.html\">鈴木侍従長</a>、<a href=\"../p/tkorekiy.html\">高橋蔵相</a>の邸を襲いましてございます。\n重臣たちの生死は未だ判明致しませぬが、みだりに軍隊を出動せしめたる件、容易ならざる事件と存じ、恐懼に堪えませぬ」</div>\n<div><a href=\"../p/hsigeru.html\">本庄</a>がそう報告すると、三十六歳の<a href=\"../p/stenno.html\">天皇</a>は大きく眉をよせてその衝撃を表した。</div>\n<div>「未曾有ノ不祥事デアル。速カニ事件ノ実態ヲ調ベ、軍隊ヲ正常ニ復セシメヨ」</div>\n<div><a href=\"../p/stenno.html\">天皇</a>はそう言うと、<a href=\"../p/hsigeru.html\">本庄</a>を退出せしめた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．１０</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../1936/02226ji.html\">二・二六事件</a>「決起趣意書」と反乱将校の要望事項</b></div>\n<div>川島は三宅坂の陸相官邸第一応接室で決起組の香田清貞大尉、免官になっている磯部浅一、村中幸次（いずれも軍服着用）と対座していた。\n最終の目標<a href=\"../p/wjotaro.html\">渡辺錠太郎陸軍教育総監</a>邸の襲撃が終ったのが六時すぎであるから、\n川島の前で香田が「決起趣意書」を読み上げたのは午前七時近くであろうと思われる。\n決起趣意書は「至尊天皇の絶対を犯す奸臣軍賊を倒すのが天皇の股肱である我々軍人の任務である」という要項に基づいたものである。</div>\n<div>香田は続いて決起部隊配備図、参加将校の名簿を川島に提出した後、次のような要望事項を示した。</div>\n<div>一、皇軍相撃つことなかるべし。</div>\n<div>二、警備司令官、近衛、第一師団長に陸相より過誤の行動なきよう厳命してもらいたい。</div>\n<div>三、<a href=\"../p/mjiro.html\">南大将</a>、<a href=\"../p/ukazusig.html\">宇垣大将</a>、<a href=\"../p/kkuniaki.html\">小磯</a>、建川両中将（いずれも香田ら皇道派に反対の将軍）を保護検束すべし。</div>\n<div>四、速かに陛下に奏上し、（我ら決起将校の行為を支持するという）御裁断を仰ぐべし。</div>\n<div>五、<a href=\"../p/hsenjuro.html\">林銑十郎大将</a>（軍事参議官）を罷免し<a href=\"../p/asadao.html\">荒木貞夫大将</a>を関東軍司令官に任命すべし。</div>\n<div>六、全憲兵を統制し一途の方針（決起軍に同調する）に進ませること。</div>\n<div>七、<a href=\"../p/ytomoyuk.html\">山下奉文軍事調査部長</a>、古荘幹郎陸軍次官ら皇道派幹部をここに集めてもらいたい。</div>\n<div>まだあるが、要するにこの際皇道派に反対する統制派の将軍を一掃し、皇道派の独裁にもちこみたい、\n天皇親政をめざす“股肱”の至純の行為であるから、天皇にも認めてもらい、\n軍は自分たちの要求に従って行動せよ、というのである。\n一種のクーデターであるが、天皇の股肱であると自任しながら、天皇の信任の厚い将軍たちを罷免せよと要求するなどは、\n陸相として到底承認し難いものであった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．１１</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../1936/02226ji.html\">二・二六事件</a>、<a href=\"../p/mjinzabu.html\">真崎甚三郎</a>の反応</b></div>\n<div>川島が自室で善後処置に苦しんでいるところへ<a href=\"../p/mjinzabu.html\">真崎</a>が官邸にやって来た。\n<a href=\"../p/mjinzabu.html\">真崎</a>は磯部や香田、そして襲撃を終って駈けつけた安藤輝三大尉、栗原安秀中尉らの殺気立った顔を見ると、</div>\n<div>「お前たちの気持はよおくわかっとるぞ」</div>\n<div>と声をかけ、大臣室に入ると川島の前におかれてある決起趣意書を読み、</div>\n<div>「おい、川島、ここまで来たら仕方がない。これで行くよりほかないな」</div>\n<div>と川島の肩を叩いた。</div>\n<div><a href=\"../p/mjinzabu.html\">真崎</a>は陸士九期、川島は十期で一期しか違わないが、統制派寄りとみられている川島に較べて<a href=\"../p/mjinzabu.html\">真崎</a>は<a href=\"../p/asadao.html\">荒木</a>と並ぶ皇道派の総帥である。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．１３</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../1936/02226ji.html\">二・二六事件</a>、西園寺襲撃計画</b></div>\n<div><a href=\"../1936/02226ji.html\">二・二六事件</a>に於て、西園寺襲撃の計画は皆無ではなかったのである。\n豊橋陸軍教導学校の下士官兵を中心とする一部隊（約百二十名）は対馬勝雄中尉指揮の下にトラックに乗って二十六日早朝坐漁荘を襲撃する手筈になっていた。\nところが決行の直前になって同志の板垣徹から反対が出た。\nこれは主として政友会幹部<a href=\"../p/kfusanos.html\">久原房之助</a>に近い政治浪人亀川哲也の発想であるが、\n昭和維新決行の途中で異変が生じた場合、<a href=\"../p/mjinzabu.html\">真崎甚三郎大将</a>に組閣の大命が降下するよう、\n相沢中佐（前年八月<a href=\"../p/ntetuzan.html\">永田鉄山軍務局長</a>を斬る）の弁護人鵜沢総明博士を通じて<a href=\"../p/skinmoci.html\">西園寺公望</a>に依頼する必要があるというのである。</div>\n<div>東京の打合会では、斬奸予定者の中に<a href=\"../p/skinmoci.html\">西園寺</a>を入れるか入れないかでもめた。\n山口大尉は亀川の説に従って<a href=\"../p/skinmoci.html\">西園寺</a>ははずした方がよいと言う。\n磯部浅一は「君側の奸を斬る決起の為に、君側の奸の最たる<a href=\"../p/skinmoci.html\">西園寺</a>を除外するとは何事？」と慷慨し、結論は出なかった。\nそして、豊橋の現地では板垣の慎重論が通り、興津への兵力使用は取り止めとなった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．２０</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../p/mtenno.html\">明治天皇</a>と<a href=\"../p/skinmoci.html\">西園寺公望</a></b></div>\n<div>彼は<a href=\"../p/mtenno.html\">睦仁親王（明治天皇）</a>のお相手を仰せつかることとなった。\n<a href=\"../p/mtenno.html\">明治帝</a>は嘉永五年生まれで<a href=\"../p/skinmoci.html\">公望</a>より三つ年下である。\n<a href=\"../p/skinmoci.html\">公望</a>はよいお相手で儒学の講義を一緒にうけたが、学問よりも御所の中で凧をあげたり、相撲をとったり、\nあるいは絵を描いたりという相手が多かった。\n<a href=\"../p/mtenno.html\">睦仁親王</a>は体が大きいので、三つ年上の<a href=\"../p/skinmoci.html\">公望</a>と相撲をとるとよい勝負であった。</div>\n<div>孝明帝にもよくお目にかかった。\n御所の庭で遊んでいると気軽に近づいて来て、「<a href=\"../p/mtenno.html\">睦仁</a>と仲よくしてやってくれよ」と声をかけることもあった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．３２</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>大村益次郎と木戸孝允</b></div>\n<div>大村は木戸のことを「才物だが嫉妬心があるので困る」という。\n木戸は大村を「働きものだが、大勢がわからなくて困る」と言っていた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．６９</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../p/skinmoci.html\">西園寺公望</a>、立命館創立</b></div>\n<div><a href=\"../p/skinmoci.html\">西園寺</a>が立命館を作ったのは、大いに勤王家を養成するという発想からであった。</div>\n<div>教師には朱子学者、水戸学者を迎え、文章家として聞こえた人もいた。\n広瀬青邨、松本竜、江馬天江、神山鳳陽などで、当時京にいた漢学者のえらいところをぬき集めたというもので、評判があがり、\n諸藩からもかなりな人物が入学して来た。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．７４</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>普仏戦争</b></div>\n<div>フランスのナポレオン三世は、宰相ビスマルクのプロイセンによるドイツ統一に反対し、\nスペインの王位継承にプロイセンが介入することを阻止しようとして一八七〇年（明治三年）七月十九日プロイセンに宣戦布告したが、\n連敗して九月セダン城で降伏した。\nここに第二帝制は終り、フランス市民軍はなおもパリに籠城するなど抵抗したが、翌年一月開城した。\n同じ月、プロイセン王ウイルヘルム一世はドイツ皇帝に即位した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．８３</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>中江兆民</b></div>\n<div>弘化四年（一八四七）土佐の下級武士の家に生まれる。　【中略】　長崎に留学、\n維新後は箕作鱗祥にフランス語を学ぶ。\n明治四年十月パリ留学。明治七年帰国、フランス学舎を開く。\n明治十四年東洋自由新聞の主筆となり、自由党の機関誌「自由新聞」の社説も担当、\nフランス流の急進的民権思想を説いた。\n雑誌「政理叢談」を発行、欧米の近代民主主義の紹介に努めた。\nとくにジャン・ジャック・ルソーの「社会契約論」を漢文に訳し、\n解説を加えた「民約訳解」は当時の青年に広く読まれ、民権思想の普及に大きな役割を果たした。\n自由党再興にも力を尽くし、“東洋のルソー”と呼ばれる。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．９６</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../p/clemen_j.html\">クレマンソー</a></b></div>\n<div>医師の子に生まれた<a href=\"../p/clemen_j.html\">クレマンソー</a>は、パリに出て医学生として学ぶうちに共和派の政治家や文人と知り合い、\n一八六五年イギリスに渡ってジョン・スチュアート・ミルと知り合いその影響を受けた。</div>\n<div>【中略】</div>\n<div>ミルと別れた<a href=\"../p/clemen_j.html\">クレマンソー</a>は、新聞記者としてアメリカに渡り、アメリカの婦人と結婚（一八六九）した。\nこの頃彼は共和主義、急進主義を唱えていた。\n普仏戦争でナポレオン三世が降服し、第二帝制が倒れた後、彼は国防政府からモンマルトルの区長に任じられ抗戦継続を唱え、\n七一年（明治四年）二月三十一歳でボルドーの国民議会の議員に選出され、屈辱的な講和条件に反対した。\nパリ・コンミューンのときは中立的な立場から調停に奔走したが、激発を防ぐことは出来なかった。\n七一年七月パリ市会議員に選出され、<a href=\"../p/skinmoci.html\">西園寺</a>と知り合ったのはこの後である。\nこの後代議士となり、爆発的な議会演説によって政府を攻撃し、ガンベッタ、フュリーなどの大物内閣を次々に倒したので\n“虎”という仇名をもらった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．９６</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../p/skinmoci.html\">西園寺公望</a>と住友家</b></div>\n<div>明治二十五年以降、<a href=\"../p/skinmoci.html\">西園寺</a>は金に困ったことがなかった。</div>\n<div>明治二十三年住友家では当主の吉左衛門友親が隠退して嗣子の友忠に家督を譲った直後、友親が病死した。\n大番頭の広瀬宰平が後見となって年少の友忠を守り立てようとしたところ友忠も父の後を追って夭折してしまった。\nこれで住友本家の男系は絶えてしまった。</div>\n<div>そこで住友家では友忠の学習院時代の同級生である徳大寺隆麿に目をつけた。\n折よく友忠に満寿子という妹がいたので明治二十五年隆麿を満寿子の夫に迎え住友家を継がせたのである。\n隆麿は大正十五年世を去るまで西園寺家の台所を賄ってくれた。\n疑獄事件の続発する中にあって、<a href=\"../p/skinmoci.html\">西園寺</a>が金権の暗い噂をまとうことがなかったのは、\n住友家の経済的援助によるものである。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．１７４</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>憲法制定</b></div>\n<div>憲法制定についてのくわしいことは専門書に譲るが、起草について最も力を尽くしたのは<a href=\"../p/ihirobum.html\">伊藤</a>と井上毅、\n伊東巳代治、<a href=\"../p/kkentaro.html\">金子堅太郎</a>の四人で、周辺の人はこれを憲法の四天狗と言った。\n四人は横須賀追浜沖の夏島にある<a href=\"../p/ihirobum.html\">伊藤</a>の別荘で討議を重ね、二十一年春には「日本帝国憲法草案」をまとめた。\n夏島はその後追浜の海軍飛行場拡張にあたって陸続きとなったが、今も記念碑が残っている。</div>\n<div>この年四月<a href=\"../p/ihirobum.html\">伊藤</a>は首相を<a href=\"../p/kkiyotak.html\">黒田清隆</a>に譲って、新しく作った枢密院の議長となり憲法の逐条審議を続けた。\nそして発布に至ったのであるが、大日本帝国憲法の特色はイギリス的な立憲主義を拝しプロシア的な君権主義による欽定憲法の方式を採用し、\n天皇をすべての権力を有する主権者（統治権の総覧者）とし、文武官の任免、行政各部官制の決定、陸海軍の統帥、\n編制及び常備兵額の決定、宣戦、講和、条約の締結など行政、軍事、外交にわたる広大な天皇大権を規定した点である。</div>\n<div>もちろん、公約通り国民の市民的権利を認め、議会政治をも定めてある。\nしかし、議会は天皇の立法権を協賛するものと規定され、天皇大権事項を規制することは出来ないとされていた。</div>\n<div>この為、日本は表面上議会制度によって運営され、ようやく近代化した立憲君主国の形式をとったが、\nその内実は天皇とその側近の専制政治を可能とする古典的な帝国として世界の動きの中に歩み入ることになったのである。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．２２０</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>大津事件</b></div>\n<div>大津事件（二十四年五月十一日）が起こった。</div>\n<div>ロシア国皇太子が日本巡遊の際、警衛中の巡査津田三蔵に帯剣で傷つけられた事件である。</div>\n<div>皇太子<a href=\"../p/nikolai2.html\">ニコライ・アレクサンドロヴィッチ</a>（後<a href=\"../p/nikolai2.html\">ニコライ二世</a>として日本と戦い、一九一七年革命によって退位に至る）は、\nウラジオストークで行われたシベリア鉄道起工式に参列した後に日本を訪問中であった。\n当時の第一次松方正義内閣は日清関係急迫の折柄対露関係悪化をおそれて、\n<a href=\"../p/mtenno.html\">天皇</a>自ら<a href=\"../p/nikolai2.html\">ニコライ皇太子</a>を見舞い、法的処置としては刑法第一一六条に擬して皇室に対する罪を適用し、\n犯人を死刑にする意向をもっていた。\nしかし、大審院長児島惟謙は単に普通謀殺未遂罪として犯人の津田を無期徒刑に処し、司法権の独立を守った。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．２２４</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../p/htooru.html\">星亨</a></b></div>\n<div><a href=\"../p/htooru.html\">星</a>は江戸の職人の家に生まれたが医師の養子となり英語を学び陸奥宗光の援助で官界に入り、\n明治十年以降イギリスに留学し、帰国後代言人（後の弁護士）となり自由党の再編を指導した。\n二十五年二月の第二回総選挙で議員に当選し議長になった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．２３２</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>伊藤内閣②成立</b></div>\n<div>二十五年五月六日騒然たる中で第三特別議会が開かれた。\n民党優勢の衆議院は選挙干渉の故をもって<a href=\"../p/mmasayos.html\">松方首相</a>の退陣を要求して不信任決議案をつきつけた。\n内相品川弥二郎は<a href=\"../p/ihirobum.html\">伊藤枢密院議長</a>らの勧告によってすでにやめていた。</div>\n<div><a href=\"../p/mmasayos.html\">松方</a>は議会に停会を命じたが、衆議院は問題の追加予算案を再否決した。\n片方では保安条例を発動して都心に集まって気勢をあげていた民党の壮士百五十人を市外に追い出した。</div>\n<div>海軍拡張費案も否決したので<a href=\"../p/mmasayos.html\">松方</a>も挫折し、順序通り<a href=\"../p/ihirobum.html\">伊藤</a>を後継者に推して辞職したいと言い出した。</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>は簡単にはうんとは言わなかった。\n彼はかねて天皇主権を補佐する政府与党となる政党を作るべきだと主張していたが、\n政党嫌いの<a href=\"../p/yaritomo.html\">山県</a>や<a href=\"../p/ikaoru.html\">井上</a>に妨げられて成らずにいた。\nそして暴挙ともいうべき選挙干渉の結果、民党を押さえ切れず始末に苦しむという有様である。</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>は時局収拾の為内閣を組織せよと<a href=\"../p/mtenno.html\">天皇</a>から命じられたとき切札を出した。</div>\n<div>「かくなる上からは黒幕（元勲）勢ぞろいでなくては組閣は出来ませぬ」</div>\n<div>と言って<a href=\"../p/yaritomo.html\">山県</a>らの入閣をうながした。</div>\n<div>七月三十日松方内閣はこらえ切れずに倒れた。\n暴れまくった末の野垂れ死にという形であった。</div>\n<div>八月八日予定通り<a href=\"../p/ihirobum.html\">伊藤</a>は組閣した。\n赤面の悪役が退場した後、団十郎が名題俳優をひきつれて花道に登場という前人気上々の幕明けである。</div>\n<div>入閣を渋っていた<a href=\"../p/yaritomo.html\">山県</a>も「国家危急存亡の秋に際し、同僚はすでに斃れ、\n明治政府の末路如何ともすべからず、乃公立たずんば非ず」と悲痛なせりふを吐いて、\n維新元勲による政府を作り“末路の一戦”に臨むこととし、平大臣の法相として入閣し内閣の外郭を固めることとなった。</div>\n<div>以下、外務・陸奥宗光、内務・<a href=\"../p/ikaoru.html\">井上馨</a>、大蔵・渡辺国武、陸軍・<a href=\"../p/oiwao.html\">大山巌</a>、海軍・仁礼景範、文部・河野敏鎌、\n農商務・後藤象二郎、逓信・<a href=\"../p/kkiyotak.html\">黒田清隆</a>で、総理経験者二名のほか<a href=\"../p/ikaoru.html\">井上</a>、後藤ら維新以来の名士をそろえた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．２３５</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>「現今日本十傑」</b></div>\n<div>何にしても<a href=\"../p/ihirobum.html\">伊藤</a>は国民大衆に人気のある幸運な男で、明治十八年五月、今日新聞が「現今日本十傑」という人気投票を試みたところ、\n政治家では<a href=\"../p/ihirobum.html\">伊藤</a>が断然一位であった。\nちなみにその他では軍人、榎本武揚、学者、中村正直、法律家、鳩山和夫、著述家、<a href=\"../p/fyukici.html\">福沢諭吉</a>、新聞記者、福地源一郎、\n商法家、<a href=\"../p/seiici.html\">渋沢栄一</a>、医師、佐藤進、画家、守住貫魚、教法家、北畠道竜となっている。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．２３８</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../p/ihirobum.html\">伊藤博文</a>、日清開戦の決断</b></div>\n<div>二十一年前、西郷の征韓論のときは、岩倉と一緒になってこれを抑えた<a href=\"../p/ihirobum.html\">伊藤</a>であるが、今は日清開戦を阻止する理由はなかった。\n内に民党の攻勢を外にそらせ、外においては朝鮮の植民地化を計って日本の外郭を保全する・・・・・・。</div>\n<div>もちろん<a href=\"../p/ihirobum.html\">伊藤</a>は派兵に当って、参謀次長<a href=\"../p/ksoroku.html\">川上操六中将</a>（参謀総長は有栖川宮）に陸軍の成算を訪ねた。</div>\n<div>用意周到なオルガナイザー<a href=\"../p/ksoroku.html\">川上</a>は「我に成算あり」と自信満々に答えた。</div>\n<div>ついで<a href=\"../p/ihirobum.html\">伊藤</a>は、海相の<a href=\"../p/stugumic.html\">西郷従道</a>と軍令部長の中牟田倉之助、（開戦時は樺山資紀）の意見を聞いた。\n二人とも駄目だとは言わなかった。\nとくに<a href=\"../p/stugumic.html\">西郷</a>は「やれといわれればやり申そう」と茫漠と答えた。\n彼の胸中には、征韓論を唱えて城山に非業の最期を遂げた兄隆盛の面影があったのであろう。</div>\n<div>最後に<a href=\"../p/ihirobum.html\">伊藤</a>は陸相<a href=\"../p/oiwao.html\">大山</a>に訊いた。\n「やらにゃあいけんでごわんしょう」この大物はぼそりとそう答えた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．２４７</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>日清戦争時の世論</b></div>\n<div>この頃、日本の朝野では清国からとれるだけの領土と賠償金をとれという声が高かった。</div>\n<div>開戦当時は生命線である朝鮮を守る、とか正義の為、自衛の為という大義名分論が叫ばれ、戦争の不安をおしかくそうとしていた。</div>\n<div>しかし、勝ち進むにつれて全国が帝国主義的な野望に蔽われ、野党の改進党は「山東、江蘇、福建、広東の四省を割譲せしめよ」と叫び、\n自由党も「吉林、盛京、黒竜江の東北三省と台湾を得るべし」と主張するに至った。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．２５８</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>ニコライ２世戴冠式</b></div>\n<div>二十九年（一八九六）五月二十六日、さきに大津で津田三蔵に襲われたロシア皇帝<a href=\"../p/nikolai2.html\">ニコライ二世</a>の戴冠式がモスクワで挙行された。\nこのロマノフ王朝最後の皇帝はルイ十六世にも比すべき悲運の皇帝であった。\n日露戦争に敗れ、ロシア革命（一九一七）でシベリアに幽閉され、皇后や家族と共にボルシェビキに殺された。五十一歳であった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．２７１</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>隈板内閣成立、そのとき<a href=\"../p/yaritomo.html\">山県</a>は</b></div>\n<div>山県伝には、次の書簡の言葉が収録されている。</div>\n<div>「本朝一大変動。遂に明治政府は落城して政党内閣となりたる変化の真相は、\n報知（新聞）にて御了承の事と信ずる。\n敗軍之老将再び兵を談ずるの必要はなく、隠退の外なしと存ずる」</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．２８５</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../1900/09seiyu.html\">政友会結成</a>へ、<a href=\"../p/skinmoci.html\">西園寺</a>の提案</b></div>\n<div>竹越の『陶庵公』には次のような話が出ている。</div>\n<div>三十二年四月のある夜、<a href=\"../p/skinmoci.html\">西園寺</a>は竹越と岡崎邦輔（陸奥宗光の従弟、自由党、憲政党の代議士、\n後政友会総務、<a href=\"../1924/katob_1.html\">第一次加藤高明内閣</a>の農相）に対して、\n「<a href=\"../p/ihirobum.html\">伊藤</a>が政党を組織した場合憲政党はその中心となる気があるだろうか」と問うた。\nこれに対して二人は「全党をあげて賛同するであろう」と答えた。<a href=\"../p/skinmoci.html\">西園寺</a>は<a href=\"../p/ihirobum.html\">伊藤</a>にこの情報を送り、</div>\n<div>「漠然と散漫なる分子を糾合するよりも、既成の憲政党を基礎としてこれに新鮮な分子を加え新党を作るが得策であり、\n公が起てば自分も賛同しよう」</div>\n<div>とすすめた。</div>\n<div>長州出身の<a href=\"../p/ihirobum.html\">伊藤</a>は木戸の例に倣ってここで再び公卿と組むことを考え決行に踏み切った。\n一方で<a href=\"../p/ihirobum.html\">伊藤</a>はそろそろ<a href=\"../p/skinmoci.html\">西園寺</a>を自分の二代目とすることを考えていた。\n（<a href=\"../p/yaritomo.html\">山県</a>が二世として<a href=\"../p/ktaro.html\">桂</a>を育てていたように）</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．２９１</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../1900/ito4_1.html\">伊藤内閣④</a></b></div>\n<div>予想通り三十三年九月二十六日<a href=\"../p/yaritomo.html\">山県</a>は<a href=\"../p/ihirobum.html\">伊藤</a>を困惑せしむる為早期に内閣を投げ出し、\n十月十九日<a href=\"../p/ihirobum.html\">伊藤</a>が第四次内閣を組織した。\nメンバーは外務・<a href=\"../p/ktakaaki.html\">加藤高明</a>（岩崎弥太郎の女婿）、内務・末松謙澄、大蔵・渡辺国武、陸軍・<a href=\"../p/ktaro.html\">桂太郎</a>、\n海軍・<a href=\"../p/ygonnohy.html\">山本権兵衛</a>、司法・<a href=\"../p/kkentaro.html\">金子堅太郎</a>、文部・<a href=\"../p/mmasahis.html\">松田正久</a>、農商務・林有造、逓信・<a href=\"../p/htooru.html\">星亨</a>で<a href=\"../p/skinmoci.html\">西園寺</a>は班列といって国務大臣扱いでポストがない。\n伊藤政友会の御曹子ともいうべき侯爵の扱いがおかしいではないかと、一族の者が眼をこすっていると<a href=\"../p/ihirobum.html\">伊藤</a>から呼び出しがかかった。\n首相官邸にゆくと、</div>\n<div>「あんた、総理をやってくれんか」</div>\n<div>という話である。</div>\n<div>「え？　こちが？・・・・・・」</div>\n<div>と<a href=\"../p/skinmoci.html\">西園寺</a>は思わず自宅での口癖を出した。</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>はにやりとした。\n義太夫では芸者が愛人のことを「ちょいとこちの人」と呼びことがある。</div>\n<div>「いやあ、代理でいいんだ。しばらくやってもらいたい」</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>はそう言ってビスマルクもどきに葉巻をふかした。\nこの頃ではビスマルクよりも偉いと思っているようである。</div>\n<div>「しかし、私は前歴が（文部大臣と外務大臣をやった位で内務、大蔵などの重要なポストがない）・・・・・・」</div>\n<div>と<a href=\"../p/skinmoci.html\">西園寺</a>が言いかけると、</div>\n<div>「<a href=\"../p/skinmoci.html\">西園寺さん</a>、経歴などは自然に出来るもんだ。\nあんたには私の後を継いでもらわにゃならん、総理も場数を踏んでおいた方がええ」</div>\n<div>そう言って<a href=\"../p/ihirobum.html\">伊藤</a>は微笑した。</div>\n<div>「しかし、<a href=\"../p/ihirobum.html\">伊藤さん</a>がなったばかりで代理を立てるのでは、理由が立たないでしょう」</div>\n<div>「わしは病気じゃよ」</div>\n<div>「え？」</div>\n<div><a href=\"../p/skinmoci.html\">西園寺</a>は驚いて<a href=\"../p/ihirobum.html\">伊藤</a>の顔を見た。どこも悪くはなさそうである。</div>\n<div>「わしは演説のやりすぎでのどが痛い。\nしばらく静養して政友会の名簿でも整理するとしよう」</div>\n<div>このようなわけで<a href=\"../p/skinmoci.html\">西園寺</a>は十月二十七日から十二月十二日まで総理大臣臨時代理を命じられた。\n<a href=\"../p/ihirobum.html\">伊藤</a>はこの頃のどを傷めていたというが、実のところは<a href=\"../p/skinmoci.html\">西園寺</a>に総理の予習をやらせて、自分は政友会の人材集めを行い、\n眼を細めながら二代目の練習ぶりを眺めていよう、というあたりが本音だったようである。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．２９６</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../p/htooru.html\">星亨</a></b></div>\n<div>参事会議長としての<a href=\"../p/htooru.html\">星</a>は無類のやり手で、一、築港問題、二、市教育会の設置、三、交通機関の整備、\n等次から次へさばいてゆく凄腕は後の世までの語り草で、翌三十四年六月二十一日伊庭想太郎に暗殺されなければ当然政友会総裁となり、\n一度は総理の印綬を帯びたかも知れぬ剛腹果断な鬼才であった。</div>\n<div>【中略】</div>\n<div><a href=\"../p/htooru.html\">星</a>は<a href=\"../p/mmasayos.html\">松方</a>が憲政党による第二次内閣を組織したとき、アメリカ公使であったのを無断で帰国して、\n外相のポストを要求して人を驚かしたことがあり、あくの強い戦闘的な男であったが、\n有能な人物であることは多くの人が認めていた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．２９９</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>渡辺国武</b></div>\n<div>渡辺は日清戦争当時第二次伊藤内閣の蔵相であったが、「予算は一銭一厘もまけられぬ」と断言して、\n“一銭一厘大臣”という仇名をもらったことがある。\n信州人らしい潔癖さであるが、妥協性に乏しい変人であった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．３０２</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../1903/06kurop.html\">クロパトキン陸相来日</a></b></div>\n<div>六月十二日ロシアの陸軍大臣<a href=\"../p/kuropa_a.html\">アレクセイ・クロパトキン大将</a>が来日した。\n露土戦争で手柄をたてた将軍で、後に満州で敗走するロシア軍の司令官となる男である。</div>\n<div>彼は<a href=\"../p/tmasatak.html\">寺内（正毅）陸相</a>（<a href=\"../p/kgentaro.html\">児玉</a>の後任）<a href=\"../p/kjutaro.html\">小村外相</a>（<a href=\"../p/sarasuke.html\">曾禰</a>の後任）らの晩餐会に出席し、\n十五日まで滞在した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．３２０</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../p/ktaro.html\">桂首相</a>、“狂言辞職”</b></div>\n<div>二十四日<a href=\"../p/ihirobum.html\">伊藤</a>、<a href=\"../p/yaritomo.html\">山県</a>が<a href=\"../p/ktaro.html\">桂</a>を首相官邸に訪問、<a href=\"../p/ygonnohy.html\">山本海相</a>同席のもとに重要会議を行った。</div>\n<div>この席上<a href=\"../p/ktaro.html\">桂</a>は<a href=\"../p/ihirobum.html\">伊藤</a>に爆弾宣言をぶつけた。</div>\n<div>「<a href=\"../p/ihirobum.html\">公（伊藤）</a>は元老として指導を賜わることが多く感謝致しているが、\n議会の多数党の首領でもある。\n元老の説を採るか採らざるかは総理の責任であるが、多数党首領の説はきかざるを得ない。\n内閣は一個の中心をめぐって動くべきなのに、事実上中心は二個あり、これでは総理はあってなきが如くであるから、\n元老か党首か二者択一として頂きたい」</div>\n<div>しかし、<a href=\"../p/ihirobum.html\">伊藤</a>は考慮の余地なしとしてこの提案を蹴った。</div>\n<div>怒った<a href=\"../p/ktaro.html\">桂</a>は七月一日腹痛を理由にして天皇に辞表を奉呈した。</div>\n<div>事の成行きを気づかっていた<a href=\"../p/mtenno.html\">天皇</a>は、また長州の老人共の仲間喧嘩か、と眉をひそめて二日<a href=\"../p/yaritomo.html\">山県</a>と<a href=\"../p/mmasayos.html\">松方</a>を呼んで事情を訊いた。</div>\n<div><a href=\"../p/yaritomo.html\">山県</a>は困難な時局を収拾するには政界団結の外はない。\nしかるに<a href=\"../p/ihirobum.html\">伊藤</a>は元老をもって党首を兼ねこの団結を妨げることが多い。\nこの際党首を免じて枢府議長として側近に仕えしめるのが最良の道である。\nしかし、我らには<a href=\"../p/ihirobum.html\">伊藤</a>を動かす力がないので<a href=\"../p/mtenno.html\">陛下</a>のお力にすがる以外に道はない。\nもし、<a href=\"../p/mtenno.html\">陛下</a>の仰せに対し、<a href=\"../p/ihirobum.html\">伊藤</a>が承知しないときは、臣<a href=\"../p/yaritomo.html\">山県</a>最後の御奉公として“足利尊氏”を討つのみ、と切々と<a href=\"../p/mtenno.html\">天皇</a>に訴えた。\n毎度のことなので<a href=\"../p/mtenno.html\">天皇</a>も額面通りには受けとらなかったが、\n政局の混乱を救う為と、日露関係逼迫の為との二つの理由から<a href=\"../p/ihirobum.html\">伊藤</a>を側近に侍らせようと考え、\n七月六日<a href=\"../p/ihirobum.html\">伊藤</a>を呼んで枢府に入ることを命じた。</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>の参内で諸新聞は一斉に騒ぎ始めた。\n<a href=\"../p/ihirobum.html\">伊藤</a>が身を退くか、あるいは狂言と見られていた<a href=\"../p/ktaro.html\">桂</a>の辞職が本物で<a href=\"../p/ihirobum.html\">伊藤</a>が第五次内閣を組閣するのか・・・・・・。</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>は意外の勅命に驚いたが、<a href=\"../p/mtenno.html\">天皇</a>と話し合っている内に、\n自分の忠誠は認めて頂いているという確信を得たので、\nかなりやりすぎたとの反省のもとに、七月十二日あらためて参内し、\n一、自分は枢府議長となるが、この際<a href=\"../p/yaritomo.html\">山県</a>、<a href=\"../p/mmasayos.html\">松方</a>も枢府顧問官として第一線から隠退せしめられたい、\n二、臣が政友会を脱するに際しては枢府議長<a href=\"../p/skinmoci.html\">西園寺公望</a>を政友会総裁とすることをお認め頂きたい、という二条件を申し入れ、\n勅許となったので翌十三日宮中において枢府議長の親任式にのぞみ三十年にわたる実力者の座からおり、\n<a href=\"../p/ktaro.html\">桂</a>たちを安心させた。（同日付で<a href=\"../p/yaritomo.html\">山県</a><a href=\"../p/mmasayos.html\">松方</a>も枢府顧問官となった）</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．３２２</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>西園寺公望、政友会総裁就任</b></div>\n<div>十三日<a href=\"../p/skinmoci.html\">西園寺</a>は枢府議長を退き、翌十四日政友会総裁に就任した。</div>\n<div>ここで<a href=\"../p/skinmoci.html\">西園寺</a>の『自伝』によってこのあたりの動きを展望しておこう。</div>\n<div>「<a href=\"../p/ktaro.html\">桂</a>に大命（第一次桂内閣）が降下したが<a href=\"../p/ihirobum.html\">伊藤</a>が元老で政友会総裁を兼ねていて、\n<a href=\"../p/ktaro.html\">桂</a>への協力を約束しないので、ついに待命拝辞を内奏するところまでゆき、長いことごたごたした。\nあの人たち（<a href=\"../p/ihirobum.html\">伊藤</a>、<a href=\"../p/yaritomo.html\">山県</a>、<a href=\"../p/ikaoru.html\">井上</a>、<a href=\"../p/ktaro.html\">桂</a>）は若い時からの親友で（<a href=\"../p/ktaro.html\">桂</a>は<a href=\"../p/ihirobum.html\">伊藤</a>より七歳、<a href=\"../p/yaritomo.html\">山県</a>より十歳、井上より十二歳年下）\n遠慮なしに相談がまとまりそうなものだが、それがそうはゆかない、互いに顔色をうかがって気兼ねばかりしている。\n私が見兼ねて<a href=\"../p/ihirobum.html\">伊藤</a>に断乎政友会総裁を退いて枢府議長になることをすすめたので、<a href=\"../p/ihirobum.html\">伊藤</a>も踏み切った。\n<a href=\"../p/ihirobum.html\">伊藤</a>のあとを私が政友会総裁になったが別にむずかしい問題はなかった。\n外になりたい人もあり、末松がよかろうという説もあり、\n<a href=\"../p/mmasahis.html\">松田（正久）</a>は総会を開いて衆議に問うがよいと言ったが、<a href=\"../p/ihirobum.html\">伊藤</a>はこれをきかず、\n私にやれというから御用に立つことなら引きうけましょうという位のことで、\n就任してからは大抵<a href=\"../p/mmasahis.html\">松田</a>と<a href=\"../p/htakasi.html\">原</a>に任せておいた。\n初めのうちは<a href=\"../p/htakasi.html\">原</a>は偏狭のようで<a href=\"../p/mmasahis.html\">松田</a>の方が人望があったが、後にはそうでもなかった。</div>\n<div>その頃は党の入費といっても少なかったし、前後五十万円の出入は覚えているが、\n寄付などで外から入った金は、<a href=\"../p/htakasi.html\">原</a>、<a href=\"../p/mmasahis.html\">松田</a>から報告をうけただけで、すべて<a href=\"../p/htakasi.html\">原</a>がやった」</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．３２４</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>アレクセイエフ極東総督の立身出世物語</b></div>\n<div>アレクセーフは海軍大将であったが、その進級ぶりはいかにもロシア宮廷政治的であった。\n<a href=\"../p/nikolai2.html\">ニコライ二世</a>の叔父アレクサンドロヴィッチ大公が世界旅行に出かけたとき、マルセーユの酒場で酔っ払い、\n暴れて女に怪我をさせたことがあった。\n随行のアレクセーフはその罪を全部引き受けて処罰を受けた。\nこれだけのことで彼はロシア宮廷に喰いこみ、艦隊の経験もなく実戦に出たこともなく海軍大将に出世したのである。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．３３６</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>山県伊三郎</b></div>\n<div>山県伊三郎は<a href=\"../p/yaritomo.html\">山県有朋</a>の甥で養嗣子となる。\nドイツ留学後県知事、内務次官などを歴任、西園寺内閣では日露戦争後の鉄道国有問題を解決する。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．３４７</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../p/mnobuaki.html\">牧野伸顕</a></b></div>\n<div><a href=\"../p/mnobuaki.html\">牧野伸顕</a>は維新の元勲大久保利通の次男で、悠然としてエレガントな人柄が<a href=\"../p/skinmoci.html\">西園寺</a>の気に入り、\n後にも共に重臣として親しく国政に干与し、共に右翼過激派から狙われるようになる。\n<a href=\"../p/mnobuaki.html\">牧野</a>は外務省をふりだしに、参事院議官補、総理秘書官、福井県知事、文部次官、イタリア大使、オーストリア大使を経て文相となったもの。\n<a href=\"../1919/01paris.html\">パリ講和会議</a>（一九一九）では<a href=\"../p/skinmoci.html\">西園寺</a>と共に全権、後内大臣、宮内大臣を歴任。\n<a href=\"../1936/02226ji.html\">二・二六事件</a>では宿泊先の旅館を焼かれた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．３４７</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>鉄道国有化法</b></div>\n<div>鉄道国有案はこれが初めてではない。\n明治二十年頃、鉄道会社が続々と創立されたが、二十四年の不景気に出会うと国有案が議会に提出される。\n日清戦争後の不景気風に出会うとまた国有案が頭をもたげ、三十六年にも関西鉄道と官線との間に競争が生じ、\nまたも国有案が出たが日露戦争勃発で消滅という風で、早くいえば、景気がよくもうかるときは民営、\n不景気になると国で買いとってもらいたいという事業家の虫のよい欲望と、官僚の支配欲の間をふらついて来たのであった。</div>\n<div>西園寺内閣は「この際国家経済の大乗的見地から全国鉄道の管理を統一し、機能を発揮し、\n軍事、経済上支障なからしむる為」として、国有案を山県逓相（鉄道大臣が分れるのは原内閣から）の指導のもとで検討させ、\n四億八千万円の価格で三十二社を買収しようと試みた。\nこの金額は三十九年度予算（九億五千万円）の半分に近い巨額であるが、<a href=\"../p/skinmoci.html\">西園寺</a>はこの案を三月中旬の議会に提出し可決をかち得た。</div>\n<div>しかし、当然のように反対の火の手があがった。\n三菱は九州鉄道、三井は山陽鉄道というふうに財閥は大株主となって鉄道のみならず、\nその地域の経済を牛耳っており、あたかも島津藩、長州藩の如き封建的なわだかまりようであった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．３４９</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../1906/03katob.html\">加藤外相辞任</a></b></div>\n<div>欲からではなく猛烈に反対したのは三菱の申し子である外相<a href=\"../p/ktakaaki.html\">加藤</a>である。\nしかし、彼は三菱に関係のない朝鮮における私鉄の買収には賛成であったので、閣僚から大分やりこめられた。\n結局彼は三月三日辞表を提出するが、その内容は従来の「病気により」というような紋切り型ではなく、\n政府の財政等を批判し、イギリスの伝統的な経済理論（マンチェスター旧学派？）を引用して、\n「人民が財力・能力を投下して設定した利益事業を、法律をもって買収するのは人権を無視するものである」と“堂々”の論陣を張った。</div>\n<div><a href=\"../p/skinmoci.html\">西園寺</a>はこの辞表を一瞥すると訂正することなく、そのまま<a href=\"../p/mtenno.html\">天皇</a>の手許に差し出した。\n長文の辞表に驚いた<a href=\"../p/mtenno.html\">天皇</a>は熟読して、</div>\n<div>「<a href=\"../p/skinmoci.html\">西園寺</a>、これは従来の辞表とは大分異なるではないか」</div>\n<div>と問うた。</div>\n<div>「本来国務大臣の辞表にはこの程度に理由を明記するのが正当でございます」</div>\n<div>と<a href=\"../p/skinmoci.html\">西園寺</a>は答え、<a href=\"../p/mtenno.html\">天皇</a>は了解した。</div>\n<div>この時、<a href=\"../p/ktakaaki.html\">加藤</a>の態度を公明正大として賞賛し、政府を攻撃した急先鋒は黒岩周六の主宰する万朝報であった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．３５０</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>黒岩涙香</b></div>\n<div>“まむしの周六”と呼ばれる黒岩は涙香と号し、明治二十五年万朝報を創刊、\n日露戦争でははじめ非戦論で後主戦論に転じて、<a href=\"../p/ksyusui.html\">幸徳秋水</a>らの退社（前述）を招き、後には憲政会を支援し、\n<a href=\"../1914/01simen.html\">シーメンス事件</a>で山本内閣を猛攻して評判をとった。\n大阪英語学校から慶応義塾に進んだ黒岩は、語学が得意で、『巌窟王』『噫無情』などの翻訳小説を連載して万朝報を最大部数紙に伸ばしたが、\n反面暴露記事の執拗さから“まむし”の仇名をとり、その新聞は赤新聞と呼ばれた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．３５１</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../1906/11mante.html\">満鉄設立</a></b></div>\n<div>十一月南満州鉄道株式会社（満鉄）が<a href=\"../p/gsinpei.html\">後藤新平社長</a>のもとに創設された。\nこれは<a href=\"../p/gsinpei.html\">後藤</a>がイギリスの東インド会社にならって造った武力を背景とする植民地経営の国策会社で、\n欧米からは満州侵略の尖兵とみなされるものである。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．３５６</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../1907/02asiod.html\">足尾銅山大暴動</a></b></div>\n<div>二月四日から七日にかけ足尾銅山でダイナマイトによる大暴動が起きた。\n千人以上の坑夫が実力を行使し、古河鉱業事務所長南挺三宅を焼いたほか各所で焼き打ち、打ちこわしを働いた。\n理由は待遇改善、賃銀値上げであるが、南助松、永岡鶴蔵らの幹部（オルグ）は社会主義、あるいは共産主義思想の筋金入りで、\n殉教者のつもりで坑夫たちの集団抵抗を指導していた。</div>\n<div>永岡は先鋭な革命指導家で共産主義者の<a href=\"../p/ksen.html\">片山潜</a>の教えをうけて、足尾に潜入した。\n彼が<a href=\"../p/ksen.html\">片山</a>に書き送った手紙には、</div>\n<div>「貧苦の点ではカール・マルクス氏に近くなりました。\n小生は一大覚悟をもって日本数万の坑夫の為に一身一家を犠牲にするも顧みず、\n七名の家族を北海の雪中に投じ一家の諸道具を売りとばして旅費として出発致す予定です。\n一家の処分は次の通りです。</div>\n<div>一、四歳の子は養女にやる。</div>\n<div>二、八歳の子は二歳児の子守をなす。</div>\n<div>三、十歳の子は学校より戻りて菓子売りをなす。</div>\n<div>四、十三歳の子は朝夕の御飯たきをひきうけ通学す。</div>\n<div>五、十五歳の子は器械場に労働し夜は甘酒を売る。</div>\n<div>六、妻は昼間停車場において荷物運搬をなし夜は甘酒を売る」</div>\n<div>永岡らは裁判をうけるが、裁判官は足尾銅山の待遇が古河市兵衛在世当時に較べて格段に悪化し、\n役員が収賄によって腐敗していることを指摘し、永岡と南に無罪の判決を下した。\n事ほど左様に鉱山の内部は管理が堕落していたのである。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．３５６</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>山県逓相と阪谷蔵相の対立</b></div>\n<div>第二十四回議会（四十年十二月二十五日開会）を前にして予算編成にあたり、\n阪谷は一億五千万円の歳入不足を補う為兌換券を増発すべしと主張した。\nしかし、これには<a href=\"../p/ikaoru.html\">井上</a>と<a href=\"../p/mmasayos.html\">松方</a>が反対で増税でゆけという。\nしかし第十回総選挙（四十一年五月十五日）をひかえて政友会は増税は与党の票を減らすというので反対である。\n内閣が元老と与党の間に挟まっている間に山県と阪谷の間に衝突が起きた。</div>\n<div>阪谷は余分な予算は削ろうとする。\n<a href=\"../p/yaritomo.html\">山県有朋</a>の養子である山県逓相は（多分<a href=\"../p/yaritomo.html\">山県</a>側近の意をうけて）「鉄道建設及び改良費は一文もまけるわけにはゆかぬ」と頑張り、\n行政予算がわかって“政治予算”のわからない阪谷は、元老たちの緊縮予算でゆけの声に忠実に財布の口を締め、\nついに山県逓相と激突し、一月十四日二人そろって辞表を出してしまった。\n<a href=\"../p/skinmoci.html\">西園寺</a>は二枚の辞表を受理して二人をやめさせ、阪谷の後任には<a href=\"../p/mmasahis.html\">松田正久</a>を入れ、\n<a href=\"../p/yaritomo.html\">山県</a>のあとは<a href=\"../p/htakasi.html\">原</a>の兼任とした。</div>\n<div>こうして<a href=\"../p/seiici.html\">渋沢</a>と<a href=\"../p/yaritomo.html\">山県</a>の女婿は同じ日に内閣を去ってしまった。\nこの事件に関し消息通は次のように分析してみせる。\n阪谷と山県の背後にはそれぞれ<a href=\"../p/wreijiro.html\">若槻次官</a>と仲小路次官がいて共に両大臣を挑発していたが、\nその背後では<a href=\"../p/ktaro.html\">桂</a>が糸を引いていたので、断乎両成敗にしたのだという。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．３６１</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../1908/06sekki.html\">赤旗事件</a></b></div>\n<div>事件が起きたのは、神田錦輝館における社会主義者山口義三（孤剣）出獄歓迎会の直後である。\n荒畑寒村、大杉栄らが「無政府共産」の白文字を染め抜いた赤旗を翻し、「無政府主義万歳！」と叫んだので、\n官憲との間に争いが生じた。\n荒畑、大杉のほか“なだめ役”に回った<a href=\"../p/stosihik.html\">堺利彦</a>、山川均ら十五名が検挙された。\nこの行動は右派社会主義者（議会行動派）へのデモにすぎなかったが、\n警察はこれを大事件に仕立てあげ、荒畑らを留置場で拷問し、面会しに行った<a href=\"../p/ksuga.html\">管野スガ</a>（<a href=\"../p/ksyusui.html\">秋水</a>の妻）までが暴行され留置場にほうりこまれた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．３６３</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../p/ksadayak.html\">川上貞奴</a></b></div>\n<div><a href=\"../p/ksadayak.html\">川上貞奴</a>といえば明治の芸妓として有名だが、昭和二十一年まで生きていた。\nオッペケペー節の<a href=\"../p/kotojiro.html\">川上音二郎</a>と結婚し、明治四十四年<a href=\"../p/kotojiro.html\">音二郎</a>が死んでからは舞台を退き、<a href=\"../1908/09joyuy.html\">帝国女優養成所などを開いていた</a>。\n夫と共に欧州巡業中、大彫刻家のオーギュスト・ロダンが彼女に惚れて言いよったが、\nこれをはねつけて日本女性の意気を示したという話がある。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．３８５</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>平田東助</b></div>\n<div>米沢藩出身、岩倉使節団に随行の途中ドイツに留まって留学、帰国後大蔵省に入り、\n<a href=\"../p/ihirobum.html\">伊藤</a>の憲法調査のときヨーロッパに同行、以後官僚勢力の中心となり、第二次山県内閣の法制局長官、<a href=\"../1901/katu1_1.html\">第一次桂内閣</a>の農商務相を勤め、\n<a href=\"../p/yaritomo.html\">山県</a>派の中堅幹部であった。\n大正二年<a href=\"../p/ktaro.html\">桂</a>が没すると彼は準元老的地位に上り、同十一年内大臣となっている。</div>\n<div>平田は東北人らしく粘り強い性格で、非政党主義の策士であった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．３９９</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../p/ktaro.html\">桂首相</a></b></div>\n<div>岡崎邦輔（陸奥宗光の従弟）によると「<a href=\"../p/ktaro.html\">桂</a>はほかに何の取柄もない男であったが、金を作ることだけはうまかった」という。</div>\n<div><a href=\"../p/ktaro.html\">桂</a>の金権政治の一例は、悪税として評判の悪かった三税を強引に残したことである。\n三税とは塩税、織物税、通行税で、これは大財閥にはさして関係がなく、勤労無産大衆を苦しめるものである。\n日露戦争中特別に課せられたもので、西園寺内閣でも問題になったことがあるが、\n<a href=\"../p/ktaro.html\">桂</a>は戦後三年たった時点で、なおこの三税を土台として予算を編成し、第二十五議会（四十一年十二月）を切り抜けている。</div>\n<div>その反面彼は財閥の人気を得る為、国債に対する国庫償還金を増加し、国債利子所得税の免除法案を提出した。\nこの為公債は値上がりし、実業家議員は満足の意を表した。</div>\n<div>これまでの元勲による高圧的な藩閥政府ではとても難しい時代はやってゆけぬと考えた<a href=\"../p/ktaro.html\">桂</a>は、\n銀行家実業家に対してご馳走政策をとり、<a href=\"../1901/katu1_1.html\">第一次桂内閣</a>の頃は再三彼らを首相官邸に招待して鰻料理を奢り、懐柔に努めた。\n<a href=\"../p/ktaro.html\">桂</a>の仇名は“ニコポン首相”である。\n人と会えば「やあ、元気かね」とにこにこし、「よろしく頼むよ」と肩をポンと叩くのである。\nまたの名を幇間首相とも言った。\n<a href=\"../1908/katu2_1.html\">第二次内閣</a>になると、会場を丸ノ内の三井集会所に移してこの鰻会を再開し、更に実業講習会等と称して、\n富豪実業家に対して饗応政策をとった。\n心ある実業家は眉をひそめていたが、成金連中は総理のお招きにあずかることを光栄としていた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．４０１</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../1909/10itoxx.html\">伊藤博文射殺事件</a></b></div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>は四十二年十月十六日満州開発の可能性視察の為、大磯の自宅を出て下関に向い、\n鉄嶺丸で大連に向った。</div>\n<div>同月二十五日、北上し、ロシア蔵相ココウツォフと東清鉄道等に関し協議する為、\n二十六日午前九時ハルピン駅に着き出迎えたココウツォフと車内で二十分間懇談した後、プラットホームに降り、\n川上領事の先導で、露清両国軍隊、各国外交団、露清文武大官、日本人歓迎団体が整列している中を進み、\n用意された馬車の方に進もうとしたところ突然とび出して来た男の為に狙撃され、\n腹部に三発の弾丸をうけて中村（是公）満鉄総裁の腕の中に倒れかかった。\n直ちに車内にかつぎこんで手当をしたが、間もなく意識不明となり午前十時死亡した。\n犯人は<a href=\"../p/anjukon.html\">安重根</a>という朝鮮人の独立党員で彼は旅順の日本法廷で裁判にかけられ次の十五ヶ条を<a href=\"../p/ihirobum.html\">伊藤博文</a>暗殺の理由としてあげ、\n翌四十三年三月二十六日、同地で死刑に処せられた。</div>\n<div>一、朝鮮王妃の殺害、二、韓国保護条約五ヶ条、三、日韓新協約七ヶ条、四、韓国皇帝の廃立、五、陸軍の解散、\n六、良民殺戮、七、利権剥奪、八、教科書廃棄、九、新聞購読禁止、十、銀行券の発行、十一、三百万円国債の募集、\n十二、東洋平和の攪乱、十三、保護政策の名実伴わざること、十四、日本先帝孝明天皇を殺害したること、\n十五、日本及び世界を瞞着したること。</div>\n<div>いずれも日本の植民地主義者にとって耳の痛いことであるが、\n孝明天皇（慶応二年十二月二十五日没）の死まで<a href=\"../p/ihirobum.html\">伊藤</a>の責任とするのはいかがなものであろうか。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．４０２</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>伊藤博文国葬</b></div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>の遺体は大連から軍艦秋津洲で横須賀に運ばれ、十一月四日日比谷公園で国葬が行われた。\n葬儀の途中から雨となり、天も明治最大の政治家の死を傷むかの如くで、会葬者の悲しみを新たにさせた。\n<a href=\"../p/ikaoru.html\">井上</a>が采配をふるい、<a href=\"../p/ktaro.html\">桂総理</a>のほか<a href=\"../p/yaritomo.html\">山県</a>、<a href=\"../p/mmasayos.html\">松方</a>、<a href=\"../p/oiwao.html\">大山</a>、<a href=\"../p/osigenob.html\">大隈</a>、板垣らすべての元勲の生き残りが参列し、\n明治の終焉を思わせた。</div>\n<div><a href=\"../p/ihirobum.html\">伊藤</a>の死によって最も落胆したのは、彼を片腕と頼んでいた<a href=\"../p/mtenno.html\">天皇</a>であった。</div>\n<div>「西郷、<a href=\"../p/kkoici.html\">木戸</a>、大久保、岩倉、みな去って行った。\n<a href=\"../p/ihirobum.html\">伊藤</a>は朕と最もうまの合う男であったが・・・・・・」</div>\n<div><a href=\"../p/mtenno.html\">天皇</a>は侍従にそう洩らして<a href=\"../p/ihirobum.html\">伊藤</a>の死を惜しんだ。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．４０３</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../p/ksyusui.html\">幸徳秋水</a></b></div>\n<div><a href=\"../p/ksyusui.html\">幸徳秋水（伝次郎）</a>は明治四年高知県西南端に近い中村に生まれ、大阪で中江兆民の学僕となり、\n唯物論の洗礼を受けた。\n自由新聞、中央新聞の記者を経て明治三十年五月十八日社会問題研究会に入り、熱心な社会主義者となった。\n明治三十四年<a href=\"../p/ksen.html\">片山潜</a>、木下尚江、安部磯雄らと共に<a href=\"../1901/05syaka.html\">社会民主党の結成</a>に参加し、\n（二日後結社禁止）　【中略】　日露戦争直前まで万朝報にあって非戦論を唱えていた。\n戦争後渡米してアナーキズムに傾き、三十九年帰国後、日本社会党第二回大会（四十年二月）で「直接行動論」唱えて以来アナーキズムを指導し、\n過激派の中心として官憲から睨まれ、四十三年（一九一〇）六月逮捕された。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．４０４</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>大逆事件</b></div>\n<div>大逆事件は、皇室に危害を加えようとしたものとされ、\n翌四十四年（一九一一）一月十八日大審院において<a href=\"../p/ksyusui.html\">幸徳</a>、<a href=\"../p/ksuga.html\">管野</a>ら二十四名に死刑の判決が下り、その翌日十二名は刑一等を減じられて無期となったが、\n<a href=\"../p/ksyusui.html\">幸徳</a>、宮下、古河力作ら十一名は一月二十四日、<a href=\"../p/ksuga.html\">管野スガ</a>のみは翌二十五日絞首台上に登った。</div>\n<div>この事件は公判当時からフレームアップ（でっち上げ）の疑いが強かった。\n<a href=\"../p/ksuga.html\">管野スガ</a>は獄中で書いた「死出の道草」に「<a href=\"../p/ksyusui.html\">幸徳</a>、宮下、新村、古河と私の五人の陰謀予備以外は、\n煙のような過去の座談を事件に結びつけたもの」と書き残し、今日では宮下、<a href=\"../p/ksuga.html\">管野</a>、新村、古河の四人のみが実力行使計画に関係したのみで、\n<a href=\"../p/ksyusui.html\">幸徳</a>を含む他の八名は冤罪となっている。</div>\n<div>桂内閣は社会主義を弾圧し、各地に頻発する労働争議の根を絶って、明治の天皇制絶対支配の下に帝国主義による<a href=\"../1910/08k_heg.html\">日韓併合</a>と、\n資本主義による藩閥の支配を固める為、この大逆事件を作り上げたのであるが、\nその処断の過酷は国内はもとより世界中から批判され、また政界からも「このような事件の生起を許した警察行政の手ぬかり」を強く批判され、\n内閣の倒れる一因をなすに到った。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．４０５</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../1910/08k_heg.html\">韓国併合</a></b></div>\n<div>桂内閣は　【中略】　<a href=\"../p/ksyusui.html\">幸徳</a>ら検挙の二ヶ月後、四十三年（一九一〇）八月二十二日には<a href=\"../1910/08k_heg.html\">韓国併合</a>の条約に調印してしまった。\nその第一条は「韓国皇帝陛下は韓国全部に関する一切の統治権を安全且永久に日本国皇帝陛下に譲与する」となっている。</div>\n<div>この条約は三代目韓国統監（二代目は<a href=\"../p/sarasuke.html\">曾禰荒助</a>）<a href=\"../p/tmasatak.html\">寺内正毅</a>（初代朝鮮総督）と韓国の李完用総理の間に調印され、\n韓国皇帝<a href=\"../p/ritaio.html\">李王</a>は、日本の皇族となり殿下の尊称をもって呼ばれることとなった。</div>\n<div>保護国とされた頃から反日感情が高まっていた朝鮮では、この決定で各地に暴動が起きた。\nこの時弾圧に当ったのは日露戦争当時ヨーロッパでスパイを働き過激派を煽動した<a href=\"../p/amotojir.html\">明石元二郎少将</a>で、\n彼は朝鮮駐屯軍参謀長の職から駐韓憲兵隊司令官に格下げをうけ、この難局に腕を揮った。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．４０６</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>情意投合</b></div>\n<div>四十四年一月二十六日（<a href=\"../p/ksyusui.html\">幸徳秋水</a>処刑の二日後）<a href=\"../p/ktaro.html\">桂</a>は駿河台の<a href=\"../p/skinmoci.html\">西園寺</a>邸にやって来て<a href=\"../p/mmasahis.html\">松田正久</a>、<a href=\"../p/htakasi.html\">原敬</a>同席のもとに二時間ほど懇談し、\n二十八日夜の政友会議員総会で<a href=\"../p/mmasahis.html\">松田総務</a>が桂内閣との情意投合が成立した旨を報告した。</div>\n<div>しかし、情意投合の内容はあいまい且抽象的であった。\n実際には<a href=\"../p/ktaro.html\">桂</a>が議会における政友会の優「情」を乞い、\n代償として適当な時期（実際には八月）に政権を<a href=\"../p/skinmoci.html\">西園寺</a>に渡すという「意」志を表明する秘密協約があったことは明らかであるが、\n表面上はきれいごとに終始した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．４１４</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../p/ktaro.html\">桂太郎</a>外遊</b></div>\n<div><a href=\"../p/ktaro.html\">桂</a>は、七月六日<a href=\"../p/gsinpei.html\">後藤新平</a>と共に外遊に出発した。\n前大蔵次官<a href=\"../p/wreijiro.html\">若槻礼次郎</a>、代議士岩下清周が随行した。</div>\n<div><a href=\"../p/ktaro.html\">桂</a>外遊の動機は<a href=\"../p/tsoho.html\">徳富蘇峯</a>によると、「外交上の私的使節（<a href=\"../p/ktaro.html\">桂</a>は表面上ロシアと話し合って東洋平和の基礎を固めると言っていたが、\n実は自分に馴染みの深いドイツと攻守同盟を結ぶつもりであったといわれる）の意味もあったのであろうが、その真意は、\n従来の政友会との妥協政策に困り、飽きて、新生面を開く為自ら新政党を創立しようと考えたもので、\n洋行は自分の態度に一段落を画する為のもの」であって、「要するに彼の洋行は彼が政治的未来記の玉手箱なりし也」となっている。\n芸術家やスポーツマンが行きづまったりスランプに陥ったとき、山の宿に長期滞在したり、\n寺に籠ったりして打開の道を求めることがあるが、<a href=\"../p/ktaro.html\">桂</a>の洋行も同列であって、白柳は「こうして<a href=\"../p/ktaro.html\">桂</a>は、\n刻一刻政友会と相対立して、政界を両分すべき大政党の首領として擬せられつつある自己の発見を、急ぎつつあった」と見ている。</div>\n<div><a href=\"../p/ktaro.html\">桂</a>の一行は大連から満州を経てシベリア鉄道で七月二十一日ペテルブルクに着いたところで\n「<a href=\"../p/mtenno.html\">天皇</a>陛下十四日より御病気の処二十日御重態となる」という報を聞いた。\n一行は心配していたが、その後稍御軽快となるとの報で旅程を早めようとスイスまでの切符を買ったが、\n病勢険悪との急電で、二十八日の特別列車で急遽ペテルブルクを出発日本に向った。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．４１８</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../1912/07mhogy.html\">明治天皇崩御</a></b></div>\n<div>七月三十日午前零時四十三分、四十五年の治世を終って<a href=\"../p/mtenno.html\">睦仁天皇</a>は六十一歳で世を去った。\n病名は尿毒症であった。</div>\n<div>古きよき明治は去った。</div>\n<div>但し、原敬日記によると<a href=\"../p/mtenno.html\">天皇</a>の崩御は二十九日午後十時四十分で、宮中において崩御は三十日午前零時四十三分と発表することに決した、\nとなっているから、実際の逝去は二十九日であったが新聞等の公表は三十日となっている。\nまた死因も当時は心臓麻痺であったが、現在では尿毒症が正しいとなっている。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．４２０</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>桂太郎、内大臣兼侍従長に就任</b></div>\n<div><a href=\"../p/ktaro.html\">桂</a>を待っていたのは、<a href=\"../p/yaritomo.html\">山県</a>らの意外な策謀である。\n策士である前内相平田東助の発案で<a href=\"../p/ktaro.html\">桂</a>を内大臣に据えるのがよかろう、ということになっていた。\n表面上は新帝が若いので、輔弼の重臣に大物が必要だということと、徳大寺が先帝の崩御と共に八月五日内大臣兼侍従長を辞任したので、\nその補充をからみあわせたものであるが、裏面には<a href=\"../p/yaritomo.html\">山県</a>の嫉視がどく黒く渦巻いていた。</div>\n<div><a href=\"../p/yaritomo.html\">山県</a>はかねて<a href=\"../p/ktaro.html\">桂</a>を自分の子分と考え引き立てて、<a href=\"../p/ihirobum.html\">伊藤</a>の後に代人として内閣を組織せしめたが、\n日露戦争に勝った頃から驕って元老のいうことを聞かなくなり、<a href=\"../1910/08k_heg.html\">日韓併合</a>の後に運動して独走して公爵になるに至って、\n嫉視が憎しみにエスカレートして来た。\nそこで<a href=\"../1908/katu2_1.html\">第二次桂内閣</a>が情意投合によって政友会に頭を下げ、内閣の命を縮めたときも<a href=\"../p/yaritomo.html\">山県</a>は見て見ぬふりをしていた。</div>\n<div>【中略】</div>\n<div><a href=\"../p/ktaro.html\">桂</a>が情意投合の後、<a href=\"../p/skinmoci.html\">西園寺</a>との直接の話し合いで内閣を譲ったことも<a href=\"../p/yaritomo.html\">山県</a>の気分を著しくそこねた。\nもはや政党を弾圧しあるいは牛耳る力もないのに、<a href=\"../p/yaritomo.html\">山県</a>は、内閣を譲るとき自分に相談もしに来なかった<a href=\"../p/ktaro.html\">桂</a>を憎んだ。\nそして二度と<a href=\"../p/ktaro.html\">桂</a>が政権を手にすることの出来ぬよう雲の上に封じこめようというのである。\n丁度政友会を作った<a href=\"../p/ihirobum.html\">伊藤</a>を枢密院議長（三十六年七月）に祭り上げたように。\n<a href=\"../p/yaritomo.html\">山県</a>はそのように女性的な心情の持主であった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．４２０</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../1912/09jyuns.html\">乃木希典殉死</a></b></div>\n<div>大正元年九月十三日、御大喪が青山の葬場殿で行われた。\nこれより先八月二十三日第二十九臨時議会が召集され、三日間で百五十四万円の御大喪予算を可決した。</div>\n<div>御大喪は伏見宮貞愛親王を総裁に、宮相渡辺千秋を副総裁として行われた。</div>\n<div>この夜、<a href=\"../p/nmaresuk.html\">乃木大将</a>が夫人静子と共に殉死したことは有名である。\n<a href=\"../p/nmaresuk.html\">乃木</a>は西南戦争のとき連隊長として軍旗を奪われたときに自殺を計って、親友の<a href=\"../p/kgentaro.html\">児玉源太郎</a>に止められて以来、\n死への志向を抱いていた。\n二〇三高地の戦いで多くの戦死者を出してから、その志向は念願と変っていた。\n第三軍司令官更迭の議がもち上がったとき、<a href=\"../p/mtenno.html\">天皇</a>は、「今代えてはいかん。\n今代えると<a href=\"../p/nmaresuk.html\">乃木</a>は生きてはいまい」と言ってこれを遮った。\nこれを聞いて<a href=\"../p/nmaresuk.html\">乃木</a>の死は確実なものとなった。\n勝典保典の二児を旅順で失ったことが<a href=\"../p/mtenno.html\">天皇</a>への（国民よりも）せめてもの申し訳であった。</div>\n<div>【中略】</div>\n<div><a href=\"../p/nmaresuk.html\">乃木</a>は藩閥が権力争いに終始する時代に絶望して憤死したとする説も一方にはある。</div>\n<div>判沢弘氏（早大講師）の『自殺の理由』（「プレジデント」昭五六・二、特集・乃木希典）は憤死の根拠を維新の元勲とくに長州閥の乱行、\n勢力争い、口には忠義を言いながら実際には勢力争いに明けくれる<a href=\"../p/yaritomo.html\">山県</a>、<a href=\"../p/ktaro.html\">桂</a>、<a href=\"../p/tmasatak.html\">寺内</a>らの流しつつある害毒に<a href=\"../p/nmaresuk.html\">乃木</a>が憤激したものだとしている。\n<a href=\"../p/nmaresuk.html\">乃木</a>はそのような遺言書を残しており、殉死の二日前に<a href=\"../p/yaritomo.html\">山県</a>を訪問して「軍隊を私兵化せざること」等の厳しい意見書を手交し、\nこの文書の内容を<a href=\"../p/ttenno.html\">天皇</a>に上奏してもらいたい、と迫っている。\n吉田松陰によって純忠を教えられた<a href=\"../p/nmaresuk.html\">乃木</a>の精神主義が示した最後の抵抗である。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．４２６</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../p/uyusaku.html\">上原勇作</a></b></div>\n<div><a href=\"../p/uyusaku.html\">上原</a>は日向の鹿児島藩士出身。\n元帥野津道貫（薩摩出身）の女婿であるから元来は薩閥の系統であるが、\n薩の陸軍が政権から遠ざかると長閥とも接近した。\n陸軍部内での<a href=\"../p/uyusaku.html\">上原</a>は博覧強記、頭脳明晰ということになっていた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．４２８</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../1912/saio2_9.html\">西園寺内閣②総辞職</a></b></div>\n<div><a href=\"../p/ttenno.html\">天皇</a>は閣内の異変に驚き、<a href=\"../p/ktaro.html\">桂内大臣</a>を<a href=\"../p/skinmoci.html\">西園寺</a>邸に派遣し事の次第を質問させた。\n<a href=\"../p/ktaro.html\">桂</a>はもとより内情を知っており、特に訊くまでもなかった。</div>\n<div>三日午前十時、<a href=\"../p/skinmoci.html\">西園寺</a>は青山離宮に参内して一応の状況を説明した後、\n椿山荘に<a href=\"../p/yaritomo.html\">山県</a>を訪問し後任陸相の人選について計った。\n得たり、と<a href=\"../p/yaritomo.html\">山県</a>はほくそ笑んだ。\nこういうこともあろうかと考え、彼は陸相候補と目される数人にあらかじめ西園寺内閣の陸相にはなるなという指示をしておいたのである。</div>\n<div>「<a href=\"../p/uyusaku.html\">上原</a>も気の短い奴だな。<span class=\"bar\">―</span>―しかし、これというのもあなたが陸軍に冷たくするからだ。\n国防に協力してもらえぬならば、陸相のなり手はありませんぞ」</div>\n<div>彼はそういうとじろりと<a href=\"../p/skinmoci.html\">西園寺</a>の白皙の面を見た。</div>\n<div><a href=\"../p/skinmoci.html\">西園寺</a>は肚を決めた。</div>\n<div>首相官邸に戻ると彼は閣議を召集して総辞職の意向を告げた。\n<a href=\"../p/htakasi.html\">原</a>以下の閣僚の間には沈痛悲壮の気が流れた。\n<a href=\"../p/mtenno.html\">明治大帝</a>去って未だ四ヶ月、国歩は艱難で内閣が為すべき仕事は山積していた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．４３０</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"03s.html\">書籍ファイル一覧　（サ）</a>\n ＞ <a href=\"tm_saion.html\">「西園寺公望」</a>\n ＞ <a href=\"#h\">「西園寺公望（上）」</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

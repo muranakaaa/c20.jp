@@ -1,0 +1,389 @@
+{
+ "path": "20c/1920.html",
+ "type": "year",
+ "title": "１９２０年　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９２０年"
+  },
+  {
+   "type": "title2",
+   "html": "大正９年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"1910.html\">１０年前</a> &gt;&gt;&gt; <a href=\"1919.html\">前年</a> &gt;&gt;&gt; <span class=\"now\">１９２０</span> &gt;&gt;&gt; <a href=\"1921.html\">翌年</a> &gt;&gt;&gt; <a href=\"1930.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"#s4\">職業婦人　　ああ松本訓導</a>",
+    "<a href=\"../1918/hara_1.html\">原内閣</a>"
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"1919.html#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/01/10　　<a href=\"../1920/01renme.html\">\n国際連盟発足</a>　（日本、理事国として加盟／提唱国アメリカ不参加）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/02/06　　<a href\"..=\"\" 19.html\"=\"\">\n中国、大総統令で排日運動を禁止</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/02/11　　<a href\"..=\"\" 19.html\"=\"\">\n普選大示威行進　（東京）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/02/14　　<a href=\"../1920/02ekide.html\">\n東京・箱根間往復駅伝競走①開催</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/03/15　　<a href\"..=\"\" 19.html\"=\"\">\n株価暴落で株式市場大混乱　（→戦後恐慌）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/03/28　　<a href\"..=\"\" 19.html\"=\"\">\n新婦人協会発会式</a>　（<a href=\"../p/hraicyo.html\">平塚らいてう</a>、<a href=\"../p/ifusae.html\">市川房枝</a>ら）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/04/01　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ、ウラジオストック撤兵完了</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/04/16　　<a href\"..=\"\" 19.html\"=\"\">\n原首相、財界救済を言明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/04/25　　<a href\"..=\"\" 19.html\"=\"\">\nソビエト・ポーランド戦争勃発　（～10/12）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/05/02　　<a href\"..=\"\" 19.html\"=\"\">\nメーデー①開催　（上野公園）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/05/19　　<a href\"..=\"\" 19.html\"=\"\">\n新渡戸稲造、国際連盟書記局社会部長就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/05/20　　<a href\"..=\"\" 19.html\"=\"\">\n総選挙[14]　（政友会278、憲政会110、国民党29、他47）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/05/24　　<a href=\"../1920/05nikoj.html\">\n尼港（ニコライエフスク）事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/06/14　　<a href\"..=\"\" 19.html\"=\"\">\nマックス・ウェーバー没</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/07/14　　<a href\"..=\"\" 19.html\"=\"\">\n安直戦争　（～07/19）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/07/24　　<a href\"..=\"\" 19.html\"=\"\">\n政府、天皇の病状を発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/08/10　　<a href=\"../1920/08sevre.html\">\nセーブル条約調印</a>　（スルタン政府、連合国と屈辱的講和）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/08/20　　<a href\"..=\"\" 19.html\"=\"\">\n著作権法改正　（レコード著作権保護の対象に）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/08/28　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ議会、憲法修正第19条可決　（婦人参政権を認める）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/08/29　　<a href\"..=\"\" 19.html\"=\"\">\n東京地下鉄道㈱設立　（→帝都高速度交通営団）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/09/27　　<a href\"..=\"\" 19.html\"=\"\">\nカラハン宣言②</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"1921.html#s1\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/10/01　　<a href\"..=\"\" 19.html\"=\"\">\n国勢調査①　（内地人口5596万3053人、外地人口2102万5326人）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/11/01　　<a href\"..=\"\" 19.html\"=\"\">\n明治神宮完成　（鎮座祭に群衆殺到し38人が死傷）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/11/02　　<a href\"..=\"\" 19.html\"=\"\">\n米・カリフォルニア州で排日土地法成立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/11/11　　<a href=\"../1920/11kyucy.html\">\n宮中某重大事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/12/26　　<a href\"..=\"\" 19.html\"=\"\">\n山本鼎・北原白秋ら、日本自由教育協会を結成</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1918/hara_1.html\">原内閣</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">職業婦人　　ああ松本訓導</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「死線を越えて」　「惜しみなく愛は奪ふ」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">アマチュア倶楽部</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">―</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">ゴンドラの唄</td></tr>\n</tbody>"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"#h\">１９２０年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

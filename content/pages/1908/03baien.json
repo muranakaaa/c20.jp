@@ -1,0 +1,203 @@
+{
+ "path": "1908/03baien.html",
+ "type": "article",
+ "title": "森田草平・平塚らいてう心中未遂　（煤煙事件）　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1908.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "森田草平・平塚らいてう心中未遂　（煤煙事件）"
+  },
+  {
+   "type": "title2",
+   "html": "1908/03/24"
+  },
+  {
+   "type": "navi2",
+   "html": "\n１０年前 &gt;&gt;&gt; <a href=\"../20c/1907.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1908.html\">１９０８</a> &gt;&gt;&gt; <a href=\"../20c/1909.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1918.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "男嫌いで有名な才媛 <a href=\"../p/hraicyo.html\">平塚明子</a>がなんとなんと。　つまり目覚めたってわけ！？"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1907/02/12　　<a href=\"../1907/02seiga.html\">\n管野スガら、治安警察法第５条改正を請願</a>　（03/27 貴族院否決）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1908/03/05　　<a href=\"../1908/03suehi.html\">\n末弘ヒロ子、「ヘラルド・トリビューン」主催の世界美人投票に選出</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1908/03/24　　<a 1908=\"\" href\"..=\"\" 03baien.html\"=\"\">\n森田草平・平塚らいてう心中未遂　（煤煙事件）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/06/01　　<a href\"..=\"\" 19.html\"=\"\">\n青鞜社発起人会</a>　（<a href=\"../p/hraicyo.html\">平塚らいてう</a>ら）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/09/01　　<a href=\"../1911/09seito.html\">\n「青鞜」創刊</a>　（<a href=\"../p/hraicyo.html\">平塚らいてう</a>：「元始女性は太陽であった」）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/01/05　　<a href=\"../1919/01sumak.html\">\n松井須磨子自殺</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/03/28　　<a href\"..=\"\" 19.html\"=\"\">\n新婦人協会発会式</a>　（<a href=\"../p/hraicyo.html\">平塚らいてう</a>、<a href=\"../p/ifusae.html\">市川房枝</a>ら）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/06/09　　<a href\"..=\"\" 19.html\"=\"\">\n有島武郎、婦人公論記者と心中　（07/07 遺体発見）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/06/13　　<a href\"..=\"\" 19.html\"=\"\">\n太宰治、山崎富栄と入水自殺　（玉川上水）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>裕福な家庭育ちで女子大卒、才媛といわれた<a href=\"../p/hraicyo.html\">平塚明子</a>（雷鳥、23歳）が３月21日、遺書を残して家を出た。\nかねて男嫌いで哲学、禅に凝っていたということで周りは厭世の自殺を心配した。\nところが数日後、雪の塩原尾花峠で心中未遂の<a href=\"../p/hraicyo.html\">平塚</a>と文学士・森田米松（草平、28歳）が一緒に保護された。</div>\n<div>事件は当時盛んな自然主義を地で行くスキャンダルとして世上をにぎわした。\n世間の指弾を浴びた森田だったが<a href=\"../p/nsoseki.html\">夏目漱石</a>の援助を受け、この心中未遂事件を素材に小説「煤煙」を発表。\n作家の仲間入りした。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ys_20sei.html\">読売新聞社 「読む年表・20世紀と昭和天皇」</a>\n　Ｐ．１２</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1908.html\">１９０８年</a>\n ＞ <a href=\"#h\">森田草平・平塚らいてう心中未遂　（煤煙事件）</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

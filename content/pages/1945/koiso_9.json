@@ -1,0 +1,289 @@
+{
+ "path": "1945/koiso_9.html",
+ "type": "article",
+ "title": "小磯内閣総辞職　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1945.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "小磯内閣総辞職"
+  },
+  {
+   "type": "title2",
+   "html": "1945/04/05"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1935.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1944.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1945.html\">１９４５</a> &gt;&gt;&gt; <a href=\"../20c/1946.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "何ら有効な策を打ち出すこともできず、「張子の虎」小磯内閣退陣。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/07/07　　<a href=\"../1944/07saipa.html\">\nサイパン陥落　（守備隊玉砕）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/07/18　　<a href=\"../1944/tojo_9.html\">\n東條内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/07/22　　<a href=\"../1944/koiso_1.html\">\n小磯内閣成立</a>　（首相：<a href=\"../p/kkuniaki.html\">小磯国昭</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/10/12　　<a href=\"../1944/10taiwa.html\">\n台湾沖航空戦</a>　（大本営、大戦果を発表）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/10/20　　<a href=\"../1944/10a_ley.html\">\nアメリカ軍、レイテ島（フィリピン）上陸</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/10/24　　<a href=\"../1944/10leyte.html\">\nレイテ沖海戦</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/10/25　　<a href=\"../1944/10tokko.html\">\n特攻開始</a>　（関大尉ら敷島隊）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/02/11　　<a href=\"../1945/02kyote.html\">\nヤルタ協定</a>　（スターリン、対日参戦を約束）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/03/09　　<a href=\"../1945/03toky1.html\">\n東京大空襲①</a>　（～03/10）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/03/16　　<a href\"..=\"\" 19.html\"=\"\">\n小磯首相、天皇の特旨により大本営に列する</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/03/17　　<a href=\"../1945/03iojim.html\">\n硫黄島守備隊玉砕</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/03/19　　<a href=\"../1945/03myohi.html\">\n小磯・繆会談　（繆斌工作）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/04/01　　<a href=\"../1945/04okina.html\">\n沖縄戦開始　（アメリカ軍、沖縄本島上陸）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/04/05　　<a 1945=\"\" href\"..=\"\" koiso_9.html\"=\"\">\n小磯内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/04/05　　<a href=\"../1945/04s_fue.html\">\nソ連、日ソ中立条約の不延長を通告</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/04/07　　<a href=\"../1945/suzua_1.html\">\n鈴木（貫）内閣成立</a>　（首相：<a href=\"../p/skantaro.html\">鈴木貫太郎</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>国務と統帥の一致が得られないまま、<a href=\"../p/kkuniaki.html\">小磯首相</a>は本土決戦の準備をすすめなければならなかった。\n大本営陸軍部は、三月中旬に本土決戦のための『決号作戦準備要綱』を策定し、二〇日に本土各方面軍の参謀長ならびに関係閣僚に内示した。\n<a href=\"../1944/koiso_1.html\">小磯内閣</a>は、呼応して二六日、本土決戦のための国民義勇隊の結成を閣議決定した。\n国民義勇隊は、当面は防空および防衛、空襲被害の復旧から重要物資の輸送、食糧増産などの臨時緊急を要する作業に国民を動員し、\n情勢が急迫した場合には国民を武装出動させようという非常態勢である。\nところが、その命令系統をめぐって<a href=\"../p/kkuniaki.html\">小磯首相</a>と陸軍が対立し、陸軍の内部では陸軍省と参謀本部が対立した。\n陸軍は、憲法を停止し、憲法によって保証されている国民の権利をすべて剥奪し、軍の統帥命令によって生殺与奪の権をすべて軍官の手に掌握し、\n全国民を婦女子にいたるまで戦闘にかりたてようとした。\nこの計画について不一致はなかったが、参謀本部は、大本営を最高の指導機関とし、\n内閣は大本営に付属しつつ軍の作戦方針によってうごく一行政機関たらしめようとした。\nしかし、陸軍省は、それでは陸軍大臣も下級の隷属機関となってしまうといって反対し、\n命令系統を陸軍省に確保しようとした。\n<a href=\"../p/kkuniaki.html\">小磯首相</a>は、義勇隊を統裁する総司令部には首相みずからがあたるべきであると主張した。\n<a href=\"../p/kkuniaki.html\">小磯首相</a>の主張は、中国にたいする和平工作としての繆斌を介した<a href=\"../p/syokaise.html\">蒋介石</a>との直接交渉が失敗し、\nのこされた道が来るべき本土決戦において敵に打撃をあたえつつ、その機先を利用して和平の手をうつ以外になくなったとき、\n国務と統帥の一致を要求するためにいっそうつよめられた。\n彼は、かくしてひろく戦争遂行のうえで依然として未解決のままのこされていた国務と統帥のあいだの矛盾をもあわせて解決するため、\n予備役から現役に復帰して陸相を兼摂しようとした。\n首相は大本営の議に単に列するにすぎないが、陸相を兼摂するならば、\n陸相としての本来の権限から大本営の決定に強力に参与することができるからであった。\nちょうどこのとき、陸相の<a href=\"../p/shajime.html\">杉山元</a>が本土決戦のために設けられた第一総軍司令官に転出することとなった。\n<a href=\"../p/kkuniaki.html\">小磯首相</a>は、いい機会だと陸相の兼摂を要求した。\nしかし、陸軍は、予備役の現役復帰と陸相兼摂は絶対に承認できないといって拒否した。\n戦争指導の方途をうしなった<a href=\"../p/kkuniaki.html\">小磯首相</a>は、四月五日、ついに内閣をなげだした。\n彼は、とくに後継内閣は大本営内閣でなければならないことを強調しながら、辞表を提出した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ss1sengo.html\">信夫清三郎 「戦後日本政治史Ⅰ」</a>\n　Ｐ．６６</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>小磯内閣が退陣したのは、この四月五日であった。</div>\n<div>総辞職の原因は<span class=\"bar\">―</span>―<a href=\"../p/otaketor.html\">緒方竹虎国務相</a>（戦後副総理、自由党総裁）が、\n汪精衛政権の考試院長繆斌を通じて、重慶の蒋介石政権と直接、和平交渉をこころみようとしたのを、軍部が反対し、\nその軍と一緒になった<a href=\"../p/smamoru.html\">重光葵外相</a>と対立、それで閣内不統一をきたしたからであった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ti_yosid.html\">戸川猪佐武 「小説 吉田茂」</a>\n　Ｐ．１６０</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n<br>「小磯内閣」は「小磯国昭内閣」「小磯國昭内閣」と同じ意味です。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1945.html\">１９４５年</a>\n ＞ <a href=\"#h\">小磯内閣総辞職</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

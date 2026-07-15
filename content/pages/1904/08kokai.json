@@ -1,0 +1,229 @@
+{
+ "path": "1904/08kokai.html",
+ "type": "article",
+ "title": "黄海海戦　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1904.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "黄海海戦"
+  },
+  {
+   "type": "title2",
+   "html": "1904/08/10"
+  },
+  {
+   "type": "navi2",
+   "html": "\n１０年前 &gt;&gt;&gt; <a href=\"../20c/1903.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1904.html\">１９０４</a> &gt;&gt;&gt; <a href=\"../20c/1905.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1914.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "１発のラッキーショットが連合艦隊を救った。　黄海は薄氷の海戦勝利。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/10　　<a href=\"../1904/02jr_wa.html\">\n対露宣戦布告</a>　（<a href=\"../them/jr_war.html\">日露戦争</a>勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/24　　<a href=\"../1904/02heso1.html\">\n旅順口閉塞作戦①</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/03/27　　<a href=\"../1904/03heso2.html\">\n旅順口閉塞作戦②</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/04/13　　<a href=\"../1904/04makar.html\">\nロシア太平洋艦隊マカロフ司令官戦死</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/05/03　　<a href=\"../1904/05heso3.html\">\n旅順口閉塞作戦③</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/05/15　　<a href=\"../1904/05senka.html\">\n戦艦「初瀬」「八島」、旅順沖で触雷、沈没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/08/10　　<a 1904=\"\" href\"..=\"\" 08kokai.html\"=\"\">\n黄海海戦</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/08/14　　<a href=\"../1904/08urusa.html\">\n蔚山沖海戦</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/01/02　　<a href=\"../1905/01ryojy.html\">\n旅順陥落</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/05/27　　<a href=\"../1905/05nihon.html\">\n日本海海戦</a>　（～05/28／連合艦隊司令長官：<a href=\"../p/theihaci.html\">東郷平八郎</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>しだいに包囲の中におち込んでゆく感のあった旅順艦隊が、【中略】　ウラジオ艦隊への合流を望んだのは当然であった。\nまず六月二十三日、掃海隊を先頭に戦艦以下十一隻が旅順を出港、連合艦隊の包囲を破ろうとしたがしだいに制圧され、\n結局旅順に逃げかえってしまった。</div>\n<div>しかし、これにこりず八月十日には第二回の出撃を試みてきた。\nこんどは旗艦ツェザレウィッチ号を先頭に十七隻の陣容であった。\n今度は連合艦隊も、なるべく遠くまで誘い出してたたく作戦をとり、南東方向に脱出しようとするロシア艦隊に追いすがった。\n午後一時すぎから始まった海戦は容易に決着がつかなかったが、六時すぎ、旗艦ツェザレウィッチの司令塔を撃破したのを機に\nようやく日本側の勝利となった。\n司令長官以下の幕僚を一瞬にして失ったツェザレウィッチは舵にも故障を生じ、\nこのためロシア艦隊の陣形はいっきょに乱れてしまった。\n利あらずとみた主力はふたたび旅順に逃げ帰ったが、ツェザレウィッチと駆逐艦三隻は膠州湾に、\n巡洋艦と駆逐艦各一隻は上海に、さらに一隻の巡洋艦はサイゴンに逃げ込んで武装解除されたし、\n山東で駆逐艦が、樺太付近で巡洋艦が擱座するというありさまであり、旅順艦隊の力は半減してしまった。\n黄海の海戦と呼ばれているのがこれである。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ft_nicir.html\">古屋哲夫 「日露戦争」</a>\n　Ｐ．１０７</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>ウィトゲフトは東郷艦隊とよく戦い、かれの目的であるウラジオへの遁走があるいは成功するかもしれないという日没ちかくまで奮戦したが、\n午後六時三十七分、【中略】　三笠から放たれた「運命の一弾」がツェザレウィッチの司令塔付近に命中し、\nウィトゲフト提督およびその幕僚たちを吹っとばしてしまった。\nその直後、第二弾が爆発し、艦長、操舵員など全員を戦死させた。\n死んだ操舵員が、死の直前、舵にとりついたまま苦悶して身を左へよじったため、\nこの大艦が燃えながら左へ左へと方向をとりはじめ、このため二番艦以下が混乱し、陣形がみだれ、艦隊は四分五裂する結果になった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/sr6sakan.html\">司馬遼太郎 「坂の上の雲（６）」</a>\n　Ｐ．１０５</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1904.html\">１９０４年</a>\n ＞ <a href=\"#h\">黄海海戦</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

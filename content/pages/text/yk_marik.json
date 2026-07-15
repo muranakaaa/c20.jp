@@ -1,0 +1,160 @@
+{
+ "path": "text/yk_marik.html",
+ "type": "text",
+ "title": "「マリコ」　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "text.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "「マリコ」"
+  },
+  {
+   "type": "title2",
+   "html": "参考書籍"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n著者：　柳田邦男（やなぎた・くにお）<br>\n発行：　新潮社（1983/11/25）<br>\n書籍：　文庫（433ページ）<br>\n定価：　560円（税込）<br>\n初版：　新潮社（1980/07）<br>\n補足情報：<br>\n<div class=\"in\">\n日米の「かけ橋」として、波瀾の運命を歩んだ一女性の半生を通して描く、激動の日米現代史。（裏表紙）</div>\n"
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../1931/09ryujo.html\">満州事変勃発</a></b></div>\n<div>一九三一年（昭和六年）九月十八日夜、満州（中国東北部）の奉天（瀋陽）郊外にある柳条溝で起きた南満州鉄道の線路爆破事件をきっかけに、\n日本の関東軍が軍事行動を開始したのである。<a href=\"../1931/09ryujo.html\">満州事変の勃発</a>であった。\nこの事件は、関東軍が満州での権益拡大をねらって行動を起こす口実を作るために、謀略的に仕掛けたものであった。\nそして関東軍は、<a href=\"../1931/09fukak.html\">日本政府の事変不拡大方針</a>にもかかわらず、戦線を拡大して行った。</div>\n<div>満州での日本の軍事行動は、世界の耳目を集めた。\n中国の「門戸開放」と「領土保全」を基本的な外交方針にしていたアメリカにとっても、満州事変は重大な関心事だった。\n対満貿易という直接的な利害関係もあった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/yk_marik.html\">柳田邦男 「マリコ」</a>\n　Ｐ．２２</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../1932/01syan1.html\">上海事変①勃発</a></b></div>\n<div>上海における抗日運動と日本人居留民との対立抗争がたかまる中で、一月二十九日、上海市北部の閘北において、\n治安維持に出動した海軍の陸戦隊と中国軍との間に、激烈な市街戦が開始されたのだ。\n<a href=\"../1932/01syan1.html\">第一次上海事変の勃発</a>だった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/yk_marik.html\">柳田邦男 「マリコ」</a>\n　Ｐ．３５</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../1936/02226ji.html\">二・二六事件</a></b></div>\n<div>雪に覆われた東京で、急進派の青年将校に率いられた千四百名余の歩兵部隊が、反乱を起こし、首相官邸をはじめ、\n国会議事堂、参謀本部、陸軍省などの要所を占拠したのは、未明のことだった。\nしかし、直ちにきびしい報道管制が施かれたので、事件の発生は、夜になって陸軍省が公式に発表するまで、一般には伝えられなかった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/yk_marik.html\">柳田邦男 「マリコ」</a>\n　Ｐ．５１</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../1936/03kansy.html\">陸軍、広田内閣の組閣に干渉</a></b></div>\n<div><a href=\"../1936/okada_9.html\">岡田内閣は総辞職</a>し、近衛文麿が組閣を命ぜられたが、<a href=\"../p/kfumimar.html\">近衛</a>は辞退した。</div>\n<div>代って組閣を命じられたのは、外相の<a href=\"../p/hkoki.html\">広田弘毅</a>だった。\n<a href=\"../p/hkoki.html\">広田</a>はこれを受諾して、組閣に乗り出したが、閣僚メンバーについて、陸相<a href=\"../p/thisaici.html\">寺内寿一</a>をはじめとする陸軍側から激しい横槍が入った。\n外相候補の<a href=\"../p/ysigeru.html\">吉田茂</a>ら五人の入閣予定者が自由主義的で、時局を乗り切るには、不適当であるというのが、\n陸軍側の主張だった。\n陸軍側の政治干渉は従来になく強硬なものだったため、<a href=\"../p/hkoki.html\">広田</a>はやむなく<a href=\"../p/ysigeru.html\">吉田</a>を除外するなど、閣僚の顔ぶれを変更して、\n組閣にこぎつけた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/yk_marik.html\">柳田邦男 「マリコ」</a>\n　Ｐ．５３</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../p/tteijiro.html\">豊田貞次郎</a>、外相就任</b></div>\n<div>七月十八日、内閣の決定さえ裏切って独走しがちな松岡の追い出しをねらった近衛内閣の改造が行なわれた。\n松岡の後任として外相に任命されたのは、海軍大将<a href=\"../p/tteijiro.html\">豊田貞次郎</a>だった。</div>\n<div><a href=\"../p/tteijiro.html\">豊田</a>は<a href=\"../p/nkicisab.html\">野村</a>と同じ和歌山県の出身で後輩だった。\n人柄は誠実で、日米衝突はできるだけ避けるべきだという考えを持っていた。\n海軍大将だから、ある程度陸軍を牽制することもできよう。\n<a href=\"../p/tteijiro.html\">豊田</a>―<a href=\"../p/nkicisab.html\">野村</a>のラインなら、日米交渉を続行させるために、最善のコンビになる。\nこうした諸条件を考えて、<a href=\"../p/kfumimar.html\">近衛</a>は<a href=\"../p/tteijiro.html\">豊田</a>を外相に登用したのだった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/yk_marik.html\">柳田邦男 「マリコ」</a>\n　Ｐ．８５</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../1941/12saigo.html\">対米最後通告</a></b></div>\n<div>一時四十五分には、<a href=\"../p/nkicisab.html\">野村</a>と栗栖は玄関先で車に乗り込んで、いつでも出発できるようにしていたが、\nまだタイプは終らなかった。\n打ち終ったのは、午後一時五十分だった。</div>\n<div>両大使の車は、フルスピードで国務省に向かった。\n国務省は休日なのでひっそりとしていた。\n<a href=\"../p/nkicisab.html\">野村</a>が<a href=\"../p/hull_c.html\">ハル</a>と会談するのは、これが実に四十六回目だった。\nその間に<a href=\"../p/roosev_f.html\">ルーズベルト</a>との会見も九次を数えていた。\n長官室でしばらく待たされた後、ようやく<a href=\"../p/hull_c.html\">ハル</a>が入ってきた。\n午後二時二十分だった。\nすでにハワイでは<a href=\"../1941/12hawai.html\">日本海軍による奇襲攻撃</a>が開始されて一時間近く経ち、\nパール・ハーバーは戦闘の修羅場と化していた。\n<a href=\"../p/hull_c.html\">ハル</a>はその第一報を知らされていたが、素知らぬふりで<a href=\"../p/nkicisab.html\">野村</a>と栗栖を迎え入れた。\nだが、<a href=\"../p/hull_c.html\">ハル</a>は二人に椅子をすすめることもしなかった。</div>\n<div><a href=\"../p/nkicisab.html\">野村</a>は遅れたことを詫びつつ、「午後一時にこの回答を貴長官に手交すべく訓令を受けた」といって、\n対米覚書を<a href=\"../p/hull_c.html\">ハル</a>に渡した。</div>\n<div><a href=\"../p/hull_c.html\">ハル</a>は覚書の内容をすでに知っていたが、念のため最後の頁まで急いで目を通すと、激怒していった。</div>\n<div>「自分は公職にあること五十年になるが、このように恥ずべき偽りと歪曲とをもって充満された文書を見たことはない」</div>\n<div><a href=\"../p/hull_c.html\">ハル</a>は、何かいおうとする<a href=\"../p/nkicisab.html\">野村</a>を制止して、あごでドアのほうをさした。\n<a href=\"../p/nkicisab.html\">野村</a>と栗栖は頭をたれて退席した。\n二人が去ると、<a href=\"../p/hull_c.html\">ハル</a>は自分がいったことをすぐに速記者に書き取らせ、新聞に発表した。\n情報戦において、アメリカは完全に日本に水をあけていた。</div>\n<div><a href=\"../p/nkicisab.html\">野村</a>と栗栖が大使館に帰ったとき、大使館員たちはラジオ放送で<a href=\"../1941/12hawai.html\">真珠湾攻撃</a>のニュースを聞き、騒然となっていた。\n<a href=\"../p/nkicisab.html\">野村</a>と栗栖はあまりのことに愕然となった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/yk_marik.html\">柳田邦男 「マリコ」</a>\n　Ｐ．１１１</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../1950/06cyose.html\">朝鮮戦争勃発</a></b></div>\n<div>一九五〇年（昭和二十五年）六月二十五日早暁、朝鮮半島の三十八度線ぞいの各地で、\n北朝鮮軍と韓国軍との間に戦闘が開始され、たちまちのうちに両国間の全面戦争に発展したのだ。</div>\n<div>韓国の駐留米軍は一年前に撤退していたこともあって、韓国側の軍事力は弱く、首都ソウルはわずか三日後に陥落し、\n韓国軍は南へ後退する一方だった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/yk_marik.html\">柳田邦男 「マリコ」</a>\n　Ｐ．２３７</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "br",
+   "attrs": {},
+   "html": ""
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>ウォーターゲート事件</b></div>\n<div>ウォーターゲート事件とは、<a href=\"../p/nixon_r.html\">ニクソン</a>の側近たちが民主党の選挙資料を盗み出すために、\n元ＣＩＡ職員ら五人を民主党本部に深夜侵入させた事件で、事件が発覚すると、\n<a href=\"../p/nixon_r.html\">ニクソン</a>自身がそのもみ消しをしようとしていた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/yk_marik.html\">柳田邦男 「マリコ」</a>\n　Ｐ．３５１</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"07m.html\">書籍ファイル一覧　（マ）</a>\n ＞ <a href=\"#h\">「マリコ」</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

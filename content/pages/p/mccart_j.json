@@ -1,0 +1,233 @@
+{
+ "path": "p/mccart_j.html",
+ "type": "person",
+ "title": "ジョゼフ・Ｒ・マッカーシー　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "p.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "ジョゼフ・Ｒ・マッカーシー"
+  },
+  {
+   "type": "title2",
+   "html": "1908 － 1957"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "prof"
+   },
+   "html": "\n上院議員、弁護士　／ アメリカ"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_r\">エピソード 1</span>調査中。"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<tbody><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr><tr><td class=\"hist\">\n・　</td></tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/12/08　　<a href=\"../1941/12hawai.html\">\nハワイ奇襲攻撃</a>　（AM03：25／太平洋戦争勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/02　　<a href=\"../1945/09kofuk.html\">\n降伏文書調印</a>　（全権：<a href=\"../p/smamoru.html\">重光葵</a>、<a href=\"../p/uyosijir.html\">梅津美治郎</a>／第二次世界大戦終結）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/03/05　　<a href=\"../1946/03curta.html\">\nチャーチル、「鉄のカーテン」演説</a>　（米・ミズーリ州フルトン）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/06/05　　<a href=\"../1947/06marsh.html\">\nマーシャル・プラン（ヨーロッパ復興計画）発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1948/06/24　　<a href=\"../1948/06berl1.html\">\nベルリン封鎖</a>　（～49/05/12）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/04/04　　<a href\"..=\"\" 19.html\"=\"\">\nＮＡＴＯ（北太平洋条約）調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1949/10/01　　<a href=\"../1949/10c_sei.html\">\n中華人民共和国成立</a>　（主席：<a href=\"../p/motakuto.html\">毛沢東</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/02/09　　<a href=\"../1950/02macca.html\">\nマッカーシー（米）上院議員、国務省に57人の共産党員がいると演説</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1950/06/25　　<a href=\"../1950/06cyose.html\">\n朝鮮戦争勃発</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>一九三六年、地方検事選挙で民主党候補として出馬したが落選。\n一九三九年、巡回裁判所判事の選挙に出馬、支持を求めて地域を精力的に回ったが、\n対立候補の年齢や資産を実際よりも多く歪曲して攻撃するなどして当選を果たした。\n野心的、活動的で人心をつかむ才に長けていながら、誠実さには欠如しているマッカーシーの姿がすでにあった。</div>\n<div>第二次世界大戦が始まると、マッカーシーは海兵隊に入隊、一九四四年、海兵隊在籍のまま、\n共和党から上院議員に立候補したが落選。\n一九四六年、再び上院に立候補し、自らの「戦功」を強調するなど激しい選挙戦の末に当選した。\n上院議員としてのマッカーシーは凡庸で、一九五〇年に至るまで、二年後の再選につながる程の業績はなかった。</div>\n<div>一九五〇年二月九日ウェストヴァジニア州ホイーリングにおいて、マッカーシーは、国務省で働いている共産党員二〇五名の名簿を入手したと発言し、\n一躍世間の注目を浴びることになった。\n二月二十日、マッカーシーは、上院においても、この発言を繰り返した。</div>\n<div>彼の挙げた証拠は不確かで人数も曖昧であり、国務省内の共産党員の存在を証明するに足るものではなかった。\nしかし、アルジャー・ヒスのスパイ容疑、中国の共産主義化、ソ連の原爆保有、さらには、<a href=\"../1950/06cyose.html\">朝鮮戦争の勃発</a>へと続いていく内外の一連の出来事で、\n人々はアメリカの未来についての不安や疑念をかきたてられていた時であった。</div>\n<div>これ以降、マッカーシーは、無任所大使フィリップ・Ｃ・ジェサップ、中国研究家でジョンズ・ホプキンズ大学教授オーウェン・ラティモアなどを、\n共産主義者、ソ連側スパイとして次々に名指ししてセンセーションを巻き起こした。\n一九五一年にはマッカーシーの批判の鉾先は<a href=\"../p/marsha_g.html\">ジョージ・Ｃ・マーシャル前国務長官</a>にまで及んだ。</div>\n<div>一九五二年の共和党全国大会や<a href=\"../p/eizenh_d.html\">アイゼンハワー</a>の大統領戦でも、マッカーシーは、共産主義に対して弱腰であると民主党批判を展開した。\n自分の再選後も、政府機能審査小委員会の議長として、国務省の海外情報活動などを調査するなど、\n共産主義者による非米活動の摘発、批判を続けた。\n<a href=\"../p/eizenh_d.html\">アイゼンハワー大統領</a>によるチャールズ・ボーレンソ連大使任命にも異議を唱えた。</div>\n<div>ついにマッカーシーの批判が、軍隊内に向けられるに及んで、\n一九五四年、マッカーシーと陸軍との間で三十六日にわたって公聴会が行なわれることになった。\nこの模様はテレビで放映され、数百万の人たちが見守った。\nマッカーシーと弁護士ロイ・コーンの虚偽と中傷に基づく軍隊批判は人々の反感を招き、マッカーシーの影響力は失われた。\n十二月、上院議会はマッカーシーに対し譴責決議を下した。\n三年後、一九五七年五月二日、失意のうちに世を去った。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/sk_am101.html\">猿谷要 「アメリカ史重要人物１０１」</a>\n　Ｐ．１７４</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_y\">エピソード</span>\n調査中。"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"07m.html\">人物ファイル一覧　（マ）</a>\n ＞ <a href=\"#h\">ジョゼフ・Ｒ・マッカーシー</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

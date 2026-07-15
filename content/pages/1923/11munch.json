@@ -1,0 +1,233 @@
+{
+ "path": "1923/11munch.html",
+ "type": "article",
+ "title": "ヒトラー、ミュンヘン一揆失敗　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1923.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "ヒトラー、ミュンヘン一揆失敗"
+  },
+  {
+   "type": "title2",
+   "html": "1923/11/08"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1913.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1922.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1923.html\">１９２３</a> &gt;&gt;&gt; <a href=\"../20c/1924.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1933.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "ベルリン政府打倒をめざした<a href=\"../p/hitler_a.html\">ヒトラー</a>のクーデター、あっけなく失敗。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/11/09　　<a href=\"../1918/11d_kak.html\">\nドイツ革命</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/11/11　　<a href=\"../1918/11taise.html\">\n第一次世界大戦終結</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/01/05　　<a href=\"../1919/01natzi.html\">\nナチス結成</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/01/18　　<a href=\"../1919/01paris.html\">\nパリ講和会議開催</a>　（～06/28／首席全権：<a href=\"../p/skinmoci.html\">西園寺公望</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/06/28　　<a href=\"../1919/06versa.html\">\nベルサイユ条約調印</a>　（北京政府、調印拒否）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/07/31　　<a href\"..=\"\" 19.html\"=\"\">\nワイマール憲法成立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/05/05　　<a href=\"../1921/05baisy.html\">\n連合国、賠償金1320億金マルクの支払計画受諾をドイツに要求</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/01/11　　<a href=\"../1923/01ruhrs.html\">\nフランス・ベルギー、ルール占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/10/23　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ共産党、ハンブルクで武装蜂起　（10/25 鎮圧）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/11/08　　<a 1923=\"\" href\"..=\"\" 11munch.html\"=\"\">\nヒトラー、ミュンヘン一揆失敗</a>　（11/09 逮捕）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/11/15　　<a href=\"../1923/11rente.html\">\nドイツ、レンテンマルク発行開始</a>　（→インフレ収束）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/12/20　　<a href=\"../1924/12syutu.html\">\nヒトラー出獄</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>一揆の失敗を報じたニューヨーク・タイムズは、\n「これで<a href=\"../p/hitler_a.html\">ヒトラー</a>とナチスは完全に消滅した」と解説した。\nだが、彼は奇蹟的にカムバックした。\n法廷闘争によって、巧みに裁判を宣伝に利用したのである。\n裁判は一九二四年二月二六日にはじまり、<a href=\"../p/hitler_a.html\">ヒトラー</a>、<a href=\"../p/ludend_e.html\">ルーデンドルフ</a>ら十人が被告だった。\n<a href=\"../p/ludend_e.html\">ルーデンドルフ</a>は軍服に勲章をつけ威儀を正し出廷したが、３ヵ月にわたる公判のスターは彼ではなく<a href=\"../p/hitler_a.html\">ヒトラー</a>だった。\n<a href=\"../p/ludend_e.html\">ルーデンドルフ</a>の罪を軽くするために、<a href=\"../p/hitler_a.html\">ヒトラー</a>を主役にしたてた形跡がある。\nそして、バイエルンの司法官には右翼同調者が多かった。\n傍聴券は争奪され、外国特派員は百人以上も集まった。\nそれほどに裁判は内外の注目を浴びた。\nカール、ロッソー、ザイッサーらが検察側の証人に立ったが、<a href=\"../p/hitler_a.html\">ヒトラー</a>は彼らの変心をあばき、\n共和国に対する反逆という点では、彼らも全く同罪だ、と指摘した。\nそして、<a href=\"../1919/06versa.html\">ヴェルサイユ条約</a>と、十一月犯人（<a href=\"../p/ebert_f.html\">エーベルト</a>など）とユダヤ人を痛烈に糾弾して、国民の愛国感情に訴えた。\n判決は四月一日に下り、<a href=\"../p/ludend_e.html\">ルーデンドルフ</a>は無罪、<a href=\"../p/hitler_a.html\">ヒトラー</a>は禁固五年を言い渡された。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ks_weima.html\">加瀬俊一 「ワイマールの落日」</a>\n　Ｐ．１４４</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1923.html\">１９２３年</a>\n ＞ <a href=\"#h\">ヒトラー、ミュンヘン一揆失敗</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

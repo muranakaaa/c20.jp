@@ -1,0 +1,212 @@
+{
+ "path": "1910/05taigy.html",
+ "type": "article",
+ "title": "大逆事件、検挙開始　（宮下太吉逮捕）　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1910.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "大逆事件、検挙開始　（宮下太吉逮捕）"
+  },
+  {
+   "type": "title2",
+   "html": "1910/05/25"
+  },
+  {
+   "type": "navi2",
+   "html": "\n１０年前 &gt;&gt;&gt; <a href=\"../20c/1909.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1910.html\">１９１０</a> &gt;&gt;&gt; <a href=\"../20c/1911.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1920.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"../1908/katu2_1.html\">桂内閣</a>が煙のような<a href=\"../p/mtenno.html\">天皇</a>暗殺計画を大事件にでっち上げ。　社会主義者大弾圧の開始。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1909/10/26　　<a href=\"../1909/10itoxx.html\">\n伊藤博文射殺事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1910/05/25　　<a 1910=\"\" href\"..=\"\" 05taigy.html\"=\"\">\n大逆事件、検挙開始　（宮下太吉逮捕）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1910/06/01　　<a href\"..=\"\" 19.html\"=\"\">\n幸徳秋水逮捕　（湯河原／大逆事件）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1910/08/22　　<a href=\"../1910/08k_heg.html\">\n韓国併合</a>　（日韓条約調印）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1910/11/01　　<a href\"..=\"\" 19.html\"=\"\">\n文部省、「倫理」を「修身」と改称　（高等学校大学予科）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1910/12/06　　<a href\"..=\"\" 19.html\"=\"\">\nパリで大逆事件抗議デモ　（フランスの社会主義者たち）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1910/12/10　　<a href\"..=\"\" 19.html\"=\"\">\n大逆事件公判①　（傍聴禁止）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/01/18　　<a href=\"../1911/01taigy.html\">\n幸徳秋水ら24名に死刑判決</a>　（大逆事件）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/02/11　　<a href\"..=\"\" 19.html\"=\"\">\n済生に関する勅語</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/08/25　　<a href=\"../1911/katu2_9.html\">\n桂内閣②総辞職</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../1910/05taigy.html\">大逆事件</a>は、皇室に危害を加えようとしたものとされ、\n翌四十四年（一九一一）一月十八日大審院において<a href=\"../p/ksyusui.html\">幸徳</a>、<a href=\"../p/ksuga.html\">管野</a>ら<a href=\"../1911/01taigy.html\">二十四名に死刑の判決が下り</a>、その翌日十二名は刑一等を減じられて無期となったが、\n<a href=\"../p/ksyusui.html\">幸徳</a>、宮下、古河力作ら十一名は一月二十四日、<a href=\"../p/ksuga.html\">管野スガ</a>のみは翌二十五日絞首台上に登った。</div>\n<div>この事件は公判当時からフレームアップ（でっち上げ）の疑いが強かった。\n<a href=\"../p/ksuga.html\">管野スガ</a>は獄中で書いた「死出の道草」に「<a href=\"../p/ksyusui.html\">幸徳</a>、宮下、新村、古河と私の五人の陰謀予備以外は、\n煙のような過去の座談を事件に結びつけたもの」と書き残し、今日では宮下、<a href=\"../p/ksuga.html\">管野</a>、新村、古河の四人のみが実力行使計画に関係したのみで、\n<a href=\"../p/ksyusui.html\">幸徳</a>を含む他の八名は冤罪となっている。</div>\n<div><a href=\"../1908/katu2_1.html\">桂内閣</a>は社会主義を弾圧し、各地に頻発する労働争議の根を絶って、明治の天皇制絶対支配の下に帝国主義による<a href=\"../1910/08k_heg.html\">日韓併合</a>と、\n資本主義による藩閥の支配を固める為、この<a href=\"../1910/05taigy.html\">大逆事件</a>を作り上げたのであるが、\nその処断の過酷は国内はもとより世界中から批判され、また政界からも「このような事件の生起を許した警察行政の手ぬかり」を強く批判され、\n内閣の倒れる一因をなすに到った。</div>\n<div class=\"txr\"><a href=\"../text/tm1saion.html\">豊田穣 「西園寺公望（上）」</a>\n　Ｐ．４０５<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E5%259C%2592%25E5%25AF%25BA%25E5%2585%25AC%25E6%259C%259B%25E2%2580%2595%25E6%259C%2580%25E5%25BE%258C%25E3%2581%25AE%25E5%2585%2583%25E8%2580%2581%2520%2528%25E4%25B8%258A%25E5%25B7%25BB%2529%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/ysenji.html\">山宣</a>がまだハイスクールの受験勉強に一生懸命であった一九一〇年六月上旬、天皇暗殺計画の「大逆事件」として宮下太吉、\n新村忠雄、古河力作、<a href=\"../p/ksyusui.html\">幸徳伝次郎</a>、<a href=\"../p/ksuga.html\">管野スガ</a>およびその連累者新田融、新村善兵衛が起訴されたという報道が晩香坡でも英字新聞などで報道された。\n当初は関係者は以上の七名のみで他には関係者はないだろうという日本政府関係者の談話を報じていた。</div>\n<div class=\"txr\"><a href=\"../text/st1yamas.html\">佐々木敏二 「山本宣治（上）」</a>\n　Ｐ．１７０<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4938303000%2Fqid%3D1147088125%2Fsr%3D1-1%2Fref%3Dsr_1_8_1\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1910.html\">１９１０年</a>\n ＞ <a href=\"#h\">大逆事件、検挙開始　（宮下太吉逮捕）</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

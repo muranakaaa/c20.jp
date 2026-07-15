@@ -1,0 +1,1788 @@
+{
+ "path": "20c/1945.html",
+ "type": "year",
+ "title": "１９４５年　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９４５年"
+  },
+  {
+   "type": "title2",
+   "html": "昭和２０年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"1935.html\">１０年前</a> &gt;&gt;&gt; <a href=\"1944.html\">前年</a> &gt;&gt;&gt; <span class=\"now\">１９４５</span> &gt;&gt;&gt; <a href=\"1946.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"#s4_c\">ピカドン　　１億総懺悔　　復員　　パンパン</a>",
+    "<a href=\"../1944/koiso_1.html\">小磯</a> → <a href=\"../1945/suzua_1.html\">鈴木（貫）</a> → <a href=\"../1945/higa_1.html\">東久邇宮</a> → <a href=\"../1945/side_1.html\">幣原内閣</a>"
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"1944.html#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s2_a\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/01/01　　<a href\"..=\"\" 19.html\"=\"\">\n「タイム」誌、日本製風船爆弾のモンタナ州落下を報道</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/01/09　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ軍、ルソン島（フィリピン）上陸</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/01/17　　<a href\"..=\"\" 19.html\"=\"\">\nソ連軍、ワルシャワ（ポーランド）解放</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/02/04　　<a href=\"../1945/02yalta.html\">\nヤルタ会談</a>　（～02/11）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/02/11　　<a href=\"../1945/02kyote.html\">\nヤルタ協定</a>　（スターリン、対日参戦を約束）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/02/19　　<a href=\"../1945/02a_ioj.html\">\nアメリカ軍、硫黄島上陸</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/03/02　　<a href\"..=\"\" 19.html\"=\"\">\n農商省、幽霊人口を約100万人と推定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/03/07　　<a href\"..=\"\" 19.html\"=\"\">\nユーゴ人民政府成立</a>　（首班：<a href=\"../p/tito.html\">チトー</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/03/09　　<a href=\"../1945/03toky1.html\">\n東京大空襲①</a>　（～03/10）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/03/13　　<a href\"..=\"\" 19.html\"=\"\">\n刑政憤激挺身隊（囚人141人）錦糸町付近の累積死体処理に初出動</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/03/16　　<a href\"..=\"\" 19.html\"=\"\">\n小磯首相、天皇の特旨により大本営に列する</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/03/17　　<a href=\"../1945/03iojim.html\">\n硫黄島守備隊玉砕</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/03/19　　<a href=\"../1945/03myohi.html\">\n小磯・繆会談　（繆斌工作）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/03/26　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/lloyd_g.html\">\nロイド・ジョージ</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/03/31　　<a href\"..=\"\" 19.html\"=\"\">\nアンネ・フランク没</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2_a\"></a>\n<a href=\"#s2_a\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s2_b\">▽</a><a href=\"#s2_a\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/04/01　　<a href=\"../1945/04okina.html\">\n沖縄戦開始　（アメリカ軍、沖縄本島上陸）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/04/05　　<a href=\"../1945/koiso_9.html\">\n小磯内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/04/05　　<a href=\"../1945/suzua_0.html\">\n鈴木貫太郎に組閣命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/04/05　　<a href=\"../1945/04s_fue.html\">\nソ連、日ソ中立条約の不延長を通告</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/04/07　　<a href=\"../1945/04yamat.html\">\n戦艦「大和」撃沈　（水上特攻失敗）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/04/07　　<a href=\"../1945/suzua_1.html\">\n鈴木（貫）内閣成立</a>　（首相：<a href=\"../p/skantaro.html\">鈴木貫太郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/04/12　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/roosev_f.html\">\nＦ・ルーズベルト</a>没　（アメリカ大統領）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/04/12　　<a href\"..=\"\" 19.html\"=\"\">\n副大統領トルーマン、アメリカ大統領就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/04/13　　<a href\"..=\"\" 19.html\"=\"\">\n東京大空襲②</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/04/15　　<a href\"..=\"\" 19.html\"=\"\">\n憲兵隊、吉田茂を逮捕</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/04/22　　<a href\"..=\"\" 19.html\"=\"\">\nソ連軍戦車隊、ベルリン市街に突入</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/04/27　　<a href=\"../1945/04musso.html\">\nムッソリーニ逮捕</a>　（04/28 銃殺）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/04/30　　<a href=\"../1945/04hitle.html\">\nヒトラー自殺</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2_b\"></a>\n<a href=\"#s2_b\">＝</a><a href=\"#s2_a\">△</a><a href=\"#h\">◎</a><a href=\"#s2_c\">▽</a><a href=\"#s2_b\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/05/02　　<a href\"..=\"\" 19.html\"=\"\">\nイギリス軍、ラングーン占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/05/07　　<a href=\"../1945/05d_kof.html\">\nドイツ、無条件降伏　（ベルリン陥落）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/05/09　　<a href\"..=\"\" 19.html\"=\"\">\n政府、日本の戦争遂行決意は不変と声明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/05/14　　<a href=\"../1945/05taiso.html\">\n最高戦争指導会議、対ソ交渉方針を決定</a>　（終戦工作開始）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/05/25　　<a href\"..=\"\" 19.html\"=\"\">\n東京大空襲③</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2_c\"></a>\n<a href=\"#s2_c\">＝</a><a href=\"#s2_b\">△</a><a href=\"#h\">◎</a><a href=\"#s3_a\">▽</a><a href=\"#s2_c\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/06/03　　<a href=\"../1945/06hirot.html\">\n広田・マリク（駐日ソ連大使）会談</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/06/05　　<a href=\"../1945/06berli.html\">\nベルリン協定調印</a>　（米・英・仏・ソ）"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/06/07　　<a href\"..=\"\" 19.html\"=\"\">\n西田幾多郎没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/06/08　　<a href=\"../1945/06goz08.html\">\n御前会議、本土決戦決定</a>　（「今後採るべき戦争指導の基本要綱」）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/06/18　　<a href=\"../1945/06himey.html\">\n沖縄師範女子部・第一高女の生徒49人戦死または自決</a>　（～06/23）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/06/18　　<a href=\"../1945/06tenno.html\">\n天皇、和平交渉推進を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/06/23　　<a href=\"../1945/06okina.html\">\n沖縄守備隊全滅</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/06/23　　<a href=\"../1945/06giyuh.html\">\n義勇兵役法公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/06/25　　<a href=\"../1945/06kokur.html\">\n国連憲章調印</a>　（サンフランシスコ連合国全体会議参加50ヵ国）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/06/30　　<a href\"..=\"\" 19.html\"=\"\">\n花岡鉱山事件</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3_a\"></a>\n<a href=\"#s3_a\">＝</a><a href=\"#s2_c\">△</a><a href=\"#h\">◎</a><a href=\"#s3_b1\">▽</a><a href=\"#s3_a\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/07/10　　<a href=\"../1945/07konoe.html\">\n最高戦争指導会議、近衛特使ソ連派遣を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/07/14　　<a href\"..=\"\" 19.html\"=\"\">\n青函連絡船壊滅</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/07/16　　<a href=\"../1945/07genba.html\">\nアメリカ、原爆実験成功</a>　（ニューメキシコ／マンハッタン計画）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/07/17　　<a href=\"../1945/07potsk.html\">\nポツダム会談</a>　（～08/02）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/07/18　　<a href=\"../1945/07s_tok.html\">\nソ連、近衛特使派遣について否定的回答</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/07/26　　<a href=\"../1945/07potsd.html\">\n連合国、ポツダム宣言発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/07/26　　<a href=\"../1945/07churc.html\">\nチャーチル内閣総辞職</a>　（07/05の総選挙で保守党敗北／英）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/07/27　　<a href\"..=\"\" 19.html\"=\"\">\nアトリー内閣成立　（英）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/07/28　　<a href\"..=\"\" 19.html\"=\"\">\n鈴木首相記者会見「ポツダム宣言黙殺」</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/07/30　　<a href\"..=\"\" 19.html\"=\"\">\n佐藤尚武駐ソ大使、ソ連政府に和平斡旋を依頼</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3_b1\"></a>\n<a href=\"#s3_b1\">＝</a><a href=\"#s3_a\">△</a><a href=\"#h\">◎</a><a href=\"#s3_b2\">▽</a><a href=\"#s3_b1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/03　　<a href=\"../1945/08mosyo.html\">\n毛・蒋会談</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/06　　<a href=\"../1945/08hiros.html\">\nアメリカ軍、広島に原爆投下</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/08　　<a href=\"../1945/08s_san.html\">\nソ連、対日参戦</a>　（08/09 満州侵攻開始）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/09　　<a href\"..=\"\" 19.html\"=\"\">\n防空総本部、「新型爆弾」対策発表　（白衣の着用・横穴壕へ退避など）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/09　　<a href=\"../1945/08nagas.html\">\nアメリカ軍、長崎に原爆投下</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/10　　<a href=\"../1945/08goz10.html\">\n御前会議、条件付きでポツダム宣言受諾を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/10　　<a href\"..=\"\" 19.html\"=\"\">\n政府、ポツダム宣言の条件付き受諾を連合国に申入れ</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/12　　<a href=\"../1945/08kaito.html\">\n日本降伏に関する連合国回答到着</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/12　　<a href\"..=\"\" 19.html\"=\"\">\nソ連軍、朝鮮半島上陸　（08/29 北朝鮮全域を掌握）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/13　　<a href\"..=\"\" 19.html\"=\"\">\n世界シオニスト会議、ユダヤ人100万人のパレスチナ入国を要求</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/14　　<a href=\"../1945/08goz14.html\">\n御前会議、ポツダム宣言受諾を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/14　　<a href\"..=\"\" 19.html\"=\"\">\n政府、ポツダム宣言受諾を連合国に通告</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/14　　<a href=\"../1945/08rokuo.html\">\n天皇、玉音盤録音</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/14　　<a href=\"../1945/08kyujo.html\">\n宮城事件</a>　（戦争継続派によるクーデター未遂）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/15　　<a href=\"../1945/08anami.html\">\n阿南陸相自決</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/15　　<a href=\"../1945/08gyoku.html\">\n玉音放送　（終戦の詔勅）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/15　　<a href=\"../1945/suzua_9.html\">\n鈴木（貫）内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/15　　<a href\"..=\"\" 19.html\"=\"\">\n朝鮮建国準備委員会結成　（ソウル）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3_b2\"></a>\n<a href=\"#s3_b2\">＝</a><a href=\"#s3_b1\">△</a><a href=\"#h\">◎</a><a href=\"#s3_c\">▽</a><a href=\"#s3_b2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/16　　<a href=\"../1945/08s_hok.html\">\nスターリン、ソ連軍による北海道北部占領を提案</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/17　　<a href\"..=\"\" 19.html\"=\"\">\nインドネシア共和国独立宣言　（08/18 大統領にスカルノを選出）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/17　　<a href\"..=\"\" 19.html\"=\"\">\n高村光太郎「一億の号泣」発表　（朝日新聞）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/17　　<a href=\"../1945/higa_1.html\">\n東久邇宮内閣成立</a>　（首相：<a href=\"../p/hnaruhik.html\">東久邇宮稔彦</a>／無任所相：<a href=\"../p/kfumimar.html\">近衛文麿</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/18　　<a href=\"../1945/08iansi.html\">\n内務省、占領軍向け性的慰安施設設置を指令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/18　　<a href\"..=\"\" 19.html\"=\"\">\nチャンドラ・ボース事故死　（台湾）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/20　　<a href=\"../1945/08kawab.html\">\n河辺虎四郎中将ら全権委員、降伏文書などを受領</a>　（マニラ）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/20　　<a href=\"../1945/08tokak.html\">\n灯火管制解除</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/20　　<a href\"..=\"\" 19.html\"=\"\">\n信書検閲停止</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/20　　<a href\"..=\"\" 19.html\"=\"\">\n甘粕正彦、服毒自殺　（満州）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/22　　<a href\"..=\"\" 19.html\"=\"\">\n戦後処理会議設置</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/23　　<a href\"..=\"\" 19.html\"=\"\">\n新聞に天気予報欄復活</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/26　　<a href\"..=\"\" 19.html\"=\"\">\n特殊慰安施設協会（ＲＡＡ）設置</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/27　　<a href=\"../1945/08komac.html\">\n小町園（占領軍向け性的慰安施設）開業</a>　（東京・大森）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/28　　<a href=\"../1945/08atugi.html\">\n連合軍先遣隊、厚木到着　（ＧＨＱ設置）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/28　　<a href\"..=\"\" 19.html\"=\"\">\n東久邇宮首相、記者会見　（国体護持・全国民総懺悔を強調）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/30　　<a href=\"../1945/08macar.html\">\nマッカーサー厚木到着</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/30　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ管理理事会設置　（米・英・仏・ソ）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3_c\"></a>\n<a href=\"#s3_c\">＝</a><a href=\"#s3_b2\">△</a><a href=\"#h\">◎</a><a href=\"#s4_a\">▽</a><a href=\"#s3_c\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/02　　<a href=\"../1945/09kofuk.html\">\n降伏文書調印</a>　（全権：<a href=\"../p/smamoru.html\">重光葵</a>、<a href=\"../p/uyosijir.html\">梅津美治郎</a>／第二次世界大戦終結）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/02　　<a href\"..=\"\" 19.html\"=\"\">\nＧＨＱ、軍需生産全面停止を指令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/02　　<a href\"..=\"\" 19.html\"=\"\">\nベトナム民主共和国成立宣言</a>　（臨時政府主席：<a href=\"../p/hocimin.html\">ホー・チミン</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/03　　<a href=\"../1945/09gunse.html\">\n重光・マッカーサー会談</a>　（軍政中止）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/03　　<a href\"..=\"\" 19.html\"=\"\">\nバーチェット記者、「ノー・モア・ヒロシマ」を世界へ打電</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/06　　<a href\"..=\"\" 19.html\"=\"\">\nトルーマン（米）大統領、「初期対日方針」を承認</a>　（<a href=\"../p/macart_d.html\">マッカーサー</a>に指令）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/09　　<a href\"..=\"\" 19.html\"=\"\">\nマッカーサー、日本占領方針について声明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/09　　<a href\"..=\"\" 19.html\"=\"\">\n支那派遣軍岡村司令官、中国国民政府と降伏文書調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/11　　<a href=\"../1945/09senp1.html\">\nＧＨＱ、戦争犯罪人逮捕を指令①</a>　（<a href=\"../p/thideki.html\">東條</a>・<a href=\"../p/tsigenor.html\">東郷</a>ら39人）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/11　　<a href=\"../1945/09tojoj.html\">\n東條英機自殺未遂</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/11　　<a href\"..=\"\" 19.html\"=\"\">\n隣組緊急回覧板「婦人は進駐軍に笑顔を見せるな」と警告</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/12　　<a href\"..=\"\" 19.html\"=\"\">\n杉山元、ピストル自殺</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/13　　<a href\"..=\"\" 19.html\"=\"\">\n近衛・マッカーサー会談①</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/15　　<a href=\"../1945/09higas.html\">\n東久邇宮・マッカーサー会談</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/15　　<a href\"..=\"\" 19.html\"=\"\">\n日比谷にＧＨＱ本部設置　（第一生命相互ビル）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/15　　<a href=\"../1945/09tecyo.html\">\n「日米会話手帖」発売</a>　（360万部のベストセラー）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/17　　<a href=\"../1945/09sigem.html\">\n重光外相辞任</a>　（後任：<a href=\"../p/ysigeru.html\">吉田茂</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/23　　<a href\"..=\"\" 19.html\"=\"\">\nフランス軍、サイゴン占領</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/25　　<a href\"..=\"\" 19.html\"=\"\">\n三木清没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/27　　<a href=\"../1945/09homon.html\">\n天皇、マッカーサーを訪問</a>　（会談①）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/09/29　　<a href=\"../1945/09syasi.html\">\n新聞各紙、天皇のマッカーサー訪問写真を掲載</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4_a\"></a>\n<a href=\"#s4_a\">＝</a><a href=\"#s3_c\">△</a><a href=\"#h\">◎</a><a href=\"#s4_b\">▽</a><a href=\"#s4_a\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/10/04　　<a href=\"../1945/10konoe.html\">\n近衛・マッカーサー会談②</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/10/04　　<a href=\"../1945/10jiyus.html\">\nＧＨＱ、「自由主義化」を指令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/10/05　　<a href=\"../1945/higa_9.html\">\n東久邇宮内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/10/08　　<a href\"..=\"\" 19.html\"=\"\">\n近衛・アチソン（ＧＨＱ政治顧問）会談</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/10/09　　<a href=\"../1945/side_1.html\">\n幣原内閣成立</a>　（首相：<a href=\"../p/skijuro.html\">幣原喜重郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/10/10　　<a href\"..=\"\" 19.html\"=\"\">\n徳田球一ら政治犯約500人釈放</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/10/11　　<a href=\"../1945/10macar.html\">\nマッカーサー、幣原首相に憲法改正と５大改革を要求</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/10/11　　<a href=\"../1945/10goyog.html\">\n近衛文麿、内大臣府御用掛就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/10/11　　<a href=\"../1945/10soyok.html\">\n映画「そよ風」封切</a>　（主題歌：「リンゴの歌」）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/10/13　　<a href=\"../1945/10naise.html\">\n蒋介石、国民党各部隊に内戦を秘密指令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/10/14　　<a href\"..=\"\" 19.html\"=\"\">\n金日成帰国歓迎市民集会開催　（平壌）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/10/16　　<a href=\"../1945/10busok.html\">\nマッカーサー、日本軍の武装解除完了を声明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/10/16　　<a href\"..=\"\" 19.html\"=\"\">\n李承晩、アメリカから帰国</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/10/20　　<a href\"..=\"\" 19.html\"=\"\">\n日本共産党機関紙「赤旗」再刊</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/10/24　　<a href=\"../1945/10kokur.html\">\n国際連合成立　（国連憲章発効）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/10/25　　<a href=\"../1945/10matum.html\">\n憲法問題調査委員会設置</a>　（委員長：<a href=\"../p/mjoji.html\">松本烝治</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/10/29　　<a href\"..=\"\" 19.html\"=\"\">\n宝くじ①発売　（日本勧業銀行）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4_b\"></a>\n<a href=\"#s4_b\">＝</a><a href=\"#s4_a\">△</a><a href=\"#h\">◎</a><a href=\"#s4_c\">▽</a><a href=\"#s4_b\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/11/01　　<a href=\"../1945/11konoe.html\">\nＧＨＱ、近衛文麿の憲法改正作業にＧＨＱは関知しないと声明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/11/01　　<a href\"..=\"\" 19.html\"=\"\">\n人口調査　（総人口7199万8104人）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/11/02　　<a href=\"../1945/11syaka.html\">\n日本社会党結成</a>　（書記長：<a href=\"../p/ktetu.html\">片山哲</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/11/03　　<a href\"..=\"\" 19.html\"=\"\">\n新日本婦人同盟結成　（会長：</a><a href=\"../p/ifusae.html\">市川房枝</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/11/06　　<a href=\"../1945/11zaiba.html\">\nＧＨＱ、財閥解体を指令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/11/09　　<a href=\"../1945/11jiyut.html\">\n日本自由党結成</a>　（総裁：<a href=\"../p/hiciro.html\">鳩山一郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/11/16　　<a href=\"../1945/11sinpo.html\">\n日本進歩党結成</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/11/18　　<a href\"..=\"\" 19.html\"=\"\">\n町田忠治、進歩党総裁就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/11/18　　<a href\"..=\"\" 19.html\"=\"\">\n全早慶野球試合開催</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/11/19　　<a href=\"../1945/11senp2.html\">\nＧＨＱ、戦争犯罪人逮捕を指令②</a>　（<a href=\"../p/kkuniaki.html\">小磯</a>・<a href=\"../p/myosuke.html\">松岡</a>ら11人）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/11/20　　<a href=\"../1945/11nurnb.html\">\nニュルンベルク国際軍事裁判開廷</a>　（～46/10/01）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/11/22　　<a href\"..=\"\" 19.html\"=\"\">\n近衛文麿、帝国憲法改正要綱（近衛私案）を天皇に報告</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/11/23　　<a href\"..=\"\" 19.html\"=\"\">\n角川書店設立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/11/24　　<a href\"..=\"\" 19.html\"=\"\">\n内大臣府廃止</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/11/27　　<a href=\"../1945/11a_cyo.html\">\nトルーマン（米）大統領、マーシャル元帥に国共内戦の調停を命令</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4_c\"></a>\n<a href=\"#s4_c\">＝</a><a href=\"#s4_b\">△</a><a href=\"#h\">◎</a><a href=\"1946.html#s1_a\">▽</a><a href=\"#s4_c\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/12/01　　<a href\"..=\"\" 19.html\"=\"\">\n陸軍省・海軍省廃止</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/12/01　　<a href\"..=\"\" 19.html\"=\"\">\n徳田球一、共産党書記長就任</a>　（共産党再建大会）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/12/02　　<a href=\"../1945/12senp3.html\">\nＧＨＱ、戦争犯罪人逮捕を指令③</a>　（<a href=\"../p/hkiiciro.html\">平沼</a>・<a href=\"../p/hkoki.html\">広田</a>ら59人）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/12/06　　<a href=\"../1945/12senp4.html\">\nＧＨＱ、戦争犯罪人逮捕を指令④</a>　（<a href=\"../p/kfumimar.html\">近衛</a>・<a href=\"../p/kkoici.html\">木戸</a>ら９人）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/12/07　　<a href=\"../1945/12yamas.html\">\n軍事裁判で山下奉文に死刑判決</a>　（マニラ／46/02/23 死刑執行）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/12/09　　<a href=\"../1945/12nocik.html\">\nＧＨＱ、農地改革を指令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/12/09　　<a href=\"../1945/12sinso.html\">\n「真相はかうだ」放送開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/12/15　　<a href=\"../1945/12syuky.html\">\nＧＨＱ、国教分離を指令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/12/16　　<a href=\"../1945/12konoe.html\">\n近衛文麿、服毒自殺</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/12/17　　<a href=\"../1945/12senky.html\">\n選挙法改正</a>　（婦人参政権など）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/12/22　　<a href=\"../1945/12rodok.html\">\n労働組合法公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/12/24　　<a href\"..=\"\" 19.html\"=\"\">\n文部省、教職員・学生・生徒の政治活動につき通達</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1944/koiso_1.html\">小磯</a> → <a href=\"../1945/suzua_1.html\">鈴木（貫）</a> → <a href=\"../1945/higa_1.html\">東久邇宮</a> → <a href=\"../1945/side_1.html\">幣原内閣</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">ピカドン、１億総懺悔、復員、パンパン</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「悲しき兵隊」　「日米会話手帳」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">「勝利の日まで」　「そよ風」</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">終戦の詔勅</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">お山の杉の子</td></tr>\n</tbody>"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"#h\">１９４５年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

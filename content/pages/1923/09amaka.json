@@ -1,0 +1,223 @@
+{
+ "path": "1923/09amaka.html",
+ "type": "article",
+ "title": "甘粕事件　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1923.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "甘粕事件"
+  },
+  {
+   "type": "title2",
+   "html": "1923/09/16"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1913.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1922.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1923.html\">１９２３</a> &gt;&gt;&gt; <a href=\"../20c/1924.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1933.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "憲兵大尉が社会主義者と妻、幼い甥っこまで拉致し、絞め殺し、井戸に捨てた。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/01　　<a href=\"../1923/09sinsa.html\">\n関東大震災</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/02　　<a href\"..=\"\" 19.html\"=\"\">\n東京に戒厳令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/02　　<a href=\"../1923/yamm2_1.html\">\n山本内閣②成立</a>　（首相：<a href=\"../p/ygonnohy.html\">山本権兵衛</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/02　　<a href\"..=\"\" 19.html\"=\"\">\n朴烈・金子文子夫妻逮捕</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/03　　<a href\"..=\"\" 19.html\"=\"\">\n戒厳司令官に福田雅太郎を任命</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/04　　<a href\"..=\"\" 19.html\"=\"\">\n亀戸事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/07　　<a href\"..=\"\" 19.html\"=\"\">\n東京市内の夜間通行禁止</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/16　　<a 1923=\"\" href\"..=\"\" 09amaka.html\"=\"\">\n甘粕事件</a>　（犯人：<a href=\"../p/amasahik.html\">甘粕正彦</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/20　　<a href\"..=\"\" 19.html\"=\"\">\n福田戒厳司令官辞任</a>　（<a href=\"../1923/09amaka.html\">甘粕事件</a>のため／後任：<a href=\"../p/yhanzo.html\">山梨半造</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/11/10　　<a href\"..=\"\" 19.html\"=\"\">\n国民精神作興に関する詔書</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/12/27　　<a href=\"../1923/12toran.html\">\n虎の門事件</a>　（摂政宮襲撃／犯人：難波大助）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>９月16日、社会主義者大杉栄（39）が妻の伊藤野枝（29）、おいの橘宗一（７）とともに行方不明となり、\n憲兵隊に殺されたという噂が広まった。</div>\n<div>20日、東京憲兵隊渋谷分隊長兼麹町分隊長の<a href=\"../p/amasahik.html\">甘粕正彦大尉</a>が「違法行為」を理由に軍法会議にかけられることになった。\n福田雅太郎戒厳司令官が更迭され、憲兵司令官の小泉五一少将は停職となった。</div>\n<div>24日、軍法会議予審が終わり、<a href=\"../p/amasahik.html\">甘粕</a>が大杉ら３人を殺したことが発表されて事件の全容が明らかになった。\nそれによると<a href=\"../p/amasahik.html\">甘粕</a>は、大杉が<a href=\"../1923/09sinsa.html\">震災</a>に乗じて混乱を起こすかも知れないので殺すことを決め、\n９月16日夕、自宅近くで大杉らを拉致、麹町憲兵分隊に連行し、同夜、取り調べを装いながら次々に絞め殺した。\n死体は構内の古井戸に投げ入れて埋めてしまった。</div>\n<div><a href=\"../p/amasahik.html\">甘粕</a>は一個人の判断で殺害したと主張した。\n上官の関与もしくは関知が疑われたが、軍法会議は背後関係を一切追及しなかった。\n12月８日の判決では<a href=\"../p/amasahik.html\">甘粕</a>が懲役10年、共犯の森慶次郎曹長は同３年が言い渡された。</div>\n<div><a href=\"../p/amasahik.html\">甘粕</a>は３年で仮出所し、満州にわたり、満州映画協会理事長などを務め、20年８月の終戦でピストル自殺するまで\n軍をバックに権力をふるった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ys_20sei.html\">読売新聞社 「読む年表・20世紀と昭和天皇」</a>\n　Ｐ．３３</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1923.html\">１９２３年</a>\n ＞ <a href=\"#h\">甘粕事件</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

@@ -1,0 +1,253 @@
+{
+ "path": "1945/04s_fue.html",
+ "type": "article",
+ "title": "ソ連、日ソ中立条約の不延長を通告　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1945.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "ソ連、日ソ中立条約の不延長を通告"
+  },
+  {
+   "type": "title2",
+   "html": "1945/04/05"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1935.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1944.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1945.html\">１９４５</a> &gt;&gt;&gt; <a href=\"../20c/1946.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "ついに来た。　だがまだ大丈夫、条約期間が残っている。　でも、ホントに大丈夫？"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/04/13　　<a href=\"../1941/04js_cy.html\">\n日ソ中立条約調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/08/25　　<a href=\"../1944/08paris.html\">\n連合軍、パリ入城</a>　（<a href=\"../p/degaul_c.html\">ド・ゴール</a>凱旋）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/09/04　　<a href=\"../1944/09tokus.html\">\n最高戦争指導会議、対ソ特使派遣を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/09/16　　<a href\"..=\"\" 19.html\"=\"\">\nモロトフ（ソ）外相、佐藤尚武駐ソ大使の特使派遣提案を拒否</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/09/28　　<a href\"..=\"\" 19.html\"=\"\">\n最高戦争指導会議、対ソ政策を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/11/07　　<a href\"..=\"\" 19.html\"=\"\">\nスターリン、日本を侵略国と見なすと声明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/02/11　　<a href=\"../1945/02kyote.html\">\nヤルタ協定</a>　（スターリン、対日参戦を約束）"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/04/05　　<a 1945=\"\" href\"..=\"\" 04s_fue.html\"=\"\">\nソ連、日ソ中立条約の不延長を通告</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/05/14　　<a href=\"../1945/05taiso.html\">\n最高戦争指導会議、対ソ交渉方針を決定</a>　（終戦工作開始）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/06/03　　<a href=\"../1945/06hirot.html\">\n広田・マリク（駐日ソ連大使）会談</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/07/10　　<a href=\"../1945/07konoe.html\">\n最高戦争指導会議、近衛特使ソ連派遣を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/07/18　　<a href=\"../1945/07s_tok.html\">\nソ連、近衛特使派遣について否定的回答</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/07/26　　<a href=\"../1945/07potsd.html\">\n連合国、ポツダム宣言発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/08　　<a href=\"../1945/08s_san.html\">\nソ連、対日参戦</a>　（08/09 満州侵攻開始）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>日ソ間には、<a href=\"../1941/04js_cy.html\">一九四一年（昭和十六年）四月十三日に調印され、同二十五日に発効した期限五年間の中立条約</a>がある。\n条約は有効期限の一年前、すなわち来る四月二十五日までに一方が廃棄通告をしなければ、自動的に五ヵ年延長となる。</div>\n<div>連合国側と戦う日本にとっては、ソ連の対日中立は、「背後の安全」の保証であるとともに、\n連合国側との「和平通路」ともみなされるので、これまでもしばしば同条約の延長をはかる努力をかさねてきた。</div>\n<div>とくに二月以降は、主にスペイン、スイスからソ連が日ソ中立条約の廃棄を決意したとの情報がつたえられ、\n<a href=\"../p/snaotake.html\">佐藤大使</a>も外相<a href=\"../p/moloto_v.html\">モロトフ</a>に会談を申し入れていた。</div>\n<div>大使は、<a href=\"../1905/09portm.html\">『日露戦争』講和条約</a>の廃止を条件にして、できれば「十六年或ハ二十六年」、せめて「六ヵ年」の延長を交渉する腹案を用意したが、\nソ連側と協議する機会がないままにこの日の外相<a href=\"../p/moloto_v.html\">モロトフ</a>との会見になったのである。</div>\n<div>外相<a href=\"../p/moloto_v.html\">モロトフ</a>は、<a href=\"../p/snaotake.html\">佐藤大使</a>と対面すると、声明文を朗読した。</div>\n<div><a href=\"../1941/04js_cy.html\">日ソ中立条約</a>は、<a href=\"../1941/06ds_ka.html\">『独ソ戦』</a>も『日本ノ対米戦』も起る前に締結された。\nが、そのご日本は「独ノ同盟国トシテ同国ノ対蘇戦ヲ幇助」し、ソ連の同盟国米英と戦っている。\nこのように変化した情勢下では、ソ連は日本との中立条約は維持できないから、\n同条約の廃棄を通告する<span class=\"bar\">―</span>―という。</div>\n<div><a href=\"../p/snaotake.html\">佐藤大使</a>が、条約期間はなお一年間ある旨を指摘すると、外相<a href=\"../p/moloto_v.html\">モロトフ</a>もうなずいた。</div>\n<div>「（条約期間は）今迄ニ四ヶ年ヲ経過シタリ。\n猶一年残存シ、五年後ニ（条約締結前ノ）元ノ状態ニ立返ヘル」</div>\n<div>この中立条約廃棄通告は、<a href=\"../1945/02yalta.html\">『ヤルタ会談』</a>におけるソ連の対日参戦決定にもとづく「法的措置」である。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/kn9hitle.html\">児島襄 「第二次世界大戦・ヒトラーの戦い（９）」</a>\n　Ｐ．４４６</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1945.html\">１９４５年</a>\n ＞ <a href=\"#h\">ソ連、日ソ中立条約の不延長を通告</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "path": "text/st_tenra.html",
+ "type": "text",
+ "title": "「転落の歴史に何を見るか」　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "text.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\"><span class=\"now\">書籍</span></a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "「転落の歴史に何を見るか　<span class=\"f12\">― 奉天会戦からノモンハン事件へ ―</span> 」"
+  },
+  {
+   "type": "title2",
+   "html": "参考書籍"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "lis"
+   },
+   "html": "<a href=\"04t.html\">一覧</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n著者：　齋藤健（さいとう・たけし）<br>\n発行：　筑摩書房（2002/03/20）<br>\n書籍：　新書（174ページ）<br>\n定価：　円（税込）<br>\n目次：　はじめに<br>\n<div class=\"in\">\n第一篇　二〇世紀前半の日本への旅の準備<br>\n第二篇　奉天からノモンハンへ<br>\n　　第一章　ジェネラリストが消えるとき<br>\n　　第二章　組織が自己改革力を失うとき<br>\n第三篇　現在への視座<br>\n　　第一章　「政か官か」からの脱却<br>\n　　第二章　改革の時代の世代論<br>\nあとがき<span class=\"bar\">―</span>―旅を終えて</div>\n補足情報：<br>\n<div class=\"in\">\nわれわれに必要なのは、第二次世界大戦の歴史に自信喪失することなく、日露戦争の歴史を美化することなく、\n淡々と転落の歴史を直視し、静かに教訓を引き出すことである。（表紙）</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "span",
+   "attrs": {
+    "class": "book"
+   },
+   "html": "<a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25BB%25A2%25E8%2590%25BD%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2%25E3%2581%25AB%25E4%25BD%2595%25E3%2582%2592%25E8%25A6%258B%25E3%2582%258B%25E3%2581%258B%25E2%2580%2595%25E5%25A5%2589%25E5%25A4%25A9%25E4%25BC%259A%25E6%2588%25A6%25E3%2581%258B%25E3%2582%2589%25E3%2583%258E%25E3%2583%25A2%25E3%2583%25B3%25E3%2583%258F%25E3%2583%25B3%25E4%25BA%258B%25E4%25BB%25B6%25E3%2581%25B8\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\">"
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../p/osigenob.html\">大隈重信</a></b></div>\n<div><span class=\"m_b\">引用</span><a href=\"../p/osigenob.html\">大隈重信</a>も、鍋島藩（現佐賀県）の上級士族の家に生まれた最後の武士だった。\n若いころは砲術と築城という、いわば技術者の道を志し、青年期に蘭学と英学の双方を身につけ、\nとくに、英学では、師匠のフルベッキをして、「新約聖書の大部分を研究し、\nアメリカ憲法の大部分を学んでしまった」と言わしめるほどの英才振りを発揮する。\n改革意欲が強く、藩の学制改革、財政改革、軍制改革に乗り出すが、失望して脱藩。</div>\n<div>明治草創期は、大蔵大輔（現在でいえば、財務省事務次官）として、\n産声を上げたばかりの政府の租税政策、財政政策、教育制度や軍隊制度の確立、\n産業振興などじつに広範な分野で実績をあげただけではなく、\nその外交力は、うるさ型の英国公使パークスも舌を巻くほどのものであった。</div>\n<div>官僚としての栄達の道に見切りをつけると、今度は自ら政党（立憲改進党）を作り、\n政治家としての道を歩み始める。\nまた次世代を育てる使命感から、大学の設立（東京専門学校、のちの早稲田大学）にまで乗り出した教育者でもあった。\nそして、総理になること二度。絵に描いたような明治の怪物ジェネラリストだった。</div>\n<div class=\"txr\"><a href=\"../text/st_tenra.html\">齋藤健 「転落の歴史に何を見るか」</a>\n　Ｐ．６８</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../p/nimitz_c.html\">ニミッツ</a></b></div>\n<div><span class=\"m_b\">引用</span><a href=\"../1941/12hawai.html\">真珠湾攻撃</a>のときの太平洋艦隊司令長官ハズバンド・キンメルは、\nあのような不意の奇襲であったにもかかわらず、その責任を問われ、ただちに解任され、軍法会議にかけられた。</div>\n<div>キンメルの後任には、<a href=\"../p/nimitz_c.html\">チェスター・ニミッツ少将</a>（当時五六歳）を大抜擢する。\n<a href=\"../p/nimitz_c.html\">ニミッツ</a>は第一次世界大戦時、大西洋艦隊潜水艦部隊参謀長を務め、<a href=\"../1941/12hawai.html\">真珠湾攻撃</a>当時は、\n海軍省航海局長の地位にあった。\n早くから海軍の至宝と目されてはいたものの、太平洋艦隊司令長官就任が当然視されるまでには至っていなかった。\nだが、アメリカ海軍は、彼のもつ緻密で徹底した性格と決断力に、その命運をゆだねたのである。\nこれは当時の<a href=\"../p/roosev_f.html\">ルーズベルト大統領</a>の判断と言われるが、<a href=\"../1942/06midwa.html\">ミッドウェー</a>での大勝利は、この人事による。</div>\n<div>【中略】</div>\n<div>アメリカのさらなる凄みは、こうして抜擢した人材をじつに大切に使ったという点である。\n<a href=\"../p/nimitz_c.html\">ニミッツ</a>は、同じ艦隊の指揮官として、ハルゼーとスプルーアンスという二人の人間を同時に起用し、\n一定期間ごとに交替して任に当たらせた。\n抜擢した有能な人材が、常にリフレッシュした頭脳と体で一二〇パーセントの能力を発揮できるようにするためである。</div>\n<div class=\"txr\"><a href=\"../text/st_tenra.html\">齋藤健 「転落の歴史に何を見るか」</a>\n　Ｐ．９５</div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"04t.html\">書籍ファイル一覧　（タ）</a>\n ＞ <a href=\"#h\">「転落の歴史に何を見るか」</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

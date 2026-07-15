@@ -1,0 +1,799 @@
+{
+ "path": "20c/1933.html",
+ "type": "year",
+ "title": "１９３３年　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９３３年"
+  },
+  {
+   "type": "title2",
+   "html": "昭和８年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"1923.html\">１０年前</a> &gt;&gt;&gt; <a href=\"1932.html\">前年</a> &gt;&gt;&gt; <span class=\"now\">１９３３</span> &gt;&gt;&gt; <a href=\"1934.html\">翌年</a> &gt;&gt;&gt; <a href=\"1943.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"#s4\">転向　　男装の麗人　　ヨーヨー</a>",
+    "<a href=\"../1932/saito_1.html\">斉藤内閣</a>"
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"1932.html#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/01/01　　<a href\"..=\"\" 19.html\"=\"\">\n山海関事件　（01/03 日本軍、山海関占領）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/01/09　　<a href\"..=\"\" 19.html\"=\"\">\n三原山で実践女学校生徒が投身自殺</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/01/23　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/stosihik.html\">\n堺利彦</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/01/30　　<a href=\"../1933/01hitle.html\">\nヒトラー内閣成立</a>　（独）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/02/02　　<a href\"..=\"\" 19.html\"=\"\">\nジュネーブ軍縮会議再開</a>　（～10/14／国際連盟主催）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/02/04　　<a href\"..=\"\" 19.html\"=\"\">\n長野県教員赤化事件　（４月までに教員138人を検挙）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/02/12　　<a href\"..=\"\" 19.html\"=\"\">\n三原山で再び実践女学校生徒が投身自殺　（友人が立会い）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/02/20　　<a href\"..=\"\" 19.html\"=\"\">\n閣議、対日勧告案可決の場合の国際連盟脱退を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/02/20　　<a href=\"../1933/02kobay.html\">\n小林多喜二、拷問死</a>　（築地署／当局、死体解剖を妨害）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/02/23　　<a href\"..=\"\" 19.html\"=\"\">\n日満軍、熱河省への進攻作戦開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/02/24　　<a href=\"../1933/02lytto.html\">\n国際連盟総会、リットン報告書を採択</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/02/27　　<a href\"..=\"\" 19.html\"=\"\">\nバーナード・ショウ来日</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/02/27　　<a href=\"../1933/02gijid.html\">\n国会議事堂放火事件</a>　（ベルリン）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/03/04　　<a href=\"../1933/03roose.html\">\nＦ・ルーズベルト、アメリカ大統領就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/03/06　　<a href=\"../1933/03ginko.html\">\nＦ・ルーズベルト（米）大統領、４日間の銀行営業停止を指令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/03/06　　<a href=\"../1933/03kinyu.html\">\nＦ・ルーズベルト（米）大統領、金輸出禁止を指令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/03/09　　<a href=\"../1933/03kyosa.html\">\nドイツ、共産党を非合法化</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/03/17　　<a href\"..=\"\" 19.html\"=\"\">\n金塊（時価２万円）盗難事件　（銀座天賞堂）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/03/18　　<a href\"..=\"\" 19.html\"=\"\">\n尾崎士郎「人生劇場・青春篇」連載開始　（都新聞）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/03/18　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/ysakuzo.html\">\n吉野作造</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/03/23　　<a href=\"../1933/03zenke.html\">\nドイツ議会、全権委任法を可決</a>　（ヒトラー独裁体制確立）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/03/28　　<a href=\"../1933/03datta.html\">\n日本、国際連盟脱退</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/04/22　　<a href=\"../1933/04takig.html\">\n滝川事件</a>　（<a href=\"../p/hiciro.html\">鳩山文相</a>、滝川教授の辞職を京都帝大総長に要求）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/04/26　　<a href=\"../1933/04gesch.html\">\nゲジュタポ発足</a>　（長官：<a href=\"../p/goring_h.html\">ゲーリング</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/05/01　　<a href=\"../1933/05kinsi.html\">\nヒトラー、ナチス入党停止令を公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/05/12　　<a href=\"../1933/05aaaka.html\">\nアメリカ議会、農業調整法（ＡＡＡ）を可決</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/05/16　　<a href=\"../1933/05roose.html\">\nＦ・ルーズベルト（米）大統領、軍縮会議継続を求める声明発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/05/17　　<a href=\"../1933/05heiwa.html\">\nヒトラー、「大平和演説」</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/05/18　　<a href=\"../1933/05tvaka.html\">\nアメリカ議会、テネシー川流域開発公社法（ＴＶＡ）を可決</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/05/19　　<a href\"..=\"\" 19.html\"=\"\">\n米中共同声明　（</a><a href=\"../p/roosev_f.html\">Ｆ・ルーズベルト</a>と宋子文）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/05/23　　<a href\"..=\"\" 19.html\"=\"\">\n内務省、娼妓取締規則改正公布　（娼妓の廓外への外出が自由になる）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/05/31　　<a href=\"../1933/05tanku.html\">\n塘沽停戦協定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/06/03　　<a href\"..=\"\" 19.html\"=\"\">\n山本有三検挙　（共産党への資金提供の疑い／→釈放）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/06/07　　<a href\"..=\"\" 19.html\"=\"\">\n共産党幹部、獄中で転向声明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/06/16　　<a href=\"../1933/06nirak.html\">\nアメリカ議会、全国産業復興法（ＮＩＲＡ）を可決</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/06/17　　<a href=\"../1933/06gosto.html\">\nゴーストップ事件</a>　（大坂天六交差点）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/06/19　　<a href\"..=\"\" 19.html\"=\"\">\nドルフース（墺）首相、ナチス党を禁止</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/06/20　　<a href\"..=\"\" 19.html\"=\"\">\n優生結婚相談所開設</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/06/22　　<a href\"..=\"\" 19.html\"=\"\">\nヒトラー、社会民主党の活動を全面的に禁止</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/07/01　　<a href\"..=\"\" 19.html\"=\"\">\n京都・東京両帝大の学生ら、滝川教授復職・鳩山文相辞任などを決議</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/07/06　　<a href\"..=\"\" 19.html\"=\"\">\n河上肇の引退声明「獄中独語」発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/07/11　　<a href\"..=\"\" 19.html\"=\"\">\n神兵隊事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/07/14　　<a href=\"../1933/07seito.html\">\nヒトラー、新政党の結成を禁止</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/07/20　　<a href\"..=\"\" 19.html\"=\"\">\n長崎県警察部保安課、男女混泳を取締　（海水浴場に柵・浮標設置）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/07/20　　<a href=\"../1933/07seiky.html\">\n政教協約（コンコルダート）調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/08/11　　<a href\"..=\"\" 19.html\"=\"\">\n信濃毎日新聞、桐生悠々「関東防空大演習を嗤ふ」を掲載</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/08/19　　<a href\"..=\"\" 19.html\"=\"\">\n中京商業、延長25回で明石中学に勝利　（中等野球準決勝）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/09/05　　<a href\"..=\"\" 19.html\"=\"\">\nバチスタ、軍事クーデター　（独裁体制確立／キューバ）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/09/11　　<a href\"..=\"\" 19.html\"=\"\">\n五・一五事件陸軍側判決　（全員禁固４年）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/09/21　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/mkenji.html\">\n宮沢賢治</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/09/22　　<a href\"..=\"\" 19.html\"=\"\">\n池田成彬、三井合名常務理事に就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/09/27　　<a href=\"../1933/09gunre.html\">\n軍令部令公示　（海軍軍令部条例廃止）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"1934.html#s1\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/10/03　　<a href\"..=\"\" 19.html\"=\"\">\n初の五相会議開催　（首・蔵・陸・海・外の各相）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/10/14　　<a href=\"../1933/10d_dat.html\">\nドイツ、ジュネーブ軍縮会議・国際連盟からの脱退を表明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/10/16　　<a href\"..=\"\" 19.html\"=\"\">\n新渡戸稲造没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/10/22　　<a href\"..=\"\" 19.html\"=\"\">\nリンゴ事件　（早慶野球試合）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/11/05　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/ksen.html\">\n片山潜</a>没　（モスクワ）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/11/09　　<a href\"..=\"\" 19.html\"=\"\">\n五・一五事件海軍側判決　（最高禁固15年）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/11/12　　<a href=\"../1933/11d_kok.html\">\n国際連盟脱退の可否を問う国民投票</a>　（独）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/11/13　　<a href\"..=\"\" 19.html\"=\"\">\n鈴木喜三郎（政友会総裁）暗殺計画発覚</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/11/17　　<a href=\"../1933/11a_syo.html\">\nアメリカ、ソ連を承認</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/12/08　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/ygonnohy.html\">\n山本権兵衛</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/12/09　　<a href\"..=\"\" 19.html\"=\"\">\n陸海軍両省、軍部批判は黙視できぬと声明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/12/23　　<a href\"..=\"\" 19.html\"=\"\">\n皇太子明仁親王誕生</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/12/23　　<a href\"..=\"\" 19.html\"=\"\">\n皇太子誕生をサイレンで告知</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/12/26　　<a href\"..=\"\" 19.html\"=\"\">\n自動車製造㈱設立　（社長：鮎川義介／34/06/01 日産自動車㈱と改称）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1933/12/30　　<a href=\"../1933/12stavi.html\">\nスタビスキー事件報道</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1932/saito_1.html\">斉藤内閣</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">転向　　男装の麗人　　ヨーヨー</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「女の一生」　「春琴抄」　「非常時国民全集」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">「伊豆の踊子」　「滝の白糸」</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">時事解説</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">東京音頭　　島の娘</td></tr>\n</tbody>"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"#h\">１９３３年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

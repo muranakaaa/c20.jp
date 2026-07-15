@@ -1,0 +1,179 @@
+{
+ "path": "1947/01nudes.html",
+ "type": "article",
+ "title": "新宿帝都座５階劇場で「ヴィーナスの誕生」開演　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1947.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "新宿帝都座５階劇場で「ヴィーナスの誕生」開演"
+  },
+  {
+   "type": "title2",
+   "html": "1947/01/15"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1937.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1946.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1947.html\">１９４７</a> &gt;&gt;&gt; <a href=\"../20c/1948.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "ステージ上の額縁の中でモデルがポーズ。　敗戦後２度目の正月、すけべオヤジたちが殺到。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/08/15　　<a href=\"../1945/08gyoku.html\">\n玉音放送　（終戦の詔勅）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1946/05/23　　<a href\"..=\"\" 19.html\"=\"\">\n映画「はたちの青春」封切　（初の接吻シーン）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/01/15　　<a 1947=\"\" href\"..=\"\" 01nudes.html\"=\"\">\n新宿帝都座５階劇場で「ヴィーナスの誕生」開演</a>　（初のヌードショー）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/01/15　　<a href\"..=\"\" 19.html\"=\"\">\n婦女に売淫させた者などの処罰に関する勅令公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1947/04/08　　<a href\"..=\"\" 19.html\"=\"\">\nムーラン・ルージュ再開　（新宿）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>一月一五日、新宿帝都座五階劇場で、甲斐三和が、初めてのストリップショーを行った。</div>\n<div>このショーは、名画をモデルにし、女性の上半身をあらわにして、額縁をかたどった中で立っているというもので、\n「額縁ショー」「名画ショー」などと呼ばれた。</div>\n<div>甲斐三和は一九歳のダンサーで、身長も高く、立派な体つきをしていた。\nショーは、黒いカーテンを開いてから閉じられるまで、わずか四、五分の間という短いものだったが、\n場内の観衆はかたずをのんで見守ったという。</div>\n<div>翌年になると、浅草の常盤座で本格的なストリップが上演され、以後は全国にストリップ専門劇場が続々誕生した。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/ok_bkyun.html\">おもしろニュース研究会 「20世紀Ｂ級ニュース」</a>\n　Ｐ．９８</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>一九四七年（昭22）一月から、東京新宿の帝都座で上演されたヌードショー。\n舞台上の額縁の中で、裸体の女性が数十秒間ポーズをとるだけだったが、\n戦前に禁じられていたヌードを見物する観客が殺到した。\nこのあと浅草のロック座などでストリップ・ショーの上演が始まり、四九年には日劇小劇場でもストリップを上演するようになって、\n五二年の日劇ミュージックホール開設へとつながった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/sr_syowa.html\">佐々木隆爾 「昭和史の事典」</a>\n　Ｐ．２２２</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1947.html\">１９４７年</a>\n ＞ <a href=\"#h\">新宿帝都座５階劇場で「ヴィーナスの誕生」開演</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

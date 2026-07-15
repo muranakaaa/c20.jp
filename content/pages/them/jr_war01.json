@@ -1,0 +1,418 @@
+{
+ "path": "them/jr_war01.html",
+ "type": "theme",
+ "title": "【テーマ・日露戦争史 01】　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "them.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "【テーマ・日露戦争史 01】"
+  },
+  {
+   "type": "title2",
+   "html": "クリック ２０世紀"
+  },
+  {
+   "type": "navi2",
+   "html": "\n前頁 &lt;&lt;&lt; <a href=\"jr_war.html\">テーマ</a> &gt;&gt;&gt; <a href=\"jr_war02.html\">次頁</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move1"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "t_tx"
+   },
+   "html": "\n<b>●皇太子ニコライ</b><br>\n<a href=\"../p/nikolai2.html\">ニコライ２世</a>は皇太子時代に来日、津田三蔵の凶刃に遭い、頭部に重傷を負った。\n大津事件である。シベリア鉄道起工式に出席する途中の出来事だった。<br>\n"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1891/05/11　　<a href\"..=\"\" 19.html\"=\"\">\n大津事件</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "t_tx"
+   },
+   "html": "\nこの事件が、<a href=\"../p/nikolai2.html\">若きニコライ</a>の心にどのような陰を落としたか想像することはけっしてむずかしくない。\n以来彼は日本人を「猿」と呼び、公文書にさえそんな記述が残っているということだ。<br>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "t_tx"
+   },
+   "html": "\n<b>●臥薪嘗胆</b><br>\n日清戦争は、韓国をめぐる日本と清国の主導権争いから起こった。\nこの戦争は終始日本軍有利で進み、日本は下関条約で莫大な賠償金と割譲地を得た。<br>\n"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1894/08/01　　<a href\"..=\"\" 19.html\"=\"\">\n清国に宣戦布告　（日清戦争勃発）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1895/04/14　　<a href\"..=\"\" 19.html\"=\"\">\n下関条約調印　（日清戦争終結）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1895/04/23　　<a href\"..=\"\" 19.html\"=\"\">\n三国干渉　（独・仏・露３国公使、遼東半島の清国への返還を勧告）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1898/03/27　　<a href\"..=\"\" 19.html\"=\"\">\nロシア、旅順・大連を租借、南満州鉄道敷設権を獲得</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "t_tx"
+   },
+   "html": "\nが、この一部をかすめとるべくそこへ現れたのがロシアである。\n下関条約が調印されると、ロシアはドイツ、フランスを誘い、遼東半島を清国に返還するよう日本に圧力をかけた。\n当時の日本には、外交的にも軍事的にも列強三国に対抗する力はなく、やむなく遼東半島を手放した。\n「臥薪嘗胆」は、このときの日本人の悔しさを表すとともに、\n以後十年の帝国主義国家としての歩みを象徴する言葉となった。<br>\n三国干渉で清国に恩を売ったロシアは、その後、<a href=\"../p/rikosyo.html\">李鴻章</a>からさまざまな利権を引き出し、また、日本が放棄した遼東半島に自ら進出していく。\n遼東半島先端の要衝旅順を租借し、ここに堅固な近代要塞を築き、これをシベリア鉄道と結ぶべく南満州鉄道を敷設した。<br>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "t_tx"
+   },
+   "html": "\n<b>●日英同盟</b><br>\n列強の遼東半島進出に対する民衆のアレルギー反応から、この地で義和団の蜂起が起こった。\n「扶清滅洋」をスローガンに、義和団は遠く北京にまで攻め入り、列強公使館を包囲、\n清国政府がこれに呼応し列強に宣戦布告するにいたる。義和団事件である。<br>\n"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1900/06/20　　<a href\"..=\"\" 19.html\"=\"\">\n義和団、北京各国公使館を包囲　（～08/14）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1900/06/21　　<a href\"..=\"\" 19.html\"=\"\">\n清国、日本など８ヵ国に宣戦布告　（義和団事件）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/09/07　　<a href=\"../1901/09giwad.html\">\n義和団事件最終議定書調印</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "t_tx"
+   },
+   "html": "\n事件は、イギリスの要請を受けた日本軍の出兵などにより、義和団が鎮圧され解決をみたが、\n満州各地に大挙進駐していたロシア軍は居座りを続けた。<br>\nこのロシアの挙動不審が、満州と国境を接する韓国を支配下に置きたい日本と、\n中国大陸に多くの利害関係を持つイギリスを急接近させる。<br>\n"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/10/16　　<a href=\"../1901/10je_do.html\">\n日英同盟交渉開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/12/02　　<a href=\"../1901/12jr_ky.html\">\n伊藤博文、日露協商交渉開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1901/12/23　　<a href=\"../1901/12jr_uc.html\">\n伊藤博文、露外相に交渉打切りを通告</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1902/01/30　　<a href=\"../1902/01je_do.html\">\n日英同盟①調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1902/04/08　　<a href=\"../1902/04mansy.html\">\n満州還付条約調印</a>　（露・清）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "t_tx"
+   },
+   "html": "\n元老<a href=\"../p/ihirobum.html\">伊藤博文</a>は、日英同盟に必ずしも反対ではなかったが、\n日英の同盟が成ればその時点で日露協商成立の機会は永久に失われると考え、自ら交渉にあたるため露都ペテルブルクに赴く。<br>\nこの<a href=\"../p/ihirobum.html\">伊藤</a>の行動がイギリス側のあせりを誘い、日英同盟交渉は急速に進展、調印された。<br>\n<a href=\"../1902/01je_do.html\">日英同盟</a>の成立を見たロシアは、ようやく<a href=\"../1902/04mansy.html\">満州の返還を清国に約束</a>した。<br>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"jr_war02.html#s1\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "t_tx"
+   },
+   "html": "\n<b>●満州撤兵問題</b><br>\n<a href=\"../1902/04mansy.html\">満州還付条約</a>は、ロシア軍が三段階で満州から撤兵することを規定していた。\n第一回撤兵は約束どおり行われたが、<a href=\"../1903/04teppe.html\">第二回撤兵はついに行われず</a>、\nロシアは、<a href=\"../1903/047yoky.html\">満州撤兵のための新条件を清国につきつけた</a>。<br>\n<a href=\"../p/kjutaro.html\">小村外相</a>は、清国政府に圧力をかけ、ロシアの要求を拒否させることに成功したが、\n日露間に横たわる問題はこれによって多少とも解決に近づいたわけではなかった。<br>\nやがてロシアが満州と韓国の国境地帯に<a href=\"../1903/06ryoku.html\">鴨緑江木材会社を設立</a>したことも明らかになった。<br>\n"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1903/04/08　　<a href=\"../1903/04teppe.html\">\nロシア、満州撤兵②不履行</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1903/04/18　　<a href=\"../1903/047yoky.html\">\nロシア、満州撤兵のための７項目を清国に要求</a>　（04/27 清国拒否）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1903/04/21　　<a href=\"../1903/04murin.html\">\n無隣庵会議</a>　（<a href=\"../p/yaritomo.html\">山県</a>・<a href=\"../p/ihirobum.html\">伊藤</a>・<a href=\"../p/ktaro.html\">桂</a>・<a href=\"../p/kjutaro.html\">小村</a>／京都）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1903/06/12　　<a href=\"../1903/06kurop.html\">\nロシア、クロパトキン陸相来日</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1903/06/13　　<a href=\"../1903/06ryoku.html\">\nロシア、鴨緑江木材会社を設立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1903/08/09　　<a href=\"../1903/08dosik.html\">\n対露同志会結成</a>　（頭山満ら）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "t_tx"
+   },
+   "html": "\n実力行使で満州を得たロシアが次には韓国に手を伸ばすだろうことは明白、という思いが、\n日本政府首脳をあせらせた。ロシアは着々と既成事実を積み重ねつつあった。\n日露間の利害調整を図るべく、<a href=\"../p/kjutaro.html\">小村外相</a>は<a href=\"../1903/08kurin.html\">駐露公使を通じてロシアに協定案を示した</a>。<br>\n"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1903/08/12　　<a href=\"../1903/08kurin.html\">\n栗野駐露公使、ロシア外相に日露協定案を提出</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1903/08/12　　<a href=\"../1903/08sotok.html\">\nロシア、旅順に極東総督府を設置</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1903/08/29　　<a href=\"../1903/08vitte.html\">\nロシアの蔵相ウィッテ失脚</a>　（主戦派の政治的勝利）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1903/10/03　　<a href=\"../1903/10taian.html\">\nローゼン駐日公使、小村外相に日露協定対案を提出</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "t_tx"
+   },
+   "html": "\nだが、反応ははかばかしいものではなかった。\nようやく<a href=\"../1903/10taian.html\">ロシア側の対案が示された</a>のは二ヵ月後のことだった。\nこのときすでに、ロシア宮廷はベゾブラゾフら主戦派によって占められていた。<br>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"jr_war.html\">【日露戦争史】</a>\n ＞ <a href=\"#h\">【テーマ・日露戦争史 01】</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

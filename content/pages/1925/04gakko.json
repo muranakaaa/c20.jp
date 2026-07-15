@@ -1,0 +1,205 @@
+{
+ "path": "1925/04gakko.html",
+ "type": "article",
+ "title": "陸軍現役将校学校配属令公布　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1925.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "陸軍現役将校学校配属令公布"
+  },
+  {
+   "type": "title2",
+   "html": "1925/04/13"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1915.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1924.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1925.html\">１９２５</a> &gt;&gt;&gt; <a href=\"../20c/1926.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1935.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "軍人さんがやってきたぁ。　軍縮の時代、軍縮のゆえに、現役将校の「学校配属」。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/01　　<a href=\"../1923/09sinsa.html\">\n関東大震災</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/04　　<a href=\"../1923/09kamei.html\">\n亀戸事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/16　　<a href=\"../1923/09amaka.html\">\n甘粕事件</a>　（犯人：<a href=\"../p/amasahik.html\">甘粕正彦</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/01/10　　<a href=\"../1924/01goke2.html\">\n護憲運動②開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/06/11　　<a href=\"../1924/katob_1.html\">\n加藤（高）内閣（護憲三派内閣）成立</a>　（首相：<a href=\"../p/ktakaaki.html\">加藤高明</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/07/01　　<a href\"..=\"\" 19.html\"=\"\">\n浜口蔵相、国会で行財政整理・緊縮方針を表明</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/04/13　　<a 1925=\"\" href\"..=\"\" 04gakko.html\"=\"\">\n陸軍現役将校学校配属令公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/04/22　　<a href=\"../1925/04ciani.html\">\n治安維持法公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/05/01　　<a href=\"../1925/05ugaki.html\">\n陸軍軍縮計画（宇垣軍縮）発表</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1925/10/15　　<a href\"..=\"\" 19.html\"=\"\">\n小樽高商事件　（朝鮮人暴動を想定しての軍事教練が問題化）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/ukazusig.html\">宇垣</a>は、常設師団を削減するかわりに、戦時動員を考慮して、\nそのための布石を打った。\nその一つが、一九二五（大正十四）年四月から実施された中学校以上の諸学校での現役配属将校による軍事教練である。\nこの教練の検定に合格すれば、徴集された場合の在営期間が通常の二年から一年に短縮され、\n予備役将校となる幹部候補生の資格が与えられた。\n師範学校卒業者の短期現役制は、かつての六週間から一九一八年以降、一年間に延長されていたが、\nこれも教練の検定に合格すれば五ヵ月に短縮された。\nこうした措置は、戦時の動員に備えて多くの予備役将校を育成するためだけでなく、\n師団削減によってポストを減らされた現役将校の救済のためでもあった\n（一九二五年末の配属将校は一〇〇〇人を超えている）。</div>\n<div class=\"txr\"><a href=\"../text/tr_kin09.html\">戸部良一 「日本の近代（９）」</a>\n　Ｐ．２３２<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25AE%25E8%25BF%2591%25E4%25BB%25A3%25209%2520%25E9%2580%2586%25E8%25AA%25AC%25E3%2581%25AE%25E8%25BB%258D%25E9%259A%258A\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span><a href=\"../p/ukazusig.html\">宇垣</a>の軍縮で整理の対象となった将校のうち、\n特に教育に経験のある中堅将校を、中等学校以上の男子学校の配属将校に発令し、一は軍縮による陸軍の出血を極度に圧えて、\n有能な中堅将校の温存を図るとともに、二は他日の国家総動員態勢に備えて、国民防衛の一翼を荷わせる布石とした。</div>\n<div>これは同じ頃施行された、全国の徴兵検査前の青年たちに、\n義務的に定時に軍事訓練を施す「青年訓練所」の新設とともに、\n「国家総動員機関設置準備委員会」の幹事であった<a href=\"../p/ntetuzan.html\">永田</a>の企画に基づく、国民防衛の双翼をなす機構であった\n（芙蓉書房刊『秘録永田鉄山』三二七ページ）。</div>\n<div class=\"txr\"><a href=\"../text/sy_obata.html\">須山幸雄 「作戦の鬼 小畑敏四郎」</a>\n　Ｐ．５９<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F4829500638%2Fqid%3D1146488939%2Fsr%3D1-1%2Fref%3Dsr_1_0_1\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1925.html\">１９２５年</a>\n ＞ <a href=\"#h\">陸軍現役将校学校配属令公布</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

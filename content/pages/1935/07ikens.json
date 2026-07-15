@@ -1,0 +1,194 @@
+{
+ "path": "1935/07ikens.html",
+ "type": "article",
+ "title": "「粛軍に関する意見書」配布　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1935.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "「粛軍に関する意見書」配布"
+  },
+  {
+   "type": "title2",
+   "html": "1935/07/11"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1925.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1934.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1935.html\">１９３５</a> &gt;&gt;&gt; <a href=\"../20c/1936.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1945.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "衝撃！　<a href=\"../p/mtakaji.html\">村中</a>と<a href=\"../p/iasaici.html\">磯部</a>、<a href=\"../1931/033gatu.html\">三月事件</a>、<a href=\"../1931/1010gat.html\">十月事件</a>の全貌を暴露。　<a href=\"../1934/11sikan.html\">士官学校事件</a>も<a href=\"../p/ntetuzan.html\">永田</a>一派の陰謀だぁ。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/03/17　　<a href=\"../1931/033gatu.html\">\n三月事件</a>　（陸軍によるクーデター未遂）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1931/10/17　　<a href=\"../1931/1010gat.html\">\n十月事件</a>　（桜会によるクーデター未遂）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/01/23　　<a href=\"../1934/01araki.html\">\n荒木陸相辞任</a>　（後任：<a href=\"../p/hsenjuro.html\">林銑十郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1934/11/20　　<a href=\"../1934/11sikan.html\">\n士官学校事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/02/19　　<a href=\"../1935/02kikan.html\">\n天皇機関説問題</a>　（<a href=\"../p/ktakeo.html\">菊池武夫</a>、貴族院で天皇機関説を非難）"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/07/11　　<a 1935=\"\" href\"..=\"\" 07ikens.html\"=\"\">\n「粛軍に関する意見書」配布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/07/15　　<a href=\"../1935/07masak.html\">\n真崎教育総監更迭</a>　（後任：「統制派」<a href=\"../p/wjotaro.html\">渡辺錠太郎</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1935/08/12　　<a href=\"../1935/08aizaw.html\">\n相沢事件</a>　（<a href=\"../p/ntetuzan.html\">永田軍務局長</a>斬殺）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/02/26　　<a href=\"../1936/02226ji.html\">\n二・二六事件</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>附録五点を含む長文のこの『意見書』は、今日、昭和史を語る上で、\n声価ある史的資料となっている。</div>\n<div>ついでにいえば、当時、リハルト・ゾルゲを中心とするコミンテルンの対日スパイ機関が、\n翻訳して、モスクワの本拠に送ったと記録されている。\n彼らは日本の国家権力を掌握しているのは軍部であり、その軍部の動向を左右するのは、\n青年将校の動向であるとして、注目していたのである。</div>\n<div>全勢力を傾けて書いた<a href=\"../p/mtakaji.html\">村中孝次</a>と<a href=\"../p/iasaici.html\">磯部浅一</a>は、<a href=\"../p/tmasanob.html\">辻</a>や片倉の告発の域を越え、\nその心情と主張を真正面から訴えかける。\n同時に、<a href=\"../p/ukazusig.html\">宇垣</a>から統制派に到る体制を痛烈に糾弾する挑戦状であった。</div>\n<div>陸軍の現状を切実に憂え、「皇軍最近の乱脈は所謂<a href=\"../1931/033gatu.html\">三月事件</a>、<a href=\"../1931/1010gat.html\">十月事件</a>なる逆臣行動を偽瞞隠蔽せるを動因」と断じて、\nクーデター未遂の両事件の不始末が、現在の諸悪の根源と論破する。</div>\n<div>陸軍の根幹を揺り動かす最大の焦点は「附録五」の『○○少佐の手記』である。</div>\n<div>そこには、<a href=\"../1931/033gatu.html\">三月事件</a>及び<a href=\"../1931/1010gat.html\">十月事件</a>の経緯が詳細に書かれていて、真相暴露となっているが、\n特に、<a href=\"../1931/033gatu.html\">三月事件</a>については隠蔽されて来ただけに、その衝撃性は大きい。</div>\n<div>執筆者の「○○少佐」とは、陸軍省（調査班）勤務の田中清少佐（二十九期、北海道）である。\n田中は、<a href=\"../p/mtakaji.html\">村中</a>の原隊である歩兵第二十七聯隊における先輩に当たる。</div>\n<div class=\"txr\"><a href=\"../text/mk_gunji.html\">升本喜年 「軍人の最期」</a>\n　Ｐ．１９７<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25BB%258D%25E4%25BA%25BA%25E3%2581%25AE%25E6%259C%2580%25E6%259C%259F%25E2%2580%2595%25E6%2594%25BF%25E6%25B2%25BB%25E7%259A%2584%25E5%25B0%2586%25E8%25BB%258D%25E3%2581%25AE%25E7%2594%259F%25E3%2581%258D%25E3%2581%2596%25E3%2581%25BE%25E3%2581%25A8%25E3%2581%259D%25E3%2581%25AE%25E6%25AD%25BB\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1935.html\">１９３５年</a>\n ＞ <a href=\"#h\">「粛軍に関する意見書」配布</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

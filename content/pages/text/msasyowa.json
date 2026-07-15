@@ -1,0 +1,157 @@
+{
+ "path": "text/msasyowa.html",
+ "type": "text",
+ "title": "「昭和史発掘（10）」　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "text.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細 ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\"><span class=\"now\">書籍</span></a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "「昭和史発掘（10）」"
+  },
+  {
+   "type": "title2",
+   "html": "参考書籍"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "list"
+   },
+   "html": "<tbody><tr>\n<td class=\"list\"><a href=\"03s.html\">一覧</a></td>\n<td class=\"list\"><span class=\"f8\"><a href=\"ms_syowa.html\">データ</a></span></td>\n<td class=\"list\"><a href=\"ms1syowa.html\">１</a></td>\n<td class=\"list\"><a href=\"ms2syowa.html\">２</a></td>\n<td class=\"list\"><a href=\"ms3syowa.html\">３</a></td>\n<td class=\"list\"><a href=\"ms4syowa.html\">４</a></td>\n<td class=\"list\"><a href=\"ms5syowa.html\">５</a></td>\n<td class=\"list\"><a href=\"ms6syowa.html\">６</a></td>\n<td class=\"list\"><a href=\"ms7syowa.html\">７</a></td>\n<td class=\"list\"><a href=\"ms8syowa.html\">８</a></td>\n<td class=\"list\"><a href=\"ms9syowa.html\">９</a></td>\n<td class=\"list2\"><a href\"msasyowa.html\"=\"\">10</a></td>\n<td class=\"list\"><a href=\"msbsyowa.html\">11</a></td>\n<td class=\"list\"><a href=\"mscsyowa.html\">12</a></td>\n<td class=\"list\"><a href=\"msdsyowa.html\">13</a></td>\n</tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n書籍：　文庫（299ページ）<br>\n発行：　文藝春秋（1978/11/25）<br>\n目次：　<a href=\"../1936/02226ji.html\">二・二六事件</a>　四<br>\n<div class=\"in\">\n　　襲撃<br>\n　　「諸子ノ行動」</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "span",
+   "attrs": {
+    "class": "book"
+   },
+   "html": "<a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=ASIN%2F416710640X%2Fqid%3D1147086636%2Fsr%3D1-16%2Fref%3Dsr_1_0_16\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\">"
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>決起部隊軍人演説（山田伍長）</b></div>\n<div><span class=\"m_b\">引用</span><a href=\"../1936/02226ji.html\">事件</a>直後、さまざまな流言がひろまったが、\nそれには外部の臆説もあるが、決行部隊兵の無責任な放言もモトになったようである。</div>\n<div>左は司法省刑事局の資料である。</div>\n<div>「二十八日、幸楽、山王ホテル附近に於て軍人の為したる演説要旨。</div>\n<div>山田分隊（山田伍長）</div>\n<div>新聞紙の報道に青年将校が首相官邸を襲ひなどと称して居るも、吾々は尊皇軍である。\n吾々は決して上官の命令で今回<a href=\"../1936/02226ji.html\">社会の賊物を殺した</a>のではない。\n全軍一同が奮起したのである。</div>\n<div>万一、発砲する場合は、固より人を殺してゐるのである。\n一平卒なりとも戦ふのである。</div>\n<div>諸君は今度のことは良く知るまい。<a href=\"../p/smakoto.html\">斎藤</a>はどうだ、頭に三十発も鉄砲弾を喰ひ、其上、首を切り落され、\n頭は真二つになつてゐる。</div>\n<div><a href=\"../p/skantaro.html\">鈴木</a>の頭には此山田のピストルで三発ぶちこんだ。</div>\n<div><a href=\"../p/okeisuke.html\">首相</a>は池の中に死体を叩き込まれたのだ。</div>\n<div>是で終るのではない。是からまだまだ国賊は叩き殺すのが目的だ。\n悪いものがなくなれば良い者が出て国家の政治を行ふは当然だ。\n一日も早く悪い者を殺すのが、国民の腹の底にある考へを吾々が実行したのだ」</div>\n<div><a href=\"../p/smakoto.html\">斎藤内府</a>の首が斬られたとか、<a href=\"../p/okeisuke.html\">首相</a>の死体が池の中に投げこまれたとか、無責任な「演説」を\n決行部隊の下士官がすれば、<a href=\"../p/tkorekiy.html\">高橋</a>がダルマ死体になったくらいのことは云いかねない。</div>\n<div class=\"txr\"><a href=\"../text/msasyowa.html\">松本清張 「昭和史発掘（10）」</a>\n　Ｐ．１１３</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>渡辺教育総監襲撃</b></div>\n<div><span class=\"m_b\">引用</span>四谷仲町三丁目の<a href=\"../p/smakoto.html\">斎藤内府</a>邸の襲撃を終った坂井直中尉の部隊は、\nここで二つに分れ、主力部隊は坂井、麦屋が引率して陸軍省附近に移動し、高橋太郎、安田優両少尉は\n下士官兵約三十名を指揮して赤坂離宮前に移って、田中部隊のトラックを待った。\n第二次決行の渡辺教育総監襲撃のためだ。</div>\n<div><a href=\"../p/wjotaro.html\">渡辺大将</a>の自宅は杉並区上荻窪二丁目にある。\n赤坂離宮前から四谷の電車通りに出て青梅街道約十二キロを西に疾駆した。\nトラックには軽機関銃四梃、小銃約十梃を積んだ。</div>\n<div>【中略】</div>\n<div><a href=\"../p/wjotaro.html\">渡辺</a>邸到着時を判決文では「午前六時過ぎ」とあるが、<a href=\"../p/smakoto.html\">斎藤</a>邸襲撃の所要時間、赤坂離宮までの徒歩時間、\nならびに予定より遅れて到着した田中部隊のトラックの時間、さらに四谷より新宿経由で荻窪まで到着する時間を入れると、\n六時過ぎというよりは七時に近い時刻ではなかったろうか。</div>\n<div>次は安田優の供述だが、注目すべき言葉を含んでいる。</div>\n<div>「・・・・・・『トラック』は邸内（<a href=\"../p/wjotaro.html\">渡辺</a>家）ノ側ノ道迄行キ兵三名ヲ下ノ方ニ出シ（原註。\n地方人ガ弾ニ当ツタラ危イト思ツテ）私達ハ正門ノ方ヘ行キマシタ。</div>\n<div>此ノ際、特ニ申スコトハ、昭和維新断行ハ軍ノ協力一致ニアレバ<a href=\"../p/wjotaro.html\">渡辺教育総監</a>モ一体トナル為ニ之ヲ求メントシテ\n官邸（陸相官邸）ニ先ズ迎ヘント言フ真意ニアツタコトデスカラ、殺ス意志ハ、其時迄ハ無カツタノデアリマス、\n而シテ正門カラ行キマシタ。</div>\n<div>私達ハ単ニ<a href=\"../p/wjotaro.html\">総監</a>ヲ殺スナラバ裏門カラ行ケバヨイト云フ事ハ判ツテ居タガ、\n殺スノガ目的デナイノデ厳重ナル戸締ノアル門ニ向ツタノデス」（安田調書）</div>\n<div>安田供述によれば、<a href=\"../p/wjotaro.html\">渡辺教育総監</a>を殺害するつもりはなく、\nいわば武力で強制的に陸相官邸に連行し、転向されるか、傷つける程度でよかったという。\n襲撃目標になった人物はことごとく殺害される計画だったから、<a href=\"../p/wjotaro.html\">渡辺</a>ひとりが例外であるはずはない。\nだが、この言葉を一方からみると、他の重臣ほどには青年将校の憎悪がなかったことを推測せしめる。</div>\n<div><a href=\"../p/iasaici.html\">磯部</a>は「行動記」に<a href=\"../p/tkorekiy.html\">高橋蔵相</a>と共に、<a href=\"../p/wjotaro.html\">渡辺</a>を襲撃目標に加えたことが「問題になると思ふから、\n理由を記しておく」として、</div>\n<div>「<a href=\"../p/wjotaro.html\">渡辺</a>は同志将校を弾圧したばかりでなく、三長官の一人として、吾人の行動に反対して弾圧しさうな人物の筆頭だ。\n天皇機関説の本尊だ」</div>\n<div>と書いている。</div>\n<div class=\"txr\"><a href=\"../text/msasyowa.html\">松本清張 「昭和史発掘（10）」</a>\n　Ｐ．１４０</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>川島陸相、幕僚招集</b></div>\n<div><span class=\"m_b\">引用</span>「口舌の徒」<a href=\"../p/asadao.html\">荒木</a>は嫌われたが、\n香田らが官邸に招くべく要請したのは<a href=\"../p/mjinzabu.html\">真崎</a>だけではなかった。</div>\n<div>「余等は大臣に対し、<a href=\"../p/mjinzabu.html\">真崎</a>、<a href=\"../p/ytomoyuk.html\">山下</a>、古荘、今井、村上等の招集を願ふ。\n直ちに秘書官に依つて電話連絡される。更に満井（佐吉）、<a href=\"../p/steiici.html\">鈴木（貞一）</a>等の招致をする事となる」（「行動記」）</div>\n<div>少将<a href=\"../p/ytomoyuk.html\">山下奉文</a>（軍事調査部長）、中将古荘幹郎（陸軍次官）、中将今井清（軍務局長）、\n大佐村上啓作（軍事課長）は<a href=\"../p/ytomoyuk.html\">山下</a>を除いて中立系の人々だが、\nこれらはその職制上から自分らに協力させようという狙いである。\n中佐満井佐吉はこれまで何度も出てきた<a href=\"../p/mjinzabu.html\">真崎</a>直系で相沢公判の特別弁護人、大佐<a href=\"../p/steiici.html\">鈴木貞一</a>（内閣調査局調査官）は、\n<a href=\"../p/ntetuzan.html\">永田鉄山</a>の高弟の統制経済専門家で、いわゆる統制派とみられたがこのときまでは態度を明確にせず、\nむしろ一方では親皇道派的な身ぶりも示していた。\n<a href=\"../1936/02226ji.html\">事件</a>後は、はっきりと体制側に立って花形となるが、この時点まではヌエ的な日和見主義者だった。</div>\n<div class=\"txr\"><a href=\"../text/msasyowa.html\">松本清張 「昭和史発掘（10）」</a>\n　Ｐ．１９９</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>陸軍官邸前の問答</b></div>\n<div><span class=\"m_b\">引用</span>午前九時ごろになると官邸正面から将校が続々入ってきた。\n陸軍省や参謀本部に出勤してきた連中だが、役所が兵に遮断されているのでこっちに流れてきたのである。</div>\n<div>官邸正面の歩哨線から、あまり将校の数が多いので制止しきれないと云ってきた。\n<a href=\"../p/iasaici.html\">磯部</a>は丹生中尉に向い、なるべく鄭重に断わって省内に入れないようにしておいてくれ、と頼む。</div>\n<div>「官邸正門前に於て登庁の軍人を適当になだめて退去させてゐると、一少佐が憤然として、\n『余りひどいではないか、兵が吾々将校に対して銃剣をツキツケて誰何をする』と言ふ。\n余は、其の通りだ、頗るひどいのだが、軍隊はすでに何年か以前に自覚せる兵と下士によつて将校を否定しようとしてゐたのだ、\n全将校が貴族化し、軍閥化したから、ここに新しい自覚運動が起つた、それが上官の弾圧に会ふ度に下へ下へとうつつて、\n今や下士官兵の間に燃えさえつてゐるのだ、貴様等の様に、自分の立身成功の為には兵の苦労も、\n其の家庭の窮乏をも知らぬ顔の半兵衛で鰻上りした奴には分らぬのだ。\n兵に銃剣を突きつけられて恐しかつただらう、ドキンとしたのだらう、今に見ろ、\n平素威張り散らした貴様等が叩きのめされる日が来るぞ、と言つてやりたかつたが我慢して、\n『アア左様ですか、仕方がないですね』と意味あり気に答へた」（「行動記」）</div>\n<div>香田、<a href=\"../p/iasaici.html\">磯部</a>らも陸軍省、参謀本部の占拠、陸相官邸の包囲は計画したが、\n登庁してくる将校の溜り場までは考えていなかった。\n役所に入れない将校連中はそのまま引返して帰るものと簡単に考えていたらしい。\nそれでこの事態になって少しあわて、彼らをさばくのに一苦労となった。</div>\n<div class=\"txr\"><a href=\"../text/msasyowa.html\">松本清張 「昭和史発掘（10）」</a>\n　Ｐ．２０２</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b><a href=\"../p/stenno.html\">天皇</a>への第一報</b></div>\n<div><span class=\"m_b\">引用</span><a href=\"../p/stenno.html\">天皇</a>に重臣襲撃のことを最も早く知らせたのは当直の甘露寺侍従で、\n甘露寺は<a href=\"../p/skantaro.html\">鈴木侍従長</a>官舎、つづいて<a href=\"../p/smakoto.html\">斎藤内大臣</a>官舎より電話通報をうけた。\n腕時計を見ると五時四十分すぎ。</div>\n<div>「<a href=\"../p/stenno.html\">陛下</a>はまだ御寝になつてゐる時刻だが、事柄が事柄だけに、一時もはやく奏上せねばならぬと、御寝室に伺つた。\n差支ない、緊急の用務なら茲で聞くと仰せられたので、<a href=\"../p/skantaro.html\">鈴木</a>、<a href=\"../p/smakoto.html\">斎藤</a>両重臣が軍隊に襲撃され、\n<a href=\"../p/smakoto.html\">斎藤内府</a>は落命、<a href=\"../p/skantaro.html\">鈴木侍従長</a>は重態である旨を申上げた。</div>\n<div><a href=\"../p/stenno.html\">陛下</a>は静かにお聴取りになり『そして暴徒はその後どの方面に向つたか判らないか、\nまだ他にも襲撃された者はないか』とお訊ねになつた。『暴徒』さうだ確かに暴徒だ、正しい日本の陸軍ではない、\n甘露寺の頭にこの『暴徒』といふ言葉が強く烙印された」（高宮「天皇陛下」）</div>\n<div class=\"txr\"><a href=\"../text/msasyowa.html\">松本清張 「昭和史発掘（10）」</a>\n　Ｐ．２５３</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>香椎浩平</b></div>\n<div><span class=\"m_b\">引用</span>香椎は<a href=\"../p/asadao.html\">荒木大将</a>の直系で、<a href=\"../p/asadao.html\">荒木</a>によって引き立てられた。\n前年十二月の異動で第六師団長（熊本）から東京警備司令官に移ってきた。\n警備司令官というのは予備役編入前の閑職だが、戦時警備令（戒厳令の一歩手前）が布告されると俄然重要な役職となり、\n近衛、第一両師団長を指揮することになる。\nだから香椎の張り切りようはたいへんなもので、しかも皇道派に属して決行部隊の有利を図ろうとする。</div>\n<div class=\"txr\"><a href=\"../text/msasyowa.html\">松本清張 「昭和史発掘（10）」</a>\n　Ｐ．２６３</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>「陸軍大臣告示」の伝達</b></div>\n<div><span class=\"m_b\">引用</span><a href=\"../p/ytomoyuk.html\">山下奉文</a>が陸相官邸に現われたのは午後二時ごろであった。\n<a href=\"../p/ytomoyuk.html\">山下</a>は決行部隊の幹部に集合を求めた。香田、<a href=\"../p/mtakaji.html\">村中</a>、野中、<a href=\"../p/iasaici.html\">磯部</a>、対馬の五人が<a href=\"../p/ytomoyuk.html\">山下</a>のまわりに集った。</div>\n<div>これに古荘次官、<a href=\"../p/steiici.html\">鈴木（貞一）大佐</a>、満井中佐、山口（一太郎）大尉らが立会った。</div>\n<div><a href=\"../p/ytomoyuk.html\">山下</a>は一同の前で大臣告示を読み上げた。\n文書を手渡したのではないから、皆は聞くだけである。このとき、<a href=\"../p/ytomoyuk.html\">山下</a>がよんだ第二項は「行動」だった。</div>\n<div><a href=\"../p/iasaici.html\">磯部</a>は書く。朗読を聞いたときだ。</div>\n<div>「対馬（勝雄中尉）は（<a href=\"../p/ytomoyuk.html\">山下少将</a>に）、吾々の行動を認めるのですか、否やと突込む。\n余は、我々の行動が義軍の義挙であると言ふことを認めるのですか、否やと詰問する。\n<a href=\"../p/ytomoyuk.html\">山下少将</a>は口頭の確答をさけて、質問に対し三度告示を朗読して答へに代へる」（「行動記」）</div>\n<div>対馬と<a href=\"../p/iasaici.html\">磯部</a>が大臣告示は義軍として認めるのかと<a href=\"../p/ytomoyuk.html\">山下</a>に詰めよると、<a href=\"../p/ytomoyuk.html\">山下</a>は、「よう聞け」といって\n再度告示文を読む。\n<a href=\"../p/ytomoyuk.html\">山下</a>は「諸子ノ行動ハ国体顕現ノ至情ニ基クモノト認ム」というところを聞かせたいのだろうが、\n彼らとしてはこんな持って回った言い方よりも、率直に義軍として認めるかどうかを知りたい。\nそのへんが判然としないから、「いったいどうなのですか？」とまた<a href=\"../p/iasaici.html\">磯部</a>らが訊く。\n<a href=\"../p/ytomoyuk.html\">山下</a>は再び「よう聞け」といって三度に亙って読み、ほかには一語も発せず、さっさと引返して行った。</div>\n<div>これが青年将校を煽ててきた<a href=\"../p/ytomoyuk.html\">山下</a>の態度だったのだ。\nこれが「<a href=\"../p/okeisuke.html\">岡田（首相）</a>なんかぶった斬るんだ」と青年将校らの前で豪快に放言していた同一人であった。</div>\n<div>ふつうなら人情として、私的にでも短い説明があるのが当然である。\nこれまで彼を頼りにしていた若い将校ばかりではないか。\nことに叛乱軍になりたくない彼らの切羽つまった気持は、<a href=\"../p/ytomoyuk.html\">山下</a>に分りすぎるくらい分っている。\nそれを一語の説明も彼らに与えなかったのである。</div>\n<div><a href=\"../p/ytomoyuk.html\">山下</a>の心底は推測できる。\nうっかり決定的な答え方をして、あとで言質をとられるのが恐ろしかったのである。\n彼は軍事参議官会議の微妙な推移をその場にいて逐一見まもってきた。\nうっかり「行動」の字句を説明すると、決行将校が狂喜し、昂奮して何を云い出すか分らない。\nここは慎重にして、あとで責任をとらされるようなことは、避くべきである。\n<a href=\"../p/ytomoyuk.html\">山下</a>の腹の中はそうだったのだろう。</div>\n<div class=\"txr\"><a href=\"../text/msasyowa.html\">松本清張 「昭和史発掘（10）」</a>\n　Ｐ．２６６</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>片倉少佐狙撃</b></div>\n<div><span class=\"m_b\">引用</span><a href=\"../p/iasaici.html\">磯部</a>は「行動記」で「官邸の内外には険悪な空気が溢つた」と書いている。\nすでにその朝九時すぎ、<a href=\"../p/iasaici.html\">磯部</a>は官邸玄関前に詰めかける幕僚将校の中に片倉衷少佐を発見してこれをピストルで射っている。\n片倉は「士官学校事件」で参謀本部員から陸軍省軍務局附に移っていたが、<a href=\"../p/tmasanob.html\">辻政信大尉</a>と組んで<a href=\"../p/iasaici.html\">磯部</a>、<a href=\"../p/mtakaji.html\">村中</a>を追い落とした\n張本人と見られていた。<a href=\"../p/iasaici.html\">磯部</a>にとっては痛恨の相手だ。</div>\n<div>「時に突然、片倉が<a href=\"../p/ikanji.html\">石原（莞爾）</a>に向つて『課長殿、話があります』と言つて詰問するかの如き態度を表したので\n『エイッ此の野郎、ウルサイ奴だ、まだグヅグヅと文句を言ふか！』と言ふ気になつて、\nイキナリ、ピストルを握つて彼の右シヨウジユ（こめかみ）部に銃口を当てて射撃した。\n彼が四、五歩転身するのと、余が軍刀を抜くのと同時だつた。\n余は刀を右手にさげて、残心の型で彼の斃れるのを待つた。\n血が顔面にたれて、悪魔相の彼が『射たんでも分る』と言ひ乍ら、傍らの大尉に支へられてゐる。\nやがて彼は大尉に附添はれてヤルナラ天皇陛下の命令でやれ、と怒号し去つた。\n滴血雪を染めて点々。玄関に居た多数の軍人が、この一事によつてスツカリおじけついたのか、\n今迄の鼻息はどこへやら、消えて影だにない」（「行動記」）</div>\n<div><a href=\"../p/iasaici.html\">磯部</a>は、頭部の射撃で片倉は致命傷を受けたと信じ切っていたが、\nあとで会った某主計正から「片倉は死なないだらう」といわれて、はっとする。</div>\n<div class=\"txr\"><a href=\"../text/msasyowa.html\">松本清張 「昭和史発掘（10）」</a>\n　Ｐ．２６９</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><b>「軍隊ニ対スル告示」</b></div>\n<div><span class=\"m_b\">引用</span>さらに決行部隊を錯覚させるものに警備令発令と同時に司令部より出された\n「軍隊ニ対スル告示」がある。午後三時の示達であった。</div>\n<div>一、第一師管内一般ノ治安ヲ維持スルタメ本日午後三時第一師管戦時警備ヲ下令セラル</div>\n<div>二、本朝来出動シタル諸隊ハ戦時警備部隊ノ一部トシテ新ニ出動スル部隊ト共ニ師管内ノ警備ニ任ゼシメラルルモノニシテ、\n軍隊相互間ニ於テ絶対ニ相撃ヲナスベカラズ</div>\n<div>三、宮中ニ於テ大臣等ハ現出動部隊ノ考ヘアル如キコトハ大イニ考ヘアリシモ今後ハ大イニ力ヲ入レ之ヲ\n実行スル如ク会議ニテ申合セヲナセリ</div>\n<div>戦時警備令は、東京管内にたとえば暴動などが起ったとき、管内一般の治安を維持するために平時でも適用されるが、\n暴動を起したのは千四百名の軍隊そのものである。\nその軍隊を鎮圧に出た軍隊とともに警備部隊にくり入れて「見えざる暴徒を警戒」させようというのだから、\nまともに考えたら頭がおかしくなる。\n要は、決行部隊を撤退させるための処置を形式化したのだ。</div>\n<div class=\"txr\"><a href=\"../text/msasyowa.html\">松本清張 「昭和史発掘（10）」</a>\n　Ｐ．２８４</div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"03s.html\">書籍ファイル一覧　（サ）</a>\n ＞ <a href=\"ms_syowa.html\">「昭和史発掘」</a>\n ＞ <a href=\"#h\">「昭和史発掘（10）」</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

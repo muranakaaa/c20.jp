@@ -1,0 +1,449 @@
+{
+ "path": "20c/1911.html",
+ "type": "year",
+ "title": "１９１１年　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９１１年"
+  },
+  {
+   "type": "title2",
+   "html": "明治４４年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"1901.html\">１０年前</a> &gt;&gt;&gt; <a href=\"1910.html\">前年</a> &gt;&gt;&gt; <span class=\"now\">１９１１</span> &gt;&gt;&gt; <a href=\"1912.html\">翌年</a> &gt;&gt;&gt; <a href=\"1921.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"#s4\">カフェー　　ミルクホール　　結婚写真</a>",
+    "<a href=\"../1908/katu2_1.html\">桂②</a> → <a href=\"../1911/saio2_1.html\">西園寺内閣②</a>"
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"1910.html#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/01/18　　<a href\"..=\"\" 19.html\"=\"\">\n幸徳秋水ら24名に死刑判決　（大逆事件）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/01/26　　<a href\"..=\"\" 19.html\"=\"\">\n桂・西園寺会談　（01/29 情意投合を発表／政府と政友会の提携成立）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/02/04　　<a href=\"../1911/02nanbo.html\">\n南北朝正閨問題</a>　（02/27 該当教科書の使用禁止）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/02/11　　<a href\"..=\"\" 19.html\"=\"\">\n済生に関する勅語</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/02/21　　<a href\"..=\"\" 19.html\"=\"\">\n夏目漱石、博士号を辞退</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/02/21　　<a href=\"../1911/02kanze.html\">\n関税自主権回復　（日米通商航海条約改正）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/03/29　　<a href=\"../1911/03kojoh.html\">\n工場法公布</a>　（16/09/01 施行）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/03/30　　<a href=\"../1911/03kurah.html\">\n倉橋惣三、小学生（東京市内）の読書調査を研究報告</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/04/09　　<a href\"..=\"\" 19.html\"=\"\">\n吉原遊郭大火</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/04/27　　<a href\"..=\"\" 19.html\"=\"\">\n黄花崗事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/06/01　　<a href\"..=\"\" 19.html\"=\"\">\n青鞜社発起人会</a>　（<a href=\"../p/hraicyo.html\">平塚らいてう</a>ら）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/07/01　　<a href\"..=\"\" 19.html\"=\"\">\nモロッコ事件②　（～11/04）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/07/07　　<a href\"..=\"\" 19.html\"=\"\">\nラッコ・オットセイ保護条約調印　（日・英・米・露）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/07/13　　<a href\"..=\"\" 19.html\"=\"\">\n日英同盟③調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/08/21　　<a href\"..=\"\" 19.html\"=\"\">\n警視庁、特別高等課を設置</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/08/24　　<a href\"..=\"\" 19.html\"=\"\">\n朝鮮教育令公布　（教育勅語に基づき朝鮮人を忠良なる国民に教育）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/08/25　　<a href=\"../1911/katu2_9.html\">\n桂内閣②総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/08/29　　<a href\"..=\"\" 19.html\"=\"\">\n東京日日新聞「野球とその害毒」連載開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/08/30　　<a href=\"../1911/saio2_1.html\">\n西園寺内閣②成立</a>　（首相：<a href=\"../p/skinmoci.html\">西園寺公望</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/09/01　　<a href=\"../1911/09seito.html\">\n「青鞜」創刊</a>　（<a href=\"../p/hraicyo.html\">平塚らいてう</a>：「元始女性は太陽であった」）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/09/14　　<a href\"..=\"\" 19.html\"=\"\">\nストルイピン（露）首相暗殺</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/09/29　　<a href\"..=\"\" 19.html\"=\"\">\nトリポリ戦争　（～12/10/18）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"1912.html#s1\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/10/10　　<a href=\"../1911/10singa.html\">\n辛亥革命勃発</a>　（武昌蜂起）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/10/25　　<a href\"..=\"\" 19.html\"=\"\">\n片山潜ら、社会党結成　（10/27 結社禁止）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/10/28　　<a href\"..=\"\" 19.html\"=\"\">\n黄興・宋教仁・北一輝ら、上海から武昌に到着</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/10/29　　<a href\"..=\"\" 19.html\"=\"\">\nジョゼフ・ピュリッツァー没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/11/01　　<a href\"..=\"\" 19.html\"=\"\">\n清国政府、袁世凱を総理大臣に任命</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/11/10　　<a href\"..=\"\" 19.html\"=\"\">\n天皇お召し列車、門司駅で脱線　（責任者自殺）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/11/11　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/kotojiro.html\">\n川上音二郎</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/11/26　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/kjutaro.html\">\n小村寿太郎</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/12/25　　<a href\"..=\"\" 19.html\"=\"\">\n孫文、上海に到着</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1911/12/29　　<a href\"..=\"\" 19.html\"=\"\">\n17省代表会議、孫文を中華民国臨時大総統に選出　（南京）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1908/katu2_1.html\">桂②</a> → <a href=\"../1911/saio2_1.html\">西園寺内閣②</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">カフェー　　ミルクホール　　結婚写真</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「青鞜」　「刺青」　「お目出たき人」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">「松の緑」　「ジゴマ」</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">―</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">歩兵の本領　　紅葉</td></tr>\n</tbody>"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"#h\">１９１１年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

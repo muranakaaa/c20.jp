@@ -1,0 +1,254 @@
+{
+ "path": "1944/09pelel.html",
+ "type": "article",
+ "title": "アメリカ軍、ペリリュー島上陸　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1944.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "アメリカ軍、ペリリュー島上陸"
+  },
+  {
+   "type": "title2",
+   "html": "1944/09/15"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1934.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1943.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1944.html\">１９４４</a> &gt;&gt;&gt; <a href=\"../20c/1945.html\">翌年</a> &gt;&gt;&gt; １０年後"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "玉砕続きの日本軍の中で、中川大佐と水戸連隊 大健闘。　物量に勝るアメリカ軍と死闘を展開。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1943/02/01　　<a href=\"../1943/02guada.html\">\nガダルカナル島撤退開始</a>　（02/07 撤退完了）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/02/17　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ機動部隊、トラック島空襲</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/03/08　　<a href=\"../1944/03impha.html\">\nインパール作戦開始</a>　（～07/09）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/03/31　　<a href=\"../1944/03otuji.html\">\n海軍乙事件</a>　（連合艦隊司令長官<a href=\"../p/kmineici.html\">古賀峯一</a>「殉職」／04/05 発表）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/06/15　　<a href=\"../1944/06a_sai.html\">\nアメリカ軍、サイパン島上陸</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/06/19　　<a href=\"../1944/06maria.html\">\nマリアナ沖海戦</a>　（～06/20）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/07/07　　<a href=\"../1944/07saipa.html\">\nサイパン陥落　（守備隊玉砕）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/07/21　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ軍、グアム島上陸　（08/10 守備隊玉砕）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/07/24　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ軍、テニヤン島上陸　（08/03 守備隊玉砕）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/09/15　　<a 1944=\"\" href\"..=\"\" 09pelel.html\"=\"\">\nアメリカ軍、ペリリュー島上陸</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/10/12　　<a href=\"../1944/10taiwa.html\">\n台湾沖航空戦</a>　（大本営、大戦果を発表）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/10/20　　<a href=\"../1944/10a_ley.html\">\nアメリカ軍、レイテ島（フィリピン）上陸</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1944/10/24　　<a href=\"../1944/10leyte.html\">\nレイテ沖海戦</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/03/17　　<a href=\"../1945/03iojim.html\">\n硫黄島守備隊玉砕</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1945/04/01　　<a href=\"../1945/04okina.html\">\n沖縄戦開始　（アメリカ軍、沖縄本島上陸）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>海軍はまだ率直に戦況の非を悟っていったが、\n陸軍は一個師団対四十三個師団のサイパンの作戦にも、なお望みを繋いで勝利を期待していた。\nそして太平洋上至るところで玉砕に次ぐ玉砕を続けた。\nその中で一きわ勇戦奮闘して、米軍の心胆を寒からしめ、世界戦史に「驚嘆」の賛辞を残したのが、\n昭和十九年九月十五日米軍が上陸したペリリュー島の守備隊中川州男大佐（戦死後二階級特進、中将となる）の\n歩兵第二連隊（水戸）の戦闘であった。</div>\n<div>幸い米軍の上陸までに、短いとはいえ四ヶ月の準備期間があった。\nそのため数線の陣地を孤島の中に準備し、第二線陣地には厚さ二・五メートルのセメントの掩蓋を作って大砲や機関砲を入れ、\n水際での早まった突撃はやめて、徹底した奥行の深い戦法で、米軍が奥に入ってくれば入るほど損害が多くなる戦闘を行った。\nその結果、九月十五日以降、十一月二十四日の中川州男大佐の自決に至るまでの二ヶ月以上を\n一個連隊を基幹とする部隊（約五千名）で、米軍二個師団と押しつ押されつの戦闘を繰り返して、\n文字通り米軍に悲鳴をあげさせただけでなく、山口永少尉以下三十四名は、\n連隊があらかじめ作った最後の砦である地下壕や洞窟を利用して、ゲリラ戦に転じて昭和二十二年四月二十一日まで\n戦闘を続けていたのである。</div>\n<div class=\"txr\"><a href=\"../text/he_daiho.html\">堀栄三 「大本営参謀の情報戦記」</a>\n　Ｐ．１４３<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E5%25A4%25A7%25E6%259C%25AC%25E5%2596%25B6%25E5%258F%2582%25E8%25AC%2580%25E3%2581%25AE%25E6%2583%2585%25E5%25A0%25B1%25E6%2588%25A6%25E8%25A8%2598\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1944.html\">１９４４年</a>\n ＞ <a href=\"#h\">アメリカ軍、ペリリュー島上陸</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

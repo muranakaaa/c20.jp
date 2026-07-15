@@ -1,0 +1,328 @@
+{
+ "path": "p/ayosifur.html",
+ "type": "person",
+ "title": "秋山 好古　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "p.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ 年表 ＞ 事項 ＞ 詳細　／　<span class=\"now\">他</span>　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "秋山 好古"
+  },
+  {
+   "type": "title2",
+   "html": "1859 － 1930"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "name"
+   },
+   "html": "\n[ あきやま・よしふる ]"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "prof"
+   },
+   "html": "\n韓国駐箚憲兵隊司令官、近衛師団長、第13師団長、騎兵第１旅団長、騎兵監、陸軍大将、<a href=\"../p/asaneyuk.html\">秋山真之</a>の兄"
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_r\">エピソード 1</span>調査中。"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　愛媛県出身。松山藩士の三男。陸士３期卒、陸大１期卒。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　フランス留学後、騎兵第１大隊長として日清戦争に従軍。土城子の白兵戦で勇名を高める。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　戦後、陸軍騎兵実施学校長などを務め、騎兵の整備・育成・研究に尽力。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　義和団事件には、第５師団兵站監として出征。のち清国駐屯軍参謀長、同軍司令官を歴任。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　騎兵第１旅団長として日露戦争に従軍。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　<a href=\"../1904/10saka1.html\">沙河会戦</a>、<a href=\"../1905/01kokk1.html\">黒溝台会戦</a>で、非常な劣勢に耐え左翼を守り抜き、日本軍の危機を救う。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　騎兵監、第13師団長、近衛師団長、韓国駐箚憲兵隊司令官などを歴任。"
+      }
+     ]
+    },
+    {
+     "cls": "",
+     "cells": [
+      {
+       "id": null,
+       "cls": "hist",
+       "html": "\n・　大将で退役後、故郷で中学校長を務める。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1894/08/01　　<a href\"..=\"\" 19.html\"=\"\">\n清国に宣戦布告　（日清戦争勃発）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1895/04/14　　<a href\"..=\"\" 19.html\"=\"\">\n下関条約調印　（日清戦争終結）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1900/06/21　　<a href\"..=\"\" 19.html\"=\"\">\n清国、日本など８ヵ国に宣戦布告　（義和団事件）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/02/10　　<a href=\"../1904/02jr_wa.html\">\n対露宣戦布告</a>　（<a href=\"../them/jr_war.html\">日露戦争</a>勃発）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/08/28　　<a href=\"../1904/08ryoy1.html\">\n遼陽会戦</a>　（～09/04）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1904/10/09　　<a href=\"../1904/10saka1.html\">\n沙河会戦</a>　（～10/17）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/01/02　　<a href=\"../1905/01ryojy.html\">\n旅順陥落</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/01/25　　<a href=\"../1905/01kokk1.html\">\n黒溝台会戦</a>　（～01/29）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/03/01　　<a href=\"../1905/03hote1.html\">\n奉天会戦</a>　（～03/10）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1905/09/05　　<a href=\"../1905/09portm.html\">\nポーツマス条約調印</a>　（首席全権：<a href=\"../p/kjutaro.html\">小村寿太郎</a>／<a href=\"../them/jr_war.html\">日露戦争</a>終結）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>好古は明治十年（一八七七年）に陸軍士官学校に入り、明治十八年に陸軍大学校を卒業した。</div>\n<div>その後、日本陸軍ではじめて騎兵隊をつくり、育成し、日清、日露戦争で大活躍した。</div>\n<div>日露戦争では、小部隊の騎兵旅団を指揮して、世界最強と言われるコサック騎兵の大集団をふくむロシアの大軍を破り、\n日本軍を勝利にみちびく大功を立てた。</div>\n<div>その戦いぶりは、楠木正成、源義経、織田信長に勝るとも劣らないほどである。</div>\n<div>好古は大正五年（一九一六年）に大将となり、やがて元帥になると目されていたが、\nそのまま大正十二年に予備役となった。\n当時の陸相<a href=\"../p/tgiici.html\">田中義一大将</a>によると、好古が辞退したからだという。</div>\n<div>好古と陸軍士官学校第三期の同期生で元帥となった<a href=\"../p/uyusaku.html\">上原勇作</a>は、</div>\n<div>「秋山は典型的な古武士的風格のある武将で、もうこののち、ああいう人間は種切れになるだろう」</div>\n<div>と語っている。</div>\n<div>好古は無造作、無欲恬淡、豪放磊落、酒好きの大仙人といった男で、部下たちは、器量が大きく、\n戦に強い頼もしいおやじと敬愛していたようである。</div>\n<div>小柄な<a href=\"../p/asaneyuk.html\">真之</a>とちがい、体つきも顔かたちも大きかった。</div>\n<div>顔では、きわだって切れ長の大きな目、高々とした鼻、象のように大きな耳がめだった。\n将軍になってから、日本の<a href=\"../p/hinden_p.html\">ヒンデンブルク</a>と綽名されたが、まさしくドイツ人のようであった。</div>\n<div>幼名は信三郎と言い、子どものころは、「鼻信」と綽名されていた。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/oh_cisyo.html\">生出寿 「知将　秋山真之」</a>\n　Ｐ．４８</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>ロシアと戦うにあたって、どうにも日本が敵しがたいものがロシア側に二つあった。\n一つはロシア陸軍において世界最強の騎兵といわれるコサック騎兵集団である。</div>\n<div>いまひとつはロシア海軍における主力艦隊であった。</div>\n<div>運命が、この兄弟にその責任を負わせた。\n兄の好古は、世界一脾弱な日本騎兵を率いざるをえなかった。\n騎兵はかれによって養成された。\nかれは心魂をかたむけてコサックの研究をし、ついにそれを破る工夫を完成し、少将として出征し、\n満州の野において悽惨きわまりない騎兵戦を連闘しつつかろうじて敵をやぶった。</div>\n<div>弟の<a href=\"../p/asaneyuk.html\">真之</a>は海軍に入った。</div>\n<div>「智謀湧くがごとし」といわれたこの人物は、少佐で日露戦争をむかえた。</div>\n<div>それ以前からかれはロシアの主力艦隊をやぶる工夫をかさね、その成案を得たとき、\n日本海軍はかれの能力を信頼し、<a href=\"../p/theihaci.html\">東郷平八郎</a>がひきいる連合艦隊の参謀にし、三笠に乗り組ませた。\n<a href=\"../p/theihaci.html\">東郷</a>の作戦はことごとくかれが樹てた。\n作戦だけでなく<a href=\"../1905/05nihon.html\">日本海海戦</a>の序幕の名口上ともいうべき、</div>\n<div>「敵艦見ユトノ警報ニ接シ、聯合艦隊ハ直ニ出動、之ヲ撃滅セントス。\n本日天気晴朗ナレドモ浪高シ」</div>\n<div>という電文の起草者でもあった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/sr1sakan.html\">司馬遼太郎 「坂の上の雲（１）」</a>\n　Ｐ．７８</span></div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s5\"></a>\n<a href=\"#s5\">＝</a><a href=\"#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s5\">▽</a><a href=\"#s5\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<span class=\"m_g\">エピソード</span>\n調査中。"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"01a.html\">人物ファイル一覧　（ア）</a>\n ＞ <a href=\"#h\">秋山 好古</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

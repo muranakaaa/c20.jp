@@ -1,0 +1,499 @@
+{
+ "path": "20c/1919.html",
+ "type": "year",
+ "title": "１９１９年　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９１９年"
+  },
+  {
+   "type": "title2",
+   "html": "大正８年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"1909.html\">１０年前</a> &gt;&gt;&gt; <a href=\"1918.html\">前年</a> &gt;&gt;&gt; <span class=\"now\">１９１９</span> &gt;&gt;&gt; <a href=\"1920.html\">翌年</a> &gt;&gt;&gt; <a href=\"1929.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"#s4\">オーライ　　解放　　憂鬱　　デモクラシー</a>",
+    "<a href=\"../1918/hara_1.html\">原内閣</a>"
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"1918.html#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/01/05　　<a href=\"../1919/01sumak.html\">\n松井須磨子自殺</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/01/05　　<a href=\"../1919/01natzi.html\">\nナチス結成</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/01/06　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/roosev_t.html\">\nセオドア・ルーズベルト</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/01/11　　<a href\"..=\"\" 19.html\"=\"\">\n内務省、全国統一の自動車取締令公布</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/01/18　　<a href=\"../1919/01paris.html\">\nパリ講和会議開催</a>　（～06/28／首席全権：<a href=\"../p/skinmoci.html\">西園寺公望</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/01/21　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/ritaio.html\">\n李太王</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/01/21　　<a href\"..=\"\" 19.html\"=\"\">\nシン・フェイン党、アイルランド議会を設置、独立宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/02/09　　<a href\"..=\"\" 19.html\"=\"\">\nデューイ来日</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/03/01　　<a href=\"../1919/0331ban.html\">\n三・一（万歳）事件</a>　（京城パゴダ広場で朝鮮民衆が独立宣言）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/03/02　　<a href\"..=\"\" 19.html\"=\"\">\nコミンテルン創立大会</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/03/18　　<a href=\"../1919/03rawla.html\">\nローラット法可決</a>　（即時施行／インド）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/04/06　　<a href=\"../1919/04gandh.html\">\n非暴力運動①開始</a>　（<a href=\"../p/gandhi_m.html\">ガンジー</a>ら）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/04/12　　<a href\"..=\"\" 19.html\"=\"\">\n関東総督府を廃止、関東庁（民政）と関東軍司令部（軍事）を設置</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/04/13　　<a href=\"../1919/04amrit.html\">\nアムリツァール虐殺事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/04/23　　<a href\"..=\"\" 19.html\"=\"\">\nイタリア、フィウメ帰属問題でパリ講和会議を脱退　（05/06 復帰）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/04/27　　<a href\"..=\"\" 19.html\"=\"\">\n児童自由画展開催　（山本鼎／長野県神川村小学校）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/05/04　　<a href=\"../1919/0554und.html\">\n五・四運動</a>　（天安門広場で学生らがデモ行進）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/05/23　　<a href=\"../1919/05senky.html\">\n選挙法改正</a>　（選挙資格：直接国税10円以上→３円以上）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/06/10　　<a href\"..=\"\" 19.html\"=\"\">\n皇太子婚約</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/06/28　　<a href\"..=\"\" 19.html\"=\"\">\n東京俸給生活者同盟（サラリーメンスユニオン）発会式</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/06/28　　<a href=\"../1919/06versa.html\">\nベルサイユ条約調印</a>　（北京政府、調印拒否）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/07/07　　<a href=\"../1919/07karup.html\">\nカルピス発売</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/07/11　　<a href\"..=\"\" 19.html\"=\"\">\n「キネマ旬報」創刊</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/07/25　　<a href\"..=\"\" 19.html\"=\"\">\nカラハン宣言①</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/07/31　　<a href\"..=\"\" 19.html\"=\"\">\nワイマール憲法成立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/08/11　　<a href\"..=\"\" 19.html\"=\"\">\nアンドリュー・カーネギー没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/08/16　　<a href\"..=\"\" 19.html\"=\"\">\n板垣退助没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/09/02　　<a href\"..=\"\" 19.html\"=\"\">\n斉藤朝鮮総督爆殺未遂事件　（京城南大門駅）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/09/10　　<a href\"..=\"\" 19.html\"=\"\">\nサン・ジェルマン条約調印　（ハプスブルク朝解体）</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"1920.html#s1\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/10/07　　<a href\"..=\"\" 19.html\"=\"\">\n政友会本部全焼　（放火）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/10/10　　<a href\"..=\"\" 19.html\"=\"\">\n中国国民党結成　（中華革命党を改組）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/10/16　　<a href\"..=\"\" 19.html\"=\"\">\n</a><a href=\"../p/msaneatu.html\">武者小路実篤</a>「友情」連載開始　（大阪毎日新聞）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/10/28　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ議会、禁酒法可決</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/11/03　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/tmasatak.html\">\n寺内正毅</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/11/28　　<a href\"..=\"\" 19.html\"=\"\">\nヌイイ条約調印　（ブルガリア、マケドニアなどを失う）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/12/03　　<a href\"..=\"\" 19.html\"=\"\">\nピエール・ルノアール没</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1919/12/23　　<a href\"..=\"\" 19.html\"=\"\">\n協調会設立</a>　（労資協調のため／<a href=\"../p/seiici.html\">渋沢栄一</a>ら）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1918/hara_1.html\">原内閣</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">オーライ　　解放　　憂鬱　　デモクラシー</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「改造」　「古寺巡礼」　「或る女」　「砂金」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">「イントレランス」</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">―</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">東京節　　浜千鳥</td></tr>\n</tbody>"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"#h\">１９１９年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

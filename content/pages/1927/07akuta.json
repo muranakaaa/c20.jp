@@ -1,0 +1,143 @@
+{
+ "path": "1927/07akuta.html",
+ "type": "article",
+ "title": "芥川龍之介自殺　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1927.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "芥川龍之介自殺"
+  },
+  {
+   "type": "title2",
+   "html": "1927/07/24"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1917.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1926.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1927.html\">１９２７</a> &gt;&gt;&gt; <a href=\"../20c/1928.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1937.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "動機は “ぼんやりとした不安”！？　わかる気がする　<a href=\"../p/aryunosu.html\">龍之介</a>の自殺。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1917/10/20　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/aryunosu.html\">\n芥川龍之介</a>「戯作三昧」連載開始　（大阪毎日新聞）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/05/02　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/aryunosu.html\">\n芥川龍之介</a>「地獄変」連載開始　（東京日日・大阪毎日新聞）"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1927/07/24　　<a 1927=\"\" href\"..=\"\" 07akuta.html\"=\"\">\n芥川龍之介自殺</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "pt"
+   },
+   "html": "\n<div class=\"pt_h\">～　久米正雄に託した「ある旧友へ送る手記」　～</div>\n<div>君は新聞の三面記事などに生活難とか、病苦とか、あるいはまた精神的苦痛とか、\nいろいろの自殺の動機を発見するであろう。しかし僕の経験によれば、それは動機の全部ではない。\nのみならず大抵は動機に至る道程をしめしているだけである。\n自殺者は大抵レニエの描いたように何のために自殺するかを知らないであろう。\nそれは我々の行為するように複雑な動機を含んでいる。が、少なくとも僕の場合はただぼんやりとした不安である。\n何か僕の将来に対するただぼんやりとした不安である。</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\n芸術至上主義などと言われるが、taroの読んだ芥川作品はどれもみな作者のやさしさのにじみでたものだった。\nそんな小説を書く彼が人一倍感じやすいとすれば、時代が彼を不安にさせるということもあながちありえないことではないのかもしれない。\nこの年、<a href=\"../p/aryunosu.html\">芥川</a>の自殺までの半年ほどの間に、金融恐慌があり、<a href=\"../1927/waka1_9.html\">政変</a>があり、<a href=\"../1927/05sant1.html\">山東出兵</a>があり、\n経済も政治も軍事もドタバタで、どれもなんとなく怪しげで、いかにも昭和という時代の行く末を暗示するようだった。\nすると、太平洋戦争は彼の自殺と無関係ではないのかもしれない。\nだって、五十をすぎたガリガリの<a href=\"../p/aryunosu.html\">芥川先生</a>が大きなリュックを背負って、満員電車につぶされそうになりながら食糧の買出しに、\nなんて想像できないものな。\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div>ああああああああああああああああ</div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1927.html\">１９２７年</a>\n ＞ <a href=\"#h\">芥川龍之介自殺</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

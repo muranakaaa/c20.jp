@@ -1,0 +1,204 @@
+{
+ "path": "1921/03cinpi.html",
+ "type": "article",
+ "title": "「珍品五個」事件発覚　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css",
+  "../include/include.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\"></a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "c20"
+   },
+   "html": "\n<a href=\"../index.html\">－ クリック２０世紀 －</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1921.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a> ／ <a href=\"../p/01a.html\">人物</a> ／ <a href=\"../text/01a.html\">書籍</a> ／ 他"
+  },
+  {
+   "type": "title",
+   "html": "「珍品五個」事件発覚"
+  },
+  {
+   "type": "title2",
+   "html": "1921/03/15"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1911.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1920.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1921.html\">１９２１</a> &gt;&gt;&gt; <a href=\"../20c/1922.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1931.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "与党の逆襲！　<a href=\"../p/ktakaaki.html\">野党総裁</a>が船成金から５万円もらって、書いたお礼状、発覚。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1916/10/10　　<a href=\"../1916/10kense.html\">\n憲政会結成</a>　（立憲同志会など３党合同／総裁：<a href=\"../p/ktakaaki.html\">加藤高明</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/09/29　　<a href=\"../1918/hara_1.html\">\n原内閣成立</a>　（首相：<a href=\"../p/htakasi.html\">原敬</a>）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1920/05/20　　<a href\"..=\"\" 19.html\"=\"\">\n総選挙[14]　（政友会278、憲政会110、国民党29、他47）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/01/31　　<a href=\"../1921/01mante.html\">\n満鉄疑獄事件発覚</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/03/15　　<a 1921=\"\" href\"..=\"\" 03cinpi.html\"=\"\">\n「珍品五個」事件発覚</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/11/04　　<a href=\"../1921/11harax.html\">\n原首相刺殺事件</a>　（東京駅／犯人：中岡艮一）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1921/11/25　　<a href=\"../1921/11sessy.html\">\n皇太子摂政就任</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1923/09/01　　<a href=\"../1923/09sinsa.html\">\n関東大震災</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/01/10　　<a href=\"../1924/01goke2.html\">\n護憲運動②開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1924/06/11　　<a href=\"../1924/katob_1.html\">\n加藤（高）内閣（護憲三派内閣）成立</a>　（首相：<a href=\"../p/ktakaaki.html\">加藤高明</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "\n<div class=\"pt_h\">～　あああ　～</div>\n<div class=\"i1\">あああ</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div><span class=\"m_b\">引用</span>不明朗な金をもらっていたのは政友会だけではなかった。\n憲政会でも総裁の<a href=\"../p/ktakaaki.html\">加藤</a>が船成金の内田信也から五万円の寄付を受け、\n「珍品五個領収致し候」という領収の書状を出していたことが明るみに出た。\n政友会は、<a href=\"../1921/01mante.html\">満鉄事件</a>で攻撃された報復として、この五個は内田が<a href=\"../p/ktakaaki.html\">加藤</a>に普選運動をやめるのを条件とした贈賄であると主張した。\n翌十年三月十五日、政友会幹事長広岡宇一郎は、内田から預った例の書面を公開した。\nそこには普選運動をやめるということは書いてなかったが、「小生大嫌いの<a href=\"../p/oyukio.html\">尾崎</a>、<a href=\"../p/ssaburo.html\">島田</a>らの人物を後援致さず、\n時に貴下御直系の健全分子を補助するよう尽力致す所存」という文句が書いてあった。\n<a href=\"../p/oyukio.html\">尾崎</a>と<a href=\"../p/ssaburo.html\">島田</a>は普選運動の代表者であった。\n内田は<a href=\"../p/oyukio.html\">尾崎</a>らが神戸の造船所で職工を煽動するので困るといって<a href=\"../p/ktakaaki.html\">加藤</a>に相談に及んだのがきっかけである。\n<a href=\"../p/ktakaaki.html\">加藤</a>はこの文面には手が加えられていると弁解した。（最近でも千葉県知事の収賄問題で川上知事が似たような発言をしていた）\n真偽は泥仕合に終ったが、<a href=\"../p/ssaburo.html\">島田</a>は総裁頼むに足らずとして憲政会を脱退した。</div>\n<div class=\"txr\"><a href=\"../text/tm2saion.html\">豊田穣 「西園寺公望（下）」</a>\n　Ｐ．１４０<span class=\"book\"><a href=\"http://www.amazon.co.jp/exec/obidos/redirect?link_code=ur2&amp;tag=click20thcetu-22&amp;camp=247&amp;creative=1211&amp;path=external-search%3Fsearch-type=ss%26index=blended%26keyword=%25E8%25A5%25BF%25E5%259C%2592%25E5%25AF%25BA%25E5%2585%25AC%25E6%259C%259B%25E2%2580%2595%25E6%259C%2580%25E5%25BE%258C%25E3%2581%25AE%25E5%2585%2583%25E8%2580%2581%2520%2528%25E4%25B8%258B%25E5%25B7%25BB%2529%2520\" target=\"_blank\">この本を入手</a><img src=\"http://www.assoc-amazon.jp/e/ir?t=click20thcetu-22&amp;l=ur2&amp;o=9\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\"></span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:taro@c20.jp\">おたよりはこちら</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {},
+   "html": "\n<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"pub-3232598861909913\";\n/* 468x15, 作成済み 08/10/23 */\ngoogle_ad_slot = \"9077774385\";\ngoogle_ad_width = 468;\ngoogle_ad_height = 15;\n//-->\n</script>\n<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1921.html\">１９２１年</a>\n ＞ <a href=\"#h\">「珍品五個」事件発覚</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

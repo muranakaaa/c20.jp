@@ -1,0 +1,489 @@
+{
+ "path": "20c/1918.html",
+ "type": "year",
+ "title": "１９１８年　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../a.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <span class=\"now\">年表</span> ＞ 事項 ＞ 詳細　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "１９１８年"
+  },
+  {
+   "type": "title2",
+   "html": "大正７年"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"1908.html\">１０年前</a> &gt;&gt;&gt; <a href=\"1917.html\">前年</a> &gt;&gt;&gt; <span class=\"now\">１９１８</span> &gt;&gt;&gt; <a href=\"1919.html\">翌年</a> &gt;&gt;&gt; <a href=\"1928.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "<a href=\"#s4\">なっちょらん　　買占め　　平民宰相</a>",
+    "<a href=\"../1916/tera_1.html\">寺内</a> → <a href=\"../1918/hara_1.html\">原内閣</a>"
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"1917.html#s4\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/01/01　　<a href=\"../1918/01akaba.html\">\n赤バイ登場</a>　（交通事故増加に対処／1936 「白バイ」に）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/01/01　　<a href=\"../1918/01uraji.html\">\nイギリス、珍田駐英大使にウラジオストック共同出兵を提案</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/01/08　　<a href=\"../1918/01wil14.html\">\nウイルソン（米）大統領、１４か条宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/01/23　　<a href\"..=\"\" 19.html\"=\"\">\nＪＴＢ、東京スキー倶楽部結成　（→スキー普及）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/03/03　　<a href\"..=\"\" 19.html\"=\"\">\nブレストリトフスク条約調印　（ソビエト政府、独墺と講和）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/03/16　　<a href\"..=\"\" 19.html\"=\"\">\n</a><a href=\"../p/atakeo.html\">有島武郎</a>「生れ出づる悩み」連載開始　（東京日日・大阪毎日新聞）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/04/05　　<a href\"..=\"\" 19.html\"=\"\">\n日英両軍、ウラジオストックに上陸開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/04/30　　<a href\"..=\"\" 19.html\"=\"\">\n東京女子大学開校　（学長：新渡戸稲造）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/05/02　　<a href\"..=\"\" 19.html\"=\"\">\n</a><a href=\"../p/aryunosu.html\">芥川龍之介</a>「地獄変」連載開始　（東京日日・大阪毎日新聞）"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/05/26　　<a href\"..=\"\" 19.html\"=\"\">\n宝塚少女歌劇、東京初公演　（帝劇／～05/30）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/06/17　　<a href\"..=\"\" 19.html\"=\"\">\n鈴木商店、帝国人造絹糸㈱を設立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/06/21　　<a href\"..=\"\" 19.html\"=\"\">\nロイド・ジョージ（英）首相、珍田駐英大使にシベリア出兵を要請</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s4\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/07/01　　<a href=\"../1918/07akait.html\">\n雑誌「赤い鳥」創刊</a>　（主宰：鈴木三重吉）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/07/08　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ、チェコ軍救援のためウラジオストック日米共同出兵を提案</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/07/17　　<a href\"..=\"\" 19.html\"=\"\">\n政府、ウラジオストック出兵同意をアメリカに回答　（兵力制限は拒否）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "d",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/07/17　　<a href\"..=\"\" 19.html\"=\"\"></a><a href=\"../p/nikolai2.html\">\nニコライ２世</a>没"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/07/23　　<a href\"..=\"\" 19.html\"=\"\">\n米騒動　（富山県下新川郡魚津町）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/07/31　　<a href\"..=\"\" 19.html\"=\"\">\n東京米穀取引所立会停止　（米価大暴騰のため）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/08/02　　<a href=\"../1918/08siber.html\">\nシベリア出兵宣言</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/08/03　　<a href=\"../1918/08komes.html\">\n米騒動　（富山県中新川郡西水橋町→全国に波及）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/08/14　　<a href\"..=\"\" 19.html\"=\"\">\n水野内相、米騒動に関する記事の差止めを命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/08/25　　<a href\"..=\"\" 19.html\"=\"\">\n白虹事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/08/30　　<a href\"..=\"\" 19.html\"=\"\">\nレーニン暗殺未遂事件</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/09/21　　<a href=\"../1918/tera_9.html\">\n寺内内閣総辞職</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/09/21　　<a href\"..=\"\" 19.html\"=\"\">\n西園寺公望に組閣命令　（09/25 辞退）</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/09/27　　<a href\"..=\"\" 19.html\"=\"\">\n原敬（政友会総裁）に組閣命令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "g",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/09/29　　<a href=\"../1918/hara_1.html\">\n原内閣成立</a>　（首相：<a href=\"../p/htakasi.html\">原敬</a>）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "base_break",
+   "cls": "base"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "move"
+   },
+   "html": "<a name=\"s4\"></a>\n<a href=\"#s4\">＝</a><a href=\"#s3\">△</a><a href=\"#h\">◎</a><a href=\"1919.html#s1\">▽</a><a href=\"#s4\">＝</a>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/10/01　　<a href\"..=\"\" 19.html\"=\"\">\n森永ミルクチョコレート発売</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/11/03　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ・キール軍港の水兵反乱</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/11/09　　<a href=\"../1918/11d_kak.html\">\nドイツ革命</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/11/10　　<a href\"..=\"\" 19.html\"=\"\">\n皇帝ヴィルヘルム２世、オランダ亡命</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/11/11　　<a href=\"../1918/11taise.html\">\n第一次世界大戦終結</a>"
+      }
+     ]
+    },
+    {
+     "cls": "s",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/11/14　　<a href=\"../1918/11atara.html\">\n武者小路実篤、宮崎県木城村に「新しき村」建設</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/11/16　　<a href\"..=\"\" 19.html\"=\"\">\nアメリカ、出兵数・シベリア鉄道独占などについて日本政府に抗議</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/11/23　　<a href=\"../1918/11toron.html\">\n吉野作造、浪人会と立会討論会</a>　（学生ら、<a href=\"../p/ysakuzo.html\">吉野</a>を応援）"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1918/12/23　　<a href\"..=\"\" 19.html\"=\"\">\n吉野作造ら、黎明会結成</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "data"
+   },
+   "html": "\n<tbody><tr><td class=\"data1\">内閣</td><td class=\"data2\"><a href=\"../1916/tera_1.html\">寺内</a> → <a href=\"../1918/hara_1.html\">原内閣</a></td></tr>\n<tr><td class=\"data1\">流行語</td><td class=\"data2\">なっちょらん　　買占め　　平民宰相</td></tr>\n<tr><td class=\"data1\">書籍</td><td class=\"data2\">「赤い鳥」　「生まれ出づる悩み」　「高瀬舟」</td></tr>\n<tr><td class=\"data1\">映画</td><td class=\"data2\">「生ける屍」　「金色夜叉」</td></tr>\n<tr><td class=\"data1\">放送</td><td class=\"data2\">―</td></tr>\n<tr><td class=\"data1\">流行歌</td><td class=\"data2\">浜辺の歌</td></tr>\n</tbody>"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"#h\">１９１８年</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}

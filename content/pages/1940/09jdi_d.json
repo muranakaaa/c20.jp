@@ -1,0 +1,293 @@
+{
+ "path": "1940/09jdi_d.html",
+ "type": "article",
+ "title": "日独伊三国軍事同盟調印　／ クリック ２０世紀",
+ "description": "●世界と日本の近現代史を年表に再現。人物紹介も充実。●年表の2000を超える項目は史実へのインデックスでもある。●歴史は足跡。見つめると人間が、ドラマが、そして未来が見えてくる。  ・・・ Good luck !",
+ "css": [
+  "../all.css",
+  "../b.css"
+ ],
+ "baseClass": "base",
+ "blocks": [
+  {
+   "type": "edit_bar",
+   "kind": "e_bar",
+   "html": "<a name=\"h\">□□□</a>"
+  },
+  {
+   "type": "navi",
+   "html": "\n<a href=\"../index.html\">目次</a> ＞ <a href=\"../20c/1940.html\">年表</a> ＞ <span class=\"now\">事項</span> ＞ <a href~.html\"=\"\">詳細</a>　／　他　　　<a href=\"javascript:history.back()\"><b>&lt;&lt;&lt;&lt;</b></a>"
+  },
+  {
+   "type": "title",
+   "html": "日独伊三国軍事同盟調印"
+  },
+  {
+   "type": "title2",
+   "html": "1940/09/27"
+  },
+  {
+   "type": "navi2",
+   "html": "\n<a href=\"../20c/1930.html\">１０年前</a> &gt;&gt;&gt; <a href=\"../20c/1939.html\">前年</a> &gt;&gt;&gt; <a href=\"../20c/1940.html\">１９４０</a> &gt;&gt;&gt; <a href=\"../20c/1941.html\">翌年</a> &gt;&gt;&gt; <a href=\"../20c/1950.html\">１０年後</a>"
+  },
+  {
+   "type": "headline",
+   "cells": [
+    "アメリカを敵とみる軍事同盟にベルリンで調印、<a href=\"../p/hitler_a.html\">ヒトラー</a>、<a href=\"../p/mussol_b.html\">ムッソリーニ</a>と固く手をにぎった。"
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "table",
+   "attrs": {
+    "class": "lt"
+   },
+   "html": "<tbody><tr><td class=\"lt\"><a href\".html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td><td class=\"lt\"><a href.html\"=\"\">　</a></td></tr></tbody>"
+  },
+  {
+   "type": "timeline",
+   "rows": [
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1936/11/25　　<a href=\"../1936/11jd_bo.html\">\n日独防共協定調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1937/11/06　　<a href\"..=\"\" 19.html\"=\"\">\n日独伊防共協定成立</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1939/01/06　　<a href\"..=\"\" 19.html\"=\"\">\nドイツ外相、３国同盟を日本政府に提案</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1939/08/23　　<a href=\"../1939/08ds_jy.html\">\n独ソ不可侵条約締結</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1939/08/25　　<a href=\"../1939/08uciki.html\">\n３国同盟交渉打切りを閣議決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1939/08/28　　<a href=\"../1939/hira_9.html\">\n平沼内閣総辞職</a>　（欧州の天地は複雑怪奇）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/05/10　　<a href=\"../1940/05seibu.html\">\nドイツ軍、西部戦線に総攻撃開始</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/05/27　　<a href=\"../1940/05dunke.html\">\nイギリス軍、ダンケルク撤退開始</a>　（06/04 撤退完了）"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/06/22　　<a href=\"../1940/06f_kof.html\">\nフランス（ペタン政府）降伏</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/07/27　　<a href\"..=\"\" 19.html\"=\"\">\n大本営政府連絡会議、「南進」「枢軸強化」を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/09/09　　<a href=\"../1940/09matuo.html\">\n松岡・スターマー（ドイツ特使）会談</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/09/19　　<a href=\"../1940/09goz19.html\">\n御前会議、日独伊三国軍事同盟締結を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/09/23　　<a href=\"../1940/09futu1.html\">\n北部仏印進駐</a>"
+      }
+     ]
+    },
+    {
+     "cls": "x",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/09/27　　<a 1940=\"\" href\"..=\"\" 09jdi_d.html\"=\"\">\n日独伊三国軍事同盟調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/10/12　　<a href=\"../1940/10asika.html\">\nヒトラー、英本土上陸作戦（あしか作戦）中止を決定</a>"
+      }
+     ]
+    },
+    {
+     "cls": "n",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1940/12/18　　<a href=\"../1940/12barba.html\">\nヒトラー、ソ連侵攻作戦（バルバロッサ作戦）準備を指令</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/04/13　　<a href=\"../1941/04js_cy.html\">\n日ソ中立条約調印</a>"
+      }
+     ]
+    },
+    {
+     "cls": "b",
+     "cells": [
+      {
+       "id": "l",
+       "cls": null,
+       "html": "1941/06/22　　<a href=\"../1941/06ds_ka.html\">\n独ソ戦開始</a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s1\"></a>\n<a href=\"#s1\">＝</a><a href=\"#h\">△</a><a href=\"#h\">◎</a><a href=\"#s2\">▽</a><a href=\"#s1\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "pt"
+   },
+   "html": "\n<div class=\"pt_h\">～　ドイツのイメージ　（1940/09）　～</div>\n<div class=\"c\">強い／必ず勝つ／すぐに勝つ／親切／気前がいい </div>\n<div class=\"c\">→　“バスに乗り遅れるな”　（日独伊三国軍事同盟締結）</div>\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "hidden"
+   },
+   "html": "<a name=\"s2\"></a>\n<a href=\"#s2\">＝</a><a href=\"#s1\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s2\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx_sw"
+   },
+   "html": "\n<span class=\"m_v\">taro's トーク</span>\nああああああ\n"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "off"
+   },
+   "html": "<a name=\"s3\"></a>\n<a href=\"#s3\">＝</a><a href=\"#s2\">△</a><a href=\"#h\">◎</a><a href=\"#s3\">▽</a><a href=\"#s3\">＝</a>"
+  },
+  {
+   "type": "raw",
+   "tag": "div",
+   "attrs": {
+    "class": "tx"
+   },
+   "html": "\n<div>一九四〇年夏のドイツは、イギリス本土へ連日の爆撃を加えて制空権を奪い、イギリスを屈服させようとした。\nしかし、レーダーの開発配備を世界でただ一国とげていたイギリスは空軍によるしぶとい効果的な守戦を展開した。\n軍需生産基地からロンドンへ中心目標を切り換える<a href=\"../p/hitler_a.html\">ヒトラー</a>自身の作戦上の誤りもあって、\n秋の声を聞くころには、ドイツがイギリス本土上空の戦に敗れたことは否定できない事実となっていた。\nドイツの輝ける時は一九四〇年六月、<a href=\"../1940/06f_kof.html\">フランスを屈服させた</a>ころに終わっており、\n夏を分水嶺として挫折と転落の局面がしのびよっていた。</div>\n<div>アメリカのルーズベルト政権は、陸軍戦争計画課長Ｇ・ストロングを長とするミッションをヨーロッパに派遣して現地調査を行い、\n九月はじめにその報告を受けてドイツの凋落の始まりを認識していた。</div>\n<div>ところが、日本陸軍は多くの軍人をヨーロッパに駐在させながら、\n親独主義に毒されてドイツの行き詰まりを把握できず、<a href=\"../p/myosuke.html\">松岡外相</a>も同じくドイツの電撃戦の成功という残像に支配されて、\n共同幻想に陥っていた。</div>\n<div><a href=\"../p/myosuke.html\">松岡外相</a>は、ドイツが第二次大戦の中で転落を開始した瞬間に、依然ドイツの対英勝利が近いと信じて、\n九月二十七日に三国同盟を結んだのである。\nそれは、いわば「滅びゆく者との抱擁」であり「死の接吻」ともいうべき悲劇的決断であった。</div>\n<div class=\"r\"><span class=\"f9\"><a href=\"../text/im_kin06.html\">五百旗頭真 「日本の近代（６）」</a>\n　Ｐ．４６</span></div>\n"
+  },
+  {
+   "type": "cyu",
+   "html": "※　「クリック２０世紀」では、引用部分を除いて、固有名詞などの表記を極力統一するよう努めています。\n"
+  },
+  {
+   "type": "taro",
+   "html": "<a href=\"http://www.c20.jp/\">http://www.c20.jp/</a><br><a href=\"mailto:uh@usleaf2001.com\">お便り ドシドシ</a>"
+  },
+  {
+   "type": "fnavi",
+   "html": "\n<a href=\"../index.html\">クリック２０世紀 トップ</a>\n ＞ <a href=\"../20c/1940.html\">１９４０年</a>\n ＞ <a href=\"#h\">日独伊三国軍事同盟調印</a>\n　　<span class=\"fmark\"><a href=\"#h\">□◎□</a></span>"
+  }
+ ]
+}
