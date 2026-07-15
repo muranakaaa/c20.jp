@@ -1,0 +1,53 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+td.menu{
+	vertical-align: middle;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+
+td.menu2{
+	vertical-align: middle;
+	padding-top: 10px;
+	padding-bottom: 15px;
+}
+td.menu3{
+	vertical-align: middle;
+	padding-top: 15px;
+	padding-bottom: 5px;
+}
+
+td.right{
+	height: 55pt;
+}
+
+.tr-bgcolor {
+	font-size: 12px;
+	background-color: #ffffff;
+	border-bottom-width: 4px;
+	border-bottom-style: solid;
+	border-bottom-color: #ffffff;
+	color: #ffffff;
+}
+
+h1.header{
+	font-size: 9px;
+	font-weight: bold;
+	color: #FFFFFF;
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+
+}
+
+td.footer{
+	font-size: 8px;
+	color: #666666;
+	font-family: "ＭＳ Ｐ明朝", "細明朝体";
+	line-height: 15px;
+}

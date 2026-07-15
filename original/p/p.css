@@ -1,0 +1,126 @@
+/*　ヘッドデータの設定　*/
+
+.name{
+color:#039;
+font-size:11pt;
+font-weight:bold;
+margin:0px 0px 10px 10px;
+}
+.prof{
+color:#039;
+font-size:10pt;
+margin:10px 0px 0px 10px;
+}
+.prof a:link,.prof a:visited{
+color:#039;
+}
+.prof a:hover{
+color:#fff;
+font-weight:bold;
+text-decoration:none;
+background-color:#039;
+}
+.prof a:active{
+color:#039;
+font-weight:normal;
+text-decoration:none;
+background-color:#fff;
+}
+
+/*　略歴データの設定　*/
+
+td.hist{
+color:#039;
+font-size:10.5pt;
+padding:7px 0px 7px 2px;
+border-bottom:1px solid #039;
+}
+.hist a:link,.hist a:visited{
+color:#039;
+}
+.hist a:hover{
+color:#fff;
+text-decoration:none;
+background-color:#039;
+}
+.hist a:active{
+color:#039;
+text-decoration:none;
+background-color:#fff;
+}
+
+/*　リンクテーブルの設定　*/
+
+table.lt{
+margin:8px 1px 0px 12px;
+border-width:1px 2px 2px 1px;
+border-color:#039;
+border-style:solid;
+}
+
+/*　エピソード、語録の設定　*/
+
+div.ep1{
+color:#009;
+font-size:10.5pt;
+line-height:160%;
+letter-spacing:1px;
+margin:15px 0px 0px 0px;
+padding:12px 15px 10px 17px;
+border:5px ridge #f3f;
+}
+div.ep{
+color:#009;
+font-size:10.5pt;
+line-height:160%;
+letter-spacing:1px;
+margin:0px 0px 0px 0px;
+padding:10px 15px 10px 15px;
+border:3px ridge #36f;
+}
+div.cm{
+color:#300;
+font-size:10.5pt;
+line-height:160%;
+letter-spacing:1px;
+margin:0px 0px 0px 0px;
+padding:10px 15px 10px 15px;
+border:3px ridge #993;
+}
+.ep1 a:link,.ep1 a:visited,
+.ep a:link,.ep a:visited{
+color:#009;
+text-decoration:underline;
+}
+.ep1 a:hover,.ep a:hover{
+color:#fff;
+text-decoration:none;
+background-color:#009;
+}
+.ep1 a:active,.ep a:active{
+color:#009;
+text-decoration:underline;
+background-color:#fff;
+}
+
+.cm a:link,.cm a:visited{
+color:#300;
+text-decoration:underline;
+}
+.cm a:hover{
+color:#fff;
+text-decoration:none;
+background-color:#300;
+}
+.cm a:active{
+color:#300;
+text-decoration:underline;
+background-color:#fff;
+}
+
+/*　テキストスペースの設定　*/
+
+.tx{
+padding:15px 15px 8px 15px;
+}
+

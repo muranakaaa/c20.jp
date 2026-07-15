@@ -1,0 +1,157 @@
+/*　ナビゲーションの調整　*/
+
+.navi2{
+color:#669;
+margin-bottom:0px;
+}
+.navi2 a:link,.navi2 a:visited,.navi2 a:hover,.navi2 a:active{
+color:#669;
+}
+
+
+/*　フッターナビゲーションの設定　*/
+
+div.fnavi{
+margin-bottom:90px;
+}
+
+/*　ムーブの調整　*/
+
+.move{
+margin:25px 0px 0px 0px;
+}
+.move1{
+color:#ddd;
+font-size:11pt;
+text-align:right;
+margin:5px 0px 0px 0px;
+}
+.move1 a:link,.move1 a:visited,.move1 a:hover,.move1 a:active{
+color:#ddd;
+text-decoration:none;
+}
+
+/*　年表の調整　*/
+
+table.line{
+margin:10px 0px 12px 0px;
+}
+
+/*　イントロの設定　*/
+
+.intro{
+color:#009;
+font-size:10pt;
+line-height:160%;
+letter-spacing:1px;
+margin-bottom:2px;
+padding:8px 0px 20px 0px;
+}
+.intro a:link,.intro a:visited{
+color:#009;
+text-decoration:underline;
+}
+.intro a:hover{
+color:#fff;
+text-decoration:none;
+background-color:#009;
+}
+.intro a:active{
+color:#009;
+text-decoration:underline;
+background-color:#fff;
+}
+
+/*　リンクタイトルの設定　*/
+
+.tit{
+color:#009;
+font-size:10.5pt;
+line-height:160%;
+letter-spacing:1px;
+margin:5px 0px 5px 15px;
+}
+.tit a:link,.tit a:visited{
+color:#009;
+text-decoration:underline;
+}
+.tit a:hover{
+color:#fff;
+text-decoration:none;
+background-color:#009;
+}
+.tit a:active{
+color:#009;
+text-decoration:underline;
+background-color:#fff;
+}
+
+/*　地文の設定　*/
+
+.t_tx{
+color:#009;
+font-size:10.5pt;
+line-height:170%;
+letter-spacing:1px;
+margin:5px 0px 2px 0px;
+}
+.t_tx a:link,.t_tx a:visited{
+color:#009;
+text-decoration:underline;
+}
+.t_tx a:hover{
+color:#fff;
+text-decoration:none;
+background-color:#009;
+}
+.t_tx a:active{
+color:#009;
+text-decoration:underline;
+background-color:#fff;
+}
+
+/*　テーブルの設定　*/
+
+table.tb{
+color:#039;
+font-size:10pt;
+table-layout:fixed;
+border:5px outset #eee;
+background-color:#fff;
+margin:0px 0px 0px 0px;
+}
+td.tb{
+text-align:center;
+border-width:1px;
+border-style:solid;
+border-color:#ddd #99c #99c #ddd;
+background-color:#fff;
+padding:2px 0px 2px 0px;
+}
+.tb a:link,.tb a:visited{
+color:#039;
+text-decoration:none;
+background-color:#fff;
+width:100%;
+padding:2px 0px 2px 0px;
+}
+.tb a:hover{
+color:#fff;
+text-decoration:none;
+background-color:#039;
+width:100%;
+}
+.tb a:active{
+color:#039;
+text-decoration:none;
+background-color:#fff;
+}
+td.tb2{
+color:#fff;
+text-align:center;
+border-width:1px;
+border-style:solid;
+border-color:#ddd #99c #99c #eee;
+background-color:#888;
+padding:2px 0px 2px 0px;
+}

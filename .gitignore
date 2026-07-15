@@ -1,0 +1,6 @@
+.wrangler/
+dist/
+download.log
+mise.local.toml
+node_modules/
+nohup.out

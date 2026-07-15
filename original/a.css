@@ -1,0 +1,89 @@
+/*　フッターナビゲーションの設定　*/
+
+div.fnavi{
+margin-bottom:90px;
+}
+
+/*　ムーブの調整　*/
+
+.move{
+margin:0px 0px 0px 0px;
+}
+
+/*　タイトル部分の設定　*/
+
+div.title{
+font-size:29px;
+margin-top:3px;
+padding-bottom:1px;
+}
+
+/*　ヘッドラインの設定　*/
+
+table.headline{
+table-layout:fixed;
+border:5px outset #99f;
+}
+td.headline{
+color:#03c;
+font-size:10.5pt;
+text-align:center;
+padding-top:3px;
+padding-bottom:2px;
+border:1px solid #03c;
+}
+.headline a:link,.headline a:visited{
+color:#03c;
+text-decoration:underline;
+}
+.headline a:hover{
+color:#fff;
+text-decoration:none;
+background-color:#03c;
+}
+.headline a:active{
+color:#03c;
+text-decoration:underline;
+background-color:#fff;
+}
+
+/*　データボックスの設定　*/
+
+table.data{
+table-layout:fixed;
+color:#039;
+font-size:10.5pt;
+margin-top:45px;
+margin-bottom:10px;
+border:4px outset #99f;
+}
+td.data1{
+width:15%;
+text-align:center;
+padding-top:5px;
+padding-bottom:4px;
+border:1px solid #99f;
+}
+td.data2{
+padding-top:5px;
+padding-bottom:4px;
+padding-left:20px;
+border:1px solid #99f;
+}
+.data2 a:link,.data2 a:visited{
+color:#039;
+text-decoration:underline;
+}
+.data2 a:hover{
+color:#fff;
+text-decoration:none;
+background-color:#039;
+}
+.data2 a:active{
+color:#039;
+text-decoration:underline;
+background-color:#fff;
+}
+
+
+

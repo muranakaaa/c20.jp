@@ -1,0 +1,117 @@
+/*　ヘッドラインの設定　*/
+
+table.headline{
+table-layout:fixed;
+border:6px outset #99f;
+}
+td.headline{
+color:#03c;
+font-size:10.5pt;
+font-weight:normal;
+text-align:center;
+padding-top:15px;
+padding-bottom:14px;
+border:1px solid #99c;
+margin-bottom:1px;
+}
+.headline a:link,.headline a:visited{
+color:#03c;
+text-decoration:underline;
+}
+.headline a:hover{
+color:#fff;
+text-decoration:none;
+background-color:#009;
+}
+.headline a:active{
+color:#03c;
+text-decoration:underline;
+background-color:#fff;
+}
+
+/*　リンクテーブルの設定　*/
+
+table.lt{
+margin:2px 4px 2px 4px;
+border:none;
+}
+td.lt{
+color:#ccc;
+}
+.lt a:link,.lt a:visited{
+color:#ccc;
+}
+.lt a:hover{
+color:#fff;
+font-weight:normal;
+background-color:#039;
+}
+.lt a:active{
+color:#ccc;
+background-color:#fff;
+}
+
+/*　年表部分の設定　*/
+
+table.line{
+border-top:4px double #039;
+border-bottom:2px solid #039;
+}
+td#l,td.l{
+border-bottom:1px solid #00c;
+}
+
+/*　年表のカラー設定の設定　*/
+
+tr.x{
+color:#fff;
+background-color:#66c;
+}
+tr.x td#l a:link,tr.x td#l a:visited{
+color:#fff;
+text-decoration:underline;
+}
+.b{background-color:#cff}
+.n{background-color:#fff}
+.s{background-color:#ffc}
+.d{background-color:#eee}
+.g{background-color:#fcf}
+
+/*　ポイントの設定　*/
+
+.pt{
+color:#009;
+font-size:10.5pt;
+line-height:160%;
+letter-spacing:1px;
+border:4px double #039;
+margin-bottom:2px;
+padding:9px 18px 12px 18px;
+}
+.pt_h{
+font-size:10.5pt;
+font-weight:normal;
+text-align:center;
+padding-bottom:5px;
+}
+.pt a:link,.pt a:visited{
+color:#009;
+text-decoration:underline;
+}
+.pt a:hover{
+color:#fff;
+text-decoration:none;
+background-color:#009;
+}
+.pt a:active{
+color:#009;
+text-decoration:underline;
+background-color:#fff;
+}
+
+/*　テキストスペースの設定　*/
+
+.tx{
+padding:15px 15px 8px 15px;
+}
+

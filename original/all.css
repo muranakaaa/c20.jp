@@ -1,0 +1,347 @@
+/*　編集モードの設定　*/
+
+/*　block or none　*/
+
+div.e_bar,
+div.tx_sw{
+display:block;
+display:none;
+}
+div.e_data{
+display:none;
+}
+
+/*　編集バーの設定　*/
+
+div.e_bar{
+color:#039;
+border:1px solid #f00;
+background-color:#ffc;
+margin-bottom:3px;
+font-size:9pt;
+text-align:center;
+}
+.e_bar a:link,.e_bar a:visited,.e_bar a:hover,.e_bar a:active{
+color:#039;
+text-decoration:underline;
+}
+
+/*　表示の設定　*/
+
+.off{
+display:none;
+}
+.hidden{
+visibility:hidden;
+}
+
+/*　全体の設定　*/
+
+table.base,table.base2{
+table-layout:fixed;
+border:none;
+margin-top:0px;
+width:620px;
+}
+table.base2{
+width:600px;
+}
+
+/*　表記の設定　*/
+
+.f8{font-size:8pt}
+.f9{font-size:9pt}
+.f10{font-size:10pt}
+.f10h{font-size:10.5pt}
+.f11{font-size:11pt}
+.f12{font-size:12pt}
+.f13{font-size:13pt}
+.f14{font-size:14pt}
+.f15{font-size:15pt}
+.f16{font-size:16pt}
+.f17{font-size:17pt}
+
+.c{text-align:center}
+.r{text-align:right}
+.l{text-align:left}
+
+.i1{padding-left:10px}
+.i2{padding-left:20px}
+.i3{padding-left:30px}
+.i4{padding-left:40px}
+.i5{padding-left:50px}
+.i6{padding-left:60px}
+.i7{padding-left:70px}
+.i10{padding-left:100px}
+.i20{padding-left:200px}
+.i25{padding-left:250px}
+.i30{padding-left:300px}
+
+.space{color:#fff}
+
+/*　タイトル部分の設定　*/
+
+div.title{
+color:#039;
+font-size:15pt;
+font-weight:bold;
+margin-top:12px;
+padding-bottom:2px;
+border-bottom:3px solid #039;
+}
+div.title2{
+color:#039;
+font-size:11pt;
+text-align:right;
+padding-top:3px;
+}
+
+/*　ナビゲーションの設定　*/
+
+div.navi{
+color:#ccc;
+font-size:9pt;
+text-align:right;
+}
+.navi a:link,.navi a:visited,.navi a:hover,.navi a:active{
+color:#ccc;
+text-decoration:underline;
+}
+.now{
+color:#fff;
+background-color:#66c;
+}
+.navi2{
+color:#03c;
+font-size:9pt;
+text-align:center;
+margin-bottom:15px;
+}
+.navi2 a:link,.navi2 a:visited,.navi2 a:hover,.navi2 a:active{
+color:#03c;
+text-decoration:underline;
+}
+
+/*　フッターナビゲーションの設定　*/
+
+div.fnavi{
+color:#009;
+font-size:9pt;
+text-align:right;
+margin-bottom:30px;
+padding:8px 20px 8px 0px;
+border:1px solid #009;
+}
+.fnavi a:link,.fnavi a:visited,.fnavi a:hover,.fnavi a:active{
+color:#009;
+text-decoration:underline;
+}
+.fmark{
+color:#ccc;
+}
+.fmark a:link,.fmark a:visited,.fmark a:hover,.fmark a:active{
+color:#ccc;
+text-decoration:none;
+}
+.sp{
+margin-left:20px;
+margin-bottom:8px;
+text-align:left;
+}
+
+/*　ムーブの設定　*/
+
+.move{
+color:#ddd;
+font-size:11pt;
+text-align:right;
+margin:3px 0px 0px 0px;
+}
+.move a:link,.move a:visited,.move a:hover,.move a:active{
+color:#ddd;
+text-decoration:none;
+}
+
+/*　年表部分の設定　*/
+
+table.line{
+table-layout:fixed;
+border-top:4px double #03c;
+border-bottom:2px solid #03c;
+font-size:10.5pt;
+color:#009;
+letter-spacing:1px;
+margin:2px 0px 2px 0px;
+}
+td#l,td.l{
+border-bottom:1px solid #03f;
+padding:0px 0px 1px 5px;
+}
+td#l a:link,td#l a:visited{
+color:#009;
+text-decoration:underline;
+}
+td#l a:hover{
+color:#00c;
+font-weight:bold;
+text-decoration:none;
+}
+td#l a:active{
+color:#009;
+font-weight:normal;
+text-decoration:underline;
+}
+td.l a:link,td.l a:visited,td.l a:hover,td.l a:active{
+color:#009;
+text-decoration:none;
+}
+
+/*　年表のカラー設定の設定　*/
+
+.b{background-color:#cff}
+.n{background-color:#fff}
+.nz{background-color:#fff}
+.s{background-color:#ffc}
+.sz{background-color:#ffc}
+.d{background-color:#eee}
+.dz{background-color:#eee}
+.g{background-color:#fcf}
+
+/*　リンクテーブルの設定　*/
+
+table.lt{
+table-layout:fixed;
+background-color:#fff;
+}
+td.lt{
+color:#369;
+font-size:10pt;
+text-align:center;
+border-width:1px;
+border-style:solid;
+border-color:#ddd #99c #99c #eee;
+background-color:#fff;
+}
+.lt a:link,.lt a:visited{
+color:#369;
+text-decoration:none;
+background-color:#fff;
+width:100%;
+}
+.lt a:hover{
+color:#fff;
+font-weight:bold;
+text-decoration:none;
+background-color:#039;
+width:100%;
+}
+.lt a:active{
+color:#369;
+font-weight:normal;
+text-decoration:none;
+background-color:#fff;
+}
+
+/*　テキストスペースの設定　*/
+
+.tx,.tx_sw{
+color:#009;
+font-size:10.5pt;
+line-height:160%;
+letter-spacing:1px;
+border:1px solid #009;
+margin-bottom:2px;
+padding:10px 15px 10px 15px;
+}
+.tx_sw{
+border:1px solid #f00;
+background-color:#ffc;
+}
+.tx a:link,.tx a:visited,
+.tx_sw a:link,.tx_sw a:visited{
+color:#009;
+text-decoration:underline;
+}
+.tx a:hover,
+.tx_sw a:hover{
+color:#fff;
+text-decoration:none;
+background-color:#009;
+}
+.tx a:active,
+.tx_sw a:active{
+color:#009;
+text-decoration:underline;
+background-color:#fff;
+}
+.bar{
+letter-spacing:0px;
+}
+
+/*　ラベルマークの設定　*/
+
+.m_r,.m_b,.m_y,.m_g,.m_o,.m_v{
+color:#fff;
+font-size:10.5pt;
+padding:3px 4px 0px 5px;
+margin-right:15px;
+letter-spacing:0px;
+border:1px solid #000;
+}
+.m_r{
+background-color:#f09;
+}
+.m_b{
+background-color:#66c;
+}
+.m_y{
+background-color:#993;
+
+}
+.m_g{
+background-color:#393;
+}
+.m_o{
+background-color:#f60;
+}
+.m_v{
+background-color:#99c;
+}
+
+/*　編集データの設定　*/
+
+div.e_data{
+color:#039;
+line-height:140%;
+border:1px solid #f00;
+background-color:#ffc;
+margin-top:15px;
+font-size:9pt;
+text-align:center;
+}
+
+/*　表記説明の設定　*/
+
+div.cyu{
+color:#999;
+font-size:9pt;
+line-height:160%;
+letter-spacing:1px;
+margin:70px 15px 0px 15px;
+}
+
+/*　ご案内の設定　*/
+
+div.taro{
+color:#009;
+font-size:9pt;
+text-align:right;
+line-height:180%;
+letter-spacing:2px;
+margin:8px 0px 15px 0px;
+}
+.taro a:link,.taro a:visited,.taro a:hover,.taro a:active{
+color:#009;
+text-decoration:underline;
+}
+

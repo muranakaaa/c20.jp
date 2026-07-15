@@ -1,0 +1,114 @@
+/*　フッターナビゲーションの設定　*/
+
+div.fnavi{
+margin-bottom:340px;
+}
+
+/*　ムーブの調整　*/
+
+.move{
+margin:0px 0px 0px 0px;
+}
+
+/*　インデックスナビゲーションの設定　*/
+
+table.list,table.list_f{
+table-layout:fixed;
+margin:10px 0px 3px 0px;
+border:2px solid #66c;
+}
+table.list_f{
+margin:30px 0px 0px 0px;
+}
+td.list,td.list2{
+font-size:10pt;
+text-align:center;
+border-width:1px;
+border-style:solid;
+border-color:#ddd #66c #66c #eee;
+}
+td.list2{
+background-color:#ccf;
+}
+.list a:link,.list a:visited{
+color:#039;
+text-decoration:none;
+background-color:#fff;
+width:100%;
+}
+.list2 a:link,.list2 a:visited{
+color:#039;
+text-decoration:none;
+background-color:#ccf;
+width:100%;
+}
+.list a:hover,.list2 a:hover{
+color:#fff;
+font-weight:bold;
+text-decoration:none;
+background-color:#039;
+width:100%;
+}
+.list a:active{
+color:#039;
+font-weight:normal;
+text-decoration:none;
+background-color:#fff;
+}
+.list2 a:active{
+color:#039;
+font-weight:normal;
+text-decoration:none;
+background-color:#ccf;
+}
+
+/*　個人データの設定　*/
+
+.p0{
+color:#039;
+margin-right:12px;
+width:18px;
+text-align:center;
+padding-top:1px;
+border:1px solid #039;
+background-color:#ccf;
+}
+.p1{
+width:190px;
+}
+.p2{
+width:75px;
+}
+.p3{
+width:267px;
+}
+td#ll{
+color:#039;
+font-size:9pt;
+border-bottom:1px solid #03c;
+padding:1px 0px 3px 0px;
+}
+#ll a:link,#ll a:visited{
+color:#039;
+text-decoration:none;
+background-color:#fff;
+}
+#ll a:hover{
+color:#fff;
+font-weight:bold;
+text-decoration:none;
+background-color:#039;
+padding:0px 1px 0px 3px;
+}
+#ll a:active{
+color:#039;
+font-weight:normal;
+text-decoration:none;
+background-color:#fff;
+}
+
+/*　年表部分の設定　*/
+
+table.line{
+letter-spacing:0px;
+}
