@@ -54,6 +54,14 @@ export function relativizeInternalLinks(s: string): string {
   );
 }
 
+// 外部サイトへのリンクは別タブで開く（relativizeInternalLinks の後に実行するので、
+// 残る http(s) 絶対リンクはすべてサイト外。href の URL 自体は変えず属性だけ足す）
+export function openExternalLinksInNewTab(s: string): string {
+  return s.replaceAll(/<a (?<attrs>[^>]*href="https?:\/\/[^>]*)>/giu, (m, attrs: string) =>
+    /\btarget=/u.test(attrs) ? m : `<a ${attrs} target="_blank" rel="noopener">`,
+  );
+}
+
 // 配信用フラグメントへの全加工
 export function sanitizeFragment(s: string | null | undefined): string {
   if (!s) {
@@ -66,6 +74,7 @@ export function sanitizeFragment(s: string | null | undefined): string {
     maskAuthorEmails,
     markLayoutTables,
     relativizeInternalLinks,
+    openExternalLinksInNewTab,
   ];
   return steps.reduce((acc, step) => step(acc), s);
 }

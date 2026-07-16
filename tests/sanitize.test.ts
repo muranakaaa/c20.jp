@@ -3,6 +3,7 @@ import {
   markLayoutTables,
   maskAuthorEmails,
   normalizeBrokenAnchors,
+  openExternalLinksInNewTab,
   relativizeInternalLinks,
   sanitizeFragment,
   stripDeadEmbeds,
@@ -43,6 +44,19 @@ describe("sanitize", () => {
     expect(
       relativizeInternalLinks('<a href="http://www.c20.jp/1945/x.html">http://www.c20.jp/</a>'),
     ).toBe('<a href="/1945/x.html">http://www.c20.jp/</a>');
+  });
+
+  test("外部リンクは別タブで開き、内部リンクはそのまま", () => {
+    expect(openExternalLinksInNewTab('<a href="https://www.amazon.co.jp/x">本</a>')).toBe(
+      '<a href="https://www.amazon.co.jp/x" target="_blank" rel="noopener">本</a>',
+    );
+    // ルート相対化済みの内部リンクには付けない
+    expect(openExternalLinksInNewTab('<a href="/1945/x.html">年表</a>')).toBe(
+      '<a href="/1945/x.html">年表</a>',
+    );
+    // 既に target があるものは重複させない
+    const withTarget = '<a href="https://example.com" target="_blank">x</a>';
+    expect(openExternalLinksInNewTab(withTarget)).toBe(withTarget);
   });
 
   test("sanitizeFragment は全加工をまとめて適用する", () => {
