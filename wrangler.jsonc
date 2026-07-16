@@ -8,6 +8,11 @@
   },
   "main": "src/worker.ts",
   "minify": true,
+  // 独自ドメイン。wrangler が DNS レコードと証明書を自動発行する（apex を正とし www も受ける）
+  "routes": [
+    { "pattern": "c20jp.com", "custom_domain": true },
+    { "pattern": "www.c20jp.com", "custom_domain": true }
+  ],
   "assets": {
     "directory": "./dist",
     "binding": "ASSETS",
