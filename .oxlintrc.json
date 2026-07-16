@@ -22,7 +22,8 @@
     "no-await-expression-member": "off",
     "no-continue": "off",
     "no-script-url": "off",
-    "number-literal-case": "off"
+    "number-literal-case": "off",
+    "max-lines": "off"
   },
   "ignorePatterns": [
     "original",

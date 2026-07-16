@@ -30,6 +30,10 @@ text-decoration:underline;
 table.base,table.base2{
 width:100%;
 }
+/*　固定幅 table が画面をはみ出さないようにする　*/
+table{
+max-width:100%;
+}
 body{
 overflow-wrap:break-word;
 }

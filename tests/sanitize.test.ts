@@ -1,5 +1,6 @@
 import { describe, expect, test } from "bun:test";
 import {
+  isEmptyFragment,
   markLayoutTables,
   maskAuthorEmails,
   normalizeBrokenAnchors,
@@ -57,6 +58,12 @@ describe("sanitize", () => {
     // 既に target があるものは重複させない
     const withTarget = '<a href="https://example.com" target="_blank">x</a>';
     expect(openExternalLinksInNewTab(withTarget)).toBe(withTarget);
+  });
+
+  test("isEmptyFragment は可視テキストも画像も無い器を空と判定する", () => {
+    expect(isEmptyFragment("<tbody><tr><td></td><td>  </td></tr></tbody>")).toBe(true);
+    expect(isEmptyFragment("<tr><td>本文</td></tr>")).toBe(false);
+    expect(isEmptyFragment('<tr><td><img src="/x.jpg"></td></tr>')).toBe(false);
   });
 
   test("sanitizeFragment は全加工をまとめて適用する", () => {

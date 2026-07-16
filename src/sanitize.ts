@@ -31,6 +31,12 @@ export function stripDeadEmbeds(s: string): string {
     );
 }
 
+// タグを除いた可視テキストも画像も残らない、実質空のフラグメントか
+// （広告・検索を除去した後の空の table 殻などを描画段階で捨てるのに使う）
+export function isEmptyFragment(s: string): boolean {
+  return !/<img\b/iu.test(s) && s.replaceAll(/<[^>]*>/gu, "").trim() === "";
+}
+
 // 編集残骸の壊れリンク（href"…" 等）は再直列化でゴミ属性になるため、属性なしの <a> に正規化する
 // （原本でもリンクとして機能していないテキスト）
 export function normalizeBrokenAnchors(s: string): string {

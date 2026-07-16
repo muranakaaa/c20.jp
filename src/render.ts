@@ -4,7 +4,7 @@ import { createHash } from "node:crypto";
 import { readFileSync } from "node:fs";
 import { join } from "node:path";
 import { html, raw } from "hono/html";
-import { sanitizeFragment } from "./sanitize";
+import { isEmptyFragment, sanitizeFragment } from "./sanitize";
 import type { HtmlEscapedString } from "hono/utils/html";
 
 // Compat.css の内容ハッシュ。link に ?v= として付け、更新のたびに URL を変えてキャッシュを確実に更新する
@@ -91,6 +91,11 @@ function renderBlock(b: Block): HtmlEscapedString {
         return raw("");
       }
       const inner = sanitizeFragment(b.html);
+      // 広告・検索を除去した結果、中身が空になった table などの器は出力しない
+      // （固定幅の空殻がモバイルで横あふれを起こすため）
+      if (b.tag === "table" && isEmptyFragment(inner)) {
+        return raw("");
+      }
       if (VOID_TAGS.has(b.tag)) {
         return raw(`<${b.tag}${attrString(b.attrs)}>`);
       }
