@@ -23,6 +23,10 @@ font-family:"MFW-TBCGoStd-Regular",sans-serif;
 color:#039;
 text-decoration:underline;
 }
+/*　告知バーの改行。デスクトップは1行に流し、モバイルのみ「です。」の後で改行する　*/
+.nl-sp{
+display:none;
+}
 
 /*　モバイル対応（復元版で追加）　*/
 /*　デスクトップは原本の 620px 固定のまま。小さい画面だけ幅を可変にする　*/
@@ -40,5 +44,8 @@ overflow-wrap:break-word;
 }
 span.p1,span.t1{
 width:auto;
+}
+.nl-sp{
+display:inline;
 }
 }

@@ -305,7 +305,8 @@ export function renderPage(doc: PageDoc): HtmlEscapedString | Promise<HtmlEscape
       <body>
         <div class="mirror-note">
           本サイトは、閉鎖された「クリック２０世紀」（c20.jp、作者:
-          taroさん）をアーカイブから復元した非公式ミラーです。 運営:
+          taroさん）をアーカイブから復元した非公式ミラーです。<br class="nl-sp" />
+          運営:
           <a href="https://x.com/ayatakaa_chan" target="_blank" rel="noopener">@ayatakaa_chan</a
           >　ソース:
           <a href="https://github.com/muranakaaa/c20jp" target="_blank" rel="noopener">GitHub</a>
