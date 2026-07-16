@@ -1,37 +1,28 @@
-# c20.jp — クリック２０世紀 復元ミラー
+# CLAUDE.md
 
-閉鎖された「クリック２０世紀」（c20.jp）を Wayback Machine から復元した公開ミラー。構造化データ + Hono SSG 構成。詳細は README.md。
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+プロジェクトの概要・技術スタック・ディレクトリ構成・パイプラインは README.md を参照してください。このファイルには、コードを変更するうえで守るべき固有のルールだけを記載します。
 
 ## 不可侵の原則
 
-- `original/` と `content/` は Wayback 原本とその忠実な抽出物。手で編集しない。直すべきものがあるなら、それはパイプライン（tools/）か公開時加工（src/sanitize.ts）のバグ
-- 公開時の加工（スクリプト除去・mailto 剥がし・伏せ字・リンク相対化など）はすべて `src/sanitize.ts` に集約する。render や verify に加工ロジックを直書きしない
-- UI・本文は原本に忠実に保つ。SEO・セキュリティ・アクセシビリティなど「見た目に出ないメタデータ」だけ現代化してよい
-- 作者 taro さんへの連絡導線（mailto・生メールアドレス）を配信物に復活させない
+ミラーの忠実性と原作者への配慮を守るための絶対条件です。一部は設定（`.claude/settings.json` の deny ルール）でも機械的に禁止しています。
 
-## パイプライン
+- `original/` と `content/` は Wayback 原本とその忠実な抽出物です。手で編集しません。直すべきものがあれば、それはパイプライン（`tools/`）か公開時加工（`src/sanitize.ts`）のバグです
+- 公開時の加工（スクリプト・広告除去、mailto 剥がし、伏せ字、リンク相対化など）はすべて `src/sanitize.ts` に集約します。`render.ts` や `verify.ts` に加工ロジックを直書きしません
+- UI・本文は原本に忠実に保ちます。SEO・セキュリティ・アクセシビリティなど「見た目に出ないメタデータ」だけを現代化します
+- 原作者への連絡導線（mailto・生メールアドレス）を配信物に復活させません
 
-```
-bun run download     # Wayback → original/（再取得時のみ。0.6s間隔のレート制限あり）
-bun run postprocess  # original/ を UTF-8 化（冪等）
-bun run extract      # original/ → content/（1ページ=1 JSON のブロック列）
-bun run build        # content/ → dist/（+ sitemap。SITE_ORIGIN 設定時のみ canonical/JSON-LD/sitemap 出力）
-bun run verify       # 原本と dist/ の可視テキスト・リンク集合を全1,595ページ比較
-bun run ci           # typecheck + test + check（oxlint / oxfmt）
-```
+## 変更時の検証
 
-- render や sanitize を変更したら `bun run build && bun run verify` まで回す。verify が忠実性の唯一の証明
-- verify の既知の許容差分（KNOWN_TEXT_DIFF）を増やすときは、理由をコメントで残す
+- `render.ts` や `sanitize.ts` を変更したら `bun run build && bun run verify` まで回します。verify（原本と生成物を全ページ比較）が忠実性の唯一の証明です
+- oxfmt と oxlint が競合するルールは、フォーマッタ優先で `.oxlintrc.json` の rules で off にします
 
 ## デプロイ
 
-- 個人 Cloudflare アカウント専用。`CLOUDFLARE_ACCOUNT_ID` は git 管理外の `mise.local.toml` にあり、未設定なら deploy:guard が止める。ガードを迂回しない
-- 本番デプロイは main への push で GitHub Actions が行う。手元からは `bun run deploy`
+- デプロイ先の Cloudflare アカウント ID は git 管理外の `mise.local.toml`（`[env]` の `CLOUDFLARE_ACCOUNT_ID`）に置きます。未設定なら `deploy:guard` が止め、意図しないアカウントへの誤デプロイを防ぎます。ガードを迂回しません
+- サイト固有の値（`SITE_ORIGIN` / `GA_MEASUREMENT_ID` / `GSC_VERIFICATION`）は環境変数で注入します。CI では GitHub Variables、手元では `mise.toml` の `[env]` に置きます
 
 ## コミットメッセージ
 
-日本語1行・72字以内・種別/スコープ prefix 禁止・カッコ補足禁止・末尾句点なし。`.githooks/commit-msg` が機械的に強制する（`bun install` の prepare が `core.hooksPath` を設定）。
-
-## 開発環境
-
-bun（実行・テスト・パッケージ管理）+ mise（バージョン固定）+ tsgo（型チェック）+ oxc（lint/format）。oxfmt と oxlint が競合するルールはフォーマッタ優先で `.oxlintrc.json` で off にする。
+日本語 1 行・72字以内・種別/スコープ prefix 禁止・カッコ補足禁止・末尾句点なしです。`.githooks/commit-msg` が機械的に強制します。
