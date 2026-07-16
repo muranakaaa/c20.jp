@@ -5,6 +5,9 @@
   Content-Security-Policy: frame-ancestors 'none'
   Referrer-Policy: strict-origin-when-cross-origin
 
+/*.txt
+  Content-Type: text/plain; charset=utf-8
+
 /*.css
   Cache-Control: public, max-age=86400
 
