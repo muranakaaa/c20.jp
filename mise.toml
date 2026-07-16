@@ -3,3 +3,4 @@ bun = "1.3.14"
 
 [env]
 SITE_ORIGIN = "https://c20jp.com"
+GA_MEASUREMENT_ID = "G-MNYN75V4GG"

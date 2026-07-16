@@ -45,7 +45,8 @@ describe("renderPage", () => {
 
   test("script タグは除去し、周囲のテキストは保持する", async () => {
     const out = (await renderPage(doc)).toString();
-    expect(out).not.toContain("<script");
+    // コンテンツ中の script は除去する（head の GA タグは別物なので全体からは判定しない）
+    expect(out).not.toContain("alert(1)");
     expect(out).toContain("本文テキスト");
   });
 

@@ -95,6 +95,24 @@ function renderBlock(b: Block): HtmlEscapedString {
 const SITE_NAME = "クリック２０世紀";
 // 正典 URL（canonical）の生成元。デプロイ先確定後に mise.toml の [env] で設定する（未設定なら canonical は出力しない）
 const SITE_ORIGIN = process.env.SITE_ORIGIN?.replace(/\/$/u, "") ?? "";
+// Search Console の所有権確認 meta と GA4。いずれも公開値で、未設定なら出力しない（ビルド時 env）
+const GSC_VERIFICATION = process.env.GSC_VERIFICATION ?? "";
+const GA_MEASUREMENT_ID = process.env.GA_MEASUREMENT_ID ?? "";
+
+// Head に入れる計測タグ。GA4 は SSG なので全ページにビルド時に焼き込む
+function headExtras(): string {
+  const parts: string[] = [];
+  if (GSC_VERIFICATION) {
+    parts.push(`<meta name="google-site-verification" content="${GSC_VERIFICATION}">`);
+  }
+  if (GA_MEASUREMENT_ID) {
+    parts.push(
+      `<script async src="https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}"></script>`,
+      `<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${GA_MEASUREMENT_ID}');</script>`,
+    );
+  }
+  return parts.join("\n");
+}
 
 function canonicalHref(path: string): string {
   if (!SITE_ORIGIN) {
@@ -239,7 +257,7 @@ export function renderPage(doc: PageDoc): HtmlEscapedString | Promise<HtmlEscape
         ${doc.description ? html`<meta name="description" content="${doc.description}" />` : ""}
         ${raw(doc.css.map((c) => `<link rel="stylesheet" href="${cssHref(c)}">`).join("\n"))}
         <link rel="stylesheet" href="/compat.css" />
-        ${raw(canonicalHref(doc.path))} ${raw(jsonLd(doc))}
+        ${raw(canonicalHref(doc.path))} ${raw(jsonLd(doc))} ${raw(headExtras())}
       </head>
       <body>
         <div class="mirror-note">
