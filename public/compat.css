@@ -16,7 +16,7 @@ background-color:#f4f4f8;
 border-bottom:1px solid #99c;
 padding:4px 8px;
 /*　Webフォント（head で CSS を読み込んだときのみ効く。未読込なら既定フォントにフォールバック）　*/
-font-family:"MFW-PReimPr6N-Regular",serif;
+font-family:"MFW-TBCGoStd-Regular",sans-serif;
 }
 .mirror-note a:link,.mirror-note a:visited{
 color:#039;
