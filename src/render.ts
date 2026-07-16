@@ -143,6 +143,29 @@ function canonicalHref(path: string): string {
   return `<link rel="canonical" href="${SITE_ORIGIN}/${p}">`;
 }
 
+function attr(v: string): string {
+  return v.replaceAll("&", "&amp;").replaceAll('"', "&quot;").replaceAll("<", "&lt;");
+}
+
+// OGP / Twitter Card。SNS でリンクを共有したときのカード表示用。head のメタデータのみで本文には触れない
+function ogTags(doc: PageDoc): string {
+  if (!SITE_ORIGIN) {
+    return "";
+  }
+  const url = `${SITE_ORIGIN}/${doc.path === "index.html" ? "" : doc.path}`;
+  const desc = doc.description ?? "";
+  return [
+    `<meta property="og:type" content="website">`,
+    `<meta property="og:site_name" content="${attr(SITE_NAME)}">`,
+    `<meta property="og:title" content="${attr(buildTitle(doc))}">`,
+    desc ? `<meta property="og:description" content="${attr(desc)}">` : "",
+    `<meta property="og:url" content="${attr(url)}">`,
+    `<meta name="twitter:card" content="summary">`,
+  ]
+    .filter(Boolean)
+    .join("\n");
+}
+
 function toHalfWidth(s: string): string {
   return s
     .replaceAll(/[Ａ-Ｚａ-ｚ０-９]/g, (c) =>
@@ -277,7 +300,7 @@ export function renderPage(doc: PageDoc): HtmlEscapedString | Promise<HtmlEscape
         ${doc.description ? html`<meta name="description" content="${doc.description}" />` : ""}
         ${raw(doc.css.map((c) => `<link rel="stylesheet" href="${cssHref(c)}">`).join("\n"))}
         <link rel="stylesheet" href="/compat.css?v=${COMPAT_CSS_VERSION}" />
-        ${raw(canonicalHref(doc.path))} ${raw(jsonLd(doc))} ${raw(headExtras())}
+        ${raw(canonicalHref(doc.path))} ${raw(ogTags(doc))} ${raw(jsonLd(doc))} ${raw(headExtras())}
       </head>
       <body>
         <div class="mirror-note">
